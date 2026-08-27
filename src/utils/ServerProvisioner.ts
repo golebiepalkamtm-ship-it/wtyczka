@@ -314,7 +314,15 @@ export class ServerProvisioner {
     serverId: string
   ): Promise<void> {
     return new Promise((resolve, reject) => {
-      this.logger.log(serverId, `[SETUP:EXEC] ${command} ${args.join(" ")} (cwd: ${cwd})`);
+      const maskedArgs = args.map(arg => {
+        let sanitized = arg;
+        if (process.env.GITHUB_TOKEN && process.env.GITHUB_TOKEN.length > 3) {
+          sanitized = sanitized.split(process.env.GITHUB_TOKEN).join('***TOKEN***');
+        }
+        sanitized = sanitized.replace(/ghp_[a-zA-Z0-9]+/g, 'ghp_***');
+        return sanitized;
+      });
+      this.logger.log(serverId, `[SETUP:EXEC] ${command} ${maskedArgs.join(" ")} (cwd: ${cwd})`);
       const safeCommand = (process.platform === "win32" && command.includes(" ")) ? `"${command}"` : command;
       const child = spawn(safeCommand, args, {
         cwd,
