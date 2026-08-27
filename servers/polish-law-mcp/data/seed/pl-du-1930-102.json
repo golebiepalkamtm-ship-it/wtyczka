@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1930-102",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 1930 r. o ujednostajnieniu terminów płatności państwowego podatku gruntowego i składek za przymusowe ubezpieczenie budowli od ognia w Powszechnym Zakładzie Ubezpieczeń Wzajemnych.",
+  "title_en": "",
+  "short_name": "pl-du-1930-102",
+  "status": "in_force",
+  "issued_date": "1930-02-12",
+  "in_force_date": "1930-03-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/102",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 8 ustawy z dnia 15 czerwca 1923 r. w przedmiocie wyrównania podatków gruntowych tudzież niektórych podatków budynkowych (Dz. U. R. P. Nr 65, poz. 505) w brzmieniu, nadanem przez art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 stycznia 1927 r. o zmianie terminu płatności pierwszej półrocznej raty podatku gruntowego (Dz. U. R. P. Nr 7, poz. 40), otrzymuje następujące brzmienie: „ Podatki gruntowe (art. 1) wraz z oddzielnym dodatkiem (art. 2) mają być płacone w dwóch równych ratach półrocznych: w ciągu miesiąca kwietnia tudzież w czasie pomiędzy 15 października a 15 listopada ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Punki 3 art. 31 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych (Dz. U. R. P. Nr 46, poz. 410) otrzymuje brzmienie następujące: „ Składki są płatne w dwóch równych ratach półrocznych, a mianowicie: pierwsza rata w kwietniu, a druga w czasie od 15 października do 15 listopada i mają być uiszczane w urzędach gminnych (magistratach) na podstawie rejestrów poborowych, sporządzonych przez Powszechny Zakład Ubezpieczeń Wzajemnych ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

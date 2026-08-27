@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1972-190",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lipca 1972 r. o przedłużeniu urlopów macierzyńskich.",
+  "title_en": "",
+  "short_name": "pl-du-1972-190",
+  "status": "repealed",
+  "issued_date": "1972-07-06",
+  "in_force_date": "1972-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1972/190",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Pracownicy przysługuje urlop macierzyński w wymiarze 16 tygodni przy pierwszym porodzie, a w wymiarze 18 tygodni przy każdym następnym porodzie. Urlop w wymiarze 18 tygodni przysługuje także przy pierwszym porodzie, jeżeli jest to poród wieloraki. 2. Co najmniej 2 tygodnie urlopu macierzyńskiego powinny przypadać przed przewidywaną datą porodu, a po porodzie: 1) co najmniej 12 tygodni, gdy urlop wynosi 16 tygodni, 2) co najmniej 14 tygodni, gdy urlop wynosi 18 tygodni. 3. Po porodzie przysługuje urlop macierzyński nie wykorzystany przed porodem aż do wyczerpania wymiaru określonego w ust. 1."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zasiłek połogowy przysługujący z ubezpieczenia społecznego wynosi za cały czas urlopu macierzyńskiego 100% zarobku, pomniejszonego o kwotę podatku od wynagrodzeń i składki na cele emerytalne, niezależnie od stanu rodzinnego pracownicy oraz bez względu na to, czy w okresie tego urlopu przebywa ona w domu, czy w zakładzie leczniczym. 2. Pracownice, którym za czas urlopu macierzyńskiego przysługuje w myśl odrębnych przepisów prawo do wynagrodzenia, zachowują to prawo przez cały czas urlopu macierzyńskiego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pracownicom korzystającym z urlopu macierzyńskiego w dniu 1 lipca 1972 r. przysługuje urlop macierzyński w wymiarze określonym w art. 1. Zasiłek połogowy w wysokości określonej w art. 2 przysługuje w takim wypadku za okres urlopu przypadający po dniu 1 lipca 1972 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W zakresie unormowanym niniejszą ustawą tracą moc dotychczasowe przepisy, a w szczególności: 1) przepisy ustawy z dnia 2 lipca 1924 r. w przedmiocie pracy młodocianych i kobiet ( Dz. U. Nr 65, poz. 636 z późniejszymi zmianami) , 2) przepisy ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym ( Dz. U. Nr 51, poz. 396 z późniejszymi zmianami) , 3) przepisy ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej ( Dz. U. z 1949 r. Nr 11, poz. 72 z późniejszymi zmianami) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 1972 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_1-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

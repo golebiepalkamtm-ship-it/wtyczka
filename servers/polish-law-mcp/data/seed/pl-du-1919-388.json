@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1919-388",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 lipca 1919 r. w przedmiocie umów przyrzeczenia sprzedaży nieruchomości ziemskich.",
+  "title_en": "",
+  "short_name": "pl-du-1919-388",
+  "status": "repealed",
+  "issued_date": "1919-07-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/388",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszelkie umowy, przyrzeczenia sprzedaży nieruchomości ziemskich obowiązują sprzedawcę i nie mogą być rozwiązane jednostronnie na jego żądanie, o ile będąca przedmiotem umowy nieruchomość została oddana w posiadanie nabywcy przed terminem faktycznego wprowadzenia państwowego sądownictwa polskiego w danym okręgu. Do tych umów art. 1590 K. C. nie ma zastosowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do powyższych umów nie stosuje się również art. 241 Ustawy notarjalnej. Jeżeli sprzedawca uchyla się od zawarcia aktu notarjalnego sprzedaży w terminie, przez nabywcę mu wyznaczonym, sąd na żądanie tegoż uzna umowę po myśli art. 1 za przenoszącą na nabywcę prawo własności nieruchomości, będącej przedmiotem umowy. Sprzedawcy nieruchomości ziemskiej służy jedynie prawo poszukiwania od nabywcy reszty umówionej ceny sprzedażnej wraz z odsetkami od dnia objęcia w posiadanie nieruchomości. Suma umówiona w rublach winna być przytem uiszczona według stosunku jeden rb. = 216 fen. = 256 halerzy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza obowiązuje na terenie b. zaboru rosyjskiego z dniem ogłoszenia. Ma ona zastosowanie także do wszelkich prawomocnie jeszcze nie rozstrzygniętych spraw sądowych, wynikłych z tytułu umów, objętych art. 1 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

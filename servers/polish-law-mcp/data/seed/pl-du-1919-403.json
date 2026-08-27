@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1919-403",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lipca 1919 r. zmieniająca postanowienia galicyjskiej ustawy gminnej, obowiązująca na terytorjum b. Galicji.",
+  "title_en": "",
+  "short_name": "pl-du-1919-403",
+  "status": "repealed",
+  "issued_date": "1919-07-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/403",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 5, § 16, § 40 d., § 95 i § 97 ustawy gminnej z dnia 12 sierpnia 1866 r. dz. u. kr. № 19 (zmienionej w § 16 nowelą z 21 marca 1888 r. dz. u. kr. № 40) zostają uchylone w dotychczasowem brzmieniu i mają opiewać jak następuje: § 5. Każda nieruchomość musi należeć do związku pewnej gminy. § 16. Członek gminy, opłacający przynajmniej szóstą część całej sumy podatków bezpośrednich, w gminie do opłaty przypisanych, ma prawo być bez wyboru członkiem Rady gminnej, jeżeli jest obywatelem Państwa Polskiego i nie zachodzi względem niego żadna okoliczność wykluczająca lub wyłączająca, wskazana w §§ 3, 10 i 11 ordynacji wyborczej dla gmin. Za osobę nieużywającą własnowolności wykonywa to prawo jej prawny zastępca lub tegoż pełnomocnik. Wojskowi w czynnej służbie i kobiety, jeżeli chcą z tego prawa korzystać, muszą, wszystkie zaś inne osoby, mające to prawo, mogą je wykonywać przez pełnomocników. Współposiadacze realności umocowują do wejścia w skład Rady gminnej jednego z pośród siebie lub inną osobę. Radnego bez wyboru nie może zastępować kto nie jest obywatelem państwa § 1, nie używa własnowolności, lub względem kogo zachodzą okoliczności wykluczające lub wyłączające w §§ 3, 10 i 11 ordynacji wyborczej dla gmin wskazane. Zastępca może tylko jedną osobę zastępować. Jeżeli zastępca już co do swojej osoby należy do Rady gminnej, głos jego przy głosowaniu podwójnie ma być liczony. § 40. d) uchwalanie w sprawach, odnoszących się do umów gminy z innemi gminami co do stosunków, wskazanych w §§ 2, 3, 4, 95, 96, 97 tej ustawy. § 95. Gminom, należącym do tego samego powiatu politycznego, wolno jest łączyć się z innemi gminami, dla wspólnego zawiadywania wszystkiemi, albo tylko niektóremi sprawami tak własnego (§ 27), jako też poruczonego (§ 28) zakresu działania. Umowa co do sposobu wspólnego zawiadywania sprawami potrzebuje zatwierdzenia politycznej władzy krajowej, która to zatwierdzenie udziela w porozumieniu z Radą powiatową. § 97. Jeżeli gminy łączą się z innemi gminami dla wspólnych zakładów w specjalnych celach ich zakresu działania, wolno jest interesowanym stronom ustanowić organa, potrzebne do zawiadywania temi zakładami, i oznaczyć zakres działania tych organów. Gdyby strony interesowane nie mogły pogodzić się w tej mierze, wydział powiatowy wyda stosowne rozporządzenie. Przepisy tej ustawy, odnoszące się do zakładów gminnych, tyczą się także takich wspólnych zakładów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa ta obowiązuje z dniem 1 sierpnia 1919 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-para_5\",\"symbol\": \"para_5\",\"type\": \"para\",\"name\": \"5\",\"title\": \"§ 5.\"},{\"id\": \"arti_1-para_16\",\"symbol\": \"para_16\",\"type\": \"para\",\"name\": \"16\",\"title\": \"§ 16.\"},{\"id\": \"arti_1-para_40\",\"symbol\": \"para_40\",\"type\": \"para\",\"name\": \"40\",\"title\": \"§ 40.\"},{\"id\": \"arti_1-para_95\",\"symbol\": \"para_95\",\"type\": \"para\",\"name\": \"95\",\"title\": \"§ 95.\"},{\"id\": \"arti_1-para_97\",\"symbol\": \"para_97\",\"type\": \"para\",\"name\": \"97\",\"title\": \"§ 97.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-45",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lutego 1938 r. o przedłużeniu obniżenia komornego.",
+  "title_en": "",
+  "short_name": "pl-du-1938-45",
+  "status": "in_force",
+  "issued_date": "1938-02-01",
+  "in_force_date": "1938-02-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/45",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Obniżenie komornego, przyznane art. 1 i 2 dekretu Prezydenta Rzeczypospolite) z dnia 14 listopada 1935 r. w sprawie obniżenia komornego oraz zmiany ustawy o ochronie lokatorów ( Dz. U. R. P. Nr 82, poz. 504 ) , przedłuża się na czas od dnia 1 grudnia 1937 r. do dnia 31 grudnia 1938 r. (2) Począwszy od dnia 1 stycznia 1939 r. wysokość komornego wzrastać będzie co kwartał o 2 podstawowego komornego aż do osiągnięcia wysokości pełnego podstawowego komornego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Sprawiedliwości i Spraw Wewnętrznych, a także innym właściwym ministrom, o ile chodzi o wysokość komornego w budynkach, nie podlegających ochronie lokatorów, a należących do Skarbu Państwa, banków państwowych, związków samorządu terytorialnego, zakładów ubezpieczeń społecznych oraz innych instytucyj prawa publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. (2) Przepisy jej obowiązują na obszarze województwa śląskiego tylko, jeżeli chodzi o wysokość komornego w budynkach, nie podlegających ochronie lokatorów, a należących do Skarbu Państwa, banków państwowych, związków samorządu terytorialnego, zakładów ubezpieczeń społecznych oraz innych instytucyj prawa publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

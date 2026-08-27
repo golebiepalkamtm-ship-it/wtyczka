@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-233",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 1932 r. o uchyleniu mocy obowiązującej ustawy z dnia 2 marca 1920 r. o organizacji odbudowy technicznej wsi, miast i miasteczek, tudzież rozporządzenia Jenerał Gubernatora Warszawskiego z dnia 1 listopada 1916 r. w przedmiocie komasacji gruntów dla miasta Kalisza.",
+  "title_en": "",
+  "short_name": "pl-du-1932-233",
+  "status": "in_force",
+  "issued_date": "1932-02-25",
+  "in_force_date": "1932-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/233",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Poza uchylonemi na mocy art. 18 ustawy z dnia 6 maja 1924 r. o pomocy państwowej na odbudowę budynków, zniszczonych lub uszkodzonych wskutek działań wojennych (Dz. U. R. P. Nr 49, poz. 492) działami II i III ustawy z dnia 2 marca 1920 r. o organizacji odbudowy technicznej wsi, miast i miasteczek (Dz. U. R. P. Nr 24, poz. 143), oraz poza uchylonemi niektóremi dalszemi postanowieniami tej ustawy na mocy ust. 1 art. 419 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr 23, poz. 202) uchyla się. pozostałą część tejże ustawy oraz rozporządzenie Jenerał Gubernatora Warszawskiego z dnia 1 listopada 1916 r. w przedmiocie komasacji gruntów dla miasta Kalisza (Dz. Roz. Gen. Gub. Nr 56, poz. 211)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z interesowanemi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

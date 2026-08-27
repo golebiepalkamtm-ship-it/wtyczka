@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1981-18",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 lutego 1981 r. o opodatkowaniu podatkiem od wynagrodzeń dodatkowych wynagrodzeń i niektórych innych przychodów.",
+  "title_en": "",
+  "short_name": "pl-du-1981-18",
+  "status": "repealed",
+  "issued_date": "1981-02-11",
+  "in_force_date": "1981-02-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/18",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Poddaje się opodatkowaniu podatkiem od wynagrodzeń, pobieranym na podstawie ustawy z dnia 4 lutego 1949 r. o podatku od wynagrodzeń ( Dz. U. Nr 7, poz. 41 , z 1956 r. Nr 44, poz. 201 , z 1959 r. Nr 11, poz. 60 i z 1963 r. Nr 57, poz. 309 ) : 1) wynagrodzenia ze stosunku pracy wypłacane przez uspołecznione zakłady pracy pracownikom zatrudnionym w tych zakładach jako w drugim lub dalszych miejscach pracy, jeżeli wynagrodzenia w podstawowym i dalszych miejscach pracy łącznie przekraczają kwotę 7.000 zł miesięcznie, z tym jednak że: a) wynagrodzenia otrzymywane przez nauczycieli akademickich, nauczycieli, instruktorów organizacji społecznych pełniących funkcje wychowawcze, lekarzy i innych pracowników medycznych podlegają opodatkowaniu poczynając od trzeciego miejsca pracy, b) wynagrodzenia podatników, na których spoczywa prawny obowiązek utrzymania trzech lub więcej osób, podlegają opodatkowaniu poczynając od trzeciego miejsca pracy, c) wynagrodzenia otrzymywane przez radców prawnych podlegają opodatkowaniu w drugim i dalszych miejscach pracy tylko za pracę na innym stanowisku niż radca prawny, d) w wypadku gdy kwota wynagrodzenia w podstawowym miejscu pracy jest niższa od 7.000 zł, opodatkowaniu w dalszych miejscach pracy podlega tylko nadwyżka łącznej kwoty wynagrodzeń ponad 7.000 zł, 2) nagrody przyznawane pracownikom z obcych środków finansowych, z wyjątkiem nagród państwowych, resortowych i wojewódzkich za szczególne osiągnięcia oraz wypłacanych przez stowarzyszenia wyższej użyteczności - według stawki 10%. 2. Przepis ust. 1 nie ma zastosowania do wynagrodzeń ze stosunku pracy pracowników sezonowych placówek wypoczynku dzieci i młodzieży oraz wynagrodzeń z tytułu świadczenia usług handlowych dla ludności, polegających na roznoszeniu mleka, pieczywa i innych towarów. 3. Minister Finansów w drodze rozporządzenia określi stawki podatku w granicach od 10% do 21,5% od wynagrodzeń: 1) ze stosunku pracy otrzymywanych w drugim i dalszych miejscach pracy, 2) z tytułu umów o dzieło lub umów zlecenia; nie dotyczy to umów, których przedmiotem jest twórczość lub działalność artystyczna, literacka, naukowa, oświatowa lub publicystyczna."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zwalnia się od podatku od wynagrodzeń wynagrodzenia z tytułu umów o dzieło lub umów zlecenia otrzymywane: 1) przez emerytów i rencistów, 2) przez osoby wykonujące na rzecz jednostek gospodarki uspołecznionej dorywcze czynności polegające na wyładowywaniu lub załadowywaniu towarów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 kwietnia 1981 r. i ma zastosowanie do wynagrodzeń wypłacanych od tej daty do dnia 31 grudnia 1983 r. bez względu na okres, za który się należą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pass_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pass_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_1-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

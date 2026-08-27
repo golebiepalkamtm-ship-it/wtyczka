@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1921-5",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 1920 r. w sprawie przejęcia kolei, zbudowanych przez b. władze okupacyjne, pod zarząd Ministerstwa Kolei Żelaznych.",
+  "title_en": "",
+  "short_name": "pl-du-1921-5",
+  "status": "repealed",
+  "issued_date": "1920-12-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/5",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszystkie koleje szerokotorowe i wąskotorowe, zbudowane przez b. władze okupacyjne, oraz te koleje użyteczności prywatnej, które były przeistoczone przez okupantów na. cele użyteczności publicznej-przechodzą pod zarząd Ministerstwa Kolei Żelaznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Eksploatację Kolei ureguluje Ministerstwo Kolei Żelaznych, któremu służy w porozumieniu z Ministerstwem Spraw Wojskowych wyłączne prawo rozbierania i przekazywania poszczególnych linji do użytkowania innym ministerstwom lub instytucjom."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Eksploatacja kolei, przekazanych przez Ministerstwo Kolei Żelaznych innym ministerstwom lub instytucjom, odbywa się pod nadzorem Ministerstwa Kolei Żelaznych, które prowadzi ewidencie wszystkich tych kolei i materjałów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Kolei Żelaznych w porozumieniu z zainteresowanemi ministerstwami i Głównym Urzędem Likwidacyjnym upoważniony jest do wydania przepisów o zaspakajaniu wyniknąć mogących ze stosowania niniejszej ustawy pretensji osób trzecich."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Uprawnienia, zawarte w art. 1-4, przysługują Ministerstwu Kolei Żelaznych na całym obszarze Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dekret o przejęciu kolei, zbudowanych przez b. władze okupacyjne, pod zarząd Ministerstwa Komunikacji z dnia 7 lutego 1919 r. (Dz. Praw № 14, poz. 155) z chwilą wejścia w życie niniejszej ustawy traci moc obowiązującą."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Kolei Żelaznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

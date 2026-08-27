@@ -1,0 +1,770 @@
+{
+  "id": "pl-du-1972-272",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 października 1972 r. o wynalazczości.",
+  "title_en": "",
+  "short_name": "pl-du-1972-272",
+  "status": "repealed",
+  "issued_date": "1972-10-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1972/272",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa normuje stosunki w zakresie wynalazków, wzorów użytkowych i projektów racjonalizatorskich. 2. Używane w dalszych przepisach ustawy określenie „projekty wynalazcze” oznacza wynalazki, wzory użytkowe i projekty racjonalizatorskie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisów ustawy nie stosuje się do: 1) naukowych zasad i odkryć, 2) nowych odmian roślin i ras zwierząt, 3) sposobów leczenia chorób w dziedzinie medycyny i weterynarii oraz ochrony roślin, 4) usprawnień z dziedziny organizacji administracji, 5) programów dla maszyn cyfrowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy ustawy nie naruszają postanowień zawartych w umowach międzynarodowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Obywatele państw obcych oraz zagraniczne osoby prawne korzystają z uprawnień w zakresie spraw wynalazczości na podstawie umów międzynarodowych obowiązujących Polską Rzeczpospolitą Ludową lub na zasadzie wzajemności."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Wynalazczość, jako twórcza praca i istotny czynnik postępu technicznego i rozwoju gospodarki narodowej, korzysta ze szczególnego poparcia Państwa. 2. Jednostki państwowe udzielają obywatelom pomocy w ich pracach nad projektami wynalazczymi w zakresie określonym przez ustawy. Pomocy udzielają również organizacje spółdzielcze, samorządowe oraz inne organizacje społeczne."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Każda jednostka gospodarki uspołecznionej i każdy organ administracji państwowej są obowiązane do organizowania i kierowania sprawami wynalazczości stosownie do swojej właściwości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Rada Ministrów określi w drodze rozporządzenia zasady organizacji spraw wynalazczości w jednostkach gospodarki uspołecznionej. 2. Minister Finansów w porozumieniu z Ministrem Nauki, Szkolnictwa Wyższego i Techniki określi zasady finansowania spraw wynalazczości w jednostkach gospodarki uspołecznionej oraz w porozumieniu z Centralną Radą Związków Zawodowych i Naczelną Organizacją Techniczną zasady finansowania klubów techniki i racjonalizacji."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Twórcy projektu wynalazczego przysługuje, na warunkach określonych w ustawie, prawo do uzyskania patentu, prawa ochronnego, świadectwa autorskiego lub świadectwa racjonalizatorskiego oraz prawo do wynagrodzenia. 2. Twórcy projektu wynalazczego przysługuje prawo, aby wymieniano go w opisach, rejestrach oraz w innych dokumentach i publikacjach jako twórcę projektu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Związki zawodowe, stowarzyszenia techniczne, kluby techniki i racjonalizacji, organizacje młodzieżowe i inne organizacje społeczne, do których zakresu działania należą sprawy popierania wynalazczości, udzielają twórcom projektów wynalazczych pomocy zgodnie ze swymi statutami i regulaminami oraz przepisami ustawy. 2. Organizacje określone w ust. 1 występują w interesie twórców projektów wynalazczych wobec jednostek gospodarki uspołecznionej i ich jednostek oraz organów nadrzędnych w sprawach dotyczących projektów wynalazczych. Dział II Wynalazki i patenty Rozdział 1 Patent tymczasowy. Patent. Świadectwo autorskie"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wynalazkiem podlegającym opatentowaniu jest nowe rozwiązanie o charakterze technicznym, nie wynikające w sposób oczywisty ze stanu techniki i mogące się nadawać do stosowania."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Rozwiązanie uważa się za nowe, jeśli przed datą, według której oznacza się pierwszeństwo do uzyskania patentu, nie zostało udostępnione do wiadomości powszechnej w sposób ujawniający dla znawcy dostateczne dane do jego stosowania, w szczególności przez publikację, jawne stosowanie lub wystawienie na wystawie publicznej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Nie udziela się patentów na: 1) wynalazki, z których korzystanie byłoby sprzeczne z obowiązującym prawem lub porządkiem społecznym; nie dotyczy to przypadków, gdy prawo ogranicza tylko sprzedaż wytworu opatentowanego lub wytworzonego opatentowanym sposobem, 2) środki żywności, środki farmaceutyczne, związki chemiczne oraz produkty przemian jądrowych. 2. Przepis ust. 1 pkt 2 nie dotyczy sposobu wytwarzania środków żywności, środków farmaceutycznych, związków chemicznych oraz produktów przemian jądrowych. Za taki sposób wytwarzania środków żywności i środków farmaceutycznych nie uważa się mieszania składników."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Patenty tymczasowe są udzielane na wynalazki po badaniu ograniczonym (art. 34), a patenty - na wynalazki po badaniu pełnym (art. 35). 2. Ilekroć w ustawie jest mowa o patencie, dotyczy to również patentu tymczasowego, chyba że ustawa stanowi inaczej."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Świadectwo autorskie wydaje się twórcy lub współtwórcom wynalazku, z wyjątkiem przypadku określonego w art. 12 ust. 1. 2. Za współtwórcę wynalazku nie uważa się osoby, która udzieliła tylko pomocy przy dokonaniu wynalazku. 3. Jeżeli zgłaszającym jest obywatel państwa obcego lub zagraniczna osoba prawna, świadectwo autorskie wydaje się tylko na wniosek zgłaszającego lub twórcy. 4. Ilekroć w ustawie jest mowa o twórcy wynalazku, dotyczy to również współtwórców."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Właściwym do udzielania patentów i wydawania dokumentów patentowych (art. 36) oraz świadectw autorskich jest Urząd Patentowy Polskiej Rzeczypospolitej Ludowej, zwany dalej „Urzędem Patentowym”. 2. O udzieleniu patentu oraz wydaniu świadectwa autorskiego dokonuje się wpisu do rejestru patentowego."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Przez uzyskanie patentu nabywa się prawo wyłącznego korzystania z wynalazku w sposób zarobkowy lub zawodowy na całym obszarze Państwa. 2. Patent tymczasowy trwa pięć lat, a patent piętnaście lat od daty zgłoszenia wynalazku w Urzędzie Patentowym. 3. Zakres przedmiotowy patentu określają zastrzeżenia patentowe zawarte w opisie patentowym. 4. Patent na wynalazek dotyczący sposobu wytwarzania rozciąga się także na wytwory uzyskane bezpośrednio tym sposobem. 5. Nie narusza się patentu przez korzystanie z wynalazku dotyczącego środków komunikacji, ich części i urządzeń, które znajdują się na obszarze Państwa przejściowo, oraz przedmiotów, które znajdują się na tym obszarze w komunikacji tranzytowej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Uprawniony z patentu na wynalazek może uzyskać patent dodatkowy dla ulepszeń lub uzupełnień tego wynalazku, jeżeli te ulepszenia lub uzupełnienia posiadają cechy wynalazku, a nie mogą być stosowane samoistnie. Można również uzyskać patent dodatkowy do już otrzymanego patentu dodatkowego. 2. Patent dodatkowy traci moc razem z patentem głównym. Jeżeli jednak patent główny traci moc z przyczyny nie wpływającej na wynalazek objęty patentem dodatkowym, pierwszy patent dodatkowy staje się samoistny i zachowuje moc w okresie, na który został udzielony patent główny. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do świadectw autorskich."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Wynalazek, z którego korzystanie wkraczałoby w zakres patentu udzielonego z wcześniejszym pierwszeństwem (patent wcześniejszy), może być przedmiotem patentu zależnego. 2. Patent zależny staje się niezależnym w razie wygaśnięcia patentu wcześniejszego. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do patentu na wynalazek, z którego korzystanie wkraczałoby w zakres prawa ochronnego na wzór użytkowy udzielonego z wcześniejszym pierwszeństwem."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Kto ma w tym interes prawny, może żądać ustalenia przez Urząd Patentowy, że wskazana produkcja nie jest objęta określonym patentem. Rozdział 2 Prawo do uzyskania patentu i świadectwa autorskiego"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Wynalazek dokonany przez twórcę w wyniku zlecenia lub przy pomocy jednostki gospodarki uspołecznionej albo przez pracownika tej jednostki w zakresie jej działalności i w związku z jego zatrudnieniem w tej jednostce, niezależnie od tego, czy pracownik jest twórcą lub współtwórcą wynalazku, jest wynalazkiem pracowniczym. Prawo do uzyskania patentu na ten wynalazek (prawo do patentu) przysługuje tej jednostce gospodarki uspołecznionej. 2. Umowy zawierane między jednostkami gospodarki uspołecznionej mogą określać jednostkę, której przysługuje prawo do patentu w razie dokonania wynalazku w związku z wykonywaniem tych umów."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Jednostki gospodarki uspołecznionej są obowiązane do zgłaszania w Urzędzie Patentowym projektów wynalazczych mających cechy wynalazku pracowniczego, chyba że jest to nieuzasadnione ze względów gospodarczych. 2. Jeżeli jednostka gospodarki uspołecznionej nie zgłosiła wynalazku pracowniczego w Urzędzie Patentowym i nie zachodzi przypadek określony w ust. 1, twórca tego wynalazku może zgłosić go sam w Urzędzie Patentowym. O zgłoszeniu wynalazku Urząd Patentowy zawiadamia tę jednostkę gospodarki uspołecznionej. 3. Na zgłoszony przez twórcę wynalazek pracowniczy udziela się patentu na rzecz jednostki gospodarki uspołecznionej uprawnionej do patentu lub na rzecz jej następcy prawnego. 4. Jeżeli jednostki określone w ust. 3 oświadczą, że nie ubiegają się o patent na zgłoszony przez twórcę wynalazek pracowniczy, Urząd Patentowy udzieli patentu na rzecz twórcy."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Wynalazek dokonany w warunkach innych niż określone w art. 20 ust. 1 jest wynalazkiem niepracowniczym. Prawo do patentu na ten wynalazek przysługuje wynalazcy lub jego następcy prawnemu, a gdy wynalazku dokonało więcej osób, prawo to przysługuje im wspólnie. 2. Jeżeli przedsiębiorstwo nie będące jednostką gospodarki uspołecznionej zawarło umowę o pracę nad wynalazkami w zakresie swej działalności, prawo do patentu na dokonany wynalazek przysługuje temu przedsiębiorstwu. 3. Jeżeli w przypadkach określonych w ust. 2 ustalone umową wynagrodzenie jest rażąco niskie w stosunku do korzyści osiąganych przez przedsiębiorstwo z wynalazku, pracownik może żądać odpowiednio podwyższonego wynagrodzenia."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Z zastrzeżeniem wyjątków przewidzianych w art. 24 i 25 pierwszeństwo do uzyskania patentu oraz świadectwa autorskiego na wynalazek oznacza się według daty zgłoszenia go w Urzędzie Patentowym."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Pierwszeństwo do uzyskania patentu i świadectwa autorskiego oznacza się według daty wystawienia wynalazku na wystawie publicznej na obszarze Państwa lub za granicą, jeżeli zgłoszenie wynalazku w Urzędzie Patentowym zostanie dokonane w okresie sześciu miesięcy od tej daty. 2. Prezes Urzędu Patentowego w drodze zarządzeń wydawanych na wniosek lub w uzgodnieniu z właściwym ministrem określa wystawy publiczne oraz warunki wystawienia wynalazku, których spełnienie daje pierwszeństwo określone w ust. 1."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Obywatelom państw obcych oraz zagranicznym osobom prawnym państw należących do Międzynarodowego Związku Ochrony Własności Przemysłowej, a także obywatelom i osobom prawnym innych państw, jeżeli mają miejsce zamieszkania lub siedzibę albo prowadzą rzeczywiste i poważne przedsiębiorstwo przemysłowe lub handlowe w jednym z państw należących do tego Związku, przysługuje na zasadach określonych w umowach międzynarodowych, pierwszeństwo do uzyskania patentu w Polskiej Rzeczypospolitej Ludowej według daty pierwszego prawidłowego zgłoszenia wynalazku w celu uzyskania ochrony w jednym z tych państw, jeżeli zgłoszenia wynalazku w Urzędzie Patentowym dokonają w okresie dwunastu miesięcy od tej daty. Rozdział 3 Zgłoszenie wynalazku w Urzędzie Patentowym"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Zgłoszenia wynalazku w celu uzyskania patentu dokonuje się przez wniesienie do Urzędu Patentowego podania wraz z opisem wynalazku ujawniającym jego istotę, zastrzeżeniami patentowymi, skrótem opisu i w razie potrzeby rysunkami. 2. W podaniu zgłaszający powinien określić rodzaj patentu, o jaki się ubiega (patent tymczasowy lub patent). 3. W razie gdy zgłaszający wnosił o udzielenie patentu tymczasowego może on w ciągu czterech lat od daty zgłoszenia, uiszczając opłatę za pełne badanie, złożyć wniosek o udzielenie patentu. 4. Zgłoszenie uważa się za dokonane w czasie, w którym zostało złożone w Urzędzie Patentowym albo nadane w polskim urzędzie pocztowym pod adresem Urzędu Patentowego. 5. Jeżeli wynalazek zgłoszony razem z innym wynalazkiem został następnie na wezwanie Urzędu Patentowego, w terminie przez ten Urząd wyznaczonym, zgłoszony oddzielnie, zgłoszenie to uważa się za dokonane w dacie pierwszego zgłoszenia, jeżeli nie nastąpiła zmiana istoty wynalazku."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Jeżeli zgłaszający wynalazek nie jest jego twórcą, obowiązany jest wskazać w podaniu wynalazcę oraz podstawę swojego prawa do patentu. 2. Prezes Urzędu Patentowego określi szczegółowe wymogi, jakim powinno odpowiadać zgłoszenie wynalazku."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Zgłaszający wynalazek powinien w podaniu złożyć oświadczenie, czy chce skorzystać z prawa pierwszeństwa, wynikającego z wystawienia wynalazku na wystawie publicznej albo ze zgłoszenia dokonanego za granicą (art. 24 i 25)."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Urząd Patentowy może w toku rozpatrywania zgłoszenia wynalazku wydawać postanowienia wzywające zgłaszającego, w wyznaczonym terminie, do uzupełnienia zgłoszenia lub usunięcia wskazanych braków i istotnych usterek. Na postanowienia te służy zażalenie. Wniesienie zażalenia wstrzymuje bieg terminów określonych w postanowieniach. 2. W razie niezastosowania się w wyznaczonym terminie do postanowień, o których mowa w ust. 1, zgłoszenie uważa się za wycofane, a postępowanie umarza się."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Do czasu wydania decyzji w sprawie udzielenia patentu zgłaszający może wprowadzać uzupełnienia i poprawki do zgłoszenia wynalazku, jeżeli nie zmieniają one istoty zgłoszonego wynalazku ani nie uzasadniają zmiany pierwszeństwa do uzyskania patentu."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Zgłaszający wynalazek może w podaniu, w toku rozpatrywania zgłoszenia wynalazku lub w okresie dwóch miesięcy od daty uprawomocnienia się decyzji o odmowie udzielenia patentu, złożyć wniosek o udzielenie prawa ochronnego na wzór użytkowy. Takie zgłoszenie wzoru użytkowego uważa się za dokonane w dacie zgłoszenia wynalazku. Rozdział 4 Rozpatrywanie zgłoszenia"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "W toku postępowania poprzedzającego ogłoszenie o zgłoszeniu wynalazku (art. 33 ust. 1) akta dotyczące tego zgłoszenia nie mogą być bez zgody zgłaszającego ujawnione ani udostępnione osobom nieuprawnionym. Jednakże w toku badania zgłoszenia wynalazku Urząd Patentowy może zasięgać niezbędnych opinii. Osoby uczestniczące w przygotowywaniu i wydawaniu tych opinii są obowiązane do nieujawniania danych dotyczących zgłoszenia."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Urząd Patentowy dokonuje ogłoszenia o zgłoszeniu wynalazku po zbadaniu, że: 1) zgłoszenie wynalazku jest dokonane prawidłowo, 2) zgłoszenie dotyczy rozwiązania o charakterze technicznym, 3) zgłoszony wynalazek nie jest wyłączony spod ochrony (art. 12 ust. 1), 4) zgłoszony wynalazek może nadawać się do stosowania, 5) nie występuje oczywisty brak nowości zgłoszonego wynalazku. 2. W ogłoszeniu o zgłoszeniu wynalazku podaje się imię i nazwisko lub nazwę zgłaszającego i twórcy wynalazku, skrót opisu wynalazku oraz inne dane. 3. Od dnia ogłoszenia, o którym mowa w ust. 1, osoby trzecie mogą zapoznawać się z opisem wynalazku, zastrzeżeniami patentowymi i rysunkami oraz w terminie sześciu miesięcy od ogłoszenia nadsyłać do Urzędu Patentowego swoje uwagi co do istnienia przeszkód uniemożliwiających udzielenie patentu. 4. Jeżeli zgłaszający wynalazek nie wypowie się w wyznaczonym terminie co do istotnych zarzutów Urzędu Patentowego dotyczących braku ustawowych warunków wymaganych do uzyskania patentu, uważa się, że zgłoszenie wycofał, a postępowanie umarza się."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Jeżeli zgłaszający wynalazek ubiega się o udzielenie patentu tymczasowego, Urząd Patentowy po zbadaniu zgłoszenia w zakresie określonym w art. 33 ust. 1 pkt 1-5, ogłoszeniu i sprawdzeniu, czy zgłoszony wynalazek nie był ujawniony w polskim opisie patentowym, opisie ochronnym wzoru użytkowego oraz w zgłoszeniu wynalazku lub wzoru użytkowego, które było ogłoszone, wydaje decyzję w sprawie udzielenia patentu tymczasowego. 2. Po wniesieniu przez zgłaszającego opłaty za pierwszy i ewentualnie dalsze przypadające okresy ochrony Urząd Patentowy udziela patentu tymczasowego. W razie nieuiszczenia opłaty w wyznaczonym terminie, zgłoszenie uważa się za wycofane, a postępowanie umarza się. 3. W przypadku określonym w ust. 1 Urząd Patentowy może zarządzić przeprowadzenie pełnego badania. 4. Jeżeli po przeprowadzeniu pełnego badania okaże się, że brakuje ustawowych warunków wymaganych do uzyskania patentu, Urząd Patentowy odmawia udzielenia patentu tymczasowego lub uchyla decyzję o jego udzieleniu."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. W razie ubiegania się o patent, zgłaszający jest obowiązany złożyć wniosek o pełne badanie oraz uiścić opłatę za to badanie (sprawdzenie ustawowych warunków wymaganych do uzyskania patentu) przed upływem sześciu miesięcy od daty ogłoszenia o zgłoszeniu wynalazku. W razie nieuiszczenia opłaty w tym terminie, zgłoszenie uważa się za wycofane, a postępowanie umarza się. 2. Po przeprowadzeniu pełnego badania Urząd Patentowy wydaje decyzję w sprawie udzielenia patentu. Przepisy art. 34 ust. 2 i 4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Udzielenie patentu stwierdza się przez wydanie dokumentu patentowego. 2. Równocześnie z dokumentem patentowym wydaje się świadectwo autorskie, z wyjątkiem przypadków wymienionych w art. 14 ust. 3. 3. Częścią składową dokumentu patentowego i świadectwa autorskiego jest opis wynalazku wraz z zastrzeżeniami patentowymi i rysunkami (opis patentowy). Opis patentowy publikuje się. 4. Zgłaszający wynalazek obowiązany jest pokryć koszty publikacji opisu patentowego. 5. Prezes Urzędu Patentowego określi szczegółowe zasady rozpatrywania zgłoszenia wynalazku oraz sposób i terminy uiszczania opłaty za publikację opisu patentowego."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Sprostowanie opisu patentowego może dotyczyć tylko błędów drukarskich oraz innych oczywistych pomyłek. 2. O sprostowaniu postanawia Urząd Patentowy określając jednocześnie, czy i w jakim zakresie ma nastąpić ponowna publikacja opisu patentowego oraz czy i w jakim zakresie uprawniony z patentu jest obowiązany pokryć koszty związane z ponowną publikacją opisu patentowego. Na postanowienie to służy zażalenie."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Gdy po udzieleniu patentu na wynalazek zgłoszony zostanie taki sam wynalazek z pierwszeństwem wcześniejszym, uprawniony z patentu powinien złożyć w terminie określonym przez Urząd Patentowy oświadczenie co do zasadności tego zgłoszenia. 2. Jeżeli uprawniony z patentu podniesie zarzut, że zgłoszenie jest bezzasadne, sprawa zostanie przekazana do rozstrzygnięcia w postępowaniu spornym. 3. W razie niezłożenia przez uprawnionego z patentu oświadczenia co do zasadności zgłoszenia, decyzja o udzieleniu patentu zostanie uchylona."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "O udzieleniu patentu na wynalazek oraz wydaniu świadectwa autorskiego, a w razie gdy nastąpiło ogłoszenie o zgłoszeniu wynalazku, także o wycofaniu zgłoszenia, o odmowie udzielenia patentu, o uchyleniu decyzji w sprawie udzielenia patentu, o złożeniu wniosku o udzielenie patentu na wynalazek zgłoszony w celu uzyskania patentu tymczasowego oraz o sprostowaniu opisu patentowego ogłasza się w organie Urzędu Patentowego „Wiadomości Urzędu Patentowego”. Rozdział 5 Prawa i obowiązki z patentu"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Uprawniony z patentu jest obowiązany w okresie czterech lat od zgłoszenia wynalazku lub trzech lat od udzielenia patentu, w zależności od tego, który z tych terminów upływa później, rozpocząć stosowanie wynalazku na obszarze Państwa w zakresie odpowiadającym potrzebom gospodarki narodowej oraz do czasu wygaśnięcia patentu należycie stosować wynalazek. Za stosowanie wynalazku uważa się również jego stosowanie przez inne osoby uprawnione z licencji. Dla wynalazków, które mogą być stosowane dopiero po powstaniu odpowiednich warunków, termin wykonywania obowiązku stosowania wynalazku liczy się od powstania tych warunków. Powstanie tych warunków stwierdza Urząd Patentowy. 2. Urząd Patentowy może żądać od uprawnionego z patentu lub z licencji, aby wskazał, czy i w jaki sposób oraz w jakim zakresie stosuje na obszarze Państwa wynalazek, a także, w razie potrzeby, by wskazał powody niestosowania lub nienależytego stosowania wynalazku."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Kto w chwili stanowiącej o pierwszeństwie do uzyskania patentu w dobrej wierze korzystał z wynalazku na obszarze Państwa, może z niego nadal bezpłatnie korzystać w swoim przedsiębiorstwie w zakresie, w jakim dotychczas korzystał z wynalazku. Prawo to przysługuje również temu, kto w tej samej chwili przygotował już wszystkie istotne urządzenia potrzebne do korzystania z wynalazku. 2. Prawa określone w ust. 1 podlegają na wniosek zainteresowanego wpisowi do rejestru patentowego. Prawa te mogą przejść na inną osobę tylko łącznie z przedsiębiorstwem."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Prawo do patentu oraz patent są zbywalne i podlegają dziedziczeniu. 2. Umowa o przeniesienie praw wymaga zachowania formy pisemnej, z datą urzędowo poświadczoną. W umowach zawieranych między jednostkami gospodarki uspołecznionej poświadczenie daty nie jest wymagane. 3. Przeniesienie patentu staje się skuteczne wobec osób trzecich z chwilą wpisu do rejestru patentowego. 4. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady zawierania umów o przeniesienie praw między jednostkami gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Jeżeli umowa o wspólności patentu nie stanowi inaczej, współuprawniony z patentu może: 1) bez zgody pozostałych współuprawnionych korzystać z wynalazku we własnym zakresie oraz wystąpić przeciwko każdemu, kto dopuścił się naruszenia patentu, 2) za zgodą wszystkich współuprawnionych przenieść swój udział w patencie na inną osobę albo udzielić upoważnienia do korzystania w całości lub części z wynalazku przez inną osobę."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Uprawniony z patentu może w drodze umowy udzielić innej osobie upoważnienia (licencji) do korzystania z jego wynalazku (umowa licencyjna). 2. Umowa licencyjna wymaga zachowania formy pisemnej, z datą urzędowo poświadczoną. W umowach zawieranych między jednostkami gospodarki uspołecznionej poświadczenie daty nie jest wymagane. 3. Licencja podlega na wniosek zainteresowanego wpisowi do rejestru patentowego. Uprawniony z licencji wyłącznej wpisanej do rejestru patentowego może na równi z uprawnionym z patentu dochodzić roszczeń z powodu naruszenia patentu, chyba że umowa licencyjna stanowi inaczej. 4. Jeżeli w umowie licencyjnej inaczej nie postanowiono, udzielenie licencji nie wyklucza możliwości udzielenia dalszej licencji na korzystanie z wynalazku, a także jednoczesnego korzystania z wynalazku przez uprawnionego z patentu. 5. Licencja upoważnia do korzystania z wynalazku w całości, chyba że umowa licencyjna zastrzega tylko częściowo korzystanie z wynalazku."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Uprawniony z licencji na korzystanie z wynalazku może udzielić sublicencji tylko za zgodą uprawnionego z patentu; udzielenie dalszej sublicencji jest niedozwolone. 2. Do sublicencji stosuje się odpowiednio przepisy art. 44."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Urząd Patentowy może udzielić zezwolenia (licencji przymusowej) na korzystanie z wynalazku, stanowiącego przedmiot patentu innej osoby, gdy: 1) korzystanie z wynalazku jest konieczne dla realizacji zadań objętych planami gospodarczymi, a uprawniony z patentu nie godzi się na zawarcie umowy licencyjnej (art. 44), 2) zostało stwierdzone, że wynalazek nie jest należycie stosowany (art. 40), 3) uprawniony z patentu zależnego zwróci się o ustanowienie na jego rzecz licencji przymusowej na korzystanie z wynalazku będącego przedmiotem patentu wcześniejszego (art. 18). 2. W przypadku określonym w ust. 1 pkt 2 Urząd Patentowy postanowi, że można ubiegać się o licencję przymusową oraz ogłosi o tym w „Wiadomościach Urzędu Patentowego”. 3. Korzystający z wynalazku na podstawie licencji przymusowej obowiązany jest uiszczać na rzecz uprawnionego odpowiednie wynagrodzenia (opłatę licencyjną). 4. W decyzji o ustanowieniu licencji przymusowej zostaną określone w szczególności: zakres i czas trwania licencji, szczegółowe warunki jej wykonywania, wysokość opłaty licencyjnej oraz sposób jej zapłaty. 5. Do licencji przymusowych stosuje się przepisy art. 44 ust. 5 oraz art. 45. 6. Licencja przymusowa może być przez uprawnionego przeniesiona tylko łącznie z przedsiębiorstwem, w którym jest wykonywana."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "W przypadkach określonych w art. 46 ust. 1 może być ustanowiona licencja przymusowa także na prawach wynikających z umów licencyjnych (sublicencja przymusowa). Art. 44 ust. 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Decyzja o ustanowieniu licencji lub sublicencji przymusowej w części dotyczącej treści licencji albo sublicencji lub wysokości opłaty za licencję (sublicencję) może być po upływie dwóch lat zmieniona na wniosek zainteresowanego lub z urzędu, jeżeli wskutek istotnej zmiany stosunków okaże się to ze względu słuszności konieczne."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Licencja przymusowa nie może przyznawać osobie, która licencję uzyskała, wyłącznego prawa korzystania z wynalazku."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Zawieranie umów o wykonywanie praw uzyskanych w Polskiej Rzeczypospolitej Ludowej przez obywateli państw obcych oraz zagraniczne osoby prawne następuje za pośrednictwem jednostek gospodarki uspołecznionej upoważnionych przez Ministra Handlu Zagranicznego. 2. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady postępowania w sprawach określonych w ust. 1."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "W razie zgłoszenia wynalazku albo uzyskania patentu lub świadectwa autorskiego przez osobę nieuprawnioną, uprawniony może żądać odrzucenia zgłoszenia albo unieważnienia patentu lub świadectwa autorskiego. Może również żądać udzielenia mu patentu lub świadectwa autorskiego, a także przeniesienia na niego już udzielonego patentu za zwrotem kosztów zgłoszenia wynalazku lub uzyskania patentu i świadectwa autorskiego."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Kto zgłosił wynalazek lub uzyskał patent i świadectwo autorskie, nie będąc do tego uprawniony, jest obowiązany wydać uprawnionemu uzyskane korzyści i naprawić wyrządzoną szkodę na zasadach ogólnych. Na żądanie uprawnionego jest ponadto obowiązany do ogłoszenia w czasopismach stosownego oświadczenia, a także, gdy działał umyślnie, do zapłaty odpowiedniej kwoty pieniężnej na rzecz Naczelnej Organizacji Technicznej na cele popierania wynalazczości."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Ten, którego patent został naruszony może żądać zaniechania naruszenia, usunięcia jego skutków oraz wydania uzyskanych korzyści albo wynagrodzenia szkody, na zasadach ogólnych. 2. Kto naruszył patent obowiązany jest ponadto na żądanie uprawnionego do ogłoszenia w czasopismach stosownego oświadczenia, a także, gdy działał umyślnie, do zapłaty odpowiedniej kwoty pieniężnej na rzecz Naczelnej Organizacji Technicznej na cele popierania wynalazczości. 3. Jeżeli przedmiotem patentu jest sposób wytwarzania nowego wytworu, domniemywa się, że wytwór, który może być uzyskany opatentowanym sposobem, został wytworzony tym sposobem. 4. Sąd lub państwowa komisja arbitrażowa rozstrzygając w sprawie o naruszenie patentu może orzec na wniosek uprawnionego również o bezprawnie wytworzonych wyrobach i środkach użytych do ich wytwarzania. 5. Roszczenia z powodu naruszenia patentu tymczasowego można dochodzić po sprawdzeniu przez Urząd Patentowy w toku pełnego badania ustawowych warunków wymaganych do uzyskania patentu."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Roszczenia z powodu naruszenia patentu ulegają przedawnieniu z upływem trzech lat. Bieg przedawnienia rozpoczyna się od dnia wymagalności roszczenia, oddzielnie co do każdego naruszenia. Bieg przedawnienia ulega zawieszeniu w okresie pomiędzy zgłoszeniem wynalazku w Urzędzie Patentowym a udzieleniem patentu oraz w okresie przeprowadzania przez Urząd Patentowy pełnego badania. Rozdział 6 Wynalazek tajny"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. Wynalazek dokonany przez obywatela polskiego uważa się za wynalazek tajny, jeżeli wchodzi w zakres obrony państwa albo wymaga zachowania tajemnicy ze względu na interesy Państwa. 2. W zakres obrony Państwa wchodzą wynalazki dotyczące w szczególności nowych rodzajów broni, sprzętu wojskowego, sposobów walki lub innych zagadnień ściśle wojskowych. 3. Minister Obrony Narodowej może szczegółowo określić, jakiego rodzaju wynalazki wchodzą w zakres obrony Państwa. 4. Wynalazek tajny stanowi tajemnicę państwową. 5. O tajności wynalazku wchodzącego w zakres obrony Państwa postanawia Minister Obrony Narodowej, a w innych przypadkach - minister właściwy ze względu na przedmiot wynalazku."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Wszelkie prace nad wynalazkiem tajnym, zgłoszenie go do opatentowania oraz postępowanie w celu rozpatrzenia zgłoszenia mogą być podejmowane tylko przy zabezpieczeniu tajności. 2. Obowiązek zabezpieczenia tajności wynalazku ciąży na wynalazcy i osobach pracujących przy wynalazku, a także na kierowniku jednostki gospodarki uspołecznionej, w której są lub były prowadzone prace nad wynalazkiem tajnym."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Twórca wynalazku, mającego cechy tajności ze względu na obronę Państwa, obowiązany jest przy zgłaszaniu wynalazku w Urzędzie Patentowym wynalazek ten podać niezwłocznie do wiadomości Ministerstwa Obrony Narodowej. Obowiązek ten w odniesieniu do wynalazków pracowniczych ciąży na kierownikach właściwych jednostek gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Urząd Patentowy przesyła Ministerstwu Obrony Narodowej wykazy zgłoszonych w tym Urzędzie wynalazków oraz na żądanie tego Ministerstwa również opisy i rysunki zgłoszonych w tym Urzędzie wynalazków, wchodzących w zakres obrony Państwa. 2. Akty zgłoszenia wynalazku tajnego wraz z opisem i rysunkami mogą być udostępnione do wglądu organom upoważnionym przez właściwego ministra (art. 55 ust. 5)."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Zgłoszenia wynalazku tajnego w celu opatentowania nie ogłasza się. 2. Właściwy minister (art. 55 ust. 5) może żądać odroczenia na czas określony ogłoszenia o zgłoszeniu wynalazku, jeżeli zachodzi przypuszczenie, że posiada cechy wynalazku tajnego."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "1. Prawo do patentu na wynalazek tajny, który dotyczy spraw z zakresu obrony Państwa, przechodzi na Skarb Państwa. 2. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady ustalania wysokości i wypłaty odszkodowań uprawnionym do patentu oraz właściwe organy i tryb postępowania w tych sprawach."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Opisu patentowego wynalazku tajnego nie publikuje się. 2. O udzieleniu patentu na wynalazek tajny dokonuje się wpisu do części tajnej rejestru patentowego. 3. Ujawnienie wynalazku tajnego lub zgłoszenie go w celu uzyskania ochrony za granicą oraz udostępnienie takiego wynalazku lub zbycie prawa do patentu na taki wynalazek cudzoziemcom nie jest dozwolone bez uprzedniego zezwolenia właściwego ministra (art. 55 ust. 5). Udzielenie zezwolenia na zgłoszenie za granicą lub zbycie prawa za granicą wymaga uzgodnienia z Ministrem Handlu Zagranicznego."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Wynalazek tajny może być pozbawiony cech wynalazku tajnego w trybie określonym w art. 55 ust. 5."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Postępowanie w sprawach wynalazków tajnych ustalą szczegółowe przepisy wydane przez Ministra Obrony Narodowej i Ministra Spraw Wewnętrznych. Rozdział 7 Unieważnienie i wygaśnięcie patentu"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Patent może być na wniosek każdej osoby, która ma w tym interes prawny, unieważniony przez Urząd Patentowy w całości lub w części, jeżeli nie zostały spełnione ustawowe warunki wymagane do uzyskania patentu. 2. W interesie publicznym Prokurator Generalny Polskiej Rzeczypospolitej Ludowej może wystąpić o unieważnienie patentu albo przystąpić do toczącego się postępowania w tej sprawie. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do świadectw autorskich."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. Kto w dobrej wierze uzyskał albo nabył patent, unieważniony następnie z przyczyny określonej w art. 38 lub przeniesiony na podstawie art. 51 na rzecz osoby uprawnionej do tego patentu, albo uzyskał licencję z tego patentu, a korzystał z wynalazku co najmniej przez okres jednego roku przed wszczęciem sprawy o unieważnienie lub o przeniesienie patentu lub w ciągu tego okresu przygotował wszystkie istotne urządzenia potrzebne do korzystania z wynalazku, może z tego wynalazku korzystać w swoim przedsiębiorstwie w zakresie, w jakim z niego korzystał w czasie wszczęcia tej sprawy, z zastrzeżeniem obowiązku uiszczania uprawnionemu z patentu odpowiedniego wynagrodzenia. W razie braku porozumienia wysokość wynagrodzenia określa się w drodze postępowania spornego. 2. Prawa do korzystania z wynalazku, określone w ust. 1, podlegają na wniosek zainteresowanego wpisowi do rejestru patentowego. Prawa te mogą przejść na inną osobę tylko łącznie z przedsiębiorstwem."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Urząd Patentowy w przypadkach określonych w art. 46 może wydać decyzję o wygaśnięciu patentu, gdy: 1) po upływie dwóch lat od udzielenia pierwszej licencji przymusowej wynalazek nadal nie jest należycie stosowany, 2) licencja przymusowa nie została ustanowiona w terminie jednego roku od ogłoszenia o możliwości ubiegania się o licencję."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Urząd Patentowy wyda decyzję o wygaśnięciu patentu w przypadku: 1) zrzeczenia się patentu przez uprawnionego wobec Urzędu Patentowego za zgodą osób, którym służą prawa na patencie, albo 2) zalegania z opłatą (art. 115) ponad sześć miesięcy. 2. Urząd Patentowy uchyli decyzję, w której orzeczono o wygaśnięciu patentu z przyczyny określonej w ust. 1 pkt 2, gdy przywrócony został termin do uiszczenia zaległej opłaty."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "O unieważnieniu i wygaśnięciu patentu dokonuje się z urzędu wpisu do rejestru patentowego i ogłasza w „Wiadomościach Urzędu Patentowego”."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Kto rozpoczął korzystanie z wynalazku albo poczynił niezbędne przygotowania do korzystania z wynalazku, na który patent wygasł z powodu zalegania z opłatą (art. 67 ust. 1 pkt 2), uprawniony jest do korzystania z niego także w razie uchylenia decyzji o wygaśnięciu patentu (art. 67 ust. 2) z zastrzeżeniem uiszczenia od daty tego uchylenia słusznego wynagrodzenia uprawnionemu z patentu. W sprawach tych Urząd Patentowy rozstrzyga w trybie postępowania spornego. Przepis art. 65 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Patent nie przysługujący Skarbowi Państwa lub państwowej jednostce organizacyjnej może być w uzasadnionych przypadkach wywłaszczony na rzecz Skarbu Państwa na cele obrony Państwa lub wykonania zadań określonych w planach gospodarczych. 2. Wywłaszczenie patentu następuje za odszkodowaniem. 3. Wywłaszczony może żądać, aby wywłaszczeniem objęto także jego patenty dodatkowe. 4. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady wywłaszczania patentów, ustalania wysokości i wypłaty odszkodowań oraz właściwe organy i tryb postępowania w tych sprawach. Rozdział 8 Wykonywanie praw za granicą"
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Wynalazek, będący przedmiotem prawa do patentu jednostki gospodarki uspołecznionej lub polskiej osoby prawnej nie będącej jednostką gospodarki uspołecznionej bądź obywatela polskiego, może być zgłoszony za granicą w celu uzyskania ochrony dopiero po zgłoszeniu go w Urzędzie Patentowym."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1. Zgłoszenie za granicą wynalazku określonego w art. 71, jak również zawieranie umów o wykonywanie prawa uzyskanego za granicą, następuje za pośrednictwem jednostek gospodarki uspołecznionej upoważnionych przez Ministra Handlu Zagranicznego. 2. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, możliwości odstępstwa od zasady przyjętej w ust. 1 oraz ustali warunki i tryb postępowania w sprawach określonych w ust. 1. Dział III Wióry użytkowe i prawa ochronne"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Wzorem użytkowym podlegającym ochronie jest nowe i użyteczne rozwiązanie o charakterze technicznym dotyczące kształtu, budowy lub zestawienia przedmiotu o trwałej postaci."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. Na wzory użytkowe udzielane są prawa ochronne. 2. Udzielenie prawa ochronnego stwierdza się przez wydanie świadectwa ochronnego."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "1. Właściwym do udzielania praw ochronnych i wydawania świadectw ochronnych oraz świadectw autorskich na wzór użytkowy jest Urząd Patentowy. 2. O udzieleniu prawa ochronnego oraz o wydaniu świadectwa autorskiego na wzór użytkowy dokonuje się wpisu do rejestru praw ochronnych."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Przez uzyskanie prawa ochronnego nabywa się prawo wyłącznego korzystania z wzoru użytkowego w sposób zarobkowy lub zawodowy na całym obszarze Państwa. 2. Prawo ochronne trwa pięć lat od daty zgłoszenia wzoru użytkowego w Urzędzie Patentowym. Na wniosek uprawnionego z prawa ochronnego może ono być przedłużone do dalszych pięciu lat. 3. Zakres przedmiotowy prawa ochronnego określają zastrzeżenia ochronne zawarte w opisie ochronnym wzoru użytkowego."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "1. Jeżeli opatentowany wynalazek posiada również cechy wzoru użytkowego, uprawniony z patentu może zgłosić wniosek o zmianę patentu na prawo ochronne. Przepis ten nie dotyczy patentu tymczasowego. 2. Na wniosek zainteresowanego i po uiszczeniu przez niego opłaty za pełne badanie, prawo ochronne może być w uzasadnionych przypadkach zamienione na patent. Przepis art. 35 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Do wzorów użytkowych i praw ochronnych stosuje się odpowiednio przepisy o wynalazkach i patentach zawarte w art. 11, art. 12 ust. 1, art. 14, art. 16 ust. 5, art. 17-25, art. 26 ust. 1, 4 i 5, art. 27-30, art. 32-34 oraz art. 36-72. Dział IV Projekty racjonalizatorskie"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Projektem racjonalizatorskim jest nowe i mogące nadawać się do stosowania w jednostce gospodarki uspołecznionej rozwiązanie o charakterze technicznym lub techniczno-organizacyjnym, nie będące wynalazkiem lub wzorem użytkowym, a w szczególności rozwiązanie dotyczące: a) maszyn, urządzeń i wyrobów, b) sposobów wytwarzania, c) sposobów pomiaru i kontroli, d) ulepszeń lub uzupełnień maszyn, urządzeń i wyrobów, sposobów wytwarzania oraz sposobów pomiaru i kontroli, zwłaszcza jeżeli umożliwia ono zwiększenie wydajności pracy lub pełniejsze wykorzystanie środków pracy bądź też przynosi efekty w dziedzinie bezpieczeństwa i higieny pracy lub ochrony naturalnego środowiska człowieka."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1. Projekt racjonalizatorski uważa się za nowy, jeżeli w jednostce gospodarki uspołecznionej, w której został zgłoszony, nie był uprzednio zgłoszony przez inną osobę lub nie był stosowany albo nie był zamieszczony w planach tej jednostki lub polecony do stosowania przez jednostkę nadrzędną ze wskazaniem jego istoty i sposobu rozwiązania zagadnienia. 2. Projekt racjonalizatorski może również polegać na twórczym przystosowaniu znanego rozwiązania do potrzeb jednostki gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Projekty racjonalizatorskie, które nie mogą być stosowane niezależnie od siebie, uważa się za jeden projekt racjonalizatorski."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Projekt racjonalizatorski, który stanowi ulepszenie lub uzupełnienie innego projektu stosowanego w danej jednostce gospodarki uspołecznionej, odpowiadający warunkom art. 79 i 80, uważa się za samodzielny projekt racjonalizatorski tylko w części obejmującej to ulepszenie lub uzupełnienie."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Jeżeli zgłoszony został w jednostce gospodarki uspołecznionej projekt racjonalizatorski taki sam jak projekt zgłoszony w tej jednostce wcześniej przez inną osobę, lecz nie przyjęty wówczas do stosowania, za twórcę uważa się osobę, która zgłosiła projekt wcześniej."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Świadectwo racjonalizatorskie wydaje się twórcy lub współtwórcom projektu racjonalizatorskiego przyjętego do stosowania. Przepis art. 14 ust. 2 stosuje się odpowiednio. 2. Świadectwo racjonalizatorskie wydaje jednostka gospodarki uspołecznionej, w której projekt został po raz pierwszy przyjęty do stosowania."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Gdy zostanie stwierdzone, że przedmiotem projektu racjonalizatorskiego jest rozwiązanie, które jest również przedmiotem chronionego w Polskiej Rzeczypospolitej Ludowej wynalazku lub wzoru użytkowego, świadectwo racjonalizatorskie zostanie unieważnione na wniosek osoby zainteresowanej. Decyzję o unieważnieniu świadectwa racjonalizatorskiego wydaje Urząd Patentowy."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Do projektów racjonalizatorskich stosuje się odpowiednio art. 55 ust. 1-4, art. 56 oraz art. 63. Dział V Stosowanie projektów wynalazczych w gospodarce uspołecznionej"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "1. Jednostki gospodarki uspołecznionej mogą stosować chronione wynalazki i wzory użytkowe oraz projekty wynalazcze stanowiące tajemnicę innych jednostek gospodarki uspołecznionej na podstawie umów o stosowanie projektu wynalazczego. Umowy te mają charakter odpłatny, chyba że strony ustalą inaczej. 2. W umowie o stosowanie projektu wynalazczego jednostka gospodarki uspołecznionej uprawniona z patentu lub z prawa ochronnego upoważnia inną jednostkę gospodarki uspołecznionej do stosowania wynalazku lub wzoru użytkowego oraz udostępnia posiadane doświadczenia techniczno-organizacyjne dotyczące tego wynalazku lub wzoru użytkowego. 3. Przepis ust. 2 stosuje się odpowiednio do umów o stosowanie zgłoszonego w Urzędzie Patentowym wynalazku lub wzoru użytkowego, na który nie udzielono jeszcze patentu lub prawa ochronnego, jak również do umów o udostępnienie nie chronionego wynalazku lub wzoru użytkowego albo projektu racjonalizatorskiego, stanowiących tajemnicę jednostki gospodarki uspołecznionej. 4. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady zawierania umów o stosowanie projektu wynalazczego między jednostkami gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Twórca pracowniczego projektu wynalazczego obowiązany jest zgłosić projekt w tej jednostce gospodarki uspołecznionej, w której projekt został dokonany. Projekt ten stanowi tajemnicę służbową, chyba że kierownik jednostki postanowi inaczej."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "1. Twórca wynalazku niepracowniczego może go zgłosić w jednostce gospodarki uspołecznionej na zasadach przewidzianych dla pracowniczych projektów wynalazczych. Przejście prawa do patentu następuje z chwilą zgłoszenia wynalazku w tej jednostce. 2. Przepis ust. 1 stosuje się odpowiednio do twórcy niepracowniczego wzoru użytkowego."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "1. Jednostka gospodarki uspołecznionej bada, czy zgłoszony projekt wynalazczy może być stosowany. 2. Koszty badania i prób potrzebnych dla dokonania oceny projektu wynalazczego ponosi jednostka gospodarki uspołecznionej. Ponadto jednostka ta obowiązana jest dokonać swoim kosztem potrzebnych uzupełnień zgłoszenia, jeżeli twórca projektu nie może tego dokonać. 3. Jednostka gospodarki uspołecznionej po zbadaniu zgłoszonego projektu wynalazczego (ust. 1) wydaje decyzję o przyjęciu projektu do stosowania w całości lub w ograniczonym zakresie albo o odmowie przyjęcia projektu ze względu na jego nieprzydatność dla tej jednostki."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "1. Twórca projektu wynalazczego ma prawo, a w razie potrzeby i obowiązek, uczestniczenia w pracach związanych z oceną przydatności i realizacją jego projektu w jednostkach gospodarki uspołecznionej. 2. Twórca projektu wynalazczego nie zatrudniony w jednostce gospodarki uspołecznionej, która projekt realizuje, ma prawo żądania zawarcia z nim umowy o uczestniczenie w pracach związanych z realizacją jego projektu. Od decyzji odmawiającej zawarcia takiej umowy twórca może się odwołać do jednostki nadrzędnej. 3. W razie zawarcia umowy o uczestniczenie w pracach wymienionych w ust. 1 twórca ma prawo do bezpłatnego urlopu w zatrudniającym go zakładzie pracy na okres trwania tej umowy, przy zachowaniu wszystkich przysługujących mu dodatkowych świadczeń. Okres urlopu bezpłatnego zalicza się do okresu zatrudnienia w zakresie wszelkich uprawnień, uzależnionych od ilości lat pracy albo od ciągłości pracy w danym zawodzie lub służbie bądź w szczególnych warunkach, od których zależy nabycie tych uprawnień. W jednostce realizującej projekt wynalazczy twórcy przysługuje uprawnienie do urlopu wypoczynkowego i do świadczeń z ubezpieczenia społecznego na takich samych zasadach jak w zatrudniającym go zakładzie pracy, w którym otrzymał urlop bezpłatny."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Jeżeli wynalazek pracowniczy został uznany za nieprzydatny do stosowania w jednostce gospodarki uspołecznionej uprawnionej do patentu lub z patentu na ten wynalazek oraz nie zawarto umowy o przeniesienie prawa lub umowy o stosowanie projektu wynalazczego, jednostka ta może nieodpłatnie przenieść prawo do patentu lub patent na rzecz twórcy tego wynalazku. 2. Przepis ust. 1 stosuje się odpowiednio do pracowniczego wzoru użytkowego. Dział VI Wynagrodzenie za pracownicze projekty wynalazcze"
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "1. Twórca pracowniczego projektu wynalazczego przyjętego do stosowania w jednej lub więcej jednostkach gospodarki uspołecznionej ma prawo do wynagrodzenia na zasadach określonych w ustawie. 2. Podstawą do ustalenia wysokości wynagrodzenia za pracowniczy projekt wynalazczy są efekty uzyskane przez stosowanie projektu. 3. Ilekroć w ustawie jest mowa o efektach uzyskanych przez stosowanie projektu wynalazczego, dotyczy to również efektów uzyskanych przez wykonywanie prawa do patentu lub do prawa ochronnego albo patentu lub prawa ochronnego. 4. Za pracowniczy projekt wynalazczy może być także ustalone na podstawie przewidywanych efektów wynagrodzenie ryczałtowe określone w umowie zawartej między twórcą a jednostką gospodarki uspołecznionej, w której projekt przyjęto do stosowania. 5. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, przypadki, w których nie stosuje się przepisów ust. 1-4 do niektórych twórców projektów racjonalizatorskich zatrudnionych w jednostkach gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "1. Wynagrodzenie za pracowniczy wynalazek wypłaca się corocznie za okres faktycznego stosowania wynalazku w gospodarce uspołecznionej, jednakże nie dłużej niż za okres pierwszych pięciu lat jego stosowania. 2. W uzasadnionych przypadkach za pracowniczy wynalazek może być wypłacone odpowiednio zmniejszone wynagrodzenie za okres nie przekraczający dalszych pięciu lat. 3. Do okresów przewidzianych w ust. 1 i 2 nie wlicza się czasu próbnego stosowania wynalazku oraz stosowania wynalazku po upływie piętnastu lat od daty zgłoszenia go w Urzędzie Patentowym, chyba że szczególne względy uzasadniają przedłużenie tego okresu. 4. Przepisy dotyczące wynagrodzenia za wynalazek stosuje się odpowiednio wtedy, gdy projekt mający cechy wynalazku pracowniczego nie został ze względów gospodarczych zgłoszony w Urzędzie Patentowym w celu uzyskania patentu (art. 21 ust. 1)."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "Wynagrodzenie za pracowniczy wynalazek przysługuje także wówczas, gdy patent wygasł na skutek zrzeczenia się go lub zalegania z opłatą (art. 67 ust. 1)."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Wynagrodzenie za pracowniczy wzór użytkowy oraz projekt racjonalizatorski wypłaca się za okres faktycznego stosowania wzoru użytkowego lub projektu racjonalizatorskiego w gospodarce uspołecznionej, jednakże nie dłużej niż za okres stosowania w ciągu dwunastu miesięcy. 2. Za podstawę ustalenia wynagrodzenia przyjmuje się najwyższe efekty uzyskane ze stosowania wzoru użytkowego lub projektu racjonalizatorskiego w ciągu dwunastu miesięcy w okresie pierwszych dwóch lat jego stosowania. Przepis art. 94 ust. 3 stosuje się odpowiednio. 3. Wynagrodzenie za pracowniczy wzór użytkowy nie przysługuje po upływie dziesięciu lat od daty zgłoszenia wzoru w Urzędzie Patentowym. Przepisy art. 94 ust. 4, art. 95 i art. 97 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "1. Do czasu opatentowania pracowniczego wynalazku wypłaca się twórcy tymczasowe wynagrodzenie według zasad przewidzianych dla wynagrodzeń za projekty racjonalizatorskie. Tymczasowe wynagrodzenie potrąca się z wynagrodzenia wypłaconego za wynalazek. 2. Przepisu ust. 1 nie stosuje się w przypadkach określonych w art. 93 ust. 4 i art. 94 ust. 4."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Jeżeli wynagrodzenie określone w umowie o dokonanie pracowniczego projektu wynalazczego jest niższe niż wynagrodzenie, jakie przysługiwałoby na podstawie przepisów art. 93-97, twórca projektu ma prawo do wynagrodzenia ustalonego według tych przepisów."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Jeżeli przyjęty do stosowania pracowniczy projekt wynalazczy nie może być niezwłocznie stosowany, a ma być stosowany dopiero w przyszłości, twórca projektu ma prawo do tymczasowego wynagrodzenia w wysokości ustalonej przez jednostkę nadrzędną. Wynagrodzenie tymczasowe podlega potrąceniu z wynagrodzenia, jakie zostanie wypłacone twórcy po zastosowaniu projektu. W razie niezastosowania projektu tymczasowe wynagrodzenie nie podlega zwrotowi."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "W przypadku uzyskania przez gospodarkę uspołecznioną korzyści w związku ze zgłoszeniem wynalazku lub wzoru użytkowego za granicą w celu uzyskania ochrony (art. 72) albo jego udostępnieniem za granicą, twórca tego wynalazku lub wzoru użytkowego ma prawo do dodatkowego wynagrodzenia, ustalonego na podstawie uzyskanych korzyści."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "Twórca pracowniczego projektu wynalazczego ma prawo do odrębnego wynagrodzenia za dostarczenie dokumentacji przydatnej do stosowania projektu."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "1. Kwoty wypłacone tytułem wynagrodzenia za pracowniczy projekt wynalazczy nie podlegają zwrotowi. 2. Przepisu ust. 1 nie stosuje się, gdy wypłata wynagrodzenia nastąpiła na rzecz osoby działającej w złej wierze albo w wyniku karalnego czynu."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "Do wynagrodzeń za pracownicze projekty wynalazcze w sprawach nie uregulowanych w ustawie stosuje się odpowiednio przepisy prawa cywilnego ."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "Wynagrodzenie za pracowniczy projekt wynalazczy ustala i wypłaca jednostka gospodarki uspołecznionej, w której projekt przyjęto do stosowania."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "1. Jeżeli twórca pracowniczego projektu wynalazczego nie zgadza się z decyzją jednostki gospodarki uspołecznionej w sprawie wynagrodzenia za jego projekt, może się odwołać do jednostki nadrzędnej. 2. Twórca niezadowolony z decyzji jednostki nadrzędnej (ust. 1) może dochodzić roszczenia o wynagrodzenie za projekt wynalazczy przed sądem wojewódzkim właściwym ze względu na siedzibę jednostki gospodarki uspołecznionej zobowiązanej do wypłaty wynagrodzenia. Twórca nie ma obowiązku uiszczania kosztów sądowych."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "1. Osoba, która w jednostce gospodarki uspołecznionej udzieliła twórcy pracowniczego projektu wynalazczego pomocy w dokonaniu lub opracowaniu projektu, ma prawo do wynagrodzenia. 2. Osobom, które współdziałały przy realizacji pracowniczego projektu wynalazczego albo przyczyniły się do przyspieszenia jego stosowania lub jego rozpowszechnienia, przyznaje się nagrody. 3. Nagrody mogą być przyznawane również twórcom projektów racjonalizatorskich, jeżeli na mocy przepisów wydanych na podstawie art. 93 ust. 5 nie przysługuje im prawo do wynagrodzenia."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "1. Rada Ministrów w rozporządzeniu, o którym mowa w art. 7, określi szczegółowo zasady: 1) ustalania wysokości wynagrodzenia za pracownicze projekty wynalazcze oraz wynagrodzeń przewidzianych w art. 106 ust. 1, a także określi jednostki właściwe do wypłacania tych wynagrodzeń, 2) przyznawania nagród, o których mowa w art. 106 ust. 2 i 3, 3) obowiązywania nowych norm pracy, wynikających ze stosowania projektu wynalazczego wobec twórcy projektu i osób określonych w art. 106 ust. 2. 2. Minister Nauki, Szkolnictwa Wyższego i Techniki określi zasady obliczania efektów stanowiących podstawę do ustalania wysokości wynagrodzeń za pracownicze projekty wynalazcze. Dział VII Postępowanie. Rejestry. Opłaty"
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "1. Urząd Patentowy, organy administracji państwowej oraz jednostki gospodarki uspołecznionej przy wydawaniu decyzji i postanowień przewidzianych w ustawie stosują przepisy Kodeksu postępowania administracyjnego , a w postępowaniu spornym - w zakresie ustalonym w trybie art. 110 ust. 2 pkt 2. 2. W postępowaniu przed Urzędem Patentowym w sprawach związanych ze zgłaszaniem i rozpatrywaniem wynalazków i wzorów użytkowych pełnomocnikiem jednostki gospodarki uspołecznionej może być tylko rzecznik patentowy."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1. Urząd Patentowy wydaje decyzję w trybie postępowania spornego w sprawach o: 1) unieważnienie patentu, prawa ochronnego na wzór użytkowy, świadectwa autorskiego i świadectwa racjonalizatorskiego, 2) wygaśnięcie patentu lub prawa ochronnego na wzór użytkowy, 3) przeniesienie patentu lub prawa ochronnego na wzór użytkowy, uzyskanego przez osobę nieuprawnioną (art. 51), 4) uznanie patentu lub prawa ochronnego na wzór użytkowy za zależny, 5) prawo korzystania z wynalazku lub wzoru użytkowego w przypadkach określonych w art. 41, 65 i 69, 6) ustalenie, że wskazana produkcja nie jest objęta określonym patentem lub prawem ochronnym na wzór użytkowy (art. 19), 7) ustalenie, że wynalazek lub wzór użytkowy jest pracowniczym wynalazkiem lub wzorem użytkowym, 8) ustalenie, że zgłoszony i stosowany w jednostce gospodarki uspołecznionej projekt jest projektem racjonalizatorskim, 9) inne sprawy należące zgodnie z przepisami do właściwości Urzędu Patentowego, działającego w trybie postępowania spornego. 2. Urząd Patentowy orzeka w sprawach wymienionych w ust. 1 w kolegiach przy współudziale przedstawicieli związków zawodowych i stowarzyszeń technicznych."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "1. Odwołania od decyzji Urzędu Patentowego i zażalenia na postanowienia tego Urzędu, wymienione w art. 108, oraz odwołania od decyzji Urzędu Patentowego i zażalenia na postanowienia tego Urzędu, wydawane w trybie określonym w art. 109, rozpatruje Komisja Odwoławcza przy Urzędzie Patentowym. Komisja Odwoławcza orzeka w kolegiach przy współudziale przedstawicieli związków zawodowych i stowarzyszeń technicznych. 2. Rada Ministrów w rozporządzeniu, o którym mowa w art. 7: 1) utworzy Komisję Odwoławczą oraz określi skład i sposób powołania oraz wynagradzania jej członków, 2) określi zasady postępowania spornego przed Urzędem Patentowym oraz zasady postępowania przed Komisją Odwoławczą."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "1. Przy rozpatrywaniu spraw przez Urząd Patentowy w trybie określonym w art. 109 w kolegiach przewodniczą sędziowie wyznaczeni przez Ministra Sprawiedliwości spośród sędziów sądów wojewódzkich mających siedzibę na terenie m.st. Warszawy. 2. Przy rozpatrywaniu spraw przez Komisję Odwoławczą przy Urzędzie Patentowym (art. 110) w kolegiach przewodniczą sędziowie wyznaczeni przez Pierwszego Prezesa Sądu Najwyższego spośród sędziów tego Sądu."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "Od każdego prawomocnego orzeczenia Urzędu Patentowego i Komisji Odwoławczej, kończącego postępowanie w sprawie, a rażąco naruszającego prawo, Prezes Urzędu Patentowego, Pierwszy Prezes Sądu Najwyższego oraz Prokurator Generalny Polskiej Rzeczypospolitej Ludowej może złożyć rewizję nadzwyczajną. Do rewizji nadzwyczajnej stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego ."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "Sprawy, nie objęte przepisami art. 108-112, a dotyczące roszczeń cywilnoprawnych z zakresu spraw wynalazczości, rozstrzygane są w trybie postępowania sądowego i arbitrażowego."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "1. Urząd Patentowy prowadzi rejestr patentowy i rejestr praw ochronnych na wzory użytkowe, przeznaczone do wpisów przewidzianych w ustawie. 2. Domniemywa się, że każdemu jest znana treść wpisów dokonanych w rejestrach. 3. Prezes Urzędu Patentowego określi zasady prowadzenia rejestrów, warunki i tryb dokonywania w nich wpisów, przeglądania rejestrów i otrzymywania z nich wyciągów."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "1. W związku z ochroną wynalazków i wzorów użytkowych pobierane są opłaty jednorazowe oraz opłaty okresowe, płatne w oznaczonych terminach przez cały czas ochrony. 2. Rada Ministrów określi w rozporządzeniu, o którym mowa w art. 7, zasady uiszczania i wysokość opłat, terminy ich płatności, a także przypadki całkowitego lub częściowego zwolnienia od tych opłat, jak również zasady odraczania terminów płatności opłat i zasady przywracania terminów. Dział VIII Przepisy karne"
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Art. 116",
+      "content": "1. Kto przypisuje sobie autorstwo cudzego projektu wynalazczego, podlega karze pozbawienia wolności do roku, ograniczenia wolności albo grzywny. 2. Tej samej karze podlega, kto w inny sposób narusza prawa twórcy projektu wynalazczego."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Art. 117",
+      "content": "1. Kto oznacza przedmioty nie chronione patentem lub prawem ochronnym na wzór użytkowy, napisami lub rysunkami mającymi wywołać mylne mniemanie, jakoby przedmioty te korzystały z takiej ochrony, podlega karze aresztu do 3 miesięcy, ograniczenia wolności do 3 miesięcy albo grzywny do 5.000 zł. 2. Tej samej karze podlega ten, kto przedmioty, wymienione w ust. 1, z wiedzą o mylnym ich oznaczeniu wprowadza do obrotu handlowego albo do celów obrotu handlowego przygotowuje lub przechowuje, albo w ogłoszeniach, zawiadomieniach lub w inny sposób podaje wiadomości, mające wywołać mniemanie, jakoby te przedmioty korzystały z ochrony prawnej."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Art. 118",
+      "content": "1. Kto przywłaszczając sobie cudze prawo do patentu lub do prawa ochronnego na wzór użytkowy zgłasza cudzy wynalazek w celu uzyskania patentu lub cudzy wzór użytkowy w celu uzyskania prawa ochronnego, podlega karze pozbawienia wolności do lat 2, ograniczenia wolności albo grzywny. 2. Kto w inny sposób narusza cudze prawo do patentu lub do prawa ochronnego, podlega karze pozbawienia wolności do roku, ograniczenia wolności albo grzywny. Dział IX Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Art. 119",
+      "content": "1. Przepisy ustawy dotyczące jednostek gospodarki uspołecznionej stosuje się do jednostek gospodarki uspołecznionej będących osobami prawnymi, jak również odpowiednio do państwowych jednostek organizacyjnych nie posiadających osobowości prawnej oraz do organizacji zawodowych, spółdzielczych, stowarzyszeń i innych organizacji społecznych w zakresie ich działalności gospodarczej i naukowej. 2. Państwowe jednostki organizacyjne nie posiadające osobowości prawnej wykonują w imieniu Skarbu Państwa prawa wynikające z zakresu ich działalności."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Art. 120",
+      "content": "Minister Obrony Narodowej i Minister Spraw Wewnętrznych wydadzą w swoim zakresie działania przepisy dostosowujące przepisy wykonawcze, wydane na podstawie ustawy do struktury podległych im jednostek."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Art. 121",
+      "content": "W zakresie unormowanym w ustawie do usług i robót, wykonywanych na rzecz jednostek gospodarki uspołecznionej, nie mają zastosowania przepisy o dostawach, robotach i usługach na rzecz jednostek państwowych."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Art. 122",
+      "content": "1. Wynagrodzenia za pracownicze projekty wynalazcze oraz za udzielenie pomocy technicznej wolne są od wszelkich podatków i opłat. Przepis ten dotyczy także wynagrodzeń za niepracownicze projekty wynalazcze zgłoszone na podstawie art. 89. 2. Zapłata, opłata licencyjna lub inna opłata za przeniesienie prawa lub ustanowienie prawa korzystania z niepracowniczego wynalazku lub wzoru użytkowego na rzecz jednostki gospodarki uspołecznionej podlega opodatkowaniu według przepisów o podatku od wynagrodzeń, jak wynagrodzenia z twórczości."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Art. 123",
+      "content": "Ilekroć w ustawie jest mowa o ministrach, należy przez to rozumieć również przewodniczących komisji i komitetów sprawujących funkcje naczelnych organów administracji państwowej oraz kierowników urzędów centralnych."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Art. 124",
+      "content": "1. Prawa w zakresie wynalazków, wzorów użytkowych, projektów racjonalizatorskich oraz udoskonaleń i usprawnień technicznych, istniejące w dniu wejścia w życie ustawy, pozostają w mocy. Do praw tych stosuje się przepisy, jakim podlegały one przed dniem wejścia w życie ustawy, chyba że przepisy poniższe stanowią inaczej. 2. Do stosunków prawnych powstałych przed wejściem w życie ustawy stosuje się przepisy dotychczasowe, chyba że przepisy poniższe stanowią inaczej. 3. Skutki zdarzeń prawnych ocenia się według przepisów obowiązujących w chwili, w której zdarzenia te nastąpiły. Jednakże od dnia wejścia w życie ustawy ocenia się według jej przepisów: 1) ustawowe warunki wymagane do uzyskania patentu i prawa ochronnego, chyba że postępowanie o udzielenie patentu lub prawa ochronnego zostało zakończone wydaniem ostatecznej decyzji, 2) określone w art. 40 ust. 1 obowiązki uprawnionych z patentu i prawa ochronnego, 3) określone w art. 44 ust. 3 skutki wpisu licencji do rejestru patentowego, 4) określone w art. 46 ust. 6 i art. 47 zasady przeniesienia licencji i sublicencji przymusowej oraz określone w art. 41 ust. 2 i art. 69 ust. 2 zasady przeniesienia prawa korzystania z wynalazku i wzoru użytkowego, 5) określone w art. 92 zasady oraz tryb przeniesienia prawa do patentu lub patentu oraz przeniesienia prawa do prawa ochronnego lub prawa ochronnego, 6) określone w art. 93 ust. 4 zasady ustalania wysokości wynagrodzenia za pracownicze projekty wynalazcze. 4. Patenty na wynalazki i prawa z rejestracji wzorów użytkowych uzyskane przed dniem wejścia w życie ustawy przez jednostki gospodarki uspołecznionej na rzecz Państwa, przysługują tym jednostkom, które są wymienione w dokumencie patentowym lub świadectwie ochronnym. Do praw tych stosuje się przepisy ustawy. Jednakże inne jednostki gospodarki uspołecznionej, które najpóźniej w ciągu jednego roku od dnia wejścia w życie ustawy rozpoczęły stosowanie lub przygotowały wszystkie istotne urządzenia do stosowania wynalazku lub wzoru użytkowego, mają prawo ten wynalazek lub wzór użytkowy bezpłatnie stosować w swoim przedsiębiorstwie. Do prawa tego stosuje się odpowiednio przepis art. 41 ust. 2. 5. Postępowanie związane ze zgłoszeniem wynalazku i wzoru użytkowego w Urzędzie Patentowym oraz postępowanie sporne, uregulowane w art. 108-111 toczy się od dnia wejścia w życie ustawy według jej przepisów, z wyjątkiem wszczętego już postępowania w sprawach o ustalenie osoby twórcy lub współtwórcy pracowniczego projektu wynalazczego oraz w sprawach o ustalenie, że za pracowniczy projekt wynalazczy przysługuje twórcy projektu wynagrodzenie. 6. Postępowanie w sprawach o wynagrodzenie za pracownicze projekty wynalazcze określone w art. 105 toczy się od dnia wejścia w życie ustawy według jej przepisów, z wyjątkiem wszczętego już postępowania w tych sprawach przed Komisją Rozjemczą. 7. Osoby, które przed wejściem w życie ustawy zgłosiły wynalazek w Urzędzie Patentowym, mogą w ciągu sześciu miesięcy od dnia wejścia jej w życie złożyć wniosek o udzielenie patentu tymczasowego. Przepisu tego nie stosuje się, jeżeli postępowanie zostało zakończone wydaniem ostatecznej decyzji."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Art. 125",
+      "content": "1. Uchyla się ustawę z dnia 31 maja 1962 r. - Prawo wynalazcze ( Dz. U. Nr 33, poz. 156 ) . 2. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy przepisy dotychczasowe, wydane na podstawie ustawy określonej w ust. 1. 3. Do czasu wydania przepisów dotyczących ochrony wzorów przemysłowych pozostają w mocy przepisy wydane na podstawie art. 142 ustawy określonej w ust. 1."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Art. 126",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1973 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"bran_I-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"bran_I-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_I-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"bran_I-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Wynalazki i patenty\",\"children\": [{\"id\": \"bran_II-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Patent tymczasowy. Patent. Świadectwo autorskie\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_II-chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_II-chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_12-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_12-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_II-chpt_1-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_1-arti_14-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_II-chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_1-arti_16-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_II-chpt_1-arti_16-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"bran_II-chpt_1-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_II-chpt_1-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_II-chpt_1-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"}]},{\"id\": \"bran_II-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Prawo do uzyskania patentu i świadectwa autorskiego\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_2-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_2-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_2-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_II-chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_2-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_2-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_II-chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_II-chpt_2-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_2-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_2-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"}]},{\"id\": \"bran_II-chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Zgłoszenie wynalazku w Urzędzie Patentowym\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_3-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_3-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_3-arti_26-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_II-chpt_3-arti_26-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"bran_II-chpt_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_3-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_3-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_II-chpt_3-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_3-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_3-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_II-chpt_3-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"}]},{\"id\": \"bran_II-chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Rozpatrywanie zgłoszenia\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_II-chpt_4-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_33-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_33-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"bran_II-chpt_4-arti_33-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_4-arti_33-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_II-chpt_4-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_34-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_4-arti_34-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_4-arti_34-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_4-arti_34-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_II-chpt_4-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_35-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_4-arti_35-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},"
+    }
+  ],
+  "definitions": []
+}

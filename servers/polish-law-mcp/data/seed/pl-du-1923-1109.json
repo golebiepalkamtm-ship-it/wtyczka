@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1923-1109",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1923 r. tycząca się przedłużenia mocy obowiązującej ustawy z dnia 7 kwietnia 1922 r. w przedmiocie podwyższenia i zrównania stawek przy niektórych opłatach stemplowych (należytościach).",
+  "title_en": "",
+  "short_name": "pl-du-1923-1109",
+  "status": "in_force",
+  "issued_date": "1923-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/1109",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą ustawy z dnia 7 kwietnia 1922 r. w przedmiocie podwyższenia i zrównania stawek przy niektórych opłatach stemplowych (należytościach) (Dz. U. R. P. № 38 poz. 315) ze zmianami, wprowadzonemi ustawą z dnia 24 marca 1923 r. w przedmiocie wyrównania opłat stemplowych oraz podatków: spadkowego i od darowizn (Dz. U. R. P. № 44 poz. 296), przedłuża się do dnia 30 czerwca 1924 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obowiązujące obecnie rozporządzenia, wydane na mocy art. 6 powołanej w art. 1 ustawy z dnia 7 kwietnia 1922 r. (Dz. U. R. P. № 38 poz. 315), zachowują moc obowiązującą do dnia 30 czerwca 1924 r. o ile nie ulegną zmianie drogą dalszych rozporządzeń, wydanych na mocy art. 6 powołanej ustawy lub na mocy upoważnień, zawartych w innych ustawach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Art. 4 ustawy z dnia 7 kwietnia 1922 r. (Dz. U. R. P. № 38 poz. 315) w brzmieniu, ustalonem w art. 9 ustawy z dnia 24 marca 1923 r. (Dz. U. R. P. № 44 poz. 296), dotyczy również podatku giełdowego (ustawa z dnia 2 lipca 1921 r. Dz. U. R. P. № 73 poz. 500)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Skarbu do podwyższania stawek przy opłatach stemplowych na obszarze górnośląskiej części województwa śląskiego do wysokości stawek, obowiązujących w całem Państwie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kwotę 500.000 mk., wymienioną w ustępie czwartym art. 1 ustawy z dnia 26 października 1921 r. o opłatach stemplowych od weksli (Dz. U. R. P. z 1922 r. № 38 poz. 313), podwyższa się na 500 miljonów marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1924 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

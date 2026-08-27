@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1961-120",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 maja 1961 r. o zmianie liczby członków Rady Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1961-120",
+  "status": "repealed",
+  "issued_date": "1961-05-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1961/120",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 24 ust. 1 Konstytucji Polskiej Rzeczypospolitej Ludowej otrzymuje brzmienie: „ 1. Sejm wybiera ze swego grona na pierwszym posiedzeniu Radę Państwa w składzie: Przewodniczący Rady Państwa, czterej zastępcy Przewodniczącego, Sekretarz Rady Państwa, jedenastu członków. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem uchwalenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

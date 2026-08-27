@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2004-2775",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji",
+  "title_en": "",
+  "short_name": "pl-du-2004-2775",
+  "status": "repealed",
+  "issued_date": "2004-11-25",
+  "in_force_date": "2004-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/2775",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji ( Dz. U. Nr 44, poz. 202 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. 1994 r. Nr 84, poz. 385, z 1997 r. Nr 30, poz. 164, Nr 47, poz. 298 i Nr 107, poz. 691, z 2000 r. Nr 122, poz. 1319, z 2001 r. Nr 63, poz. 637 oraz z 2002 r. Nr 240, poz. 2055. ) wprowadza się następujące zmiany: 1) w art. 38 ust. 7 otrzymuje brzmienie: „ 7. Przychody, o których mowa w ust. 4, pomniejszone o wypłacone kwoty określone w ust. 5 i 6 stanowią dochód budżetu państwa. ” ; 2) tytuł rozdziału 8 otrzymuje brzmienie: „ Agencja do Spraw Prywatyzacji ” ; 3) art. 39 otrzymuje brzmienie: „ Art. 39. Koszty przeprowadzenia prywatyzacji na zasadach niniejszej ustawy oraz koszty realizacji ustawy z dnia 6 marca 1997 r. o zrekompensowaniu okresowego niepodwyższania płac w sferze budżetowej oraz utraty niektórych wzrostów lub dodatków do emerytur i rent ( Dz. U. z 2000 r. Nr 23, poz. 294 ) stanowią wydatki budżetu państwa, z tym że wydatki budżetu państwa na ten cel w latach 2005-2009 nie mogą przekroczyć kwoty stanowiącej różnicę pomiędzy kwotą 64,2 mln zł a kwotą faktycznie poniesionych wydatków w latach 2003 i 2004. ” ; 4) w art. 40 ust. 2 otrzymuje brzmienie: „ 2. Rada Ministrów nadaje Agencji statut. Statut określa w szczególności organizację i zadania Agencji w zakresie wykonywania przez właściwego ministra praw i obowiązków przewidzianych w szczególności w art. 38 ust. 4-6 niniejszej ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Ostateczne rozliczenie środków finansowych, gromadzonych na podstawie art. 38 ust. 4 ustawy z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji nastąpi do dnia 30 czerwca 2006 r. 2. Z dniem 1 stycznia 2005 r. likwiduje się fundusz prywatyzacji, o którym mowa w art. 39 ust. 1 ustawy z dnia 30 kwietnia 1993 r. o narodowych funduszach inwestycyjnych i ich prywatyzacji w brzmieniu dotychczasowym. Środki pozostałe po likwidacji funduszu prywatyzacji podlegają przekazaniu do budżetu państwa do dnia 10 stycznia 2005 r. Z dniem 10 stycznia 2005 r. nastąpi likwidacja rachunku bankowego funduszu prywatyzacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rada Ministrów przedstawi Sejmowi sprawozdanie z realizacji ustawy o narodowych funduszach inwestycyjnych i ich prywatyzacji do dnia 31 marca 2005 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. 1994 r. Nr 84, poz. 385, z 1997 r. Nr 30, poz. 164, Nr 47, poz. 298 i Nr 107, poz. 691, z 2000 r. Nr 122, poz. 1319, z 2001 r. Nr 63, poz. 637 oraz z 2002 r. Nr 240, poz. 2055. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

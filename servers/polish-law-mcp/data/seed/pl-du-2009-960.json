@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-960",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego",
+  "title_en": "",
+  "short_name": "pl-du-2009-960",
+  "status": "repealed",
+  "issued_date": "2009-05-21",
+  "in_force_date": "2009-07-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/960",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lipca 2002 r. o szczególnych warunkach sprzedaży konsumenckiej oraz o zmianie Kodeksu cywilnego ( Dz. U. Nr 141, poz. 1176 oraz z 2004 r. Nr 96, poz. 959 ) art. 7 otrzymuje brzmienie: „ Art. 7. Sprzedawca nie odpowiada za niezgodność towaru konsumpcyjnego z umową, gdy kupujący w chwili zawarcia umowy o tej niezgodności wiedział lub, oceniając rozsądnie, powinien był wiedzieć. To samo odnosi się do niezgodności, która wynikła z przyczyny tkwiącej w materiale dostarczonym przez kupującego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

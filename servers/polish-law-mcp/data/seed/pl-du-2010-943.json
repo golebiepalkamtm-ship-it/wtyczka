@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-943",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 czerwca 2010 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym",
+  "title_en": "",
+  "short_name": "pl-du-2010-943",
+  "status": "repealed",
+  "issued_date": "2010-06-10",
+  "in_force_date": "2010-08-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/943",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ( Dz. U. z 2009 r. Nr 84, poz. 711 i Nr 144, poz. 1176 ) w art. 6: 1) ust. 5 otrzymuje brzmienie: „ 5. Osobom wchodzącym w skład Rady Funduszu przysługuje miesięczne wynagrodzenie. Wynagrodzenie składa się z części stałej oraz części zmiennej, której wysokość uzależniona jest od udziału osoby wchodzącej w skład Rady Funduszu w posiedzeniach Rady Funduszu oraz częstotliwości zwoływania posiedzeń Rady Funduszu w danym miesiącu. ” ; 2) dodaje się ust. 5a: „ 5a. Wysokość miesięcznego wynagrodzenia osób wchodzących w skład Rady Funduszu ustala się jako wielokrotność przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. ” ; 3) ust. 6 otrzymuje brzmienie: „ 6. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego i Przewodniczącego Komisji Nadzoru Finansowego, określi, w drodze rozporządzenia, maksymalną wysokość miesięcznego wynagrodzenia osób wchodzących w skład Rady Funduszu obejmującą: 1) wysokość wynagrodzenia w części stałej, 2) sposób ustalenia wynagrodzenia w części zmiennej - uwzględniając zakres wykonywanych zadań Rady Funduszu, pełnioną funkcję oraz udział w posiedzeniach Rady Funduszu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

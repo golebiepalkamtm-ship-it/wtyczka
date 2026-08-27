@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1999-773",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 lipca 1999 r. o dodatku rodzinnym w 1999 r.",
+  "title_en": "",
+  "short_name": "pl-du-1999-773",
+  "status": "repealed",
+  "issued_date": "1999-07-08",
+  "in_force_date": "1999-08-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/773",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady oraz tryb przyznania i wypłaty w 1999 r. jednorazowego dodatku rodzinnego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Dodatek rodzinny przysługuje na trzecie i każde kolejne dziecko, na które za wrzesień 1999 r. przysługuje zasiłek rodzinny na podstawie ustawy z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych ( Dz. U. z 1998 r. Nr 102, poz. 651 , Nr 106, poz. 668 i Nr 162, poz. 1118 oraz z 1999 r. Nr 60, poz. 636 ) . 2. Wysokość dodatku rodzinnego wynosi 137 zł na każde dziecko, o którym mowa w ust. 1. 3. Wypłata dodatku rodzinnego nastąpi łącznie z wypłatą zasiłków rodzinnych za wrzesień."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W sprawach nie uregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy o zasiłkach rodzinnych, pielęgnacyjnych i wychowawczych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

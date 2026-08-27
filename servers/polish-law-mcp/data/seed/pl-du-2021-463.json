@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2021-463",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 2021 r. o zmianie ustawy - Prawo o ruchu drogowym",
+  "title_en": "",
+  "short_name": "pl-du-2021-463",
+  "status": "amended",
+  "issued_date": "2021-02-25",
+  "in_force_date": "2021-03-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/463",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym ( Dz. U. z 2021 r. poz. 450 ) wprowadza się następujące zmiany: 1) w art. 13: a) ust. 1 otrzymuje brzmienie: „ 1. Pieszy wchodzący na jezdnię lub torowisko albo przechodzący przez jezdnię lub torowisko jest obowiązany zachować szczególną ostrożność oraz, z zastrzeżeniem ust. 2 i 3, korzystać z przejścia dla pieszych. ” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Pieszy znajdujący się na przejściu dla pieszych ma pierwszeństwo przed pojazdem. Pieszy wchodzący na przejście dla pieszych ma pierwszeństwo przed pojazdem, z wyłączeniem tramwaju. ” ; 2) w art. 14 w pkt 7 kropkę zastępuje się średnikiem i dodaje się pkt 8 w brzmieniu: „ 8) korzystania z telefonu lub innego urządzenia elektronicznego podczas wchodzenia lub przechodzenia przez jezdnię lub torowisko, w tym również podczas wchodzenia lub przechodzenia przez przejście dla pieszych - w sposób, który prowadzi do ograniczenia możliwości obserwacji sytuacji na jezdni, torowisku lub przejściu dla pieszych. ” ; 3) w art. 19 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Kierujący pojazdem podczas przejazdu autostradą i drogą ekspresową jest obowiązany zachować minimalny odstęp między pojazdem, którym kieruje, a pojazdem jadącym przed nim na tym samym pasie ruchu. Odstęp ten wyrażony w metrach określa się jako nie mniejszy niż połowa liczby określającej prędkość pojazdu, którym porusza się kierujący, wyrażonej w kilometrach na godzinę. Przepisu tego nie stosuje się podczas manewru wyprzedzania. ” ; 4) w art. 20: a) ust. 1 otrzymuje brzmienie: „ 1. Prędkość dopuszczalna pojazdu lub zespołu pojazdów na obszarze zabudowanym wynosi 50 km/h, z zastrzeżeniem ust. 2. ” , b) uchyla się ust. 1a; 5) w art. 26: a) ust. 1 otrzymuje brzmienie: „ 1. Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście, z zastrzeżeniem ust. 1a. ” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Kierujący tramwajem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 czerwca 2021 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

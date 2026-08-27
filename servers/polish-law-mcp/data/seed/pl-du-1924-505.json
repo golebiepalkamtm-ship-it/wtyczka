@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1924-505",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 maja 1924 r. w przedmiocie rozciągnięcia mocy obowiązującej ustaw o Najwyższym Trybunale Administracyjnym na obszar województwa śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1924-505",
+  "status": "repealed",
+  "issued_date": "1924-05-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/505",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozciąga się na obszar województwa śląskiego moc obowiązującą ustawy z dnia 3 sierpnia 1922 r. o Najwyższym Trybunale Administracyjnym (Dz. U. R. P. № 67 poz. 600) oraz ustawy z dnia 22 września 1922 r. o kosztach postępowania przed Najwyższym Trybunałem Administracyjnym (Dz. U. R. P. № 89 poz. 800)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na Najwyższy Trybunał Administracyjny przechodzą kompetencje, przekazane rozporządzeniem Śląskiej Tymczasowej Rady Wojewódzkiej z dnia 18 lipca 1922 r. (Dz. U. Śląskich № 8 poz. 30) Senatowi Administracyjnemu sądu apelacyjnego województwa śląskiego. Tryb postępowania w sprawach, wymienionych w art. 1 i 13 rozporządzenia Śląskiej Rady Wojewódzkiej z dnia 18 lipca 1922 r. (Dz. U. Śląskich № 8 poz. 30), z wyjątkiem spraw, które należały do kompetencji Trybunału Rzeszy do spraw finansowych, zachowuje się wedle dotychczas obowiązujących na obszarze górnośląskiej części województwa śląskiego ustaw pruskich. Tryb postępowania w sprawach, przekazanych Trybunałowi Rzeszy do spraw finansowych ustawą z dnia 26 lipca 1918 r. (Dz. U. Rzeszy str. 959), w sprawach, rozpatrywanych przez Radę Wojewódzką, oraz w sprawach, nieobjętych właściwością istniejącego w województwie śląskiem sądownictwa administracyjnego, normują przepisy ustawy z dnia 3-go sierpnia 1922 r. o Najwyższym Trybunale Administracyjnym (Dz. U. R. P. № 67 poz. 600), z wyłączeniem stosowania art. 35 tej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Skargi w sprawach, które w myśl powołanego rozporządzenia Śląskiej Rady Wojewódzkiej z dnia 18 lipca 1922 r. należały do kompetencji Senatu Administracyjnego sądu apelacyjnego województwa śląskiego, wniesione do tego sądu po dniu wejścia w życie powołanego rozporządzenia Śląskiej Rady Wojewódzkiej, winny być odstąpione Najwyższemu Trybunałowi Administracyjnemu. Za termin wniesienia tych skarg (art. 10 ustawy z dnia 3 sierpnia 1922 r. o Najwyższym Trybunale Administracyjnym) uważa się termin Wniesienia ich do sądu apelacyjnego województwa śląskiego. Skargi, wniesione w tymże okresie czasu bezpośrednio do Najwyższego Trybunału Administracyjnego, uważa się za wniesione w czasie właściwym, jeżeli zostały wniesione w terminie dwumiesięcznym od dnia doręczenia zaskarżonego orzeczenia (art. 10 ustawy z dnia 3 sierpnia 1922 r. o Najwyższym Trybunale Administracyjnym)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

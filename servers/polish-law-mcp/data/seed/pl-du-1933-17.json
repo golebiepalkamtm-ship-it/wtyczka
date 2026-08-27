@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1933-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 grudnia 1932 r. w sprawie ratyfikacji układu między Rządami Polskim a Niemieckim, dotyczącego zaprzestania działalności Mieszanego Trybunału Rozjemczego niemiecko-polskiego, podpisanego w Paryżu dnia 1 grudnia 1931 r.",
+  "title_en": "",
+  "short_name": "pl-du-1933-17",
+  "status": "in_force",
+  "issued_date": "1932-12-15",
+  "in_force_date": "1933-01-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej ratyfikacji układu między Rządami Polskim a Niemieckim, dotyczącego zaprzestania działalności Mieszanego Trybunału Rozjemczego niemiecko - polskiego, podpisanego w Paryżu dnia 1 grudnia 1931 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Prezydenta Rzeczypospolitej do wydania w ciągu miesiąca od dnia wejścia w życie powyższego układu rozporządzenia z mocą ustawy w sprawie zmiany obowiązujących przepisów postępowania sądowego o właściwości miejscowej, celem skoncentrowania w jednym lub kilku z pośród rzeczowo właściwych sądów I instancji wszystkich sporów, które będą mogły być wytoczone w sądach polskich na mocy art. III i V tegoż układu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień powyższego układu Ministrowi Spraw Zagranicznych, Ministrowi Skarbu oraz Ministrowi Sprawiedliwości w porozumieniu z innymi właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1952-202",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 czerwca 1952 r. o Inspekcji Zbożowej.",
+  "title_en": "",
+  "short_name": "pl-du-1952-202",
+  "status": "repealed",
+  "issued_date": "1952-06-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1952/202",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się Inspekcją Zbożową. 2. Inspekcja Zbożowa podlega Prezesowi Centralnego Urzędu Skupu i Kontraktacji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zadań Inspekcji Zbożowej należy w szczególności: 1) inspekcja skupu oraz zbytu zbóż i przetworów zbożowych w zakresie składowania, przetwórstwa i transportu, 2) badanie i określanie jakości zbóż i przetworów zbożowych, stanowiących przedmiot skupu i zbytu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Na czele Inspekcji Zbożowej stoi główny inspektor, któremu podlegają delegatury wojewódzkie. 2. Na czele wojewódzkich delegatur stoją wojewódzcy inspektorzy. 3. Na wniosek głównego inspektora Prezes Centralnego Urzędu Skupu i Kontraktacji może w razie potrzeby powołać delegatury powiatowe, na czele których stoją powiatowi inspektorzy, podlegli wojewódzkim inspektorom."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Głównego inspektora oraz jego zastępcę mianuje i zwalnia Prezes Centralnego Urzędu Skupu i Kontraktacji. 2. Wojewódzkich i powiatowych inspektorów mianuje i zwalnia Prezes Centralnego Urzędu Skupu i Kontraktacji na wniosek głównego inspektora po zasięgnięciu opinii właściwych wojewódzkich pełnomocników Centralnego Urzędu Skupu i Kontraktacji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Dla wykonania swoich zadań organy Inspekcji Zbożowej (art. 3) uprawnione są do: 1) wkraczania do pomieszczeń oraz środków transportowych, w których znajduje się zboże i jego przetwory lub które są przeznaczone do składowania albo przewozu zbóż i przetworów zbożowych, 2) pobierania prób zbóż i ich przetworów, 3) przeglądania dokumentów i ksiąg oraz żądania wyjaśnień."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Czynności organów Inspekcji Zbożowej powinny być dokonywane w miarę możności w obecności kierownika inspekcjonowanej placówki lub osoby upoważnionej do zastępowania go. 2. Z przebiegu czynności sporządza się protokół, który należy przedstawić do podpisu kierownikowi placówki lub osobie go zastępującej. Osoby te mogą zgłosić do protokołu swoje uwagi. 3. Odpisy protokołu należy przesłać niezwłocznie kierownictwu zainteresowanych organizacji gospodarczych do wiadomości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. W razie stwierdzenia naruszenia przepisów lub zasad prawidłowego postępowania ze zbożem lub jego przetworami organy Inspekcji Zbożowej mogą na piśmie wydać zarządzenia z poleceniem niezwłocznego wykonania oraz zawiadomić o tym właściwego pełnomocnika Centralnego Urzędu Skupu i Kontraktacji. 2. Do wydanych zarządzeń stosuje się odpowiednio przepis art. 6 ust. 3."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Kto utrudnia organom Inspekcji Zbożowej wykonywanie ich zadań przez uniemożliwienie określonych w art. 5 czynności, podlega karze pracy poprawczej do jednego miesiąca lub grzywny do 1500 zł. 2. Orzekanie następuje w trybie postępowania karno-administracyjnego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Szczegółową organizację oraz tryb postępowania organów Inspekcji Zbożowej określi Prezes Centralnego Urzędu Skupu i Kontraktacji."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Przepisy niniejszej ustawy nie stosują się do placówek organizacji gospodarczej, podległych Ministrom Obrony Narodowej i Bezpieczeństwa Publicznego."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów, właściwym ministrom oraz Prezesowi Centralnego Urzędu Skupu i Kontraktacji."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

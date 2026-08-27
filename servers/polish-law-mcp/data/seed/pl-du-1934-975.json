@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1934-975",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 grudnia 1934 r. w sprawie dodatków do podatku spożywczego od cukru.",
+  "title_en": "",
+  "short_name": "pl-du-1934-975",
+  "status": "repealed",
+  "issued_date": "1934-12-20",
+  "in_force_date": "1934-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/975",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Upoważnia się Ministra Skarbu do pobierania do podatku spożywczego od cukru, ustanowionego rozporządzeniem Prezydenta Rzeczypospolitej z dnia 13 września 1927 r. o opodatkowaniu cukru (Dz. U. R. P. Nr 81, poz. 700), zmienionem ustawą z dnia 27 lutego 1931 r. (Dz. U. R. P. Nr 23, poz. 136), - dodatku w wysokości 5 zł od 100 kg cukru wszystkich gatunków. (2) Nadto Minister Skarbu jest uprawniony do wprowadzenia osobnego dodatku do podatku spożywczego od cukru w głowach, kostkach i kawałkach, w wysokości 3,50 zł od 100 kg; cukier w postaci pudru i kryształu (rafinowany i nierafinowany) nie podlega opłacie tego dodatku. (3) Minister Skarbu określa w razie wątpliwości, jakie rodzaje cukru podlegają opłacie osobnego dodatku, określonego w ustępie drugim artykułu niniejszego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Od ustanowionych ustawą niniejszą dodatków do podatku spożywczego od cukru nie będzie pobierany dodatek, wprowadzony na podstawie ustawy z dnia 12 lutego 1931 r. o poborze 10% dodatku do niektórych podatków i opłat stemplowych (Dz. U. R. P. Nr 16, poz. 82)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

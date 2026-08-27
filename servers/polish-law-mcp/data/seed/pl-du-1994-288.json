@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1994-288",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 1994 r. o zadaniach zleconych gminie, związanych z organizacją i prowadzeniem spisów rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1994-288",
+  "status": "repealed",
+  "issued_date": "1994-05-11",
+  "in_force_date": "1994-06-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/288",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zadania gmin w ramach prac związanych z organizacją i prowadzeniem spisów rolnych obejmują: 1) jednorazowe przekazanie wojewódzkim urzędom statystycznym aktualnej liczby gospodarstw i działek rolnych oraz wykazów indywidualnych gospodarstw i działek rolnych zawierających: a) imię i nazwisko oraz datę urodzenia władającego, b) numer identyfikujący gospodarstwo (działkę rolną) w dokumentacji gminy, c) adres władającego (miejscowość, ulicę, numer nieruchomości, numer mieszkania), d) ogólną powierzchnię, e) powierzchnię użytków rolnych w gospodarstwie w hektarach fizycznych i przeliczeniowych, f) powierzchnię użytków rolnych działki, 2) wykonanie do dnia 31 lipca 1994 r. następujących prac związanych z zorganizowaniem i przeprowadzeniem spisu rolnego metodą reprezentacyjną: a) przedstawienie list kandydatów na ankieterów, b) udział w szkoleniu organizowanym przez wojewódzkie urzędy statystyczne oraz przeszkolenie ankieterów, c) nadzorowanie przebiegu prac w terenie, d) współuczestniczenie w przeprowadzeniu spisu kontrolnego, e) przyjęcie materiałów od ankieterów, kontrola materiałów i sporządzenie wstępnych zestawień zbiorczych dla gminy, 3) przekazywanie corocznie - w terminie do dnia 15 maja - zmian w wykazach indywidualnych gospodarstw i działek rolnych, o których mowa w pkt 1."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Formę, zakres i szczegółowe terminy wykonania zadań zleconych, o których mowa w art. 1, określi Prezes Głównego Urzędu Statystycznego w drodze zarządzenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zadania, o których mowa w art. 1, gminy realizują jako zadania zlecone z zakresu administracji rządowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zadania zlecone gminom, określone w ustawie, są finansowane ze środków będących w dyspozycji Głównego Urzędu Statystycznego, które wojewódzkie urzędy statystyczne przekażą gminom w terminie do dnia 31 lipca każdego roku."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

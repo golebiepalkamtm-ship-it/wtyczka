@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1925-297",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 kwietnia 1925 r. o zmianie niektórych przepisów prawa o stowarzyszeniach z r. 1867, obowiązującego na obszarze b. zaboru austrjackiego.",
+  "title_en": "",
+  "short_name": "pl-du-1925-297",
+  "status": "in_force",
+  "issued_date": "1925-04-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/297",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przez polityczną władzę krajową w ustawie o stowarzyszeniach z dnia 15 listopada 1867 r. (Austr. Dz. Ust. P. № 134 §§ 4, 5, 6, 7, 8, 9, 25, 26 i 35) należy rozumieć władzę administracyjną II instancji (województwo)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 8 ustawy z dnia 15 listopada 1867 r. (Austr. Dz. Ust. P. № 134) otrzymuje brzmienie: „ Przeciw zakazowi władzy administracyjnej II instancji można wnieść odwołanie do Ministerstwa Spraw Wewnętrznych w ciągu dni 60. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do § 10 tejże ustawy dodaje się ustęp 2 i 3 w brzmieniu następującem: „ Oddziały, bądź filje stowarzyszeń, powstające w województwach, w których niniejsza ustawa nie obowiązuje, powinny przed rozpoczęciem swej działalności uczynić zadość przepisom o stowarzyszeniach, obowiązującym w tych województwach. Stowarzyszenia jednak, których statuty zostały zatwierdzone przez Radę Ministrów, lub Ministerstwo Spraw Wewnętrznych, przy otwieraniu oddziałów, bądź filij obowiązane są tylko zgłosić u władzy administracyjnej i instancji rozpoczęcie swej działalności. Jeżeli przepisom powyższym nie uczyniono zadość, albo jeżeli zmiana statutu, względnie rozszerzenie działalności stowarzyszenia, przedstawia się jako przeciwne ustawie lub prawu, albo jako niebezpieczne dla Państwa, władza może w ciągu 28 dni od dnia otrzymania wiadomości wydać zakaz zmiany statutu lub wykonywania zgłoszonej, względnie rozpoczętej działalności; odwołanie od decyzyj, wydanych na zasadzie niniejszego paragrafu, jest dopuszczalne w ciągu dni 60. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "§ 15 znosi się."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "§ 30 otrzymuje brzmienie: „ Członkami stowarzyszeń politycznych nie mogą być cudzoziemcy i osoby poniżej 18 lat. ”"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "§ 31 znosi się."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "§ 32 otrzymuje brzmienie: „ Stowarzyszenia polityczne obowiązane są w terminie 14 dni po rozpoczęciu działalności, a następnie corocznie przedkładać wykaz liczby swych członków. ”"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "§§ 33 i 34 znosi się."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "§ 35 ustęp drugi otrzymuje brzmienie: „Czy stowarzyszenie uważać należy za polityczne, o tem rozstrzyga władza administracyjna II instancji, której decyzja może być zaskarżona w drodze rekursu na ogólnych zasadach do Ministerstwa Spraw Wewnętrznych. Władza winna się przy swej decyzji w tej mierze kierować celami stowarzyszenia, ustalonemi w statucie, oraz jego działalnością niewątpliwie stwierdzoną.”"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Niniejsza ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1923-893",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 listopada 1923 r. w przedmiocie wstrzymania eksmisji dzierżawców gruntów, zajętych pod budynki i położonych w obrębie miast, miasteczek, wsi i osad na obszarze Ziemi Wileńskiej, województw: nowogródzkiego, poleskiego i wołyńskiego oraz powiatów: bielskiego, grodzieńskiego, wołkowyskiego, sokólskiego i białostockiego województwa białostockiego.",
+  "title_en": "",
+  "short_name": "pl-du-1923-893",
+  "status": "in_force",
+  "issued_date": "1923-11-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/893",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Właściciele zabudowań, znajdujących się na obszarze Ziemi Wileńskiej, województw: nowogródzkiego, poleskiego i wołyńskiego oraz powiatów: bielskiego, grodzieńskiego, wołkowyskiego, sokólskiego i Białostockiego województwa białostockiego w obrębie miast, miasteczek, wsi i osad, wybudowanych na cudzych gruntach, którzy i obecnie władają temi gruntami, nie mogą być z nich wysiedleni do dnia 1 października 1924 r., chociażby odnośne umowy dzierżawne wygasły. Przepis ustępu 1 ma również zastosowanie w tych wypadkach, gdy zabudowania uległy zniszczeniu wskutek działań wojennych lub pożaru."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Właściwy sąd pierwszej instancji wstrzyma na wniosek strony interesowanej wykonanie wyroku, choćby wydanego przez sąd wyższy, aż do dnia 1 października 1924 r. o tyle, o ile wyrok dotyczy jednej z osób, wymienionych w art. 1 i orzeka eksmisję z dzierżawionego gruntu lub obowiązek zniesienia zabudowań."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Opłata dzierżawna w wypadkach ukończenia umowy dzierżawnej, przewidzianej w art. 1, o ile nie jest już zapłacona, wynosi w markach polskich 40.000 razy tyle, ile płacono w rublach z tegoż tytułu według kontraktu, lub w braku jego według miejscowych norm dzierżawnych z 1914 r. i będzie płatna do dnia 31 stycznia 1924 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W razie niezapłacenia oznaczonego w art. 3 czynszu z winy dzierżawcy, mają zastosowanie przepisy ogólnie obowiązujące."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 października 1923 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-573",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lutego 2004 r. o ratyfikacji Protokołu między Rzecząpospolitą Polską a Republiką Federalną Niemiec dotyczącego zmian i uzupełnień Umowy między Polską Rzecząpospolitą Ludową a Republiką Federalną Niemiec w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 10 listopada 1989 r., sporządzonego w Berlinie dnia 14 maja 2003 r.",
+  "title_en": "",
+  "short_name": "pl-du-2004-573",
+  "status": "in_force",
+  "issued_date": "2004-02-19",
+  "in_force_date": "2004-04-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/573",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protokołu między Rzecząpospolitą Polską a Republiką Federalną Niemiec dotyczącego zmian i uzupełnień Umowy między Polską Rzecząpospolitą Ludową a Republiką Federalną Niemiec w sprawie popierania i wzajemnej ochrony inwestycji, podpisanej w Warszawie dnia 10 listopada 1989 r. , sporządzonego w Berlinie dnia 14 maja 2003 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

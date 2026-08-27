@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2022-2418",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 września 2022 r. o przedłużeniu kadencji organów jednostek samorządu terytorialnego",
+  "title_en": "",
+  "short_name": "pl-du-2022-2418",
+  "status": "in_force",
+  "issued_date": "2022-09-29",
+  "in_force_date": "2022-11-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2418",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kadencja: 1) rad gmin, rad powiatów oraz sejmików województw, 2) rad dzielnic miasta stołecznego Warszawy, 3) wójtów, burmistrzów i prezydentów miast - która upływa w 2023 r., ulega przedłużeniu do dnia 30 kwietnia 2024 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ( Dz. U. z 2022 r. poz. 1277 ) wprowadza się następujące zmiany: 1) w art. 373 § 2 otrzymuje brzmienie: „ § 2. Ustalenie liczby radnych dla każdej rady następuje na podstawie liczby mieszkańców zamieszkałych na obszarze działania danej rady, ujętych w stałym rejestrze wyborców na koniec kwartału poprzedzającego rozpoczęcie okresu, o którym mowa w art. 374. ” ; 2) w art. 374 zdanie pierwsze otrzymuje brzmienie: „ Zarządzenie wojewody ustalające liczbę radnych wybieranych do rad ogłasza się w wojewódzkim dzienniku urzędowym i podaje do publicznej wiadomości, w formie obwieszczenia, w każdej gminie nie wcześniej niż na 6 miesięcy i nie później niż na 4 miesiące przed upływem kadencji. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 5 stycznia 2011 r. - Kodeks wyborczy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

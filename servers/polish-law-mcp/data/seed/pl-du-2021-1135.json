@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2021-1135",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 czerwca 2021 r. o zmianie ustawy o doręczeniach elektronicznych",
+  "title_en": "",
+  "short_name": "pl-du-2021-1135",
+  "status": "in_force",
+  "issued_date": "2021-06-15",
+  "in_force_date": "2021-06-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1135",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych ( Dz. U. poz. 2320 oraz z 2021 r. poz. 72 i 802 ) wprowadza się następujące zmiany: 1) użyte w art. 151 w ust. 1 i dwukrotnie w ust. 2 wyrazy „1 października 2021 r.” zastępuje się wyrazami „5 lipca 2022 r.” ; 2) użyte w art. 152: a) w ust. 1 i 2 we wprowadzeniu do wyliczenia wyrazy „30 września 2022 r.” zastępuje się wyrazami „31 stycznia 2023 r.” , b) w ust. 4 dwukrotnie wyrazy „1 października 2021 r.” zastępuje się wyrazami „5 lipca 2022 r.” ; 3) użyte w art. 155: a) w ust. 1 wyrazy „1 października 2021 r.” zastępuje się wyrazami „5 lipca 2022 r.” , b) w ust. 2-4 wyrazy „1 stycznia 2022 r.” zastępuje się wyrazami „5 lipca 2022 r.” ; 4) użyte w art. 166: a) we wprowadzeniu do wyliczenia wyrazy „1 lipca 2021 r.” zastępuje się wyrazami „5 października 2021 r.” , b) w pkt 5 wyrazy „1 października 2021 r.” zastępuje się wyrazami „5 lipca 2022 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Operator wyznaczony przedkłada Prezesowi Urzędu Komunikacji Elektronicznej projekt: 1) cennika, o którym mowa w art. 52 ust. 6 ustawy zmienianej w art. 1, 2) regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, o którym mowa w art. 54 ust. 3 ustawy zmienianej w art. 1 - w terminie do dnia 5 sierpnia 2021 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Postępowania administracyjne w sprawie przedłożonego na podstawie art. 150 ustawy zmienianej w art. 1 projektu pierwszego cennika publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej oraz projektu pierwszego regulaminu świadczenia publicznej usługi rejestrowanego doręczenia elektronicznego i publicznej usługi hybrydowej, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, umarza się."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

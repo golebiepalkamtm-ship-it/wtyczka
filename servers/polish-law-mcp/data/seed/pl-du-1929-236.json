@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-236",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 1929 r. o uzupełnieniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o godzinach handlu i godzinach otwarcia zakładów handlowych i niektórych przemysłowych.",
+  "title_en": "",
+  "short_name": "pl-du-1929-236",
+  "status": "repealed",
+  "issued_date": "1929-03-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/236",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 9 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o godzinach handlu i godzinach otwarcia zakładów handlowych i niektórych przemysłowych uzupełnia się przez dodanie na końcu tego artykułu ustępu treści następującej: „ W czasie sześciu dni, poprzedzających wigilję Bożego Narodzenia i Wielką Sobotę, na podstawie rozporządzenia Ministra Spraw Wewnętrznych w porozumieniu z Ministrami Pracy i Opieki Społecznej oraz Przemysłu i Handlu godziny handlu mogą być przedłużone z zachowaniem postanowień ustawodawstwa ochrony pracy w dni powszednie o dwie godziny, nie dłużej jednak niż do godziny 21-ej. W przypadającą w tym okresie niedzielę dozwolone jest wykonywanie handlu od godziny 13-ej do 18-ej. Rozporządzenie to będzie równoznaczne z udzieleniem zezwolenia Ministra Pracy i Opieki Społecznej na pracę w ciągu nadliczbowych godzin otwarcia sklepów w myśl art. 6 p. b) ustawy z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu (Dz. U. R. P. z 1920 r. Nr 2, poz. 7). ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrami Pracy i Opieki Społecznej oraz Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

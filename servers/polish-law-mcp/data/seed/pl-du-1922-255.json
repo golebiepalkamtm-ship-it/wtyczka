@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1922-255",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 1922 r. w przedmiocie zmian w ustawie z dnia 4 lutego 1921 r. o ustanowieniu orderu \"Odrodzenia Polski\".",
+  "title_en": "",
+  "short_name": "pl-du-1922-255",
+  "status": "in_force",
+  "issued_date": "1922-04-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/255",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 3 ustawy z dnia 4 lutego 1921 r. (Dz. U. R. P. № 24 poz. 137) otrzymuje następujące brzmienie: „ Order „Odrodzenia Polski” dzieli się na pięć klas. Odznakami orderu w poszczególnych klasach są: a) w klasie I wielki krzyż, zawieszony na szerokiej wstędze orderowej, przepasanej z prawego ramienia na lewy bok; obok wstęgi na lewej piersi gwiazda orderowa; b) w klasie II krzyż średniej wielkości, zawieszony na szyi na węższej wstędze; na prawej piersi gwiazda orderowa; c) w klasie III krzyż i wstęga tak, jak w klasie II, bez gwiazdy; d) w klasie IV krzyż mały, przypięty do lewej piersi na wstędze wąskiej, na wstędze rozetka, upięta z tejże wstążki; e) w klasie V krzyż mniejszy, przypięty do lewej piersi na wstędze wąskiej. Wzory rysunkowe odznak i ich szczegółowe wymiary według klas, według załącznika, którego oryginał będzie przechowany w Archiwum Dziennika Ustaw Rzeczypospolitej ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Kawalerowie orderu „Odrodzenia Polski” w zależności od nadanych im klas orderu otrzymują następujące tytuły: a) w klasie I - Kawaler wielkiej wstęgi orderu „Odrodzenia Polski”; b) w klasia II-Kawaler Krzyża Komandorskiego z gwiazdą orderu „Odrodzenia Polski”; c) w klasie III-Kawaler Krzyża Komandorskiego orderu „Odrodzenia Polski”; d) w klasie IV - Kawaler Krzyża Oficerskiego orderu „Odrodzenia Polski”; e) w klasie V - Kawaler orderu „Odrodzenia Polski”. Artykuł ten ma zastosowanie i do kawalerów, mianowanych przed wejściem w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Artykuł 9 ustawy z dnia 4 lutego 1921 r. (Dz. U. R. P. № 24 poz. 137) otrzymuje następujące brzmienie: „ Odznaki orderowe nadaje Naczelnik Państwa w drodze osobnych dekretów, ogłaszanych w gazecie rządowej, za kontrasygnatą Prezydenta Ministrów. Dekret odznaczenia orderem winien zawierać wyszczególnienia zasług, za które order został nadany. Obowiązek ogłaszania dekretów w gazecie rządowej oraz wyszczególnienia w dekrecie zasług, za które został order nadany, nie dotyczy cudzoziemców. Z końcem każdego roku będzie ogłaszany w gazecie rządowej wykaz cudzoziemców, odznaczonych orderem „Odrodzenia Polski”. Nie może być odznaczony poseł, ani członek senatu, w czasie trwania ich mandatu - z wyjątkiem pierwszych 15, odznaczonych na wniosek Tymczasowej Rady Orderu ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W końcu 1 ustępu artykułu 12 ustawy z dnia 4 lutego 1921 r. (Dz. U. R. P. № 24, poz. 137) skreśla się wyrazy: „w każdej klasie” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy poleca się Prezydentowi Ministrów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

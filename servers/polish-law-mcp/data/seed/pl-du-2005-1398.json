@@ -1,0 +1,920 @@
+{
+  "id": "pl-du-2005-1398",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2005-1398",
+  "status": "in_force",
+  "issued_date": "2005-07-28",
+  "in_force_date": "2005-09-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1398",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady i tryb pobierania kosztów sądowych w sprawach cywilnych, zasady ich zwrotu, wysokość opłat sądowych w sprawach cywilnych, zasady zwalniania od kosztów sądowych oraz umarzania, rozkładania na raty i odraczania terminu zapłaty należności sądowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Koszty sądowe obejmują opłaty i wydatki. 2. Do uiszczenia kosztów sądowych obowiązana jest strona, która wnosi do sądu pismo podlegające opłacie lub powodujące wydatki, chyba że ustawa stanowi inaczej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Opłacie podlega pismo, jeżeli przepis ustawy przewiduje jej pobranie. 2. Opłacie podlegają w szczególności następujące pisma: 1) pozew i pozew wzajemny; 2) apelacja i zażalenie; 3) skarga kasacyjna i skarga o stwierdzenie niezgodności z prawem prawomocnego orzeczenia; 4) sprzeciw od wyroku zaocznego; 5) zarzuty od nakazu zapłaty; 6) interwencja główna i uboczna; 7) wniosek: a) o wszczęcie postępowania nieprocesowego, b) o ogłoszenie upadłości, c) o wpis i wykreślenie w księdze wieczystej, d) o wpis w Krajowym Rejestrze Sądowym i w rejestrze zastawów oraz o zmianę i wykreślenie tych wpisów; 8) skarga: a) o wznowienie postępowania, b) o uchylenie wyroku sądu polubownego, c) na orzeczenie referendarza sądowego, d) na czynności komornika; 9) odwołanie od decyzji oraz zażalenie na postanowienie Prezesa Urzędu Ochrony Konkurencji i Konsumentów, Prezesa Urzędu Regulacji Energetyki, Prezesa Urzędu Regulacji Telekomunikacji i Poczty, Prezesa Urzędu Transportu Kolejowego, Przewodniczącego Krajowej Rady Radiofonii i Telewizji. 3. Opłacie podlega wniosek o wydanie na podstawie akt: odpisu, wypisu, zaświadczenia, wyciągu, innego dokumentu oraz kopii, a nadto wniosek o wydanie odpisu księgi wieczystej (opłata kancelaryjna)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Pismo wnoszone przez kilka osób podlega jednej opłacie. Jeżeli jednak przedmiotem sprawy są roszczenia lub zobowiązania jednego rodzaju i oparte na jednakowej podstawie faktycznej i prawnej (współuczestnictwo formalne), każdy współuczestnik uiszcza opłatę oddzielnie, stosownie do swojego roszczenia lub zobowiązania. 2. Opłatę od wniosku o dokonanie wpisu w księdze wieczystej pobiera się od osoby, która wystąpiła z takim wnioskiem, także wówczas, gdy na jego podstawie mają być ujawnione prawa osób, które nie są wnioskodawcami. 3. Nie pobiera się opłaty od wniosku o sporządzenie uzasadnienia oraz doręczenie odpisu orzeczenia z uzasadnieniem, zgłoszonego w terminie tygodniowym od dnia ogłoszenia sentencji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Wydatki obejmują w szczególności: 1) koszty podróży strony zwolnionej od kosztów sądowych związane z nakazanym przez sąd jej osobistym stawiennictwem; 2) zwrot kosztów podróży i noclegu oraz utraconych zarobków lub dochodów świadków; 3) wynagrodzenie i zwrot kosztów poniesionych przez biegłych, tłumaczy oraz kuratorów ustanowionych dla strony w danej sprawie; 4) wynagrodzenie należne innym osobom lub instytucjom oraz zwrot poniesionych przez nie kosztów; 5) koszty przeprowadzenia innych dowodów; 6) koszty przewozu zwierząt i rzeczy, utrzymywania ich lub przechowywania; 7) koszty ogłoszeń; 8) koszty osadzenia i pobytu w areszcie; 9) ryczałty należne kuratorom sądowym za przeprowadzenie wywiadu środowiskowego w sprawach: o unieważnienie małżeństwa, o rozwód oraz separację, a także za uczestniczenie przy ustalonych przez sąd kontaktach rodziców z dziećmi. 2. Wydatki związane z doręczaniem pism sądowych nie obciążają stron. 3. Wydatki związane ze zwrotem opłat nie obciążają stron."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Koszty mediacji nie stanowią wydatków."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Stroną w rozumieniu ustawy jest każdy uczestnik postępowania sądowego, w tym także świadek, biegły i tłumacz, a kosztami procesu są również koszty innych rodzajów postępowania. 2. Przez pismo wnoszone do sądu rozumie się również składany ustnie do protokołu pozew, wniosek wszczynający innego rodzaju postępowanie lub inny wniosek, jeżeli podlega opłacie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. W postępowaniu dotyczącym kosztów sądowych stosuje się przepisy Kodeksu postępowania cywilnego , chyba że ustawa stanowi inaczej. 2. Postanowienie sądu lub referendarza sądowego w przedmiocie kosztów sądowych może być wydane na posiedzeniu niejawnym."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Sprawiedliwości określi, w drodze rozporządzenia: 1) sposób uiszczania opłat sądowych w sprawach cywilnych, w tym wnoszonych na rachunek bankowy sądu lub w formie znaków opłaty sądowej według ustalonego wzoru, mając na względzie łatwość uiszczenia opłat przez strony oraz skutek w postaci zwrotu lub odrzucenia pisma, od którego przy jego wniesieniu nie została uiszczona należna opłata; 2) wzór oświadczenia o stanie rodzinnym, majątku, dochodach i źródłach utrzymania, o którym mowa w art. 102 ust. 2, a także sposób udostępniania osobom fizycznym wzoru druków tych oświadczeń w siedzibach sądów, mając na względzie komunikatywność niezbędnych pouczeń dla stron co do sposobu wypełnienia, skutków niezłożenia lub złożenia nieprawdziwego oświadczenia; 3) wysokość wynagrodzenia i zwrot wydatków poniesionych przez biegłych, kuratorów ustanowionych dla strony w danej sprawie oraz innych osób i instytucji, mając na względzie nakład pracy i kwalifikacje niezbędne do wykonywania zleconych przez sąd czynności oraz poziom wynagrodzeń uzyskiwanych przez pracowników wykonujących podobne zawody. Tytuł II Opłaty Dział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Opłatę należy uiścić przy wniesieniu do sądu pisma podlegającego opłacie."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Opłata jest stała, stosunkowa albo podstawowa."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Opłatę stałą pobiera się w sprawach o prawa niemajątkowe oraz we wskazanych w ustawie niektórych sprawach o prawa majątkowe, w wysokości jednakowej, niezależnie od wartości przedmiotu sporu lub wartości przedmiotu zaskarżenia. Opłata stała nie może być niższa niż 30 złotych i wyższa niż 5 000 złotych."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Opłatę stosunkową pobiera się w sprawach o prawa majątkowe; wynosi ona 5% wartości przedmiotu sporu lub przedmiotu zaskarżenia, jednak nie mniej niż 30 złotych i nie więcej niż 100 000 złotych."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Opłatę podstawową pobiera się w sprawach, w których przepisy nie przewidują opłaty stałej, stosunkowej lub tymczasowej. 2. Opłatę podstawową pobiera się także od podlegających opłacie pism, o których mowa w art. 3 ust. 2, wnoszonych przez stronę zwolnioną od kosztów sądowych przez sąd, chyba że ustawa stanowi inaczej. 3. Opłata podstawowa wynosi 30 złotych i stanowi minimalną opłatę, którą strona jest obowiązana uiścić od pisma podlegającego opłacie, chyba że ustawa stanowi inaczej. 4. Pobranie od pisma opłaty podstawowej wyłącza pobranie innej opłaty. 5. Przepisów o opłacie podstawowej nie stosuje się w postępowaniu wieczystoksięgowym oraz w postępowaniu rejestrowym."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Od pisma wniesionego w sprawie o prawa majątkowe, w której wartości przedmiotu sprawy nie da się ustalić w chwili jej wszczęcia, przewodniczący określa opłatę tymczasową. 2. Opłatę tymczasową określa się w granicach od 30 złotych do 1 000 złotych. 3. W orzeczeniu kończącym postępowanie w pierwszej instancji sąd określa wysokość opłaty ostatecznej, która jest bądź opłatą stosunkową, obliczoną od wartości przedmiotu sporu ustalonej w toku postępowania, bądź opłatą określoną przez sąd, jeżeli wartości tej nie udało się ustalić. W tym wypadku opłatę ostateczną sąd określa w kwocie nie wyższej niż 5 000 złotych, mając na względzie społeczną doniosłość rozstrzygnięcia i stopień zawiłości sprawy."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Jeżeli opłata ostateczna jest wyższa od opłaty tymczasowej, sąd orzeka o obowiązku uiszczenia różnicy, stosując odpowiednio zasady obowiązujące przy zwrocie kosztów procesu. 2. Jeżeli opłata ostateczna jest niższa od opłaty tymczasowej, różnicę sąd zwraca z urzędu na koszt strony."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "W wypadku wstąpienia do sprawy osoby, na której rzecz prokurator wytoczył powództwo lub zgłosił wniosek o wszczęcie postępowania, pobiera się od tej osoby opłatę należną od takiego pozwu lub wniosku."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Całą opłatę pobiera się od pozwu i pozwu wzajemnego oraz wniosku o wszczęcie postępowania nieprocesowego lub samodzielnej jego części, chyba że przepis szczególny stanowi inaczej. 2. Przepisy ustawy przewidujące pobranie opłaty od pozwu lub wniosku wszczynającego postępowanie w sprawie stosuje się również do opłaty od apelacji, skargi kasacyjnej, skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, interwencji głównej, skargi o wznowienie postępowania, skargi o uchylenie wyroku sądu polubownego, chyba że przepis szczególny stanowi inaczej."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Połowę opłaty pobiera się od sprzeciwu od wyroku zaocznego. 2. Czwartą część opłaty pobiera się od pozwu w postępowaniu nakazowym lub upominawczym, z wyłączeniem spraw podlegających rozpoznaniu w postępowaniu uproszczonym. 3. Piątą część opłaty pobiera się od: 1) interwencji ubocznej; 2) zażalenia, chyba że przepis szczególny stanowi inaczej. 4. Trzy czwarte części opłaty pobiera się od: 1) pozwanego w razie wniesienia zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym; 2) powoda w razie prawidłowego wniesienia przez pozwanego sprzeciwu przeciwko nakazowi zapłaty wydanemu w postępowaniu upominawczym."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Opłata, o której mowa w art. 19, nie może wynosić mniej niż 30 złotych. 2. Jeżeli opłata ta ma być pobrana przed ustaleniem opłaty ostatecznej, pobiera się odpowiednią część opłaty tymczasowej, nie mniej jednak niż 30 złotych."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Końcówkę opłaty zaokrągla się w górę do pełnego złotego. Dział 2 Wysokość opłat we wszystkich rodzajach spraw"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera się od zażalenia na postanowienie w przedmiocie: 1) oddalenia wniosku o wyłączenie sędziego, ławnika, biegłego lub tłumacza; 2) skazania na grzywnę strony, świadka, biegłego, tłumacza lub innej osoby oraz odmowy zwolnienia od grzywny; 3) przymusowego sprowadzenia lub aresztowania świadka oraz odmowy zwolnienia od przymusowego sprowadzenia; 4) wynagrodzenia i zwrotu kosztów poniesionych przez biegłego, tłumacza i kuratora; 5) należności świadka."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera się od: 1) wniosku o wszczęcie postępowania nieprocesowego lub samodzielnej jego części, chyba że przepis szczególny stanowi inaczej; 2) apelacji, zażalenia, skargi kasacyjnej, skargi o wznowienie postępowania i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w sprawie, w której postępowanie nieprocesowe zostało wszczęte z urzędu; 3) wniosku o przeprowadzenie postępowania pojednawczego; 4) wniosku o zabezpieczenie dowodu."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Opłatę stałą w kwocie 300 złotych pobiera się od wniosku o: 1) uznanie orzeczenia sądu zagranicznego; 2) uznanie ugody zawartej przed sądem zagranicznym; 3) stwierdzenie wykonalności orzeczenia sądu zagranicznego lub ugody zawartej przed sądem zagranicznym; 4) wydanie postanowienia co do wykonalności wyroku sądu polubownego lub ugody zawartej przed sądem polubownym; 5) stwierdzenie wykonalności orzeczenia zagranicznego sądu polubownego lub ugody zawartej przed zagranicznym sądem polubownym."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Opłatę stałą w kwocie 100 złotych pobiera się od: 1) skargi na czynności komornika; 2) zażalenia na odmowę dokonania czynności notarialnej. 2. Opłatę od skargi na orzeczenie referendarza pobiera się w wysokości opłaty od wniosku o wydanie tego orzeczenia, nie więcej jednak niż 100 złotych. Dział 3 Wysokość opłat w procesie Rozdział 1 Sprawy z zakresu prawa cywilnego i rodzinnego"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Opłatę stałą w kwocie 600 złotych pobiera się od pozwu o: 1) rozwód; 2) separację; 3) ochronę dóbr osobistych; 4) ochronę niemajątkowych praw autorskich; 5) ochronę niemajątkowych praw wynikających z opatentowania wynalazków lub rejestracji wzorów użytkowych i zdobniczych oraz znaków towarowych (ochronę praw twórcy projektu wynalazczego); 6) ochronę innych praw niemajątkowych, chyba że przepis szczególny stanowi inaczej. 2. W sprawach o rozwód, o separację lub o unieważnienie małżeństwa, w razie zasądzenia alimentów na rzecz małżonka w orzeczeniu kończącym postępowanie w instancji, pobiera się od małżonka zobowiązanego opłatę stosunkową od zasądzonego roszczenia, a w razie nakazania eksmisji jednego z małżonków albo podziału wspólnego majątku pobiera się także opłatę w wysokości przewidzianej od pozwu lub wniosku w takiej sprawie."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Opłatę stałą w kwocie 200 złotych pobiera się od pozwu w sprawie o: 1) ustalenie istnienia lub nieistnienia małżeństwa; 2) unieważnienie małżeństwa; 3) rozwiązanie przysposobienia; 4) zaprzeczenie ojcostwa lub macierzyństwa; 5) unieważnienie uznania dziecka; 6) ustanowienie przez sąd rozdzielności majątkowej; 7) naruszenie posiadania; 8) uchylenie uchwały organu spółdzielni; 9) uchylenie uchwały wspólnoty mieszkaniowej; 10) przyjęcie w poczet członków spółdzielni mieszkaniowej; 11) opróżnienie lokalu mieszkalnego lub lokalu o innym przeznaczeniu; 12) ustalenie wstąpienia w stosunek najmu."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "W sprawie podlegającej rozpoznaniu w postępowaniu uproszczonym pobiera się od pozwu opłatę stałą, przy wartości przedmiotu sporu lub wartości przedmiotu umowy: 1) do 2 000 złotych - 30 złotych; 2) ponad 2 000 złotych do 5 000 złotych - 100 złotych; 3) ponad 5 000 złotych do 7 500 złotych - 250 złotych; 4) ponad 7 500 złotych - 300 złotych. Rozdział 2 Sprawy gospodarcze"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Opłatę stałą w kwocie 2 000 złotych pobiera się od pozwu w sprawie o: 1) rozwiązanie spółki; 2) wyłączenie wspólnika ze spółki; 3) uchylenie uchwały organu spółki."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od pozwu w sprawie z zakresu ochrony środowiska."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Opłatę stałą w kwocie 1 500 złotych pobiera się od pozwu: 1) w sprawie z umowy o przekazanie mienia w ramach prywatyzacji; 2) w sprawie o unieważnienie przetargu."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Opłatę stałą w kwocie 1 000 złotych pobiera się od odwołania od decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów, a także od apelacji, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie. 2. Opłatę stałą w kwocie 500 złotych pobiera się od zażalenia na postanowienie Prezesa Urzędu Ochrony Konkurencji i Konsumentów. 3. Opłatę stałą w kwocie 100 złotych pobiera się od odwołania od decyzji Prezesa Urzędu Regulacji Energetyki, Prezesa Urzędu Regulacji Telekomunikacji i Poczty, Prezesa Urzędu Transportu Kolejowego, a także od apelacji, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie. 4. Opłatę stałą w kwocie 50 złotych pobiera się od zażalenia na postanowienie Prezesa Urzędu Regulacji Energetyki, Prezesa Urzędu Regulacji Telekomunikacji i Poczty oraz Prezesa Urzędu Transportu Kolejowego."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Opłatę stałą w kwocie 3 000 złotych pobiera się od odwołania od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a także od apelacji, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Opłatę stałą w kwocie 3 000 złotych pobiera się od skargi na orzeczenie zespołu arbitrów w sprawach zamówień publicznych. Rozdział 3 Sprawy z zakresu prawa pracy i ubezpieczeń społecznych"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. W sprawach z zakresu prawa pracy pobiera się opłatę podstawową w kwocie 30 złotych wyłącznie od apelacji, zażalenia, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia. Jednakże w sprawach, w których wartość przedmiotu sporu przewyższa kwotę 50 000 złotych, pobiera się od wszystkich podlegających opłacie pism procesowych opłatę stosunkową. 2. Pracownik i pracodawca uiszczają opłatę podstawową od pism podlegających opłacie wymienionych w ust. 1, także w sprawie o ustalenie istnienia stosunku pracy wytoczonej z powództwa inspektora pracy."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "W sprawach z zakresu ubezpieczeń społecznych i w sprawach odwołań rozpoznawanych przez sąd pracy i ubezpieczeń społecznych pobiera się opłatę podstawową w kwocie 30 złotych wyłącznie od apelacji, zażalenia, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia. Dział 4 Wysokość opłat w postępowaniu nieprocesowym Rozdział 1 Sprawy z zakresu prawa rodzinnego i opiekuńczego"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o: 1) zezwolenie na zawarcie związku małżeńskiego; 2) zmianę wyroku orzekającego rozwód lub separację w części dotyczącej władzy rodzicielskiej; 3) separację na zgodne żądanie małżonków; 4) zniesienie separacji; 5) zezwolenie na udzielenie pełnomocnictwa do oświadczenia o wstąpieniu w związek małżeński; 6) zwolnienie od obowiązku złożenia lub przedstawienia kierownikowi urzędu stanu cywilnego dokumentu potrzebnego do zawarcia związku małżeńskiego."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o podział majątku wspólnego po ustaniu małżeńskiej wspólności majątkowej. 2. Jeżeli wniosek zawiera zgodny projekt podziału tego majątku, pobiera się opłatę stałą w kwocie 300 złotych. Rozdział 2 Sprawy z zakresu prawa rzeczowego"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o: 1) ustanowienie drogi koniecznej; 2) rozgraniczenie nieruchomości; 3) stwierdzenie nabycia służebności gruntowej przez zasiedzenie. 2. Opłatę w kwocie 100 złotych pobiera się od wniosku o: 1) ustalenie sposobu korzystania z rzeczy wspólnej; 2) ustanowienie zarządcy rzeczy wspólnej lub przedmiotu użytkowania; 3) rozstrzygnięcie co do dokonania czynności dotyczącej rzeczy wspólnej."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Opłatę stałą w kwocie 2 000 złotych pobiera się od wniosku o stwierdzenie nabycia własności nieruchomości przez zasiedzenie."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o zniesienie współwłasności. 2. Jeżeli wniosek zawiera zgodny projekt zniesienia współwłasności, pobiera się opłatę stałą w kwocie 300 złotych. Rozdział 3 Sprawy z zakresu prawa o księgach wieczystych"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o wpis w księdze wieczystej własności, użytkowania wieczystego lub ograniczonego prawa rzeczowego , chyba że przepis szczególny stanowi inaczej. 2. Jeżeli wniosek dotyczy wpisu udziału w prawie, pobiera się część opłaty stałej proporcjonalną do wysokości udziału, nie mniej jednak niż 100 złotych. 3. Od wniosku o wpis w księdze wieczystej własności, użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu na podstawie dziedziczenia, zapisu lub działu spadku albo zniesienia współwłasności pobiera się jedną opłatę stałą w wysokości 150 złotych niezależnie od liczby udziałów w tych prawach."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o wpis: 1) własności, użytkowania wieczystego, spółdzielczego własnościowego prawa do lokalu nabytego w wyniku podziału majątku wspólnego po ustaniu wspólności majątkowej między małżonkami; 2) własności nieruchomości rolnej o powierzchni do 5 ha; 3) praw osobistych i roszczeń; 4) zmiany treści ograniczonych praw rzeczowych ."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Opłatę stałą w kwocie 60 złotych pobiera się od wniosku o: 1) założenie księgi wieczystej; 2) połączenie nieruchomości w jednej księdze wieczystej, która jest już prowadzona, niezależnie od liczby łączonych nieruchomości; 3) odłączenie nieruchomości lub jej części; 4) sprostowanie działu I-O; 5) wpis ostrzeżenia o niezgodności stanu prawnego ujawnionego w księdze wieczystej z rzeczywistym stanem prawnym; 6) dokonanie innych wpisów, poza określonymi w art. 42 i 43. 2. Jeżeli założenie księgi wieczystej następuje w związku z odłączeniem nieruchomości lub jej części z istniejącej księgi wieczystej, pobiera się tylko jedną opłatę stałą określoną w ust. 1."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Opłatę stałą określoną w art. 44 ust. 1 pkt 1-3 pobiera się niezależnie od opłaty za dokonanie wpisu własności, użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu. 2. Opłatę stałą określoną w art. 42 i 43 pobiera się odrębnie od wniosku o wpis każdego prawa, choćby wpis dwu lub więcej praw miał być dokonany na tej samej podstawie prawnej. 3. Od wniosku o wpis hipoteki łącznej lub służebności pobiera się jedną opłatę stałą, choćby wniosek ten obejmował więcej niż jedną księgę wieczystą."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Od wniosku o wykreślenie wpisu pobiera się połowę opłaty pobranej od wniosku o wpis."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Wydatki związane z drukiem księgi wieczystej i teczki akt tej księgi nie obciążają stron."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Od wniosku o złożenie do zbioru dokumentów pobiera się opłatę stałą, przewidzianą dla wniosku o wpis do księgi wieczystej. Rozdział 4 Sprawy z zakresu prawa spadkowego"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Opłatę stałą w kwocie 50 złotych pobiera się od wniosku o: 1) stwierdzenie nabycia spadku; 2) zabezpieczenie spadku; 3) sporządzenie spisu inwentarza; 4) odebranie oświadczenia o przyjęciu lub odrzuceniu spadku. 2. Jeżeli wnioski, o których mowa w ust. 1, są umieszczone w jednym piśmie lub we wniosku o dział spadku, opłatę pobiera się od każdego z nich odrębnie."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od: 1) apelacji, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w sprawie o stwierdzenie nabycia spadku; 2) wniosku o zabezpieczenie spadku po cudzoziemcu; 3) wniosku o wydanie właściwemu konsulowi spadku po cudzoziemcu."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Opłatę stałą w kwocie 500 złotych pobiera się od wniosku o dział spadku, a jeżeli zawiera on zgodny projekt działu spadku, pobiera się opłatę stałą w kwocie 300 złotych. 2. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o dział spadku połączony ze zniesieniem współwłasności, a jeżeli zawiera on zgodny projekt działu spadku i zniesienia współwłasności, pobiera się opłatę stałą w kwocie 600 złotych. Rozdział 5 Sprawy z zakresu działania krajowego rejestru sądowego"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o zarejestrowanie podmiotu w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, chyba że przepis szczególny stanowi inaczej."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Opłatę stałą w kwocie 500 złotych pobiera się od wniosku o zarejestrowanie w Krajowym Rejestrze Sądowym w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej. 2. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku, o którym mowa w ust. 1, jeżeli dotyczy on jednocześnie wpisu do rejestru przedsiębiorców."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Opłatę stałą w kwocie 300 złotych pobiera się od wniosku o: 1) wpisanie dłużnika do rejestru dłużników niewypłacalnych w Krajowym Rejestrze Sądowym; 2) wykreślenie podmiotu z rejestru przedsiębiorców lub z rejestru stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej połączone z wykreśleniem z Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Opłatę stałą w kwocie 400 złotych pobiera się od wniosku o dokonanie zmiany wpisu dotyczącego podmiotu wpisanego do rejestru przedsiębiorców."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o: 1) dokonanie zmiany wpisu dotyczącego podmiotu wpisanego tylko w rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej, niewpisanego do rejestru przedsiębiorców; 2) wykreślenie z rejestru przedsiębiorców - bez wykreślenia z Krajowego Rejestru Sądowego; 3) wykreślenie z rejestru dłużników niewypłacalnych."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "W wypadku jednoczesnego wniesienia przez tego samego wnioskodawcę, na kilku formularzach, kilku wniosków o wpis lub o dokonanie zmian w Krajowym Rejestrze Sądowym - pobiera się tylko jedną opłatę, z tym że jeżeli przepis przewiduje dla danego rodzaju spraw opłaty w różnych wysokościach - pobiera się opłatę wyższą."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Jedną opłatę stałą w kwocie 100 złotych pobiera się od skargi na orzeczenie referendarza sądowego, chociażby dotyczyło kilku wpisów w rejestrze przedsiębiorców lub rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Opłatę stałą w kwocie 300 złotych pobiera się od innych wniosków niż wymienione w art. 52-58, jeżeli należą do właściwości sądu dokonującego wpisów w Krajowym Rejestrze Sądowym."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o wpis zastawu rejestrowego do rejestru zastawów."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o zmianę wpisu w rejestrze zastawów."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Opłatę stałą w kwocie 50 złotych pobiera się od wniosku o wykreślenie zastawu rejestrowego z rejestru zastawów."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera się od wniosku o przyjęcie dokumentów, o których sąd czyni wzmiankę w rejestrze, oraz dokumentów zawierających dane niepodlegające według przepisów ustawy wpisowi do określonego działu Krajowego Rejestru Sądowego."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera się od wniosku o uwierzytelnienie odpisu statutu w postępowaniu rejestrowym. Rozdział 6 Inne sprawy rozpoznawane w postępowaniu nieprocesowym"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Opłatę stałą w kwocie 300 złotych pobiera się od wniosku w sprawie między organami przedsiębiorstwa państwowego i między przedsiębiorstwem państwowym lub jego organami a jego organem założycielskim albo organem sprawującym nadzór."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o umorzenie utraconego dokumentu."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o: 1) złożenie przedmiotu świadczenia do depozytu sądowego; 2) wydanie z depozytu przedmiotu świadczenia. Dział 5 Wysokość opłat w postępowaniu zabezpieczającym"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera się od wniosku o: 1) udzielenie zabezpieczenia roszczenia niemajątkowego, chyba że wniosek został zgłoszony w piśmie rozpoczynającym postępowanie; 2) zmianę lub uchylenie postanowienia w przedmiocie zabezpieczenia roszczenia niemajątkowego."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera sąd od wniosku o: 1) udzielenie zabezpieczenia roszczenia majątkowego, chyba że wniosek został zgłoszony w piśmie rozpoczynającym postępowanie; 2) zmianę lub uchylenie postanowienia w przedmiocie zabezpieczenia roszczenia majątkowego. Dział 6 Wysokość opłat w postępowaniu egzekucyjnym"
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Opłatę stałą w kwocie 40 złotych pobiera sąd od wniosku o: 1) wezwanie dłużnika do wykonania egzekwowanej czynności w wyznaczonym terminie oraz umocowanie wierzyciela do wykonania tej czynności na koszt dłużnika, w razie bezskutecznego upływu wyznaczonego terminu; 2) ukaranie grzywną dłużnika niewykonującego obowiązku zaniechania czynności lub nieprzeszkadzania czynnościom wierzyciela; 3) przeprowadzenie przez sąd egzekucji czynności o charakterze niemajątkowym, której inna osoba nie może za dłużnika wykonać; 4) ponowne wydanie tytułu wykonawczego w zamian utraconego; 5) nakazanie dłużnikowi wyjawienia majątku."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Opłatę stałą w kwocie 50 złotych pobiera sąd od wniosku o: 1) nadanie klauzuli wykonalności tytułowi egzekucyjnemu, innemu niż orzeczenie sądu, ugoda sądowa albo nakaz zapłaty; 2) nadanie klauzuli wykonalności przeciwko małżonkowi dłużnika; 3) nadanie klauzuli wykonalności przeciwko lub na rzecz osoby innej niż wskazana w tytule egzekucyjnym, na którą przeszły uprawnienie lub obowiązek po powstaniu tytułu lub w toku sprawy przed wydaniem tytułu; 4) nadanie klauzuli wykonalności przeciwko wspólnikowi ponoszącemu odpowiedzialność bez ograniczenia całym swoim majątkiem za zobowiązania spółki; 5) ustanowienie zarządcy nieruchomości lub innej rzeczy albo prawa, z których prowadzi się egzekucję według przepisów o egzekucji z nieruchomości; 6) umorzenie książeczki oszczędnościowej w związku z zajęciem wkładu, na który ją wystawiono."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od: 1) zarzutów na opis i oszacowanie nieruchomości; 2) zarzutów przeciwko planowi podziału sumy uzyskanej z egzekucji oraz zażalenia na postanowienie wydane w wyniku rozpoznania zarzutów; 3) wniosku o podział złożonej od depozytu sądowego sumy odszkodowania za wywłaszczoną nieruchomość i wypłatę odszkodowania; 4) wniosku o udzielenie przybicia nieruchomości lub innej rzeczy albo prawa, z których egzekucję prowadzi się według przepisów o egzekucji z nieruchomości; opłatę tę uiszcza się przed przysądzeniem własności; 5) wniosku o przeprowadzenie przez sąd egzekucji czynności o charakterze majątkowym, której inna osoba nie może wykonać za dłużnika; 6) zatwierdzenia planu podziału sumy uzyskanej z egzekucji, a także wprowadzenia do planu zmian lub uzupełnień."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o: 1) wszczęcie egzekucji przez zarząd przymusowy przedsiębiorstwa lub gospodarstwa rolnego; 2) wszczęcie egzekucji przez sprzedaż przedsiębiorstwa lub gospodarstwa rolnego. Dział 7 Wysokość opłat w postępowaniu upadłościowym, układowym i naprawczym"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Opłatę stałą w kwocie 1 000 złotych pobiera się od: 1) wniosku o ogłoszenie upadłości; 2) wniosku zarządcy zagranicznego w przedmiocie uznania zagranicznego postępowania upadłościowego."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Opłatę stałą w kwocie 200 złotych pobiera się od: 1) wniosku o wszczęcie postępowania naprawczego; 2) wniosku o wszczęcie wtórnego postępowania upadłościowego; 3) zażalenia na postanowienia wydane w postępowaniu upadłościowym i naprawczym; 4) sprzeciwu co do uznania lub odmowy uznania zgłoszonych wierzytelności."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Opłatę stałą w kwocie 100 złotych pobiera się od: 1) zarzutów przeciwko układowi i przeciwko planowi podziału; 2) wniosku o uchylenie lub zmianę układu; 3) wniosku o uchylenie lub zmianę orzeczenia o uznaniu zagranicznego postępowania upadłościowego; 4) wniosku w sprawie zakazu prowadzenia działalności gospodarczej. Dział 8 Opłaty kancelaryjne"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "1. Opłatę od wniosku o wydanie na podstawie akt: 1) poświadczonego odpisu, wypisu lub wyciągu, 2) odpisu orzeczenia ze stwierdzeniem prawomocności, 3) odpisu orzeczenia ze stwierdzeniem wykonalności, 4) zaświadczenia - pobiera się w kwocie 6 złotych za każdą rozpoczętą stronicę wydanego dokumentu. 2. Jeżeli dokument, o którym mowa w ust. 1 pkt 1, jest sporządzony w języku obcym albo zawiera tabele, pobiera się opłatę w podwójnej wysokości. 3. Opłatę, o której mowa w ust. 1, pobiera się od wniosku o odpis księgi wieczystej, o ile przepis szczególny nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Opłatę od wniosku o wydanie kopii dokumentu, znajdującego się w aktach sprawy, pobiera się w kwocie 1 złotego za każdą rozpoczętą stronicę wydanego dokumentu. Dział 9 Zwrot opłaty"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "1. Sąd z urzędu zwraca stronie: 1) całą uiszczoną opłatę od: a) pisma zwróconego wskutek braków formalnych, b) pisma odrzuconego lub cofniętego, jeżeli odrzucenie lub cofnięcie nastąpiło przed wysłaniem odpisu pisma innym stronom, a w braku takich stron - przed wysłaniem zawiadomienia o terminie posiedzenia, c) zażalenia na postanowienie w przedmiocie ukarania grzywną albo aresztem, zamiany grzywny na areszt albo w przedmiocie przymusowego sprowadzenia, jeżeli zażalenie zostało uwzględnione w całości, d) zażalenia na postanowienie o przyznaniu wynagrodzenia biegłemu lub tłumaczowi, jeżeli zażalenie zostało uwzględnione w całości, e) apelacji, zażalenia, skargi kasacyjnej w razie uwzględnienia środka zaskarżenia z powodu oczywistego naruszenia prawa i stwierdzenia tego naruszenia przez sąd odwoławczy lub Sąd Najwyższy, f) skargi na orzeczenie referendarza sądowego w razie jej uwzględnienia z powodu oczywistego naruszenia prawa i stwierdzenie tego naruszenia przez sąd, g) skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w razie jej uwzględnienia; 2) trzy czwarte uiszczonej opłaty od: a) pisma wszczynającego postępowanie w pierwszej instancji, jeżeli w toku postępowania sądowego zawarto ugodę przed mediatorem, b) skargi kasacyjnej lub skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nieprzyjętej do rozpoznania przez Sąd Najwyższy; 3) połowę uiszczonej opłaty od: a) pisma cofniętego przed rozpoczęciem posiedzenia, na które sprawa została skierowana, b) pozwu o rozwód lub separację w razie orzeczenia rozwodu lub separacji na zgodny wniosek stron bez orzekania o winie - po uprawomocnieniu się wyroku, z zastrzeżeniem art. 26 ust. 2, c) pisma wszczynającego postępowanie w instancji, w której sprawa zakończyła się zawarciem ugody sądowej. 2. Poza wypadkami przewidzianymi w ust. 1 sąd z urzędu zwraca stronie całą uiszczoną opłatę od pozwu o rozwód lub separację albo wniosku o separację w razie cofnięcia pozwu lub wniosku na skutek pojednania się stron w pierwszej instancji. W razie pojednania się stron przed zakończeniem postępowania apelacyjnego, zwraca się połowę uiszczonej opłaty od apelacji."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1. Sąd z urzędu zwraca stronie różnicę między opłatą pobraną od strony a opłatą należną. 2. Opłatę zwraca sąd, który ją pobrał, a w przypadku gdy opłatę pobierał notariusz - sąd, który rozpoznawał wniosek."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Roszczenie strony o zwrot opłaty sądowej przedawnia się z upływem trzech lat, licząc od dnia powstania tego roszczenia."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Zwrot opłat, o którym mowa w niniejszym rozdziale, może również zarządzić przewodniczący lub referendarz sądowy. Tytuł III Wydatki Dział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "1. Jeżeli przepisy ustawy przewidują obowiązek działania i dokonywania czynności połączonej z wydatkami z urzędu, sąd zarządzi wykonanie tej czynności, a kwotę potrzebną na ich pokrycie wykłada tymczasowo Skarb Państwa. 2. W orzeczeniu kończącym postępowanie w sprawie sąd orzeka o poniesionych tymczasowo przez Skarb Państwa wydatkach, stosując odpowiednio przepisy art. 113."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Sąd z urzędu zwraca stronie wszelkie należności z tytułu wydatków, stanowiące różnicę między kosztami pobranymi od strony a kosztami należnymi. 2. Przepisy art. 80-82 stosuje się odpowiednio do zwrotu zaliczki. 3. Przepis art. 5 ust. 3 stosuje się odpowiednio. Dział 2 Należności świadków, biegłych, tłumaczy i stron w postępowaniu cywilnym"
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "1. Świadkowi przysługuje zwrot kosztów podróży, kosztów noclegu i utraconych zarobków lub dochodów, związanych ze stawiennictwem w sądzie. 2. Wynagrodzenie za utracony zarobek lub dochód za każdy dzień udziału w czynnościach sądowych na wezwanie sądu przyznaje się świadkowi w wysokości jego przeciętnego dziennego zarobku lub dochodu. W przypadku świadka pozostającego w stosunku pracy przeciętny dzienny utracony zarobek oblicza się według zasad obowiązujących przy ustalaniu należnego pracownikowi ekwiwalentu pieniężnego za urlop. W każdym jednak przypadku górną granicę należności za utracony dzienny zarobek lub dochód stanowi równowartość 4,6% kwoty bazowej dla osób zajmujących kierownicze stanowiska państwowe, której wysokość, ustaloną według odrębnych zasad, określa ustawa budżetowa."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "1. Świadkowi przysługuje zwrot kosztów podróży - z miejsca jego zamieszkania do miejsca wykonywania czynności sądowej na wezwanie sądu - według zasad obowiązujących przy obliczaniu należności przysługujących pracownikowi, zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju. 2. Według tych samych zasad świadkowi przysługuje zwrot kosztów noclegu oraz utrzymania w miejscu przesłuchania."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "1. Prawo do żądania należności przewidzianych w art. 85 i 86 służy osobie wezwanej w charakterze świadka, jeżeli się stawiła, choćby nie została przesłuchana. 2. W wypadku gdy osoba uprawniona do otrzymania należności przewidzianych w art. 85 i 86 zostanie wezwana w charakterze świadka w kilku sprawach na ten sam dzień, przyznaje się jej te należności tylko raz. 3. Świadkowi, który zgłosił się bez wezwania sądu, należności przewidziane w art. 85 i 86 mogą być przyznane tylko w wypadku, jeżeli został przesłuchany przez sąd."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Sąd przyznaje zwrot kosztów podróży i kosztów noclegu także osobie towarzyszącej świadkowi, jeżeli świadek ze względu na stan zdrowia nie mógł przybyć do sądu bez opieki osoby mu towarzyszącej."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "1. Biegłemu lub tłumaczowi powołanemu przez sąd przysługuje zwrot kosztów podróży, innych wydatków koniecznych związanych ze stawiennictwem w sądzie oraz wynagrodzenie za wykonaną pracę. 2. Biegłemu lub tłumaczowi wezwanemu do sądu przysługuje prawo do zwrotu kosztów podróży związanych ze stawiennictwem w sądzie, nawet jeżeli sąd nie skorzystał z jego usług. 3. Biegłemu lub tłumaczowi przysługuje zwrot kosztów podróży z miejsca jego zamieszkania do miejsca wykonywania czynności sądowej na wezwanie sądu oraz zwrot kosztów noclegu według zasad określonych w art. 86. 4. W razie wezwania biegłego lub tłumacza do sądu w kilku sprawach na ten sam dzień należności przewidziane w ust. 3 przyznaje się tylko raz."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "Wysokość wynagrodzenia biegłego za wykonaną pracę określa się, uwzględniając wymagane kwalifikacje, potrzebny do wydania opinii czas i nakład pracy, a wysokość wydatków niezbędnych do wykonania czynności - na podstawie złożonego rachunku."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "W wypadku gdy obowiązujące przepisy przewidują przyznanie stronie należności w związku z jej udziałem w postępowaniu sądowym, należności te przyznaje się stronie w wysokości przewidzianej dla świadków."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Zwrot wydatków, utraconego zarobku lub dochodu, wynagrodzenia i kosztów podróży przyznaje się na wniosek świadka, biegłego lub tłumacza złożony na piśmie lub ustnie do protokołu rozprawy. 2. Wniosek o przyznanie należności, o jakich mowa w ust. 1, składa się niezwłocznie, nie później jednak niż w ciągu trzech dni po wykonaniu czynności, a jeżeli czynności były podejmowane na rozprawie - najpóźniej w ciągu trzech dni po rozprawie. Osoby, które nie zgłosiły żądania w tym terminie, tracą prawo do przyznania im tych należności. 3. Roszczenie o zwrot należności, o których mowa w ust. 1, przedawnia się z upływem lat trzech, licząc od dnia powstania tego roszczenia. 4. Świadek, biegły lub tłumacz powinni być pouczeni o prawie i sposobie zgłoszenia wniosku o zwrot należności oraz o skutkach niezachowania terminu wskazanego w ust. 2."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "1. Należności świadków, biegłych, tłumaczy i stron przyznaje i ustala sąd lub referendarz sądowy. 2. Przyznaną należność należy wypłacić niezwłocznie. W wypadku niemożności niezwłocznej wypłaty należność przekazuje się przekazem pocztowym lub przelewem bankowym bez obciążania świadka, biegłego lub tłumacza opłatą pocztową lub kosztami przelewu. Tytuł IV Zwolnienie od kosztów sądowych"
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Skarb Państwa nie ma obowiązku uiszczania opłat."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "1. Nie pobiera się opłat od wniosku: 1) o zabezpieczenie roszczenia, zgłoszonego w piśmie rozpoczynającym postępowanie; 2) o przyjęcie oświadczenia o uznaniu dziecka, o nadanie dziecku nazwiska, o przysposobienie dziecka, o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką; 3) o przesłuchanie świadka testamentu ustnego, o otwarcie i ogłoszenie testamentu oraz o zwolnienie z obowiązków wykonawcy testamentu; 4) będącego podstawą wszczęcia przez sąd postępowania z urzędu, a także od pism składanych sądowi opiekuńczemu w wykonaniu obowiązku wynikającego z ustawy albo nałożonego przez ten sąd; 5) o odtworzenie zaginionych lub zniszczonych akt. 2. Skarga na orzeczenie referendarza sądowego o odmowie zwolnienia od kosztów sądowych, zażalenie na postanowienie sądu odmawiające zwolnienia lub cofające zwolnienie od kosztów sądowych oraz zażalenie dotyczące wyłącznie wysokości opłaty albo wysokości wydatków są wolne od opłat sądowych. 3. Nie pobiera się opłat od wniosku, zażalenia i apelacji nieletniego w postępowaniu w sprawach nieletnich."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Nie mają obowiązku uiszczenia kosztów sądowych: 1) strona dochodząca ustalenia ojcostwa lub macierzyństwa oraz roszczeń z tym związanych; 2) strona dochodząca roszczeń alimentacyjnych oraz strona pozwana w sprawie o obniżenie alimentów; 3) strona wnosząca o uznanie postanowień umownych za niedozwolone; 4) pracownik wnoszący powództwo lub strona wnosząca odwołanie do sądu pracy i ubezpieczeń społecznych, z zastrzeżeniem art. 35 i 36; 5) kurator wyznaczony przez sąd orzekający lub sąd opiekuńczy dla danej sprawy; 6) prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka; 7) powiatowy (miejski) rzecznik konsumentów w sprawach dotyczących ochrony zbiorowych interesów konsumentów; 8) inspektor pracy oraz związki zawodowe w sprawach z zakresu prawa pracy; 9) strona w sprawach związanych z ochroną zdrowia psychicznego; 10) strona, która została zwolniona od kosztów sądowych przez sąd - w zakresie przyznanego jej zwolnienia; 11) powiatowy (miejski) rzecznik konsumentów w sprawach dotyczących ochrony indywidualnych interesów konsumenta - w zakresie przyznanego konsumentowi przez sąd zwolnienia od kosztów sądowych. 2. Za kuratora wydatki ponosi tymczasowo strona, dla której kurator został ustanowiony, a gdyby to nie było możliwe - strona, która swym wnioskiem lub swą czynnością spowodowała ustanowienie kuratora, chyba że przepis szczególny stanowi inaczej. 3. W pozostałych wypadkach, o których mowa w ust. 1, za stronę zwolnioną od kosztów sądowych wydatki ponosi tymczasowo Skarb Państwa. 4. W wypadku gdy powództwo o ustalenie ojcostwa okaże się oczywiście bezzasadne, sąd w orzeczeniu kończącym postępowanie w sprawie może obciążyć powoda nieuiszczonymi kosztami sądowymi, biorąc pod uwagę wszystkie okoliczności sprawy."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "W toku postępowania w sprawach z zakresu prawa pracy o roszczenia pracownika wydatki obciążające pracownika ponosi tymczasowo Skarb Państwa. Sąd pracy w orzeczeniu kończącym postępowanie w instancji rozstrzyga o tych wydatkach, stosując odpowiednio przepisy art. 113, z tym że obciążenie pracownika tymi wydatkami może nastąpić w wypadkach szczególnie uzasadnionych."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "W toku postępowania w sprawach z zakresu ubezpieczeń społecznych wydatki ponosi Skarb Państwa."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Nie pobiera się opłaty sądowej, a uiszczoną opłatę zwraca się, jeżeli zażalenie, wniesione na zarządzenie przewodniczącego o zwrocie pisma albo na postanowienie sądu o odrzuceniu środka zaskarżenia, sąd uzna za oczywiście uzasadnione."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "1. Strona w całości zwolniona od kosztów sądowych z mocy ustawy nie uiszcza opłat sądowych i nie ponosi wydatków, które obciążają tymczasowo Skarb Państwa. 2. Sąd może zwolnić stronę od kosztów sądowych w całości. Strona, której sąd przyznał całkowite zwolnienie od kosztów sądowych, ma obowiązek uiścić opłatę podstawową, o której mowa w art. 14, od wszystkich pism podlegających opłacie, chyba że przepis szczególny stanowi inaczej."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "1. Sąd może zwolnić stronę od kosztów sądowych w części, jeżeli strona jest w stanie ponieść tylko część tych kosztów. 2. Częściowe zwolnienie od tych kosztów może polegać na zwolnieniu od poniesienia albo ułamkowej lub procentowej ich części, albo określonej ich kwoty, albo niektórych opłat lub wydatków. Może też polegać na przyznaniu zwolnienia co do pewnej części roszczenia lub co do niektórych roszczeń dochodzonych łącznie; roszczenia te lub ich części sąd oznacza w postanowieniu o przyznaniu częściowego zwolnienia od kosztów sądowych. 3. Strona częściowo zwolniona od kosztów sądowych obowiązana jest uiścić opłaty oraz ponieść wydatki w takiej wysokości, jaka nie jest objęta zwolnieniem przyznanym przez sąd. Przepis art. 100 ust. 1 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "1. Zwolnienia od kosztów sądowych może się domagać osoba fizyczna, która złożyła oświadczenie, że nie jest w stanie ich ponieść bez uszczerbku utrzymania koniecznego dla siebie i rodziny. 2. Do wniosku o zwolnienie od kosztów sądowych powinno być dołączone oświadczenie obejmujące szczegółowe dane o stanie rodzinnym, majątku, dochodach i źródłach utrzymania osoby ubiegającej się o zwolnienie od kosztów. Oświadczenie sporządza się według ustalonego wzoru. Jeżeli oświadczenie nie zostało złożone albo nie zawiera wszystkich wymaganych danych, stosuje się art. 130 ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ( Dz. U. Nr 43, poz. 296 , z późn. zm. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199 i Nr 150, poz. 1239. ) . 3. Sąd może odebrać od osoby ubiegającej się o zwolnienie od kosztów sądowych przyrzeczenie o treści: „Świadomy znaczenia mych słów i odpowiedzialności przed prawem zapewniam, że złożone przeze mnie oświadczenie o stanie rodzinnym, majątku, dochodach i źródłach utrzymania jest prawdziwe i rzetelne”. Przed odebraniem przyrzeczenia należy pouczyć osobę ubiegającą się o zwolnienie od kosztów sądowych o treści art. 111. 4. Wniosek o zwolnienie od kosztów strony reprezentowanej przez adwokata lub radcę prawnego złożony bez dołączenia oświadczenia, o którym mowa w ust. 2, przewodniczący zwraca bez wzywania o uzupełnienie braków formalnych wniosku o zwolnienie od kosztów sądowych."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "Sąd może przyznać zwolnienie od kosztów sądowych osobie prawnej lub jednostce organizacyjnej niebędącej osobą prawną, której ustawa przyznaje zdolność prawną, jeżeli wykazała, że nie ma dostatecznych środków na ich uiszczenie."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "Organizacjom społecznym, których zadanie nie polega na prowadzeniu działalności gospodarczej, sąd może przyznać zwolnienie od kosztów sądowych w ich własnych sprawach prowadzonych w związku z działalnością społeczną, naukową, oświatową, kulturalną, dobroczynną, samopomocową, w zakresie ochrony konsumenta, ochrony środowiska i opieki społecznej. Przyznając zwolnienie od kosztów sądowych, Sąd uwzględnia przede wszystkim statutowe cele działalności danej organizacji i możliwości oraz potrzeby realizacji tych celów na drodze postępowania cywilnego."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "1. Wniosek o przyznanie zwolnienia od kosztów sądowych należy zgłosić na piśmie lub ustnie do protokołu w sądzie, w którym sprawa ma być wytoczona lub już się toczy. Złożenie wniosku do protokołu nie uchyla obowiązku sporządzenia oświadczenia, o którym mowa w art. 102 ust. 2, według ustalonego wzoru. 2. Osoba fizyczna, która nie ma miejsca zamieszkania w siedzibie tego sądu, może złożyć wniosek o przyznanie zwolnienia od kosztów sądowych w sądzie rejonowym właściwym ze względu na miejsce swego zamieszkania. Sąd przesyła niezwłocznie ten wniosek właściwemu sądowi."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "1. Zwolnienie od kosztów sądowych w postępowaniu wieczystoksięgowym może nastąpić wyłącznie przed złożeniem wniosku o wpis do księgi wieczystej. 2. Jeżeli wniosek o dokonanie wpisu do księgi wieczystej ma być zamieszczony w akcie notarialnym, zwolnienie od kosztów sądowych może nastąpić wyłącznie przed zawarciem tego aktu notarialnego. 3. Wniosek o dokonanie wpisu do księgi wieczystej powinien być złożony w terminie 3 miesięcy od doręczenia postanowienia o zwolnieniu od kosztów sądowych, pod rygorem upadku zwolnienia. 4. Przepisów ust. 1 i 2 nie stosuje się, jeżeli obowiązek poniesienia kosztów sądowych powstał po wydaniu orzeczenia, w postępowaniu wieczystoksięgowym."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "1. W razie oddalenia wniosku o zwolnienie od kosztów sądowych strona nie może ponownie domagać się zwolnienia powołując się na te same okoliczności, które stanowiły uzasadnienie oddalonego wniosku. 2. Ponowny wniosek o zwolnienie od kosztów sądowych, oparty na tych samych okolicznościach, podlega odrzuceniu. Na odrzucenie wniosku nie przysługuje zażalenie."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "Zwolnienie od kosztów sądowych nie zwalnia strony od obowiązku zwrotu kosztów procesu przeciwnikowi."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1. Sąd może zarządzić stosowne dochodzenie, jeżeli na podstawie okoliczności sprawy lub oświadczeń strony przeciwnej powziął wątpliwości co do rzeczywistego stanu majątkowego strony domagającej się zwolnienia od kosztów sądowych lub z niego korzystającej. 2. Sąd odmawia zwolnienia od kosztów sądowych stronie w razie oczywistej bezzasadności dochodzonego roszczenia lub obrony praw."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "Sąd cofa zwolnienie od kosztów sądowych, jeżeli okazało się, że okoliczności, na podstawie których je przyznano, nie istniały lub przestały istnieć. W obu wypadkach strona obowiązana jest uiścić wszystkie przepisane opłaty oraz zwrócić wydatki, jednakże w drugim wypadku sąd może obciążyć stronę tym obowiązkiem także częściowo, stosownie do zmiany, jaka nastąpiła w jej stosunkach. W takim wypadku stosuje się przepis art. 111."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "1. Stronę, która uzyskała zwolnienie od kosztów sądowych na podstawie świadomego podania nieprawdziwych okoliczności, sąd, cofając zwolnienie, skazuje na grzywnę w wysokości do 1 000 złotych. Niezależnie od obowiązku uiszczenia grzywny strona powinna uiścić wszystkie przepisane opłaty i pokryć obciążające ją wydatki. 2. Osobę, która ponownie zgłosiła wniosek o zwolnienie od kosztów sądowych, świadomie podając nieprawdziwe okoliczności o stanie rodzinnym, majątku, dochodach i źródłach utrzymania, sąd, odrzucając wniosek, skazuje na grzywnę w wysokości do 2 000 złotych."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "Zgłoszenie wniosku o zwolnienie od kosztów sądowych oraz wniesienie środka odwoławczego od postanowienia o odmowie zwolnienia od kosztów sądowych nie wstrzymuje biegu toczącego się postępowania, chyba że chodzi o zwolnienie powoda od kosztów sądowych na skutek wniosku zgłoszonego w pozwie lub przed wytoczeniem powództwa."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "1. Kosztami sądowymi, których strona nie miała obowiązku uiścić lub których nie miał obowiązku uiścić kurator albo prokurator, sąd w orzeczeniu kończącym sprawę w instancji obciąży przeciwnika, jeżeli istnieją do tego podstawy, przy odpowiednim zastosowaniu zasad obowiązujących przy zwrocie kosztów procesu. 2. Koszty nieobciążające przeciwnika sąd w orzeczeniu kończącym sprawę w instancji nakazuje ściągnąć z roszczenia zasądzonego na rzecz: 1) strony, której czynność spowodowała ich powstanie; 2) strony zastąpionej przez kuratora lub 3) osoby, na której rzecz prokurator wytoczył powództwo lub zgłosił wniosek o wszczęcie postępowania. 3. Koszty sądowe, których nie miał obowiązku uiścić kurator, sąd może nakazać ściągnąć z innego majątku strony zastąpionej przez kuratora. 4. W wypadkach szczególnie uzasadnionych sąd może odstąpić od przewidzianego w ust. 2 i 3 obciążenia kosztami. 5. Przepisu ust. 2 nie stosuje się do opłat, których nie miał obowiązku uiścić Skarb Państwa."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "W wypadkach uregulowanych w art. 113 ust. 2 i 3 Skarbowi Państwa przysługuje na zasądzonym roszczeniu ustawowe prawo zastawu."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "Należność Skarbu Państwa z tytułu kosztów sądowych obciążających przeciwnika strony podlega zaspokojeniu w postępowaniu egzekucyjnym lub upadłościowym w tej samej kolejności i w tych samych granicach, co należność tej strony z tytułu zasądzonego na jej rzecz zwrotu kosztów procesu."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Art. 116",
+      "content": "Roszczenie Skarbu Państwa o uiszczenie kosztów sądowych przedawnia się z upływem trzech lat, licząc od dnia, w którym nastąpiło prawomocne zakończenie sprawy."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Art. 117",
+      "content": "Strony mogą w ugodzie sądowej ustalić, którą z nich i w jakiej części mają obciążać nieuiszczone koszty sądowe. Jeżeli ugoda nie stanowi inaczej, w sprawie zakończonej ugodą koszty, o których mowa w art. 113 ust. 1, ponoszą obie strony w równych częściach. Przepisy art. 113 ust. 2-5 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Art. 118",
+      "content": "Czynności w zakresie zwalniania od kosztów sądowych, przewidziane w ustawie, może wykonywać referendarz sądowy. Tytuł V Umarzanie, rozkładanie na raty i odraczanie terminu zapłaty należności sądowych"
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Art. 119",
+      "content": "Zapłata należności Skarbu Państwa z tytułu nieuiszczonych kosztów sądowych oraz grzywien orzeczonych w postępowaniu cywilnym, zwanych dalej „należnościami sądowymi”, może być umorzona, odroczona albo rozłożona na raty, jeżeli natychmiastowe ich ściągnięcie byłoby połączone z niewspółmiernymi trudnościami lub groziłoby dłużnikowi zbyt ciężkimi skutkami."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Art. 120",
+      "content": "1. Zapłata należności sądowych może być na wniosek dłużnika rozłożona na raty lub odroczona na okres do dwóch lat, a w wyjątkowych wypadkach na okres do trzech lat. Niezapłacenie którejkolwiek raty w terminie powoduje natychmiastową wymagalność pozostałej części należności. 2. Rozłożenie na raty lub odroczenie terminu zapłaty może być cofnięte w razie stwierdzenia, że nie istnieją już okoliczności, które je uzasadniały. 3. Zapłata sumy niższej niż trzykrotna wysokość opłaty podstawowej nie może być rozłożona na raty."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Art. 121",
+      "content": "Należności sądowe mogą być umorzone na wniosek dłużnika w części lub w całości, jeżeli dłużnik wykazał, że ze względu na swoją sytuację rodzinną, majątkową i wysokość dochodów nie jest w stanie ich uiścić, a ściągnięcie należności pociągnęłoby zbyt ciężkie skutki dla dłużnika lub jego rodziny. Do wniosku dłużnik powinien dołączyć oświadczenie, o którym mowa w art. 102 ust. 2."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Art. 122",
+      "content": "Należności sądowe mogą być umorzone z urzędu w części lub w całości, jeżeli: 1) egzekucja ich była bezskuteczna i ponowne jej wszczęcie w czasie późniejszym byłoby bezcelowe; 2) wszczęcie egzekucji okazało się niemożliwe albo byłoby bezcelowe wobec stwierdzenia, że suma uzyskana z egzekucji nie pokryłaby kosztów egzekucyjnych."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Art. 123",
+      "content": "O rozłożeniu na raty, odroczeniu terminu spłaty lub umorzeniu należności sądowych orzeczonych w postępowaniu przed sądami powszechnymi oraz przed Sądem Najwyższym rozstrzyga ostatecznie prezes sądu właściwego do ściągnięcia należności. Uprawnienia te przysługują również kierownikowi ośrodka zamiejscowego sądu lub przewodniczącemu wydziału zamiejscowego sądu."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Art. 124",
+      "content": "1. Wnioski o rozłożenie na raty, odroczenie terminu spłaty lub umorzenie należności sądowych wnosi się do prezesa sądu właściwego do ściągnięcia należności. 2. Po rozpoznaniu wniosku o rozłożenie na raty, odroczenie lub umorzenie należności sądowych albo w razie wystąpienia okoliczności dających podstawę do wszczęcia postępowania o umorzenie należności sądowych z urzędu, prezes sądu wydaje stosowne zarządzenie."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Art. 125",
+      "content": "Czynności w sprawach odroczenia lub rozłożenia na raty należności sądowych może - na zarządzenie prezesa sądu rejonowego lub okręgowego - wykonywać referendarz sądowy. Na zarządzenie referendarza przysługuje skarga do sądu. Tytuł VI Zmiany w przepisach obowiązujących"
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Art. 126",
+      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ( Dz. U. Nr 43, poz. 296 , z późn. zm. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199 i Nr 150, poz. 1239. ) wprowadza się następujące zmiany: 1) art. 9 otrzymuje brzmienie: „ Art. 9. Rozpoznawanie spraw odbywa się jawnie, chyba że przepis szczególny stanowi inaczej. Strony i uczestnicy postępowania mają prawo przeglądać akta sprawy i otrzymywać odpisy, kopie lub wyciągi z tych akt. ” ; 2) po art. 23 1 dodaje się art. 23 2 w brzmieniu: „ Art. 23 2 . W sprawach o wydanie nieruchomości posiadanej bez tytułu prawnego lub na podstawie tytułu innego niż najem lub dzierżawa wartość przedmiotu sporu oblicza się przyjmując, stosownie do rodzaju nieruchomości i sposobu korzystania z niej, podaną przez powoda sumę odpowiadającą trzymiesięcznemu czynszowi najmu lub dzierżawy należnemu od danego rodzaju nieruchomości. ” ; 3) w art. 98 po § 3 dodaje się § 4 w brzmieniu: „ § 4. Wysokość kosztów sądowych, zasady zwrotu utraconego zarobku lub dochodu oraz kosztów stawiennictwa strony w sądzie, a także wynagrodzenie adwokata regulują odrębne przepisy. ” ; 4) w art. 108 § 1 otrzymuje brzmienie: „ § 1. Sąd rozstrzyga o kosztach w każdym orzeczeniu kończącym sprawę w instancji. Sąd może jednak rozstrzygnąć jedynie o zasadach poniesienia przez strony kosztów procesu, pozostawiając szczegółowe wyliczenie referendarzowi sądowemu; w tej sytuacji, po uprawomocnieniu się orzeczenia kończącego postępowanie w sprawie, referendarz sądowy w sądzie pierwszej instancji wydaje postanowienie, w którym dokonuje szczegółowego wyliczenia kosztów obciążających strony. ” ; 5) po art. 108 dodaje się art. 108 1 w brzmieniu: „ Art. 108 1 . Jeżeli w toku postępowania sąd nie orzekł o obowiązku poniesienia kosztów sądowych lub orzeczeniem nie objął całej kwoty należnej z tego tytułu, postanowienie w tym przedmiocie wydaje na posiedzeniu niejawnym sąd, przed którym sprawa toczyła się w pierwszej instancji, lub referendarz sądowy. ” ; 6) w art. 109 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ § 2. Orzekając o wysokości przyznanych stronie kosztów procesu, sąd bierze pod uwagę celowość poniesionych kosztów oraz niezbędność ich poniesienia z uwagi na charakter sprawy. Przy ustalaniu wysokości kosztów poniesionych przez stronę reprezentowaną przez pełnomocnika będącego adwokatem, radcą prawnym lub rzecznikiem patentowym, sąd bierze pod uwagę niezbędny nakład pracy pełnomocnika oraz czynności podjęte przez niego w sprawie, a także charakter sprawy i wkład pełnomocnika w przyczynienie się do jej wyjaśnienia i rozstrzygnięcia. ” ; 7) tytuł działu II tytułu V księgi pierwszej części pierwszej otrzymuje brzmienie: „ Pomoc prawna z urzędu ” ; 8) uchyla się art. 111-116; 9) art. 117, 119-124 otrzymują brzmienie: „ Art. 117. § 1. Strona zwolniona przez sąd od kosztów sądowych w całości lub części ma prawo zgłosić, na piśmie lub ustnie do protokołu, wniosek o ustanowienie dla niej adwokata lub radcy prawnego. § 2. Wniosek, o którym mowa w § 1, strona zgłasza w sądzie, w którym sprawa ma być wytoczona lub już się toczy. Strona, która nie ma miejsca zamieszkania w siedzibie tego sądu, może zgłosić wniosek w sądzie rejonowym właściwym ze względu na miejsce swego zamieszkania, który niezwłocznie przesyła ten wniosek sądowi właściwemu. § 3. Wniosek o ustanowienie adwokata lub radcy prawnego, zgłoszony po raz pierwszy w postępowaniu apelacyjnym lub kasacyjnym, sąd może przekazać do rozpoznania sądowi pierwszej instancji. § 4. Sąd uwzględni wniosek, jeżeli udział adwokata lub radcy prawnego w sprawie uzna za potrzebny. § 5. O wyznaczenie adwokata lub radcy prawnego sąd zwraca się do właściwej okręgowej rady adwokackiej lub rady okręgowej izby radców prawnych. Jeżeli adwokat lub radca prawny ustanowiony w ten sposób ma podjąć czynności poza siedzibą sądu orzekającego, właściwa okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, na wniosek ustanowionego adwokata lub radcy prawnego, wyznaczy w razie potrzeby adwokata lub radcę prawnego z innej miejscowości. § 6. Strona korzystająca z ustawowego zwolnienia od kosztów sądowych może zgłosić w trybie określonym w § 1-5 wniosek o ustanowienie dla niej adwokata lub radcy prawnego, jeżeli na podstawie oświadczenia, zawartego we wniosku, obejmującego szczegółowe dane o stanie rodzinnym, majątku, dochodach i źródłach utrzymania, wykaże, że nie może, bez uszczerbku utrzymania swojego i rodziny, ponieść kosztów wynagrodzenia adwokata lub radcy prawnego. § 7. Od sądu zależy uznanie oświadczenia, o którym mowa w § 6, za dostateczne do ustanowienia adwokata lub radcy prawnego. Art. 119. § 1. Ustanowienie adwokata lub radcy prawnego wygasa ze śmiercią strony, która je uzyskała. Jednakże na zasadzie tego ustanowienia adwokat lub radca prawny strony podejmuje czynności procesowe niecierpiące zwłoki. § 2. Adwokat lub radca prawny może z ważnych przyczyn wnosić o zwolnienie go od obowiązku zastępowania strony w procesie. Okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, zwalniając adwokata lub radcę prawnego, wyznaczy jednocześnie innego adwokata lub radcę prawnego. Art. 120. § 1. Sąd cofnie ustanowienie adwokata lub radcy prawnego, jeżeli okaże się, że okoliczności, na których podstawie je przyznano, nie istniały lub przestały istnieć. § 2. W wypadkach, o których mowa w § 1, strona obowiązana jest uiścić wynagrodzenie adwokata lub radcy prawnego dla niej ustanowionego. § 3. Ponadto, w wypadku gdy okoliczności, na podstawie których przyznano ustanowienie adwokata lub radcy prawnego, przestały istnieć, sąd może obciążyć stronę tym obowiązkiem tylko częściowo, stosownie do zmiany, jaka nastąpiła w jej stosunkach. § 4. Stronę, która uzyskała ustanowienie adwokata lub radcy prawnego na podstawie podania świadomie nieprawdziwych okoliczności, sąd skaże na grzywnę, niezależnie od jej obowiązku uiszczenia wynagrodzenia adwokata lub radcy prawnego. Art. 121. Ustanowienie adwokata lub radcy prawnego nie zwalnia strony od obowiązku zwrotu kosztów przeciwnikowi. Art. 122. § 1. Adwokat lub radca prawny ustanowiony zgodnie z przepisami niniejszego działu ma prawo - z wyłączeniem strony - ściągnąć sumę należną mu tytułem wynagrodzenia i zwrotu wydatków z kosztów zasądzonych na rzecz tej strony od przeciwnika. Przeciwnik nie może czynić żadnych potrąceń, z wyjątkiem kosztów nawzajem mu przyznanych od strony zwolnionej od kosztów sądowych. § 2. Na kosztach, przypadających od przeciwnika strony zwolnionej od kosztów sądowych, należności adwokata lub radcy prawnego ustanowionego według przepisów poprzedzających przysługuje pierwszeństwo przed roszczeniami osób trzecich. Art. 123. Postanowienie o ustanowieniu i cofnięciu ustanowienia adwokata lub radcy prawnego oraz o skazaniu na grzywnę i nałożeniu na stronę obowiązku uiszczenia ich wynagrodzenia sąd może wydać na posiedzeniu niejawnym. Art. 124. Zgłoszenie wniosku o ustanowienie adwokata lub radcy prawnego, jak również wniesienie środka odwoławczego od odmowy ich ustanowienia nie wstrzymuje biegu toczącego się postępowania, chyba że chodzi o ustanowienie adwokata lub radcy prawnego dla powoda na skutek wniosku zgłoszonego w pozwie lub przed wytoczeniem powództwa. Sąd może jednak wstrzymać rozpoznanie sprawy aż do prawomocnego rozstrzygnięcia wniosku i w związku z tym nie wyznaczać rozprawy, a wyznaczoną rozprawę odwołać lub odroczyć. ” ; 10) po art. 126 dodaje się art. 126 1 i 126 2 w brzmieniu: „ Art. 126 1 . § 1. W każdym piśmie należy podać wartość przedmiotu sporu lub wartość przedmiotu zaskarżenia, jeżeli od tej wartości zależy właściwość rzeczowa sądu, wysokość opłaty lub dopuszczalność środka odwoławczego, a przedmiotem sprawy nie jest oznaczona kwota pieniężna. § 2. Pisma dotyczące części przedmiotu sporu lub zaskarżenia podlegają opłacie tylko w stosunku do wartości tej części. § 3. Wartości przedmiotu sporu lub zaskarżenia podaje się w złotych, zaokrąglając w górę do pełnego złotego. Art. 126 2 . § 1. Sąd nie podejmie żadnej czynności na skutek pisma, od którego nie została uiszczona należna opłata. § 2. Nie żąda się opłaty od pisma, jeżeli już z jego treści wynika, że podlega ono odrzuceniu. ” ; 11) w art. 130: a) § 1 otrzymuje brzmienie: „ § 1. Jeżeli pismo procesowe nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych lub jeżeli od pisma nie uiszczono należnej opłaty, przewodniczący wzywa stronę, pod rygorem zwrócenia pisma, do poprawienia, uzupełnienia lub opłacenia go w terminie tygodniowym. Mylne oznaczenie pisma procesowego lub inne oczywiste niedokładności nie stanowią przeszkody do nadania pismu biegu i rozpoznania go w trybie właściwym. ” , b) po § 1 dodaje się § 1 1 w brzmieniu: „ § 1 1 . Jeżeli pismo wniosła osoba zamieszkała lub mająca siedzibę za granicą, która nie ma w kraju przedstawiciela, przewodniczący wyznacza termin do poprawienia lub uzupełnienia pisma albo uiszczenia opłaty nie krótszy niż miesiąc ” ; 12) po art. 130 1 dodaje się art. 130 2 -130 4 w brzmieniu: „ Art. 130 2 . § 1. Pismo wniesione przez adwokata, radcę prawnego lub rzecznika patentowego, które nie zostało należycie opłacone, przewodniczący zwraca bez wezwania o uiszczenie opłaty, jeżeli pismo podlega opłacie w wysokości stałej lub stosunkowej obliczonej od wskazanej przez stronę wartości przedmiotu sporu. § 2. W terminie tygodniowym od dnia doręczenia zarządzenia o zwrocie pisma z przyczyn określonych w § 1 strona może uiścić brakującą opłatę. Jeżeli opłata została wniesiona we właściwej wysokości, pismo wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu pisma z tej samej przyczyny. § 3. Sąd odrzuca bez wezwania o uiszczenie opłaty pismo wniesione przez adwokata, radcę prawnego lub rzecznika patentowego środki odwoławcze lub środki zaskarżenia (apelację, zażalenie, skargę kasacyjną, skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, sprzeciw od wyroku zaocznego, zarzuty od nakazu zapłaty, skargę na orzeczenie referendarza sądowego) podlegające opłacie w wysokości"
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Art. 127",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ( Dz. U. z 1998 r. Nr 21, poz. 94 , z późn. zm. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610 i Nr 86, poz. 732. ) uchyla się art. 263."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Art. 128",
+      "content": "W ustawie z dnia 6 kwietnia 1984 r. o fundacjach ( Dz. U. z 1991 r. Nr 46, poz. 203 , z 1997 r. Nr 121, poz. 769 , z 2000 r. Nr 120, poz. 1268 oraz z 2003 r. Nr 162, poz. 1568 ) uchyla się art. 8."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Art. 129",
+      "content": "W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ( Dz. U. z 2002 r. Nr 21, poz. 206 i Nr 213, poz. 1802 , z 2003 r. Nr 228, poz. 2256 oraz z 2005 r. Nr 130, poz. 1085 ) art. 83a otrzymuje brzmienie: „ Art. 83a. Sąd Najwyższy rozpoznaje kasację, o której mowa w art. 83 ust. 2, na rozprawie, w składzie trzech sędziów. ” ."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Art. 130",
+      "content": "W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania ( Dz. U. z 2000 r. Nr 26, poz. 319 , z późn. zm. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 223, poz. 2217 oraz z 2004 r. Nr 68, poz. 623 i Nr 145, poz. 1534. ) w art. 38f ust. 2 otrzymuje brzmienie: „ 2. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych. ” ."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Art. 131",
+      "content": "W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych ( Dz. U. Nr 44, poz. 255 , z późn. zm. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 75, poz. 331, z 1993 r. Nr 16, poz. 67 i Nr 134, poz. 647 oraz z 2001 r. Nr 4, poz. 24. ) uchyla się art. 3a."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "Art. 132",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ( Dz. U. z 2002 r. Nr 42, poz. 369 , z późn. zm. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067 oraz z 2005 r. Nr 163, poz. 1361. ) w art. 7 po § 2 dodaje się § 2 1 w brzmieniu: „ § 2 1 . Jeżeli wnioskodawca, o którym mowa w § 2, został zwolniony od kosztów sądowych od wniosku o dokonanie wpisu do księgi wieczystej, notariusz obowiązany jest zaznaczyć w akcie notarialnym, że opłata sądowa nie została pobrana i, załączyć do wypisu aktu notarialnego przesyłanego do sądu w trybie art. 92 § 4 prawomocne postanowienie sądu w przedmiocie zwolnienia od kosztów sądowych. W takim wypadku przepisu § 2 nie stosuje się. ” ."
+    },
+    {
+      "provision_ref": "art133",
+      "section": "133",
+      "title": "Art. 133",
+      "content": "W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa ( Dz. U. z 2004 r. Nr 208, poz. 2128 i Nr 281, poz. 2772 oraz z 2005 r. Nr 132, poz. 1110 i nr 163, poz. 1362 ) w art. 26a uchyla się ust. 3."
+    },
+    {
+      "provision_ref": "art134",
+      "section": "134",
+      "title": "Art. 134",
+      "content": "W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ( Dz. U. Nr 27, poz. 96 , z późn. zm. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055, z 2003 r. Nr 223, poz. 2219, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703 oraz z 2005 r. Nr 90, poz. 758 i Nr 163, poz. 1362. ) w art. 97 uchyla się ust. 3."
+    },
+    {
+      "provision_ref": "art135",
+      "section": "135",
+      "title": "Art. 135",
+      "content": "W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego ( Dz. U. Nr 111, poz. 535 , z późn. zm. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268 oraz z 2005 r. Nr 141, poz. 1183. ) art. 48 otrzymuje brzmienie: „ Art. 48. Sąd może ustanowić dla osoby, której postępowanie dotyczy bezpośrednio, adwokata z urzędu, nawet bez złożenia wniosku, jeżeli osoba ta ze względu na stan zdrowia psychicznego nie jest zdolna do złożenia wniosku, a sąd uzna udział adwokata w sprawie za potrzebny. ” ."
+    },
+    {
+      "provision_ref": "art136",
+      "section": "136",
+      "title": "Art. 136",
+      "content": "W ustawie z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe ( Dz. U. Nr 119, poz. 567 , z 1996 r. Nr 52, poz. 236 , z 1997 r. Nr 6, poz. 32 oraz z 2000 r. Nr 39, poz. 442 ) uchyla się art. 11."
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "Art. 137",
+      "content": "W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych ( Dz. U. Nr 123, poz. 600 , z późn. zm. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055, z 2003 r. Nr 188, poz. 1840 oraz z 2004 r. Nr 123, poz. 1291. ) w art. 25 ust. 1 otrzymuje brzmienie: „ 1. Zarządzający jest zwolniony od opłaty skarbowej z tytułu nabycia lub zbycia praw do nieruchomości położonych na terenie strefy. ” ."
+    },
+    {
+      "provision_ref": "art138",
+      "section": "138",
+      "title": "Art. 138",
+      "content": "W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego ( Dz. U. z 2004 r. Nr 163, poz. 1711 i Nr 273, poz. 2703 oraz z 2005 r. Nr 132, poz. 1110 ) w art. 31 uchyla się ust. 3."
+    },
+    {
+      "provision_ref": "art139",
+      "section": "139",
+      "title": "Art. 139",
+      "content": "W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych ( Dz. U. z 2001 r. Nr 79, poz. 857 , z późn. zm. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507 oraz z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703. ) art. 23 otrzymuje brzmienie: „ Art. 23. Minister Sprawiedliwości określa, w drodze rozporządzenia, wzór i sposób prowadzenia ewidencji partii politycznych oraz szczegółowe zasady wydawania odpisów i wyciągów, o których mowa w art. 18. ” ."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "Art. 140",
+      "content": "W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych ( Dz. U. Nr 123, poz. 776 , z późn. zm. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407 oraz z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362 i Nr 164, poz. 1366. ) wprowadza się następujące zmiany: 1) w art. 6c ust. 8 otrzymuje brzmienie: „ 8. Od orzeczenia wojewódzkiego zespołu przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych w terminie 30 dni od dnia doręczenia orzeczenia. Odwołanie wnosi się za pośrednictwem wojewódzkiego zespołu, który orzeczenie wydał. Jeżeli wojewódzki zespół uzna, że odwołanie zasługuje w całości na uwzględnienie, wydaje orzeczenie, w którym uchyla lub zmienia zaskarżone orzeczenie. ” ; 2) uchyla się art. 55."
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "Art. 141",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ( Dz. U. z 2002 r. Nr 72, poz. 665 , z późn. zm. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727. ) uchyla się art. 94."
+    },
+    {
+      "provision_ref": "art142",
+      "section": "142",
+      "title": "Art. 142",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim ( Dz. U. z 2005 r. Nr 1, poz. 2 ) w art. 57 ust. 1 otrzymuje brzmienie: „ 1. NBP, na równi z jednostkami budżetowymi, korzysta ze zwolnienia od podatków oraz opłaty skarbowej. ” ."
+    },
+    {
+      "provision_ref": "art143",
+      "section": "143",
+      "title": "Art. 143",
+      "content": "W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu ( Dz. U. Nr 155, poz. 1016 , z późn. zm. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, z 2000 r. Nr 48, poz. 553, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271, z 2003 r. Nr 139, poz. 1326 oraz z 2005 r. Nr 64, poz. 567. ) w art. 32 uchyla się ust. 5."
+    },
+    {
+      "provision_ref": "art144",
+      "section": "144",
+      "title": "Art. 144",
+      "content": "W ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ( Dz. U. z 2003 r. Nr 119, poz. 1117 , z 2004 r. Nr 33, poz. 286 oraz z 2005 r. Nr 10, poz. 68 i Nr 163, poz. 1362 ) art. 294 otrzymuje brzmienie: „ Art. 294. 1. Twórca wynalazku może dochodzić roszczenia o wynagrodzenie za korzystanie z jego wynalazku przed sądem okręgowym. 2. W postępowaniu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego , dotyczące postępowania w sprawach o roszczenia pracowników. ” ."
+    },
+    {
+      "provision_ref": "art145",
+      "section": "145",
+      "title": "Art. 145",
+      "content": "W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych ( Dz. U. z 2003 r. Nr 119, poz. 1116 , z późn. zm. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 19, poz. 177 i Nr 63, poz. 591 oraz z 2005 r. Nr 72, poz. 643 i Nr 122, poz. 1024. ) wprowadza się następujące zmiany: 1) w art. 12 ust. 4 i 5 otrzymują brzmienie: „ 4. Koszty określenia wartości rynkowej lokalu, wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają członka spółdzielni, na rzecz którego spółdzielnia dokonuje przeniesienia własności lokalu. 5. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/3 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę ( Dz. U. Nr 200, poz. 1679 , z 2004 r. Nr 240, poz. 2407 oraz z 2005 r. Nr 157, poz. 1314 ) . ” ; 2) w art. 17 14 ust. 2 i 3 otrzymują brzmienie: „ 2. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje przeniesienia własności lokalu. 3. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/3 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę . ” ; 3) w art. 39 ust. 2 i 3 otrzymują brzmienie: „ 2. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają osobę, na rzecz której spółdzielnia dokonuje ustanowienia spółdzielczego własnościowego prawa do lokalu albo przeniesienia własności lokalu. 3. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/3 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę . ” ; 4) w art. 48 ust. 3 i 4 otrzymują brzmienie: „ 3. Koszty określenia wartości rynkowej lokalu, wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, oraz koszty sądowe w postępowaniu wieczystoksięgowym obciążają najemcę, na rzecz którego spółdzielnia dokonuje ustanowienia spółdzielczego prawa do lokalu albo przeniesienia własności lokalu. 4. Wynagrodzenie notariusza za ogół czynności notarialnych dokonanych przy zawieraniu umowy, o której mowa w ust. 1, wynosi 1/3 minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę . ” ."
+    },
+    {
+      "provision_ref": "art146",
+      "section": "146",
+      "title": "Art. 146",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ( Dz. U. Nr 98, poz. 1070 , z późn. zm. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98 i Nr 131, poz. 1102. ) w art. 147 § 1 otrzymuje brzmienie: „ § 1. W sądach rejonowych i okręgowych są zatrudniani referendarze sądowi do wykonywania określonych w ustawach czynności należących do sądów w zakresie ochrony prawnej, a w szczególności postępowania w sprawach związanych z prowadzeniem ksiąg wieczystych i rejestrów sądowych oraz do orzekania o kosztach sądowych w sprawach cywilnych. ” ."
+    },
+    {
+      "provision_ref": "art147",
+      "section": "147",
+      "title": "Art. 147",
+      "content": "W ustawie z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali ( Dz. U. Nr 111, poz. 1196 , z późn. zm. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 56, poz. 495, Nr 90, poz. 844 i Nr 139, poz. 1325 oraz z 2004 r. Nr 12, poz. 102 i Nr 120, poz. 1252. ) art. 39 otrzymuje brzmienie: „ Art. 39. Nie pobiera się podatku od czynności cywilnoprawnych, których stroną jest Agencja, mających za przedmiot mienie, o którym mowa w art. 33 ust. 1. ” . Tytuł VII Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art148",
+      "section": "148",
+      "title": "Art. 148",
+      "content": "1. Jeżeli obowiązujące przepisy powołują się na przepisy ustawy o kosztach sądowych w sprawach cywilnych albo odsyłają ogólnie do tych przepisów, stosuje się odpowiednie przepisy niniejszej ustawy. 2. Do czasu wydania przepisów wykonawczych na podstawie ustawy zachowują moc przepisy wydane przed wejściem w życie ustawy."
+    },
+    {
+      "provision_ref": "art149",
+      "section": "149",
+      "title": "Art. 149",
+      "content": "1. W sprawach wszczętych przed dniem wejścia w życie ustawy stosuje się, do czasu zakończenia postępowania w danej instancji, dotychczasowe przepisy o kosztach sądowych. 2. W sprawach egzekucyjnych wszczętych przed dniem wejścia w życie ustawy dotychczasowe przepisy o kosztach sądowych stosuje się aż do zakończenia postępowania."
+    },
+    {
+      "provision_ref": "art150",
+      "section": "150",
+      "title": "Art. 150",
+      "content": "Traci moc ustawa z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. z 2002 r. Nr 9, poz. 88 i Nr 233, poz. 1955 , z 2003 r. Nr 45, poz. 391 , Nr 96, poz. 874 i Nr 139, poz. 1323 , z 2004 r. Nr 210, poz. 2135 oraz z 2005 r. Nr 68, poz. 609 ) ."
+    },
+    {
+      "provision_ref": "art151",
+      "section": "151",
+      "title": "Art. 151",
+      "content": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego, ustawę z dnia 26 czerwca 1974 r. - Kodeks pracy, ustawę z dnia 6 kwietnia 1984 r. o fundacjach, ustawę z dnia 20 czerwca 1985 r. o prokuraturze, ustawę z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania, ustawę z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych, ustawę z dnia 14 lutego 1991 r. - Prawo o notariacie, ustawę z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa, ustawę z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze, ustawę z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego, ustawę z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe, ustawę z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych, ustawę z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego, ustawę z dnia 27 czerwca 1997 r. o partiach politycznych, ustawę z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych, ustawę z dnia 29 sierpnia 1997 r. - Prawo bankowe, ustawę z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim, ustawę z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, ustawę z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej, ustawę z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych, ustawę z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych, ustawę z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199 i Nr 150, poz. 1239. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255, z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384 oraz z 2005 r. Nr 13, poz. 98, Nr 22, poz. 185, Nr 86, poz. 732, Nr 122, poz. 1024, Nr 143, poz. 1199 i Nr 150, poz. 1239. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz. 1127 i Nr 120, poz. 1268, z 2001 r. Nr 11, poz. 84, Nr 28, poz. 301, Nr 52, poz. 538, Nr 99, poz. 1075, Nr 111, poz. 1194, Nr 123, poz. 1354, Nr 128, poz. 1405 i Nr 154, poz. 1805, z 2002 r. Nr 74, poz. 676, Nr 135, poz. 1146, Nr 196, poz. 1660, Nr 199, poz. 1673 i Nr 200, poz. 1679, z 2003 r. Nr 166, poz. 1608 i Nr 213, poz. 2081, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001, Nr 120, poz. 1252 i Nr 240, poz. 2407 oraz z 2005 r. Nr 10, poz. 71, Nr 68, poz. 610 i Nr 86, poz. 732. 5) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 153, poz. 1271, z 2003 r. Nr 223, poz. 2217 oraz z 2004 r. Nr 68, poz. 623 i Nr 145, poz. 1534. 6) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 75, poz. 331, z 1993 r. Nr 16, poz. 67 i Nr 134, poz. 647 oraz z 2001 r. Nr 4, poz. 24. 7) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 49, poz. 408, Nr 124, poz. 1152 i Nr 217, poz. 2142, z 2004 r. Nr 62, poz. 577, Nr 147, poz. 1547, Nr 173, poz. 1808 i Nr 202, poz. 2067 oraz z 2005 r. Nr 163, poz. 1361. 8) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 109, poz. 1157 i Nr 120, poz. 1268, z 2001 r. Nr 110, poz. 1190, Nr 115, poz. 1229 i Nr 154, poz. 1800, z 2002 r. Nr 113, poz. 984, Nr 117, poz. 1007, Nr 153, poz. 1271, Nr 166, poz. 1360 i Nr 240, poz. 2055, z 2003 r. Nr 223, poz. 2219, z 2004 r. Nr 96, poz. 959, Nr 173, poz. 1808 i Nr 273, poz. 2703 oraz z 2005 r. Nr 90, poz. 758 i Nr 163, poz. 1362. 9) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731, z 1998 r. Nr 106, poz. 668, z 1999 r. Nr 11, poz. 95, z 2000 r. Nr 120, poz. 1268 oraz z 2005 r. Nr 141, poz. 1183. 10) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 121, poz. 770, z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 117, poz. 1228, z 2002 r. Nr 113, poz. 984 i Nr 240, poz. 2055, z 2003 r. Nr 188, poz. 1840 oraz z 2004 r. Nr 123, poz. 1291. 11) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1802, z 2002 r. Nr 127, poz. 1089, z 2003 r. Nr 57, poz. 507 oraz z 2004 r. Nr 25, poz. 219 i Nr 273, poz. 2703. 12) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 160, poz. 1082, z 1998 r. Nr 99, poz. 628, Nr 106, poz. 668, Nr 137, poz. 887, Nr 156, poz. 1019 i Nr 162, poz. 1118 i 1126, z 1999 r. Nr 49, poz. 486, Nr 90, poz. 1001, Nr 95, poz. 1101 i Nr 111, poz. 1280, z 2000 r. Nr 48, poz. 550 i Nr 119, poz. 1249, z 2001 r. Nr 39, poz. 459, Nr 100, poz. 1080, Nr 125, poz. 1368, Nr 129, poz. 1444 i Nr 154, poz. 1792 i 1800, z 2002 r. Nr 169, poz. 1387, Nr 200, poz. 1679 i 1683 i Nr 241, poz. 2074, z 2003 r. Nr 7, poz. 79, Nr 90, poz. 844, Nr 223, poz. 2217 i Nr 228, poz. 2262, z 2004 r. Nr 96, poz. 959, Nr 99, poz. 1001 i Nr 240, poz. 2407 oraz z 2005 r. Nr 44, poz. 422, Nr 132, poz. 1110, Nr 163, poz. 1362 i Nr 164, poz. 1366. 13) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 126, poz. 1070, Nr 141, poz. 1178, Nr 144, poz. 1208, Nr 153, poz. 1271, Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074, z 2003 r. Nr 50, poz. 424, Nr 60, poz. 535, Nr 65, poz. 594, Nr 228, poz. 2260 i Nr 229, poz. 2276, z 2004 r. Nr 64, poz. 594, Nr 68, poz. 623, Nr 91, poz. 870, Nr 96, poz. 959, Nr 121, poz. 1264, Nr 146, poz. 1546 i Nr 173, poz. 1808 oraz z 2005 r. Nr 83, poz. 719 i Nr 85, poz. 727. 14) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 38, poz. 360, z 2000 r. Nr 48, poz. 553, z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271, z 2003 r. Nr 139, poz. 1326 oraz z 2005 r. Nr 64, poz. 567. 15) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 19, poz. 177 i Nr 63, poz. 591 oraz z 2005 r. Nr 72, poz. 643 i Nr 122, poz. 1024. 16) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2001 r. Nr 154, poz. 1787, z 2002 r. Nr 153, poz. 1271, Nr 213, poz. 1802 i Nr 240, poz. 2052, z 2003 r. Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 i Nr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98 i Nr 131, poz. 1102. 17) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 56, poz. 495, Nr 90, poz. 844 i Nr 139, poz. 1325 oraz z 2004 r. Nr 12, poz. 102 i Nr 120, poz. 1252. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"titl_I\",\"symbol\": \"titl_I\",\"type\": \"titl\",\"name\": \"I\",\"title\": \"Tytuł I - Przepisy ogólne\",\"children\": [{\"id\": \"titl_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"titl_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"titl_I-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"titl_I-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"titl_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"titl_I-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"titl_I-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"titl_I-arti_3-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"titl_I-arti_3-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"titl_I-arti_3-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"titl_I-arti_3-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"titl_I-arti_3-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"titl_I-arti_3-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name"
+    }
+  ],
+  "definitions": []
+}

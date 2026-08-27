@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1990-256",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 1990 r. o zniesieniu Akademii Nauk Społecznych.",
+  "title_en": "",
+  "short_name": "pl-du-1990-256",
+  "status": "in_force",
+  "issued_date": "1990-06-21",
+  "in_force_date": "1990-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/256",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Znosi się Akademię Nauk Społecznych w Warszawie z dniem 30 września 1990 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Majątek Akademii Nauk Społecznych przejmuje Skarb Państwa. 2. Rada Ministrów, w drodze rozporządzenia, określi sposób wykonania przepisu ust. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Na wniosek studenta znoszonej Akademii Nauk Społecznych, złożony do dnia 30 września 1990 r., szkoła wyższa przyjmuje go na dotychczasowy kierunek studiów lub zbliżony do niego. Dziekan wydziału przyjmującego określi obowiązki studenta, których spełnienie jest wymagane planem studiów i programem nauczania. 2. Minister Edukacji Narodowej określi, w porozumieniu z Centralną Komisją Kwalifikacyjną do Spraw Kadr Naukowych, sposób zakończenia przewodów doktorskich i habilitacyjnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Stosunek pracy z mianowanymi nauczycielami akademickimi zatrudnionymi w znoszonej Akademii Nauk Społecznych rozwiązuje organ uprawniony do mianowania - do dnia 30 września 1990 r. Pracownikom tym wypłaca się odprawy w wysokości sześciomiesięcznego wynagrodzenia zasadniczego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Traci moc ustawa z dnia 6 kwietnia 1984 r. o utworzeniu Akademii Nauk Społecznych ( Dz. U. Nr 21, poz. 99 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1999-885",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 września 1999 r. o zmianie ustawy o pomocy społecznej.",
+  "title_en": "",
+  "short_name": "pl-du-1999-885",
+  "status": "repealed",
+  "issued_date": "1999-09-10",
+  "in_force_date": "1999-10-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/885",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej ( Dz. U. z 1998 r. Nr 64, poz. 414 , Nr 106, poz. 668 , Nr 117, poz. 756 i Nr 162, poz. 1118 i 1126 oraz z 1999 r. Nr 20, poz. 170 ) w art. 31 w ust. 4a wyrazy „szkoły podstawowej, nie dłużej jednak niż do 15 roku życia” zastępuje się wyrazami „szkoły podstawowej i gimnazjum, nie dłużej jednak niż do 15 roku życia, a od dnia 1 września 2001 r. nie dłużej niż do 16 roku życia” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Gwarantowany zasiłek okresowy, o którym mowa w art. 31 ust. 4a ustawy wymienionej w art. 1, przysługuje osobie samotnie wychowującej dziecko będące uczniem, o którym mowa w art. 4 ust. 2 ustawy z dnia 8 stycznia 1999 r. - Przepisy wprowadzające reformę ustroju szkolnego ( Dz. U. Nr 12, poz. 96 ) , za okres od dnia ukończenia nauki w roku szkolnym 1998/1999 do dnia 31 sierpnia 1999 r. 2. Wypłata zasiłku, o którym mowa w ust. 1, nastąpi w terminie do 30 dni od dnia wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 września 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

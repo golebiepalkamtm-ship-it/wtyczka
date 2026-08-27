@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-1410",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 października 2008 r. o zmianie ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin",
+  "title_en": "",
+  "short_name": "pl-du-2008-1410",
+  "status": "amended",
+  "issued_date": "2008-10-15",
+  "in_force_date": "2008-12-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1410",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin ( Dz. U. z 2004 r. Nr 8, poz. 67 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558 oraz z 2008 r. Nr 66, poz. 402 i 409. ) art. 40a otrzymuje brzmienie: „ Art. 40a. Prawo do emerytury ulega zawieszeniu w razie ponownego przyjęcia emeryta do służby w Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Straży Granicznej, Biurze Ochrony Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej albo powołania emeryta do zawodowej służby wojskowej. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 121, poz. 1264 i Nr 191, poz. 1954, z 2005 r. Nr 10, poz. 65, Nr 90, poz. 757 i Nr 130, poz. 1085, z 2006 r. Nr 104, poz. 708 i 711, z 2007 r. Nr 82, poz. 558 oraz z 2008 r. Nr 66, poz. 402 i 409. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

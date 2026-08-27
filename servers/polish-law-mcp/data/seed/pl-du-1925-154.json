@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1925-154",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 marca 1925 r. o wypuszczeniu pożyczki zagranicznej w dolarach Stanów Zjednoczonych Ameryki.",
+  "title_en": "",
+  "short_name": "pl-du-1925-154",
+  "status": "in_force",
+  "issued_date": "1925-03-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/154",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem realizacji pożyczki, zaciągniętej przez Rząd w Stanach Zjednoczonych Ameryki na zasadzie rozporządzenia Prezydenta Rzeczypospolitej Polskiej z dnia 30 grudnia 1924 r. (Dz. U. R. P. № 118, poz. 1066), upoważnia się Ministra Skarbu do wypuszczenia obligacyj państwowych do wysokości nominalnej 50.000.000 dolarów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uzyskane z realizacji pożyczki kapitały zostaną zużyte do wysokości 40.000.000 złotych na budowę linij kolejowych, a z pozostałej części zostanie utworzony Państwowy Fundusz Gospodarczy, jako źródło kredytu na produkcyjne cele gospodarcze i budowlana na warunkach dochodowości, zapewniających pokrycie kosztów oprocentowanie i amortyzacji pożyczki. Szczegółowe postanowienia co do sposobu użycia Państwowego Funduszu Gospodarczego i zasady administrowania nim ustali statut, który będzie uchwalony przez Radę Ministrów i ogłoszony w Dzienniku Ustaw Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Spłata kapitału i odsetek od obligacyj będzie zabezpieczona dochodami z kolei iakcyzy cukrowej, a gdyby to źródło nie wystarczało, także i innemi dochodami, przeznaczonemi na cele powyższe przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kwoty, potrzebne na oprocentowanie i amortyzację pożyczki, będą corocznie wstawiane do budżetu państwowego, przyczem oprocentowanie i amortyzacja kwot, użytych na inwestycje kolejowe (art. 2), obciąży budżet kolei państwowych. Dochody Państwowego Funduszu Gospodarczego preliminowane będą w dochodach budżetu państwowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Równocześnie z preliminarzem budżetu państwowego Rząd będzie przedkładał stan rachunków Państwowego Funduszu Gospodarczego na dzień 31 grudnia ubiegłego roku, oraz sprawozdanie z administrowania tym funduszem."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Okres amortyzacji obligacyj, wymienionych w art. 1, ustala się na lat 25. Amortyzacja obligacyj tych dokonana będzie w drodze losowania w terminach półrocznych, przyczem cena wykupu obligacyj nie może przekraczać 105% wartości nominalnej. Oprocentowanie obligacyj nie może przekraczać 8% od sta w stosunku rocznym. Przy zawieraniu umowy o realizację pożyczki może być zastrzeżony wykup niezamortyzowanych obligacyj przed upływem terminu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Na umorzenie wylosowanych obligacyj i opłatę półrocznych odsetek może być utworzony osobny fundusz amortyzacyjny. Cena wykupu obligacyj i zapadłe odsetki będą płatne w New - Yorku, stan New - York w Stanach Zjednoczonych Ameryki, w złotej walucie Stanów Zjednoczonych i będą wolne od wszelkich opłat i podatków, ustanowionych obecnie lub w przyszłości przez jakiekolwiek władze państwowe lub samorządowe na terytorjum Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Upoważnia się Ministra Skarbu do zawarcia szczegółowych umów, dotyczących emisji obligacyj, wysokości odcinków, ceny ich sprzedaży, spłaty kapitału i odsetek, wykupu obligacyj, utworzenia funduszu amortyzacyjnego, zabezpieczenia tych obligacyj oraz do sporządzenia wszelkich aktów prawnych, związanych z zaciągnięciem, rejestracją, realizacją i wprowadzeniem obligacyj na giełdę. Rzeczone umowy mogą być zawarte również i w języku angielskim i mogą przewidywać ustalenie tekstu obligacyj w tymże języku."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Skarbu władny jest przelać wynikające zustawy niniejszej upoważnienia do podpisania umów i tekstu obligacyj na posła Rzeczypospolitej Polskiej w Waszyngtonie, względnie innego wydelegowanego w tym celu przedstawiciela Rządu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

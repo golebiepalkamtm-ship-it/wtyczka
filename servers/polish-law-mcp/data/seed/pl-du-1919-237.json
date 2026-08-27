@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-237",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 marca 1919 r. w przedmiocie czasowego zakazu przywozu znaków pieniężnych w walucie austrjacko-węgierskiej, niemieckiej i rosyjskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-237",
+  "status": "repealed",
+  "issued_date": "1919-03-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/237",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przywóz i przesyłanie w posyłkach pocztowych i listach znaków pieniężnych w walucie austrjacko - węgierskiej, niemieckiej i rosyjskiej w granice Rzeczypospolitej Polskiej jest zabronione."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podróżni, przybywający z zagranicy, mają prawo przewozu sumy, nie przekraczającej 500 koron, względnie 400 marek, względnie 200 rubli."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ministerstwo Skarbu może w poszczególnych wypadkach zwolnić od stosowania art. 1 i 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dowóz kuponów procentowych i dywidendowych, na walutę koronową, markową lub rublową opiewających, do Polski, nie mniej sprzedaż papierów wartościowych za Walutę, koronową, markową lub rublową osobom i firmom, mającym siedzibą poza granicami Polski, są dopuszczalne tylko za zezwoleniem Ministra Skarbu. Ograniczeniu temu nie podlegają kupony emisji krajowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Świadome przekroczenie lub usiłowanie przekroczenia niniejszej ustawy pociąga konfiskatę, całej przewożonej lub przesyłanej sumy, a nadto karane będzie innemi karami, przewidzianemi w ustawie karnej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Bank austrjacko - węgierski nie jest krępowany w komunikacji z filjami swemi, znajdującemi się na obszarze Rzeczypospolitej Polskiej, może jednak rozporządzać przesyłanemi sumami w banknotach koronowych tylko pod kontrolą i zezwoleniem Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Równocześnie tracą moc obowiązującą rozporządzenia Ministra Skarbu z 22 lutego 1919 r. i 4 marca 1919 r. w przedmiocie zakazu wwozu znaków pieniężnych w walucie austrjacko - węgierskiej, względnie w walucie niemieckiej i rosyjskiej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Skarbu osobnem rozporządzeniem oznaczy dzień, w którym ustawa niniejsza straci moc obowiązującą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

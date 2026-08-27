@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1920-529",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. w przedmiocie umów, zawartych przez b. władze austrjackie lub austro-węgierskie co do majątku państwowego i funduszu religijnego na obszarze b. zaboru austrjackiego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-529",
+  "status": "in_force",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/529",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Umowy, zawarte przez b. władze lub urzędy austrjackie lub austro - węgierskie, dotyczące majątku państwowego lub funduszu religijnego, znajdującego się w Rzeczypospolitej polskiej na obszarze b. zaboru austrjackiego, a dotąd niewykonane, mają być zgłoszone przez osobę, która zawarła tę umowę, w ciągu 30 dni od dnia wejścia w życie niniejszej ustawy do właściwego ministerstwa na ręce władzy lub urzędu, odpowiadającego tej władzy lub urzędowi monarchji austro - węgierskiej, która zawarła daną umowę. Niezgłoszone w tym terminie umowy będą uważane jako nieuznane przez Państwo Polskie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ministerstwem właściwem jest to ministerstwo, które objęło w swój zarząd przedmiot majątkowy, którego umowa dotyczy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Właściwe ministerstwo może zgłoszoną umowę uznać, może odmówić uznania lub też może uzależnić uznanie umowy od dopełnienia postawionych przez siebie warunków. O ile zgłaszający umowę w przeciągu 3 miesięcy od chwili zgłoszenia nie otrzyma ze strony właściwego ministerstwa zawiadomienia o uznaniu umowy, umowa będzie uważaną za nieuznaną. Przeciwko orzeczeniu, odmawiają mu uznania, niema żadnego odwołania. Dochodzenie z tytułu nieuznania umowy jakiejkolwiek pretensji na zwykłej drodze prawa jest niedopuszczalne."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawa i obowiązki, wypływające z umów, wymienionych w art. 1, przechodzą na Państwo Polskie jedynie w razie uznania tych umów przez władze polskie stosownie do przepisów niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Osoby, które na podstawie nieuznanych w myśl niniejszej ustawy umów, poczyniły w majątku państwowym trwałe nakłady, które w myśl umowy po jej ukończeniu miały przejść na własność Skarbu Państwa austrjackiego lub austro - węgierskiego, mogą za nie żądać słusznego wynagrodzenia, o ile nakłady te dla celów państwowych okażą się potrzebnemi, a w chwili nieuznania umowy nie były jeszcze zamortyzowane. Od chwili wejścia w życie niniejszej ustawy nie wolno bez wyraźnego zezwolenia właściwego ministerstwa przedmiotów tych zabierać ani ich usuwać z miejsc, w których się znajdują. Żądanie wynagrodzenia winno być zgłoszone we właściwem ministerstwie w przeciągu dni 30 od chwili doręczenia interesowanemu zawiadomienia o nieuznaniu umowy, względnie od chwili upływu 3 miesięcznego terminu, wskazanego w ustępie 2 art. 3. Jednocześnie winny być przedłożone dokumenty i rachunki, wykazujące słuszność żądania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wysokość wynagrodzenia, należnego stronie za poczynione w majątku państwowym trwałe nakłady, wymienione w art. 5, ustala właściwe ministerstwo."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Stronie, niezadowolonej z orzeczenia odnośnego urzędu co do odszkodowania za wkłady, służy prawo udać się na drogę sądową."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Rolnictwa i Dóbr Państwowych w porozumieniu z interesowanymi Ministrami i Prezesem Głównego urzędu Likwidacyjnego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

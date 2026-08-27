@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1994-537",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 września 1994 r. o świadczeniu pieniężnym i uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym w kopalniach węgla, kamieniołomach, zakładach rud uranu i batalionach budowlanych",
+  "title_en": "",
+  "short_name": "pl-du-1994-537",
+  "status": "in_force",
+  "issued_date": "1994-09-02",
+  "in_force_date": "1994-10-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/537",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Żołnierzom: 1) zastępczej służby wojskowej, którzy w latach 1949-1956 byli przymusowo zatrudniani w kopalniach węgla, kamieniołomach oraz w zakładach pozyskiwania i wzbogacania rud uranowych, 2) z poboru w 1949 r., którzy byli wcielani do ponadkontyngentowych brygad „Służby Polsce” i przymusowo zatrudniani w kopalniach węgla i kamieniołomach, przysługuje, z zastrzeżeniem ust. 2, dodatek pieniężny do emerytury lub renty, zwany dalej „dodatkiem”. 2. Dodatek nie przysługuje żołnierzom Korpusu Bezpieczeństwa Wewnętrznego i Wojsk Ochrony Pogranicza odkomenderowanym w 1956 r. na okres 6 miesięcy do kopalń węgla bez selekcjonowania politycznego określonego kategorią zastępczej służby wojskowej. 3. W razie zbiegu prawa do kilku świadczeń o charakterze emerytalno-rentowym, przysługuje tylko jeden dodatek. 4. Osobie uprawnionej jednocześnie do dodatku, o którym mowa w ust. 1, a także do dodatku określonego w przepisach o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego bądź do dodatku za tajne nauczanie przysługuje tylko jeden z tych dodatków - wyższy lub wybrany przez zainteresowanego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Dodatek przysługuje w wysokości 0,5% przeciętnego wynagrodzenia w kwartale kalendarzowym poprzedzającym termin waloryzacji, za każdy pełny miesiąc trwania pracy, o której mowa w art. 1 ust. 1, nie więcej jednak łącznie niż 10% tego wynagrodzenia. 2. Zmiana wysokości dodatku następuje w trzecim miesiącu kwartału, w którym jest przeprowadzana waloryzacja."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dodatek przysługuje obok emerytury lub renty i jest przyznawany oraz wypłacany przez właściwy w sprawach emerytur i rent organ rentowy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dodatek finansowany jest ze środków budżetu państwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Dodatek jest przyznawany na podstawie zaświadczenia organu wojskowego potwierdzającego rodzaj i okres wykonywania przymusowego zatrudnienia w ramach zastępczej służby wojskowej, o którym mowa w art. 1 ust. 1. 2. Minister Obrony Narodowej określa, w drodze rozporządzenia, organy wojskowe właściwe do wydawania zaświadczeń, o których mowa w ust. 1, oraz tryb postępowania przed tymi organami."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wiek emerytalny osób wymienionych w art. 1 ust. 1, przysługujący im na podstawie odrębnych przepisów, ulega skróceniu o okres przymusowego zatrudnienia w kopalniach węgla, kamieniołomach i zakładach pozyskiwania i wzbogacania rud uranowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Osobom, które zostały zaliczone do jednej z grup inwalidów wskutek inwalidztwa pozostającego w związku z zatrudnieniem, o którym mowa w art. 1 ust. 1, przysługują świadczenia pieniężne i inne uprawnienia przewidziane w przepisach o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin. 2. Za inwalidztwo pozostające w związku z zatrudnieniem, o którym mowa w art. 1 ust. 1, uważa się inwalidztwo będące następstwem zranień, kontuzji bądź innych obrażeń lub chorób powstałych w związku z tym zatrudnieniem. 3. Związek zranień, kontuzji bądź innych obrażeń lub chorób z zatrudnieniem w miejscach, o których mowa w art. 1 ust. 1, ustala wojskowa komisja lekarska. 4. Grupę inwalidztwa, datę jego powstania oraz związek inwalidztwa z zatrudnieniem w miejscach, o których mowa w art. 1 ust. 1, ustala komisja lekarska do spraw inwalidztwa i zatrudnienia, na podstawie orzeczenia wojskowej komisji lekarskiej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W sprawach nie uregulowanych w ustawie stosuje się odpowiednio przepisy o zaopatrzeniu emerytalnym pracowników i ich rodzin."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2011-809",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 2011 r. o zmianie ustawy o odpadach",
+  "title_en": "",
+  "short_name": "pl-du-2011-809",
+  "status": "repealed",
+  "issued_date": "2011-04-28",
+  "in_force_date": "2011-07-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/809",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 kwietnia 2001 r. o odpadach ( Dz. U. z 2010 r. Nr 185, poz. 1243 i Nr 203, poz. 1351 oraz z 2011 r. Nr 106, poz. 622 i Nr 117, poz. 678 ) wprowadza się następujące zmiany: 1) po art. 76a dodaje się art. 76b w brzmieniu: „ Art. 76b. Kto, będąc obowiązany do prowadzenia ewidencji odpadów, o której mowa w art. 36 ust. 1, nie wykonuje tego obowiązku albo wykonuje go niezgodnie ze stanem rzeczywistym podlega karze grzywny. ” ; 2) w art. 79c: a) ust. 3 otrzymuje brzmienie: „ 3. Jeżeli posiadacz odpadów, wbrew obowiązkowi, o którym mowa w art. 37 ust. 3, nie przekazuje zbiorczego zestawienia danych podlega karze pieniężnej w wysokości 500 zł. ” , b) dodaje się ust. 4 i 5 w brzmieniu: „ 4. W przypadku nieprzekazania zbiorczego zestawienia danych w terminie określonym w decyzji wydanej na podstawie art. 79d ust. 3a posiadacz odpadów podlega karze pieniężnej w wysokości 2000 zł. 5. Kara pieniężna, o której mowa w ust. 4, może być wymierzana wielokrotnie, z tym że łączna wysokość kar pieniężnych, o których mowa w ust. 3 i 4, za dany rok kalendarzowy nie może przekroczyć 10 000 zł. ” ; 3) w art. 79d po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. W decyzji o wymierzeniu kary pieniężnej, o której mowa w art. 79c ust. 3 i 4, marszałek województwa określa termin przekazania zbiorczego zestawienia danych, nie krótszy niż 14 dni. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

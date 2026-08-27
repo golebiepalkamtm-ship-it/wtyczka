@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1997-493",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 lipca 1997 r. o szczególnych zasadach gospodarki gruntami i wywłaszczania nieruchomości na terenach objętych powodzią z lipca 1997 r.",
+  "title_en": "",
+  "short_name": "pl-du-1997-493",
+  "status": "repealed",
+  "issued_date": "1997-07-17",
+  "in_force_date": "1997-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/493",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Wojewoda - w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, a rada gminy - w odniesieniu do nieruchomości stanowiących własność gminy, odpowiednio, w drodze zarządzenia lub uchwały, mogą odstąpić od przeprowadzania przetargu przy zbywaniu nieruchomości położonych na terenach objętych powodzią z lipca 1997 r., zwanych dalej „terenami powodziowymi”, przeznaczonych pod budownictwo mieszkaniowe dla osób, których lokale lub budynki mieszkalne uległy zniszczeniu, oraz realizację urządzeń infrastruktury technicznej lub innych celów publicznych w związku z usuwaniem skutków powodzi. 2. Przy zbywaniu nieruchomości, o których mowa w ust. 1, wykaz nieruchomości przeznaczonych do sprzedaży lub oddania w użytkowanie wieczyste wywiesza się, na okres 21 dni, w siedzibie odpowiednio - urzędu rejonowego lub urzędu gminy, a ponadto informację o wywieszeniu tego wykazu podaje się do publicznej wiadomości w sposób zwyczajowo przyjęty w danej miejscowości."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Ceny nieruchomości, o których mowa w art. 1, mogą być rozkładane na raty nie dłużej niż 10 lat. 2. W wypadku, o którym mowa w ust. 1, wierzytelność Skarbu Państwa lub gminy podlega zabezpieczeniu, w szczególności - zabezpieczeniu hipotecznemu. Pierwsza rata podlega zapłacie nie później niż do dnia zawarcia umowy przenoszącej własność nieruchomości. 3. Wojewoda - w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, a rada gminy - w odniesieniu do nieruchomości stanowiących własność gminy - mogą odstąpić od oprocentowania ceny rozłożonej na raty, mogą również udzielić bonifikaty od ceny nieruchomości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy art. 2 stosuje się odpowiednio do pierwszej opłaty za oddanie nieruchomości na terenach powodziowych w użytkowanie wieczyste."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Terenowy organ rządowej administracji ogólnej - w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa, a rada gminy - w odniesieniu do nieruchomości stanowiących własność gminy - mogą, na wniosek zainteresowanych, podejmować decyzje o umorzeniu, w całości lub w części, zobowiązań z tytułu nabycia od Skarbu Państwa lub gminy, na własność lub w użytkowanie wieczyste, nieruchomości położonych na terenach powodziowych. Umorzenia dokonuje się za zgodą odpowiednio - wojewody lub rady gminy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Właściciele i użytkownicy wieczyści nieruchomości położonych na terenach powodziowych są zwolnieni z opłat adiacenckich, w wypadku wzrostu wartości nieruchomości w wyniku odbudowy obiektów infrastruktury technicznej na terenach powodziowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. W przypadku usuwania szkód spowodowanych siłą wyższą, których powstaniu nie można było zapobiec, odpowiednio wojewoda albo rada gminy - mogą zezwolić na czasowe zajęcie nieruchomości na okres nie dłuższy niż 6 miesięcy. 2. W przypadku konieczności nabywania nieruchomości niezbędnych do wykonania robót drogowych związanych z usuwaniem skutków powodzi z lipca 1997 r. mają odpowiednio zastosowanie przepisy art. 29-32 ustawy z dnia 27 października 1994 r. o autostradach płatnych ( Dz. U. Nr 127, poz. 627 oraz z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 ) , z tym że kompetencje Prezesa Agencji Budowy i Eksploatacji Autostrad wykonuje właściwy terytorialnie naczelny dyrektor okręgu dróg publicznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i obowiązuje do dnia 1 lipca 1998 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

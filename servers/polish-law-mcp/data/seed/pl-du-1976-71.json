@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1976-71",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Gospodarki Materiałowej.",
+  "title_en": "",
+  "short_name": "pl-du-1976-71",
+  "status": "repealed",
+  "issued_date": "1976-03-27",
+  "in_force_date": "1976-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1976/71",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Gospodarki Materiałowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Do zakresu działania Ministra Gospodarki Materiałowej należą sprawy zaopatrzenia i gospodarki surowcami, materiałami, paliwami i energią oraz rezerw państwowych. 2. Minister Gospodarki Materiałowej kieruje Urzędem Gospodarki Materiałowej. 3. Minister Gospodarki Materiałowej koordynuje i kontroluje działalność państwowych i spółdzielczych jednostek organizacyjnych w zakresie: 1) efektywności wykorzystania materiałów, surowców, paliw i energii, 2) gospodarki surowcami wtórnymi, 3) obrotu i zaopatrzenia w surowce, materiały, paliwa i energię, 4) rozmieszczenia i ruchu zapasów oraz rezerw państwowych, 5) gospodarki magazynowej i opakowaniami. 4. Rada Ministrów określi w drodze rozporządzenia szczegółowy zakres działania Ministra Gospodarki Materiałowej oraz nada statut Urzędowi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 30 maja 1962 r. o gospodarce paliwowo-energetycznej ( Dz. U. Nr 32, poz. 150 i z 1971 r. Nr 12, poz. 117 ) w art. 5 ust. 1 otrzymuje brzmienie: „ 1. Organem Ministra Gospodarki Materiałowej w zakresie gospodarki paliwowo-energetycznej jest Państwowy Inspektorat Gospodarki Paliwowo-Energetycznej. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Znosi się Państwową Radę Gospodarki Materiałowej. 2. Sprawy należące dotychczas do zakresu działania Państwowej Rady Gospodarki Materiałowej przechodzą do zakresu działania Ministra Gospodarki Materiałowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Traci moc ustawa z dnia 29 marca 1972 r. o utworzeniu Państwowej Rady Gospodarki Materiałowej ( Dz. U. Nr 11, poz. 84 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem uchwalenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_2-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

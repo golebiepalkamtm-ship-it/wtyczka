@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1993-20",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 listopada 1992 r. o zmianie ustawy o dochodach gmin i zasadach ich subwencjonowania w 1991 r. i w 1992 r. oraz o zmianie ustawy o samorządzie terytorialnym.",
+  "title_en": "",
+  "short_name": "pl-du-1993-20",
+  "status": "repealed",
+  "issued_date": "1992-11-27",
+  "in_force_date": "1993-01-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/20",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 grudnia 1990 r. o dochodach gmin i zasadach ich subwencjonowania w 1991 r. i w 1992 r. oraz o zmianie ustawy o samorządzie terytorialnym ( Dz. U. Nr 89, poz. 518 , z 1991 r. Nr 110, poz. 475 oraz z 1992 r. Nr 50, poz. 229 ) wprowadza się następujące zmiany: 1) w tytule ustawy wyrazy „w 1991 r. i w 1992 r.” zastępuje się wyrazami „w latach 1991-1993” , 2) w art. 3 w ust. 1 w pkt 2 wyrazy „2%” zastępuje się wyrazami „5%” , 3) w art. 6 skreśla się ust. 2 i oznaczenie ust. 1, 4) w art. 19 w ust. 1 wyrazy „14 dni od wejścia w życie” zastępuje się wyrazami „7 dni od ogłoszenia” , 5) w art. 20 skreśla się ust. 2, 6) art. 23 otrzymuje brzmienie: „ Art. 23. Łączna kwota: 1) przypadających do spłaty w danym roku rat kredytów i pożyczek, o których mowa w art. 21, wraz z należnymi w danym roku odsetkami od tych kredytów i pożyczek, 2) przypadających do wykupu w danym roku papierów wartościowych wyemitowanych przez gminę nie może przekroczyć 10% planowanych wydatków budżetu gminy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1993 r., z tym że do opracowania budżetów gmin na 1993 r. stosuje się przepisy niniejszej ustawy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

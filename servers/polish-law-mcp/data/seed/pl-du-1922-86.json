@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1922-86",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 stycznia 1922 r. o zniesieniu mocy obowiązującej ustawy z dnia 20 maja 1921 r. o tymczasowym poborze państwowego podatku dochodowego i o wstrzymaniu potrącenia podatku dochodowego przez służbodawców na zasadzie ustawy z dnia 16 lipca 1920 r. o państwowym podatku dochodowym i podatku majątkowym.",
+  "title_en": "",
+  "short_name": "pl-du-1922-86",
+  "status": "in_force",
+  "issued_date": "1922-01-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/86",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uchyla się moc obowiązującą ustawy z dnia 20 maja 1921 r. o tymczasowym poborze państwowego podatku dochodowego (Dz. U. R. P. № 47, poz. 287)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wstrzymuje się pobór i egzekucję tymczasowo wymierzonych, a jeszcze niewpłaconych kwot podatku dochodowego i podatku od dochodów z uposażeń służbowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wpłacone już kwoty tymczasowo wymierzonego podatku dochodowego będą zaliczone płatnikom na opłacenie ostatecznie wymierzonego podatku dochodowego za lata podatkowe 1920 i 1921 na zasadzie ustawy z dnia 16 lipca 1920 r. o państwowym podatku dochodowym i podatku majątkowym (Dz. U. R. P. № 82, poz. 550)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Jeżeli jednak, po obliczeniu kwoty nadzwyczajnej daniny państwowej na zasadzie ustawy z dnia 16. grudnia 1921 (Dz. U. R. P. z 1922 r. № 11 poz. 1), okaże się, że suma zapłaconego już tymczasowo podatku dochodowego przewyższa 1/4 kwoty daniny, jaka przypadnie na płatnika podatku dochodowego, to, na żądanie płatnika i po złożeniu pokwitowania kasy skarbowej na zapłacony tymczasowo podatek dochodowy, będzie zwrócona różnica pomiędzy kwotą właconego podatku dochodowego, a 1/4 kwoty daniny. Zwrot nastąpić musi przynajmniej na 14 dni przed terminem płatności drugiej raty daniny."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "O ile ostatecznie wymierzony podatek dochodowy nie dosięgnie kwoty tymczasowo ustalonej na podstawie ustawy z dnia 20 maja 1921 r. (Dz. U. R. P. № 47, poz. 287) lub tej kwoty, jaka może pozostać po zwrocie, przewidzianym w art. 4, - będzie płatnikowi zwrócona nadwyżka z odsetkami w wysokości 1/2% za każdy pełny miesiąc od dnia wpłaty aż do dnia doręczenia ostatecznego nakazu płatniczego. W każdym razie zwrot nastąpić musi nie później niż w trzy miesiące po ostatnim terminie płatności podatku dochodowego za lata podatkowe 1920 i 1921."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W wypadkach, przewidzianych w art. 4 i 5 niniejszej ustawy, pobrane odsetki za zwłokę i koszty egzekucyjne zwrócone będą płatnikom w ciągu trzech miesiecy po ostatnim terminie płatności podatku dochodowego za lata podatkowe 1920 i 1921."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej poleca się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

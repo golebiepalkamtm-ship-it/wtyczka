@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1944-3",
+  "type": "statute",
+  "title": "Ustawa Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy.",
+  "title_en": "",
+  "short_name": "pl-du-1944-3",
+  "status": "repealed",
+  "issued_date": "1944-08-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1944/3",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ze względu na warunki toczącej się wojny na ziemiach polskich i wynikających stąd utrudnień w działalności ciał ustawodawczych - Krajowa Rada Narodowa ustala następujący tryb wydawania dekretów z mocą ustawy we wszystkich sprawach, dla których unormowania przewidziana jest przez Konstytucję 1921 r. forma ustawy - z wyjątkiem spraw ratyfikacji umów międzynarodowych, utworzenia Rządu Tymczasowego i rozwiązania Polskiego Komitetu Wyzwolenia Narodowego: a) Dekrety z mocą ustawy wydawane są przez Polski Komitet Wyzwolenia Narodowego i następnie przedkładane Prezydium Krajowej Rady Narodowej do zatwierdzenia. b) Dekrety z mocą ustawy podpisywane są przez przewodniczącego Krajowej Rady Narodowej i przewodniczącego Polskiego Komitetu Wyzwolenia Narodowego. c) Wszystkie dekrety, uchwalone w powyższym trybie, winny być przedłożone przez Prezydium Krajowej Rady Narodowej na najbliższym plenarnym posiedzeniu Krajowej Rady Narodowej i tracą bezzwłocznie moc prawną, jeżeli Krajowa Rada Narodowa zwykłą większością głosów odmówi ich zatwierdzenia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustalony w art. 1 tymczasowy tryb wydawania dekretów z mocą ustawy może być zmieniony uchwałą Krajowej Rady Narodowej, przyjętą zwykłą większością głosów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezydium Krajowej Rady Narodowej i Prezydium Polskiego Komitetu Wyzwolenia Narodowego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

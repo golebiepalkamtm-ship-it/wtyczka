@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-2532",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 2018 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu",
+  "title_en": "",
+  "short_name": "pl-du-2018-2532",
+  "status": "in_force",
+  "issued_date": "2018-12-14",
+  "in_force_date": "2018-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2532",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 stycznia 2018 r. o szczególnych rozwiązaniach związanych z organizacją w Rzeczypospolitej Polskiej sesji Konferencji Stron Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu ( Dz. U. poz. 2223 ) w art. 32: 1) ust. 1 otrzymuje brzmienie: „ 1. NFOŚiGW przeznacza środki na udzielenie państwom rozwijającym się wsparcia w zakresie łagodzenia zmian klimatu i adaptacji do skutków tych zmian wykonywanego w ramach realizacji celów Konwencji klimatycznej, za pośrednictwem Zielonego Funduszu Klimatycznego, Funduszu Adaptacyjnego lub za pośrednictwem innych wielostronnych funduszy rozwojowych, w tym w drodze umów zawieranych z organizacjami powierniczymi tych funduszy, lub w drodze programów pomocy dwustronnej, w łącznej wysokości 30 000 000 zł. ” ; 2) dodaje się ust. 5‒7 w brzmieniu: „ 5. Wsparcie, o którym mowa w ust. 1, następuje na podstawie umów zawieranych jako umowy międzynarodowe zgodnie z przepisami ustawy z dnia 14 kwietnia 2000 r. o umowach międzynarodowych ( Dz. U. poz. 443 , z 2002 r. poz. 1824 , z 2010 r. poz. 1395 oraz z 2011 r. poz. 676 ) albo jako umowy prawa prywatnego. 6. Zawarcie umowy prawa prywatnego wymaga uzyskania zgody Rady Ministrów. 7. Umowa prawa prywatnego, w terminie 14 dni od dnia jej zawarcia, jest przekazywana Radzie Ministrów do wiadomości. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1932-347",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1932 r. o bezpłatnem dostarczaniu druków dla celów bibljotecznych i urzędowej rejestracji.",
+  "title_en": "",
+  "short_name": "pl-du-1932-347",
+  "status": "repealed",
+  "issued_date": "1932-03-18",
+  "in_force_date": "1932-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/347",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się obowiązek bezpłatnego dostarczania dla celów bibliotecznych oraz dla celów urzędowej rejestracji wszystkich odbitych lub wydanych w Państwie druków, przeznaczonych do rozpowszechnienia. Drukami są wszelkie wytwory graficzne, odbite sposobem mechanicznym lub środkami chemicznemi. Za rozpowszechnianie druku uważa się również wystawianie go w miejscu publicznie dostępnem. Ustawa niniejsza nie ma zastosowania do: papierów wartościowych, druków, przeznaczonych wyłącznie do użytku domowego lub towarzyskiego, do użytku przemysłu, handlu lub zawodu, do druków artystycanych, mających charakter oryginału, a nadto do druków, wydawanych przez władze wojskowe w ich zakresie działania. Druki, przeznaczone dla celów bibliotecznych, winny być wykonane na papierze trwałym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obowiązek dostarczania druków, odbitych w Państwie, ciąży na zarządzającym zakładem, w którym druk odbito. Obowiązek dostarczania druków, odbitych poza granicami Państwa, a wydanych w Państwie, ciąży na nakładcy (wydawcy)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego, wydane w porozumieniu z Ministrem Spraw Wewnętrznych, określi liczbę egzemplarzy, która nie może przewyższać dziesięciu, i wymieni zakłady i instytucje, do których druki te mają być dostarczone. Utwory muzyczne bez tekstu słownego i druki artystyczne będą dostarczone w jednym egzemplarzu Bibljotece Narodowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kto, choćby przez nieoględność, narusza przepis art. 1 i 2 niniejszej ustawy, lub rozporządzeń, wydanych na podstawie niniejszej ustawy, będzie karany aresztem do czterech tygodni i grzywną do pięciuset złotych lub jedną z tych kar. Do orzekania w przedmiocie powyższych przestępstw powołane są powiatowe władze administracji ogólnej. Przy skazaniu za naruszenie przepisów art. 1 i 2 niniejszej ustawy należy orzec obowiązek dostarczenia egzemplarzy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom Spraw Wewnętrznych i Wyznań Religijnych i Oświecenia Publicznego, we właściwym każdemu z nich zakresie działania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie piętnastego dnia po dniu ogłoszenia. Z tą chwilą tracą moc obowiązującą dotychczasowe przepisy w przedmiotach, uregulowanych niniejszą ustawą. Ustawa ta nie narusza w niczem przepisów, przewidujących obowiązek dostarczania druków dla innych celów, niż wymienione w art. 1. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

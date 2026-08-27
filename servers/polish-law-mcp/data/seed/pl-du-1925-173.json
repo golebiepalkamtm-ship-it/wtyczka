@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1925-173",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lutego 1925 r. o normowaniu diet i kosztów podróży lekarzy, jako znawców sądowych, w województwach: poznańskiem, pomorskiem i w górnośląskiej części województwa śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1925-173",
+  "status": "in_force",
+  "issued_date": "1925-02-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/173",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Sprawiedliwości do normowania w drodze rozporządzeń, wydawanych w porozumieniu z Ministrami: Spraw Wewnętrznych i Skarbu, diet i kosztów podróży lekarzy, jako znawców sądowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza obowiązuje w województwach: poznańskiem, pomorskiem i w górnośląskiej części województwa śląskiego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom: Sprawiedliwości, Spraw Wewnętrznych i Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

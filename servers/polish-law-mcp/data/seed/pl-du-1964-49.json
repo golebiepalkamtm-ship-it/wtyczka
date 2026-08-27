@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1964-49",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 1964 r. o zmianach w organizacji i zakresie działania naczelnych organów administracji państwowej w dziedzinie budownictwa i planowania przestrzennego.",
+  "title_en": "",
+  "short_name": "pl-du-1964-49",
+  "status": "repealed",
+  "issued_date": "1964-02-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1964/49",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sprawy należące do zakresu działania Komitetu Budownictwa, Urbanistyki i Architektury przechodzą do zakresu działania Ministra Budownictwa i Przemysłu Materiałów Budowlanych, z wyjątkiem: 1) spraw ustalania ogólnych zasad i wytycznych opracowywania i zatwierdzania założeń i projektów inwestycji oraz zasad organizacji służb inwestycyjnych, które przechodzą do Komisji Planowania przy Radzie Ministrów; 2) spraw planów realizacyjnych zagospodarowania przestrzennego terenów (działek) inwestycji rolniczych oraz spraw projektowania tych inwestycji przez podległe i nadzorowane jednostki, które przechodzą do Ministra Rolnictwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zakres działania Ministra Budownictwa i Przemysłu Materiałów Budowlanych obejmuje: 1) ustalanie, na podstawie narodowych planów gospodarczych oraz uchwał Rady Ministrów, kierunków i metod realizacji technicznego, organizacyjnego i ekonomicznego rozwoju budownictwa, 2) koordynację w dziedzinie projektowania budowlanego i produkcji budowlano-montażowej oraz kierowanie w tym zakresie działalnością jednostek podległych, 3) kierowanie sprawami planowania przestrzennego w zakresie planów miejscowych i lokalizacji szczegółowej inwestycji, 4) kierowanie sprawami państwowego nadzoru budowlanego w zakresie budownictwa powszechnego oraz koordynację działalności naczelnych organów państwowego nadzoru budowlanego w zakresie budownictwa specjalnego, 5) kierowanie sprawami projektowania technologicznego w zakresie produkcji materiałów budowlanych oraz sprawami produkcji i zbytu tych materiałów, 6) kierowanie pracami naukowo-badawczymi i naukowo-usługowymi w zakresie rozwoju technicznego, organizacyjnego i ekonomicznego budownictwa i przemysłu materiałów budowlanych, 7) kierowanie realizacją współpracy naukowo-technicznej i gospodarczej z zagranicą w dziedzinie budownictwa i przemysłu materiałów budowlanych. 2. Minister Budownictwa i Przemysłu Materiałów Budowlanych: 1) sprawuje nadzór nad organami prezydiów rad narodowych w dziedzinach należących do jego właściwości w zakresie ustalonym ustawą z dnia 25 stycznia 1958 r. o radach narodowych ( Dz. U. z 1963 r. Nr 29, poz. 172 ) , 2) sprawuje ogólne kierownictwo i nadzór nad podległymi przedsiębiorstwami i innymi jednostkami organizacyjnymi oraz ustala zasady ich działania."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Znosi się Komitet Budownictwa, Urbanistyki i Architektury."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rada Ministrów w drodze rozporządzenia: 1) określi szczegółowy zakres działania Ministra Budownictwa i Przemysłu Materiałów Budowlanych, rozgraniczy zakres działania tego Ministra i innych naczelnych organów administracji państwowej w sprawach przekazywanych z dotychczasowego zakresu działania Komitetu Budownictwa, Urbanistyki i Architektury oraz ustali zakres i zasady współdziałania z zainteresowanymi organami administracji państwowej, 2) dostosuje zakresy działania Komisji Planowania przy Radzie Ministrów i Ministra Rolnictwa do zmian wprowadzonych przepisem art. 1."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Pracownicy Komitetu Budownictwa, Urbanistyki i Architektury, wykonujący dotychczas zadania Komitetu przekazywane niniejszą ustawą naczelnym organom administracji państwowej wymienionym w art. 1, przechodzą do pracy w odpowiednich organach."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Tracą moc: 1) ustawa z dnia 14 czerwca 1960 r. o przekształceniu Komitetu do Spraw Urbanistyki i Architektury w Komitet Budownictwa, Urbanistyki i Architektury ( Dz. U. Nr 29, poz. 164 ) , 2) art. 6 ustawy z dnia 22 marca 1957 r. o zmianach w organizacji i zakresie działania naczelnych organów administracji państwowej w niektórych gałęziach przemysłu, budownictwa i komunikacji ( Dz. U. Nr 17, poz. 86 i z 1960 r. Nr 29, poz. 164 ) ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

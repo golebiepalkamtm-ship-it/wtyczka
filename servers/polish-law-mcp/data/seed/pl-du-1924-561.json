@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1924-561",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 czerwca 1924 r. o opłacie od kart do gry na rzecz Polskiego Towarzystwa Czerwonego Krzyża.",
+  "title_en": "",
+  "short_name": "pl-du-1924-561",
+  "status": "repealed",
+  "issued_date": "1924-06-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/561",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Od kart do gry, sporządzonych w kraju oraz przywiezionych z zagranicy, ustanawia się na rzecz Polskiego Towarzystwa Czerwonego Krzyża specjalna, opłatę w wysokości 50% opłaty (podatku), pobieranej od każdej talji kart przez Skarb Państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Opłatę na rzecz Polskiego Towarzystwa Czerwonego Krzyża uiszcza się równocześnie z opłatą na rzecz Skarbu Państwa i według przepisów, obowiązujących dla tej opłaty (podatku). Przekroczenia przepisów niniejszej ustawy karane będą w myśl przepisów, obowiązujących w przedmiocie państwowej opłaty (podatku) od kart do gry."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wpływ, uzyskany z opłat na rzecz Polskiego Towarzystwa Czerwonego Krzyża w okresie 2 miesięcy, przekazywany będzie wymienionemu Polskiemu Towarzystwu Czerwonego Krzyża przez Skarb Państwa w ciągu bezpośrednio następujących 2 miesięcy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie w cztery tygodnie po ogłoszeniu i obowiązuje na całym obszarze Rzeczypospolitej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

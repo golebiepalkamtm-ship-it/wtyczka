@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-334",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 stycznia 2009 r. o zmianie ustawy - Prawo geodezyjne i kartograficzne",
+  "title_en": "",
+  "short_name": "pl-du-2009-334",
+  "status": "in_force",
+  "issued_date": "2009-01-09",
+  "in_force_date": "2009-03-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/334",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ( Dz. U. z 2005 r. Nr 240, poz. 2027 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206. ) w art. 24: a) ust. 2 i 3 otrzymują brzmienie: „ 2. Informacje o gruntach, budynkach i lokalach, o których mowa w art. 20 ust. 1 oraz ust. 2 pkt 3 i 4, są jawne i powszechnie dostępne. 3. Starosta wydaje wypis z operatu ewidencyjnego zawierający dane osobowe, o których mowa w art. 20 ust. 2 pkt 1 i 2, na żądanie: 1) właścicieli lub osób fizycznych i prawnych, w których władaniu znajdują się grunty, budynki lub lokale będące przedmiotem wypisu; 2) podmiotów publicznych lub podmiotów niebędących podmiotami publicznymi, realizującymi zadania publiczne na podstawie odrębnych przepisów albo na skutek powierzenia lub zlecenia przez podmiot publiczny, które związane są z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu; 3) innych podmiotów, niż wymienione w pkt 1 i 2, które mają interes prawny związany z gruntami, budynkami lub lokalami będącymi przedmiotem wypisu. ” , b) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Wypisy i wyrysy z operatu ewidencyjnego wydaje się nieodpłatnie na żądanie: 1) prokuratury; 2) sądów, działających w sprawach publicznych; 3) organów kontroli państwa w związku z wykonywaniem przez te organy ich ustawowych zadań; 4) organów administracji rządowej oraz jednostek samorządu terytorialnego, w związku z ich działaniami dotyczącymi praw do nieruchomości Skarbu Państwa i jednostek samorządu terytorialnego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 170, poz. 1217, z 2007 r. Nr 21, poz. 125, z 2008 r. Nr 201, poz. 1237 i Nr 227, poz. 1505 oraz z 2009 r. Nr 31, poz. 206. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

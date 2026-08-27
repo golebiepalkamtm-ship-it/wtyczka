@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-702",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lipca 1924 r. w przedmiocie zniesienia § 14 rozporządzenia Ministra b. Dzielnicy Pruskiej z dnia 12 sierpnia 1921 r. o zmianie ordynacji miejskiej dla 6 wschodnich prowincji monarchji pruskiej z dnia 30 maja 1853 r. i o przeprowadzeniu wyborów komunalnych w miastach b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1924-702",
+  "status": "in_force",
+  "issued_date": "1924-07-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/702",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Znosi się § 14 rozporządzenia Ministra b. Dzielnicy Pruskiej z dnia 12 sierpnia 1921 r. o zmianie ordynacji miejskiej dla 6 wschodnich prowincji monarchji pruskiej z dnia 30 maja 1853 r. (Zbiór ustaw pruskich strona 261) i o przeprowadzeniu wyborów komunalnych w miastach b. dzielnicy pruskiej (Dz. U. R. P. № 71 poz. 490)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie powyższej ustawy powierza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

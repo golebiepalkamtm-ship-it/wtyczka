@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-1696",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 2006 r. o ratyfikacji Poprawki do Konwencji o ochronie fizycznej materiałów jądrowych, przyjętej w Wiedniu dnia 8 lipca 2005 r.",
+  "title_en": "",
+  "short_name": "pl-du-2006-1696",
+  "status": "in_force",
+  "issued_date": "2006-10-26",
+  "in_force_date": "2006-12-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1696",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Poprawki do Konwencji o ochronie fizycznej materiałów jądrowych, przyjętej w Wiedniu dnia 8 lipca 2005 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-604",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1998 r. o zmianie ustawy o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1998-604",
+  "status": "amended",
+  "issued_date": "1998-07-16",
+  "in_force_date": "1998-07-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/604",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego ( Dz. U. Nr 34, poz. 149 , z 1993 r. Nr 36, poz. 159 i z 1995 r. Nr 28, poz. 143 ) wprowadza się następujące zmiany: 1) w art. 8: a) w ust. 2a wyrazy „na mocy porozumienia zawartego w dniu 26 lipca 1944 r. miedzy Polskim Komitetem Wyzwolenia Narodowego i Rządem Związku Socjalistycznych Republik Radzieckich o stosunkach między radzieckim wodzem naczelnym a polską administracją po wkroczeniu wojsk radzieckich na terytorium Polski” zastępuje się wyrazami „na obecnym terytorium Polski w okresie od dnia 1 lipca 1944 r. do dnia 31 grudnia 1956 r. oraz na terytorium Polski w granicach ustalonych w Traktacie Ryskim, w okresie od dnia 1 stycznia 1944 r. do dnia 31 grudnia 1956 r.” , b) po ust. 2a dodaje się ust. 2b w brzmieniu: „ 2b. Przez działalność na rzecz niepodległego bytu Państwa Polskiego, o której mowa w ust. 2a, w odniesieniu do osób represjonowanych na terytorium Polski w granicach ustalonych w Traktacie Ryskim poza obecnym terytorium Polski, należy rozumieć działalność w okresie od dnia 17 września 1939 r. do dnia 5 lutego 1946 r. ” , c) w ust. 3 na końcu dodaje się wyrazy „, z wyjątkiem art. 489” ; 2) w art. 11: a) w ust. 1 skreśla się zdanie drugie, b) w ust. 2 skreśla się wyrazy „, przy czym termin określony w ust. 1 nie ma zastosowania” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prawomocne orzeczenie, wydane przed dniem wejścia w życie niniejszej ustawy, oddalające żądanie odszkodowania lub zadośćuczynienia na podstawie art. 8 ust. 2a ustawy wymienionej w art. 1 ze względu na to, że represje miały miejsce na ziemiach, które obecnie nie należą do Państwa Polskiego, lub miały miejsce poza strefą operacji wojennych albo były stosowane po dniu 8 maja 1945 r., nie stanowi przeszkody do rozpoznania sprawy w oparciu o ponowne żądanie zgłoszone przez osobę represjonowaną, a w razie jej śmierci - przez małżonka, dzieci lub rodziców."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

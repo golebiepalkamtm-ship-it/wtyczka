@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-105",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lutego 1922 r. w przedmiocie zawieszenia przedterminowej spłaty rent, zahipotekowanych na włościach rentowych na obszarze b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-105",
+  "status": "repealed",
+  "issued_date": "1922-02-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/105",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Aż do dalszego postanowienia; a w każdym razie aż do czasu, gdy komisja odszkodowań w myśl art. 92 i 254 traktatu pokoju między mocarstwami sprzymierzonemi i skojarzonemi a Niemcami, podpisanego w Wersalu dnia 28 czerwca 1919 r., ustali należność, jaka przypadać ma na Rzeczpospolitą Polską z tytułu odpowiedzialności za część długu Rzeszy Niemieckiej, zawiesza się prawo przedterminowej spłaty rent, zahipotekowanych na włościach rentowych na obszarze b. dzielnicy pruskiej, przysługujące posiadaczom włości rentowych w myśl prawa pruskiego z d. 7 lipca 1891 r. o tworzeniu włości rentowych, prawa z d. 2 marca 1850 r. o Bankach Rentowych, ustawy kolonizacyjnej z d. 26 kwietnia 1886 r., bądź na podstawie innych ustaw, w przedmiocie osad rentowych wydanych, lub na podstawie kontraktów, z nabywcami osad rentowych zawartych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza ma również zastosowanie do tych wypadków, w których kapitał, przeznaczony na przedterminową spłatą rent, złożony został przed wejściem w życie niniejszej ustawy do depozytu sądowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy poleca się Prezesowi Głównego Urzędu Ziemskiego w porozumieniu z Ministrem Sprawiedliwości, Skarbu i Ministrem b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

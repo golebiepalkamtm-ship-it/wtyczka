@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1938-259",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 kwietnia 1938 r. o zmianie ustawy o wykupie przez dzierżawców gruntów, zajętych pod budynki oraz gruntów czynszowych w miastach i miasteczkach na obszarze sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1938-259",
+  "status": "in_force",
+  "issued_date": "1938-04-25",
+  "in_force_date": "1938-04-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/259",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wprowadza się w ustawie z dnia 28 marca 1933 r. o wykupie przez dzierżawców gruntów, zajętych pod budynki oraz gruntów czynszowych w miastach i miasteczkach na obszarze sądów apelacyjnych w Warszawie, Lublinie i Wilnie ( Dz. U. R. P. Nr 29, poz. 250 ) następujące zmiany: 1) art. 13 otrzymuje brzmienie: „ Art. 13. Termin i warunki wypłaty ceny wykupu pozostawia się wzajemnemu porozumieniu stron, a gdyby porozumienie to do skutku nie doszło, wypłatę ceny wykupu sąd na wniosek wykupującego może rozłożyć w sposób następujący: 1/5 część tej sumy ma być uiszczona zaraz po uprawomocnieniu się wyroku, a 4/5 części mogą być odroczone na przeciąg lat 10, licząc od daty uprawomocnienia się wyroku, z płatnością w ratach półrocznych i z doliczeniem 3% od całego niespłaconego kapitału. ” ; 2) w art. 17 ust. (1) otrzymuje brzmienie: „ (1) Wykup, przewidziany w rozdziale niniejszym, obejmuje - jeżeli strony dobrowolnie nie ułożą się inaczej - także podwórze, obejście i ogród, łączące się bezpośrednio z powierzchnią zabudowaną. Grunt, ulegający wykupowi, nie powinien przewyższać piętnastokrotnej powierzchni, zajętej przez poszczególne budynki mieszkalne, jak również zabudowania gospodarcze, stanowiące jedną całość gospodarczą. ” ; 3) w art. 20 ust. (2) otrzymuje brzmienie: „ (2) Cenę wykupu stanowi wartość gruntu w chwili wszczęcia postępowania wykupowego, zmniejszona o 1 1/2% za każdy rok, który upłynął od zawarcia pierwszej umowy dzierżawnej przez pierwotnego dzierżawcę; zmniejszenie to nie może jednak przekraczać 70% wartości gruntu. ” ; 4) art. 21 otrzymuje brzmienie: „ Art. 21. (1) Na wniosek powoda sąd może cenę wykupu rozłożyć na raty, wszakże nie dłużej, niż na lat 14, określając w wyroku wysokość i terminy płatności rat, które będą wpłacane do depozytu sądu, gdzie dana sprawa była rozpoznawana w pierwszej instancji, z zastrzeżeniem, że uchybienie terminu płatności dwu rat pociąga egzekucję całej zasądzonej tym wyrokiem sumy. W tym wypadku sąd postanowi, że cała pozostająca część ceny wykupu oraz warunki płatności będą wpisane do IV działu wykazu hipotecznego, albo zostaną zabezpieczone przez zapowiedzenie w rejestrze wieczystym lub w wykazie zajętych nieruchomości niehipotekowanych, w każdym razie z pierwszeństwem przed innymi długami wykupującego ze wzmianką, że suma ta jest obciążona niespłaconymi długami, ciążącymi na części wykupionej i pochodzącymi z podziału wierzytelności (art. 25). (2) Od niezapłaconej ceny wykupu biegną odsetki w wysokości 3%, płatne z góry w terminach płatności każdej raty. ” 5) art. 28 otrzymuje brzmienie: „ Art. 28. Prawo dzierżawcy do wykupu gruntu według przepisów ustawy niniejszej wygasa w dniu 31 grudnia 1939 r. Do upływu tego terminu dzierżawca nie może być eksmitowany jeżeli uiszcza opłaty dzierżawne na zasadach art. 3 ustawy z dnia 12 lutego 1930 r. ( Dz. U. R. P. Nr 18, poz. 136 ) . ” ; 6) w art. 31 ust. (1) otrzymuje brzmienie „ (1) Pismo, stwierdzające umowę o wykuj gruntu, bądź wyrok, nakazujący wykup, podlega opłacie stemplowej według zasad rozdziału X ustawy o opłatach stemplowych w wysokość 1%. ” ; 7) art. 34 otrzymuje brzmienie: „ Art. 34. Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości w porozumieniu z właściwymi ministrami. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Oprocentowanie niezapłacone; reszty ceny wykupu, ustalonej orzeczeniem sądowym przed dniem wejścia w życie ustawy niniejszej, obniża się do wysokości 3% od pierwszego po tym dniu terminu płatności raty ceny wykupu. (2) W sprawach, zakończonych przed wejściem w życie ustawy niniejszej oraz w tych sprawach niezakończonych, w których ze względu na stan sprawy zgłoszenie odpowiedniego wniosku jest niedopuszczalne, sąd na wniosek wykupującego może rozłożyć niezapłaconą resztę ceny wykupu na okres dłuższy, zgodnie z przepisami ustawy niniejszej. Sąd orzeka w trybie postępowania incydentalnego. W postępowaniu tym nie ma skargi kasacyjnej,"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1931-749",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 października 1931 r. o zmianie niektórych postanowień ustawy o uposażeniu funkcjonarjuszów państwowych i wojska oraz ustawy o uposażeniu sędziów i prokuratorów.",
+  "title_en": "",
+  "short_name": "pl-du-1931-749",
+  "status": "in_force",
+  "issued_date": "1931-10-14",
+  "in_force_date": "1931-11-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/749",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zawiesza się moc obowiązującą ustępu pierwszego art. 6 ustawy z dnia 9 października 1923 r. o uposażeniu funkcjonarjuszów państwowych i wojska (Dz. U. R. P. Nr 116, poz. 924), mającego zastosowanie w myśl art. 6 ustawy z dnia 5 grudnia 1923 r. (Dz. U. R. P. Nr 134, poz. 1107) takie do sędziów i prokuratorów, a dotyczącego automatycznego przechodzenia do wyższych szczebli w obrębie tej samej grupy uposażenia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Termin, od którego zawieszone art. 1 postanowienia ustawy z dnia 9 października 1923 r. będą ponownie obowiązywały, ustali na wniosek Ministra Skarbu rozporządzenie Rady Ministrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów i Ministrowi Skarbu oraz właściwym ministrom."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 30 czerwca 1931 r., a w stosunku do funkcjonarjuszów przedsiębiorstw państwowych „Polskie Koleje Państwowe” i „Polska Poczta, Telegraf i Telefon” oraz w stosunku do członków zarządu i pracowników związków komunalnych (rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 r. Dz. U. R. P. Nr 118, poz. 1073) z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

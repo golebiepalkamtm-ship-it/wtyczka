@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1939-205",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 marca 1939 r. o zmianie prawa o postępowaniu wywłaszczeniowym.",
+  "title_en": "",
+  "short_name": "pl-du-1939-205",
+  "status": "repealed",
+  "issued_date": "1939-03-30",
+  "in_force_date": "1939-04-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/205",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Prawo o postępowaniu wywłaszczeniowym z dnia 24 września 1934 r. ( Dz. U. R. P. Nr 86, poz. 776 ) ulega następującym zmianom: 1) art. 38 otrzymuje brzmienie: „ § 1. Jeżeli wywłaszczona nieruchomość jest obciążona na rzecz osób trzecich, ustaloną sumę odszkodowania należy złożyć do depozytu sądowego celem jej podziału zgodnie z przepisami kodeksu postępowania cywilnego , chyba że wywłaszczony i osoby trzecie zgodzą się na niezwłoczną wypłatę sumy. § 2. Sumę odszkodowania należy złożyć do depozytu sądowego także wtedy, gdy z powodu innych przeszkód prawnych lub z powodu odmowy przyjęcia. odszkodowania niezwłoczne wydanie jej uprawnionemu jest niemożliwe. § 3. Na wniosek jednego z uprawnionych sąd przystąpi do niezwłocznego podziału sumy, złożonej w myśl § 1 do depozytu. Sąd dokona podziału: 1) tej sumy, którą wywłaszczający oznaczy jako niesporną przy złożeniu do depozytu, jeżeli oznaczy jako niesporną co najmniej 70%; 2) 70% złożonej sumy, jeżeli wywłaszczający oznaczy jako niesporną mniejszą część; 3) całej sumy, jeżeli wywłaszczający nie oznaczy części niespornej. ” ; 2) art. 39 otrzymuje brzmienie: „ § 1. Wyjąwszy przypadki, przewidziane w artykule poprzedzającym, suma odszkodowania, ustalona orzeczeniem wojewody, powinna być przez wywłaszczającego wypłacona uprawnionemu niezależnie od tego, czy zażądał on ustalenia odszkodowania przez sąd. § 2. Jeżeli wywłaszczający kwestionuje wysokość ustalonego odszkodowania, winien on wpłacić uprawnionemu jego część niesporną, co najmniej jednak 70%. Sporna część odszkodowania powinna być złożona do depozytu sądowego. § 3. Wywłaszczający powinien niezwłocznie zapłacić odszkodowanie, jeżeli objął już nieruchomość w posiadanie. ” ; 3) art. 44 otrzymuje brzmienie: „ § 1. Wywłaszczonemu służy prawo pierwokupu co do wywłaszczonej nieruchomości. § 2. Jeżeli wywłaszczenie dotyczyło większej ilości osób, zawiadomienie interesowanych może być dokonane za pomocą obwieszczeń publicznych we właściwych gminach. § 3. Prawo pierwokupu nie dotyczy nieruchomości, wywłaszczonych na wniosek władz wojskowych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Przepisy ustawy niniejszej stosuje się do spraw, będących w toku. § 2. Jeżeli przed dniem wejścia jej w życie suma odszkodowania została już złożona do depozytu sądowego w myśl art. 38 § 1 - sąd wezwie wywłaszczającego do oświadczenia w ciągu dni 14, jaką część tej sumy uważa za niesporną, po czym dokona podziału, stosując art. 38 § 3. § 3. Jeżeli suma złożona została do depozytu w myśl art. 38 § 2 przed dniem wejścia w życie ustawy niniejszej - sąd wypłaci uprawnionemu sumę odszkodowania, stosując przepisy art. 39 § 2, po wezwaniu wywłaszczającego, w miarę potrzeby, do oświadczenia w ciągu dni 14, jaką część sumy odszkodowania uważa za niesporną."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porusza się Ministrowi Spraw Wewnętrznych oraz innym ministrom - stosownie do zakresu ich działania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie siedmiu dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"arti_2-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

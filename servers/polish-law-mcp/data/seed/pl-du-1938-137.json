@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-137",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 marca 1938 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej o obniżeniu zadłużenia gospodarstw rolnych z tytułu należności Funduszu Obrotowego Reformy Rolnej.",
+  "title_en": "",
+  "short_name": "pl-du-1938-137",
+  "status": "in_force",
+  "issued_date": "1938-03-16",
+  "in_force_date": "1938-03-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/137",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 16 ust. (3) rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o obniżeniu zadłużenia gospodarstw rolnych z tytułu należności Funduszu Obrotowego Reformy Rolnej ( Dz. U. R. P. Nr 94, poz. 842 ) otrzymuje brzmienie następujące: „ (3) Uprawnienia, przewidziane w ust. (1) i (2), służą Ministrowi Rolnictwa i Reform Rolnych w granicach sumy 50 milionów złotych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie; z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

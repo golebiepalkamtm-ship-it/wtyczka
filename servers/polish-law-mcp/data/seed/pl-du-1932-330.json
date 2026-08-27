@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1932-330",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o wolnych obszarach celnych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-330",
+  "status": "repealed",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/330",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Radę Ministrów do ustanawiania w drodze rozporządzeń wolnych obszarów celnych na polskim terenie celnym oraz do określania ich granic."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Towary zagraniczne, przywożone do wolnego obszaru celnego, a przeznaczone do przechowania lub przeróbki na tym obszarze, nie podlegają opłatom celnym, monopolowym i podatkom pośrednim. Ograniczenia przywozu, przewozu i wywozu nie mają w wolnym obszarze zastosowania. Wyjątek stanowią ograniczenia ze względu na: a) monopole państwowe, b) obronę kraju, c) przepisy sanitarne, weterynaryjne i fitosanitarne, d) bezpieczeństwo publiczne i e) wykonanie zobowiązań międzynarodowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Towary zagraniczne, przywożone do wolnego obszaru celnego, a przeznaczone do spożycia na wolnym obszarze celnym, podlegają odprawie celnej i ograniczeniom przywozowym na ogólnych zasadach, stosowanych przy przywozie towarów z zagranicy. Postanowienie powyższe nie stosuje się jednakże do towarów zagranicznych, przeznaczonych do spożycia na statkach morskich, utrzymujących żeglugę z portami zagranicznemi."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Towary krajowe, wywożone do wolnego obszaru celnego, podlegają odprawie celnej i ograniczeniom wywozowym na ogólnych zasadach, stosowanych przy wywozie towarów zagranicę; jednak towary krajowe, przeznaczone do spożycia na wolnym obszarze celnym, są wolne od cła wywozowego i ograniczeń wywozowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Towary, przywożone z wolnego obszaru celnego do reszty polskiego obszaru celnego, podlegają odprawie celnej i ograniczeniom przywozu i przewozu na zasadach ogólnych, stosowanych przy przywozie towarów z zagranicy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu może przyznawać przedsiębiorstwom, zajmującym się w wolnym obszarze przeróbką lub obróbką towarów, ulgi pod względem postępowania celnego i opłat celnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wolny obszar celny pozostaje pod kontrolą celną."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Uprawianie handlu i przemysłu w wolnym obszarze celnym może być poddane ograniczeniom. Ograniczenia te ustala w drodze rozporządzenia Minister Skarbu oraz Minister Przemysłu i Handlu w porozumieniu z Ministrem Spraw Wewnętrznych i z Ministrem Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Naruszenia postanowień niniejszej ustawy o obrocie pomiędzy wolnym obszarem celnym a resztą polskiego obszaru celnego (art. 4 i 5) ulegają karze tak, jak naruszenia przepisów, dotyczących obrotu z zagranicą. Naruszenie ograniczeń, przewidzianych w art. 8, będzie karane grzywną do 3.000 zł i aresztem do miesiąca lub jedną z tych kar."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu oraz Ministrowi Przemysłu i Handlu w porozumieniu z innymi właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

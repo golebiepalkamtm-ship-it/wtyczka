@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-122",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 stycznia 1932 r. w sprawie zmian w ustawie z dnia 2 kwietnia 1925 r. o potrąceniach z uposażenia osób wojskowych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-122",
+  "status": "in_force",
+  "issued_date": "1932-01-28",
+  "in_force_date": "1932-03-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/122",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 kwietnia 1925 r. o potrąceniach z uposażenia osób wojskowych (Dz. U. R. P. Nr 45, poz. 312) wprowadza się następujące zmiany: 1) tytuł ustawy otrzymuje brzmienie: „Ustawa zdnia 2 kwietnia 1925 r. o potrąceniach z uposażenia osób Wojskowych oraz funkcjonarjuszów państwowych w administracji wojskowej”; 2) w art. 1 w miejsce wyrazów: „Potrącenia z uposażenia oficerów i szeregowych zawodowych opierają się na:” wstawia się wyrazy: „Potrącenia z uposażenia oficerów i szeregowych zawodowych oraz funkcjonarjuszów państwowych w administracji wojskowej opierają się na:”; 3) w art. 3 lit. c) w miejsce wyrazów: „na którą wojskowy pobiera dodatek ekonomiczny” wstawia się wyrazy: „na którą wojskowy lub funkcjonarjusz państwowy pobiera dodatek ekonomiczny”; 4) art. 7 otrzymuje następujące brzmienie: „W razie zbiegu potrąceń na zasadzie niniejszej ustawy z umniejszeniem uposażenia, przewidzianem w art. 82, 83 i 84 ustawy z dnia 9 października 1923 r. o uposażeniu funkcjonarjuszów państwowych i wojska (Dz. U. R. P. Nr 116, poz. 924), względnie w art. 58 ustawy z dnia 17 lutego 1922 r. o organizacji władz dyscyplinarnych i postępowaniu dyscyplinarnem przeciwko funkcjonarjuszom państwowym (Dz. U. R. P. Nr 21, poz. 165), potrącenia, zarządzone na zasadzie niniejszej ustawy, ulegają zawieszeniu do czasu przywrócenia pełnego uposażenia. Powyższe postanowienie nie ma zastosowania w razie zbiegu potrącenia z tytułu alimentacji z umniejszeniem uposażenia w wypadku, przewidzianym w art. 82 ustawy z dnia 9 października 1923 r. (Dz. U. R. P. Nr 116, poz. 924), względnie w art. 58 ustawy z dnia 17 lutego 1922 r. (Dz. U. R. P. Nr 21, poz. 165). W wypadkach tych może mieć miejsce potrącenie z tytułu alimentacji do wysokości 30% pozostawionej kwoty uposażenia”; 5) w art. 10 ust. 2 w miejsce końcowych wyrazów: „oraz wojskowemu, którego potrącenie dotyczy” wstawia się wyrazy: „oraz osoby, której potrącenie dotyczy”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Sprawiedliwości i Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie w 3 miesiące po ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

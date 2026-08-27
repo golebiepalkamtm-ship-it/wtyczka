@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1951-247",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 maja 1951 r. o urzędzie Ministra Przemysłu Drobnego i Rzemiosła.",
+  "title_en": "",
+  "short_name": "pl-du-1951-247",
+  "status": "repealed",
+  "issued_date": "1951-05-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1951/247",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Przemysłu Drobnego i Rzemiosła należą sprawy państwowego przemysłu drobnego, rzemiosła, prywatnego przemysłu oraz sprawy gospodarcze spółdzielczości pracy, a w szczególności: 1) sprawy bezpośredniego zarządu państwowym przemysłem drobnym, podległym Ministrowi Przemysłu Drobnego i Rzemiosła, 2) sprawy zwierzchniego zarządu państwowym przemysłem, podlegającym terenowym organom jednolitej władzy państwowej, 3) planowanie, koordynowanie i nadzór nad działalnością gospodarczą spółdzielczości pracy, 4) nadzorowanie i popieranie rzemiosła oraz nadzór nad prywatnym przemysłem, 5) sprawy administracji przemysłowej w dziedzinie drobnej wytwórczości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Rada Ministrów określi szczegółowo w drodze rozporządzenia zakres działania Ministra Przemysłu Drobnego i Rzemiosła. 2. Rada Ministrów określi przedsiębiorstwa i instytucje, które podlegają Ministrowi Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Znosi się Centralny Urząd Drobnej Wytwórczości. 2. Sprawy, należące dotychczas do Centralnego Urzędu Drobnej Wytwórczości, przechodzą do zakresu działania Ministra Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Pracownicy, zatrudnieni dotychczas w Centralnym Urzędzie Drobnej Wytwórczości, przechodzą do służby w odpowiednich działach Ministerstwa Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Traci moc ustawa z dnia 7 marca 1950 r. o Centralnym Urzędzie Drobnej Wytwórczości ( Dz. U. R. P. Nr 10, poz. 104 ) z wyjątkiem przepisów art. 9, które pozostają w mocy z tą zmianą, że przewidziany w nich zakres działania Przewodniczącego Państwowej Komisji Planowania Gospodarczego przekazuje się Ministrowi Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów, Przewodniczącemu Państwowej Komisji Planowania Gospodarczego i Ministrowi Przemysłu Drobnego i Rzemiosła."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

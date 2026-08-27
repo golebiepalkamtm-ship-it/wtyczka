@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-1238",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 czerwca 2005 r. o ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Dowództwem Naczelnego Sojuszniczego Dowódcy Transformacji (HQ SACT) dotyczącej ustanowienia i wsparcia Centrum Szkolenia Sił Połączonych (JFTC) NATO na terytorium Rzeczypospolitej Polskiej, podpisanej dnia 13 kwietnia 2005 r. w Brukseli",
+  "title_en": "",
+  "short_name": "pl-du-2005-1238",
+  "status": "in_force",
+  "issued_date": "2005-06-17",
+  "in_force_date": "2005-08-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1238",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Umowy między Rządem Rzeczypospolitej Polskiej a Dowództwem Naczelnego Sojuszniczego Dowódcy Transformacji (HQ SACT) dotyczącej ustanowienia i wsparcia Centrum Szkolenia Sił Połączonych (JFTC) NATO na terytorium Rzeczypospolitej Polskiej, podpisanej dnia 13 kwietnia 2005 r. w Brukseli."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-203",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lutego 1998 r. o uznaniu stopni naukowych, dyplomów i tytułów zawodowych nadanych przez Polski Uniwersytet na Obczyźnie.",
+  "title_en": "",
+  "short_name": "pl-du-1998-203",
+  "status": "in_force",
+  "issued_date": "1998-02-06",
+  "in_force_date": "1998-03-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/203",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Stopnie naukowe, dyplomy i tytuły zawodowe, nadane przez Polski Uniwersytet na Obczyźnie z siedzibą w Londynie w okresie od dnia 1 września 1952 r. do dnia 22 grudnia 1990 r., uznaje się za równorzędne odpowiednim stopniom naukowym, dyplomom i tytułom zawodowym nadawanym przez polskie szkoły wyższe na terenie kraju."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do uznania, o którym mowa w art. 1, nie stosuje się przepisu art. 22 ustawy z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych ( Dz. U. Nr 65, poz. 386 i z 1997 r. Nr 43, poz. 272 ) i przepisu art. 150 ustawy z dnia 12 września 1990 r. o szkolnictwie wyższym ( Dz. U. Nr 65, poz. 385 , z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314 , z 1994 r. Nr 1, poz. 3 , Nr 43, poz. 163 , Nr 105, poz. 509 i Nr 121, poz. 591 , z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110 oraz z 1997 r. Nr 28, poz. 153 , Nr 96, poz. 590 , Nr 104, poz. 661 , Nr 121, poz. 770 i Nr 141, poz. 943 ) ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

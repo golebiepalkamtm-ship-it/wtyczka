@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1981-78",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. o utworzeniu urzędu Ministra Hutnictwa i Przemysłu Maszynowego.",
+  "title_en": "",
+  "short_name": "pl-du-1981-78",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1981-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/78",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Hutnictwa i Przemysłu Maszynowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Hutnictwa i Przemysłu Maszynowego należą sprawy: hutnictwa żelaza, stali i metali nieżelaznych, górnictwa rud metali, przemysłu koksowniczego i produkcji materiałów ogniotrwałych, budowy statków i okrętów, produkcji maszyn i innych urządzeń technicznych dla energetyki, handlu, hutnictwa, przemysłu chemicznego, przemysłu lekkiego, przemysłu spożywczego oraz rolnictwa, maszyn ciężkich, automatyki i aparatury pomiarowej, obrabiarek i narzędzi, urządzeń chłodniczych, urządzeń technologicznych, wyrobów instalacyjnych, metalowych i odlewniczych oraz taboru kolejowego, przemysłu ciągnikowego, elektronicznego, teletechnicznego, elektrotechnicznego, kablowego, lotniczego, motoryzacyjnego, precyzyjnego i silnikowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Zadaniem Ministra Hutnictwa i Przemysłu Maszynowego jest nadawanie kierunku działania gałęziom gospodarki określonym w art. 2, stosownie do potrzeb społecznych i gospodarczych, zgodnie z polityką Państwa. 2. Minister Hutnictwa i Przemysłu Maszynowego zadanie to realizuje w szczególności poprzez prognozowanie i programowanie rozwoju tych gałęzi gospodarki, dokonywanie kompleksowej analizy i oceny działalności przedsiębiorstw i innych podległych jednostek organizacyjnych, koordynowanie tej działalności, współdziałanie w kształtowaniu systemów ekonomicznych przedsiębiorstw i innych podległych jednostek organizacyjnych, prowadzenie polityki kadrowej oraz udzielanie pomocy w szkoleniu kadr tych przedsiębiorstw i jednostek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Rada Ministrów, po zasięgnięciu opinii odpowiednich komisji sejmowych, w drodze rozporządzenia, określi szczegółowy zakres działania Ministra Hutnictwa i Przemysłu Maszynowego. 2. Organizację Ministerstwa Hutnictwa i Przemysłu Maszynowego oraz jednostki organizacyjne podporządkowane Ministrowi Hutnictwa i Przemysłu Maszynowego określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Znosi się urzędy Ministra Hutnictwa, Ministra Przemysłu Maszyn Ciężkich i Rolniczych oraz Ministra Przemysłu Maszynowego. 2. Sprawy należące dotychczas do zakresu działania Ministrów Hutnictwa, Przemysłu Maszyn Ciężkich i Rolniczych oraz Przemysłu Maszynowego przechodzą do zakresu działania Ministra Hutnictwa i Przemysłu Maszynowego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Tracą moc: 1) ustawa z dnia 21 listopada 1967 r. o utworzeniu urzędu Ministra Przemysłu Maszynowego ( Dz. U. Nr 43, poz. 215 i z 1976 r. Nr 12, poz. 70 ) , 2) ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Hutnictwa ( Dz. U. Nr 12, poz. 69 ) , 3) ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Przemysłu Maszyn Ciężkich i Rolniczych ( Dz. U. Nr 12, poz. 70 i z 1979 r. Nr 23, poz. 132 ) ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

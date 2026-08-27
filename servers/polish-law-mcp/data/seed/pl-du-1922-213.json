@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1922-213",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 kwietnia 1922 r. o objęciu władzy państwowej nad Ziemią Wileńską.",
+  "title_en": "",
+  "short_name": "pl-du-1922-213",
+  "status": "in_force",
+  "issued_date": "1922-04-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/213",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ziemia Wileńska, a mianowicie powiaty: wileński, oszmiański, święciański, trocki i brasławski, z mocy uchwały Sejmu Ustawodawczego z dnia 24 marca 1922 r. złączona z Rzecząpospolitą Polską, podlega władzy organów centralnych Rzeczypospolitej, t. j. Sejmu, Naczelnika Państwa i Ministrów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na obszar Ziemi Wileńskiej rozciąga się moc obowiązującą: a) Konstytucji Rzeczypospolitej Polskiej z dnia 17 marca 1921 r. (Dz. U. R. P. № 44, poz. 267), ustawy przechodniej z dn. 18 maja 1921 r. do Ustawy Konstytucyjnej z dnia 17 marca 1921 r. w sprawie tymczasowej organizacji władzy zwierzchniczej Rzeczypospolitej (Dz. U. R. P. № 44 poz. 268) wraz z uchwałą Sejmu z dnia 20 lutego 1919 r. (Dz. P. P. P. № 19, poz. 226); b) ustawy z dnia 20 stycznia 1920 r. o obywatelstwie Państwa Polskiego (Dz. U. R. P. № 7 poz. 44); c) ustawy z dnia 31 lipca 1919 r. w sprawie wydawania Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. № 66 poz. 400)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dotychczasowe ustawy i rozporządzenia, obowiązujące na obszarze Ziemi Wileńskiej w chwili wejścia w życie niniejszej ustawy, pozostają nadal w mocy, o ile niniejsza ustawa inaczej nie stanowi."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Radę Ministrów do zniesienia wszelkich wyjątkowych ustaw i rozporządzeń jakiegokolwiek pochodzenia, wydanych na niekorzyść lub dla przywileju jakiejkolwiek narodowości lub wyznania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Upoważnia się Radę Ministrów do rozciągania na Ziemię Wileńską mocy obowiązującej dekretów, ustaw i rozporządzeń, obowiązujących w chwili wejścia w życie ustawy niniejszej na całym obszarze Rzeczypospolitej lub w poszczególnych jej częściach, do wprowadzania odpowiednich zmian w ustawach i rozporządzeniach, obowiązujących w myśl art. 3 na obszarze Ziemi Wileńskiej, oraz do wydawania przepisów uzgadniających, przechodnich i wykonawczych. Upoważnia się dalej Radę Ministrów do unieważnienia wszelkich zarządzeń i rozporządzeń jakiegokolwiek pochodzenia, wydanych dla przywileju poszczególnych osób lub grup ich i do unieważnienia umów, zawartych przez władze, które działały na ziemiach, w art. 1 określonych, jeśli umowy te oparte są na takim przywileju lub jeśli przez nie wedle uznania Rządu interesy Skarbu Państwa lub ludności zostały pokrzywdzone. Tak samo Rada Ministrów upoważniona jest do wydania zarządzeń, zmierzających do uporządkowania stosunków, wypływających z unieważnionych zarządzeń i umów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Osobne ustawy zabezpieczą ludności prawo swobodnego rozwoju życia kulturalnego, oświatowego i religijnego w jej języku ojczystym."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Naczelnik Państwa na wniosek Rady Ministrów mianuje osobnego delegata dla objęcia administracji terenu, w art. 1 określonego, z uprawnieniami, przysługującemi zwierzchnikom władz administracyjnych II instancji według ustawy z dnia. 2 sierpnia 1919 r. (Dz. P. P. P. № 65 poz. 395)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Do terenu, wskazanego w art. 1, przyłącza się pod względem administracyjnym powiaty: dziśnieński, duniłowiczowski i wilejski, poddaje się je władzy delegata Rządu dla Ziemi Wileńskiej, jako II instancji, i wyłącza z województwa nowogródzkiego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezydentowi Ministrów i poszczególnym ministrom, każdemu w jego zakresie działania."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

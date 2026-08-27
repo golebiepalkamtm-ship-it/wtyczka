@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2019-1542",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Prawo farmaceutyczne",
+  "title_en": "",
+  "short_name": "pl-du-2019-1542",
+  "status": "amended",
+  "issued_date": "2019-07-19",
+  "in_force_date": "2019-08-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1542",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ( Dz. U. z 2019 r. poz. 499 , 399 , 959 i 1495 ) w art. 86a: 1) w ust. 1 pkt 4 otrzymuje brzmienie: „ 4) w celu zaopatrzenia podmiotów innych niż wymienione w pkt 1 i 2, niebędących podmiotami uprawnionymi do obrotu produktami leczniczymi, w produkty lecznicze o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 1, z wyłączeniem produktów leczniczych zawierających w składzie substancje o działaniu psychoaktywnym, określone w przepisach wydanych na podstawie art. 71a ust. 5. ” ; 2) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Zbycie produktów leczniczych, o którym mowa w ust. 1 pkt 4, może podlegać ograniczeniu także ze względu na zawartość w nich substancji czynnych określonych w przepisach wydanych na podstawie ust. 6, które z uwagi na dawkowanie lub możliwość wystąpienia działań niepożądanych mogą negatywnie wpłynąć na bezpieczeństwo lub skuteczność stosowania produktów leczniczych. ” ; 3) dodaje się ust. 6 w brzmieniu: „ 6. Minister właściwy do spraw zdrowia może określić, w drodze rozporządzenia, wykaz substancji czynnych w produktach leczniczych o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 1, które nie mogą być zbywane w celu zaopatrzenia podmiotów innych niż wymienione w ust. 1 pkt 1 i 2, niebędących podmiotami uprawnionymi do obrotu produktami leczniczymi, mając na względzie ochronę zdrowia publicznego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

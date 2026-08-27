@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1935-171",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1935 r. o budowie normalnotorowych kolei: Mława-Ostrołęka, Ziegrz-Wyszków i Nowojelnia-Nowogródek.",
+  "title_en": "",
+  "short_name": "pl-du-1935-171",
+  "status": "in_force",
+  "issued_date": "1935-03-26",
+  "in_force_date": "1935-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/171",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do budowy następujących normalnotorowych linij kolejowych użytku publicznego: 1) Mława-Ostrołęka, o charakterze kolei drugorzędnej, ogólnej długości około 93 km., od stacji kolejowej Mława do połączenia z linją kolejową Ostrołęka - Chorzele; 2) Zegrze - Wyszków, o charakterze kolei drugorzędnej, ogólnej długości około 40 km., od stacji kolejowej Zegrze do połączenia z linją kolejową Tłuszcz - Ostrołęka około stacji Wyszków; 3) Nowojelnia - Nowogródek, o charakterze kolei znaczenia miejscowego, ogólnej długości około 26 km., od stacji kolejowej Nowojelnia do miasta Nowogródka."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Terminy rozpoczęcia robót ustali Minister Komunikacji w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Koszty budowy będą pokryte bądź drogą operacyj kredytowych, opartych na specjalnych tytułach prawnych, bądź z kredytów wstawianych do preliminarza rozchodów funduszu inwestycyjnego przedsiębiorstwa „Polskie Koleje Państwowe”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Komunikacji w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-372",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1937 r. o sprzedaży i bezpłatnym odstąpieniu niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-372",
+  "status": "in_force",
+  "issued_date": "1937-06-22",
+  "in_force_date": "1937-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/372",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż spółdzielni pod firmą „Osiedle Legionowe”, spółdzielnia mieszkaniowo - budowlana z odpowiedzialnością udziałami w Krakowie, parcel państwowych 1. kat. 61, 62, 63, 64, 65, wchodzących w skład realności, objętej whl. 40 ks. gr. gm. kat. Kraków dz. XI Dębniki, obejmujących łącznej powierzchni 1 ha 4529 m 2 - za cenę ulgową 24.518 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zezwala się na bezpłatne odstąpienie Archidiecezji Warszawskiej parceli państwowej, wydzielonej z gruntów dawnego fortu Nr XIV w Warszawie na Annopolu, położonej między ulicami Słońską, Inowłodzką i projektowaną ulicą Marii Magdaleny, o powierzchni 3650 m 2 ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

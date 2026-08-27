@@ -1,0 +1,596 @@
+{
+  "id": "pl-du-1935-319",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 lipca 1935 r. - Ordynacja wyborcza do Sejmu.",
+  "title_en": "",
+  "short_name": "pl-du-1935-319",
+  "status": "in_force",
+  "issued_date": "1935-07-08",
+  "in_force_date": "1935-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/319",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm składa się z 208 posłów. Rozdział II. Prawo wybierania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prawo wybierania do Sejmu ma każdy obywatel bez różnicy płci, który przed dniem zarządzenia wyborów ukończył lat 24."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Nie ma prawa wybierania: a) pozbawiony lub ograniczony w zdolności do działań prawnych; b) pozbawiony praw rodzicielskich lub opiekuńczych; c) wydalony na mocy wyroku sądu dyscyplinarnego ze służby państwowej lub samorządowej albo pozbawiony wyrokiem takiego sądu stanowiska publicznego lub prawa wykonywania zawodu, a to w ciągu lat pięciu od uprawomocnienia się wyroku; d) wykluczony od pełnienia czynnej służby wojskowej, służby w rezerwie lub w pospolitem ruszeniu; e) pozbawiony orzeczeniem Trybunału Stanu mandatu poselskiego lub senatorskiego albo urzędu ministra, a to w ciągu lat dziesięciu od orzeczenia Trybunału; f) skazany wyrokiem sądowym, choćby nieprawomocnym, na utratę praw publicznych bądź na karę wydalenia z wojska lub z marynarki wojennej albo z korpusu oficerskiego; g) skazany wyrokiem sądowym na karę zasadniczą pozbawienia wolności za przestępstwo, popełnione z chęci zysku lub innych niskich pobudek, a to w ciągu lat pięciu od uprawomocnienia się wyroku; h) utrzymujący się z nierządu; i) umieszczony przez sąd: w zakładzie leczniczym, w domu pracy przymusowej lub w zakładzie dla niepoprawnych; j) umieszczony w zamkniętym zakładzie dla psychicznie chorych. (2) Utrata prawa wybierania, nieorzeczona wyrokiem sądowym, trwa aż do ustania przyczyny, która ją spowodowała, jeżeli przepis ustępu poprzedzającego nie stanowi inaczej. Rozdział III. Prawo wybieralności."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawo wybieralności na całym obszarze Państwa ma każdy obywatel, mający prawo wybierania, który przed dniem zarządzenia wyborów ukończył lat 30."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Nie mają prawa wybieralności w okręgach wyborczych, na obszarze których pełnią służbę: a) wojewodowie (Komisarz Rządu m. st. Warszawy) oraz podlegli im urzędnicy; b) prokuratorzy sądów powszechnych z wyjątkiem prokuratorów Sądu Najwyższego; c) kuratorzy okręgów szkolnych oraz podlegli im naczelnicy wydziałów, wizytatorzy i inspektorzy szkolni; d) dyrektorzy izb skarbowych oraz podlegli im urzędnicy; e) oficerowie i szeregowi Policji Państwowe) z wyjątkiem pełniących służbę we władzach centralnych. Rozdział IV. Okręgi wyborcze i obwody głosowania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Obszar Państwa dzieli się na 104 okręgi wyborcze; wykaz okręgów zawiera załącznik do ustawy niniejszej. (2) Granice powiatów i komisarjatów Policji Państwowej określa stan prawny, istniejący w dniu zarządzenia wyborów. (3) Nowy powiat, utworzony z gmin, położonych na obszarze różnych okręgów wyborczych, włącza się do okręgu, do którego przedtem należała większa część ludności tego powiatu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Na każdy okrąg wyborczy przypadają dwa mandaty poselskie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Każdy powiat, wchodzący w skład okręgu wyborczego, dzieli się na obwody głosowania, liczące najwyżej 3.000 mieszkańców. (2) Obwód nie może składać się z części różnych gmin. (3) Podziału powiatów na obwody głosowania dokonają władze administracji ogólnej. (4) Podział ten może być poddawany rewizji w terminach, oznaczonych przez Ministra Spraw Wewnętrznych. Rozdział V. Zarządzenie wyborów."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "(1) Wybory do Sejmu zarządza Prezydent Rzeczypospolitej, wyznaczając jednocześnie dzień głosowania. (2) Głosowanie ma się odbyć w niedzielę, nie wcześniej niż 54 i nie później niż 60 dnia po zarządzeniu wyborów."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Akt zarządzenia wyborów do Sejmu ogłoszony będzie w Dzienniku Ustaw wraz z kalendarzem wyborczym, zawierającym oznaczenie dni, w których upływają terminy, określone w ordynacji. Rozdział VI. Spisy wyborców."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "(1) Spisy wyborców do Sejmu, oddzielnie dla każdego obwodu głosowania, sporządzi w trzech egzemplarzach przełożony gminy w ciągu 20 dni po zarządzeniu wyborów do Sejmu. (2) Każdy obywatel, mający prawo wybierania, będzie wciągnięty do spisu wyborców w obwodzie, w którym zamieszkiwał w przededniu zarządzenia wyborów. (3) Obywatele polscy, zamieszkali w przededniu zarządzenia wyborów do Sejmu na obszarze Wolnego Miasta Gdańska, będą wciągnięci do spisu wyborców m. Gdyni. Rozdział VII. Generalny Komisarz Wyborczy i Komisje Wyborcze."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Do przeprowadzenia wyborów powołuje się: a) Generalnego Komisarza Wyborczego; b) okręgowe komisje wyborcze; c) obwodowe komisje wyborcze."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Generalnego Komisarza Wyborczego i jego zastępcę powołuje nie później niż następnego dnia po zarządzeniu wyborów do Sejmu Prezydent Rzeczypospolitej z pośród sędziów lub osób, odpowiadających warunkom, wymaganym do objęcia stanowiska sędziowskiego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "(1) Okręgowa komisja wyborcza składa się: a) z przewodniczącego, powołanego przez Generalnego Komisarza Wyborczego z pośród sędziów, sprawujących urząd w okręgu wyborczym, na wniosek prezesa tego sądu apelacyjnego, w którego okręgu mieści się siedziba komisji; b) z czterech członków, powołanych przez wydział wojewódzki tego województwa, w którym komisja ma swoją siedzibę. (2) W okręgach m. st. Warszawy członków komisyj okręgowych powołuje w połowie Komisarz Rządu, a w połowie Prezydent miasta. (3) Przewodniczący i członkowie komisyj okręgowych będą powołani nie później niż 10 dnia po zarządzeniu wyborów do Sejmu."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "(1) Obwodowa komisja wyborcza składa się: a) z przewodniczącego, powołanego przez przewodniczącego okręgowej komisji wyborczej; b) z czterech członków, powołanych w połowie przez władze administracji ogólnej, a w połowie przez przełożonego gminy. (2) Przewodniczący komisyj obwodowych powołani będą nie później niż 17 dnia, członkowie zaś komisyj obwodowych nie później niż 20 dnia po zarządzeniu wyborów do Sejmu. (3) W razie niepowołanie w terminie członków komisyj obwodowych przewodniczący tych komisyj uzupełnią ich skład członkami, przez siebie powołanymi; mandat tych członków wygasa z chwilą otrzymania przez przewodniczącego zawiadomienia o powołaniu członków komisji w trybie, niniejszym artykułem przewidzianym."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "(1) Przewodniczącym lub członkiem komisji wyborczej może być tylko wyborca do Sejmu, władający językiem polskim w słowie i piśmie. (2) Wyborca, wpisany na listę kandydatów na posłów, traci prawo piastowania mandatu przewodniczącego lub członka komisji wyborczej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Mandat Generalnego Komisarza Wyborczego wygasa z mocy samego prawa w dniu zarządzenia wyborów do następnego Sejmu, mandaty zaś przewodniczących i członków komisyj wyborczych - z ukończeniem czynności wyborczych, zleconych tym komisjom."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "(1) Jednocześnie z przewodniczącymi i członkami komisyj wyborczych powołani będą w tym samym trybie i liczbie - ich zastępcy. (2) Zastępcom służy prawo obecności na posiedzeniach właściwych komisyj; w głosowaniu zastępcy biorą jednak udział tylko w razie nieobecności osoby, którą zastępują."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "(1) Do ważności uchwał komisyj wyborczych niezbędna jest obecność przewodniczącego oraz co najmniej połowy członków. (2) Uchwały zapadają zwykłą większością głosów; przewodniczący głosuje narówni z innymi członkami; w razie równości głosów przeważa głos przewodniczącego."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "(1) Jeden z członków komisji prowadzi protokół obrad. (2) Protokóły podpisują przewodniczący oraz członkowie komisji, obecni na posiedzeniu."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "(1) Nadzór nad czynnościami okręgowych komisyj wyborczych i ich przewodniczących sprawuje Generalny Komisarz Wyborczy, a nad czynnościami obwodowych komisyj wyborczych - przewodniczący okręgowej komisji wyborczej. (2) Nadzór uprawnia do żądania wyjaśnień, uchylania sprzecznych z prawem uchwał komisyj lub postanowień przewodniczących oraz do usuwania lub żądania usunięcia dostrzeżonych uchybień. (3) Zarządzenia nadzorcze nie ulegają zaskarżeniu oddzielnie od protestu przeciwko wyborom."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "(1) W każdym okręgu wyborczym ustanowiony będzie komisarz wyborczy, powołany przez Ministra Spraw Wewnętrznych nie później niż 10 dnia po zarządzeniu wyborów do Sejmu. (2) Komisarzowi wyborczemu służy prawo przeglądania aktów okręgowej komisji wyborczej oraz komisyj obwodowych tudzież prawo obecności na posiedzeniach tych komisyj. (3) Okręgowa komisja wyborcza podawać będzie na piśmie swe uchwały do wiadomości komisarza wyborczego w ciągu 48 godzin. (4) Komisarz wyborczy może każdą uchwałę komisji okręgowej przedstawić Generalnemu Komisarzowi Wyborczemu celem wydania zarządzenia nadzorczego. Rozdział VIII. Ustalenie spisu wyborców w obwodzie głosowania."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Spisy wyborców będą nie później niż 21 dnia po zarządzeniu wyborów do Sejmu przesłane przewodniczącym obwodowych komisyj wyborczych w dwóch egzemplarzach oraz przewodniczącemu właściwej komisji okręgowej - w jednym egzemplarzu."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "(1) Spisy wyborców będą wyłożone w biurze obwodowej komisji wyborczej codziennie przez pięć godzin, począwszy od dnia 23 do dnia 30 po zarządzeniu wyborów do Sejmu. (2) Podczas wyłożenia spisów każdy obywatel, mający prawo wybierania do Sejmu, może je przeglądać, robić z nich wyciągi oraz wnosić reklamacje."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "(1) Reklamacje mogą być wnoszone: a) z powodu pominięcia w spisie uprawnionego do glosowania; b) z powodu wciągnięcia do spisu osoby, nieuprawnionej do głosowania. (2) Reklamacje wnoszone będą na piśmie lub ustnie do protokółu ze wskazaniem dowodów. (3) Komisja obwodowa załatwia reklamacje niezwłocznie; w razie potrzeby komisja może zażądać przedłożenia a także uzupełnienia dowodów."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "(1) Komisja obwodowa po załatwieniu reklamacji z powodu pominięcia w spisie uprawnionego do głosowania: a) bądź uzupełni spis wyborców; b) bądź zawiadomi osobę, pominiętą w spisie, że reklamacja nie została uwzględniona. (2) Od uchwały komisji obwodowej, nieuwzględniającej reklamacji, służy osobie pominiętej w spisie w ciągu dwóch dni od doręczenia zawiadomienia zażalenie do przewodniczącego okręgowej komisji wyborczej, który rozstrzyga ostatecznie."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "(1) Komisja obwodowa po załatwieniu reklamacji z powodu wciągnięcia do spisu osoby, nieuprawnionej do głosowania: a) bądź zwróci reklamację, jako nieuwzględnioną; b) bądź zawiadomi osobę, której reklamacja dotyczy, że będzie skreślona ze spisu wyborców. (2) Osoba, której dotyczy reklamacja, ma prawo w ciągu dwóch dni od doręczenia zawiadomienia wnieść sprzeciw do obwodowej komisji wyborczej. (3) Komisja obwodowa po zapoznaniu się z treścią sprzeciwu: a) bądź uchyli swą poprzednią uchwałę; b) bądź prześle sprzeciw, jako nieuwzględniony, przewodniczącemu okręgowej komisji wyborczej, który rozstrzyga ostatecznie."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "(1) Przewodniczący obwodowej komisji wyborczej w 35 dniu po zarządzeniu wyborów do Sejmu prześle zażalenia i nieuwzględnione sprzeciwy przewodniczącemu okręgowej komisji wyborczej. (2) Zażalenia i sprzeciwy, wniesione po tym terminie, będą zwracane jako spóźnione."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Przewodniczący okręgowej komisji wyborczej rozpozna do 40 dnia po zarządzeniu wyborów do Sejmu otrzymane zażalenia i sprzeciwy, nakazując właściwym obwodowym komisjom wyborczym wciągnięcie do spisu wyborców lub skreślenie ze spisu osoby, wnoszącej zażalenie lub sprzeciw."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "(1) Obwodowa komisja wyborcza nie później niż 42 dnia po zarządzeniu wyborów do Sejmu wprowadzi do spisu wyborców zmiany, nakazane przez przewodniczącego okręgowej komisji wyborczej; z tą chwilą spis wyborców będzie uznany za ostatecznie ustalony i odtąd żadnych zmian czynić w nim nie wolno. (2) Ostatecznie ustalony spis wyborców będzie w przededniu głosowania wyłożony do publicznego przeglądu przez pięć godzin w biurze obwodowej komisji wyborczej. Rozdział IX. Ustalenie listy kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Listę kandydatów na posłów ustala w każdym okręgu wyborczym zgromadzenie okręgowe."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "(1) Zgromadzenie okręgowe składa się: a) z okręgowego komisarza wyborczego, jako przewodniczącego; b) z delegatów samorządu terytorjalnego, wybranych: przez rady powiatowe - po jednym delegacie na 20.000 mieszkańców danego powiatu; przez rady gminne - po dwóch delegatów na gminę, liczącą powyżej 6.000 mieszkańców, a po jednym delegacie w pozostałych gminach; przez rady miejskie - po jednym delegacie na 4.000 mieszkańców miasta, wydzielonego z powiatowego związku samorządowego, a na 6.000 mieszkańców w pozostałych miastach; c) z delegatów samorządu gospodarczego i organizacyj zawodowych, wybranych: przez Izbę Rolniczą - po jednym delegacie na dwóch delegatów rad powiatowych, wchodzących w skład danego zgromadzenia okręgowego; przez Izbę Przemysłowo-Handlową - po jednym delegacie na 500 wyborców do Izby, zamieszkałych na obszarze okręgu; przez Izbę Rzemieślniczą - po jednym delegacie na 500 wyborców do Izby, zamieszkałych na obszarze okręgu; przez organizacje zawodowe pracowników fizycznych - po jednym delegacie na dwóch delegatów rad miejskich oraz rad gminnych w gminach, utworzonych z osad przemysłowych; przez organizacje zawodowe pracowników umysłowych - po jednym delegacie na dwóch delegatów pracowników fizycznych. (2) Przy ustalaniu liczby delegatów do zgromadzenia okręgowego każde rozpoczęte 20.000, 6.000, 4.000, 500 bądź 2 liczy się za pełne. (3) W okręgach wyborczych, liczących ponad 75.000 ludności miejskiej, w skład zgromadzenia okręgowego wchodzą nadto: a) delegaci samorządu zawodowego, wybrani: przez Izbę Lekarską - po trzech na okrąg, przez Izbę Adwokacką-po dwóch na okrąg, przez Izbę Notarjalną - po jednym na okrąg; b) delegaci zrzeszeń technicznych - po trzech na okrąg; c) delegatki organizacyj kobiecych - po pięć na okrąg; w okręgach zaś, na których obszarze znajduje się szkoła akademicka, d) delegaci szkół akademickich - po trzech delegatów na szkołę wielowydziałową i po jednym delegacie na szkołę jednowydziałową."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "(1) W skład zgromadzenia okręgowego wchodzą pozatem delegaci, zgłoszeni po jednym przez co najmniej 500 wyborców, zamieszkałych w okręgu wyborczym. (2) Zgłoszenie składa się na piśmie na ręce przewodniczącego zgromadzenia okręgowego nie później niż 20 dnia po zarządzeniu wyborów. (3) Podpisujący zgłoszenie podadzą obok imienia i nazwiska swój wiek, zawód i adres. (4) Podpisy na zgłoszeniu mają być poświadczone przez notarjusza. (5) Wyborca może podpisać tylko jedno zgłoszenie pod rygorem nieważności podpisanych przezeń zgłoszeń. (6) Zgłoszenie zawierać będzie oświadczenie podpisujących, że nie złożyli podpisu pod innem zgłoszeniem i że znane są im skutki niezgodnego z prawdą oświadczenia. (7) Kto składa niezgodne z prawdą oświadczenie o niezłożeniu podpisu pod innem zgłoszeniem, podlega karze, jak za fałszywe zeznanie."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Delegatem do zgromadzenia okręgowego może być tylko wyborca do Sejmu, zamieszkały w okręgu wyborczym co najmniej rok przed zarządzeniem wyborów do Sejmu."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "(1) Wybory do zgromadzenia okręgowego zarządza wojewoda, oznaczając jednocześnie terminy zebrania się organów, mających dokonać wyboru delegatów, w ten sposób, aby wybory do zgromadzenia okręgowego zostały ukończone nie później niż 20 dnia po zarządzeniu wyborów do Sejmu. (2) Przepisy szczegółowe o wyborach do zgromadzenia okręgowego zawierać będzie regulamin, wydany przez Ministra Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Zarządzenie wyborów do zgromadzenia okręgowego może być w trybie nadzoru uchylone w całości lub w części przez Generalnego Komisarza Wyborczego w ciągu trzech dni po ogłoszeniu; nadto Generalny Komisarz Wyborczy może w tymże terminie nakazać uzupełnić to zarządzenie, jeżeli pominięto w niem organa, uprawnione do wyboru delegatów."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Przewodniczący organów, dokonywających wyboru delegatów, prześlą przewodniczącemu okręgowej komisji wyborczej oraz okręgowemu komisarzowi wyborczemu odpisy protokółów z wyboru delegatów do zgromadzenia okręgowego nie później niż 21 dnia po zarządzeniu wyborów do Sejmu."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "(1) Nadzór nad wyborami do zgromadzenia okręgowego sprawuje przewodniczący okręgowej komisji wyborczej, który z tego tytułu nie później niż 25 dnia po zarządzeniu wyborów do Sejmu może unieważnić wybór delegata do zgromadzenia okręgowego, jeżeli wybór ten został dokonany niezgodnie z prawem, zarządzając jednocześnie wybory uzupełniające. (2) Zarządzenia przewodniczącego okręgowej komisji wyborczej, wydane w trybie niniejszego artykułu, nie ulegają zaskarżeniu oddzielnie od protestu przeciwko wyborom."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "(1) Zgromadzenie okręgowe zbierze się w 30 dniu po zarządzeniu wyborów do Sejmu celem ustalenia listy kandydatów na posłów. (2) Lista ma zawierać co najmniej czterech kandydatów. (3) Uchwały zgromadzenia okręgowego, przewidziane ustawą niniejszą, są ważne bez względu na ilość obecnych delegatów. (4) Wszelkie obrady są niedopuszczalne, a uchwały, nieprzewidziane ustawą niniejszą - z mocy samego prawa nieważne."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "(1) Po otwarciu zgromadzenia okręgowego przewodniczący powoła z pośród obecnych delegatów trzech sekretarzy, poczem wezwie obecnych do zgłaszania kandydatów na posłów. (2) Prawo zgłaszania kandydatów na posłów służy każdemu uczestnikowi zgromadzenia okręgowego, nie wyłączając przewodniczącego."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Przewodniczący zgromadzenia okręgowego ustali na podstawie oświadczeń uczestników zgromadzenia wykaz zgłoszonych kandydatów na posłów, poczem, jeżeli liczba zgłoszonych kandydatów przewyższa czterech, zarządzi głosowanie."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "(1) Po zarządzeniu głosowania jeden z sekretarzy odczytuje spis delegatów, którzy, podchodząc do prezydjum, składają głosy. (2) Karty do głosowania zawierać mogą imiona i nazwiska najwyżej czterech z pośród zgłoszonych kandydatów na posłów. (3) Karty wypełnione niezgodnie z przepisem ustępu poprzedzającego są nieważne."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "(1) Po zamknięciu głosowania sekretarze obliczą głosy. (2) Wynik głosowania przewodniczący poda zgromadzeniu do wiadomości."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "(1) Z pośród zgłoszonych kandydatów na posłów zostaną wpisani na listę: a) wszyscy zgłoszeni kandydaci, jeżeli liczba ich nie przewyższa czterech, albo b) gdyby liczba ich przewyższała czterech, ci z pośród zgłoszonych kandydatów, którzy uzyskali głosy co najmniej 1 / 4 głosujących w zgromadzeniu okręgowem; przy ustalaniu liczby głosujących za podstawę bierze się tylko karty ważne. (2) Jeżeli w pierwszem głosowaniu co najmniej czterech kandydatów nie uzyska głosów 1 / 4 głosujących - glosowanie jest nieważne; w tym przypadku przewodniczący zgromadzenia zarządzi ponowne zgłaszanie kandydatów na posłów i powtórne głosowanie. (3) Jeżeli drugie głosowanie nie da również wyniku, przewodniczący zgromadzenia zarządzi głosowanie ściślejsze, skreślając jednocześnie z wykazu zgłoszonych kandydatów na posłów osoby, które w drugiem głosowaniu otrzymały najmniejsze ilości głosów, w ten sposób, żeby liczba zgłoszonych kandydatów nie była wyższa od dwunastu; głosowanie ściślejsze jest ostateczne, przyczem na listę będą wpisani w tym przypadku czterej zgłoszeni kandydaci na posłów, którzy otrzymali w głosowaniu ściślejszem największe ilości głosów; w razie jednak, gdyby czwarty zkolei kandydat otrzymał równą ilość głosów z następnym lub z następnymi kandydatami, należy wpisać na listę również i tych ostatnich."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Gdyby liczba kandydatów na posłów, wpisanych na listę, była niższa od ośmiu, zgromadzenie okręgowe po ukończeniu czynności, przewidzianych w artykule poprzedzającym, przystąpi niezwłocznie do ustalenia listy zastępców kandydatów na posłów w trybie, określonym dla ustalenia listy kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "(1) Lista kandydatów na posłów, ustalona przez zgromadzenie okręgowe, zawierać ma nazwiska, imiona, wiek, zawód i miejsce zamieszkania kandydatów. (2) O kolejności umieszczenia kandydatów na liście rozstrzyga przewaga głosów, a w razie równości głosów - los, wyciągnięty przez przewodniczącego zgromadzenia. (3) Przepisy niniejszego artykułu stosuje się odpowiednio do listy zastępców kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "(1) Z przebiegu zgromadzenia okręgowego sporządza się protokół. (2) Protokół zatwierdza zgromadzenie okręgowe zwykłą większością głosów. (3) Każdy delegat może zgłosić sprostowanie do protokółu; nad zgłoszonemi sprostowaniami zgromadzenie głosuje bez dyskusji. (4) Protokół zgromadzenia podpisują przewodniczący i sekretarze. (5) Do protokółu dołączona będzie lista kandydatów na posłów i lista zastępców kandydatów."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Po zatwierdzeniu protokółu przewodniczący zamknie posiedzenie zgromadzenia okręgowego, przesyłając niezwłocznie odpisy protokółu wraz z załącznikami Generalnemu Komisarzowi Wyborczemu i przewodniczącemu okręgowej komisji wyborczej oraz zawiadamiając kandydatów na posłów o wpisaniu ich na listę."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "(1) Kandydować można tylko w jednym okręgu wyborczym. (2) Kandydat na posła obowiązany jest, pod rygorem skreślenia go z listy, przesłać do właściwej komisji okręgowej nie później niż 35 dnia po zarządzeniu wyborów do Sejmu oświadczenie, przez siebie podpisane, że zgadza się na kandydowanie w danym okręgu wyborczym. Rozdział X. Zatwierdzenie listy kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "(1) Okręgowa komisja wyborcza w 36 dniu po zarządzeniu wyborów do Sejmu przystąpi do zatwierdzenia listy kandydatów na posłów. (2) Sprawdzanie listy kandydatów komisja okręgowa rozpocznie od zbadania na podstawie protokółu zgromadzenia okręgowego zgodności uchwały zgromadzenia z ustalonym przez nie wynikiem głosowania i w razie stwierdzenia błędu dokona odpowiedniego sprostowania uchwały. (3) Następnie komisja okręgowa zbada, czy wpisani na listę kandydaci na posłów mają prawo wybieralności i czy wyrazili zgodę na kandydowanie. (4) Komisja okręgowa może, w razie potrzeby, wezwać przewodniczącego zgromadzenia okręgowego do udzielenia wyjaśnień, Kandydatów zaś na posłów do przedstawienia dowodów posiadania przez nich prawa wybieralności."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "(1) Po ukończeniu czynności, przewidzianych w artykule poprzedzającym, okręgowa komisja wyborcza zatwierdzi listę kandydatów na posłów. (2) Gdyby wskutek niewyrażenia w terminie zgody na kandydowanie lub innych przeszkód prawnych, pozostało na liście mniej niż czterech kandydatów na posłów, komisja okręgowa uzupełni tę liczbę do czterech, wpisując na listę kandydatów - zastępców kandydatów na posłów według kolejności, w której umieszczeni są na liście zastępców. (3) Przewodniczący komisji okręgowej zawiadomi niezwłocznie zastępcę o wpisaniu go na listę kandydatów na posłów; gdyby wpisany na listę zastępca nie wyraził zgody na kandydowanie do 39 dnia po zarządzeniu wyborów do Sejmu, komisja wpisze na listę kandydatów następnego zkolei zastępcę. Rozdział XI. Publiczne ogłoszenia."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "(1) Władze administracji ogólnej nie później niż 21 dnia po zarządzeniu wyborów do Sejmu ogłoszą we wszystkich gminach zapomocą plakatów o podziale powiatu na obwody głosowania ze wskazaniem biur obwodowych komisyj wyborczych i lokalów wyborczych. (2) W tymże terminie przewodniczący obwodowej komisji wyborczej poda do wiadomości publicznej w sposób, w danej miejscowości zwyczajem przyjęty, godziny urzędowania obwodowej komisji wyborczej tudzież termin i miejsce wyłożenia spisu wyborców i wnoszenia reklamacyj."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Przewodniczący okręgowej komisji wyborczej nie później niż 45 dnia po zarządzeniu wyborów do Sejmu ogłosi zapomocą plakatów we wszystkich gminach okręgu wyborczego listę kandydatów na posłów ze wskazaniem dnia i godzin głosowania. Rozdział XII. Głosowanie."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Głosowanie odbywa się jednego dnia w calem Państwie."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "(1) Akt głosowania przeprowadza obwodowa komisja wyborcza. (2) Głosowanie trwa od godziny 9 do 21 bez przerwy, może być jednak zamknięte wcześniej, jeżeli wszyscy wyborcy danego obwodu oddali swe głosy. (3) Od chwili rozpoczęcia głosowania aż do ustalenia jego wyniku w lokalu wyborczym będą obecni bez przerwy przewodniczący lub jego zastępca i co najmniej dwaj członkowie komisji lub ich zastępcy."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Podczas aktu głosowania i ustalania jego wyniku w lokalu wyborczym mogą być obecni mężowie zaufania, zgłoszeni po jednym na obwód przez każdego z kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "W dniu głosowania nie wolno: a) wygłaszać przemówień, rozdawać ulotek ani też w inny sposób agitować tak wewnątrz jak i nazewnątrz lokalu wyborczego w promieniu stu metrów; b) wchodzić do lokalu wyborczego osobom, niebiorącym udziału w głosowaniu lub w czynnościach wyborczych."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "(1) Przewodniczący obwodowej komisji wyborczej czuwa nad zapewnieniem porządku w czasie głosowania a także nad zabezpieczeniem jego tajności. (2) Przewodniczący obwodowej komisji wyborczej może: a) usunąć z lokalu wyborczego każdego wykraczającego przeciwko przepisom porządkowym, zawartym w artykule poprzedzającym, wszakże nie pozbawiając go, w miarę możności, prawa oddania głosu; b) wydawać zarządzenia, zmierzające do zapewnienia wyborcom dostępu do lokalu i do urny wyborczej. (3) W celu zapewnienia wykonania zarządzeń przewodniczącego, zmierzających do zabezpieczenia spokoju i porządku głosowania, władze administracji ogólnej oddadzą do jego rozporządzenia straż w odpowiedniej sile."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "(1) Przed rozpoczęciem głosowania komisja zbada, czy urna jest próżna, poczem urnę zamknie. (2) Od tej chwili aż do ukończenia głosowania urny otwierać nie wolno."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "(1) Każdy wyborca głosuje osobiście i może oddać głos tylko w jednym obwodzie. (2) Wyborcy ułomni mogą posługiwać się przy głosowaniu pomocą osoby zaufanej. (3) Przewodniczący oraz członkowie obwodowej komisji wyborczej tudzież osoby, pełniące straż przy komisjach wyborczych, mogą oddać głos w obwodzie, w którym w dzień głosowania urzędują, pomimo, że wciągnięci są do spisu wyborców w innym obwodzie; w tym celu obwodowa komisja wyborcza wciągnie ich do spisu wyborców dodatkowo. (4) Wojskowi, należący do zmobilizowanej części wojska lub marynarki wojennej, w głosowaniu udziału nie biorą."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "(1) Przewodniczący oraz członkowie obwodowej komisji wyborczej mogą przed oddaniem przez wyborcę głosu, zażądać ustalenia jego tożsamości. (2) Wyborca, nieposiadający dokumentów, uznanych przez komisję za wystarczające, może się powołać na świadectwo dwóch wiarogodnych osób, znanych komisji. (3) Uchwała komisji w sprawie tożsamości osoby jest ostateczna."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "(1) Głosowanie odbywa się w następujący sposób: wyborca wymienia wobec komisji obwodowej swe imię, nazwisko i adres; gdy zostanie 6prawdzone, że jest wciągnięty do spisu, wyborca otrzymuje kopertę urzędową i kartę do głosowania; wyborca oznaczy następnie kreskami na karcie nazwiska dwóch kandydatów, na których pragnie oddać głos, poczem po włożeniu karty do koperty wręczy kopertę przewodniczącemu komisji obwodowej, który w jego obecności wrzuci ją do urny. (2) W lokalu wyborczym urządzone będą osłony, zabezpieczające tajność głosowania. (3) Kart do głosowania i kopert urzędowych dostarczy komisjom obwodowym przewodniczący okręgowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "(1) Karty do głosowania będą sporządzone z białego papieru i opatrzone pieczęcią okręgowej komisji wyborczej. (2) Karta ma zawierać odbite sposobem mechanicznym: numer i nazwę okręgu wyborczego oraz numery porządkowe, imiona i nazwiska kandydatów na posłów, wydrukowanych w kolejności umieszczenia ich na liście, tudzież objaśnienie dla wyborcy o sposobie wypełniania karty. (3) Wzór karty do głosowania zawiera załącznik do ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "(1) Koperty urzędowe będą sporządzone z papieru nieprzezroczystego i opatrzone pieczęcią okręgowej komisji wyborczej. (2) Koperty w każdym obwodzie będą jednakowego koloru i formatu; prócz pieczęci nie mogą być oznaczone żadnym znakiem odróżniającym."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "(1) Głosowania przerywać nie wolno. (2) Obwodowa komisja wyborcza może odroczyć głosowanie jedynie z powodu wydarzeń siły wyższej i nie dłużej niż do dnia następnego. (3) Zarządzenie takie przewodniczący obwodowej komisji wyborczej poda niezwłocznie do wiadomości publicznej w sposób, w danej miejscowości zwyczajem przyjęty. (4) W przypadku odroczenia głosowania komisja opieczętuje urnę i akta wyborcze i odda na przechowanie przewodniczącemu pod jego osobistą odpowiedzialnością. (5) Przed ponownem podjęciem głosowania komisja zbada, czy pieczęcie były nienaruszone."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "(1) O godzinie 21 przewodniczący zarządzi zamknięcie lokalu wyborczego, (2) Odtąd głosować mogą ci tylko wyborcy, którzy przybyli do lokalu przed godziną 21. Rozdział XIII. Ustalenie wyniku glosowania w obwodzie."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "(1) Obwodowa komisja wyborcza niezwłocznie po zamknięciu głosowania przystąpi do ustalenia jego wyniku. (2) Ustalenie wyniku głosowania w obwodzie rozpoczyna się od obliczenia ilości kopert, złożonych w urnie wyborczej i ustalenia liczby głosujących na podstawie notatek w spisie wyborców; w przypadku gdyby ilość kopert, wyjętych z urny, różniła się od liczby głosujących, komisja poda w protokóle przypuszczalną przyczynę tej niezgodności. (3) Po ukończeniu tej czynności komisja ustali wynik głosowania w obwodzie w następujący sposób: przewodniczący wyjmuje osobno z każdej koperty karty do glosowania, bada ich ważność, poczem odczytuje nazwiska kandydatów, na których wyborca oddał głos; jednocześnie dwaj członkowie komisji obliczają, każdy zosobna, ilość głosów ważnych, oddanych na każdego kandydata. (4) Arkusze obliczenia głosów będą podpisane przez przewodniczącego i obecnych członków komisji oraz załączone do protokółu."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "(1) Nieważność karty do głosowania stwierdza obwodowa komisja wyborcza. (2) Nieważne są: a) karty do głosowania, wrzucone do urny bez kopert lub w kopertach nieurzędowych; b) karty, nieopatrzone pieczęcią okręgowej komisji wyborczej; c) karty, wypełnione niezgodnie z przepisami art. 62. (3) Karty do głosowania, niewypełnione przez wyborcę, są ważne, przyczem uważa się, że wyborca oddał głos na kandydatów, umieszczonych na liście na pierwszem i drugiem miejscu. (4) Jeżeli na karcie oznaczone jest nazwisko jednego kandydata, karta jest ważna, przyczem uważa się, że wyborca oddał głos na tego tylko kandydata. (5) Z kilku kart znalezionych w kopercie, jednakowo wypełnionych, będzie uznana za ważną jedna tylko karta; jeżeli zaś w kopercie znaleziono karty różnie wypełnione, wszystkie uznane będą za nieważne."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "(1) Karty ważne, oddane w głosowaniu, komisja opakuje, opieczętuje i umieści na opakowaniu napis wskazujący obwód głosowania. (2) Karty nieważne tudzież karty, uznane za ważne pomimo kwestjonowania ich ważności przez członków komisji lub mężów zaufania, będą opatrzone numerami porządkowemi i opakowane osobno; komisja poda w protokóle powody uznania tych kart za ważne lub nieważne. (3) Jeżeli powodem unieważnienia karty była wadliwość koperty, do karty dołączona będzie koperta. (4) Zdjęcie pieczęci z opakowania, zawierającego karty, może nastąpić tylko na posiedzeniu okręgowej komisji wyborczej po zbadaniu, czy pieczęcie są nienaruszone."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "(1) Obwodowa komisja wyborcza sporządzi protokół ze swoich czynności. (2) Protokół ma zawierać: a) liczbę wyborców; b) liczbę głosujących; c) ilość głosów kwestjonowanych; d) ilość głosów nieważnych; e) ilość głosów ważnych, oddanych na każdego kandydata na posła. (3) Protokół wraz z arkuszami obliczenia głosów, kartami, oddanemi podczas głosowania, oraz spisami wyborców będzie przesłany niezwłocznie okręgowej komisji wyborczej. (4) Każdy z obecnych podczas ustalania wyniku głosowania w obwodzie może zgłosić uwagi do protokółu lub przesłać je na piśmie okręgowej komisji wyborczej. Rozdział XIV. Ustalenie wyniku głosowania w okręgu wyborczym i przyznanie mandatów kandydatom na posłów."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "(1) Okręgowa komisja wyborcza w trzecim dniu po głosowaniu przystąpi do ustalenia wyniku głosowania w okręgu i przyznania mandatów kandydatom na posłów. (2) Podczas tych czynności mogą być obecni mężowie zaufania, zgłoszeni po jednym przez każdego z kandydatów na posłów. (3) Okręgowa komisja wyborcza zbada uchwały obwodowych komisyj wyborczych o ważności lub nieważności kwestjonowanych kart do głosowania i, stosownie do uchwał własnych, ustali ostatecznie wynik głosowania w poszczególnych obwodach. (4) Nadto okręgowa komisja wyborcza poprawi jawne błędy arytmetyczne w obliczeniach, o innych zaś uchybieniach uczyni wzmiankę w protokóle. (5) Okręgowa komisja wyborcza może, w razie potrzeby, wezwać przewodniczących obwodowych komisyj wyborczych do udzielenia wyjaśnień."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "(1) Po ukończeniu tej czynności okręgowa komisja wyborcza sporządzi dla całego okręgu w dwóch egzemplarzach zestawienie następujących liczb: a) wyborców, b) głosujących, c) głosów nieważnych, d) głosów ważnych, oddanych na każdego kandydata na posła. (2) Jeden arkusz zestawienia, podpisany przez przewodniczącego i obecnych członków komisji, będzie załączony do protokółu, drugi zaś - przesłany Głównemu Urzędowi Statystycznemu."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Okręgowa komisja wyborcza po ustaleniu wyniku głosowania przyzna mandaty dwom kandydatom na posłów, którzy otrzymali największe ilości głosów nie mniej jednak niż po 10.000."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "(1) Jeżeli żaden z kandydatów na posłów nie otrzymał co najmniej 10.000 głosów, Minister Spraw Wewnętrznych zarządzi ponowne wybory w okręgu w ciągu trzech miesięcy od ogłoszenia wyniku wyborów do Izb Ustawodawczych, ogłaszając jednocześnie w Dzienniku Ustaw o dniu głosowania. (2) Ponowne wybory przeprowadzą komisje wyborcze na podstawie tych samych spisów wyborców w dotychczasowym, w miarę możności, składzie swych członków; postępowanie wyborcze rozpocznie się od zarządzenia ponownych wyborów do zgromadzenia okręgowego i ustalenia przez nie nowej listy kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "(1) Okręgowa komisja wyborcza sporządzi protokół ze swoich czynności. (2) Protokół ma zawierać: a) ilość głosów, oddanych na każdego kandydata na posła; b) imiona, nazwiska, wiek, zawód i miejsce zamieszkania wybranych posłów. (3) Protokół wraz z arkuszem zestawienia i protokółami obwodowych komisyj wyborczych przesłany będzie niezwłocznie Generalnemu Komisarzowi Wyborczemu; reszta zaś akt - miejscowemu sądowi okręgowemu. (4) Każdy z obecnych podczas ustalania wyniku wyborów w okręgu może zgłosić uwagi do protokółu lub przesłać je na piśmie Generalnemu Komisarzowi Wyborczemu. Rozdział XV. Ogłoszenie wyniku wyborów."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "(1) Generalny Komisarz Wyborczy w dwunastym dniu po glosowaniu ogłosi w gazecie rządowej wynik wyborów do Sejmu. (2) Ogłoszenie to ma zawierać imiona, nazwiska, wiek, zawód i miejsce zamieszkania wybranych posłów ze wskazaniem numeru i nazwy okręgu wyborczego, w którym przyznano im mandat. Rozdział XVI. Listy wierzytelne."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "(1) Generalny Komisarz Wyborczy nie później niż 3 dnia po ogłoszeniu wyniku wyborów do Sejmu prześle każdemu wybranemu posłowi list wierzytelny. (2) List wierzytelny ma zawierać imię, nazwisko, wiek, zawód i miejsce zamieszkania posła oraz numer i nazwę okręgu wyborczego, w którym został wybrany. Rozdział XVII. Sprawdzenie ważności wyborów."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "(1) Każdy obywatel, mający prawo wybierania do Sejmu, może w ciągu dni siedmiu od ogłoszenia wyniku wyborów wnieść do Sądu Najwyższego protest przeciwko wyborom w okręgu, do którego należy. (2) Protest ma być wniesiony na piśmie lub ustnie do protokółu na ręce przewodniczącego okręgowej komisji wyborczej. (3) Wniesienie protestu nie pozbawia posła, zaopatrzonego w list wierzytelny, prawa wykonywania mandatu."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "(1) O wpłynięciu protestu przewodniczący właściwej komisji okręgowej ogłosi w wojewódzkim dzienniku urzędowym, wyznaczając siedmiodniowy termin do wnoszenia sprzeciwów. (2) Przed upływem tego terminu wolno każdemu obywatelowi, uprawnionemu do wybierania, przeglądać protesty w lokalu komisji, czynić z nich odpisy i wnosić sprzeciwy. (3) Po upływie tego terminu protesty wraz ze sprzeciwami przesłane będą Sądowi Najwyższemu, odpisy zaś - Biuru Sejmu."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "(1) Sąd Najwyższy rozpoznaje sprawy wyborcze, jako pilne na posiedzeniu jawnem z udziałem prokuratora i osób, wnoszących protest lub sprzeciwy, jeżeli stawią się na rozprawę. (2) Jeżeli protest lub sprzeciwy wniosło kilka osób, prawo udziału w rozprawie służy ich pełnomocnikom albo osobom, podpisanym na pierwszem miejscu. (3) O terminie rozprawy Sąd Najwyższy ogłosi zapomocą wokandy, wywieszonej w lokalu Sądu, nikogo na rozprawę nie wzywając."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "(1) Sąd Najwyższy na skutek protestu unieważni wybory w okręgu albo unieważni głosowanie w poszczególnym obwodzie: a) jeżeli zostanie stwierdzone, że dopuszczono się przy wyborach przestępstw przeciwko głosowaniu w sprawach publicznych; b) jeżeli wybory przeprowadzone zostały niezgodnie z przepisami ustawy. (2) Unieważnienie wyborów w okręgu lub głosowania w poszczególnym obwodzie może nastąpić jedynie w przypadku, gdy popełnione przestępstwo lub uchybienie mogło wpłynąć na wynik wyborów w całym okręgu. (3) Sąd Najwyższy może pozatem: a) unieważnić wybór posła; b) sprostować, na podstawie wyniku głosowania w okręgu, uchwałę okręgowej komisji wyborczej o przyznaniu mandatu kandydatom na posłów."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "(1) Unieważniając wybory, Sąd Najwyższy wskaże w wyroku czynność, od której należy rozpocząć nowe postępowanie wyborcze. (2) Jeżeli Sąd Najwyższy inaczej nie zarządzi, komisje wyborcze przeprowadzą ponowne wybory na podstawie tych samych spisów wyborców i ustalonej już listy kandydatów, w dotychczasowym, w miarę możności, składzie swych członków."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Ponowne wybory zarządzi Minister Spraw Wewnętrznych w ciągu trzydziestu dni od daty wyroku Sądu Najwyższego i ogłosi w Dzienniku Ustaw o dniu głosowania. Rozdział XVIII. Przepisy, dotyczące funkcjonarjuszów publicznych i wojska."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "(1) Funkcjonariusze państwowi, sędziowie i prokuratorzy oraz pracownicy samorządowi, wybrani na posłów, otrzymują z mocy samego prawa urlop bezpłatny na czas piastowania mandatu poselskiego; w razie zaś piastowania mandatu w ciągu co najmniej dziesięciu lat w następujących po sobie kadencjach Izb Ustawodawczych, będą przeniesieni w stan spoczynku, jeżeli przyjmą mandat do nowowybranego Sejmu. (2) Przepisy niniejszego artykułu nie dotyczą ministrów, podsekretarzy stanu i profesorów szkół akademickich."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "(1) Żołnierze, pełniący czynną służbę wojskową, nie mogą być powoływani do komisyj wyborczych w żadnym charakterze. (2) Żołnierze zawodowi, wybrani na posłów, będą przeniesieni w stan nieczynny na czas piastowania mandatu poselskiego; w razie zaś piastowania mandatu w ciągu co najmniej dziesięciu lat w następujących po sobie kadencjach Izb Ustawodawczych będą przeniesieni w stan spoczynku, jeżeli przyjmą mandat do nowowybranego Sejmu. Rozdział XIX. Wygaśnięcie i utrata mandatu."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "(1) Wygaśnięcie mandatu następuje w razie śmierci posła lub zrzeczenia się mandatu. (2) Utrata mandatu następuje z mocy samego prawa w przypadkach: a) kandydowania na posła więcej niż w jednym okręgu wyborczym; b) nieuczestniczenia posła w 15 zkolei posiedzeniach Sejmu bez usprawiedliwionego powodu; c) odmówienia złożenia ślubowania lub złożenia go z zastrzeżeniem; d) przyjęcia mandatu senatorskiego; e) objęcia płatnej służby państwowej z wyjątkiem stanowiska ministra, podsekretarza stanu lub profesora szkoły akademickiej; f) objęcia stanowiska funkcjonariusza publicznego, jeżeli powołanie na to stanowisko nastąpiło nie na podstawie wyboru albo wniosku organów samorządu terytorialnego lub gospodarczego; g) utraty prawa wybieralności. (3) Poseł, skazany nieprawomocnym wyrokiem sądowym na utratę praw publicznych bądź na karę wydalenia z wojska lub marynarki wojennej albo z korpusu oficerskiego, nie może wykonywać mandatu aż do prawomocnego rozstrzygnięcia sprawy. (4) O wygaśnięciu lub utracie mandatu Marszałek Sejmu podaje Izbie do wiadomości na najbliższem posiedzeniu."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "(1) Jeżeli wskutek wygaśnięcia lub utraty mandatu przez posła oba mandaty w danym okręgu są nieobsadzone, odbędą się w tym okręgu wybory ponowne. (2) Wybory uzupełniające w okręgach, w których obsadzony jest jeden tylko mandat, odbędą się w przypadku, gdyby skład Sejmu zmniejszył się więcej niż o 1/10. (3) Przepisy art. 74 stosuje się odpowiednio do przewidzianych artykułem niniejszym wyborów ponownych i uzupełniających."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Wybory ponowne lub uzupełniające nie będą zarządzone w ostatnich ośmiu miesiącach przed upływem kadencji, jeżeli na czas ten nie przypada sesja zwyczajna, w żadnym zaś razie - w ostatnim kwartale kadencji. Rozdział XX. Środki przymusowe."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "(1) Wobec osób, które bez dostatecznego usprawiedliwienia uchylają się od obywatelskiego obowiązku uczestniczenia w pracach komisji wyborczej, stosowana będzie, jako środek przymusowy, kara pieniężna porządkowa do 50 złotych. (2) Do stosowania środków przymusowych wobec członków komisyi wyborczych powołani są przewodniczący tych komisyj, wobec przewodniczących zaś komisyj obwodowych - przewodniczący komisyj okręgowych. (3) Przewodniczący uchyli orzeczenie o karze, jeżeli osoba ukarana w ciągu 3 dni od doręczenia jej orzeczenia przedstawi dostateczne usprawiedliwienie. (4) Kara porządkowa, nałożona dwukrotnie na tę samą osobę, pociąga za sobą z mocy samego prawa utratę mandatu. (5) Karę porządkową ściąga się w trybie postępowania przymusowego w administracji. Rozdział XXI. Koszty wyborów."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "(1) Wszelkie pisma, podania, odpisy i pełnomocnictwa w sprawach wyborczych oraz poświadczenia podpisów na zgłoszeniach delegatów do zgromadzeń okręgowych wolne są od opłat stemplowych. (2) Za poświadczenie podpisu na zgłoszeniu delegata do zgromadzenia okręgowego notarjusz pobiera 10 groszy."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "(1) Generalny Komisarz Wyborczy i przewodniczący okręgowych komisy) wyborczych pobierają za czas urzędowania diety i otrzymują zwrot kosztów podróży w sprawach wyborczych. (2) Członkowie komisyj wyborczych, którzy utrzymują się z zarobku dziennego, pobierają diety za dnie rzeczywistej pracy w komisji; nadto członkom komisyj wyborczych, zamieszkałym poza miejscem urzędowania, służy prawo do zwrotu kosztów podróży. (3) Wysokość diet i kosztów podróży oraz zasady pobierania tych należności ustali Minister Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "(1) Lokalu, urny, sprzętów i przyborów do pisania dla komisyj wyborczych dostarczy na koszt własny gmina, na której obszarze mieści się siedziba komisji. (2) Gmina poniesie również koszty sporządzenia spisów wyborców, urządzenia osłon w lokalach wyborczych oraz diet członków obwodowych komisyj wyborczych. (3) Wszystkie inne wydatki, połączone z przeprowadzeniem wyborów, ponosi Skarb Państwa. (4) Wykazy wydatków, które ponosi Skarb Państwa, będą dostarczone Ministrowi Spraw Wewnętrznych w ciągu trzech miesięcy po dniu głosowania. Rozdział XXII. Przepisy przejściowe i końcowe."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Do czasu powołania w m. st. Warszawie Rady Miejskiej z wyboru, delegatów samorządu terytorjalnego do zgromadzeń okręgowych w m. st. Warszawie wybierać będzie Tymczasowa Rada Miejska po jednym delegacie na 8.000 mieszkańców danego okręgu wyborczego."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Do czasu wprowadzania na obszarze województwa śląskiego jednolitego ustroju samorządu gmin wiejskich, miast i powiatów, prawo wyboru delegatów 6amorządu terytorjalnego do zgromadzenia okręgowego służyć będzie w tern województwie: a) tymczasowym organom stanowiącym powiatowych związków samorządowych, w powiatach zaś bielskim i cieszyńskim powiatowym zgromadzeniom przełożonych gmin - po jednym delegacie na 20.000 mieszkańców danego powiatu; b) radom miejskim (radom gminnym i wydziałom gminnym w miastach) - po jednym delegacie na 4.000 mieszkańców miasta, wydzielonego z powiatowego związku samorządowego, a na 6.000 mieszkańców w pozostałych miastach; c) radom gminnym (wydziałom gminnym) w gminach wiejskich - po jednym delegacie na 6.000 mieszkańców danej gminy, przyczem rady gminne (wydziały gminne) gmin wiejskich, liczących poniżej 3.000 mieszkańców, będą wybierać delegatów na wspólnem posiedzeniu; w tym celu należy łączyć rady (wydziały) gminne tylko tylu gmin, aby ich przedstawicielstwom umożliwić wybór nie więcej niż dwóch delegatów."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "Przepisy niniejszej ordynacji wyborczej stosuje się odpowiednio do Sejmu Śląskiego z następującemi zmianami: 1. Sejm Śląski składać się będzie z 24 posłów, wybranych w 12 dwumandatowych okręgach wyborczych, których wykaz zawiera załącznik do ustawy niniejszej. 2. Wybory do Sejmu Śląskiego zarządzi Prezydent Rzeczypospolitej w ciągu trzydziestu dni od rozwiązania Sejmu Śląskiego; akt ten ogłoszony będzie w Dzienniku Ustaw Śląskich. 3. Prawo wybierania i wybieralności do Sejmu Śląskiego służyć będzie tylko obywatelom, zamieszkałym na obszarze województwa śląskiego w przededniu zarządzenia wyborów. 4. Przewodniczących okręgowych komisyj wyborczych powoła Generalny Komisarz Wyborczy z pośród sędziów, sprawujących urząd na obszarze województwa śląskiego; okręgowych komisarzy wyborczych powoła Wojewoda Śląski. 5. W skład zgromadzeń okręgowych jako delegaci samorządu terytorjalnego wchodzić będą delegaci, wybrani: a) przez tymczasowe organa stanowiące powiatowych związków samorządowych, a w powiatach bielskim i cieszyńskim - przez powiatowe zgromadzenia przełożonych gmin - po jednym delegacie na 8.000 mieszkańców danego powiatu lub jego części, która należy do danego okręgu wyborczego; b) przez rady miejskie (rady gminne i wydziały gminne w miastach) po jednym delegacie na 3.000 mieszkańców danego miasta; c) przez rady gminne (wydziały gminne) po jednym delegacie na 3.000 mieszkańców danej gminy. 6. Izba Przemysłowo-Handlowa i Izba Rzemieślnicza będą wybierać delegatów do zgromadzeń okręgowych po jednym delegacie na 250 wyborców do Izby. 7. Mandaty do Sejmu Śląskiego będą przyznane w każdym okręgu dwom kandydatom na posłów, którzy otrzymali największe ilości głosów, niemniej jednak niż po 5.000 głosów. 8. Sądem właściwym do rozstrzygania protestów przeciwko wyborom do Sejmu Śląskiego będzie Sąd Apelacyjny w Katowicach. 9. Wydatki, połączone z przeprowadzeniem wyborów do Sejmu Śląskiego, poniesie Skarb Śląski, z wyjątkiem wydatków, które w myśl ustawy niniejszej obciążą właściwe gminy."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych i Ministrowi Sprawiedliwości, każdemu we właściwym mu zakresie działania."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. (2) Jednocześnie uchyla się ustawę z dnia 28 lipca 1922 r. (Dz. U. R. P. Nr 66, poz. 590) wraz ze zmianami wprowadzonemi ustawą z dnia 21 września 1922 r. (Dz. U. R. P. Nr 81, poz. 723), a także ustawę z dnia 22 marca 1929 r. (Dz. U. R. P. Nr 12, poz. 87 z 1930 r.), zawierającą ordynację wyborczą do Sejmu Śląskiego. Załącznik nr 1 - Wykaz okręgów wyborczych Nr. okręgu Siedziba okręgu Powiaty (Komisarjaty Policji Państwowej) 1 m. st. WARSZAWA m. Warszawa Kom. P. P.: I, II, XII. XXVI. 2 „ „ „ „ „ „ „ „ III IV V. 3 „ „ „ „ „ „ „ „ VI, VII, XIX, XXII. 4 „ „ „ „ „ „ „ „ VIII, XI, XVI, XXIII. 5 „ „ „ „ „ „ „ „ IX, X, XIII, XX. XXI. 6 „ „ „ prasko-warszawski miejski. 7 „ „ „ warszawski. 8 „ PUŁTUSK pułtuski, radzymiński, mińsko-mazowiecki. 9 „ MŁAWA mławski, ciechanowski, przasnyski, makowski. 10 „ SIERPC sierpecki, rypiński, lipnowski. 11 „ WŁOCŁAWEK włocławski, nieszawski, kutnowski. 12 „ PŁOCK płocki, płoński, gostyniński. 13 „ ŁOWICZ łowicki, sochaczewski, błoński. 14 „ SKIERNIEWICE skierniewicki, grójecki, rawsko-mazowiecki. 15 „ ŁÓDŹ m. Łódź Kom. P. P.: II, III, V. 16 „ „ „ „ „ „ „ I, IV, VI, VII, X. 17 „ „ „ „ „ „ „ VIII, IX, XI, XII, XIII, XIV. 18 „ „ łódzki, łęczycki. 19 „ KOŁO kolski, koniński 20 „ KALISZ kaliski, turecki. 21 „ SIERADZ sieradzki, łaski. 22 „ PIOTRKÓW piotrkowski, brzeziński. 23 „ RADOMSKO radomszczański, wieluński. 24 „ KIELCE kielecki, włoszczowski. 25 „ CZĘSTOCHOWA częstochowski miejski, częstochowski. 26 „ ZAWIERCIE zawierciański, olkuski. 27 „ SOSNOWIEC sosnowiecki miejski, będziński. 28 „ JĘDRZEJÓW jędrzejowski, miechowski, pińczowski. 29 „ SANDOMIERZ sandomierski, stopnicki. 30 „ OPATÓW opatowski, iłżecki. 31 „ KOŃSKIE konecki, opoczyński. 32 „ RADOM radomski miejski, radomski, kozienicki. 33 „ LUBLIN lubelski miejski, lubelski. 34 „ PUŁAWY puławski, janowski. 35 „ ZAMOŚĆ zamojski, biłgorajski, tomaszowski. 36 „ CHEŁM chełmski, krasnystawski, hrubieszowski. 37 „ BIAŁA PODLASKA bialski, włodawski, radzyński. 38 „ ŁUKÓW łukowski, garwoliński, lubartowski. 39 „ SIEDLCE siedlecki, sokołowski, węgrowski. 40 „ BIAŁYSTOK białostocki miejski, białostocki, szczuczyński ostrowski, wysoko-mazowiecki, bielski. 41 „ OSTRÓW MAZOWIECKA 42 „ ŁOMŻA łomżyński, ostrołęcki. 43 „ SUWAŁKI suwalski, augustowski, sokólski. 44 „ GRODNO grodzieński, wołkowyski. 45 „ WILNO m. Wilno Kom. P. P.: I, II, VI i m. Nowa Wilejka. 46 „ „ „ „ „ „ „ iii, IV, V. 47 „ „ wileńsko-trocki bez m. Nowej Wilejki, święciański. 48 „ GŁĘBOKIE dziśnieński, brasławski, postawski. 49 „ OSZMIANA oszmiański, wilejski, mołodecki. 50 „ LIDA lidzki, wołożyński. 51 „ NOWOGRÓDEK nowogródzki, szczuczyński, słonimski. 52 „ BARANOWICZE baranowicki, nieświeski, stołpecki. 53 „ BRZEŚĆ n/BUGIEM brzeski, prużański. 54 m. KOBRYŃ kobryński, drohicki, kosowski, koszyrski. 55 „ PIŃSK piński, łuniniecki, stoliński. 56 „ ŁUCK łucki, horochowski. 57 „ KOWEL kowelski, lubomelski, włodzimierski. 58 „ SARNY sarncński, kostopolski. 59 „ RÓWNE rówieński, zdołbunowski. 60 „ KRZEMIENIEC krzemieniecki, dubieński. 61 „ TARNOPOL tarnopolski, zbaraski, skałacki. 62 „ ZŁOCZÓW złoczowski, kamionecki, radziechowski, brodzki. 63 „ BRZEŻANY brzeżański, przemyślański, zborowski. 64 „ BUCZACZ buczacki, trembowelski, podhajecki. 65 „ CZORTKÓW czortkowski, kopyczyniecki, borszczowski, zaleszczycki. 66 „ STANISŁAWÓW stanisławowski, tłumacki, nadwórniański. 67 „ KOŁOMYJA kołomyjski, horodeński, śniatyński, kossowski. 68 „ KAŁUSZ kałuski, rohatyński, doliński. 69 „ STRYJ stryjski, żydaczowski, bóbrecki. 70 „ LWÓW. m. Lwów Kom. P. P.: II, III, V, VIII. IX. 71 „ „ „ „ „ „ I, IV, VI, VII, X. 72 „ „ lwowski, gródecki, mościski. 73 „ SOKAL sokalski, żółkiewski, rawski, lubaczowski. 74 „ PRZEMYŚL przemyski, jarosławski, jaworowski. 75 „ DROHOBYCZ drohobycki, rudecki. 76 „ SAMBOR Samborski, dobromilski, turczański. 77 „ SANOK sanocki, leski, krośnieński. 78 „ RZESZÓW rzeszowski, brzozowski, kolbuszowski. 79 „ ŁAŃCUT łańcucki, przeworski, niżański, tarnobrzeski. 80 „ KRAKÓW m. Kraków Kom. P. P.: I, II, III. 81 „ „ „ „ „ „ IV, V, VI. 82 „ „ krakowski, chrzanowski. 83 „ BOCHNIA bocheński, limanowski, brzeski. 84 „ TARNÓW tarnowski, dąbrowski, mielecki. 85 „ JASŁO jasielski, ropczycki, gorlicki. 86 „ NOWY SĄCZ nowosądecki, nowotarski. 87 „ WADOWICE wadowicki, żywiecki, myślenicki. 88 „ KATOWICE katowicki miejski, chorzowski miejski. 89 „ „ katowicki. 90 „ ŚWIĘTOCHŁOWICE świętochłowicki, tarnogórski, lubliniecki. 91 „RYBNIK rybnicki, pszczyński. 92 „ BIELSKO ŚLĄSKIE bielski miejski, bielski, bialski, cieszyński. 93 „ POZNAŃ m. Poznań Kom. P. P.: I, III, IV, V. 94 „ „ „ „ „ „ II, VI, VII, VIII. 95 „ „ poznański, obornicki, czarnkowski, międzychodzki, szamotulski, nowotomyski. 96 „ LESZNO leszczyński, wolsztyński, kościański, śremski, gostyński, rawicki. 97 „ OSTRÓW WIELKOPOLSKI ostrowski, kępiński, krotoszyński, jarociński. 98 „ GNIEZNO gnieźnieński miejski, gnieźnieński, średzki, wrzesiński, wągrowiecki. 99 „ INOWROCŁAW inowrocławski miejski, inowrocławski, mogileński, żniński, szubiński. 100 „ BYDGOSZCZ bydgoski miejski, bydgoski, wyrzyski, chodzieski. 101 „ TORUŃ toruński miejski, toruński, chełmiński, wąbrzeski. 102 „ GRUDZIĄDZ grudziądzki miejski, grudziądzki, brodnicki, lubawski, działdowski, 103 „ CHOJNICE chojnicki, sępoleński, tucholski, świecki, starogardzki, tczewski. 104 „ GDYNIA gdyński miejski, morski, kartuski, kościerski. Załącznik nr 2 - Okrąg wyborczy Nr 29 Sandomierz (wzór) patrz oryginał Załącznik nr 3 - Wykaz okręgów wyborczych do Sejmu Śląskiego patrz oryginał Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_I\",\"symbol\": \"chpt_I\",\"type\": \"chpt\",\"name\": \"I\",\"title\": \"Rozdział I. - Skład Sejmu.\",\"children\": [{\"id\": \"chpt_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"}]},{\"id\": \"chpt_II\",\"symbol\": \"chpt_II\",\"type\": \"chpt\",\"name\": \"II\",\"title\": \"Rozdział II. - Prawo wybierania.\",\"children\": [{\"id\": \"chpt_II-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_II-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_II-arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"chpt_II-arti_3-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"chpt_II-arti_3-pass_(1-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"}]},{\"id\": \"chpt_II-arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]}]},{\"id\": \"chpt_III\",\"symbol\": \"chpt_III\",\"type\": \"chpt\",\"name\": \"III\",\"title\": \"Rozdział III. - Prawo wybieralności.\",\"children\": [{\"id\": \"chpt_III-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_III-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_III-arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_III-arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_III-arti_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_III-arti_5-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_III-arti_5-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]}]},{\"id\": \"chpt_IV\",\"symbol\": \"chpt_IV\",\"type\": \"chpt\",\"name\": \"IV\",\"title\": \"Rozdział IV. - Okręgi wyborcze i obwody głosowania.\",\"children\": [{\"id\": \"chpt_IV-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_IV-arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"chpt_IV-arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"chpt_IV-arti_6-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"chpt_IV-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_IV-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_IV-arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"chpt_IV-arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"chpt_IV-arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"chpt_IV-arti_8-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]}]},{\"id\": \"chpt_V\",\"symbol\": \"chpt_V\",\"type\": \"chpt\",\"name\": \"V\",\"title\": \"Rozdział V. - Zarządzenie wyborów.\",\"children\": [{\"id\": \"chpt_V-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_V-arti_9-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"chpt_V-arti_9-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"chpt_V-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"chpt_VI\",\"symbol\": \"chpt_VI\",\"type\": \"chpt\",\"name\": \"VI\",\"title\": \"Rozdział VI. - Spisy wyborców.\",\"children\": [{\"id\": \"chpt_VI-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_VI-arti_11-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"chpt_VI-arti_11-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"chpt_VI-arti_11-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]}]},{\"id\": \"chpt_VII\",\"symbol\": \"chpt_VII\",\"type\": \"chpt\",\"name\": \"VII\",\"title\": \"Rozdział VII. - Generalny Komisarz Wyborczy i Komisje Wyborcze.\",\"children\": [{\"id\": \"chpt_VII-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_VII-arti_12-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_VII-arti_12-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_VII-arti_12-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_VII-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_VII-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_VII-arti_14-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"chpt_VII-arti_14-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_VII-arti_14-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_VII-arti_14-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"chpt_VII-arti_14-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"chpt_VII-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_VII-arti_15-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"chpt_VII-arti_15-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_VII-arti_15-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"le"
+    }
+  ],
+  "definitions": []
+}

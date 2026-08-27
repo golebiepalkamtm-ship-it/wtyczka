@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1936-406",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1936 r. o zalesianiu niektórych nieużytków.",
+  "title_en": "",
+  "short_name": "pl-du-1936-406",
+  "status": "repealed",
+  "issued_date": "1936-07-14",
+  "in_force_date": "1936-07-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/406",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Obowiązkowi zalesienia podlegają nieużytki, niestanowiące własności Państwa, których zalesienie potrzebne jest: 1) do zabezpieczenia gruntów przed zmywaniem i wyjałowieniem, powstrzymania Usuwania się ziemi i kamieni, przeszkodzenia tworzeniu się dzikich potoków, obrywaniu skał i spadkowi lawin, 2) do uchronienia brzegów wód przed obrywaniem się, a źródeł przed zasypywaniem, 3) do przeszkodzenia powstawaniu albo rozszerzaniu się piasków lotnych lub parowów. (2) Nadto Minister Rolnictwa i Reform Rolnych może w porozumieniu z Ministrem Spraw Wojskowych zarządzać zalesienie nieużytków, jeżeli wymaga tego interes obrony Państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Wydział powiatowy po zasiągnięciu opinji izby rolniczej opracowuje w granicach swoich możliwości finansowych roczny plan prac zalesieniowych. Zalesienia uzupełniające na gruntach już zalesionych winny być objęte planem prac zalesieniowych lat następnych. (2) Plan prac zalesieniowych wyłożony będzie na przeciąg miesiąca do publicznej wiadomości w zarządzie gminy, na której obszarze mają być prowadzone prace zalesieniowe. O terminie i miejscu wyłożenia planu zarząd gminy zawiadomi interesowanych właścicieli gruntów zgodnie z przepisami o postępowaniu administracyjnem. Osobom tym służy prawo zgłaszania sprzeciwów co do tego, że grunt ich niesłusznie zaliczono do nieużytków, podlegających obowiązkowi zalesienia, jak również co do tego, że z planu prac zalesieniowych wynikają dla nich zbyt duże obciążenia w zakresie dostarczenia robocizny. Sprzeciwy należy zgłosić w zarządzie gminy do protokółu lub na piśmie wraz z uzasadnieniem, najpóźniej w dniu upływu terminu wyłożenia planu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Plan prac zalesieniowych zatwierdza wojewoda, który jednocześnie rozstrzyga zgłoszone sprzeciwy. Wojewoda uprawniony jest do wprowadzenia zmian w złożonym do zatwierdzenia planie. (2) Decyzja o zatwierdzeniu planu prac zalesieniowych, jak również decyzje, rozstrzygające sprzeciwy, są ostateczne."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Zatwierdzony plan prac zalesieniowych wykonywa wydział powiatowy, który także dostarcza wszelkich materjałów, potrzebnych do prowadzenia prac zalesieniowych. (2) Obowiązek dostarczenia robocizny ciąży na właścicielach nieużytków; w przypadkach, gdy właścicielem zalesianego nieużytku jest gmina lub gromada, obowiązek dostarczenia robocizny ciąży na członkach tejże gminy lub gromady, stosownie do przepisów o świadczeniach w naturze na niektóre cele publiczne."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Nadzór fachowy nad pracami zalesieniowemi sprawuje wojewoda, który jednak może wykonywanie tego nadzoru przekazać izbie rolniczej. (2) Nadzór nad wykonaniem zatwierdzonego planu prac zalesieniowych należy do wojewody."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) W ciągu lat 50 od końca roku, w którym przeprowadzono zalesienie w myśl przepisów niniejszej ustawy, nie opłaca się od zalesionego gruntu państwowego podatku gruntowego i na nim opartych danin samorządowych. Poniesione przez właścicieli koszty zalesienia tych gruntów będą potrącane od dochodu podatkowego w rozumieniu prawa o państwowym podatku dochodowym. (2) Grunty, zalesione na podstawie przepisów ustawy niniejszej, są gruntami leśnemi w rozumieniu przepisów o ochronie lasów, niestanowiących własności Państwa. (3) Kto niszczy roślinność lub uszkadza urządzenia ochronne, zaprowadzone przy zalesianiu nieużytków w myśl przepisów ustawy niniejszej, podlega w drodze administracyjnej karze aresztu do 2 tygodni lub grzywny do 500 zł albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Rzeczypospolitej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_1-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_6-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-690",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-690",
+  "status": "amended",
+  "issued_date": "1997-08-22",
+  "in_force_date": "1997-09-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/690",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych ( Dz. U. Nr 13, poz. 60 i Nr 83, poz. 418 , z 1996 r. Nr 152, poz. 719 oraz z 1997 r. Nr 80, poz. 504 ) w art. 4 w ust. 1 dodaje się pkt 3 w brzmieniu: „ 3) dla Agencji Rynku Rolnego na skup zbóż, powierzony tej Agencji przez Radę Ministrów na podstawie odrębnych przepisów. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

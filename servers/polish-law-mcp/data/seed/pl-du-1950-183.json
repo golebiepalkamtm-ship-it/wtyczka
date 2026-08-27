@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1950-183",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 kwietnia 1950 r. o zaniechaniu postępowania karnego w sprawach o niektóre przestępstwa dewizowe i skarbowe.",
+  "title_en": "",
+  "short_name": "pl-du-1950-183",
+  "status": "repealed",
+  "issued_date": "1950-04-26",
+  "in_force_date": "1950-05-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/183",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przy dopełnianiu obowiązków, określonych w rozporządzeniach, wydanych na podstawie: 1) art. 10 ust. 2 dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi ( Dz. U. R. P. z 1938 r. Nr 86, poz. 584 i z 1939 r. Nr 87, poz. 549 ) , 2) art. 1 ust. 2 ustawy z dnia 26 kwietnia 1950 r. o zgłaszaniu zobowiązań wobec zagranicy oraz znajdującego się w kraju mienia cudzoziemców ujawni się przestępstwo, przewidziane w powołanym wyżej dekrecie z dnia 26 kwietnia 1936 r. albo w prawie karnym skarbowym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nie wszczyna się postępowania karnego, wszczęte zaś umarza się, jeżeli przestępstwo, przewidziane w art. 1, ujawni się przy nabywaniu niektórych przedmiotów za zagraniczne środki płatnicze pod warunkiem zachowania szczególnych przepisów prawnych o nabywaniu tych przedmiotów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy art. 1 i 2 stosuje się pod warunkiem dopełnienia wszystkich obowiązków, wynikających z rozporządzeń, o których mowa w art. 1, oraz ze szczególnych przepisów, przewidzianych w art. 2."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Pochodzenie sum, ujawnionych przy dopełnianiu obowiązków, przewidzianych w rozporządzeniach, określonych w art. 1, oraz przy nabywaniu w kraju niektórych przedmiotów za zagraniczne środki płatnicze (art. 2), nie podlega dochodzeniu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy porucza się Ministrom Finansów i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1919-400",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1919 r. w sprawie wydawania Dziennika Ustaw Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-400",
+  "status": "repealed",
+  "issued_date": "1919-07-31",
+  "in_force_date": "1919-08-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/400",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Dzienniku Ustaw Rzeczypospolitej Polskiej będą ogłaszane: 1) ustawy Sejmowe, 2) ratyfikowane przez Sejm umowy międzynarodowe, 3) powszechne obowiązujące rozporządzenia Rządu, wydane na podstawie istniejących ustaw, 4) oświadczenia rządowe, które w myśl obowiązujących przepisów w Dzienniku Ustaw umieszczane być winny. W razie wątpliwości, czy dane rozporządzenie jest powszechnie obowiązujące i czy jako takie ma być umieszczpne w Dzienniku Ustaw - rozstrzyga sprawę. Rada Ministrów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wszelkie ogłoszenia statutów i zmian statutów tych spółek, które w myśl ustawy z dnia 29 kwietnia 1919 r. (Dz. Praw Nr 39, poz. 282) i innych jeszcze postanowień obowiązujących na obszarze b. zaboru rosyjskiego są uskuteczniane w Dzienniku Praw Państwa - mają odbywać się przez umieszczenie ich w gazecie rządowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawy, rozporządzenia i inne akty, w art. 1 wymienione, uważa się jako prawnie ogłoszone w Dzienniku Ustaw Rzeczypospolitej Polskiej z dniem wyjścia tego numeru Dziennika Ustaw, w którym są umieszczone. Ten dzień ma być wyraźnie w odnośnym dzienniku wymieniony."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Moc obowiązującą ogłoszonych w Dzienniku Ustaw Rzeczypospolitej Polskiej aktów, w art. 1 wymienionych, zaczyna się, o ile w nich inaczej nie postanowiono, po upływie dni 14-tu po dniu ich ogłoszenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Dziennik Ustaw Rzeczypospolitej Polskiej wydaje Minister Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Każdy numer Dziennika Ustaw wysyłany będzie bezpłatnie po jednym egzemplarzu wszystkim sądom, władzom centralnym, państwowym urzędom administracyjnym, a nadto tym innym urzędom państwowym, których spis Rada Ministrów na wniosek odnośnego Ministerstwa zatwierdzi, prócz tego będą otrzymywać bezpłatnie uniwersytety i bibljoteki publiczne na żądanie po 3 egzemplarze, inne zaś wyższe uczelnie po jednym egzemplarzu Dziennika. Dziennik ten prenumerować może każdy urząd komunalny i wszystkie osoby tak fizyczne, jak prawne."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wysyłka tak miejscowa, jak i zamiejscowa Dziennika Ustaw. Rzeczypospolitej Polskiej jest wolna od opłaty pocztowej. Prenumeratę winien przyjmować każdy urząd pocztowy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Rozesłanie urzędowych egzemplarzy Dziennika Ustaw winno nastąpić nie później niż w ciągu 24 godzin po wydrukowaniu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Warunki prenumeraty Dziennika Ustaw ustala Minister Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, z tą chwilą tracą moc obowiązującą art. 21 dekretu 1-go Rady Regencyjnej o tymczasowej organizacji władz naczelnych w Królestwie Polskiem (Dz. Pr. Król. Polsk. Nr. 1), jak również wszystkie inne na obszarach b. zaboru rosyjskiego i austrjackiego dotychczas obowiązujące postanowienia, o ile sprzeczne są z treścią niniejszej ustawy. Termin wejścia w życie niniejszej ustawy na obszarach b. zaboru pruskiego oznaczy uchwała Rady Ministrów."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy poruczą się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

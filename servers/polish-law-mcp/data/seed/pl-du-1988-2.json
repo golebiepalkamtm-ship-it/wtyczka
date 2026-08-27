@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1988-2",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1988 r. o Radzie Ochrony Pamięci Walk i Męczeństwa.",
+  "title_en": "",
+  "short_name": "pl-du-1988-2",
+  "status": "repealed",
+  "issued_date": "1988-01-21",
+  "in_force_date": "1988-01-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1988/2",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rada Ochrony Pamięci Walk i Męczeństwa, zwana dalej „Radą”, inicjuje i koordynuje działalność związaną z upamiętnianiem historycznych wydarzeń i miejsc oraz postaci w dziejach walk i męczeństwa Narodu Polskiego, zarówno w kraju, jak i za granicą, a także bliskich Narodowi Polskiemu miejsc walk i męczeństwa innych narodów na terytorium Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rada działa przy Prezesie Rady Ministrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do zadań Rady należy w szczególności: 1) sprawowanie opieki nad miejscami walk i męczeństwa oraz trwałe upamiętnianie związanych z tymi miejscami faktów, wydarzeń i postaci, 2) inspirowanie oraz współdziałanie w organizowaniu obchodów, uroczystości, przedsięwzięć wydawniczych i wystawienniczych, a także popularyzowanie - za pomocą środków masowego przekazywania - miejsc, wydarzeń i postaci historycznych związanych z walkami i męczeństwem, 3) ocenianie stanu opieki nad miejscami i trwałymi obiektami pamięci narodowej, a w szczególności nad pomnikami, cmentarzami i mogiłami wojennymi oraz walk narodowowyzwoleńczych, cmentarzami ofiar hitlerowskiego terroru, muzeami walk i martyrologii, a także izbami pamięci narodowej, 4) sprawowanie funkcji opiniodawczej i opiekuńczej wobec muzeów walk i męczeństwa, a w szczególności: w Oświęcimiu-Brzezince, na Majdanku, w Sztutowie, w Łambinowicach, w Żabikowie, w Rogoźnicy, w Treblince i Radogoszczy, 5) opiniowanie pod względem historycznym i artystycznym wniosków o trwałe upamiętnienie miejsc wydarzeń historycznych, a także wybitnych postaci związanych z dziejami walk i męczeństwa, 6) współdziałanie - w szczególności ze środowiskami i organizacjami polonijnymi - w sprawowaniu opieki nad miejscami walk i męczeństwa Narodu Polskiego za granicą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Organy właściwe w sprawach wydawania zezwoleń na wykonanie trwałych znaków i obiektów upamiętniających walki i męczeństwo są obowiązane do zasięgnięcia opinii Rady i jej rozpatrzenia przed wydaniem decyzji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Członków Rady powołuje i odwołuje Prezes Rady Ministrów. 2. W skład Rady wchodzą przedstawiciele Rady Krajowej Patriotycznego Ruchu Odrodzenia Narodowego, organizacji kombatanckich, społecznych, politycznych, wyznaniowych, zawodowych i młodzieżowych, a także środowisk nauki, oświaty, kultury i sztuki oraz przedstawiciele desygnowani przez Radę Państwa i Radę Ministrów. 3. Przewodniczącego, wiceprzewodniczących i sekretarza generalnego Rady powołuje i odwołuje Prezes Rady Ministrów spośród członków Rady."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Rada wykonuje zadania określone w art. 3 przy współpracy wojewódzkich komitetów ochrony pamięci walk i męczeństwa, działających przy terenowych organach administracji państwowej o właściwości ogólnej stopnia wojewódzkiego. 2. W celu realizacji zadań Rady przy terenowych organach administracji państwowej o właściwości ogólnej stopnia podstawowego mogą być tworzone komitety ochrony pamięci walk i męczeństwa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Udział w pracach Rady oraz komitetów, o których mowa w art. 6, ma charakter społeczny. 2. Kadencja Rady i komitetów trwa 4 lata."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa organizację, tryb działania i zasady finansowania Rady oraz komitetów ochrony pamięci walki i męczeństwa, a także tryb powoływania i odwoływania składów tych komitetów."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Osobom i jednostkom organizacyjnym zasłużonym dla idei pamięci narodowej oraz opieki nad miejscami walk i męczeństwa Przewodniczący Rady może nadać „Medal Opiekuna Miejsc Pamięci Narodowej” na zasadach i w trybie określonych przez Radę."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Traci moc ustawa z dnia 2 lipca 1947 r. o utworzeniu Rady Ochrony Pomników Walki i Męczeństwa ( Dz. U. Nr 52, poz. 264 i Nr 63, poz. 372 oraz z 1949 r. Nr 25, poz. 183 ) ."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

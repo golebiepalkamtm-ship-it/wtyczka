@@ -1,0 +1,170 @@
+{
+  "id": "pl-du-1921-71",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 stycznia 1921 r. o organizacji giełd w Polsce.",
+  "title_en": "",
+  "short_name": "pl-du-1921-71",
+  "status": "in_force",
+  "issued_date": "1921-01-20",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/71",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Giełdy mogą być pieniężne i towarowe. Giełdy pieniężne podlegają Ministrowi Skarbu; pozwolenie na ich otwarcie wydaje Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu. Giełdy towarowe podlegają Ministrowi Przemysłu i Handlu; pozwolenie na ich otwarcie wydaje Minister Przemysłu i Handlu w porozumieniu z Ministrem Skarbu. Przed udzieleniem lub odmówieniem pozwolenia na otwarcie giełdy mają być wysłuchane właściwe organizacje gospodarcze (izby handlowe i przemysłowe, względnie organizacje o analogicznym zakresie działania). Obrót giełdy pieniężnej obejmuje papiery wartościowe urzędowo notowane, weksle, czeki, przekazy, waluty, monety i szlachetne kruszce. Obrót giełdy towarowej obejmuje towary i wartości, niezastrzeżone giełdom pieniężnym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rząd sprawuje nadzór nad giełdą za pośrednictwem komisarza giełdowego lub jego zastępcy, mianowanych dla każdej giełdy przez tego ministra, któremu dana giełda podlega. Zakres czynności komisarza giełdowego obejmuje w szczególności: dozór nad wykonywaniem przepisów i czynności giełdowych, troszczenie się o usuwanie nadużyć na giełdzie, udział w obradach rady giełdowej, zawieszanie wszelkich uchwał sprzecznych z ustawą lub statutem giełdy. Zawieszone uchwały winien komisarz giełdowy przedstawić natychmiast do decyzji właściwego ministra: decyzja ministra winna być do ośmiu dni doręczona radzie giełdowej; w przeciwnym razie zawieszona uchwała staje się ważną."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Giełda jest osobą prawną; ma przeto prawo nabywać majątek ruchomy i nieruchomy, zawierać umowy i zaciągać zobowiązania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Członkami giełdy pieniężnej winni być wszyscy handlujący wartościami, dopuszczonemi do obrotu na danej giełdzie, którzy posiadają przedsiębiorstwo w tej samej miejscowości, gdzie dana giełda się znajduje. Pozatem członkami giełdy pieniężnej mogą być osoby miejscowe i zamiejscowe, przyjęte przez radę giełdową na warunkach, które określi statut giełdy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przepisy, normujące warunki należenia do giełdy towarowej, zostaną określone rozporządzeniem Ministra Przemysłu i Handlu, wydanem w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Nie mogą być członkami giełdy: 1) duchowni; 2) wojskowi; 3) urzędnicy państwowi, samorządowi, sędziowie oraz urzędnicy instytucji państwowych i samorządowych; 4) niewypłacalni na czas trwania postępowania upadłościowego, a po jego ukończeniu w tym wypadku, jeżeli upadły uznany zostanie winnym bankructwa prostego lub podstępnego; 5) skazani za zawodowe przemytnictwo lub lichwę; 6) pozbawieni wyrokiem sądowym praw wyborczych lub pozbawieni honorowych praw obywatelskich - tak długo, dopóki pozbawienie trwa; 7) wykluczeni orzeczeniem komisji dyscyplinarnej, z którejkolwiek giełdy. Nadto nie mogą zostać członkami giełdy (art. 4 ust. 2) osoby, które pod względem prawa rozporządzenia majątkiem nie są własnowolne."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wszyscy członkowie giełdy tworzą ogólne zgromadzenie członków giełdy, do zakresu działania którego należy: wybór członków rady giełdowej, komisji rozjemczej i zatwierdzenie zamknięć rachunkowych giełdy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Sprawami giełdy zarządza rada giełdowa. Rada giełdowa liczy od 8 do 36 osób. Liczbę członków rady giełdowej określi statut giełdy. Radę wybiera z pośród siebie ogólne zgromadzenie członków giełdy prostą większością głosów: 1) bezpośrednio - w miejscowościach, gdzie giełda liczy nie więcej niż 300 osób; 2) przez reprezentantów - w miejscowościach, gdzie giełda jest liczniejsza. Ilość reprezentantów nie może przewyższać 300 osób."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wybranych członków rady giełdowej zatwierdza minister, któremu dana giełda podlega. Jeżeli wybrani członkowie rady giełdowej nie uzyskają zatwierdzenia, należy w terminie 6 tygodniowym od daty odmowy zatwierdzenia przeprowadzić nowe wybory w miejsce członków niezatwierdzonych. Niezatwierdzeni członkowie rady giełdowej tracą bierne prawo wyboru w danym okresie wyborczym. Na wypadek trzykrotnego niezatwierdzenia wybranych członków rady, odnośny minister mianuje z pośród członków giełdy członków rady giełdowej w miejsce niezatwierdzonych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Do rady giełdowej mogą być wybrani tylko obywatele Rzeczypospolitej Polskiej, którzy ukończyli 30 lat wieku."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Rada giełdowa wybiera ze swego grona prezesa, jednego lub więcej zastępców prezesa oraz członków, pełniących specjalne obowiązki. Prezes lub zastępca jego jest przedstawicielem giełdy nazewnątrz."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Do obowiązków rady giełdowej należy: 1) zarządzanie funduszami oraz sprawami administracyjnemi giełdy; 2) ustalanie terminów posiedzeń rady i zebrań giełdowych oraz zwoływanie ogólnych zgromadzeń członków giełdy; 3) ustalanie zwyczajów giełdowych i podawanie ich do wiadomości ministra, któremu dana giełda podlega; 4) kwalifikowanie wartości, które mogą być dopuszczone do obrotu na danej giełdzie, a to na podstawie instrukcji, przez radę giełdową opracowanej, a przez właściwego ministra zatwierdzonej. Taką uchwałę, rady giełdowej może komisarz giełdowy zawiesić (art. 2 ust. 3); 5) ustalanie kursów i cen oraz ogłaszanie ceduły giełdowej; 6) udzielanie na żądanie władz sprawozdań z obrotów giełdowych; 7) komunikowanie właściwemu ministrowi uchwał, rezolucji, memorjałów i wniosków w sprawach, dotyczących popierania i podniesienia handlu; 8) zawieszanie obrotów giełdowych wartościami dawniej zakwalifikowanemi w myśl przepisów punktu 4 niniejszego artykułu; 9) czuwanie nad prawidłowym biegiem tranzakcji giełdowych, nad zachowaniem obowiązujących w tej mierze ustaw, postanowień i zwyczajów, oraz nad usuwaniem z gmachu giełdy nieuprawnionych pośredników; 10) przestrzeganie porządku na zebraniach i zgromadzeniach giełdowych; 11) przyjmowanie członków giełdy w myśl ust. 2, art. 4; 12) wykluczanie z giełdy osób, które w myśl art. 6 nie mogą być członkami giełdy, oraz osób niewykonujących zobowiązań giełdowych; 13) egzaminowanie kandydatów na maklerów giełdowych; 14) przedstawianie właściwemu ministrowi uchwał w sprawie zatwierdzenia statutu oraz w przedmiocie zmian statutu giełdy."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Rada giełdowa wybiera ze swego grona komisję dyscyplinarną, która rozstrzyga zarzuty natury, etycznej, stawiane członkom giełdy. Komisja dyscyplinarna ma prawo wymierzać kary następujące: 1) naganę; 2) karę pieniężną do 100.000 mk. pol. ściąganą trybem, przewidzianym dla należności skarbowych; 3) zawieszenie czasowe w prawach członka; 4) wykluczenie zupełne. W razie wymierzenia kary pieniężnej ponad 50.000 mk. pol. oraz w przypadkach pod 3 i 4) przysługuje zasądzonemu prawo odwołania się w ciągu 3 dni od dnia doręczenia orzeczenia komisji do rady giełdowej ze skutkiem, wstrzymującym wykonanie kary na ten czas."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Ogólne zgromadzenie członków giełdy wybiera komisję rozjemczą w ten sam sposób, co członków rady giełdowej. Liczbę członków komisji rozjemczej, która winna być większą od liczby członków rady giełdowej, określi statut giełdy. Dla rozstrzygania sporów, wynikających z tranzakcji giełdowych, powołany jest wyłącznie, o ile strony inaczej na piśmie się nie umówiły, sąd rozjemczy, którego członków ustanawiają one z pośród członków komisji rozjemczej. Aż do ujednostajnienia postępowania sądowego na całym obszarze Rzeczypospolitej Polskiej będą obowiązywały co do prawomocności i wykonalności wyroków sądów rozjemczych przepisy ustawodawstw dzielnicowych o sądach polubownych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Członka giełdy może na zebraniach giełdowych oraz na ogólnych zgromadzeniach członków giełdy zastąpić pełnomocnik, za działalność którego odpowiada, dający penomocnictwo, członek giełdy. O dopuszczeniu danej osoby na giełdę w charakterze pełnomocnika członka giełdy decyduje rada giełdowa."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Z końcem roku kalendarzowego rada giełdowa sporządza zamknięcie rachunkowe, zaś najpóźniej w kwietniu roku następnego przedstawia ogólnemu zgromadzeniu członków giełdy sprawozdanie ze swych czynności za rok ubiegły. Po przyjęciu tegoż sprawozdania przez ogólne zgromadzenie, rada giełdowa przesyła je do wiadomości ministra, któremu dana giełda podlega."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Giełda rządzi się statutem, wydanym na zasadzie niniejszej ustawy (art. 18), zatwierdzonym przez właściwą władzę (art. 1). Zmiana statutu giełdy wymaga zezwolenia tej samej władzy, która statut zatwierdziła."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Statut giełdy obejmować winien: 1) oznaczenie rodzaju giełdy i wyszczególnienie przedmiotów obrotu na danej giełdzie; 2) prawa i obowiązki członków giełdy oraz warunki członkowstwa co do osób, wymienionych w ust. 2 w art. 4; 3) ustanowienie opłaty członkowskiej oraz sposób jej uiszczania; 4) przepisy o zebraniach giełdowych; 5) przepisy, dotyczące ustanawiania władz giełdowych i sprawowania ich czynności; 6) warunki ważności uchwał rady giełdowej i formę ich ogłaszania; 7) skład komisji dyscyplinarnej i rozjemczej oraz sądów rozjemczych, jak również sposób postępowania przed komisją dyscyplinarną i sądami rozjemczemi, a nadto wysokość opłat, jeśli one będą pobierane za ich czynności; 8) sposób użycia sum, które wpłyną do funduszów giełdy z kar, przewidzianych w punkcie 2 art. 13; 9) przeznaczenie majątku giełdy na wypadek jej rozwiązania."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Jako tranzakcje giełdowe uważa się takie interesy, które zawarto w publicznym lokalu giełdowym, w oznaczonej porze giełdowej i co do przedmiotów obrotu, któremi na danej giełdzie wolno handlować i które wolno na niej notować. Tranzakcje, zawierane na giełdzie, są zaskarżalne przed sądem rozjemczym tylko wtedy, jeżeli zostały stwierdzone kartą umowy."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Pośrednictwem przy tranzakcjach giełdowych mogą zajmować się tylko maklerzy zatwierdzeni przez ministra, któremu dana giełda podlega. Liczbę maklerów określa rada giełdowa w miarę potrzeby. Kwalifikacje, sposób powoływania i zwalniania maklerów oraz ich prawa i obowiązki określą dla każdego rodzaju giełdy (art. 1) przepisy wykonawcze, wydane w drodze rozporządzenia do niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Właściwemu ministrowi przysługuje prawo rozwiązania rady giełdowej na wypadek niestosowania się do obowiązków, zakreślonych ustawą lub statutem giełdy. W tym wypadku właściwy minister mianuje komisarza rządowego, który sprawować będzie wszystkie czynności rady giełdowej do chwili objęcia urzędowania przez nowo obraną radę. Najważniejszym obowiązkiem komisarza rządowego jest przeprowadzenie nowych wyborów do rady giełdowej w terminie nie późniejszym niż 3-miesięczny."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu, względnie Minister Przemysłu i Handlu w porozumieniu z Ministrem Skarbu, mocen jest zawiesić działalność zebrań giełdowych, jak również giełdę rozwiązać."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Uczestniczenie w niedozwolonem przez Rząd zebraniu, na którem dokonywa się tranzakcji giełdowych, karane będzie w drodze administracyjnej, na obszarze b. dzielnicy pruskiej w drodze sądowej, karą pieniężną od 10000 mk. pol. do 50.000 mk. pol. i aresztem do 6 miesięcy lub jedną z tych kar. Wymierzenie tej kary nie zwalnia winnego od odpowiedzialności sądowej, o ile czyn jego podpada pod przepisy kodeksu karnego."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Ustawa niniejsza wchodzi w życie w sześć miesięcy po jej ogłoszeniu w Dzienniku Ustaw. Do tego czasu giełdy już istniejące winny dostosować się do przepisów niniejszej ustawy. Z chwilą wejścia niniejszej ustawy w życie tracą moc obowiązującą wszystkie przepisy prawne, odnoszące się do giełd na całym obszarze Rzeczypospolitej Polskiej, o ile są sprzeczne z niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Do czasu ujednostajnienia prawa handlowego w całej Rzeczypospolitej Polskiej utrzymuje się w mocy na obszarze b. dzielnicy austrjackiej postanowienia §§ 13 - 16 austrjackiej ustawy giełdowej z r. 1875."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom Skarbu oraz Przemysłu i Handlu, zaś odnośnie do b. dzielnicy pruskiej - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_6-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_6-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_6-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_6-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_12-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_12-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_12-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_12-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_12-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_12-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_12-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_12-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_12-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_12-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_12-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"arti_12-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_13-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_13-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_13-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_18-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_18-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_18-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_18-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_18-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_18-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_18-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_18-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

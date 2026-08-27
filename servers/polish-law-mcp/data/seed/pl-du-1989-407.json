@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1989-407",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 grudnia 1989 r. o utworzeniu urzędu Ministra Transportu i Gospodarki Morskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1989-407",
+  "status": "repealed",
+  "issued_date": "1989-12-01",
+  "in_force_date": "1989-12-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/407",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Transportu i Gospodarki Morskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Transportu i Gospodarki Morskiej realizuje politykę państwa w zakresie funkcjonowania oraz rozwoju transportu i gospodarki morskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do zakresu działania Ministra Transportu i Gospodarki Morskiej należą w szczególności sprawy: 1) tworzenia warunków do budowy, utrzymania i eksploatacji kolei, dróg publicznych, portów lotniczych i morskich, 2) ruchu drogowego i lotniczego oraz żeglugi morskiej i śródlądowej, 3) przewozu osób i rzeczy środkami transportu kolejowego, samochodowego, morskiego, lotniczego i żeglugi śródlądowej, 4) rybołówstwa morskiego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Minister Transportu i Gospodarki Morskiej wykonuje swoje zadania w szczególności przez: 1) opracowywanie założeń polityki państwa w zakresie transportu i gospodarki morskiej, 2) udział w planowaniu społeczno-gospodarczym i finansowym, 3) inicjowanie przedsięwzięć i tworzenie warunków ekonomiczno-finansowych, organizacyjnych i technicznych w celu zapewnienia właściwego funkcjonowania transportu, jego systemów i gospodarki morskiej, 4) zapewnianie warunków i udział w kształtowaniu zasad współpracy gospodarczej z zagranicą oraz inicjowanie i realizacja porozumień międzynarodowych w zakresie transportu i gospodarki morskiej, 5) tworzenie warunków rozwoju rybołówstwa morskiego oraz racjonalnego korzystania z zasobów morza. 2. Minister Transportu i Gospodarki Morskiej ogłasza taryfy i wysokości należności za usługi związane z przewozem w Dzienniku Urzędowym Ministerstwa Transportu i Gospodarki Morskiej. 3. Minister Transportu i Gospodarki Morskiej, stosownie do ustalonego ustawą zakresu działania, wykonuje zadania z zakresu obronności i bezpieczeństwa państwa oraz inne zadania określone w ustawach szczególnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Ministrów, w drodze rozporządzenia, może określić szczegółowy zakres działania Ministra Transportu i Gospodarki Morskiej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Organizację Ministerstwa Transportu i Gospodarki Morskiej, wykaz jednostek organizacyjnych podporządkowanych Ministrowi Transportu i Gospodarki Morskiej oraz przedsiębiorstw państwowych, dla których Minister Transportu i Gospodarki Morskiej jest organem założycielskim - określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Znosi się urząd Ministra Transportu, Żeglugi i Łączności. 2. Określone w odrębnych przepisach sprawy należące do Ministra Transportu, Żeglugi i Łączności, w zakresie ustalonym ustawą, przechodzą do zakresu działania Ministra Transportu i Gospodarki Morskiej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Transportu i Gospodarki Morskiej, stosownie do ustalonego ustawą zakresu działania, staje się z dniem wejścia w życie ustawy organem założycielskim przedsiębiorstw państwowych, dla których dotychczas takim organem był Minister Transportu, Żeglugi i Łączności."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Traci moc ustawa z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Transportu, Żeglugi i Łączności ( Dz. U. Nr 33, poz. 174 ) ."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_4-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

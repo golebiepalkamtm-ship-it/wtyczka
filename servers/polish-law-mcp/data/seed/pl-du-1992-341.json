@@ -1,0 +1,416 @@
+{
+  "id": "pl-du-1992-341",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 lipca 1992 r. o grach losowych i zakładach wzajemnych.",
+  "title_en": "",
+  "short_name": "pl-du-1992-341",
+  "status": "repealed",
+  "issued_date": "1992-07-29",
+  "in_force_date": "1992-09-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/341",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa warunki urządzania i zasady prowadzenia działalności w zakresie gier losowych i zakładów wzajemnych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Grami losowymi są gry o wygrane pieniężne lub rzeczowe, których wynik zależy od przypadku, a warunki gry określa regulamin. Są to: 1) gry liczbowe, w których wygraną uzyskuje się przez prawidłowe wytypowanie liczb, znaków lub innych wyróżników, a wysokość wygranych zależy od łącznej kwoty wpłaconych stawek, 2) loterie pieniężne, w których uczestniczy się poprzez nabycie losu lub innego dowodu udziału w grze, a podmiot urządzający loterię oferuje wyłącznie wygrane pieniężne, 3) loterie fantowe, w których uczestniczy się poprzez nabycie losu lub innego dowodu udziału w grze, a podmiot urządzający loterię oferuje wyłącznie wygrane rzeczowe, 4) gry cylindryczne, w których uczestniczy się w grze poprzez wytypowanie liczb, znaków lub innych wyróżników, a wysokość wygranej zależy od z góry określonego stosunku wpłaty do wygranej, wynik zaś gry ustalany jest za pomocą urządzenia obrotowego, 5) gry w karty: black jack, poker, baccarat, 6) gry w automatach losowych, prowadzone na urządzeniach, które rozstrzygają o wygranej lub przegranej, 7) gra bingo pieniężne, w której uczestniczy się poprzez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urządzający grę oferuje wyłącznie wygrane pieniężne, których wysokość zależy od łącznej kwoty wpłaconych stawek, 8) gra bingo fantowe, w której uczestniczy się poprzez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urządzający grę oferuje wyłącznie wygrane rzeczowe. 2. Zakładami wzajemnymi są zakłady o wygrane pieniężne, polegające na odgadywaniu: 1) wyników sportowego współzawodnictwa ludzi lub zwierząt, w których uczestnicy wpłacają stawki, a wysokość wygranej zależy od łącznej kwoty wpłaconych stawek - totalizatory, 2) zaistnienia różnych zdarzeń, w których uczestnicy wpłacają stawki, a wysokość wygranych zależy od umówionego, pomiędzy przyjmującym zakład a wpłacającym stawkę, stosunku wpłaty do wygranej - bukmacherstwo. 3. Minister Finansów rozstrzyga w drodze decyzji, czy gra lub zakład wzajemny nie wymienione w ust. 1 i 2 jest grą losową lub zakładem wzajemnym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Urządzanie i prowadzenie działalności w zakresie gier i zakładów, o których mowa w art. 2, dozwolone jest wyłącznie na zasadach określonych w ustawie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Prowadzenie działalności w zakresie gier liczbowych i loterii pieniężnych stanowi monopol Państwa. 2. Wykonywanie monopolu należy do Ministra Finansów, który w tym celu tworzy jednoosobowe spółki Skarbu Państwa lub powołuje inne jednostki organizacyjne. 3. Do prowadzenia działalności, o której mowa w ust. 1, nie mają zastosowania przepisy o przeciwdziałaniu praktykom monopolistycznym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Działalność w zakresie gier cylindrycznych, gier w karty, gier w automatach losowych, gry bingo pieniężne oraz zakładów wzajemnych może być prowadzona w formie spółki akcyjnej lub spółki z ograniczoną odpowiedzialnością mającej siedzibę na terytorium Rzeczypospolitej Polskiej, której akcjonariuszami (udziałowcami) są wyłącznie osoby krajowe, nie będące osobami zależnymi od podmiotów zagranicznych w rozumieniu przepisów o spółkach z udziałem zagranicznym. 2. Do spółek, o których mowa w ust. 1, stosuje się przepisy Kodeksu handlowego , chyba że ustawa stanowi inaczej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Loterie fantowe i gry bingo fantowe mogą być urządzane przez osoby prawne lub jednostki organizacyjne nie posiadające osobowości prawnej na podstawie udzielonego zezwolenia. 2. Gry, o których mowa w ust. 1, mogą być urządzane jednorazowo i w skali lokalnej. 3. Dochód z loterii fantowej i gry bingo fantowe przeznaczany jest w całości na realizację określonych w zezwoleniu i regulaminie gry celów społecznie użytecznych, w szczególności dobroczynnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Urządzanie gier cylindrycznych i gier w karty dozwolone jest wyłącznie w kasynach gry, a gier w automatach losowych - w kasynach gry lub w salonach gier w automatach losowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Zabrania się reklamowania na terytorium kraju gier losowych i zakładów wzajemnych określonych w art. 2 ust. 1 pkt 4-7 i ust. 2, przez co rozumie się zachęcanie do udziału w grach i zakładach, przekonywanie o ich zaletach, miejscach, w których są urządzane, i możliwościach uczestnictwa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ilekroć w ustawie jest mowa o: 1) ośrodkach gier - rozumie się przez to: a) kasyno gry - jako miejsce, w którym prowadzi się gry cylindryczne, gry w karty lub gry w automatach losowych na podstawie zatwierdzonego regulaminu, a ilość zainstalowanych automatów losowych nie przekracza 25 sztuk, b) salon gier w automatach losowych - jako miejsce, w którym prowadzi się gry w automatach losowych na podstawie zatwierdzonego regulaminu, a ilość zainstalowanych automatów losowych wynosi od 25 do 50 sztuk, c) salon gry bingo pieniężne - jako miejsce, w którym prowadzi się grę bingo pieniężne na podstawie zatwierdzonego regulaminu, 2) punkcie przyjmowania zakładów wzajemnych - rozumie się przez to miejsce, w którym przyjmowane są zakłady totalizatora lub bukmacherstwa na podstawie zatwierdzonego regulaminu. Rozdział 2 Urządzanie gier losowych i zakładów wzajemnych"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Wartość wygranej w grze losowej lub zakładzie wzajemnym nie może być niższa od ceny losu lub innego dowodu udziału w grze albo kwoty wpłaconej stawki. 2. Ogólna wartość wygranych w grze liczbowej, totalizatorze i grze bingo pieniężne nie może być niższa niż 50% kwoty wpłaconych stawek, a w loterii pieniężnej oraz fantowej - niższa niż 30% łącznej ceny przeznaczonych do sprzedaży losów lub innych dowodów udziału w grze."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Wygrane w grach losowych lub zakładach wzajemnych wypłaca (wydaje) się okazicielom losów lub innych dowodów udziału w grze lub zakładzie, za zwrotem tych dowodów, chyba że regulamin gry losowej lub zakładu stanowi inaczej. 2. Podmiot urządzający gry lub zakłady wzajemne nie ma obowiązku badania uprawnień okaziciela losu lub innego dowodu udziału w grze lub zakładzie, może jednak wstrzymać wypłatę (wydanie) wygranej na okres nie przekraczający 30 dni, jeśli zachodzą wątpliwości co do uprawnień okaziciela do rozporządzenia losem (dowodem); w przypadku nieuzasadnionego wstrzymania wypłaty wygranej, podmiot urządzający grę lub zakład obowiązany jest doliczyć ustawowe odsetki za okres wstrzymania wypłaty. 3. Nie dokonuje się wypłaty (wydania) wygranej na podstawie losu lub innego dowodu udziału w grze losowej lub zakładzie wzajemnym, którego autentyczności lub numeru nie można stwierdzić. 4. W razie utraty lub zniszczenia losu bądź innego dowodu udziału w grze, wystawionego imiennie albo na okaziciela, stwierdzającego udział w grze losowej lub zakładzie wzajemnym, ich uczestnikowi nie służą żadne roszczenia wobec podmiotu urządzającego grę losową lub zakład wzajemny, chyba że regulamin tej gry lub zakładu stanowi inaczej. 5. Podmiot urządzający grę losową lub zakład wzajemny obowiązany jest, na żądanie uczestnika gry lub zakładu, wystawić imienne zaświadczenie o uzyskanej przez niego wygranej; zaświadczenie jest drukiem ścisłego zarachowania. 6. Wysokość wygranej bądź przegranej w grze losowej lub zakładzie wzajemnym stanowi tajemnicę uczestnika, której obowiązany jest przestrzegać podmiot urządzający gry losowe lub zakłady wzajemne; informacje o wysokości wygranej bądź przegranej są ujawniane wyłącznie na żądanie Ministra Finansów oraz inspektora kontroli skarbowej, a także sądu i prokuratury w związku z toczącym się postępowaniem. 7. Minister Finansów określi, w drodze zarządzenia, wzór zaświadczenia, o którym mowa w ust. 5, oraz zasady jego ewidencjonowania."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Roszczenia z gry losowej lub zakładu wzajemnego przedawniają się z upływem terminu ustalonego w regulaminie gry lub zakładu. 2. Termin, o którym mowa w ust. 1, nie może być krótszy niż siedem dni i dłuższy niż sześć miesięcy i biegnie od dnia, w którym roszczenie stosownie do regulaminu stało się wymagalne. 3. W razie zgłoszenia roszczenia w terminie, bieg terminu przedawnienia rozpoczyna się od dnia zakończenia postępowania reklamacyjnego; w przypadku wstrzymania wypłaty (wydania) wygranej na podstawie art. 11 ust. 2 - z upływem okresu, na który wstrzymano wypłatę (wydanie)."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Podmiot ubiegający się o zezwolenie na urządzanie gier lub prowadzenie działalności w zakresie gier losowych lub zakładów wzajemnych przedstawia Ministrowi Finansów projekt regulaminu gry lub zakładu wzajemnego. 2. Regulamin gry losowej lub zakładu wzajemnego zatwierdza Minister Finansów w terminie określonym w art. 34. 3. Każda zmiana regulaminu gry losowej i zakładu wzajemnego wymaga zatwierdzenia przez Ministra Finansów. 4. Regulamin gry losowej lub zakładu wzajemnego określa: 1) szczegółowe warunki gry lub zakładu, 2) prawa i obowiązki uczestników, 3) nazwę podmiotu urządzającego grę lub zakład, 4) zasady i tryb składania i rozpatrywania roszczeń wnoszonych przez uczestników gry lub zakładu, 5) wysokość kapitału gry lub zakładu przeznaczonego do natychmiastowej wypłaty wygranych. 5. Podmiot urządzający gry lub zakłady jest obowiązany zapewnić uczestnikom możliwość zapoznania się z treścią regulaminu. 6. Minister Finansów, w drodze rozporządzenia, może przekazać określonym izbom lub urzędom skarbowym uprawnienia do zatwierdzania regulaminów oraz dokonywania w nich zmian, przedstawianych przez podmioty, o których mowa w art. 6 ust. 1."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Spółki urządzające grę bingo pieniężne są obowiązane nabywać kartony używane do gry od podmiotu gospodarczego upoważnionego przez Ministra Finansów."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Spółki ubiegające się o zezwolenie na prowadzenie zakładów wzajemnych lub zmianę jego warunków, dotyczących wyników sportowego współzawodnictwa ludzi lub zwierząt, obowiązane są uzyskać zgodę organizatorów takiego współzawodnictwa na wykorzystanie jego wyników."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Minister Finansów określi, w drodze rozporządzenia: 1) ogólne warunki urządzania gier losowych i zakładów wzajemnych, 2) warunki dopuszczenia do eksploatacji i użytkowania na terytorium Rzeczypospolitej Polskiej automatów losowych i innych urządzeń do gier losowych, 3) warunki produkcji i sprzedaży kartonów do gry bingo pieniężne."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Wstęp do ośrodków gier oraz do punktów przyjmowania zakładów bukmacherskich dozwolony jest dla osób, które ukończyły 18 lat. 2. W kasynie gry oraz salonie gry bingo pieniężne pobiera się każdorazowo od osób wchodzących do ośrodków gier opłatę: 1) w kasynie gry - w wysokości średniej wartości najniższych stawek stosowanych w poszczególnych rodzajach gier cylindrycznych, 2) w salonie gry bingo pieniężne - w wysokości odpowiadającej najniższej cenie za używany do gry karton. 3. Inkasentem opłaty, o której mowa w ust. 2, jest osoba sprawująca zarząd nad kasynem gry lub salonem gry bingo pieniężne. 4. Pobrane opłaty inkasent wpłaca na rachunek urzędu skarbowego właściwego ze względu na lokalizację ośrodka gier, w terminie do dnia dziesiątego następnego miesiąca po upływie miesiąca, w którym pobrano opłatę. 5. Opłata, o której mowa w ust. 2, stanowi dochód budżetu państwa; do jej poboru stosuje się przepisy o zobowiązaniach podatkowych. 6. Przepis ust. 2 nie dotyczy osób upoważnionych przez Ministra Finansów do sprawowania nadzoru i kontroli oraz inspektorów kontroli skarbowej. 7. Osoba sprawująca zarząd nad kasynem gry lub salonem gry bingo pieniężne może wyrazić zgodę na wejście do tych ośrodków gier osobie, której celem przebywania w ośrodku jest chęć załatwienia lub wyjaśnienia roszczeń wynikających z uczestnictwa w grze."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. W kasynach gry oraz w salonach gry bingo pieniężne prowadzi się, na koszt podmiotu urządzającego grę, rejestrację gości. 2. Rejestracja jest warunkiem wstępu do ośrodków gier, o których mowa w ust. 1, i polega na zapisywaniu, gromadzeniu i każdorazowym sprawdzaniu następujących danych osobowych wchodzących do ośrodka gry: 1) imienia i nazwiska, 2) daty i miejsca urodzenia, 3) numeru, serii i cech dokumentów tożsamości. 3. Po uiszczeniu opłaty, o której mowa w art. 17 ust. 2, i dokonaniu rejestracji osoba wchodząca do ośrodka gier otrzymuje imienny dowód uiszczenia opłaty, będący jednocześnie jednorazową kartą wstępu. 4. Od obowiązku określonego w ust. 1 zwolnione są osoby, o których mowa w art. 17 ust. 6. 5. Dane wynikające z rejestracji są udostępniane wyłącznie Ministrowi Finansów, sądom i prokuraturze."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Osoby sprawujące zarząd nad ośrodkami gier, osoby zatrudnione w celu sprawowania nadzoru nad grami losowymi i zakładami wzajemnymi oraz bezpośrednio prowadzące gry obowiązane są posiadać nienaganną opinię, odpowiednią wiedzę i doświadczenie zawodowe potwierdzone świadectwem zawodowym oraz nie mogą być karane za przestępstwa z winy umyślnej. 2. Minister Finansów określa, w drodze rozporządzenia, stanowiska, o których mowa w ust. 1, oraz ustala zasady weryfikacji osób zajmujących te stanowiska."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Świadectwa zawodowe, o których mowa w art. 19 ust. 1, wydaje Minister Finansów na podstawie egzaminu złożonego przed komisją egzaminacyjną. 2. Minister Finansów może uznać za ważne na terytorium Rzeczypospolitej Polskiej świadectwa wydane przez właściwą władzę innego państwa bądź przez wyspecjalizowaną organizację prowadzącą szkolenie w zakresie gier losowych i zakładów wzajemnych. 3. Minister Finansów określa, w drodze rozporządzenia, zakres uprawnień związanych z uzyskanym świadectwem zawodowym oraz ustala skład komisji i warunki przeprowadzania egzaminu, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Spółka może zatrudniać na stanowiskach związanych z bezpośrednim prowadzeniem gier losowych i zakładów wzajemnych osoby nie mające polskiego obywatelstwa lub karty stałego pobytu w Polsce, przez okres jednego roku licząc od dnia podjęcia działalności. 2. Przepisu ust. 1 nie stosuje się do osób będących obywatelami państwa, w którym obowiązuje zasada wzajemności w odniesieniu do zatrudniania przy prowadzeniu gier losowych i zakładów wzajemnych obywateli polskich."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Spółka obowiązana jest do zainstalowania w kasynie gry systemu służącego kontroli całości czynności istotnych ze względu na prowadzenie kasyna, w tym umożliwiającego rozstrzyganie wątpliwości związanych z urządzanymi grami, za pomocą magnetycznego zapisu obrazu. 2. Zapis obrazu, o którym mowa w ust. 1, udostępniany jest wyłącznie osobom upoważnionym przez Ministra Finansów do sprawowania nadzoru i kontroli lub uczestnikom gry zgłaszającym reklamacje. 3. Minister Finansów określa, w drodze zarządzenia, szczegółowe warunki instalacji i wykorzystania systemu, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Każdy ośrodek gier powinien posiadać niezależne od sieci ogólnodostępnej zapasowe źródła energii elektrycznej oraz instalacje przeciwzakłóceniowe zapewniające ciągły i niezakłócony przebieg gier. Rozdział 3 Udzielanie zezwoleń"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Zezwolenia na urządzanie i prowadzenie działalności w zakresie gier losowych i zakładów wzajemnych udziela Minister Finansów. 2. Minister Finansów, w drodze rozporządzenia, ustali zasady przetargu (konkursu ofert), w wypadku gdy o zezwolenia ubiega się więcej niż jeden podmiot spełniający określone w ustawie warunki. 3. Minister Finansów, w drodze rozporządzenia, może przekazać określonym izbom skarbowym lub urzędom skarbowym uprawnienie do wydawania zezwoleń na urządzanie gier losowych przez podmioty wymienione w art. 6 ust. 1 oraz określić szczegółowe warunki ich przyznawania."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Wysokość kapitału spółki akcyjnej lub spółki z ograniczoną odpowiedzialnością nie może wynosić mniej niż: 1) 20 mld złotych - gdy zezwolenie dotyczy prowadzenia kasyna gry, 2) 13 mld złotych - gdy zezwolenie dotyczy prowadzenia salonu gier w automatach losowych, salonu bingo pieniężne lub przyjmowania zakładów wzajemnych."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. W spółkach prowadzących działalność w zakresie gier losowych i zakładów wzajemnych powołuje się rady nadzorcze. 2. Za wkłady do kapitału akcyjnego spółki akcyjnej występującej z wnioskiem o udzielenie zezwolenia mogą być wydawane tylko akcje imienne. 3. Zbycie lub zastawienie udziału lub akcji w spółce prowadzącej działalność w zakresie gier losowych lub zakładów wzajemnych wymaga zezwolenia Ministra Finansów. 4. Przepisu ust. 3 nie stosuje się, jeżeli zbywca (zastawnik) oraz nabywca (zastawca) dysponują akcjami (udziałami), których wartość nie przekracza jednej setnej kapitału spółki."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. W spółkach prowadzących działalność w zakresie gier losowych lub zakładów wzajemnych nie może być akcji (udziałów) uprzywilejowanych, a maksymalna wysokość akcji (udziałów) jednego podmiotu nie może przekraczać jednej trzeciej wartości kapitału spółki. 2. Przepisu ust. 1 nie stosuje się do jednoosobowych spółek Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Spółka, która uzyskała zezwolenie na prowadzenie działalności w zakresie gier losowych i zakładów wzajemnych, nie może powierzać innemu podmiotowi (zagranicznemu lub krajowemu) wykonywania czynności związanych z prowadzeniem gier losowych i zakładów wzajemnych. 2. Urządzenia służące do prowadzenia gier losowych i zakładów wzajemnych w ośrodkach gier nie mogą stanowić własności osób trzecich."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Kasyna gry mogą być lokalizowane w miastach liczących: 1) od 250 do 500 tys. mieszkańców - jedno kasyno, 2) powyżej 500 do 1.500 tys. mieszkańców - dwa kasyna, 3) powyżej 1.500 tys. mieszkańców - trzy kasyna. 2. Salony gier w automatach losowych mogą być lokalizowane w miastach liczących: 1) od 100 do 200 tys. mieszkańców - 1 salon, 2) powyżej 200 do 300 tys. mieszkańców - 2 salony, 3) powyżej 300 do 500 tys. mieszkańców - 3 salony, 4) powyżej 500 do 700 tys. mieszkańców - 4 salony, 5) powyżej 700 do 1.000 tys. mieszkańców - 5 salonów, 6) powyżej 1.000 tys. mieszkańców - 6 salonów. 3. Liczbę mieszkańców, o której mowa w ust. 1 i 2, ustala się na podstawie danych ogłaszanych przez Prezesa Głównego Urzędu Statystycznego dla celów ewidencji i statystyki z roku poprzedzającego rok, w którym prowadzący gry złożył wniosek o udzielenie zezwolenia na prowadzenie kasyna gry lub salonu gier w automatach losowych. 4. Kasyna gry i salony gier w automatach losowych mogą być także lokalizowane na polskich pełnomorskich statkach pasażerskich i promach pasażerskich, pod warunkiem że gra prowadzona jest w czasie rejsu i rozpoczyna się w 30 minut po wypłynięciu z portu i kończy się 30 minut przed wpłynięciem do portu przeznaczenia."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Salony gry bingo pieniężne mogą być lokalizowane w miastach liczących: 1) od 100 do 300 tys. mieszkańców - 1 salon, 2) powyżej 300 do 500 tys. mieszkańców - 2 salony, 3) powyżej 500 do 1.000 tys. mieszkańców - 3 salony, 4) powyżej 1.000 do 1.500 tys. mieszkańców - 4 salony, 5) powyżej 1.500 tys. mieszkańców - 5 salonów. 2. Przepis art. 29 ust. 3 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. W miejscowościach turystycznych mogą być lokalizowane ośrodki gier, z tym że: 1) w jednej miejscowości turystycznej może być prowadzone jedno kasyno gry, jeden salon gry w automatach losowych i jeden salon gry bingo pieniężne, 2) ogólna liczba ośrodków gier w miejscowościach turystycznych nie może przekraczać 10 kasyn gry, 20 salonów gier w automatach losowych i 20 salonów gry bingo pieniężne. 2. Minister Finansów w porozumieniu z Prezesem Urzędu Kultury Fizycznej i Turystyki ustali, w drodze zarządzenia, listę miejscowości turystycznych, o których mowa w ust. 1. 3. Minister Finansów w porozumieniu z Prezesem Urzędu Kultury Fizycznej i Turystyki, na wniosek rady gminy, może uzupełnić listę miejscowości turystycznych, jeżeli na jej terenie zostały poczynione inwestycje umożliwiające pobyt osób w celach wypoczynkowych, zdrowotnych lub turystycznych."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Wniosek o udzielenie zezwolenia na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w automatach losowych, gry bingo pieniężne oraz zakładów wzajemnych powinien zawierać: 1) odpis aktu notarialnego umowy spółki lub statutu spółki akcyjnej oraz aktualny wypis z rejestru handlowego, 2) oznaczenie imienne udziałów i akcji z określoną ich wartością, 3) dane osobowe (imiona i nazwiska, wiek, obywatelstwo, miejsce zamieszkania, zawód, cechy dokumentu tożsamości) wspólników będących osobami fizycznymi, przedstawiających sobą co najmniej jedną setną wartości kapitału spółki, członków władz spółki (zarządu, rady nadzorczej) oraz osób sprawujących zarząd nad ośrodkami gier; w przypadku spółek osób prawnych należy podać również informację o obecnym i przeszłym statusie prawnym i o sytuacji finansowej, 4) opis usytuowania geograficznego budynku lub miejsca, w którym ma być ulokowany ośrodek gier, wyraźne określenie jego rozmiarów, wraz z planem i ogólnymi informacjami związanymi z konstrukcją, 5) odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), w którym urządzane będą gry lub zakłady, 6) przewidywaną datę rozpoczęcia działalności, 7) przewidywany rodzaj gier lub zakładów oraz ich liczbę, wraz z informacją o planowanej kolejności ich uruchomienia, 8) szacunkową wielkość zatrudnienia, z określeniem stanowisk pracy; w przypadku kasyna gry - wstępną umowę o pracę z osobą sprawującą zarząd nad ośrodkiem gier, 9) opis organizacji i funkcjonowania ośrodka gier lub punktu przyjmowania zakładu wzajemnego, w szczególności zasady przechowywania i ewidencjonowania kapitału gry lub zakładu, 10) studium ekonomiczno-finansowe, zawierające co najmniej określenie inwestycji i przewidywanej rentowności, 11) projekty regulaminów gier, w szczególności zasady postępowania reklamacyjnego, o którym mowa w art. 12, 12) projekt systemu służącego rejestracji gości wchodzących do ośrodków gier, 13) proponowane warunki złożenia zabezpieczenia określonego w art. 38, 14) zgodę, o której mowa w art. 15, 15) opinię rady gminy o lokalizacji ośrodka gier. 2. Wniosek o udzielenie zezwolenia na urządzenie loterii fantowej i gry bingo fantowe powinien zawierać: 1) określenie rodzaju gry, 2) nazwę i status prawny podmiotu występującego z wnioskiem, 3) dane osobowe (imiona i nazwiska, wiek, obywatelstwo, miejsce zamieszkania, zawód, cechy dokumentu tożsamości) osób zarządzających podmiotem występującym z wnioskiem, 4) określenie obszaru, na którym planowane jest urządzenie gry, 5) określenie czasu, w którym planuje się urządzenie gry, 6) dokładne wyznaczenie celu, na który przeznaczy się dochód z urządzanej gry, 7) określenie planowanej wielkości sprzedaży losów lub kartonów, 8) gwarancje wypłacalności nagród, 9) projekt regulaminu gry, w szczególności zasady postępowania reklamacyjnego, o którym mowa w art. 12."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Osoby fizyczne będące wspólnikami spółki, przedstawiające sobą jedną setną kapitału, oraz członkami władz (zarządu, rady nadzorczej) spółki ubiegającej się o zezwolenie, a także osoby fizyczne zarządzające lub reprezentujące podmiot ubiegający się o zezwolenie na urządzanie loterii fantowych i gry bingo fantowe powinny posiadać nienaganną opinię, w szczególności muszą przedstawić zaświadczenie, że nie były karane za przestępstwa z winy umyślnej. 2. Przepis ust. 1 stosuje się również do osób wymienionych w art. 21 oraz do innych fizycznych osób zagranicznych. Osoby te powinny przedstawić odpowiednie, uwierzytelnione świadectwa, wystawione przez właściwe władze państwa, którego są obywatelami lub stałymi mieszkańcami."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Rozpatrzenie wniosków o udzielenie zezwolenia oraz zatwierdzenie regulaminów gier lub zakładów powinno nastąpić nie później niż w ciągu 6 miesięcy od dnia złożenia wniosku."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Zezwolenie na prowadzenie działalności w zakresie gier cylindrycznych, gier w karty, gier w automatach losowych, gry bingo pieniężne oraz zakładów wzajemnych obejmuje: 1) nazwę spółki, 2) zatwierdzoną strukturę udziałów lub akcji imiennych, a także nazwiska członków zarządu i rady nadzorczej spółki, 3) miejsce urządzania gier lub zakładów, ze wskazaniem właściciela budynku (obiektu), w którym są urządzane, 4) rodzaj i ilość urządzanych gier lub zakładów, 5) warunki, które powinna spełniać spółka, w szczególności dotyczące zabezpieczeń, o których mowa w art. 38, 6) zatwierdzone warunki techniczne prowadzenia rejestracji gości, o której mowa w art. 18 ust. 2, 7) nieprzekraczalny termin rozpoczęcia działalności. 2. Zezwolenie wygasa, jeżeli w okresie roku od jego udzielenia spółka nie podjęła działalności w terminie, o którym mowa w ust. 1 pkt 7. 3. Zezwolenie na urządzenie loterii fantowej i gry bingo fantowe obejmuje: 1) nazwę podmiotu urządzającego grę, 2) nazwę gry, 3) nazwiska osób zarządzających podmiotem urządzającym grę, 4) teren, na którym gra będzie urządzana, 5) czas urządzania gry, 6) cel, na który przeznacza się dochód, 7) planowaną wielkość sprzedaży losów lub kartonów. 4. Do zezwoleń, o których mowa w ust. 1 i 3, dołącza się zatwierdzone regulaminy gier lub zakładów."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Zezwolenia udziela się na okres 3 lat. 2. Zezwolenie może być udzielone na okres dłuższy, nie przekraczający jednak 6 lat, jeżeli gry losowe lub zakłady wzajemne będą urządzane w obiekcie wybudowanym po udzieleniu zezwolenia lub w budynku, którego adaptacja wiązałaby się z koniecznością przeprowadzenia kapitalnego remontu. 3. Podmiot, któremu wygasa zezwolenie, może wystąpić o jego przedłużenie na okres kolejnych 3 lat. 4. Wniosek o przedłużenie zezwolenia składa się nie później niż na sześć miesięcy przed wygaśnięciem zezwolenia i nie wcześniej niż na rok przed upływem tego terminu."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Jedno zezwolenie jest udzielane na jeden ośrodek gier albo na określoną w zezwoleniu liczbę punktów przyjmowania zakładów wzajemnych."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Spółka, której udzielono zezwolenia, jest zobowiązana do złożenia w terminie określonym w zezwoleniu finansowego zabezpieczenia w wysokości: 1) 7 mld złotych - na kasyno gry, 2) 3 mld złotych - na salon gier w automatach losowych, 3) 3 mld złotych - na salon gry bingo pieniężne, 4) 200 mln złotych - na punkt przyjmowania zakładów bukmacherskich. 2. Zabezpieczenia są składane zgodnie z poniższą tabelą: Liczba (kasyn, salonów lub punktów) Krotność zabezpieczeń od 1 do 3 1 zabezpieczenie od 4 do 6 2 zabezpieczenia od 7 do 9 3 zabezpieczenia od 10 do 20 4 zabezpieczenia od 21 do 30 5 zabezpieczeń od 31 do 40 i więcej 6 zabezpieczeń z tym że krotność zabezpieczeń zwiększa się o 1 na każde 10 ośrodków. 3. Zabezpieczenia, o których mowa w ust. 1 i 2, zapewniają ochronę interesu finansowego uczestników gier i zakładów oraz służą do zaspokajania innych ewentualnych roszczeń, w tym zwłaszcza z tytułu zobowiązań podatkowych. 4. Zabezpieczenia, o których mowa w ust. 1 i 2, mogą polegać na: 1) zawarciu umowy ubezpieczeniowej z instytucją ubezpieczeniową na warunkach zaakceptowanych przez organ udzielający zezwolenia lub 2) przedstawieniu gwarancji bankowych na warunkach zaakceptowanych przez organ udzielający zezwolenia albo 3) złożeniu właściwej kwoty na rachunku bankowym wskazanym przez organ udzielający zezwoleń; kwota ta, wraz z odsetkami, podlega zwrotowi po wygaśnięciu zezwolenia, chyba że została przeznaczona na zaspokojenie roszczeń określonych w ust. 3, albo 4) zabezpieczeniu hipotecznym na nieruchomościach (lub prawie wieczystego użytkowania) stanowiących własność spółki. 5. Minister Finansów określa, w drodze rozporządzenia, szczegółowe warunki dokonywania zabezpieczeń, o których mowa w ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Podmiot urządzający gry losowe lub zakłady wzajemne uiszcza opłaty za udzielone zezwolenie oraz za złożenie egzaminu i wydanie świadectwa zawodowego osobom, o których mowa w art. 19 ust. 1. 2. Opłaty, o których mowa w ust. 1, wpłacane są na wyodrębniony rachunek Ministra Finansów z przeznaczeniem na zapewnienie efektywności postępowania wnioskowego i usprawnienie nadzoru i kontroli podmiotów urządzających gry losowe i zakłady wzajemne, z uwzględnieniem premii dla pracowników nadzoru. 3. Minister Finansów określa, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, oraz zasady rozdysponowania tych opłat na cele wymienione w ust. 2. Rozdział 4 Podatek od gier"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Podmioty urządzające gry i prowadzące działalność w zakresie gier losowych i zakładów wzajemnych podlegają opodatkowaniu podatkiem od gier. 2. Obowiązek podatkowy w podatku od gier powstaje z chwilą rozpoczęcia wykonywania działalności. 3. Obowiązek podatkowy, o którym mowa w ust. 2, kończy się z chwilą zaprzestania wykonywania działalności."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Podatek od gier stanowi dochód budżetu państwa. 2. Dochody z tytułu podatku, o którym mowa w ust. 1, w zakresie dotyczącym zakładów wzajemnych polegających na odgadywaniu wyników sportowego współzawodnictwa pozostawia się do dyspozycji Prezesa Urzędu Kultury Fizycznej i Turystyki."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Podstawę opodatkowania podatkiem od gier stanowi: 1) w loteriach - suma wpływów uzyskanych ze sprzedaży losów lub innych dowodów udziału w grze, 2) w grach liczbowych - suma wpłaconych stawek, 3) w grze bingo pieniężne - wartość nominalna kartonów zakupionych przez spółkę, 4) w grze bingo fantowe - wartość nominalna kartonów użytych do gry, 5) w grach cylindrycznych, grach w karty black jack, baccarat - kwota stanowiąca różnicę pomiędzy sumą wpłat gotówkowych z tytułu wymiany żetonów w kasie i na stole gry a sumą wypłaconych z kasy kwot za zwrócone żetony, 6) w automatach losowych - kwota stanowiąca różnicę pomiędzy kwotą uzyskaną z wymiany żetonów użytych do gry a sumą wygranych uzyskanych przez uczestników gier, 7) w pokerze, w którym uczestnicy grają pomiędzy sobą, a kasyno urządza grę - suma wpływów kasyna z tego tytułu, 8) w zakładach wzajemnych - suma wpłaconych stawek."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Minister Finansów określa, w drodze rozporządzenia, zasady obliczania podatku od gier, terminy i tryb płatności oraz tryb sporządzania i przedstawiania organom podatkowym rozliczeń tego podatku. 2. Właściwość miejscową organów podatkowych w sprawach podatku od gier, z zastrzeżeniem art. 44 ust. 1, ustala się: 1) według miejsca lokalizacji ośrodka gier, 2) według siedziby podmiotu prowadzącego zakłady wzajemne, gry liczbowe lub loterie pieniężne, 3) według siedziby organu, który wydał zezwolenie na urządzanie loterii fantowej lub gry bingo fantowe."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Podmiot gospodarczy, o którym mowa w art. 14, jest obowiązany obliczać należny podatek od gier przy sprzedaży kartonów do gry bingo pieniężne spółce urządzającej grę i przekazywać pobrany podatek na rachunek urzędu skarbowego właściwego ze względu na siedzibę płatnika w terminie 23 dni po upływie miesiąca, w którym pobrano podatek. 2. Podmiot gospodarczy określony w ust. 1 jako płatnik podatku od gier obowiązany jest uzależnić wydanie kartonów od uprzedniego uiszczenia tego podatku."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Stawka podatku od gier wynosi dla: 1) loterii fantowych, gry bingo fantowe i zakładów wzajemnych - 10%, 2) loterii pieniężnej, gry liczbowej, gry bingo pieniężne - 15%, 3) gier prowadzonych w kasynach gry oraz w salonach gier w automatach losowych - 45%."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Podmioty urządzające gry i prowadzące działalność w zakresie gier losowych i zakładów wzajemnych obowiązane są prowadzić księgi w sposób zapewniający ustalanie podstawy opodatkowania oraz obliczanie wysokości należnego podatku. 2. Minister Finansów określa, w drodze zarządzenia, zasady prowadzenia ksiąg, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Obowiązek podatkowy w innych podatkach i opłatach określają odrębne ustawy. Rozdział 5 Nadzór i kontrola"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. Minister Finansów sprawuje nadzór i kontrolę nad działalnością podmiotów urządzających i prowadzących gry losowe lub zakłady wzajemne w zakresie zgodności tej działalności z przepisami ustawy, udzielonym zezwoleniem oraz regulaminem gry losowej lub zakładu wzajemnego; uzasadnione koszty nadzoru ponosi podmiot prowadzący gry losowe lub zakłady wzajemne. 2. Minister Finansów, w drodze rozporządzenia, może przekazać zakres swoich uprawnień określonych w ust. 1 izbom lub urzędom skarbowym w stosunku do podmiotów, o których mowa w art. 6 ust. 1. 3. Minister Finansów sprawuje również specjalny nadzór podatkowy związany z kontrolą obliczania rezultatów gry na stołach i w automatach losowych."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Podmioty urządzające gry i prowadzące działalność w zakresie gier losowych lub zakładów wzajemnych obowiązane są, na każde wezwanie, umożliwić osobom upoważnionym przez Ministra Finansów dokonanie wszystkich czynności niezbędnych dla zagwarantowania skuteczności nadzoru i kontroli, a w szczególności: 1) udostępnić obiekty i urządzenia służące do prowadzenia gry lub zakładu, 2) zapewnić wgląd w dokumentację i umożliwić sporządzanie kopii niezbędnych dokumentów, 3) umożliwić na czas kontroli korzystanie z pomieszczeń wydzielonych w ośrodkach gier, 4) umożliwić filmowanie i fotografowanie oraz dokonywanie nagrań dźwiękowych, jeżeli film, fotografia lub nagranie dźwiękowe może stanowić dowód lub przyczynić się do utrwalenia dowodu w sprawie będącej przedmiotem kontroli, 5) udostępnić środki łączności lub konieczne środki techniczne, jakimi dysponuje, w zakresie czynności związanych z wykonywanym nadzorem i kontrolą, 6) udzielać wszystkich wyjaśnień w sprawach mieszczących się w zakresie nadzoru i kontroli. 2. Przy dokonywaniu czynności nadzorczych, o których mowa w ust. 1, stosuje się odpowiednio przepisy o kontroli skarbowej."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. W toku wykonywania czynności związanych z nadzorem i kontrolą osoba upoważniona przez Ministra Finansów może w szczególności: 1) badać dokumenty i ewidencję, 2) legitymować osoby w ośrodkach gier w celu ustalenia tożsamości, 3) przesłuchiwać świadków, 4) zabezpieczać zebrane dowody. 2. Osoby upoważnione przez Ministra Finansów, w związku z wykonywaniem czynności nadzorczych i kontrolnych, korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych. 3. Osoby, o których mowa w ust. 2, w czasie i w związku z wykonywaną czynnością nadzoru i kontroli, nie mogą być zatrzymane bez uprzedniej zgody Ministra Finansów; osoby te za wykroczenia związane z bezpośrednim pełnieniem obowiązków służbowych odpowiadają tylko dyscyplinarnie."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "W ramach sprawowanego nadzoru i kontroli Minister Finansów, w drodze rozporządzenia, może: 1) wprowadzić na szczególnych zasadach obowiązek prowadzenia ewidencji i obsługi kasowej wszystkich gier losowych i zakładów wzajemnych; w szczególności może ustalić procedurę związaną z otwarciem i zamknięciem stołów gry w kasynach gry oraz obliczanie rezultatów gry na stołach i w automatach, tam gdzie się one znajdują, 2) określać szczególne zasady prowadzenia rachunkowości odnośnie do wszystkich gier losowych i zakładów wzajemnych oraz określać warunki związane ze stałą kontrolą rachunkowości podmiotów urządzających gry, a w szczególności obowiązek składania okresowych sprawozdań rachunkowych, 3) szczegółowo określać obowiązki i ograniczenia niezbędne dla zagwarantowania skuteczności nadzoru wynikającego z przepisów ustawy, 4) określić zasady ewidencjonowania napiwków w kasynach gry."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. W razie stwierdzenia, że podmiot, któremu udzielono zezwolenia: 1) narusza ustawę, 2) uchybia przepisom regulaminów, 3) narusza warunki zezwolenia, Minister Finansów może wydać w formie decyzji polecenie usunięcia nieprawidłowości. 2. Minister Finansów cofa zezwolenie w przypadku: 1) niezastosowania się podmiotu do wydanego polecenia lub powtórnego wystąpienia okoliczności określonych w ust. 1, 2) obniżenia kapitału akcyjnego (zakładowego) spółki poniżej granicy określonej w art. 25. Rozdział 6 Zmiany w przepisach obowiązujących"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "W ustawie karnej skarbowej z dnia 26 października 1971 r. ( Dz. U. z 1984 r. Nr 22, poz. 103 , z 1985 r. Nr 23, poz. 100 , z 1990 r. Nr 14, poz. 84 i Nr 86, poz. 503 , z 1991 r. Nr 100, poz. 442 i Nr 107, poz. 458 oraz z 1992 r. Nr 21, poz. 85 ) przepisy działu II rozdziału 4 otrzymują brzmienie: „ Rozdział 4 Przestępstwa w zakresie gier losowych i zakładów wzajemnych Art. 117. § 1. Kto prowadzi działalność w zakresie gier losowych lub zakładów wzajemnych bez wymaganego zezwolenia lub w działalności takiej pośredniczy - podlega karze pozbawienia wolności do lat 3 lub grzywny do 1.500.000.000 zł albo obu tym karom łącznie. § 2. W wypadku określonym w § 1 podlegają przepadkowi stanowiące przedmiot przestępstwa skarbowego dokumenty i urządzenia gry losowej lub zakładu wzajemnego oraz wygrane, które na podstawie tych dokumentów przypadają grającym, a także pieniądze uzyskane ze sprzedaży udziału w grze i wpłaconych stawek. Art. 118. Kto urządza bez wymaganego zezwolenia loterię fantową lub grę bingo fantowe, podlega karze grzywny do 100.000.000 złotych. Art. 119. § 1. Kto uczestniczy w grach losowych i zakładach wzajemnych urządzanych bez wymaganego zezwolenia, podlega karze grzywny do 50.000.000 złotych. § 2. Art. 117 § 2 stosuje się odpowiednio. Art. 120. Kto urządza grę losową lub zakład wzajemny niezgodnie z przepisami o grach losowych i zakładach wzajemnych lub z regulaminem gry lub zakładu wzajemnego, podlega karze grzywny do 500.000.000 złotych. Art. 121. Kto nie będąc do tego uprawniony z chęci osiągnięcia korzyści majątkowej trudni się sprzedażą losów lub innych dowodów udziału w grze losowej lub w zakładzie wzajemnym, podlega karze ograniczenia wolności lub grzywny do 20.000.000 złotych albo obu tym karom łącznie. ”"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych oraz o zmianie niektórych ustaw regulujących zasady opodatkowania ( Dz. U. Nr 21, poz. 86 i Nr 40, poz. 174 ) w art. 17 w ust. 1 dodaje się pkt 16 w brzmieniu: „ 16) dochody z tytułu prowadzenia loterii fantowych i gry bingo fantowe na podstawie zezwolenia wydanego na mocy odrębnych przepisów. ”"
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. Nr 80, poz. 350 i Nr 100, poz. 442 oraz z 1992 r. Nr 21, poz. 86 ) w art. 21 w ust. 1 wprowadza się następujące zmiany: 1) pkt 6 otrzymuje brzmienie: „ 6) wygrane w grach losowych i zakładach wzajemnych urządzanych przez uprawniony podmiot, ” 2) w pkt 36 na końcu kropkę zastępuje się przecinkiem i dodaje pkt 37 w brzmieniu: „ 37) dochody z tytułu urządzania loterii fantowych i gry bingo fantowe na podstawie zezwolenia wydanego na mocy odrębnych przepisów. ”"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "W ustawie z dnia 29 grudnia 1982 r. o urzędzie Ministra Finansów oraz urzędach i izbach skarbowych ( Dz. U. Nr 45, poz. 289 , z 1985 r. Nr 12, poz. 50 , z 1987 r. Nr 3, poz. 18 i Nr 33, poz. 180 , z 1988 r. Nr 16, poz. 112 i Nr 19, poz. 132 , z 1990 r. Nr 14, poz. 88 oraz z 1991 r. Nr 94, poz. 421 i Nr 100, poz. 442 ) w art. 2 pkt 17 otrzymuje brzmienie: „ 17) sprawowanie nadzoru i kontroli nad działalnością podmiotów urządzających i prowadzących gry losowe i zakłady wzajemne, ” . Rozdział 7 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Zezwolenia udzielone na podstawie ustawy z dnia 20 maja 1976 r. o grach losowych i totalizatorach ( Dz. U. Nr 19, poz. 122 i z 1982 r. Nr 7, poz. 54 ) wygasają w terminach określonych w ust. 2, z tym że do warunków urządzania i zasad prowadzenia działalności określonej w tych zezwoleniach stosuje się przepisy niniejszej ustawy. 2. Zezwolenia, o których mowa w ust. 1, wygasają: 1) zezwolenia udzielone spółkom z udziałem zagranicznym - z dniem wejścia w życie ustawy, 2) zezwolenia udzielone spółkom z wyłącznym udziałem osób krajowych - w terminie 12 miesięcy licząc od dnia wejścia w życie ustawy, 3) zezwolenia udzielone pozostałym podmiotom - w terminie 18 miesięcy licząc od dnia wejścia w życie ustawy. 3. Do chwili wygaśnięcia zezwoleń udzielonych podmiotom wymienionym w ust. 2 pkt 3 uprawnienia z nich wynikające przechodzą na spółki powstałe w wyniku przekształcenia tych podmiotów lub utworzonych przez te podmioty."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Z dniem wejścia w życie ustawy, z zastrzeżeniem art. 60, tracą moc zezwolenia na utworzenie spółek z udziałem zagranicznym, w części dotyczącej prowadzenia gier losowych, wydane na podstawie przepisów o działalności gospodarczej z udziałem podmiotów zagranicznych, z uwzględnieniem ustawy z dnia 14 czerwca 1991 r. o spółkach z udziałem zagranicznym ( Dz. U. Nr 60, poz. 253 , Nr 80, poz. 350 i Nr 111, poz. 480 ) ."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Spółki, o których mowa w art. 57 ust. 2 pkt 2 i ust. 3, mogą wystąpić o udzielenie zezwolenia na podstawie niniejszej ustawy. 2. Termin do złożenia wniosku o udzielenie zezwolenia wynosi: 1) 6 miesięcy od dnia wejścia w życie ustawy - dla spółek określonych w art. 57 ust. 2 pkt 2, 2) 12 miesięcy od dnia wejścia w życie ustawy - dla spółek określonych w art. 57 ust. 3."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Przepis art. 57 ust. 2 pkt 2 stosuje się do spółek z udziałem zagranicznym, jeżeli do dnia wejścia w życie ustawy: 1) udziałowcy będący podmiotami zagranicznymi złożą oświadczenia o zrzeczeniu się wszelkich roszczeń wobec Skarbu Państwa z tytułu wygaśnięcia zezwolenia lub 2) udziałowcy dokonają zbycia udziałów na rzecz podmiotu, w stosunku do którego Minister Finansów nie zgłasza zastrzeżeń, a spółka bądź jej udziałowcy złożą oświadczenie przejęcia ewentualnych zobowiązań wobec Skarbu Państwa z tytułu wygaśnięcia zezwolenia."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Loterie urządzane na podstawie planów loterii, zatwierdzonych przed dniem wejścia w życie niniejszej ustawy, rozegrane zostaną na zasadach ustalonych w dotychczas obowiązujących przepisach."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Od dnia wejścia w życie niniejszej ustawy Przedsiębiorstwo Państwowe „Polski Monopol Loteryjny” oraz Przedsiębiorstwo Państwowe „Totalizator Sportowy” prowadzą działalność na podstawie jej przepisów."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. W okresie roku od dnia wejścia w życie ustawy pozostają bez zmian zasady opodatkowania jednostek, które otrzymały zezwolenia wyłącznie na urządzanie gier w automatach losowych. 2. W okresie dwóch lat od dnia wejścia w życie ustawy stawki podatku od gier z tytułu prowadzenia działalności w zakresie totalizatorów na sportowe współzawodnictwo zwierząt na podstawie zezwoleń udzielonych wyłącznie na ich urządzenie wynosi 5%; po upływie tego okresu stawka podatku od gier w odniesieniu do tych totalizatorów wynosi przez okres roku 7,5%."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Przewidziane w ustawie akty wykonawcze zostaną wydane nie później niż po upływie 60 dni od dnia ogłoszenia ustawy."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Tracą moc: 1) art. 2 ustawy z dnia 19 kwietnia 1950 r. o wyścigach konnych ( Dz. U. Nr 20, poz. 173 , z 1958 r. Nr 11, poz. 40 i z 1976 r. Nr 19, poz. 122 ) , 2) ustawa z dnia 16 grudnia 1972 r. o podatku obrotowym ( Dz. U. z 1983 r. Nr 43, poz. 191 , z 1985 r. Nr 12, poz. 50 , z 1989 r. Nr 3, poz. 12 i Nr 74, poz. 443 , z 1991 r. Nr 9, poz. 30 i Nr 35, poz. 155 oraz z 1992 r. Nr 21, poz. 86 ) - w części dotyczącej podatku obrotowego z tytułu prowadzenia gier losowych i totalizatorów, 3) ustawa z dnia 20 maja 1976 r. o grach losowych i totalizatorach ( Dz. U. Nr 19, poz. 122 i z 1982 r. Nr 7, poz. 54 ) , 4) z zastrzeżeniem art. 63 - ustawa z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej ( Dz. U. z 1987 r. Nr 12, poz. 77 , z 1989 r. Nr 3, poz. 12 , Nr 35, poz. 192 i Nr 74, poz. 443 , z 1990 r. Nr 21, poz. 126 , z 1991 r. Nr 9, poz. 30 i Nr 80, poz. 350 oraz z 1992 r. Nr 21, poz. 86 ) - w części dotyczącej podatku obrotowego z tytułu prowadzenia gier losowych i totalizatorów."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Ustawa wchodzi w życie po upływie 90 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_1-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"chpt_1-arti_9-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_9-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_9-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_1-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Urządzanie gier losowych i zakładów wzajemnych\",\"children\": [{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_11-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_11-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_11-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_13-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_13-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_13-pass_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_13-pass_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_13-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_16-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_17-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_17-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_17-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_17-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_2-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_18-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_18-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_18-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_18-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_2-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_2-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Udzielanie zezwoleń\",\"children\": [{\"id\": \"chpt_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_3-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_3-arti_25-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_25-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_3-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_26-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_3-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_3-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": "
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ośrodkach gier",
+      "definition": "rozumie się przez to: a) kasyno gry - jako miejsce, w którym prowadzi się gry cylindryczne, gry w karty lub gry w automatach losowych na podstawie zatwierdzonego regulaminu, a ilość zainstalowanych automatów losowych nie przekracza 25 sztuk, b) salon gier w automatach losowych - jako miejsce, w którym prowadzi się gry w automatach losowych na podstawie zatwierdzonego regulaminu, a ilość zainstalowanych automatów losowych wynosi od 25 do 50 sztuk, c) salon gry bingo pieniężne - jako miejsce, w którym prowadzi się grę bingo pieniężne na podstawie zatwierdzonego regulaminu, 2) punkcie przyjmowania zakładów wzajemnych - rozumie się przez to miejsce, w którym przyjmowane są zakłady totalizatora lub bukmacherstwa na podstawie zatwierdzonego regulaminu. Rozdział 2 Urządzanie gier losowych i zakładów wzajemnych",
+      "source_provision": "art9"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-334",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o zmianie niektórych postanowień ustawy z dnia 28 maja 1920 r. o polskich statkach handlowych morskich.",
+  "title_en": "",
+  "short_name": "pl-du-1932-334",
+  "status": "repealed",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/334",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 28 maja 1920 r. o polskich statkach handlowych morskich (Dz. U. R. P. Nr 47, poz. 285) w brzmieniu, ustalonem rozporządzeniem Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. (Dz. U. R. P. Nr 29, poz. 269), ulega następującym zmianom: I. W ustępie końcowym art. 1 po słowach: „spółek dla żeglugi transoceanicznej” wstawia się wyrazy: „oraz spółek dla rybołówstwa dalekomorskiego”. II. W zdaniu końcowem art. 3 po słowach: „spółek dla żeglugi transoceanicznej” wstawia się wyrazy: „oraz spółek dla rybołówstwa dalekomorskiego”. III. Zdanie ostatnie p. 2) art. 6 otrzymuje brzmienie następujące: „ Wyjątki od tego przepisu są dopuszczalne w stosunku do dalekomorskich statków rybackich w ciągu 10 lat od dnia wejścia w życie niniejszej ustawy za zezwoleniem Ministra Przemysłu i Handlu i na warunkach, przez niego ustalonych w każdym poszczególnym wypadku. Rada Ministrów może przedłużyć powyższy okres o dalsze 5 lat ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\"},{\"id\": \"arti_1-none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\"},{\"id\": \"arti_1-none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

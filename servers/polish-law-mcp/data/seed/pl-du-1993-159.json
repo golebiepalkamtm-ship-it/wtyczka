@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1993-159",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 lutego 1993 r. zmieniająca ustawę o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1993-159",
+  "status": "amended",
+  "issued_date": "1993-02-20",
+  "in_force_date": "1993-05-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/159",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego ( Dz. U. Nr 34, poz. 149 ) wprowadza się następujące zmiany: 1) w art. 8 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Uprawnienia określone w ust. 1 przysługują również osobom, mieszkającym obecnie bądź w chwili śmierci w Polsce, represjonowanym przez radzieckie organy ścigania i wymiaru sprawiedliwości lub organy pozasądowe, działające na mocy porozumienia zawartego w dniu 26 lipca 1944 r. między Polskim Komitetem Wyzwolenia Narodowego i Rządem Związku Socjalistycznych Republik Radzieckich o stosunkach między radzieckim wodzem naczelnym a polską administracją po wkroczeniu wojsk radzieckich na terytorium Polski, za działalność na rzecz niepodległego bytu Państwa Polskiego lub z powodu takiej działalności. Żądanie odszkodowania i zadośćuczynienia należy zgłosić w Sądzie Wojewódzkim w Warszawie. Przepis art. 1 ust. 3 stosuje się odpowiednio, zaś przepisy art. 9-11 nie mają zastosowania. ” ; 2) w art. 11: a) w ust. 1 w zdaniu drugim wyraz „roku” zastępuje się wyrazami „trzech lat” , b) w ust. 2 na końcu zdania kropkę zastępuje się przecinkiem i dodaje wyrazy „przy czym termin określony w ust. 1 nie ma zastosowania.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Żądanie określone w art. 8 ust. 2a ustawy, o której mowa w art. 1, może być zgłoszone w terminie roku od dnia wejścia niniejszej ustawy w życie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepis art. 1 pkt 2 - z mocą od dnia 24 maja 1992 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1935-169",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1935 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 1 czerwca 1927 r. o popieraniu rozbudowy i rozwoju gospodarczego miasta i portu Gdyni.",
+  "title_en": "",
+  "short_name": "pl-du-1935-169",
+  "status": "in_force",
+  "issued_date": "1935-03-18",
+  "in_force_date": "1935-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/169",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 1 czerwca 1927 r. o popieraniu rozbudowy i rozwoju gospodarczego miasta i portu Gdyni (Dz. U. R. P. Nr 51, poz. 452), zmienionem przez rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 listopada 1930 r. (Dz. U. R. P. Nr 80, poz. 631), wprowadza się zmiany następujące: 1) w art. 5 w miejsce ustępów 2, 3 i 4 wstawia się nowy ustęp treści następującej: „ Art. 22 § 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1934 r. - Prawo o postępowaniu wywłaszczeniowem - (Dz U R. P. Nr. 86, poz. 776) ma zastosowanie do przypadku wywłaszczenia nieruchomości na rzecz gminy m. Gdyni. ” ; 2) w art. 5a w ust, 1 zdanie pierwsze otrzymuje brzmienie: „ Odstępowanie gruntów państwowych gminie miasta Gdyni na zasadzie art. 14 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 kwietnia 1927 r. o rozbudowie miast (Dz. U. R. P. Nr 42, poz. 372) będzie uskuteczniane na podstawie wniosku Ministra Spraw Wewnętrznych, powziętego w porozumieniu z Ministrami Skarbu oraz Rolnictwa i Reform Rolnych. ” ; 3) w art. 6 w ust. 1 wyrazy: „w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 12 września 1930 r. o ulgach podatkowych dla nowowznoszonych budowli (Dz. U. R. P. Nr 64, poz. 508)” zastępuje się wyrazami: „w ustawie z dnia 24 marca 1933 r. o ulgach dla nowowznoszonych budowli (Dz. U. R. P. Nr 22, poz. 173)” ; 4) w art. 7 w ust. 1 oznaczenie: „Dz. U. R. P, Nr, 79, poz. 550” zastępuje się oznaczeniem „Dz. U. R. P. z 1934 r. Nr 76, poz. 716”; zaś w ustępie 2 wyrazy „w art. 120” - wyrazami „w art. 43” ; 5) w art. 7 a ust. 1 otrzymuje brzmienie: „ Przedsiębiorstwa przemysłowe, komunikacyjne, spichrze i chłodnie, które w okresie do końca 1940 r. powstaną i będą znajdowały się w Gdyni, może Rada Ministrów - w wyjątkowych przypadkach, zasługujących na szczególne uwzględnienie - zwolnić na okres dziesięcioletni, nie dłużej jednak niż do końca 1945 r. od państwowego podatku dochodowego, pobieranego na zasadzie działu I ustawy o państwowym podatku dochodowym (Dz. U. R.P. z 1934 r. Nr 76, poz. 715), o ile przedsiębiorstwa te poczynią w Gdyni w okresie do końca roku 1940 inwestycje, mające doniosłe znaczenie dla rozbudowy i rozwoju gospodarczego miasta i portu Gdyni. ” ; 6) po art. 9 wstawia się nowy art. 9a treści następującej: „ Nowowznoszone domy mieszkalne, położone na terenie m. Gdyni i zwolnione na zasadzie art. 2 ustawy z dnia 24 marca 1933 r. o ulgach dla nowowznoszonych budowli (Dz. U. R. P. Nr 22, poz. 173) od państwowego podatku dochodowego, podlegają, począwszy od r. 1935, wymiarowi idealnego podatku dochodowego w celu ustalenia, przewidzianego w art. 24 ustawy o państwowym podatku dochodowym (Dz. U. R. P. Nr 76, poz. 715), dodatku na rzecz m. Gdyni. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Przemysłu i Handlu do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej w drodze obwieszczenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 1 czerwca 1927 r. o popieraniu rozbudowy i rozwoju gospodarczego miasta i portu Gdyni (Dz. U. R. P. Nr 51, poz. 452), z uwzględnieniem zmian, wynikających z przepisów, wydanych do dnia ogłoszenia jednolitego tekstu, - z odpowiednią zmianą numeracji artykułów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu w porozumieniu z interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

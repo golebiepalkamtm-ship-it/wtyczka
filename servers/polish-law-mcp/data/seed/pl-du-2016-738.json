@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-738",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 marca 2016 r. o zmianie ustawy o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium",
+  "title_en": "",
+  "short_name": "pl-du-2016-738",
+  "status": "in_force",
+  "issued_date": "2016-03-31",
+  "in_force_date": "2016-05-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/738",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 września 1999 r. o zasadach pobytu wojsk obcych na terytorium Rzeczypospolitej Polskiej oraz zasadach ich przemieszczania się przez to terytorium ( Dz. U. z 2014 r. poz. 1077 , z 2015 r. poz. 1844 oraz z 2016 r. poz. 178 ) po art. 3 dodaje się art. 3a w brzmieniu: „ Art. 3a. 1. Zgodę na pobyt wojsk obcych na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej przez stronę wysyłającą w operacjach wojskowych prowadzonych na terytorium Rzeczypospolitej Polskiej w czasie pokoju wydaje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej skierowany po uzyskaniu zgody Prezesa Rady Ministrów. 2. W zgodzie, o której mowa w ust. 1, Prezydent Rzeczypospolitej Polskiej określa cel pobytu wojsk obcych i zakres ich uprawnień, a także inne okoliczności mające znaczenie dla obronności Rzeczypospolitej Polskiej. 3. Określając zakres uprawnień, o których mowa w ust. 2, Prezydent Rzeczypospolitej Polskiej wskazuje, które uprawnienia Sił Zbrojnych Rzeczypospolitej Polskiej będą przysługiwać wojskom obcym w czasie pobytu na terytorium Rzeczypospolitej Polskiej w ramach wzmocnienia wojskowego Sił Zbrojnych Rzeczypospolitej Polskiej. 4. O wyrażeniu zgody, o której mowa w ust. 1, zawiadamia się niezwłocznie Marszałków Sejmu i Senatu oraz inne zainteresowane organy władzy publicznej. 5. Do pobytu wojsk obcych, o którym mowa w ust. 1, nie stosuje się przepisów art. 13 ust. 1 pkt 3 oraz ust. 3. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

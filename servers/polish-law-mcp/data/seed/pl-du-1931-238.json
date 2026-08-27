@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1931-238",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 marca 1931 r. o wyłączeniu powiatu turczańskiego z województwa stanisławowskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-238",
+  "status": "in_force",
+  "issued_date": "1931-03-20",
+  "in_force_date": "1931-04-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/238",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyłącza się administracyjny powiat turczański z województwa stanisławowskiego, a przyłącza się do województwa lwowskiego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zmiana granic obu województw, określona w art. 1 niniejszej ustawy, nie pociąga za sobą zmiany liczby senatorów, przypadającej na te województwa w myśl art. 6 ust. 1 ustawy z dnia 28 lipca 1922 r. (Dz. U. R. P. Nr 66, poz. 591)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

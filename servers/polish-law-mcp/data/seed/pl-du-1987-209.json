@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1987-209",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 1987 r. o zmianie ustawy o kontroli publikacji i widowisk.",
+  "title_en": "",
+  "short_name": "pl-du-1987-209",
+  "status": "repealed",
+  "issued_date": "1987-12-05",
+  "in_force_date": "1987-12-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1987/209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o kontroli publikacji i widowisk ( Dz. U. Nr 20, poz. 99 , z 1983 r. Nr 44, poz. 204 oraz z 1984 r. Nr 5, poz. 24 ) w art. 4: a) w ust. 1 po pkt 22 dodaje się pkt 23 w brzmieniu: „ 23) programy komputerowe, ” b) w ust. 2 wyrazy „których zakres tematyczny wyklucza możliwość naruszenia art. 2” zastępuje się wyrazami „jeżeli uzna, że nie istnieje możliwość naruszenia art. 2” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

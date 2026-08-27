@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-377",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1919 r. o przyznaniu funkcjonarjuszom państwowym, nauczycielom szkół powszechnych i profesorom zakładów teologicznych nadzwyczajnego dodatku drożyźnianego.",
+  "title_en": "",
+  "short_name": "pl-du-1919-377",
+  "status": "in_force",
+  "issued_date": "1919-07-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/377",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm upoważnia Rząd do wypłacenia etatowym i nieetatowym funkcjonarjuszom państwowym nauczycielom publicznych szkól powszechnych i profesorom zakładów teologicznych, bez względu na treść warunków pisma nominacyjnego obok dotychczasowych przez nich pobieranych dodatków drożyźnianych i kwartalnych - także nadzwyczajnego dodatku drożyźnianego, a to począwszy od dnia 1 lipca 1919 r. aż do czasu uregulowania poborów służbowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nadzwyczajny dodatek drożyźniany wynosi, bez względu na miejsce służbowe miesięcznie: a) dla funkcjonarjuszów państwowych: MAŁOPOLSKA KRÓLESTWO 1 2 3 4 5 1 2 3 Kategorje płac, względnie ranga Wolni, wdowcy bezdzietni Żonaci bezdzietni, wdowcy z 1 dzieckiem Żonaci z 1 lub 2 dzieci, wdowcy z 1 lub 3 dzieci Żonaci z 3 lub 4 dzieci, wdowcy z 4 lub 5 dzieci Żonaci z więcej jak 4 dzieci, wdowcy z więcej jak 5 dzieci Wolni, wdowcy bezdzietni Żonaci do 2 dzieci lub wdowcy do 3 dzieci Żona i z więcej jak 2 dzieci. wdowcy z więcej jak 3 dzieci I - - - - - 600 700 800 II i III 400 450 500 550 600 400 900 600 IV Va, Vb 320 340 360 380 400 320 360 200 VI i VII 280 300 320 340 360 280 320 360 VIII i IX 220 240 260 280 300 220 260 300 X i XI 120 140 160 180 200 120 160 200 b) dla profesorów zakładów teologicznych - wedle VI-ej ketegorji płac, względnie rangi; c) dla nauczycieli publicznych szkół powszechnych wedle tej kategorji płac, względnie rangi, której odpowiada ich zasadnicza płaca; d) dla wszystkich innych pracowników państwowych, nie zaliczonych do żadnej z powyższych kategorji płac względnie rangi: stanu wolnego 120 Mk. żonatych bezdzietnych lub posiadających do 3 dzieci 160 „ żonatych posiadających więcej jak 3 dzieci 200 „ e) starsi gońcy, o ile są żonaci ... 100 „"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Na obszarze b. okupacji austrjackiej, jakoteż b. zaboru austriackiego, wypłata dodatku nastąpi w walucie koronowej według relacji 1 mk. = 1 kor. 75 hal."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przynależność do rangi określa się według wysokości pobieranych zasadniczych poborów łącznie z dodatkami za lata służby."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Postanowienia niniejszej ustawy nie dotyczą nauczycieli wyższych zakładów naukowych, pracowników kolejowych, jakoteż tych osób, które pełnią państwowe funkcje służbowe na podstawie specjalnych z niemi zawartych umów co do wysokości wynagrodzenia - o ile to wynagrodzenie jest wyższe od poborów tej kategorji płacy, względnie rangi, do której zostały zaliczone."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Osobom, uprawnionym w myśl niniejszej ustawy do poboru dodatku drożyźnianego, jeśli stanowią jedną rodzinę i mają jedno wspólne gospodarstwo domowe, może być wypłacony tylko jeden nadzwyczajny dodatek drożyźniany w wysokości, odpowiadającej najwyższej kategorji płacy, względnie rangi, jednej z osób do wspólnego gospodarswa należących."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Pobory służbowe profesorów uniwersytetów we Lwowie i Krakowie, akademji górniczej i sztuk pięknych w Krakowie, jakoteż politechniki i akademji weterynarji we Lwowie zostają zrównane z zasadniczemi poborami łącznie z dotychczasowemi dodatkami drcżyźnianemi profesorów uniwersytetu i politechniki w Warszawie, począwszy od 1 lipca 1919 r."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

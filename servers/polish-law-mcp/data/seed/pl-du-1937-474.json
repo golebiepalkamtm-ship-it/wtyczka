@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-474",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 sierpnia 1937 r. o zniesieniu fideikomisu Pszczyńskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1937-474",
+  "status": "in_force",
+  "issued_date": "1937-08-07",
+  "in_force_date": "1937-08-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/474",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Znosi się fideikomis Pszczyński. (2) Osoba, będąca dzierżycielem fideikomisu w dniu ogłoszenia niniejszej ustawy, staje się pełnoprawnym właścicielem majątku fideikomisowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W wykonaniu przepisu § 1 ust. (3) rozporządzenia z dnia 10 marca 1919 r. o dobrach rodzinnych (Zb. ust. prusk. str. 39), Rada Ministrów określi w drodze rozporządzenia zasady i tryb likwidacji fideikomisu; rozporządzenie to określi w szczególności zakres odpowiedzialności za zobowiązania obciążające bądź majątek fideikomisowy, bądź jego dzierżyciela, oraz sposób zabezpieczenia wykonania tych zobowiązań."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

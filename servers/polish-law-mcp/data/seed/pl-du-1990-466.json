@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1990-466",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 listopada 1990 r. o zmianie ustawy o nabywaniu nieruchomości przez cudzoziemców.",
+  "title_en": "",
+  "short_name": "pl-du-1990-466",
+  "status": "amended",
+  "issued_date": "1990-11-08",
+  "in_force_date": "1990-11-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/466",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców ( Dz. U. z 1933 r. Nr 24, poz. 202 i z 1988 r. Nr 41, poz. 325 ) art. 4 otrzymuje brzmienie: „ Art. 4. Minister Spraw Wewnętrznych przedstawia Sejmowi corocznie, w terminie do dnia 31 marca, szczegółowe sprawozdanie z realizacji ustawy, a w szczególności o liczbie udzielonych zezwoleń, rodzaju i obszarze nieruchomości, których one dotyczą, liczbie decyzji odmawiających udzielenia zezwolenia oraz o zasadach, jakimi kierowano się przy podejmowaniu decyzji. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

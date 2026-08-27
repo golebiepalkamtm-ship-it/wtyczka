@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-371",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1937 r. o przedłużeniu okresu urzędowania tymczasowych organów ustrojowych gminy m. st. Warszawy.",
+  "title_en": "",
+  "short_name": "pl-du-1937-371",
+  "status": "repealed",
+  "issued_date": "1937-06-22",
+  "in_force_date": "1937-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/371",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1934 r. o tymczasowych organach ustrojowych gminy m. st. Warszawy (Dz. U. R. P. Nr 86, poz. 778), zmienionym ustawą z dnia 30 marca 1936 r. o przedłużeniu okresu urzędowania tymczasowych organów ustrojowych gminy m. st. Warszawy (Dz. U. R. P. Nr 23, poz. 188), wyrazy: „1 października 1937 r.” zastępuje się wyrazami: „1 października 1938 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

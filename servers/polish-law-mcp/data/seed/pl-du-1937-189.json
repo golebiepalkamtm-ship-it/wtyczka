@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-189",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1937 r. o zmianie ustawy z dnia 24 marca 1933 r. o nadzwyczajnej daninie majątkowej.",
+  "title_en": "",
+  "short_name": "pl-du-1937-189",
+  "status": "in_force",
+  "issued_date": "1937-03-29",
+  "in_force_date": "1937-04-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/189",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 marca 1933 r. o nadzwyczajnej daninie majątkowej (Dz. U. R. P. Nr 29, poz. 248) wprowadza się następującą zmianę: w art. 4 w części II pkt 4) otrzymuje brzmienie: „ 4) gospodarstwa osadników na obszarze, który oznacza Minister Skarbu w porozumieniu z Ministrami: Rolnictwa i Reform Rolnych oraz Spraw Wewnętrznych, - o powierzchni do 20 ha, względnie 35 ha nabytej ziemi, oraz osady rentowe, utworzone na podstawie ustaw pruskich z dnia 26 kwietnia 1886 r. (zb. pr. str. 131), z dnia 27 czerwca 1890 r. (zb. pr. str. 209), z dnia 7 lipca 1891 r. (zb. pr. str. 279), z dnia 20 marca 1908 r. (zb. pr. str. 29) i z dnia 26 czerwca 1912 r. (zb. pr. str. 183) o przestrzeni do 20 ha na obszarze województwa poznańskiego i górnośląskiej części województwa śląskiego oraz o powierzchni do 35 ha na obszarze województwa pomorskiego, jeżeli nabycie tych osad nastąpiło po dniu 1 stycznia 1919 r., ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

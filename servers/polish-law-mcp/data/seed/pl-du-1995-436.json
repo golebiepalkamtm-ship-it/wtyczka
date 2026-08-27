@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1995-436",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 czerwca 1995 r. o zaspokajaniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych niektórych świadczeń przysługujących emerytom i rencistom.",
+  "title_en": "",
+  "short_name": "pl-du-1995-436",
+  "status": "repealed",
+  "issued_date": "1995-06-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1995/436",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa reguluje zasady zaspokajania ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych, o którym mowa w ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy ( Dz. U. z 1994 r. Nr 1, poz. 1 i z 1995 r. Nr 87, poz. 435 ) , niektórych świadczeń przysługujących emerytom i rencistom w przypadkach określonych w art. 2."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych podlegają zaspokojeniu świadczenia przysługujące emerytom lub rencistom na podstawie układów zbiorowych pracy zawartych przed dniem 1 stycznia 1987 r., jeżeli do ich realizacji są obowiązani pracodawcy, którzy w wyniku zmian organizacyjno-prawnych przejęli obowiązek realizacji tych świadczeń wobec emerytów i rencistów nie będących przed ich przejściem na emeryturę lub rentę pracownikami takiego pracodawcy. 2. Wypłata środków finansowych z Funduszu Gwarantowanych Świadczeń Pracowniczych na zaspokojenie świadczeń określonych w ust. 1 może nastąpić na pisemny wniosek pracodawcy. Wniosek powinien zawierać oznaczenie pracodawcy, wskazanie jego rachunku bankowego oraz określenie łącznej kwoty niezbędnej do zaspokojenia świadczeń; do wniosku należy dołączyć wykaz osób uprawnionych do otrzymania świadczeń oraz prawomocne orzeczenia sądowe zobowiązujące pracodawcę do wypłaty na ich rzecz należnych świadczeń. 3. Przy ustalaniu łącznej kwoty, o której mowa w ust. 2, pracodawca uwzględnia, w odniesieniu do każdej z uprawnionych osób, okres od uprawomocnienia się orzeczenia sądowego zasądzającego należność główną wraz z odsetkami za zwłokę do dnia, w którym podjęto decyzję o włączeniu wartości świadczenia przysługującego na podstawie układu zbiorowego pracy do podstawy wymiaru emerytury lub renty, nie później jednak niż do dnia 26 listopada 1995 r. Dla osób, które w podstawie wymiaru emerytury lub renty mają już uwzględnioną wartość świadczenia określonego w ust. 1, a na podstawie układu zbiorowego pracy zachowały uprawnienie do tego świadczenia w wymiarze przysługującym emerytom lub rencistom, pracodawca uwzględnia należność główną wraz z odsetkami do dnia wejścia w życie porozumienia o odstąpieniu od stosowania tych świadczeń, zawartego zgodnie z art. 9 ust. 3 ustawy z dnia 29 września 1994 r. o zmianie ustawy - Kodeks pracy oraz o zmianie niektórych ustaw ( Dz. U. Nr 113, poz. 547 i z 1995 r. Nr 1, poz. 2 ) , nie później jednak niż do dnia 26 listopada 1995 r. 4. Wniosek określony w ust. 2, wraz z załącznikami, składa się w dwóch egzemplarzach do dyrektora wojewódzkiego urzędu pracy właściwego ze względu na siedzibę pracodawcy składającego wniosek, w okresie 6 miesięcy od dnia wejścia w życie ustawy. 5. Przy realizacji wniosku, o którym mowa w ust. 2, przepisy art. 7 ust. 2 i 4 oraz art. 8 ustawy o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy stosuje się odpowiednio. 6. Minister Pracy i Polityki Socjalnej określi w drodze rozporządzenia wzór wniosku, o którym mowa w ust. 2, oraz szczegółowy tryb postępowania związany z przekazywaniem środków z Funduszu i dokonywaniem wypłat."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Pracodawca, w ciągu 14 dni od dnia otrzymania środków finansowych na wypłatę świadczeń określonych w art. 2 ust. 1, dokonuje wypłaty tych świadczeń zgodnie z wykazem osób uprawnionych. 2. Po dokonaniu wypłaty pracodawca przekazuje na rachunek bankowy Funduszu Gwarantowanych Świadczeń Pracowniczych, z którego otrzymał środki finansowe, w terminie nie przekraczającym 30 dni od dnia ich otrzymania, różnicę między kwotą otrzymaną a kwotą wypłaconą uprawnionym osobom. W tym samym terminie pracodawca przekazuje dyrektorowi wojewódzkiego urzędu pracy jeden egzemplarz wykazu osób uprawnionych zawierający potwierdzenie otrzymania przez te osoby należnych im świadczeń."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 ust. 6, który wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_2-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

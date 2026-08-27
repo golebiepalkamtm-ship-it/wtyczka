@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2000-1103",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 października 2000 r. o zmianie ustawy o kontroli skarbowej i ustawy o Inspekcji Celnej w związku z dostosowaniem do prawa Unii Europejskiej.",
+  "title_en": "",
+  "short_name": "pl-du-2000-1103",
+  "status": "in_force",
+  "issued_date": "2000-10-12",
+  "in_force_date": "2000-11-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/1103",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 września 1991 r. o kontroli skarbowej ( Dz. U. z 1999 r. Nr 54, poz. 572 i Nr 83, poz. 931 oraz z 2000 r. Nr 70, poz. 816 ) wprowadza się następujące zmiany: 1) w art. 6 w ust. 3 po wyrazach „w odrębnych ustawach” dodaje się wyrazy „oraz ratyfikowanych przez Rzeczpospolitą Polską umowach międzynarodowych” ; 2) w art. 13 w ust. 4 pkt 1 otrzymuje brzmienie: „ 1) imię i nazwisko inspektora prowadzącego kontrolę, imiona i nazwiska pracowników jednostki organizacyjnej kontroli skarbowej wykonujących czynności kontrolne, osób uprawnionych na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, a w wypadku dokonywania kontroli wykorzystania środków przekazanych Rzeczypospolitej Polskiej przez instytucje Unii Europejskiej jako bezzwrotna pomoc zagraniczna - imię i nazwisko przedstawiciela organów Unii Europejskiej upoważnionego przez Generalnego Inspektora Kontroli Skarbowej do uczestnictwa w czynnościach kontrolnych, jeżeli taki przedstawiciel będzie brał udział w kontroli, ” ; 3) w art. 17 w ust. 5 wyrazy „Inspektor oraz osoby dokonujące czynności kontrolnych” zastępuje się wyrazami „Inspektor, osoby dokonujące czynności kontrolnych, o których mowa w art. 38 ust. 3, oraz osoby, o których mowa w art. 13 ust. 4 pkt 1” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 6 czerwca 1997 r. o Inspekcji Celnej ( Dz. U. Nr 71, poz. 449 , z 1998 r. Nr 137, poz. 886 oraz z 1999 r. Nr 49, poz. 483 , Nr 83, poz. 931 i Nr 101, poz. 1178 ) dodaje się art. 17a w brzmieniu: „ Art. 17a. W czynnościach kontrolnych prowadzonych przez funkcjonariuszy Inspekcji Celnej mogą uczestniczyć: 1) specjaliści z danej dziedziny powołani do określonych czynności kontrolnych lub biegli, 2) osoby uprawnione na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, 3) upoważnieni przez Generalnego Inspektora Celnego przedstawiciele organów Unii Europejskiej - w zakresie kontroli mogących mieć związek z dochodami Unii Europejskiej. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

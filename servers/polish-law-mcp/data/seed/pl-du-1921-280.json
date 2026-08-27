@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-280",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 maja 1921 r. w przedmiocie zniesienia ograniczeń dla gruntów włościańskich, wchodzących w obręb miast.",
+  "title_en": "",
+  "short_name": "pl-du-1921-280",
+  "status": "in_force",
+  "issued_date": "1921-05-20",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/280",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem swobodnego zabudowania i rozszerzenia miast, przepisy, obowiązujące na terenie b. Królestwa Kongresowego, dotyczące gruntów włościańskich i ograniczające swobodną rozporządzalność temi gruntami, z chwilą przyłączenia tych gruntów do obrębu miast, ulegają zniesieniu. W następstwie tego tracą moc zarówno postanowienia Komitetu Urządzającego z dn. 30 grudnia (11 stycznia) 1865/6 r., jak i najwyżej zatwierdzone zdanie Rady Państwa z dn. 11 czerwca 1891 r. oraz wszelkie inne związane z tą sprawą przepisy i rozporządzenia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z chwilą jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

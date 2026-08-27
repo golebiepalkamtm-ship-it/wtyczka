@@ -1,0 +1,422 @@
+{
+  "id": "pl-du-1950-310",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 czerwca 1950 r. o postępowaniu niespornym w sprawach rodzinnych oraz z zakresu kurateli.",
+  "title_en": "",
+  "short_name": "pl-du-1950-310",
+  "status": "repealed",
+  "issued_date": "1950-06-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/310",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Władzą opiekuńczą jest sąd grodzki."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Sprawy, przekazane władzy opiekuńczej, podlegają rozpoznaniu w postępowaniu niespornym. § 2. Rozpoznaniu w postępowaniu niespornym podlegają także sprawy, przekazane sądom przepisami niniejszej ustawy oraz przepisami art. 3 § 3, 6 § 1, 8 § 1, 9 § 1, 15 i 20 § 2 kodeksu rodzinnego ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W sprawach objętych przepisami niniejszej ustawy, osoba pozostająca pod władzą rodzicielską, opieką albo kuratelą ma zdolność do działania w postępowaniu, dotyczącym jej osoby, chyba że nie ma zdolności do czynności prawnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Władza opiekuńcza wszczyna postępowanie z urzędu, chyba że szczególny przepis przewiduje wszczęcie postępowania na wniosek."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "§ 1. Każdy, komu są znane zdarzenia, będące podstawą do wszczęcia postępowania przed władzą opiekuńczą z urzędu, ma obowiązek zawiadomić o nich władzę opiekuńczą w ciągu dwóch tygodni od dnia powzięcia wiadomości o zdarzeniu. § 2. Za niewypełnienie obowiązku zawiadomienia we właściwym terminie władza opiekuńcza może wymierzyć grzywnę w wysokości do 10.000 zł. § 3. Obowiązek, wymieniony w § 1, ciąży również na urzędach stanu cywilnego, sądach, prokuratorach, notariuszach, organach rad narodowych oraz organizacjach społecznych, zajmujących się opieką nad dziećmi lub osobami psychicznie chorymi."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Jeżeli pieczę nad obywatelem polskim, przebywającym za granicą, przyjęły władze obcego państwa, sąd polski może zaniechać tej pieczy za zgodą Ministra Sprawiedliwości. Przepis ten nie narusza postanowień umów międzynarodowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Z zastrzeżeniem wyjątków w ustawie przewidzianych właściwa jest władza opiekuńcza miejsca zamieszkania osoby, której postępowanie ma dotyczyć, a w braku miejsca zamieszkania - władza opiekuńcza miejsca jej pobytu. Jeżeli osoba ta nie ma w Polsce ani miejsca zamieszkania, ani miejsca pobytu, właściwa jest władza opiekuńcza ostatniego miejsca zamieszkania, a w braku i tej podstawy - władza opiekuńcza w Warszawie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W przypadku opieki nad małoletnimi, jeżeli rodzeństwo ma miejsce zamieszkania lub pobytu w okręgach kilku sądów, działających jako władza opiekuńcza - właściwy jest w stosunku do każdego z rodzeństwa sąd, przed którym toczy się postępowanie, dotyczące któregokolwiek z rodzeństwa, a w przypadku gdy takie postępowanie nie jest jeszcze wszczęte - sąd miejsca zamieszkania lub pobytu któregokolwiek z rodzeństwa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W przypadkach nagłych władza opiekuńcza wydaje wszelkie potrzebne zarządzenia nawet w stosunku do osób, które nie podlegają jej właściwości miejscowej, zawiadamiając o tym władzę opiekuńczą miejscowo właściwą."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Przed wydaniem orzeczenia, kończącego postępowanie, władza opiekuńcza wysłucha przedstawiciela ustawowego osoby, której postępowanie dotyczy. W przypadkach ważniejszych powinna nadto wysłuchać w miarę potrzeby małżonka i inne osoby bliskie."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Z zastrzeżeniem wyjątków w ustawie przewidzianych władza opiekuńcza może zmienić swe postanowienie nawet prawomocne, jeżeli tego wymaga wzgląd na dobro osoby, której postępowanie dotyczy."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Z zastrzeżeniem wyjątków w ustawie przewidzianych postanowienia władzy opiekuńczej są natychmiast wykonalne. Dział II Przepisy szczególne Rozdział 1 Sprawy małżeńskie"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Zezwolenia na zawarcie małżeństwa małoletniemu udziela władza opiekuńcza na jego wniosek. Postanowienie o udzieleniu zezwolenia staje się skuteczne dopiero z chwilą uprawomocnienia się."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W przypadku, gdy jeden z małżonków nie spełnia obowiązku dostarczania środków utrzymania rodziny, sąd może nakazać, aby wynagrodzenie za pracę albo inne należności, przypadające temu małżonkowi, były w całości lub w części wypłacane do rąk drugiego małżonka."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Sąd może zezwolić małżonkowi na dokonanie czynności, przekraczających zakres zwykłego zarządu wspólnym majątkiem obojga małżonków, jeżeli drugi małżonek odmawia zgody, a sąd uzna, że dobro rodziny tego wymaga."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Sąd może pozbawić małżonka samodzielnego zarządu majątkiem wspólnym obojga małżonków albo udziału we wspólnym zarządzie tym majątkiem, jeżeli zarząd jest wykonywany w sposób sprzeczny z dobrem rodziny albo nie może być wykonywany należycie."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "§ 1. Do postępowania w sprawie podziału majątku wspólnego po ustaniu wspólności majątkowej stosuje się odpowiednio przepisy o postępowaniu spadkowym, dotyczące działu spadku. § 2. W postępowaniu tym sąd rozstrzyga także o tym, które przedmioty należą do majątku wspólnego."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W sprawach, przewidzianych w art. 14 - 17 niniejszej ustawy oraz w art. 15 kodeksu rodzinnego , sąd rozstrzyga po przeprowadzeniu rozprawy. Rozdział 2 Sprawy ze stosunków między rodzicami i dziećmi"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "§ 1. Władza opiekuńcza rozstrzyga o prawach i obowiązkach rodziców rozwiedzionych względem osoby i majątku dziecka małoletniego, jeżeli nie rozstrzygnięto o tym w orzeczeniu o rozwodzie albo jeżeli zmiana rozstrzygnięcia stała się konieczna wskutek zmiany stosunków. Postanowienie zapada po przeprowadzeniu rozprawy. § 2. Przepis powyższy stosuje się odpowiednio w razie unieważnienia małżeństwa."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "§ 1. W razie śmierci jednego z małżonków, unieważnienia małżeństwa lub rozwodu, jak również w innych ważnych przypadkach władza opiekuńcza może nakazać małżonkowi, który sprawuje władzę rodzicielską nad dzieckiem, aby sporządził inwentarz majątku dziecka i przedstawił go władzy opiekuńczej oraz donosił jej o ważniejszych zmianach w stanie majątku. § 2. Inwentarz, sporządzony w myśl przepisu poprzedzającego, powinien szczegółowo wymieniać wszystkie przedmioty i prawa, wchodzące w skład majątku, długi i ciężary majątku oraz oszacowanie poszczególnych jego części."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Władza opiekuńcza ustanawia kuratora dla majątku, który dziecko otrzymało na mocy darowizny lub rozporządzenia ostatniej woli z zastrzeżeniem, że majątek ten nie będzie podlegał zarządowi rodziców. Przepisu nie stosuje się, jeżeli w umowie darowizny lub w rozporządzeniu ostatniej woli zarządca został wyznaczony."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Uznanie dziecka może nastąpić także przed władzą opiekuńczą, niewłaściwą w myśl przepisów ogólnych. Jednak w przypadku takim władza niewłaściwa zawiadomi o uznaniu właściwą władzę opiekuńczą."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Zezwolenia, przewidzianego w art. 58 § 1 kodeksu rodzinnego , władza opiekuńcza udziela jedynie na wniosek."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Postanowienie władzy opiekuńczej w sprawach o odebranie lub przywrócenie rodzicom władzy rodzicielskiej albo zarządu majątkiem może zapaść tylko po przeprowadzeniu rozprawy."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "§ 1. Władza opiekuńcza nie może zmienić swego postanowienia o nadaniu nazwiska dziecku. § 2. Władza opiekuńcza nie może również zmienić swego postanowienia w przedmiocie zezwolenia na dokonanie czynności prawnych, dotyczących dzieci, jeżeli zezwolenie lub jego odmowa stały się skuteczne względem osób trzecich."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Postanowienia, wymienione w art. 19, 24 i 25, stają się skuteczne dopiero z chwilą ich uprawomocnienia się. Rozdział 3 Sprawy z zakresu przysposobienia"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "§ 1. Władza opiekuńcza orzeka o przysposobieniu po przeprowadzeniu rozprawy. § 2. Na rozprawę wzywa się przysposabiającego, jego małżonka, osobę mającą być przysposobioną, jeżeli ukończyła lat 13, jej rodziców, jeżeli przysługuje im władza rodzicielska, a w ich braku lub gdy władzy tej są pozbawieni - opiekuna."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Władza opiekuńcza wysłucha osoby, wezwane zgodnie z art. 27 § 2, w celu ustalenia, czy wyrażają one zgodę na przysposobienie, a w braku zgody - jakie są powody jej odmowy."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Jeżeli przysposobiony oświadczy, że pragnie dołączyć dotychczasowe nazwisko do nazwiska przysposabiającego, a ten ostatni wyrazi na to zgodę, władza opiekuńcza w postanowieniu o przysposobieniu orzeknie, iż przysposobiony zatrzymuje swe dotychczasowe nazwisko obok nazwiska, nabytego przez przysposobienie."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "O rozwiązaniu stosunku przysposobienia władza opiekuńcza orzeka po przeprowadzeniu rozprawy, na którą wzywa się przysposabiającego, przysposobionego, jeżeli ukończył lat 13, i jego rodziców, jeżeli przed przysposobieniem przysługiwała im władza rodzicielska. W braku rodziców władza opiekuńcza wyznaczy kuratora do reprezentowania przysposobionego."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "W toku postępowania o rozwiązanie stosunku przysposobienia przysposobiony lub jego przedstawiciel ustawowy, jak również przysposabiający mogą z ważnych powodów wnosić o orzeczenie powrotu przysposobionego do poprzedniego nazwiska. Postanowienie w tym przedmiocie władza opiekuńcza wydaje jednocześnie z postanowieniem o rozwiązaniu przysposobienia."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Władza opiekuńcza nie może zmienić swego postanowienia o przysposobieniu oraz o jego rozwiązaniu."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Postanowienie o przysposobieniu oraz o jego rozwiązaniu staje się skuteczne dopiero po uprawomocnieniu się. Rozdział 4 Sprawy z zakresu opieki"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "§ 1. Jeżeli nie ma osób, które według prawa należy powołać na opiekuna, władza opiekuńcza zwraca się o wskazanie osoby, której opieka mogłaby być powierzona, do właściwej rady narodowej albo do organizacji społecznych, do których należy piecza nad małoletnimi lub psychicznie chorymi. § 2. Jeżeli podlegający opiece przebywa w zakładzie dla małoletnich lub psychicznie chorych, należy o wskazanie osoby, której opieka mogłaby być powierzona, zwrócić się przede wszystkim do tego zakładu."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Władza opiekuńcza może powołać jednego opiekuna dla kilku osób, jeżeli nie ma sprzeczności między ich interesami. Opieka nad rodzeństwem powinna być w miarę możności powierzona jednej osobie."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "§ 1. Oświadczenie o uchyleniu się od obowiązku objęcia opieki może nastąpić tylko w terminie tygodniowym od doręczenia powołania i powinno wskazywać ważne powody. § 2. Złożenie oświadczenia nie zwalnia od objęcia czynności opiekuna, chyba że władza opiekuńcza postanowi inaczej."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Władza opiekuńcza może osobie, która uchyla się od objęcia opieki, wymierzyć grzywnę w wysokości nie przekraczającej 30.000 zł. Grzywna może być wymierzona najwyżej trzykrotnie."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Opiekun składa przy objęciu opieki następujące przyrzeczenie: „ Świadomy wagi mych słów i odpowiedzialności przed prawem przyrzekam uroczyście, że poruczone mi obowiązki opiekuna wykonam z całą sumiennością, mając zawsze na względzie dobro osoby, podlegającej mojej pieczy ” ."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "§ 1. Po złożeniu przyrzeczenia przez opiekuna władza opiekuńcza wydaje mu zaświadczenie, w którym wymienia nazwisko, imię, datę urodzenia i miejsce zamieszkania pozostającego pod opieką, jak również nazwisko, imię i miejsce zamieszkania opiekuna oraz datę złożenia przyrzeczenia. § 2. Po zwolnieniu opiekuna lub po ustaniu opieki opiekun obowiązany jest zwrócić władzy opiekuńczej otrzymane zaświadczenie."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Postanowienie władzy opiekuńczej o przyznaniu opiekunowi wynagrodzenia staje się wykonalne dopiero po uprawomocnieniu się."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "§ 1. Władza opiekuńcza ustanawia kuratora, jeżeli opiekun doznaje przemijającej przeszkody w sprawowaniu opieki albo nie może reprezentować pozostającego pod opieką przy dokonaniu czynności prawnych lub w postępowaniu przed sądem albo inną władzą. § 2. Przepis paragrafu poprzedzającego stosuje się również w przypadku, gdy pozostający pod opieką nabywa majątek na mocy darowizny lub rozporządzenia ostatniej woli z zastrzeżeniem, że majątek ten nie będzie podlegał zarządowi rodziców."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Do postanowień w przedmiocie zezwolenia na dokonanie czynności prawnych, dotyczących osoby pozostającej pod opieką, stosuje się odpowiednio art. 23, 25 i 26."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Władza opiekuńcza wykonywa nadzór nad sprawowaniem opieki przez opiekuna, zaznajamiając się bieżąco z jego działalnością, udzielając mu wskazówek i poleceń oraz wydając zarządzenia w myśl przepisów poniższych."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "§ 1. Władza opiekuńcza może nakazać opiekunowi, aby niezwłocznie po objęciu opieki sporządził inwentarz majątku osoby pozostającej pod opieką i przedstawił go władzy opiekuńczej. Tak samo może postąpić władza opiekuńcza, gdy pozostający pod opieką nabędzie majątek później. § 2. Do sposobu sporządzenia inwentarza stosuje się art. 20 § 2."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "§ 1. Władza opiekuńcza może zarządzić, że umieszczenie małoletniego przez opiekuna u osoby trzeciej albo w zakładzie wychowawczym, obranie dla małoletniego zawodu lub zmiana obranego zawodu wymaga jej zezwolenia. Może również rozstrzygać sama o powyższych sprawach. § 2. Przepis powyższy stosuje się odpowiednio w przypadku, gdy ubezwłasnowolniony całkowicie ma być umieszczony w zakładzie leczniczym."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Władza opiekuńcza może zabronić opiekunowi zbywania lub obciążania bez jej zezwolenia praw pozostającego pod opieką, chociażby ich zbycie lub obciążenie nie wymagało do swej ważności zezwolenia władzy opiekuńczej."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "§ 1. Władza opiekuńcza może zobowiązać opiekuna do złożenia kosztowności, papierów wartościowych i innych dokumentów w depozycie sądowym lub na przechowanie w instytucji, zapewniającej należyte bezpieczeństwo przy przechowaniu tego rodzaju przedmiotów. Przedmioty te nie mogą być odebrane bez zezwolenia władzy opiekuńczej. § 2. Władza opiekuńcza nakaże opiekunowi, aby gotowiznę osoby pozostającej pod opieką, jeżeli nie jest potrzebna do zaspokojenia i zabezpieczenia jej uzasadnionych potrzeb, lokował w instytucji bankowej lub innej instytucji kredytowej, wskazanej przez Ministra Finansów. Podjęcie ulokowanej gotowizny władza opiekuńcza powinna uzależnić od swego zezwolenia."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Władza opiekuńcza czuwa nad tym, aby opiekun nie zbywał ani nie obciążał majątku osoby pozostającej pod opieką, jeżeli dochody z tego majątku wystarczają na pokrycie kosztów utrzymania, wychowania i zaspokojenia innych potrzeb tej osoby. Władza opiekuńcza powinna zezwolić na zbycie lub obciążenie tylko w granicach rzeczywistych potrzeb."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Jeżeli pozostający pod opieką nie ma majątku, władza opiekuńcza zobowiąże opiekuna do żądania środków alimentacyjnych od osób do tego obowiązanych. Jeżeli w ten sposób nie można uzyskać potrzebnych środków, władza opiekuńcza zobowiąże opiekuna, aby zwrócił się do właściwej rady narodowej."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Jeżeli opiekun dopuszcza się przy wykonywaniu swych obowiązków czynów lub zaniedbań, które zagrażają dobru pozostającego pod opieką, władza opiekuńcza wyda odpowiednie zarządzenia."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Władza opiekuńcza może żądać od opiekuna wyjaśnień we wszelkich sprawach, wchodzących do zakresu opieki. Może również żądać przedstawienia dokumentów, związanych ze sprawowaniem opieki."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Władza opiekuńcza może zarządzić, aby pozostający pod opieką stawił się przed nią osobiście lub został do niej sprowadzony."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "§ 1. Władza opiekuńcza bada sprawozdania i rachunki opiekuna pod względem rzeczowym i rachunkowym, zarządza w razie potrzeby sprostowania i uzupełnienia oraz orzeka, czy i w jakim zakresie rachunek zatwierdza. § 2. Do wzięcia udziału w badaniu ostatecznego rachunku władza opiekuńcza wezwie osobę, która pozostawała pod opieką, jeżeli osoba ta ma pełną zdolność do czynności prawnych, w innych zaś wypadkach - jej przedstawiciela ustawowego albo jej spadkobierców, jeżeli są władzy opiekuńczej znani."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "W razie niewykonania zarządzeń, wydanych przy sprawowaniu nadzoru w myśl przepisów poprzedzających, władza opiekuńcza może wymierzyć opiekunowi grzywnę do 30.000 zł. Jeżeli zarządzenie zostanie wykonane, grzywna jeszcze nie uiszczona może być darowana."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "§ 1. W razie ustania opieki lub zwolnienia opiekuna władza opiekuńcza postanawia, czy i przez jaki czas opiekun powinien jeszcze prowadzić pilne sprawy, związane z opieką. § 2. Do czasu wydania postanowienia, określonego w § 1, opiekun nie jest zwolniony od pełnienia obowiązków. Rozdział 5 Sprawy z zakresu kurateli"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "W braku przepisów szczególnych do spraw z zakresu kurateli stosuje się odpowiednio przepisy w sprawach z zakresu opieki."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "W zaświadczeniu dla kuratora należy określić zakres jego uprawnień."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Właściwość miejscową władzy opiekuńczej do ustanowienia kuratora dla dziecka poczętego, lecz nie urodzonego, określa się według osoby matki; poza tym stosuje się odpowiednio art. 7."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Właściwość miejscową władzy opiekuńczej do ustanowienia kuratora dla dochodzenia ojcostwa w razie śmierci domniemanego ojca określa się według osoby dziecka, chociażby dziecko nie podlegało już ani władzy rodzicielskiej, ani opiece."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Kuratora dla osób prawnych ustanawia sąd, w którego okręgu osoba prawna ma siedzibę. Dział III Przepisy wprowadzające"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Z dniem wejścia w życie niniejszej ustawy tracą moc wszelkie przepisy w przedmiotach nią objętych. W szczególności traci moc dekret z dnia 21 maja 1946 r. o postępowaniu przed władzą opiekuńczą ( Dz. U. R. P. Nr 22, poz. 140 ) ."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Do postępowania, unormowanego niniejszą ustawą, stosuje się odpowiednio przepisy art. 48 - 53 kodeksu postępowania niespornego ze zmianami i uzupełnieniami, zawartymi w przepisach poniższych."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Za samodzielną część postępowania (art. 49 § 2 kodeksu postępowania niespornego) w zakresie czynności władzy opiekuńczej, związanych z opieką lub kuratelą, uważa się każdą sprawę, wynikłą w toku opieki lub kurateli."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Jeżeli postępowania, dotyczące rodzeństwa, toczą się przed różnymi władzami opiekuńczymi albo jeżeli postępowanie takie zostało wszczęte przed inną władzą opiekuńczą, aniżeli władza wskazana w art. 8, należy je przekazać właściwej władzy opiekuńczej, chyba że przedmiotem postępowania jest poszczególna sprawa, wynikła w toku opieki lub kurateli."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Sprawy o zrównanie dziecka pozamałżeńskiego, toczące się w chwili wejścia w życie niniejszej ustawy, ulegają umorzeniu."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Prawomocne orzeczenie, dotyczące obowiązków rodziców lub opiekunów względem osoby i majątku małoletniego pozostającego pod władzą rodzicielską lub pod opieką, mogą być zmienione w celu ich dostosowania do przepisów prawa rodzinnego . Dział IV Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Wykonanie ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 1950 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"bran_I-arti_5-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-arti_5-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-arti_5-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Przepisy szczególne\",\"children\": [{\"id\": \"bran_II-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Sprawy małżeńskie\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"bran_II-chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_II-chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"bran_II-chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"bran_II-chpt_1-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_17-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_1-arti_17-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_1-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"}]},{\"id\": \"bran_II-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Sprawy ze stosunków między rodzicami i dziećmi\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_19-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_2-arti_19-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_20-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_2-arti_20-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"bran_II-chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_II-chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_II-chpt_2-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"bran_II-chpt_2-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_25-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_2-arti_25-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_2-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"}]},{\"id\": \"bran_II-chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Sprawy z zakresu przysposobienia\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"bran_II-chpt_3-arti_27-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_3-arti_27-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_3-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_II-chpt_3-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_II-chpt_3-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_II-chpt_3-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"bran_II-chpt_3-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_II-chpt_3-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"}]},{\"id\": \"bran_II-chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Sprawy z zakresu opieki\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_34-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_34-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"bran_II-chpt_4-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_36-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_36-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"bran_II-chpt_4-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"bran_II-chpt_4-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_39-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_39-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\"},{\"id\": \"bran_II-chpt_4-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_41-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_41-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"},{\"id\": \"bran_II-chpt_4-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"bran_II-chpt_4-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_44-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_44-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_45-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_45-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\"},{\"id\": \"bran_II-chpt_4-arti_47\",\"symbol\": \"arti_47\",\"type\": \"arti\",\"name\": \"47\",\"title\": \"Art. 47.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_47-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_47-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_48\",\"symbol\": \"arti_48\",\"type\": \"arti\",\"name\": \"48\",\"title\": \"Art. 48.\"},{\"id\": \"bran_II-chpt_4-arti_49\",\"symbol\": \"arti_49\",\"type\": \"arti\",\"name\": \"49\",\"title\": \"Art. 49.\"},{\"id\": \"bran_II-chpt_4-arti_50\",\"symbol\": \"arti_50\",\"type\": \"arti\",\"name\": \"50\",\"title\": \"Art. 50.\"},{\"id\": \"bran_II-chpt_4-arti_51\",\"symbol\": \"arti_51\",\"type\": \"arti\",\"name\": \"51\",\"title\": \"Art. 51.\"},{\"id\": \"bran_II-chpt_4-arti_52\",\"symbol\": \"arti_52\",\"type\": \"arti\",\"name\": \"52\",\"title\": \"Art. 52.\"},{\"id\": \"bran_II-chpt_4-arti_53\",\"symbol\": \"arti_53\",\"type\": \"arti\",\"name\": \"53\",\"title\": \"Art. 53.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_53-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_53-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_II-chpt_4-arti_54\",\"symbol\": \"arti_54\",\"type\": \"arti\",\"name\": \"54\",\"title\": \"Art. 54.\"},{\"id\": \"bran_II-chpt_4-arti_55\",\"symbol\": \"arti_55\",\"type\": \"arti\",\"name\": \"55\",\"title\": \"Art. 55.\",\"children\": [{\"id\": \"bran_II-chpt_4-arti_55-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_II-chpt_4-arti_55-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"bran_II-chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Sprawy z zakresu kurateli\",\"children\": [{\"id\": \"bran_II-chpt_5-arti_56\",\"symbol\": \"arti_56\",\"type\": \"arti\",\"name\": \"56\",\"title\": \"Art. 56.\"},{\"id\": \"bran_II-chpt_5-arti_57\",\"symbol\": \"arti_57\",\"type\": \"arti\",\"name\": \"57\",\"title\": \"Art. 57.\"},{\"id\": \"bran_II-chpt_5-arti_58\",\"symbol\": \"arti_58\",\"type\": \"arti\",\"name\": \"58\",\"title\": \"Art. 58.\"},{\"id\": \"bran_II-chpt_5-arti_59\",\"symbol\": \"arti_59\",\"type\": \"arti\",\"name\": \"59\",\"title\": \"Art. 59.\"},{\"id\": \"bran_II-chpt_5-arti_60\",\"symbol\": \"arti_60\",\"type\": \"arti\",\"name\": \"60\",\"title\": \"Art. 60.\"}]}]},{\"id\": \"bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III - Przepisy wprowadzające\",\"children\": [{\"id\": \"bran_III-arti_61\",\"symbol\": \"arti_61\",\"type\": \"arti\",\"name\": \"61\",\"title\": \"Art. 61.\"},{\"id\": \"bran_III-arti_62\",\"symbol\": \"arti_62\",\"type\": \"arti\",\"name\": \"62\",\"title\": \"Art. 62.\"},{\"id\": \"bran_III-arti_63\",\"symbol\": \"arti_63\",\"type\": \"arti\",\"name\": \"63\",\"title\": \"Art. 63.\"},{\"id\": \"bran_III-arti_64\",\"symbol\": \"arti_64\",\"type\": \"arti\",\"name\": \"64\",\"title\": \"Art. 64.\"},{\"id\": \"bran_III-arti_65\",\"symbol\": \"arti_65\",\"type\": \"arti\",\"name\": \"65\",\"title\": \"Art. 65.\"},{\"id\": \"bran_III-arti_66\",\"symbol\": \"arti_66\",\"type\": \"arti\",\"name\": \"66\",\"title\": \"Art. 66.\"}]},{\"id\": \"bran_IV\",\"symbol\": \"bran_IV\",\"type\": \"bran\",\"name\": \"IV\",\"title\": \"Dział IV - Przepisy końcowe\",\"children\": [{\"id\": \"bran_IV-arti_67\",\"symbol\": \"arti_67\",\"type\": \"arti\",\"name\": \"67\",\"title\": \"Art. 67.\"},{\"id\": \"bran_IV-arti_68\",\"symbol\": \"arti_68\",\"type\": \"arti\",\"name\": \"68\",\"title\": \"Art. 68.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

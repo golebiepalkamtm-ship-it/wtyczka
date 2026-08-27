@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2021-586",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 2021 r. zmieniająca ustawę o zmianie ustawy - Prawo łowieckie oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2021-586",
+  "status": "in_force",
+  "issued_date": "2021-02-25",
+  "in_force_date": "2021-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/586",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 marca 2018 r. o zmianie ustawy - Prawo łowieckie oraz niektórych innych ustaw ( Dz. U. poz. 651 oraz z 2020 r. poz. 148 ) wprowadza się następujące zmiany: 1) art. 7 otrzymuje brzmienie: „ Art. 7. 1. Uchwały, o których mowa w art. 27 ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, dokonujące nowych podziałów województw na obwody łowieckie i zaliczenia tych obwodów do poszczególnych kategorii, o których mowa w art. 26a ust. 1 ustawy zmienianej w art. 1, zostaną wydane do dnia 31 grudnia 2021 r. 2. Podziały województw na obwody łowieckie oraz zaliczenia obwodów łowieckich do poszczególnych kategorii dokonane przed dniem wejścia w życie niniejszej ustawy zachowują ważność do dnia 31 marca 2022 r. ” ; 2) w art. 8 ust. 1 otrzymuje brzmienie: „ 1. Umowy dzierżawy obwodów łowieckich obowiązujące w dniu wejścia w życie niniejszej ustawy obowiązują do dnia 31 marca 2022 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podziały województw na obwody łowieckie oraz zaliczenia obwodów łowieckich do poszczególnych kategorii, których dokonały sejmiki województw w oparciu o przepisy ustawy z dnia 13 października 1995 r. - Prawo łowieckie ( Dz. U. z 2020 r. poz. 1683 i 2320 ) przed dniem wejścia w życie niniejszej ustawy, zachowują ważność i zaczną obowiązywać od dnia 1 kwietnia 2022 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z mocą od dnia 31 marca 2021 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

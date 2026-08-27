@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1997-1079",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 grudnia 1997 r. zmieniająca ustawę o zmianie ustawy o lasach oraz o zmianie niektórych ustaw i ustawę o ochronie gruntów rolnych i leśnych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-1079",
+  "status": "in_force",
+  "issued_date": "1997-12-11",
+  "in_force_date": "1997-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/1079",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 kwietnia 1997 r. o zmianie ustawy o lasach oraz o zmianie niektórych ustaw ( Dz. U. Nr 54, poz. 349 ) w art. 11 wyrazy „1998 r.” zastępuje się wyrazami „1999 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych ( Dz. U. Nr 16, poz. 78 oraz z 1997 r. Nr 60, poz. 370 i Nr 80, poz. 505 ) w art. 4 pkt 13 i art. 12 ust. 11 i 14 skreśla się wyrazy „tartacznego iglastego” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Prezes Głównego Urzędu Statystycznego ogłosi w 1998 r. w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” średnią cenę sprzedaży drewna, obliczoną według średniej ceny drewna uzyskanej przez nadleśnictwa za pierwsze trzy kwartały 1998 r., w terminie 20 dni po upływie trzeciego kwartału. 2. W 1998 r. Prezes Głównego Urzędu Statystycznego nie ogłosi komunikatu, o którym mowa w art. 65 ust. 2 ustawy z dnia 28 września 1991 r. o lasach ( Dz. U. Nr 101, poz. 444 , z 1992 r. Nr 21, poz. 85 i Nr 54, poz. 254 , z 1994 r. Nr 1, poz. 3 i Nr 127, poz. 627 , z 1995 r. Nr 147, poz. 713 , z 1996 r. Nr 91, poz. 409 oraz z 1997 r. Nr 54, poz. 349 i Nr 121, poz. 770 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 2, który wchodzi w życie z dniem 1 stycznia 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

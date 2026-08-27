@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-265",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 kwietnia 1938 r. o ratyfikacji porozumienia między Polską a Norwegią z dnia 10 września 1937 r., dotyczącego zmiany protokołu taryfowego polsko-norweskiego z dnia 14 marca 1936 r.",
+  "title_en": "",
+  "short_name": "pl-du-1938-265",
+  "status": "in_force",
+  "issued_date": "1938-04-23",
+  "in_force_date": "1938-04-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/265",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej ratyfikacji porozumienia między Polską a Norwegią w formie not, wymienionych w Warszawie dnia 10 września 1937 r., dotyczącego zmiany w tekście protokołu taryfowego polsko - norweskiego, podpisanego dnia 14 marca 1936 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień powyższego porozumienia - Ministrom Skarbu oraz Przemysłu i Handlu w porozumieniu z innymi właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

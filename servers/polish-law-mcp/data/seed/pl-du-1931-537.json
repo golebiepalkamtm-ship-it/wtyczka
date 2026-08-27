@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-537",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 maja 1931 r. w przedmiocie wyznaczenia sądu kompetentnego do rozstrzygnięcia o ważności zaprotestowanych wyborów, przeprowadzonych do III-go Sejmu Śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-537",
+  "status": "in_force",
+  "issued_date": "1931-05-07",
+  "in_force_date": "1931-07-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/537",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Stosownie do art. 16 ustawy konstytucyjnej, zawierającej statut organiczny województwa śląskiego z dnia 15 lipca 1920 r. (Dz. U. R. P. Nr 73, poz. 497), oraz stosownie do art. 86 dekretu z dnia 28 listopada 1918 r. o ordynacji wyborczej do Sejmu Ustawodawczego w brzmieniu obowiązującem przy wyborach do Sejmu Śląskiego (Dz. U. R. P. Nr 59, poz. 528 z roku 1922, oraz Dz. U. R. P. Nr 12, poz. 87 z roku 1930) wyznacza Sejm Śląski sąd apelacyjny w Katowicach, jako sąd kompetentny do rozstrzygnięcia o ważności zaprotestowanych wyborów, przeprowadzonych do III-go Sejmu Śląskiego. O sposobie postępowania rozstrzyga sąd wedle własnego uznania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy należy do Ministra Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

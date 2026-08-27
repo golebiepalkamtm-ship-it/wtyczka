@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1934-241",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 1934 r. o sprzedaży niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1934-241",
+  "status": "in_force",
+  "issued_date": "1934-03-15",
+  "in_force_date": "1934-04-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/241",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż następujących nieruchomości, stanowiących własność Skarbu Państwa: 1) Stowarzyszeniu Urzędników Państwowych (Kołu w Baranowiczach) dwóch placów państwowych, położonych przy ul. Stanisława Staszica w Baranowiczach: a) placu o powierzchni 1.628 m 2 , oznaczonego Nr 4 w bloku II planu parcelacyjnego terenu pod nazwą „Osiedle - Kolonja Urzędnicza - w Baranowiczach”, uchwalonego przez radę miejską miasta Baranowicze w dniu 28 marca 1929 r., b) placu o powierzchni 1.638 m 2 , oznaczonego Nr 5 w bloku II tegoż planu, wymienionego w lit. a) - za łączną cenę 4.899 zł; 2) Spółce Akcyjnej „Przemysł Metalowy Granat” w Warszawie placu państwowego w Kielcach o powierzchni 3.790 m 2 , ograniczonego od północnego wschodu gruntami Józefa Eubicha, od południowego wschodu ul. Młynarską, od południowego zachodu terenami fabryki wspomnianej spółki i od północy ul. Karczowską, - za cenę 4.200 zł; 3) Międzykomunalnemu Związkowi Opiekuńczemu województwa nowogródzkiego w Nowogródku placu państwowego w Nowojelni o powierzchni 29,730 m 2 , położonego w bloku XV według oznaczenia, przyjętego w planie zabudowania, zatwierdzonym przez Ministerstwo Robót Publicznych decyzją z dnia 14 sierpnia 1924 r. Nr VIII A - 1059, a ograniczonego od zachodu gruntami wsi Tołkuny, od północnego wschodu szosą Nowojelnia - Zdzięcioł, od południowego wschodu ulicą, oznaczoną na wspomnianym planie Nr 8, oraz od południa gruntem Skarbu Państwa, - za cenę 7.500 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

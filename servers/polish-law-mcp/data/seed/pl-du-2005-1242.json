@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-1242",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 czerwca 2005 r. o ratyfikacji Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wykorzystania technologii informatycznej dla potrzeb celnych, sporządzonej w Brukseli dnia 26 lipca 1995 r.",
+  "title_en": "",
+  "short_name": "pl-du-2005-1242",
+  "status": "in_force",
+  "issued_date": "2005-06-30",
+  "in_force_date": "2005-08-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1242",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Konwencji sporządzonej na podstawie artykułu K.3 Traktatu o Unii Europejskiej w sprawie wykorzystania technologii informatycznej dla potrzeb celnych, sporządzonej w Brukseli dnia 26 lipca 1995 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

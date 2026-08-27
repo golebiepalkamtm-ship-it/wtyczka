@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1921-81",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 lutego 1921 r. o upoważnieniu Ministra Skarbu do udzielenia państwowej gwarancji finansowej do sumy 2.000.000 funtów szterlingów dla zobowiązań, zaciągniętych przez Związek Syndykatów Rolniczych p. f. \"Kooperacja Rolna\".",
+  "title_en": "",
+  "short_name": "pl-du-1921-81",
+  "status": "in_force",
+  "issued_date": "1921-02-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/81",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do udzielenia państwowej gwarancji finansowej do wysokości 2.000.000 funtów szterlingów dla zobowiązań, jakie będą zaciągnięte przez Związek Syndykatów Rolniczych p. f. „Kooperacja Rolna” względem firm zagranicznych w celu sprowadzenia do Polski artykułów, służących do podniesienia produkcji rolnej, a mianowicie: nawozów sztucznych i surowców do ich wyrobu, maszyn rolniczych, nasion, paszy treściwej oraz inwentarza roboczego i zarodowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Gwarancja powyższa obejmować może tylko te zobowiązania „Kooperacji Rolnej”, które zaciągnięte będą przed dniem 1 stycznia 1922 r. a nie będą pokryte przez „Kooperację Rolną” przed dniem 15 marca 1922 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Gwarancję powyższą Minister Skarbu może udzielić po uzyskaniu dostatecznego zabezpieczenia na rzecz Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych, Ministrem Aprowizacji oraz Ministrem b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1981-79",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. o utworzeniu urzędu Ministra Przemysłu Chemicznego i Lekkiego.",
+  "title_en": "",
+  "short_name": "pl-du-1981-79",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1981-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/79",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Przemysłu Chemicznego i Lekkiego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Przemysłu Chemicznego i Lekkiego należą sprawy: wydobywania i przetwarzania surowców chemicznych, przemysłu rafineryjnego, petrochemicznego, organicznego, nieorganicznego, chemii gospodarczej i kosmetyków, tworzyw sztucznych, włókien sztucznych, farmaceutycznego, gumowego, włókienniczego, odzieżowego, skórzanego, obuwniczego, szklarskiego, ceramiki szlachetnej i sprzętu sportowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Zadaniem Ministra Przemysłu Chemicznego i Lekkiego jest nadawanie kierunku działania gałęziom gospodarki określonym w art. 2, stosownie do potrzeb społecznych i gospodarczych, zgodnie z polityką Państwa. 2. Minister Przemysłu Chemicznego i Lekkiego zadanie to realizuje w szczególności poprzez prognozowanie, programowanie i koordynowanie rozwoju tych gałęzi gospodarki, dokonywanie kompleksowej analizy i oceny działalności przedsiębiorstw i innych podległych jednostek organizacyjnych, koordynowanie ich działalności, współdziałanie w kształtowaniu systemów ekonomicznych przedsiębiorstw i innych podległych jednostek organizacyjnych, prowadzenie polityki kadrowej oraz udzielanie pomocy w szkoleniu kadr tych przedsiębiorstw i jednostek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Rada Ministrów, po zasięgnięciu opinii odpowiednich komisji sejmowych, w drodze rozporządzenia, określi szczegółowy zakres działania Ministra Przemysłu Chemicznego i Lekkiego. 2. Organizację Ministerstwa Przemysłu Chemicznego i Lekkiego oraz jednostki organizacyjne podległe Ministrowi Przemysłu Chemicznego i Lekkiego określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Znosi się urzędy Ministra Przemysłu Chemicznego oraz Ministra Przemysłu Lekkiego. 2. Sprawy należące dotychczas do zakresu działania Ministra Przemysłu Chemicznego i Ministra Przemysłu Lekkiego, a także sprawy należące do innych ministrów i centralnych urzędów w zakresie przemysłów, o których mowa w art. 2, przechodzą do zakresu działania Ministra Przemysłu Chemicznego i Lekkiego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. W art. 2 w ust. 1 ustawy z dnia 26 maja 1978 r. o utworzeniu Głównego Komitetu Kultury Fizycznej i Sportu ( Dz. U. Nr 14, poz. 59 ) skreśla się wyrazy: „rozwijania produkcji sprzętu sportowego” . 2. Tracą moc: 1) ustawa z dnia 10 lutego 1949 r. o zmianie organizacji naczelnych władz gospodarki narodowej ( Dz. U. Nr 7, poz. 43 , z 1950 r. Nr 44, poz. 400 , z 1952 r. Nr 18, poz. 109 , z 1954 r. Nr 47, poz. 223 , z 1955 r. Nr 18, poz. 105 , z 1956 r. Nr 30, poz. 138 , Nr 41, poz. 186 i Nr 54, poz. 244 , z 1972 r. Nr 11, poz. 75 i z 1974 r. Nr 13, poz. 78 ) , 2) ustawa z dnia 30 grudnia 1950 r. o urzędzie Ministra Przemysłu Chemicznego ( Dz. U. Nr 58, poz. 522 ) ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

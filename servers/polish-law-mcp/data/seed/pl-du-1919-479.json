@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1919-479",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 1919 r. w przedmiocie zmian niektórych postanowień ustaw gminnych, obowiązujących w miastach Galicji, jakoteż rozszerzenia zakresu działania galicyjskich rad miejskich (gminnych).",
+  "title_en": "",
+  "short_name": "pl-du-1919-479",
+  "status": "in_force",
+  "issued_date": "1919-10-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/479",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Spraw Wewnętrznych do udzielania w porozumieniu z Ministrem Skarbu pozwoleń na nakładanie dodatków do państwowych podatków bezpośrednich lub podatków konsumcyjnych wzgl. do zaprowadzania danin, nie należących do kategorji dodatków do podatków bezpośrednich lub podatków konsumcyjnych, jakoteż podwyższania istniejących już poborów tego rodzaju w tych wszystkich wypadkach, w których stosownie do § 89, 90 i 92 statutu król. stoł. miasta Lwowa z dn. 14 października 1870 r. Dz. U. K. Nr. 79 (w brzmieniu, ustalonem ustawą z 11 września 1900 r. Dz. U. K. Nr. 90), § 60 p. 23 lit b) c) d) i e) statutu król. st. m. Krakowa z dnia 6 października 1901, Dz. U. K. Nr. 108 (w brzmieniu, ustalonem ustawą z 12 kwietnia 1905 r. Dz. U. K. Nr. 70), § 86 ustawy z dnia 13 marca 1889 r. Dz. U. K. Nr. 24 (w brzmieniu, ustalonem ustawą z 13 stycznia 1909 r., Dz. U. K. Nr. 21) i § 87 cyt. ustawy z dn. 13 marca 1889 r. Dz. U. K. Nr. 24, wreszcie § 82 ustawy z dn. 3 lipca 1896 r., Dz. U. K. Nr. 51 (w brzmieniu, ustalonem ustawą z 13 stycznia 1909 r., Dz. U. K. Nr. 22) tudzież § 83 cyt. ustawy z dnia 3 lipca 1896 r., Dz. U. K. Nr. 51 - nakładanie wspomnianych dodatków do podatków, wzgl. zaprowadzanie wymienionych wyżej danin zawisłe było od uchwały Sejmu Krajowego, lub też od uchwały Sejmu Krajowego i zezwolenia b. cesarza austrjackiego albo wreszcie od ustawy krajowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rady Miejskie król. stoł. m. Lwowa i Krakowa, jak również Rady Miejskie w miastach; podlegających ustawie z dnia 13 marca 1889 r. Dz. U. K. Nr. 24, oraz Rady Gminne w miastach, podlegające ustawie z dnia 3 lipca 1896 r. Dz. U. K. Nr. 51, mogą na pokrycie wydatków na cele gminne uchwalać podatki samoistne i ustanawiać zasady ich rozkładu i poboru. Odnośne uchwały podatkowe jakoteż zasady rozkładu i poboru podatków podlegają zatwierdzeniu Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Sprzeczne z nią ustawy i rozporządzenia tracą moc obowiązującą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy porucza się Ministrom Spraw Wewnętrznych i Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

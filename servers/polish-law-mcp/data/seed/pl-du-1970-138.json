@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1970-138",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 czerwca 1970 r. o zmianie dekretu o świadczeniach w celu zwalczania klęsk żywiołowych.",
+  "title_en": "",
+  "short_name": "pl-du-1970-138",
+  "status": "in_force",
+  "issued_date": "1970-06-30",
+  "in_force_date": "1970-07-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1970/138",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W dekrecie z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk żywiołowych ( Dz. U. z 1953 r. Nr 23, poz. 93 i z 1959 r. Nr 27, poz. 167 ) wprowadza się następujące zmiany: 1) w art. 1 dotychczasowy przepis oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Przepisy dekretu mają zastosowanie również w przypadku katastrof, o ile katastrofy te odpowiadają określeniu zawartemu w ust. 1 pkt 1 i 2. ” ; 2) w art. 10 dotychczasowy przepis oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. W razie powodzi, zakłócenia komunikacji drogowej lub innych zdarzeń, dla zwalczania których przewidziane są środki w przepisach szczególnych, przepisy dekretu mają zastosowanie, jeżeli zdarzenia te odpowiadają określeniu zawartemu w art. 1, a środki przewidziane w przepisach szczególnych byłyby nie wystarczające. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie jednego miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1925-296",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 kwietnia 1925 r. o przedłużeniu mocy obowiązującej przepisów o wymiarze i poborze państwowego podatku od nieruchomości w gminach miejskich oraz od niektórych budynków w gminach wiejskich.",
+  "title_en": "",
+  "short_name": "pl-du-1925-296",
+  "status": "in_force",
+  "issued_date": "1925-04-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/296",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą przepisów ustępu pierwszego art. 25 ustawy z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. U. R. P. № 39, poz. 406), tudzież rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 czerwca 1924 r. o wymiarze i poborze państwowego podatku od nieruchomości w gminach miejskich oraz od niektórych budynków w gminach wiejskich na rok 1924 (Dz. U. R. P. № 51, poz. 523) przedłuża się ze zmianami, wskazanemi w artykułach następnych niniejszej ustawy, do końca roku 1928."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Stawkę podatkową 20%, o której mowa w § 7 wspomnianego rozporządzenia Prezydenta Rzeczypospolitej, ustanawia się: 1) na rok 1925 - w wysokości 12% 2) na rok 1926 - w wysokości 10% 3) na rok 1927 - w wysokości 8% 4) na rok 1928 - w wysokości 7%"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podstawę wymiaru, jako też wysokość podatku należy określać corocznie, oddzielnie jednak za każdy kwartał kalendarzowy, opierając się przytem na danych, zebranych i sprawdzonych przy wymierzaniu podatku na rok 1924."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zmiany w wysokości czynszów najmu nieruchomości lub ich części, niepodlegających przepisom ustawy o ochronie lokatorów, zaszłe w ciągu roku 1924, względnie w latach następnych, powinny być uwzględnione przy wymiarze podatku już za rok kalendarzowy, bezpośrednio następujący po zaszłej zmianie. O zmianach powyższych powinni właściciele nieruchomości zawiadomić władze wymiarowe w ciągu 30 dni po zaszłej zmianie. Winni niezłożenia tego zawiadomienia, jako też podania w niem świadomie nieprawdziwych danych karani będą wedle każdocześnie obowiązujących przepisów o państwowym podatku dochodowym, dotyczących niezłożenia zeznania o dochodzie, względnie podania w niem świadomie nieprawdziwych danych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Podatek, przypadający na każdy kwartał kalendarzowy, płatny jest w końcu drugiego miesiąca następnego kwartału."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Skarbu ustali w drodze rozporządzenia terminy ukończenia postępowania wymiarowego, jako też rozesłania nakazów płatniczych, które winny być wygotowane oddzielnie na każdy rok kalendarzowy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W wyjątkowych wypadkach, zasługujących na szczególne uwzględnienie, gdyby uiszczenie podatku w przepisanych terminach mogło narazić egzystencję gospodarczą płatnika, służy Ministrowi Skarbu prawo odraczania podatku, jako też rozkładania na raty. Ministrowi Skarbu służy prawo przeniesienia powyższych uprawnień na władze skarbowe niższych instancyj."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje począwszy od 1 stycznia 1925 r. na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

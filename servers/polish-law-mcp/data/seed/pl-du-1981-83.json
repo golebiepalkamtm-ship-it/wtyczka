@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1981-83",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. zmieniająca ustawę o gospodarce paliwowo-energetycznej.",
+  "title_en": "",
+  "short_name": "pl-du-1981-83",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1982-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/83",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 maja 1962 r. o gospodarce paliwowo-energetycznej ( Dz. U. Nr 32, poz. 150 , z 1971 r. Nr 12, poz. 117 , z 1976 r. Nr 12, poz. 71 i z 1978 r. Nr 26, poz. 116 ) wprowadza się następujące zmiany: 1) w art. 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Minister Gospodarki Materiałowej wydaje przepisy w dziedzinie gospodarki paliwowo-energetycznej w stosunku do jednostek gospodarki uspołecznionej w sprawach określonych w drodze rozporządzenia przez Radę Ministrów, po zasięgnięciu opinii odpowiednich komisji sejmowych. ” ; 2) w art. 5: a) w ust. 2 pkt 2 otrzymuje brzmienie: „ 2) przygotowywanie informacji, opinii i wniosków w sprawach gospodarki paliwowo-energetycznej ” , b) ust. 4 i 5 otrzymują brzmienie: „ 4. Główny Inspektor Gospodarki Energetycznej podlega Ministrowi Gospodarki Materiałowej. 5. Prezes Rady Ministrów na wniosek Ministra Gospodarki Materiałowej powołuje i odwołuje Głównego Inspektora Gospodarki Energetycznej oraz jego zastępców. ” , c) ust. 7 otrzymuje brzmienie: „ 7. Prezes Rady Ministrów na wniosek Ministra Gospodarki Materiałowej nada statut Głównemu Inspektoratowi Gospodarki Energetycznej. ” , d) dodaje się ust. 9 w brzmieniu: „ 9. Rada Ministrów może upoważnić inne organy do sprawowania kontroli gospodarki paliwowo-energetycznej w określonym zakresie. ” ; 3) w art. 16 ust. 3 otrzymuje brzmienie: „ 3. Minister Gospodarki Materiałowej może zakazać użytkowania określonego urządzenia, które nie spełnia wymagań określonych w ust. 1. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 2 ustawy z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Gospodarki Materiałowej ( Dz. U. Nr 12, poz. 71 i z 1978 r. Nr 26, poz. 116 ) wprowadza się następujące zmiany: a) ust. 1 otrzymuje brzmienie: „ 1. Do zakresu działania Ministra Gospodarki Materiałowej należą sprawy zaopatrzenia i gospodarki surowcami, materiałami, paliwami i energią oraz sprawy rezerw państwowych. ” , b) w ust. 3: - pkt 1 otrzymuje brzmienie: „ 1) efektywności wykorzystania materiałów, surowców, paliw i energii, ” , - pkt 3 otrzymuje brzmienie: „ 3) obrotu i zaopatrzenia w surowce, materiały, paliwa i energię ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

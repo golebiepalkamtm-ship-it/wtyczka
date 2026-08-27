@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2017-2120",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 września 2017 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych",
+  "title_en": "",
+  "short_name": "pl-du-2017-2120",
+  "status": "in_force",
+  "issued_date": "2017-09-29",
+  "in_force_date": "2017-11-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/2120",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ( Dz. U. z 2017 r. poz. 1383 i 1386 ) wprowadza się następujące zmiany: 1) w art. 57 w ust. 1 w pkt 3 na końcu kropkę zastępuje się średnikiem i dodaje się pkt 4 w brzmieniu: „ 4) nie ma ustalonego prawa do emerytury z Funduszu lub nie spełnia warunków do jej uzyskania. ” ; 2) art. 61 otrzymuje brzmienie: „ Art. 61. Prawo do renty, które ustało z powodu ustąpienia niezdolności do pracy, podlega przywróceniu, jeżeli w ciągu 18 miesięcy od ustania prawa do renty ubezpieczony ponownie stał się niezdolny do pracy, z zastrzeżeniem art. 101a. ” ; 3) w art. 85: a) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Jeżeli w wyniku waloryzacji emerytura przyznana na podstawie art. 24a lub art. 27a, osobie niemającej okresu składkowego i nieskładkowego wymaganego do ustalenia tej emerytury w wysokości najniższej emerytury, jest niższa od obowiązujących od terminu waloryzacji nowych kwot najniższych rent z tytułu niezdolności do pracy, emeryturę tę podwyższa się odpowiednio do: 1) kwoty, o której mowa w art. 85 ust. 1 pkt 1, jeżeli emerytura z urzędu została przyznana osobie uprzednio uprawnionej do renty z tytułu całkowitej niezdolności do pracy; 2) kwoty, o której mowa w art. 85 ust. 1 pkt 2, jeżeli emerytura z urzędu została przyznana osobie uprzednio uprawnionej do renty z tytułu częściowej niezdolności do pracy. ” , b) ust. 3 otrzymuje brzmienie: „ 3. Kwoty najniższych świadczeń, o których mowa w ust. 1-2a, podwyższa się przy zastosowaniu wskaźnika waloryzacji, o którym mowa w art. 89-94. ” ; 4) art. 101a otrzymuje brzmienie: „ Art. 101a. Prawo do renty z tytułu niezdolności do pracy ustaje z dniem, od którego została przyznana emerytura z Funduszu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 30 października 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy i chorób zawodowych ( Dz. U. z 2017 r. poz. 1773 ) w art. 17 ust. 1 otrzymuje brzmienie: „ 1. Przy ustalaniu prawa do renty z tytułu niezdolności do pracy, renty szkoleniowej, renty rodzinnej i dodatku do renty rodzinnej dla sieroty zupełnej z tytułu ubezpieczenia wypadkowego, do ustalenia wysokości tych świadczeń oraz ich wypłaty stosuje się odpowiednio przepisy ustawy o emeryturach i rentach z FUS, z wyjątkiem art. 57 ust. 1 pkt 4 oraz art. 101a tej ustawy, z uwzględnieniem przepisów niniejszej ustawy. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Wysokość emerytury, przyznanej przed dniem 1 marca 2017 r. na podstawie art. 24a i art. 27a ustawy zmienianej w art. 1, przysługującej w dniu wejścia w życie niniejszej ustawy, ustala się ponownie z zastosowaniem art. 85 ust. 2a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą. 2. Ponownego ustalenia wysokości emerytur, o których mowa w ust. 1, dokonuje się z urzędu w najbliższym terminie waloryzacji emerytur i rent przypadającym po dniu wejścia w życie niniejszej ustawy, z wyrównaniem od dnia 1 marca 2017 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do spraw o przyznanie renty z tytułu niezdolności do pracy wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

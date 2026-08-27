@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2013-405",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 marca 2013 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym",
+  "title_en": "",
+  "short_name": "pl-du-2013-405",
+  "status": "amended",
+  "issued_date": "2013-03-08",
+  "in_force_date": "2013-03-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/405",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym ( Dz. U. z 2012 r. poz. 647 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21. ) wprowadza się następujące zmiany: 1) w art. 17 pkt 11 otrzymuje brzmienie: „ 11) wyznacza w ogłoszeniu, o którym mowa w pkt 9, termin, w którym osoby fizyczne i prawne oraz jednostki organizacyjne nieposiadające osobowości prawnej mogą wnosić uwagi dotyczące projektu planu, nie krótszy niż 14 dni od dnia zakończenia okresu wyłożenia projektu planu; ” ; 2) w art. 18: a) ust. 1 otrzymuje brzmienie: „ 1. Uwagi do projektu planu miejscowego może wnieść każdy, kto kwestionuje ustalenia przyjęte w projekcie planu, wyłożonym do publicznego wglądu, o którym mowa w art. 17 pkt 9. ” , b) ust. 3 otrzymuje brzmienie: „ 3. Jako wniesione na piśmie uznaje się również uwagi wniesione w postaci elektronicznej: 1) opatrzone bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu w rozumieniu ustawy z dnia 18 września 2001 r. o podpisie elektronicznym ( Dz. U. z 2013 r. poz. 262 ) lub 2) opatrzone podpisem potwierdzonym profilem zaufanym ePUAP w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ( Dz. U. z 2013 r. poz. 235 ) lub 3) za pomocą elektronicznej skrzynki podawczej w rozumieniu przepisów ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 951 i 1445 oraz z 2013 r. poz. 21. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

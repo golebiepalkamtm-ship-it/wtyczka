@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-96",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 listopada 2009 r. o zmianie ustawy o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych",
+  "title_en": "",
+  "short_name": "pl-du-2010-96",
+  "status": "amended",
+  "issued_date": "2009-11-19",
+  "in_force_date": "2010-02-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/96",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych ( Dz. U. z 2005 r. Nr 235, poz. 2000 , z 2006 r. Nr 220, poz. 1600 oraz z 2009 r. Nr 168, poz. 1323 ) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. Flagę państwową Rzeczypospolitej Polskiej zaleca się podnosić lub umieszczać na budynkach mieszkalnych lub przed budynkami mieszkalnymi oraz na budynkach lub przed budynkami, w których prowadzi się działalność gospodarczą lub w innych miejscach niż wymienione w ust. 1 i 2 - z okazji świąt i rocznic państwowych oraz innych uroczystości o zasięgu państwowym lub lokalnym, z uwzględnieniem art. 1 ust. 2. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

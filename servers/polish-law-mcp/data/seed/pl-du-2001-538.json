@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2001-538",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 kwietnia 2001 r. o zmianie ustawy - Kodeks pracy.",
+  "title_en": "",
+  "short_name": "pl-du-2001-538",
+  "status": "in_force",
+  "issued_date": "2001-04-25",
+  "in_force_date": "2001-05-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/538",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ( Dz. U. z 1998 r. Nr 21, poz. 94 , Nr 106, poz. 668 i Nr 113, poz. 717 , z 1999 r. Nr 99, poz. 1152 , z 2000 r. Nr 19, poz. 239 , Nr 43, poz. 489 , Nr 107, poz. 1127 i Nr 120, poz. 1268 oraz z 2001 r. Nr 11, poz. 84 i Nr 28, poz. 301 ) wprowadza się następujące zmiany: 1) tytuł działu ósmego otrzymuje brzmienie: „ Ochrona pracy kobiet oraz mężczyzn wychowujących dziecko ” ; 2) w art. 180 po § 4 dodaje się § 5 i 6 w brzmieniu: „ § 5. Pracownica może wystąpić do pracodawcy z wnioskiem o skrócenie wymiaru urlopu macierzyńskiego, określając jego wymiar, i wcześniej powrócić do pracy. Pracodawca jest obowiązany zaakceptować ten wniosek. Skrócony urlop nie może trwać krócej niż 16 tygodni. § 6. O ile pracownica, o której mowa w § 5, skróci wymiar urlopu macierzyńskiego, z wnioskiem do pracodawcy o wykorzystanie pozostałej części urlopu macierzyńskiego może wystąpić pracownik - ojciec wychowujący dziecko. Pracodawca jest obowiązany zaakceptować ten wniosek. Wymiar urlopu pracownika nie może być dłuższy niż różnica pomiędzy wymiarem urlopu macierzyńskiego określonym w § 1 a wymiarem urlopu określonym we wniosku, o którym mowa w § 5. ” ; 3) art. 183 otrzymuje brzmienie: „ Art. 183. Pracownicy, która przyjęła dziecko na wychowanie i wystąpiła do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka, przysługuje prawo do urlopu na warunkach urlopu macierzyńskiego w wymiarze: 1) 22 tygodni, nie dłużej jednak niż do ukończenia przez dziecko 12 miesięcy życia, 2) 35 tygodni, w przypadku jednoczesnego przyjęcia na wychowanie więcej niż jednego dziecka i wystąpienia do sądu opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie ich przysposobienia, nie dłużej jednak niż do ukończenia przez każde z dzieci 12 miesięcy życia. ” ; 4) w art. 189 1 § 2 otrzymuje brzmienie: „ § 2. Przepis art. 183 stosuje się także do pracownicy, która przyjęła dziecko na wychowanie jako rodzina zastępcza, z wyjątkiem rodziny zastępczej pełniącej zadania pogotowia rodzinnego. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wymiar urlopu na warunkach urlopu macierzyńskiego, o którym mowa w art. 183 ustawy wymienionej w art. 1, stosuje się także do pracownic korzystających z urlopu na warunkach urlopu macierzyńskiego w dniu wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1982-64",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 lutego 1982 r. o utworzeniu Państwowej Agencji Atomistyki.",
+  "title_en": "",
+  "short_name": "pl-du-1982-64",
+  "status": "repealed",
+  "issued_date": "1982-02-27",
+  "in_force_date": "1982-03-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1982/64",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się Państwową Agencję Atomistyki. 2. Państwowa Agencja Atomistyki realizuje wyłączność Państwa w dziedzinie atomistyki w zakresie określonym w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Państwowa Agencja Atomistyki wykonuje zadania centralnego organu administracji państwowej w zakresie atomistyki i jest organem założycielskim w stosunku do podległych jej wyodrębnionych jednostek organizacyjnych. 2. Państwowa Agencja Atomistyki podlega Prezesowi Rady Ministrów. Prezes Rady Ministrów może przekazać sprawowanie nadzoru nad działalnością Agencji jednemu z członków Rady Ministrów. 3. Na czele Państwowej Agencji Atomistyki stoi Prezes. Prezesa Państwowej Agencji Atomistyki powołuje i odwołuje Prezes Rady Ministrów. Wiceprezesa Państwowej Agencji Atomistyki powołuje i odwołuje Prezes Rady Ministrów na wniosek Prezesa Agencji. 4. Prezes Państwowej Agencji Atomistyki kieruje Agencją przy pomocy Zarządu, któremu przewodniczy. W skład Zarządu Państwowej Agencji Atomistyki wchodzą: wiceprezes Agencji, przedstawiciele Ministrów: Górnictwa i Energetyki, Nauki, Szkolnictwa Wyższego i Techniki, Obrony Narodowej, Zdrowia i Opieki Społecznej oraz Polskiej Akademii Nauk, a ponadto powołani przez Prezesa Agencji dyrektorzy jednostek organizacyjnych, wchodzących w skład Agencji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do zakresu działania Państwowej Agencji Atomistyki należą sprawy: 1) koordynacji i kontroli całokształtu działań w zakresie atomistyki, 2) badań i zastosowań z zakresu atomistyki w gospodarce narodowej, 3) produkcji aparatury i urządzeń jądrowych, materiałów promieniotwórczych oraz obrotu nimi, 4) ochrony radiologicznej i bezpieczeństwa jądrowego, wraz z unieszkodliwianiem i składowaniem odpadów promieniotwórczych, 5) licencjonowania i kontroli użytkowania wszelkich obiektów i urządzeń jądrowych w zakresie bezpieczeństwa jądrowego, 6) nadawania uprawnień dla podstawowych kadr zatrudnionych przy eksploatacji urządzeń jądrowych, 7) informowania społeczeństwa o działalności Państwa w zakresie atomistyki, 8) udziału w realizacji zadań obronnych w zakresie atomistyki, 9) współpracy międzynarodowej w zakresie atomistyki w sprawach określonych w pkt 1-6, 10) nadzoru nad wykonywaniem zadań przez podległe jej wyodrębnione jednostki organizacyjne."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Zadaniem Państwowej Agencji Atomistyki jest wytyczanie kierunków działań w zakresie określonym w art. 3, stosownie do potrzeb społecznych i gospodarczych, zgodnie z polityką Państwa. 2. Zadanie to Państwowa Agencja Atomistyki realizuje w szczególności przez prognozowanie i programowanie kompleksowych działań w celu rozwoju i pokojowego wykorzystania atomistyki, dokonywanie analizy i oceny działalności placówek naukowo-badawczych, przedsiębiorstw i innych jednostek organizacyjnych wchodzących w skład Agencji, koordynowanie tej działalności, współdziałanie w kształtowaniu systemów ekonomicznych jednostek organizacyjnych wchodzących w skład Agencji, prowadzenie polityki kadrowej oraz udzielanie pomocy w szkoleniu kadr w zakresie atomistyki."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Przy Państwowej Agencji Atomistyki działa Rada do Spraw Atomistyki, jako organ opiniodawczy i doradczy w sprawach objętych zakresem działania Agencji. Przewodniczącego Rady powołuje Prezes Rady Ministrów na wniosek Prezesa Agencji, zgłoszony po zasięgnięciu opinii Zarządu. 2. Zakres, tryb działania i skład Rady do Spraw Atomistyki określa statut Rady, nadany przez Prezesa Rady Ministrów, po zasięgnięciu opinii Prezydium Polskiej Akademii Nauk oraz Rady Głównej Nauki, Szkolnictwa Wyższego i Techniki."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Rada Ministrów, w drodze rozporządzenia, określa szczegółowy zakres działania Państwowej Agencji Atomistyki. 2. Organizację Państwowej Agencji Atomistyki oraz jednostki organizacyjne wchodzące w skład Agencji określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_3-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_3-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1990-84",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lutego 1990 r. o zmianie Kodeksu karnego i niektórych innych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-1990-84",
+  "status": "repealed",
+  "issued_date": "1990-02-23",
+  "in_force_date": "1990-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/84",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Kodeksie karnym wprowadza się następujące zmiany: 1) w art. 45 wyrazy „ani w czasie pobytu w ośrodku przystosowania społecznego” skreśla się; 2) art. 62-65 skreśla się; 3) w art. 71 w § 1 wyrazy „oraz nadzór ochronny i umieszczenie w ośrodku przystosowania społecznego” skreśla się; 4) w art. 98 w § 1 wyrazy „nie wykonuje się orzeczonego w stosunku do niej nadzoru ochronnego, natomiast” oraz § 2 i oznaczenie § 1 skreśla się; 5) w art. 111 w § 4 wyrazy „lub umieszczenie w ośrodku przystosowania społecznego” oraz „lub też zwolnienia z ośrodka” skreśla się, a po wyrazie „dodatkowej” stawia się kropkę; 6) w art. 120 § 9 skreśla się; 7) art. 134 i 135 skreśla się; 8) w art. 201 wyrazy „na czas nie krótszy od lat 5 albo karze 25 lat pozbawienia wolności” zastępuje się wyrazami „od roku do lat 10” ; 9) w art. 202 § 2 oraz oznaczenie § 1 skreśla się; 10) w art. 203 po § 2 dodaje się § 2 1 w brzmieniu: „ § 2 1 . Kto dopuszcza się przestępstwa określonego w § 1 w stosunku do mienia znacznej wartości, podlega karze pozbawienia wolności od roku do lat 10. ” ; 11) w art. 215 w § 2 wyraz „społecznego” skreśla się, a wyrazy „na czas nie krótszy od lat 3” zastępuje się wyrazami „od roku do lat 10” ; 12) w art. 256 w § 1 wyrazy „albo umieszczony w ośrodku przystosowania społecznego” skreśla się; 13) w art. 257 w § 1 wyrazy „albo umieszczoną w ośrodku przystosowania społecznego” skreśla się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Karę dodatkową konfiskaty mienia przewidzianą w Kodeksie karnym i w innych ustawach znosi się."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jeżeli według ustawy czyn objęty prawomocnym wyrokiem jest zagrożony karą, której górna granica jest niższa od kary orzeczonej, wymierzoną, a nie wykonaną karę pozbawienia wolności łagodzi się do górnego ustawowego zagrożenia przewidzianego za taki czyn; w razie potrzeby orzeka się karę łączną."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Orzeczenia o nadzorze ochronnym lub umieszczeniu w ośrodku przystosowania społecznego nie podlegają wykonaniu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Jeżeli na podstawie ustawy nastąpiła zmiana właściwości sądu, orzeka sąd dotychczas właściwy, w wypadku gdy akt oskarżenia wniesiono przed dniem wejścia jej w życie. 2. Sprawy, w których orzeczenia sądu kończące postępowanie zostały uchylone po dniu wejścia ustawy w życie, przekazuje się sądowi właściwemu według przepisów obowiązujących po tym dniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W sprawach, o których mowa w art. 3, orzeka na posiedzeniu sąd właściwy do wykonania kary; na postanowienie sądu przysługuje zażalenie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W ustawie karnej skarbowej z dnia 26 października 1971 r. ( Dz. U. z 1984 r. Nr 22, poz. 103 i z 1985 r. Nr 23, poz. 100 ) wprowadza się następujące zmiany: 1) w art. 2 liczby „63-65” skreśla się, a wyrazy „91 § 1 i 3” zastępuje się wyrazami „91 § 1, 2, 4 i 5” ; 2) w art. 25 w § 1 w pkt 3 wyrazy „przekracza 400 000 złotych” zastępuje się wyrazami „jest znaczna” , a wyrazy „w wysokości przekraczającej 400 000 złotych” zastępuje się wyrazami „znacznej wartości” ; 3) art. 27, 76 i 89 skreśla się."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

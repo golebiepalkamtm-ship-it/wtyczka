@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-63",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 stycznia 1933 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o ochronie wynalazków, wzorów i znaków towarowych.",
+  "title_en": "",
+  "short_name": "pl-du-1933-63",
+  "status": "in_force",
+  "issued_date": "1933-01-25",
+  "in_force_date": "1933-02-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/63",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o ochronie wynalazków, wzorów i znaków towarowych ( Dz. U. R. P. Nr 39, poz. 384 ) ulega następującym zmianom: 1) Art. 74 otrzymuje brzmienie następujące: „ Art. 74. (1) Opłata przy zgłoszeniu patentu (art. 36) wynosi 35 zł. (2) Opłaty roczne wynoszą: za rok pierwszy 50 zł za rok drugi 75 zł za rok trzeci 100 zł za rok czwarty 125 zł za rok piąty 150 zł za rok szósty 200 zł za rok siódmy 250 zł za rok ósmy 300 zł za rok dziewiąty 400 zł za rok dziesiąty 500 zł za rok jedenasty 600 zł za rok dwunasty 700 zł za rok trzynasty 800 zł za rok czternasty 900 zł za rok piętnasty 1.000 zł (3) Za udzielenie patentu dodatkowego należy się oprócz opłaty przy zgłoszeniu jednorazowa opłata 50 zł zamiast opłat rocznych. Odkąd patent staje się samoistnym, pobiera się od niego zwykłe opłaty roczne, przewidziane od patentu głównego ” . 2) Art. 75 ust. 2 otrzymuje brzmienie następujące: „ (2) Jednakowoż można uiścić opłatę w ciągu sześciu miesięcy po terminie płatności z grzywną w wysokości 5% przy opłacie w pierwszym miesiącu, 10% - w drugim, 15% - w trzecim, 20% - w czwartym, 25% - w piątym i 30% - w szóstym ” . 3) W art. 213 wstawia się jako ustęp 3: „ (3) Za każdy dalszy dziesięcioletni okres ochrony znaku należy się opłata 90 zł i za każdą klasę towarową 20 zł ” . 4) Ustęp 3 art. 213 staje się ustępem 4."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Sprawiedliwości i Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

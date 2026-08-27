@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1933-279",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 marca 1933 r. o opiece nad muzeami publicznemi.",
+  "title_en": "",
+  "short_name": "pl-du-1933-279",
+  "status": "repealed",
+  "issued_date": "1933-03-28",
+  "in_force_date": "1933-05-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/279",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Muzeami publicznemi w rozumieniu ustawy niniejszej są wszelkie zbiory z zakresu sztuki, kultury i przyrody z wyłączeniem bibljotek, zorganizowane pod kątem widzenia wartości naukowej, artystycznej lub pamiątkowej, będące własnością: a) Państwa, b) samorządów oraz innych instytucyj i korporacyj publiczno - prawnych, c) stowarzyszeń i osób prywatnych, o ile te zbiory są udostępnione dla publiczności."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Wyznań Religijnych i Oświecenia Publicznego sprawuje nad muzeami publicznemi opiekę i nadzór w zakresie naukowym, artystycznym, technicznym i organizacyjnym, udziela zezwoleń na założenie muzeów publicznych, wymienionych w art. 1 lit. a) i b), oraz zatwierdza ich statuty."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Tworzy się przy Ministrze Wyznań Religijnych i Oświecenia Publicznego Państwową Radę Muzealną, która jest organem doradczym i opiniodawczym w zakresie opieki i nadzoru nad muzeami publicznemi; organizację i zakres działania Państwowej Rady Muzealnej określa rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Wyznań Religijnych i Oświecenia Publicznego może rozciągnąć opiekę i nadzór w zakresie, ustalonym w art. 2, również na inne muzea, oprócz wymienionych w art. 1, na wniosek ich właścicieli."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Postanowienia ustawy niniejszej nie mają zastosowania do Muzeum Wojska i Wielkopolskiego Muzeum Wojska, nad któremi opiekę i nadzór sprawuje wyłącznie Minister Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy, a w szczególności określenie - w porozumieniu z zainteresowanymi ministrami - sposobu wykonywania nadzoru nad muzeami publicznemi porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie piętnastego dnia po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

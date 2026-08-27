@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-369",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1937 r. o dodatkowym kredycie na rok 1937/38.",
+  "title_en": "",
+  "short_name": "pl-du-1937-369",
+  "status": "repealed",
+  "issued_date": "1937-06-22",
+  "in_force_date": "1937-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/369",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki zwyczajne, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1937 r. na okres od 1 kwietnia 1937 do 31 marca 1938 (Dz. U. R. P. Nr 23, poz. 147), zwiększa się w grupie A. Administracja, w części 7 Ministerstwo Spraw Wewnętrznych, w dziale 2 „Województwa i starostwa”, w § 15 „Wydatki związane z akcją rezerw aprowizacyjnych” o 10.000.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1937 r. na okres od 1 kwietnia 1937 do 31 marca 1936 (Dz. U. R. P. Nr 23, poz. 147), zwiększa się wpłatę do Skarbu Państwa w grupie C. Monopole, w części 8 Ministerstwo Skarbu, w dziale 16 „Monopol spirytusowy” o sumę 10.000.000 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia 1 kwietnia 1937 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

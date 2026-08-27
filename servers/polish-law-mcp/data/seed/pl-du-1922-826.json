@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-826",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. w przedmiocie umów przyrzeczenia sprzedaży nieruchomości ziemskich na terenie b. Królestwa Kongresowego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-826",
+  "status": "repealed",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/826",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszelkie umowy przyrzeczenia sprzedaży nieruchomości ziemskich, zawarte przed 1 stycznia 1921 r., obowiązują sprzedawcę i nie mogą być jednostronnie na jego żądanie rozwiązane, o ile będąca przedmiotem umowy nieruchomość została przez sprzedawcę oddana w posiadanie nabywcy również przed 1 stycznia 1921 r., i o ile nabywca wykaże się zezwoleniem właściwego urzędu ziemskiego na przeniesienie prawa własności zgodnie z przepisami o obrocie ziemią. Do umów tych art. 1590 kod. cyw. nie ma zastosowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do powyższych umów nie stosuje się również art. 241 ustawy notarjalnej, obowiązującej na terenach b. zaboru rosyjskiego. Jeżeli sprzedawca uchyla się od zawarcia aktu notarjalnego sprzedaży w terminie, przez nabywcę mu wyznaczonym, sąd na żądanie tegoż uzna umowę po myśli art. 1 za przenoszącą na nabywcą prawo własności nieruchomości, będącej przedmiotem umowy. Sprzedawcy nieruchomości ziemskiej służy jedynie prawo poszukiwania od nabywcy reszty umówionej ceny sprzedażnej wraz z odsetkami od dnia objęcia w posiadanie nieruchomości. Przytem suma umówiona w rublach winna być uiszczona według stosunku 1 rubel - 216 fen. - 256 hal. W razie uwzględnienia powództwa wyrok prawomocny podlega opłacie stemplowej w wysokości 6%, przewidzianej w pozycji 11 a) 1) rozporządzenia b. Generał-Gubernatora warszawskiego z dnia 19 lipca 1916 r. (Dz. Rozp. № 40, poz. 126) i w punkcie a) art. 6 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73, poz. 498), jak gdyby rezolucja sądu stanowiła treść umowy sprzedaży, zawartej między powodem a pozwanym. Sąd prześle odpis wyroku izbie skarbowej celem wymierzenia opłaty stemplowej, wyżej określonej, i wyda nabywcy tytuł wykonawczy dopiero po uiszczeniu tej opłaty."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wytaczanie powództw na podstawie umów, wymienionych w artykule 1 ustawy niniejszej, ogranicza się terminem rocznym, licząc od chwili wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje na terenie b. Królestwa Kongresowego z dniem ogłoszenia. Równocześnie traci moc obowiązującą ustawa z dn. 29 lipca 1919 r. w przedmiocie umów przyrzeczenia sprzedaży nieruchomości ziemskich (Dz. P. P. P. № 65, poz. 388). Atoli sprawy, wszczęte przed wejściem w życie niniejszej ustawy, będą rozstrzygnięte według postanowień ustawy z dnia 29 lipca 1919 r. (Dz. P. P. P. № 65, poz. 388) przy zachowaniu wszakże przepisu, zawartego w ustępie 3-im art. 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonania ustawy niniejszej powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

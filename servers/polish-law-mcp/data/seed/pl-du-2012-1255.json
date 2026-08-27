@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2012-1255",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 października 2012 r. o zmianie ustawy o świadczeniach rodzinnych",
+  "title_en": "",
+  "short_name": "pl-du-2012-1255",
+  "status": "amended",
+  "issued_date": "2012-10-12",
+  "in_force_date": "2012-11-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1255",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ( Dz. U. z 2006 r. Nr 139, poz. 992 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654, z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706, z 2010 r. Nr 50, poz. 301 oraz z 2011 r. Nr 106, poz. 622, Nr 149, poz. 887, Nr 171, poz. 1016 i Nr 205, poz. 1212. ) wprowadza się następujące zmiany: 1) w art. 15b ust. 2 otrzymuje brzmienie: „ 2. Jednorazowa zapomoga przysługuje matce lub ojcu dziecka, opiekunowi prawnemu albo opiekunowi faktycznemu dziecka, jeżeli dochód rodziny w przeliczeniu na osobę nie przekracza kwoty 1922,00 zł. Przepisy art. 5 ust. 4-4b, 7-9 i 11 stosuje się odpowiednio. ” ; 2) uchyla się art. 15c; 3) w art. 18 ust. 1 otrzymuje brzmienie: „ 1. Kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych podlegają weryfikacji co 3 lata, z uwzględnieniem wyników badań progu wsparcia dochodowego rodzin. ” ; 4) w art. 19: a) w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) propozycje wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2; ” , b) ust. 2 otrzymuje brzmienie: „ 2. Trójstronna Komisja do Spraw Społeczno-Gospodarczych, po otrzymaniu propozycji i informacji Rady Ministrów, uzgadnia wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, w terminie do dnia 15 czerwca danego roku kalendarzowego. ” , c) ust. 4 i 5 otrzymują brzmienie: „ 4. W przypadku gdy Trójstronna Komisja do Spraw Społeczno-Gospodarczych nie uzgodni w terminie, o którym mowa w ust. 2, wysokości kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokości świadczeń rodzinnych, Rada Ministrów ustala kwoty, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych, w drodze rozporządzenia, w terminie do dnia 15 sierpnia danego roku, na poziomie nie niższym niż wynika to z propozycji, o których mowa w ust. 1 pkt 1 i 2. 5. Wysokość kwot, o których mowa w art. 5 ust. 1 i 2 oraz w art. 15b ust. 2, oraz wysokość świadczeń rodzinnych ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, w drodze obwieszczenia Prezesa Rady Ministrów, w terminie do dnia 15 sierpnia roku, w którym przeprowadza się weryfikację. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W przypadku urodzenia się żywego dziecka przed dniem wejścia w życie niniejszej ustawy jednorazową zapomogę z tytułu urodzenia się dziecka przyznaje się na podstawie przepisów dotychczasowych. 2. W przypadku dziecka objętego opieką prawną, opieką faktyczną albo dziecka przysposobionego zapomogę, o której mowa w ust. 1, przyznaje się na podstawie przepisów dotychczasowych, jeżeli dziecko zostało objęte tą opieką albo przysposobione przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654, z 2009 r. Nr 97, poz. 800 i Nr 219, poz. 1706, z 2010 r. Nr 50, poz. 301 oraz z 2011 r. Nr 106, poz. 622, Nr 149, poz. 887, Nr 171, poz. 1016 i Nr 205, poz. 1212. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

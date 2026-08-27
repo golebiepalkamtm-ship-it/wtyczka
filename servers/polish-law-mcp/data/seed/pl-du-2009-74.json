@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-74",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 2008 r. o zmianie ustawy o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego",
+  "title_en": "",
+  "short_name": "pl-du-2009-74",
+  "status": "amended",
+  "issued_date": "2008-12-19",
+  "in_force_date": "2009-01-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/74",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 lutego 1991 r. o uznaniu za nieważne orzeczeń wydanych wobec osób represjonowanych za działalność na rzecz niepodległego bytu Państwa Polskiego ( Dz. U. Nr 34, poz. 149 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703 oraz z 2007 r. Nr 191, poz. 1372. ) w art. 8 ust. 2c otrzymuje brzmienie: „ 2c. Żądanie odszkodowania i zadośćuczynienia za szkodę i krzywdę wynikłe z wykonania decyzji, o której mowa w ust. 1, należy zgłosić w sądzie okręgowym, w którego okręgu zamieszkuje osoba składająca żądanie. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1993 r. Nr 36, poz. 159, z 1995 r. Nr 28, poz. 143, z 1998 r. Nr 97, poz. 604, z 2002 r. Nr 240, poz. 2055, z 2004 r. Nr 273, poz. 2703 oraz z 2007 r. Nr 191, poz. 1372. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

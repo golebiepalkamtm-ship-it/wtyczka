@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2001-969",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 2001 r. o zmianie ustawy o zawodach pielęgniarki i położnej oraz ustawy o zawodzie lekarza.",
+  "title_en": "",
+  "short_name": "pl-du-2001-969",
+  "status": "in_force",
+  "issued_date": "2001-06-21",
+  "in_force_date": "2001-08-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/969",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej ( Dz. U. z 2001 r. Nr 57, poz. 602 ) po art. 25b dodaje się art. 25c w brzmieniu: „ Art. 25c. Pielęgniarki, położne prowadzące indywidualną praktykę, indywidualną specjalistyczną praktykę albo grupową praktykę pielęgniarek, położnych nie są przedsiębiorcami w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49, poz. 509 i Nr 67, poz. 679). ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza ( Dz. U. z 1997 r. Nr 28, poz. 152 i Nr 88, poz. 554 , z 1998 r. Nr 106, poz. 668 i Nr 162, poz. 1115 , z 1999 r. Nr 60, poz. 636 i Nr 64, poz. 729 oraz z 2000 r. Nr 12, poz. 136 , Nr 60, poz. 698 , Nr 94, poz. 1037 i Nr 120, poz. 1268 ) wprowadza się następujące zmiany: 1) po art. 50b dodaje się art. 50c w brzmieniu: „ Art. 50c. Lekarze prowadzący indywidualną praktykę, indywidualną specjalistyczną praktykę albo grupową praktykę lekarską nie są przedsiębiorcami w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49, poz. 509 i Nr 67, poz. 679). ” ; 2) w art. 63 w ust. 1 i 2 wyrazy „30 czerwca 2001 r.” zastępuje się wyrazami „31 grudnia 2002 r.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że art. 2 pkt 2 wchodzi w życie z mocą od dnia 1 lipca 2001 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

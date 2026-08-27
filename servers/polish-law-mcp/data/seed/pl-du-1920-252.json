@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1920-252",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 maja 1920 r. o udzieleniu amnestji w b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-252",
+  "status": "in_force",
+  "issued_date": "1920-05-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/252",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W sprawach karnych przeciwko osobom cywilnym, należących do właściwości sądów polskich i byłych niemieckich wszelkiego rodzaju, jak również, należących do właściwości władz administracyjnych zarówno polskich, jak byłych niemieckich na obszarach b. dzielnicy pruskiej, stosuje się do przestępstw, popełnionych przed dniem wejścia w życie niniejszej ustawy, - z wyjątkiem wypadków wymienionych w art. 3 i 8-ulgi, wskazane w art. 2, 4, 5."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Darowuje się: a) niewykonane w całości lub w części kary aresztu i grzywny, oraz wszelkie kary porządkowe; b) karą pozbawienia wolności, wyrzeczoną w rozmiarze, nie przenoszącym pół roku, niewykonaną w całości lub w części; c) resztę kary pozbawienia wolności, wyrzeczonej we wszystkich innych wypadkach, o ile reszta ta nie przenosi połowy roku; d) połowę kary pozbawienia wolności lub niewykonaną część tej połowy, gdy kara została wyrzeczona w rozmiarze, nie przenoszącym dwóch lat; e) trzecią część kary pozbawienia wolności lub niewykonany okres tej trzeciej części, gdy kara została wyrzeczona w rozmiarze, przenoszącym dwa lata. 2. Ogranicza się do piętnastu lat karę dożywotniego domu karnego. 3. Zamienia się karę śmierci na karę dożywotniego domu karnego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ulgi, wymienione w art. 2, nie mają zastosowania do osób, skazanych za przestępstwa następujące: 1. za morderstwa lub zabójstwa, popełnione w celach rabunku lub kradzieży, za rozboje (§§: 211, 212, 249 do 252 włącznie, 254 i 255 niemieckiego kodeksu karnego), za ciężkie kradzieże (§ 243 niemieckiego kodeksu karnego), za przekupstwa (§§: 331 - 334 włącznie niemieckiego kodeksu karnego) i za sprzeniewierzenia w urzędzie (§§: 350, 351, 353 niemieckiego kodeksu karnego); 2. za przestępstwa, popełnione przeciwko przepisom o zwalczaniu przemytnictwa, lichwy zwyczajnej i wojennej, jakoteż spekulacji; 3. za przestępstwa, dochodzone na skutek oskarżenia prywatnego lub postępowania dyscyplinarnego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Umarza się postępowanie karne, względnie darowuje się całkowicie karę pozbawienia wolności lub karę grzywny, w sprawach: 1. o wszelkie wykroczenia, 2. o przestępstwa: a) prasowe, o ile nie zawierają zniewagi pojedyńczych osób, b) popełnione przeciw §§: 248 a. i 264 a. niemieckiego kodeksu karnego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ulgi, zawarte w umowie polsko - niemieckiej w sprawie wypuszczenia na wolność osób przytrzymanych i przyznania wolności od kar z dnia 1 października 1919 roku - stosuje się również do okresu czasu przed wejściem w życie niniejszej ustawy oraz do osób wszelkiej narodowości, zamieszkałych na obszarze b. dzielnicy pruskiej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kary, darowane w całości na mocy art. 2 p. 1 lit. a) i b), art. 4 oraz art. 5 niniejszej ustawy - z wyjątkiem przestępstw, popełnianych przeciw §§: 242, 258, 259 i 263 niemieckiego kodeksu karnego - podlegają wykreśleniu z rejestru kar i policyjnych - list karnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ulgi, wskazane w art. 2, 4 i 5, stosują się nietylko do kar już wyrzeczonych, lecz również do kar, które wyrzeczone być mogą w przyszłości, gdy przestępstwo popełniono przed wejściem w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przepisy niniejszej ustawy nie dotyczą, wypadków konfiskaty i kosztów, prawomocnie przysądzonych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrem Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pass_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pass_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-pass_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-pass_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pass_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

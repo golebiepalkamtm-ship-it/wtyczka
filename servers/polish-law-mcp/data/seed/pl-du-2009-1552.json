@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2009-1552",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 września 2009 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2009-1552",
+  "status": "amended",
+  "issued_date": "2009-09-24",
+  "in_force_date": "2009-12-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1552",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. Nr 167, poz. 1398 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156 i Nr 76, poz. 641. ) art. 28 otrzymuje brzmienie: „ Art. 28. W sprawie podlegającej rozpoznaniu w postępowaniu uproszczonym pobiera się opłatę stałą od pozwu, przy wartości przedmiotu sporu lub wartości przedmiotu umowy, a od apelacji, przy wartości przedmiotu zaskarżenia: 1) do 2 000 złotych - 30 złotych; 2) ponad 2 000 złotych do 5 000 złotych - 100 złotych; 3) ponad 5 000 złotych do 7 500 złotych - 250 złotych; 4) ponad 7 500 złotych - 300 złotych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do apelacji wniesionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 126, poz. 876, z 2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 i Nr 191, poz. 1371, z 2008 r. Nr 228, poz. 1524 i Nr 234, poz. 1571 i 1572 oraz z 2009 r. Nr 26, poz. 156 i Nr 76, poz. 641. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

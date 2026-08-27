@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-472",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o finansowym wspieraniu inwestycji",
+  "title_en": "",
+  "short_name": "pl-du-2006-472",
+  "status": "repealed",
+  "issued_date": "2006-02-24",
+  "in_force_date": "2006-04-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/472",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 marca 2002 r. o finansowym wspieraniu inwestycji ( Dz. U. Nr 41, poz. 363 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 141, poz. 1177, z 2003 r. Nr 159, poz. 1537, z 2004 r. Nr 123, poz. 1291, Nr 173, poz. 1808 i Nr 273, poz. 2701 oraz z 2005 r. Nr 179, poz. 1484 i Nr 249, poz. 2104. ) wprowadza się następujące zmiany: 1) w art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisów ustawy nie stosuje się do udzielania wsparcia finansowego: 1) przedsiębiorcom prowadzącym działalność gospodarczą w sektorze włókien syntetycznych, górnictwa węgla, hutnictwa żelaza i stali, budownictwa okrętowego oraz w zakresie produkcji, przetwórstwa i wprowadzania do obrotu towarów wymienionych w Załączniku nr I do Traktatu ustanawiającego Wspólnotę Europejską , 2) przedsiębiorcom znajdującym się w trudnej sytuacji ekonomicznej według kryteriów określonych w przepisach prawa Unii Europejskiej dotyczących udzielania pomocy publicznej 2) Kryteria te są określone w pkt 9-11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 1.10.2004). lub znajdującym się w okresie restrukturyzacji przeprowadzanej z wykorzystaniem pomocy publicznej. ” ; 2) w art. 6 ust. 1 otrzymuje brzmienie: „ 1. Wsparcie finansowe, o którym mowa w niniejszej ustawie, podlega sumowaniu z pomocą uzyskaną przez przedsiębiorcę w innych formach oraz z innych źródeł przeznaczoną na daną inwestycję lub tworzenie nowych miejsc pracy związanych z daną inwestycją i nie może przekroczyć maksymalnej intensywności lub wartości pomocy, określonej w art. 5 ust. 3-6, lub wysokości maksymalnego wsparcia finansowego, określonego w art. 5 ust. 7. ” ; 3) w art. 10 w ust. 2 pkt 5 otrzymuje brzmienie: „ 5) informacje o pomocy publicznej otrzymanej przez przedsiębiorcę na realizację danej inwestycji lub tworzenie nowych miejsc pracy związanych z daną inwestycją, ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 141, poz. 1177, z 2003 r. Nr 159, poz. 1537, z 2004 r. Nr 123, poz. 1291, Nr 173, poz. 1808 i Nr 273, poz. 2701 oraz z 2005 r. Nr 179, poz. 1484 i Nr 249, poz. 2104. 2) Kryteria te są określone w pkt 9-11 Wytycznych wspólnotowych dotyczących pomocy państwa w celu ratowania i restrukturyzacji zagrożonych przedsiębiorstw (Dz. Urz. UE C 244 z 1.10.2004). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

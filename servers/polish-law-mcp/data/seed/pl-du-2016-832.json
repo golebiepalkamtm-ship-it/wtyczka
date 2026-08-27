@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-832",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 czerwca 2016 r. zmieniająca ustawę o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2016-832",
+  "status": "in_force",
+  "issued_date": "2016-06-09",
+  "in_force_date": "2016-06-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/832",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 października 2015 r. o zmianie ustawy o systemie informacji w ochronie zdrowia oraz niektórych innych ustaw ( Dz. U. poz. 1991 oraz z 2016 r. poz. 65 , 580 i 652 ) wprowadza się następujące zmiany: 1) w art. 48 po ust. 3a dodaje się ust. 3b w brzmieniu: „ 3b. Akt wykonawczy wydany na podstawie art. 15a ust. 8 pkt 3-6 ustawy, o której mowa w art. 15, może być zmieniany na podstawie art. 15a ust. 8 pkt 3-6 ustawy, o której mowa w art. 15, w jej dotychczasowym brzmieniu. ” ; 2) w art. 50 ust. 2 otrzymuje brzmienie: „ 2. Prezes Narodowego Funduszu Zdrowia w terminie 18 miesięcy od dnia wejścia w życie niniejszej ustawy dostosuje system monitorowania programów lekowych, o których mowa w art. 188c ustawy, o której mowa w art. 7, w brzmieniu nadanym niniejszą ustawą, do programów lekowych, o których mowa w ustawie, o której mowa w art. 13, nieobjętych tym systemem w dniu wejścia w życie tej ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 12 czerwca 2016 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

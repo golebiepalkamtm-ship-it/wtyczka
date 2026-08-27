@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1925-354",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 kwietnia 1925 r. w sprawie wykonania postanowień wersalskiego traktatu pokojowego o Mieszanym Trybunale Rozjemczym.",
+  "title_en": "",
+  "short_name": "pl-du-1925-354",
+  "status": "in_force",
+  "issued_date": "1925-04-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/354",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tym członkom, sekretarzom i funkcjonariuszom polsko - niemieckiego Mieszanego Trybunału Rozjemczego, ustanowionego na zasadzie art. 304 wersalskiego traktatu pokojowego, którzy nie są obywatelami polskimi, służą w czasie ich pobytu w charakterze urzędowym na terytorjum Polski dyplomatyczne przywileje i zwolnienia. Nadto lokale, przeznaczone dla celów urzędowych tego Trybunału, będą w Polsce zwolnione z pod sądownictwa krajowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sądy i władze administracyjne będą na żądanie polsko - niemieckiego Mieszanego Trybunału Rozjemczego lub ustanowionego przy tym Trybunale agenta Rządu Polskiego udzielały pomocy prawnej w granicach swej właściwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Orzeczenia polsko - niemieckiego Mieszanego Trybunału Rozjemczego są ostateczne i będą wykonywane w Państwie Polskiem przy zastosowaniu przepisów o wykonywaniu krajowych orzeczeń sądowych, pod warunkiem, iż będą zawierzytelnione przez agenta Rządu Polskiego. Agent Rządu Polskiego jest upoważniony imieniem strony zainteresowanej czynić wnioski, zmierzające do wykonania orzeczenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Sprawiedliwości do wydawania w porozumieniu z właściwymi ministrami w miarę potrzeby w drodze rozporządzeń bliższych przepisów w przedmiocie pomocy prawnej dla polsko - niemieckiego Trybunału Mieszanego oraz w przedmiocie wykonywania orzeczeń tego Trybunału."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

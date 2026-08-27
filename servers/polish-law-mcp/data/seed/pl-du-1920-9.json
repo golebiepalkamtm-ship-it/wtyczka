@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-9",
+  "type": "statute",
+  "title": "Ustawa tymczasowa z dnia 19 grudnia 1919 r. o przyznawaniu nagród za pomoc w zwalczaniu przemytnictwa.",
+  "title_en": "",
+  "short_name": "pl-du-1920-9",
+  "status": "repealed",
+  "issued_date": "1919-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/9",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby cywilne i wojskowe, które bądź to spełniając ciążący na nich obowiązek służbowy, bądź też nie mając takiego obowiązku, przytrzymały albo przyczyniły się przez doniesienie lub w inny sposób do ujęcia przemytnika, albo przedmiotu lub środka pomocniczego przemytnictwa - otrzymują ze Skarbu Państwa nagrody wedle zasad, w poniższych artykułach wyszczególnionych, bez względu na to, czy przestępca skazany został na grzywnę lub na karę aresztu i czy grzywnę uiścił lub karę aresztu odbył."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wysokość nagrody ustanawia się: a) za wykrycie i ujęcie przemytnika z towarami, lub towarów przemycanych, wypłaca się z sumy, osiągniętej ze sprzedaży tychże, nagrodę w stosunku następującym: 1. od sumy do 5.000 marek 75% 2. „ „ „ 10.000 „ 50% 3. „ „ „ 50.000 „ 35% 4. „ „ ponad 50.000 „ 25% b) jeżeli przy pościgu za przemytnikiem z towarami tenże zdołał zbiedz - wypłaca się nagrodę za przytrzymane towary w stosunku następującym: 1. od sumy do 5.000 marek 50% 2. „ „ „ 10.000 „ 35% 3. „ „ „ 50.000 „ 20% 4. „ „ ponad 50.000 „ 10%"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Niezależnie od nagród w wymiarze procentowym (art. 2) może władza przyznać nadzwyczajną nagrodę uprawnionym, którzy przy ujęciu przemytnika lub przedmiotu przemytnictwa ujawnili niezwykłą odwagę, lub też jeżeli ujęcie to wymagało niezwykłego wysiłku."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Jeżeli dwie lub więcej osób ma w myśl powyższych przepisów prawo do nagrody, natenczas dzieli się ją w równych częściach między uprawnionych. Jeżeli jednak ujawnienie jednego i tego samego przestępstwa nastąpiło wskutek kilku doniesień, natenczas nagroda należy się tylko tej osobie, która pierwsza doniosła. Jeżeli doniesienia weszły w tym samym dniu, natenczas nagrodę dzieli się między wszystkich donosicieli w równych częściach."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rozporządzenie wykonawcze określi, które władze powołane są do przyznawania nagród."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Skarbu w porozumieniu z Ministrem Spraw Wojskowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

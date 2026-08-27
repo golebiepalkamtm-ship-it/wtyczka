@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-1208",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o odpadach",
+  "title_en": "",
+  "short_name": "pl-du-2004-1208",
+  "status": "repealed",
+  "issued_date": "2004-04-20",
+  "in_force_date": "2004-05-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/1208",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 kwietnia 2001 r. o odpadach ( Dz. U. Nr 62, poz. 628 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 365, Nr 113, poz. 984 i Nr 199, poz. 1671, z 2003 r. Nr 7, poz. 78 oraz z 2004 r. Nr 96, poz. 959. ) wprowadza się następujące zmiany: 1) po art. 43 dodaje się art. 43a w brzmieniu: „ Art. 43a. 1. Posiadacz odpadów prowadzący punkt zbierania odpadów metali jest obowiązany przy przyjmowaniu tych odpadów do wypełnienia formularza przyjęcia odpadów metali w dwóch egzemplarzach, po jednym egzemplarzu dla przekazującego i przyjmującego odpady. 2. Formularz, o którym mowa w ust. 1, powinien zawierać w szczególności: 1) określenie rodzaju odpadów, rodzaju produktu, z którego powstał odpad, oraz źródło pochodzenia, 2) imię i nazwisko, adres zamieszkania oraz numer dowodu osobistego lub innego dokumentu stwierdzającego tożsamość osoby przekazującej odpady, a w przypadku gdy osoba ta działa w imieniu przedsiębiorcy również nazwę i adres siedziby tego przedsiębiorcy. 3. Osoba przekazująca odpady metali jest obowiązana do okazania dokumentu, o którym mowa w ust. 2 pkt 2, w celu potwierdzenia jej tożsamości. 4. Posiadacz odpadów prowadzący punkt zbierania odpadów metali jest obowiązany odmówić przyjęcia odpadów metali w przypadku, gdy osoba przekazująca te odpady odmawia okazania dokumentu, o którym mowa w ust. 2 pkt 2. 5. Posiadacz odpadów prowadzący punkt zbierania odpadów metali jest obowiązany przechowywać wypełnione formularze przez okres 5 lat, licząc od końca roku kalendarzowego, w którym je sporządzono. 6. Posiadacz odpadów prowadzący punkt zbierania odpadów metali jest obowiązany przedstawić przechowywane formularze na żądanie organów przeprowadzających kontrolę, Policji, straży miejskiej i służb ochrony kolei. 7. Przepisy ust. 1-6 nie dotyczą metalowych odpadów opakowaniowych po produktach żywnościowych. 8. Minister właściwy do spraw środowiska określi, w drodze rozporządzenia, wzór formularza, o którym mowa w ust. 1, kierując się potrzebą ujednolicenia tego dokumentu, zapewnienia właściwej kontroli obrotu odpadami metali oraz zapobiegania kradzieży i dewastacji w szczególności urządzeń telekomunikacyjnych, elektroenergetycznych, kolejowych i wodno-kanalizacyjnych. ” ; 2) po art. 75 dodaje się art. 75a w brzmieniu: „ Art. 75a. Kto, prowadząc punkt zbierania odpadów metali, przyjmuje odpady metali inne niż metalowe odpady opakowaniowe po produktach żywnościowych, bez potwierdzenia tożsamości osoby przekazującej te odpady lub bez wypełnienia formularza przyjęcia odpadów metali, podlega karze aresztu albo grzywny. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 41, poz. 365, Nr 113, poz. 984 i Nr 199, poz. 1671, z 2003 r. Nr 7, poz. 78 oraz z 2004 r. Nr 96, poz. 959. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

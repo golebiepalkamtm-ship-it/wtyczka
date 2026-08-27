@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-345",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 maja 1991 r. o zmianie ustawy o podatku wyrównawczym.",
+  "title_en": "",
+  "short_name": "pl-du-1991-345",
+  "status": "repealed",
+  "issued_date": "1991-05-02",
+  "in_force_date": "1991-08-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/345",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 1983 r. o podatku wyrównawczym ( Dz. U. Nr 42, poz. 188 , z 1984 r. Nr 52, poz. 268 , z 1988 r. Nr 34, poz. 254 i z 1989 r. Nr 35, poz. 192 ) w art. 2 w ust. 1 dodaje się pkt 16a i 16b w brzmieniu: „ 16a) wynagrodzenia otrzymywane przez lekarzy i innych pracowników medycznych z tytułu dodatkowego zatrudnienia w pomocy doraźnej (pogotowiu ratunkowym), 16b) wynagrodzenia otrzymywane przez lekarzy za dyżury zakładowe, ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do podatku wyrównawczego przypadającego od dochodów osiągniętych od dnia 1 stycznia 1991 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

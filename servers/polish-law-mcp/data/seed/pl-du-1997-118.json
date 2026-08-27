@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1997-118",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 stycznia 1997 r. o zmianie ustawy o utworzeniu Komitetu Badań Naukowych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-118",
+  "status": "repealed",
+  "issued_date": "1997-01-24",
+  "in_force_date": "1997-03-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/118",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 stycznia 1991 r. o utworzeniu Komitetu Badań Naukowych ( Dz. U. Nr 8, poz. 28 , z 1993 r. Nr 52, poz. 240 , z 1995 r. Nr 30, poz. 152 i z 1996 r. Nr 106, poz. 496 ) wprowadza się następujące zmiany: 1) w art. 8 w ust. 1 w pkt 3 wyrazy „dwadzieścia osiem” zastępuje się wyrazem „trzydzieści” ; 2) w art. 14 w ust. 2 pkt 5 otrzymuje brzmienie: „ 5) finansowanie współpracy naukowej i naukowo-technicznej z zagranicą, określonej w umowach międzynarodowych albo w programach lub protokołach wykonawczych do tych umów, a także w umowach i porozumieniach zawartych przez Polską Akademię Nauk - po uprzednim porozumieniu z Przewodniczącym Komitetu - z zagranicznymi narodowymi akademiami nauk i organizacjami równorzędnymi, ” ; 3) w art. 15: a) ust. 2 otrzymuje brzmienie: „ 2. Środki, o których mowa w art. 14 ust. 2 pkt 1, 2 i 5, z zastrzeżeniem ust. 2a, są przyznawane przez komisje Komitetu bezpośrednio jednostkom naukowym lub jednostkom badawczo-rozwojowym, z tym że środki przeznaczone na finansowanie współpracy naukowej i naukowo-technicznej z zagranicą, określonej w umowach i porozumieniach zawartych przez Polską Akademię Nauk, są przyznawane przez Komitet - Polskiej Akademii Nauk. ” , b) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Środki na opłacanie składek na rzecz instytucji międzynarodowych są przyznawane przez komisje Komitetu właściwym podmiotom krajowym, prowadzącym współpracę naukową i naukowo-techniczną z zagranicą, wynikającą z umów, o których mowa w art. 14 ust. 2 pkt 5. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 1 pkt 2 stosuje się także do programów i protokołów wykonawczych do umów międzyrządowych oraz do umów i porozumień zawartych przez Polską Akademię Nauk z zagranicznymi narodowymi akademiami nauk i organizacjami równorzędnymi, które zostały sporządzone lub zawarte przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1998-714",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lipca 1998 r. o zmianie ustawy o usługach turystycznych.",
+  "title_en": "",
+  "short_name": "pl-du-1998-714",
+  "status": "amended",
+  "issued_date": "1998-07-23",
+  "in_force_date": "1998-08-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/714",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych ( Dz. U. Nr 133, poz. 884 i Nr 158, poz. 1043 ) wprowadza się następujące zmiany: 1) w art. 6 ust. 3, art. 10, art. 21 ust. 3, art. 34 ust. 2, art. 45 i art. 49 ust. 3 wyrazy „Prezes Urzędu Kultury Fizycznej i Turystyki, w drodze zarządzenia” zastępuje się wyrazami „Prezes Rady Ministrów, w drodze rozporządzenia” ; 2) w art. 9 ust. 1, art. 32 ust. 4, art. 33 ust. 3 i art. 34 ust. 1 wyrazy „w porozumieniu z Prezesem Urzędu Kultury Fizycznej i Turystyki” skreśla się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

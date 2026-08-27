@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1920-187",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1920 r. o \"Komitecie Floty Narodowej\".",
+  "title_en": "",
+  "short_name": "pl-du-1920-187",
+  "status": "repealed",
+  "issued_date": "1920-03-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/187",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu skoordynowania działalności poszczególnych instytucji, grup społecznych oraz osób, dążących do utworzenia Polskiej Floty Morskiej; ustanawia się Komitet Floty Narodowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zadania Komitetu Floty Narodowej stanowią: 1) utworzenie ze składanych dobrowolnie ofiar, funduszu narodowego na cele morskie, 2) zarząd oraz dysponowanie powyższym funduszem z uwzględnieniem woli ofiarodawców."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W skład Komitetu Floty Narodowej wchodzą z urzędu: a) Marszałek Sejmu - jako prezes b) Prezydent Rady Ministrów jako wiceprezesi. c) Prezes Sejmowej Komisji Morskiej d) Prezes Sejmowej Komisji Wojskowej jako członkowie. e) Prezes Sejmowej Komisji Przemysłowo-Handlowej f) Minister Spraw Wojskowych g) Minister Przemysłu i Handlu h) Minister Spraw Wewnętrznych i) Minister Skarbu j) Prezes Najwyższej Izby Kontroli Państwa k) Szef Departamentu Spraw Morskich"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Komitetowi w składzie wyszczególnionym w art. 3 przysługuje prawo kooptacji na członków Komitetu nieograniczonej liczby osób, zasłużonych na polu pracy społecznej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Posiedzenia Komitetu są wyznaczane przez prezesa lub jego zastępcę. Uchwały zapadłe na posiedzeniach są ważne niezależnie od liczby uczestników."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Sprawozdania kasowe Komitet podaje do wiadomości publicznej przynajmniej dwa razy do roku."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie uchwał Komitetu należy do Komisji Wykonawczej, którą Komitet wyłania ze swego składu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Za udział w pracach Komitetu oraz Komisji Wykonawczej osoby, należące do ich składu, nie pobierają wynagrodzenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Pod kierownictwem Komisji Wykonawczej jest czynne biuro Komitetu. Szef biura, w charakterze referenta spraw bieżących, bierze udział w posiedzeniach Komitetu z głosem doradczym. Wszelkie koszty utrzymania biura ponosi Skarb Rzeczypospolitej. Przepisy przejściowe."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wszelkie sumy, ofiarowane na cele morskie przed wydaniem ustawy niniejszej do dyspozycji władz państwowych, zostaną przekazane Komitetowi Floty Narodowej."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Skład biura Komitetu aż do czasu ustawowego podziału kompetencji Ministerstw zostanie tymczasowo ustalony w etacie Komisji Sejmowej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, a jej wykonanie poleca się Prezydentowi Ministrów. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

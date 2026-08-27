@@ -1,0 +1,242 @@
+{
+  "id": "pl-du-1922-232",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 kwietnia 1922 r. w przedmiocie zmiany niektórych postanowień ustawy z dnia 16 lipca 1920 r. o państwowym podatku dochodowym i podatku majątkowym.",
+  "title_en": "",
+  "short_name": "pl-du-1922-232",
+  "status": "in_force",
+  "issued_date": "1922-04-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/232",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Opodatkowaniu podlegają osoby fizyczne, spadki wakujące (nie objęte), tudzież osoby prawne, wymienione w art. 1 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 82, poz. 550), których dochód roczny bez względu na miejscowość (art. 2 ustawy z dnia 16 lipca 1920 r.) przekracza 180.000 mk."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uposażenia służbowe, emerytury i wynagrodzenia za najemną pracą (ustąp 6 art. 3 i art. 20 ustawy z 16 lipca 1920 r.) podlegają podatkowi dochodowemu na podstawie przepisów działu II niniejszej ustawy. Tego rodzaju dochodów, nie włącza się do ogólnego dochodu, podlegającego opodatkowaniu w myśl przepisów ustawy z dnia 16 lipca 1920 r., oraz przepisów działu i niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wysokość odliczeń, przewidzianych w ustępach 3 i 4 art. 10 ustawy z 16 lipca 1920 r., podwyższa się dziesięciokrotnie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do kosztów osiągnięcia przychodów, o których mowa w części pierwszej art. 6 ustawy z 16 lipca 1920 r., zalicza się koszty wyżywienia członków rodziny podatnika, stale pracujących w jego gospodarstwie rolnem lub leśnem, albo w jego przedsiębiorstwie handlowem lub przemysłowem."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Opodatkowaniu podlegają dochody (art. 13 ustawy z 16 lipca 1920 r.), osiągnięte w ostatnim roku kalendarzowym lub w ostatnim roku operacyjnym, względnie gospodarczym, poprzedzającym rok podatkowy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Zamiast skali, podanej w art. 23 ustawy z 16 lipca 1920 r., ustanawia się poniżej załączoną skalę podatku dochodowego. L. p. Wysokość dochodu w tysiącach marek Stopa procentowa Podatek w tysiącach marek 1 180-200 0,5 1 2 200-220 0,51 1,12 3 220-240 0,52 1,25 4 240-260 0,53 1,38 5 260-280 0,54 1.51 6 280-300 0,55 1.65 7 300-340 0,56 1,9 8 340-380 0,57 2,17 9 380-420 0,58 2,44 10 420-460 0,59 2,71 11 460-500 0,6 3 12 500-550 0,62 3.41 13 550-600 0,64 3,84 14 600-650 0,66 4,29 15 650-700 0,68 4,76 16 700-750 0,7 5,25 17 750-800 0,72 5,76 18 800-850 0,74 6,29 19 850-900 0,76 6,84 20 900-950 0,78 7,41 21 950-1000 0,8 8 22 1000-1100 0,84 9.24 23 1100-1200. 0,88 10,56 24 1200-1300 0,92 11,96 25 1300-1400 0,96 13,44 26 1400-1500 1 15 27 1500-1600 1.1 17,6 28 1600-1700 1,2 20,4 29 1700-1800 1,3 23,4 30 1800-1900 1.4 26,6 31 1900-2000 1,5 30 32 2000-2100 1,6 33,6 33 2100-2200 1.7 37,4 34 2200-2300 1.8 41,4 35 2300-2400 1.9 45,6 36 2400-2500 2 50 37 2500-2600 2.1 54,6 38 2600-2700 2,2 59,4 39 2700-2800 2,3 64,4 40 2800-2900 2,4 69,6 41 2900-3000 2.5 75 42 3000-3200 2,8 89,6 43 3200-3400 3,1 105,4 44 3400-3600 3,4 122,4 45 3600-3800 3.7 140,6 46 3800-4000 4 160 47 4000-4200 4,3 180,6 48 4200-4400 4.6 202,4 49 4400-4600 4,9 225,4 50 4600-4800 5,2 249,6 51 4800-5000 5,5 275 52 5000-5200 5.8 301.6 53 5200-5400 6,1 329,4 54 5400-5600 6,4 358.4 55 5600-5800 6,7 388,6 56 5800-6000 7 420 57 6000-6200 7.4 458,8 58 6200-6400 7.7 492,8 59 6400-6600 8,1 534,6 60 6600-6800 8,4 571,2 61 6800-7000 8,8 616 62 7000-7200 9,1 655,2 63 7200-7400 9.5 703 64 7400-7600 9,8 744,8 65 7600-7800 10,2 795,6 66 7800-8000 10,5 840 67 8000-8200 10,9 893,8 68 8200-8400 11,2 940,8 69 8400-8600 11,6 997,6 70 8600-8800 11.9 1047,2 71 8800-9000 12,2 1098 72 9000-9200 12.6 1159,2 73 9200-9400 12,9 1212,6 74 9400-9600 13,3 1276,8 75 9600-9800 13,6 1332,8 76 9800-10000 14 1400 77 10000-10200 14,3 1458,6 78 10200-10400 14,6 1518,4 79 10400-10600 14,9 1579,4 80 10600-10800 15.2 1641,6 81 10800-11000 15,5 1705 82 11000-11200 15,8 1769,6 83 11200-11400 16,1 1835,4 84 11400-11600 16,3 1890,8 85 11600-11800 16,5 1947 86 11800-12000 16,7 2004 87 12000-12200 16,9 2061,8 88 12200-12400 17,1 2120,4 89 12400-12600 17,3 2179,8 90 12600-12800 17.5 2240 91 12800-13000 17,7 2301 92 13000-13200 17,9 2362,8 93 13200-13400 18,1 2425,4 94 13400-13600 18,3 2488,8 95 13600-13800 18,5 2553 96 13800-14000 18,7 2618 97 14000-14200 18,9 2683,8 98 14200-14400 19,1 2750,4 99 14400-14600 19,3 28173 100 14600-14800 19,5 2886 101 14800-15000 19.7 2955 102 15000-15200 19,9 3024,8 103 15200-15400 20,1 3095,4 104 15400-15600 20,3 3166,8 105 15600-15800 20,5 3239 106 15800-16000 20,7 3312 107 16000-16200 20,9 3385,8 108 16200-16400 21,2 34763 109 16400-16600 21.4 3552,4 110 16600-16800 21,6 36283 111 16800-17000 21,8 3706 112 17000-17200 22 3784 113 17200-17400 22,2 38623 114 17400-17600 22.4 39424 115 17600-17800 22,6 40223 116 17800-18000 22,8 4104 117 19000-18200 23 4186 118 18200-18400 23,2 4268,8 119 18400-18600 23,4 4352,4 120 18600-18800 23,6 4436,8 121 18800-19000 23,8 4522 122 19000-19200 24 4608 123 19200-19400 24,25 4704,5 124 19400-19600 24,5 4802 125 19600-19800 24,75 4900,5 126 19800-20000 25 5000 Przy dochodzie ponad 20.000.000 mk. podatek wynosi 5.000.000 mk. i oprócz tego 50.000 mk. od każdych pełnych 200.000 mk. ponad 20,000.000 mk. Do podatku dolicza się ponadto, o ile chodzi o dochody osób fizycznych i spadków nieobjętych, ponad 20.000.000 mk. do 30.000.000 mk. - 1% ,, 30.000.000 ,, ,, 40.000.000 ,, - 2% ,, 40.000.000 ,, ,, 50.000.000 ,, - 3% ,, 50.000.000 ,,,, 60.000.000 ,, - 4% ,, 60.000.000 ,, ,, 75.000.000 ,, - 5% ,, 75.000.000 ,, ,, 90.000.000 ,, - 6% ,, 90.000.000 ,, ,, 120.000.000 ,, - 7% ,, 120.000.000 ,, ,, 150.000.000 ,, - 8% ,, 150.000.000 ,, ,, 200.000.000 ,, - 9% ,, 200.000.000,, ,, - 10% od całego podlegającego podatkowi dochodu, Podatek jednak należy wymierzać w ten sposób, że z dochodu wyższego stopnia, po potraceniu podatku, nigdy mniej niema pozostać, niż zostaje z najwyższego dochodu bezpośrednio niższego stopnia po potrąceniu podatku, na ten stopień przypadającego. O ile z dochodu, ustalonego do wymiaru podatku, po potrąceniu przypadającej kwoty podatkowej pozostanie mniej, niż wynosi najwyższy dochód wolny od podatku, należy podatek wymierzyć i pobrać tylko w wysokości nadwyżki dochodu ponad te najniższą granicę. Do stawek państwowego podatku dochodowego nie mogą być ustanawiane dodatki na rzecz związków komunalnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Kwoty tantjem, oznaczone w części pierwszej i drugiej art. 24 ustawy z dnia 16 lipca 1920 r., podwyższa się do 20.000 marek. Specjalny podatek od tantjem wynosi 50% stawki, przypadającej od otrzymanego z tantjemy dochodu, według skali, podanej w art. 6 niniejszej ustawy, jednak nie mniej niż 1000 mk."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Stopę podatkową, podaną w art. 6 niniejszej ustawy, podwyższa się o 20% dla osób, wymienionych w art. 25 ustawy z dnia 16 lipca 1920 r., a osiągających dochód ponad 500.000 mk."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Kwoty, określone w art. 26 i 28 ustawy z dnia 16 lipca 1920 r., a uzasadniające zniżki podatkowe, podwyższa się z 24.000 mk. (art. 26 ustawy) do 1.000.000 mk. i z 36.000 mk. (art. 28 ustawy) do 1.500.000 mk,"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Celem ułatwienia płatnikom składania zeznań o dochodzie tworzy się podkomisję szacunkową zasadniczo w każdej gminie wiejskiej. W znaczniejszych skupieniach, wchodzących w skład gmin wiejskich, w gminach małomiasteczkowych oraz w poszczególnych dzielnicach miejskich mogą być również utworzone odrębne podkomisje szacunkowe. O potrzebie utworzenia takich podkomisji stanowi na wniosek przewodniczącego komisji szacunkowej dyrektor właściwej izby skarbowej, do którego należy również określenie granic, okręgów podkomisji."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Każda podkomisja szacunkowa składa się z 5 do 7 członków i tyluż zastępców, powołanych na okres trzechletni z grona płatników podatku dochodowego. Dwóch członków i tyluż zastępców mianuje władza skarbowa, resztą zaś członków i zastępców wybierają zebrania gminne (rady gminne), względnie, rady miejskie. Wybory winny być przeprowadzone w ten sposób, aby w miarę możności wszystkie znaczniejsze wioski, a w Małopolsce również i przysiółki danej gminy miały w podkomisji swoich przedstawicieli, o ile zaś chodzi o podkomisje miejskie, aby wszelkie ważniejsze kategorje płatników były w nich reprezentowane, Przy wyborach członków do podkomisji szacunkowych mają zastosowanie art. 38 i 39 ustawy z 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Członkowie podkomisji szacunkowych wybierają z pośród siebie przewodniczącego, a w podkomisjach miejskich również protokulanta-sekretąrza. W gminnych podkomisjach wiejskich protokuIantem-sekretarzem jest z urzędu sekretarz (pisarz) gminny, Za pracę swoją protokulanci-sekretarze otrzymują wynagrodzenie, które określi Minister Skarbu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Podkomisje szacunkowe są organami komjsji szacunkowej i jako takie stosują się do jej wskazówek i poleceń oraz przedstawiają jej wyniki swych czynności (art. 14 niniejszej ustawy)."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Do zakresu działania podkomisji szacunkowych należy: a) przyjmowanie zeznań ustnych, względnie pisemnych od płatników, wymienionych w art. 15 niniejszej ustawy, a zamieszkałych w okręgu podkomisji; b) ustalanie źródeł podatkowych, należących do wspomnianych płatników; c) stawianie wniosków co do wysokości dochodu tychże płatników."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Płatnicy podatku, których główny dochód płynie: a) z nieruchomości gruntowej, nie przekraczającej 30 ha.; b) z przedsiębiorstwa handlowego, opłacającego zasadniczy podatek przemysłowy według IV i V kategorji wszędzie i według III kategorji w miejscowościach III i IV klasy; c) z zakładu przemysłowego lub warsztatu rzemieślniczego, wolnego od zasadniczego podatku przemysłowego lub opłacającego ten podatek wedle VIII kategorji przedsiębiorstw przemysłowych; d) z domów mieszkalnych, składających się najwyżej z czterech izb-są obowiązani do składania ustnych zeznań we właściwej podkomisji szacunkowej (art. 10 i 14 niniejszej ustawy) w terminie, oznaczonym przez Ministra Skarbu. Zeznania ustne wpisuje się do ogólnego protokułu, który podkomisja szacunkowa prowadzi według przepisanego wzoru. Wymienionym w części pierwszej niniejszej ustawy osobom wolno w razie życzenia składać na ręce przewodniczącego podkomisji zeznania pisemne podług wzoru, ogólnie ustanowionego dla płatników podatku dochodowego. Złożenie zeznania pisemnego nie zwalnia jednak podkomisji szacunkowej od obowiązku ustalania źródeł podatkowych i stawiania wniosków co do wysokości dochodu płatników, wymienionych w niniejszym artykule. Art. 16. W razie nieukonstytuowania się podkomisji szacunkowej lub niedokonania przez nią czynności, wchodzących w zakres jej działania (art. 14 niniejszej ustawy), w terminie, wyznaczonym przez przewodniczącego komisji szacunkowej, obowiązki podkomisji winien spełnić właściwy zarząd gminny. W razie niespełnienia tego obowiązku przez zarząd gminny, ma zastosowanie art. 104 ustawy z dnia 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Znawców (biegłych), o których mowa w art. 55 ustawy z dnia 16 lipca 1920 r., należy powołać przedewszystkiem z pośród osób, wskazanych przez zrzeszenia zawodowe."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Uchyla się obowiązek składania wykazów w myśl art. 48 ustawy z 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Płatnicy podatku dochodowego, nie wymienieni w art. 15 niniejszej ustawy, winni w terminie, oznaczonym w części drugiej art. 50 ustawy z 16 lipca 1920 r., wpłacić do kasy skarbowej połowę kwoty podatku, przypadającego według skali z art. 6 niniejszej ustawy od wykazanego w zeznaniu dochodu, i dowód uskutecznionej zapłaty dołączyć do zeznania. Od kwot podatku, nie wpłaconych w powyższym terminie płatności, będą liczone odsetki za zwłokę w wysokości 2% miesięcznie, przyczem w razie niezłożenia zeznania odsetki te będą obliczane od połowy podatku przypadającego od dochodu, oznaczonego w nakazie płatniczym."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Termin rozesłania nakazów płatniczych, oznaczonych w art. 66 ustawy z 16 lipca 1920 r., przesuwa się z 15 października na 1 października roku podatkowego."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Termin płatności całego podatku dla płatników, wymienionych w art. 15 niniejszej ustawy, tudzież reszty podatku dla płatników, wskazanych w art. 19 część pierwsza niniejszej ustawy, ustanawia się na dzień 1 listopada roku podatkowego. Tem samem uchyla się postanowienia art. 86 ustawy z dnia 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Przewidziane w art. 87 ustawy z dnia 16 lipca 1920 r. prawo opłacania podatku po ustawowym terminie przysługuje podatnikom, którym nakazy płatnicze zostały doręczone po 15 października roku podatkowego. W tych wypadkach należy uiścić podatek w ciągu 30 dni po doręczeniu nakazu płatniczego."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Przepisy, dotyczące potrącania podatku dochodowego przez służbodawców, zawarte w art. 89 i 90 ustawy z 16 lipca 1920 r., zastępuje się przepisami działu II niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Grzywny i kary pieniężne, nakładane za naruszenia przepisów ustawy z dnia 16 lipca 1920 r. z art. 94 do 97, 100 i 101 tejże ustawy, podwyższa się dziesięciokrotnie. Dział II. Zmiany w opodatkowaniu dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Wszelkie dochody z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę (art. 3 ustęp 6 ustawy z 16 lipca 1920 r.), przewyższające 300.000 marek, podlegają podatkowi dochodowemu na zasadzie przepisów działu II niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Za podstawę podatku przyjmuje się wysokość uposażeń, względnie wynagrodzeń bieżących, otrzymywanych zarówno w pieniądzach, jak i w naturze, obliczoną w stosunku rocznym. Dochody te opodatkowuje się w całości (art. 3 część II ustawy z 16 lipca 1920 r.), nie stosuje się do nich odliczeń (art. 10 ustawy z dnia 16 lipca 1920 r., względnie art. 3 niniejszej ustawy), tudzież zniżek i zwyżek podatkowych z art. 25, 26 i 28 ustawy z 16 lipca 1920 r., względnie art. 8 i 9 ustawy niniejszej. Wartość pieniężna dochodów w naturze oblicza się podług ceny w dniu 1 stycznia roku podatkowego."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Podatek pobiera się drogą potrącenia przy każdej wypłacie - a mianowicie: od wynagrodzeń, których wysokość, obliczona w stosunku rocznym, wynosi: ponad 300.000 mk. do 480.000 mk. potrąca się 0,2% ,, 480.000 ,, ,, 720.000 ,, ,, ,, 0,3% ,, 720.000 ,, ,, 1.000.000 ,, ,, ,, 0,4% ,, 1.000.000 ,, ,, 1.800.000 ,, ,, ,, 0,6% ,, 1.800.000 ,, ,, 2.400.000 ,, ,, ,, 1% ,, 2.400.000 ,, ,, 3.000.000 ,, ,, ,, 1,7% ,, 3.000.000 ,, ,, 3.600.000 ,, ,, ,, 2,5% ,, 3.600.000 ,, ,, 4.000.000 ,, ,, ,, 3,5% Podatek od wyższych uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę pobiera się w stosunku procentowym, przypadającym według skali art. 6 niniejszej ustawy. Stopą procentową podatku oblicza się przy każdorazowej powtarzającej się wypłacie, przyjmując ją za podstawą rocznej cyfry dochodu. W celu ustalenia stopy procentowej przy wypłacie jednorazowych wynagrodzeń dolicza się je do sumy ostatniego perjodycznego wynagrodzenia, obliczonej w stosunku rocznym."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Obowiązek potrącania podatku ciąży na władzach, urzędach, jakoteż na instytucjach i przedsiębiorstwach i, wogóle, na służbodawcach, wypłacających wszelkiego rodzaju wynagrodzenia. Potrącone w ciągu miesiąca kwoty należy w terminie do dni 14 po upływie tegoż miesiąca wpłacić do właściwej kasy skarbowej z załączeniem wykazu potrąceń, sporządzonego według przepisanego wzoru, względnie odpisu listy płacy, zawierającej dane, niezbędne do sprawdzania prawidłowości dokonanych potrąceń. Wykaz ten, względnie odpis listy płacy, po uwidocznieniu na nim przyjętej sumy oraz daty przyjęcia, kasa skarbowa przesyła do właściwej władzy podatkowej I instancji."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Wymiar podatku przez władzą podatkową z reguły nie ma miejsca. Wyjątek, zachodzi wówczas, gdy służbodawca albo nie wpłacił podatku wcale albo wpłacił za mało. W tych wypadkach władza podatkowa I instancji uskutecznia wymiar podatku. Od wymiaru służbodawca może odwołać się do izby skarbowej w ciągu dni 30 od dnia doręczenia mu wezwania. Odwołanie nie wstrzymuje egzekucji. Kwoty nie wpłaconego w terminie podatku będą przymusowo ściągnięte od osób, wymienionych w części pierwszej art. 28 niniejszej ustawy, wraz z odsetkami za zwłoką w wysokości 2% miesięcznie i z kosztami egzekucyjnemi."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Dla stwierdzenia obowiązku potrącania podatku oraz dla sprawdzenia, czy potrącenia podatku są uskutecznione prawidłowo i we właściwym czasie, władzom skarbowym przysługuje prawo delegowania urzędników do instytucji i osób, wymienionych w art. 28 część pierwsza niniejszej ustawy, celem przejrzenia i sporządzenia wyciągów z list płacy, umów i innych dokumentów, odnoszących się do najmu pracowników, względnie zbadania dokonanych wypłat. Delegowani urzędnicy korzystają z uprawnień, przewidzianych w art. 62 ustawy z 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Na nieprawidłowe potrącenia podatku przez służbodawców pracownicy mogą wnosić zażalenia w terminie do dni 30 od daty potrącenia do właściwej władzy podatkowej I instancji. Od decyzji władzy podatkowej I instancji służy pracownikowi odwołanie w trybie, określonym w art. 29 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Służbodawca, który nie spełni obowiązku wpłacenia podatku w myśl art. 28 niniejszej ustawy, ulegnie grzywnie w myśl przepisów art. 97 ustawy z 16 lipca 1920 r. i art. 24 niniejszej ustawy. W razie świadomego podania nieprawdziwych okoliczności w listach płacy lub wyjaśnieniach stosuje się analogicznie art. 99 ustawy z dnia 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Kto nie dopuści urzędnika, delegowanego przez władze skarbowe na podstawie art. 30 niniejszej ustawy, do wykonywania czynności, przewidzianych w tym artykule, ulegnie w drodze sądowej karze pieniężnej od 10.000 do 500.000 mk. lub karze pozbawienia wolności do jednego roku, o ile nie podlega surowszemu ukaraniu wedle obowiązujących w poszczególnych dzielnicach ustaw karnych. Do orzecznictwa w sprawach o przestępstwo, przewidziane w części pierwszej niniejszego artykułu, stosuje się przepisy art. 107 ustawy z 16 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Kary pieniężne, nałożone na podstawie art. 33 niniejszej ustawy, wpływają na rzecz Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Do przekroczeń, względnie przestępstw, o których mowa w art. 32 i 33 niniejszej ustawy, stosuje się przepisy art. 110 część pierwsza i art. 111 ustawy z dnia 16 lipca 1920 r. Przepisy przejściowe."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Upoważnia się Ministra Skarbu do wydania postanowień co do stosowania odpowiednich ulg przy obliczaniu i pobieraniu podatku za lata 1920 i 1921, o ile ściągnięcie tego podatku wedle dotychczas obowiązujących przepisów okaże się niesłuszne."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Minister Skarbu władny jest czynności, dotyczące ustalenia dochodów, podlegających podatkowi, oraz wymiar podatku dochodowego w pierwszej instancji w miastach, wyszczególnionych w ustawie z dnia 17 grudnia 1921 r. o zasileniu finansów miejskich (Dz. U. R. P. z 1922 r. № 2, poz. 6), przekazać miejskim komisjom szacunkowym, wybranym przez rady miejskie. Ilość tych komisji tudzież ich skład określi Minister Skarbu w drodze rozporządzenia. W wypadkach, wspomnianych w części pierwszej niniejszego artykułu, prawa i obowiązki urzędów skarbowych przechodzą na magistraty. Przepisy końcowe."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Ustawa niniejsza wchodzi w życie od roku podatkowego 1922. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Zmiany ogólne.\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"bran_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"bran_I-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"bran_I-arti_14-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"bran_I-arti_14-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"bran_I-arti_14-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"bran_I-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"bran_I-arti_15-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"bran_I-arti_15-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"bran_I-arti_15-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"bran_I-arti_15-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"bran_I-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"bran_I-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"bran_I-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"bran_I-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"bran_I-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"bran_I-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_I-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_I-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II. - Zmiany w opodatkowaniu dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę.\",\"children\": [{\"id\": \"bran_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"bran_II-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_II-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"bran_II-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_II-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_II-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_II-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"bran_II-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_II-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"bran_II-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"bran_II-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"bran_II-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"bran_II-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"bran_II-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"bran_II-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

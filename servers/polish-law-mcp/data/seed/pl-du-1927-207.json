@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1927-207",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 marca 1927 r. zmieniająca niektóre postanowienia ustawy z dnia 22 grudnia 1925 r. o środkach zapewnienia równowagi budżetowej.",
+  "title_en": "",
+  "short_name": "pl-du-1927-207",
+  "status": "in_force",
+  "issued_date": "1927-03-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1927/207",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przywraca się moc obowiązująca artykułom: 27, 29, 37, 47, 48, 49, 54, 62, 65, 107, 100 i 109 ustawy z 9 października 1923 r. o uposażeniu funkcjonariuszów państwowych i wojska (Dz. U. R. P. Nr 116, poz. 924), oraz art. 8 ustawy z dnia 5 grudnia 1923 r. o uposażeniu sędziów w sądownictwie powszechnem i administracyjnem i prokuratorów (Dz. U. R. P. Nr 134, poz. 1107), uchylonym lub zmienionym artykułami 3-cim, 4-tyrn, 5-tym, 6-tym, 8-mym i 10-tym ustawy z dnia 22 grudnia 1925 r. o środkach zapewnienia równowagi budżetowej (Dz. U. R. P. Nr 129, poz. 918)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W artykułach 34 i 51 Ustawy z dnia 9 października 1923 r. o uposażeniu funkcjonariuszów państwowych i wojska (Dz. U. R. P. Nr 116, poz. 924), zmienionych artykułem 4-tym ustawy z dnia 22 grudnia 1925 r. o środkach zapewnienia równowagi budżetowej (Dz. U. R. P. Nr 129, poz. 918), dodaje się dwa dalsze ustępy o brzmieniu następującem: „ Oznaczona w ustępie pierwszym maksymalna ilość godzin nauczania tygodniowo wynosi w każdej katagorji przedmiotów: a) o jedną godzinę mniej dla nauczycieli, mających więcej niż 15, a mniej niż 20 policzalnych lat pracy nauczycielskiej; b) o dwie godziny mniej dla nauczycieli, mających więcej niż 20, a mniej niż 25 policzalnych lat pracy nauczycielskiej; c) o trzy godziny mniej dla nauczycieli, mających ponad 25 lat policzalnych pracy nauczycielskiej. Zniżka powyższa obowiązuje każdorazowo na początku najbliższego roku szkolnego ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przywraca się ustęp pierwszy art. 6-go ustawy z dnia 17 lutego 1922 r. o zakładaniu i utrzymywaniu publicznych szkół powszechnych (Dz. U. R. P. Nr 18, poz. 143), zmieniony ustawą z dnia 22 grudnia 1925 r. o środkach zapewnienia równowagi budżetowej (Dz. U. R. P. Nr 129, poz. 918)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów i Ministrom: Skarbu, Wyznań Religijnych i Oświecenia Publicznego oraz Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia z ważnością od 1 kwietnia 1927 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

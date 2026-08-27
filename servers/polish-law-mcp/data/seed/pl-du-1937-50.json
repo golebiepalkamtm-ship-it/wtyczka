@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1937-50",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 stycznia 1937 r. o przenoszeniu książek hipotecznych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-50",
+  "status": "repealed",
+  "issued_date": "1937-01-23",
+  "in_force_date": "1937-01-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/50",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na obszarze mocy obowiązującej przepisów prawa hipotecznego z 1818 r. (Dz. Pr. tom V, str. 295) i z 1919 r. ( Dz. U. R. P. z 1928 r. Nr 53, poz. 510 ) Minister Sprawiedliwości może z urzędu przenosić z archiwum hipotecznego sądu okręgowego do archiwum wydziału hipotecznego powiatowego, właściwego według miejsca położenia nieruchomości, książki hipoteczne, dotyczące nieruchomości wiejskich o obszarze nie przewyższającym 50 ha oraz nieruchomości miast, w których nie ma sądu okręgowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zarządzenie Ministra Sprawiedliwości o przeniesieniu książek hipotecznych do archiwum wydziału hipotecznego powiatowego ogłasza się w Dzienniku Urzędowym Ministerstwa Sprawiedliwości z oznaczeniem daty przeniesienia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Jeżeli nie sprzeciwia się temu szczególny przepis prawa, właściciel nieruchomości, uregulowanej w hipotece sądu okręgowego, może żądać pozostawienia książki hipotecznej tej nieruchomości w archiwum hipotecznym sądu okręgowego. Żądanie takie należy zgłosić do wydziału hipotecznego tegoż sądu najpóźniej na siedem dni przed terminem przeniesienia książek; decyzja wydziału nie ulega zaskarżeniu. (2) Niezgłoszenie takiego żądania nie pozbawia właściciela prawa późniejszego żądania przeniesienia na własny koszt książki hipotecznej z powrotem do archiwum hipotecznego sądu okręgowego, jednak za zgodą osób, mających prawa, ujawnione w wykazie hipotecznym."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Na obszarze mocy obowiązującej prawa hipotecznego z 1818 r. (Dz. Pr., tom V, str. 295) właściciele nieruchomości, których książki hipoteczne, w związku z utworzeniem wydziału hipotecznego powiatowego, zostały z urzędu przeniesione przed wejściem w życie ustawy niniejszej do archiwum tego wydziału z archiwum sądu okręgowego, mogą żądać przeniesienia książek hipotecznych z powrotem do archiwum hipotecznego sądu okręgowego. Żądanie takie należy zgłosić w ciągu dwóch tygodni od daty wejścia w życie ustawy niniejszej. (2) W razie zgłoszenia takiego żądania po tym terminie, stosuje się przepis art. 3 ust. (2)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_(1\",\"symbol\": \"pint_(1\",\"type\": \"pint\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pint_(2\",\"symbol\": \"pint_(2\",\"type\": \"pint\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_(1\",\"symbol\": \"pint_(1\",\"type\": \"pint\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pint_(2\",\"symbol\": \"pint_(2\",\"type\": \"pint\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

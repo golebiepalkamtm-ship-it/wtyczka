@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1924-27",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 stycznia 1924 r. o prowizorjum budżetowem na czas od 1 stycznia do 31 marca 1924 r.",
+  "title_en": "",
+  "short_name": "pl-du-1924-27",
+  "status": "in_force",
+  "issued_date": "1924-01-10",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/27",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do otwierania kredytów na wydatki państwowe w czasie od 1 stycznia do 31 marca 1924 r. do wysokości 1/4 kwot, ustalonych w częściach i działach preliminarza budżetowego na r. 1924, przyczem kwoty te mogą” być powiększone w tym stosunku, w jakim skrócony wskaźnik cen hurtowych w czasie od 1 do 7 czerwca 1923 roku pozostawać będzie do tego wskaźnika w ostatnim tygodniu grudnia 1923 roku. Wyjątek stanowi część 13 dział IV wydatków Ministerstwa Wyznań Religijnych i Oświecenia Publicznego (szkolnictwo powszechne), z którego wolno Ministrowi Skarbu otworzyć kredyt do wysokości 3/4 tego działu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Skarbu ma prawo w razie wzrostu drożyzny uzupełniać kredyty prowizoryczne, ustalone w art. 1; nieprzekraczalną granicą uzupełnienia kredytów jest określona według skróconego wskaźnika cen hurtowych siła nabywcza, jaką 1/4 kwot, objętych częściami i działami preliminarza na rok 1924, przedstawiała w czasie od i do 7 czerwca 1923 r. Otwieranie kredytów, nieobjętych preliminarzem na rok 1924, może nastąpić tylko na wniosek Ministra Skarbu, zatwierdzony w drodze ustawodawczej, pod warunkiem, że równocześnie zostaną otwarte nowe, wystarczające źródła pokrycia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wymienione w art. 1 i 2 wydatki państwowe mają być dokonywane na poczet konstytucyjnie mającego się zatwierdzić budżetu na r. 1924."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia Się Ministra Skarbu do pokrycia wydatków państwowych w okresie od 1 stycznia do 31 marca 1924 r. dochodami państwowemi, przewidzianemi w preliminarzu na r. 1924, przy uwzględnieniu podwyżki dochodów, oraz dochodami, oparłemi na nowych tytułach prawnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1924 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

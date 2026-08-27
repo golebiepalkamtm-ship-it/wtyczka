@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-346",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 lipca 1920 r. w przedmiocie zmiany niektórych przepisów i przedłużenia mocy obowiązującej ustawy z dnia 3 lipca 1919 r. o ochronie drobnych dzierżawców rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-346",
+  "status": "repealed",
+  "issued_date": "1920-07-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/346",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą ustawy z dnia 3 lipca 1919 r. (Dz. Pr. № 57 poz. 345) w przedmiocie ochrony drobnych dzierżawców rolnych, zakreśloną art. 9 tejże ustawy na czas do końca 1920 r., przedłuża się co do gruntów obsianych zbożem do dnia 1 września 1924 r., zaś co do gruntów pod okopowiznami do dnia 1 listopada 1924 r. z następującemi zmianami:"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Czynsz dzierżawy drobnych działek gruntów do 6 morgów może być żądany, ustanowiony i płacony tylko w kwocie pieniężnej i nie może przewyższać kwoty, odpowiadającej podwójnej cenie kontyngentowej żyta w odnośnym okręgu z końcem 1919 r. w stosunku do 40 kg. żyta za każdą 1 morgę wydzierżawionego gruntu, niezależnie od rodzaju użytkowania. Gdyby czynsz w ten sposób ustalony był niższym od czynszu, płaconego na podstawie ustawy z 3 lipca 1919 r. (Dz. Pr. № 57 poz. 345), natenczas wypuszczający w dzierżawę ma prawo żądać zapłaty czynszu w wysokości, przewidzianej tą ostatnią ustawą. Wobec tego tracą moc obowiązującą postanowienia art. 1, ustęp 1 i 2 ustawy, we wstępie powołanej, postanowienia zaś art. 2 tejże ustawy stosowane będą do czynszu, przypadającego do zapłaty za czas do końca 1920 r. wedle normy, objętej art. 1 ustawy z 3 lipca 1919 r. (Dz. Pr. № 57 poz. 345), zaś do czynszu, przypadającego do zapłaty po 1 stycznia 1921 r. - wedle normy, zawartej w niniejszym artykule."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wyjątek, przewidziany w ostatniem zdaniu art. 7 ustawy z 3 lipca 1919 r. (Dz. Pr. № 57 poz. 345) co do dopuszczalności rozwiązania, względnie wypowiedzenia dzierżawy przez powracających do kraju właścicieli drobnych gospodarstw rolnych przed terminem, w ustawie z 3 lipca 1919 r. i w niniejszej noweli oznaczonym, będzie miał zastosowanie w każdym razie na żądanie strony interesowanej w tych wypadkach, gdy bez względu na wydalenie się z kraju właściciela gruntu dzierżawiony grunt stanowił i stanowić ma główny warsztat pracy właściciela, który poza gruntem, wydzierżawionym jednemu dzierżawcy lub kilku dzierżawcom w łącznym obszarze, nie przewyższającym 6 morgów, nie posiada więcej, niż potrójną ilość tegoż obszaru gruntu we własnem użytkowaniu oraz w tych wypadkach gdy dzierżawca poza gruntem mu wydzierżawionym posiada, jako właściciel, więcej gruntu, niźli wynosi cały obszar gruntu, będącego własnością wydzierżawiającego w chwili wypuszczenia w dzierżawę, jak również w tych wypadkach, gdy właściciel wydzierżawionego gruntu prawomocnym aktem notarjalnym daruje wydzierżawiony obszar na cele użyteczności publicznej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Inne postanowienia ustawy z 3 lipca 1919 r. (Dz. Pr. № 57 poz. 345), o ile poprzedniemi artykułami nie zostały zmienione lub zniesione, zachowują swą ważność."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

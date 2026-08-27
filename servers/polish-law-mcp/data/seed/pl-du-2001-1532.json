@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2001-1532",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 listopada 2001 r. o gwarancjach Skarbu Państwa dla przewoźników lotniczych.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1532",
+  "status": "repealed",
+  "issued_date": "2001-11-14",
+  "in_force_date": "2001-11-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1532",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Udziela się przewoźnikom lotniczym gwarancji Skarbu Państwa obejmującej odpowiedzialność użytkownika (operatora) eksploatującego statki powietrzne przewoźnika wykonującego przewozy lotnicze, będącego rezydentem w rozumieniu ustawy z dnia 18 grudnia 1998 r. - Prawo dewizowe ( Dz. U. Nr 160, poz. 1063 , z 1999 r. Nr 83, poz. 931 oraz z 2000 r. Nr 103, poz. 1099 ) , za szkody wobec osób trzecich związane z eksploatacją statków powietrznych, powstałe w wyniku wojny lub aktów terroru, o ile wartość szkody przewyższa kwotę 50 000 000 USD. 2. Łączna wartość gwarancji, o której mowa w ust. 1, dla wszystkich przewoźników lotniczych wynosi 1 000 000 000 USD. 3. Gwarancja jest ważna do dnia 30 czerwca 2002 r. 4. Upoważnia się ministra właściwego do spraw finansów publicznych do zawarcia, w imieniu Skarbu Państwa, umów gwarancji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do gwarancji, o której mowa w art. 1, nie stosuje się przepisów ustawy z dnia 30 czerwca 2000 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców ( Dz. U. Nr 60, poz. 704 oraz z 2001 r. Nr 125, poz. 1363 ) oraz ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne ( Dz. U. Nr 79, poz. 484 i Nr 80, poz. 511 , z 2000 r. Nr 48, poz. 550 , Nr 60, poz. 693 i Nr 86, poz. 958 oraz z 2001 r. Nr 16, poz. 167 i Nr 81, poz. 876 ) , z wyjątkiem art. 31."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy ustawy stosuje się do działań związanych z udzielaniem gwarancji, o której mowa w art. 1, podejmowanych od dnia 24 września 2001 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

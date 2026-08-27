@@ -1,0 +1,122 @@
+{
+  "id": "pl-du-1925-915",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 1925 r. o Głównej Inspekcji Kolejowej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-915",
+  "status": "repealed",
+  "issued_date": "1925-12-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/915",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Główna Inspekcja Kolejowa jest urzędem państwowym, podległym bezpośrednio Ministrowi Kolej, działającym samoistnie i niezależnie od departamentów Ministerstwa Kolei."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zadaniem Głównej Inspekcji Kolejowej jest kontrola nad całokształtem gospodarki kolejowej, oraz nad prawidłowem stosowaniem na kolejach, podległych Ministrowi Kolei, obowiązujących ustaw, rozporządzeń, instrukcyj we wszystkich działach służby kolejowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Główna Inspekcja Kolejowa spełnia swe zadanie przez: 1) kontrolą doraźną, wykonywaną według swego uznania we wszystkich działach służby i gospodarki kolejowej; 2) przeprowadzanie dochodzeń w razie dostrzeżenia nieprawidłowości lub nadużyć, a to celem ustalenia ich źródeł i zapobiegania im na przyszłość; 3) przeprowadzanie dochodzeń, zleconych przez Ministra Kolei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na czele Głównej Inspekcji Kolejowej stoi Główny Inspektor. Jest on odpowiedzialny za prawidłowy bieg spraw, powierzonych Głównej Inspekcji Kolejowej. Ma jego wniosek mianuje Minister Kolei urzędników Głównej Inspekcji Kolejowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Główny inspektor, urzędnicy i funkcjonarjusze niżsi Głównej Inspekcji Kolejowej są funkcjonariuszami państwowymi, których stosunki służbowe normuje ustawa z dnia 17 lutego 1922 r. o państwowej służbie cywilnej (Dz. U. R. P. № 21, poz. 164), o ile niniejsza ustawa nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Urzędnicy Głównej Inspekcji Kolejowej dzielą się na urzędników inspekcyjnych i urzędników biurowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Urzędnicy inspekcyjni Głównej Inspekcji Kolejowej wykonywają służbę według wskazań swych przełożonych, inspekcję przeprowadzają jednak samodzielnie według swej najlepszej wiedzy i sumienia, a w razie stwierdzenia nieprawidłowości lub nadużyć wdrażają dochodzenia, których nie wolno przerwać lub wstrzymać przed zupełnem ukończeniem."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Główna Inspekcja Kolejowa, a w razie nagłej potrzeby urzędnik inspekcyjny, ma prawo zwracać się do wszelkich urzędów państwowych o pomoc w zakresie ich kompetencji, a te są obowiązane udzielić mu pomocy najskuteczniejszej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Prowadzący dochodzenie uprawniony jest wzywać świadków, a w razie potrzeby znawców, i przesłuchiwać ich protokólarnie."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "O ile osoby, nie będące pracownikami państwowymi, nie czynią zadość wezwaniu prowadzącego dochodzenie urzędnika inspekcyjnego Głównej Inspekcji Kolejowej lub uchylają się od zeznań bez podania ustawowego powodu, może prowadzący dochodzenie zażądać współdziałania władz administracyjnych, względnie policyjnych, a te, udzielając pomocy, stosują przepisy o wzywaniu i przesłuchiwaniu stron, obowiązujące w postępowaniu administracyjnem."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "W stosunku do pracowników władz i instytucyj kolejowych tak dyrekcyjnych, jak i centralnych, przysługuje urzędnikom Głównej Inspekcji Kolejowej prawo żądania wszelkich wyjaśnień służbowych, badania ksiąg, rachunków, aktów, dokumentów i zapisków służbowych, a osoby te i władze i instytucje obowiązane są żądania powyższe spełniać bezzwłocznie i bez jakichkolwiek utrudnień lub ograniczeń. Oporni podlegają karom w myśl obowiązujących przepisów."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "O ile wyniki inspekcji lub dochodzenia to uzasadniają, może urzędnik inspekcyjny Głównej Inspekcji Kolejowej pod warunkiem nienarażania normalnego biegu czynności służbowych wydać polecenie tymczasowego zawieszenia w służbie pracownika kolejowego. Władza przełożona pracownika jest obowiązana polecenie to wykonać."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Władza przełożona jest obowiązana wykonać polecenie urzędnika inspekcyjnego w razie jego decyzji skierowania sprawy na drogę karno-sądową, co nastąpić może w wypadku stwierdzenia czynów lub zaniedbań, naruszających przepisy prawa karnego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Główna Inspekcja Kolejowa ma prawo przekazywania odpowiednich spraw do ostatecznego załatwienia i wydania orzeczenia odnośnym instytucjom dyscyplinarnym."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zasadą urzędowania Głównej Inspekcji Kolejowej ma być natychmiastowa, bezpośrednia interwencja i możliwie najszybsze załatwienie odnośnych spraw. Główna Inspekcja Kolejowa składa ze swoich spostrzeżeń sprawozdania Ministrowi Kolei, przedstawiając odpowiednie wnioski."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Ministerstwo Kolei i inne władze kolejowe obowiązane są wszelkie swe zarządzenia komunikować bezzwłocznie Głównej Inspekcji Kolejowej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Kolei w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Ustawa niniejsza wchodzi w życie w trzy miesiące po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

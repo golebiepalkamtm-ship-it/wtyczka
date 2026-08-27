@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1935-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 grudnia 1934 r. o dodatkowych kredytach na rok 1934/35.",
+  "title_en": "",
+  "short_name": "pl-du-1935-17",
+  "status": "in_force",
+  "issued_date": "1934-12-20",
+  "in_force_date": "1935-01-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyty, ustalone w grupie A. Administracja, budżetu, załączonego do ustawy skarbowej z dnia 13 marca 1934 r. na okres od 1 kwietnia 1934 r. do 31 marca 1935 r. (Dz. U. R. P. Nr 27, poz. 219), podwyższa się o kwoty następujące: 1) w części 5 - Ministerstwo Spraw Zagranicznych - w wydatkach zwyczajnych, w dziale 3, w nowoutworzonym paragrafie 15 „Zjazd Polaków z zagranicy” o kwotę.....100.000 zł. 2) w części 7-Ministerstwo Spraw Wewnętrznych - w wydatkach nadzwyczajnych, w dziale 2, w nowoutworzonym paragrafie 16 „Akcja przeciwpowodziowa” o kwotę.... 500.000 zł. 3) w części 14 - Ministerstwo Opieki Społecznej - w wydatkach zwyczajnych, w dziale 10, rozdziale 2, paragrafie 17 „Opieka nad inwalidami wojennymi” o kwotę.....500.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Na pokrycie wydatków, przewidzianych w art. 1, służą oszczędności, uzyskane ze zmniejszenia wydatków w innych paragrafach budżetu. (2) Podwyższenie wydatków o kwoty, wymienione w art. 1, nie powoduje zwiększenia ogólnej sumy wydatków, ustalonych w ustawie skarbowej z dnia 13 marca 1934 r. w kwocie 2.184.552.590 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1934 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-48",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1928 r. w sprawie ratyfikacji konwencji pomiędzy Austrją, Włochami, Polską, Rumunją, Królestwem Serbów, Chorwatów i Słoweńców oraz Czechosłowacją, dotyczącej przejęcia wierzytelności i depozytów, należących do obywateli, zamieszkujących terytorja, należące dawniej do Austrji, z pod zarządu Pocztowej Kasy Oszczędności w Wiedniu, podpisanej w Rzymie dnia 6 kwietnia 1922 r, oraz układu dodatkowego do tejże konwencji, podpisanego w Rzymie dnia 23 lutego 1925 r. wraz z protokółem z tejże daty.",
+  "title_en": "",
+  "short_name": "pl-du-1929-48",
+  "status": "in_force",
+  "issued_date": "1929-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/48",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji konwencji pomiędzy Austrją, Włochami, Polską, Rumunją, Królestwem Serbów, Chorwatów i Słoweńców oraz Czechosłowacją, dotyczącej przejęcia wierzytelności i depozytów, należących do obywateli, zamieszkujących terytorja, należące dawniej do Austrji, z pod zarządu Pocztowej Kasy Oszczędności w Wiedniu, podpisanej w Rzymie dnia 6 kwietnia 1922, oraz układu dodatkowego do tejże konwencji, podpisanego w Rzymie dnia 23 lutego 1925, wraz z protokółem z tejże daty."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień, zawartych w powyższych umowach, porucza się Ministrowi Skarbu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

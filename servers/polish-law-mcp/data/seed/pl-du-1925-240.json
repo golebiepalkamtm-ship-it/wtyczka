@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-240",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1925 r. zmieniająca niektóre postanowienia ustawy z dnia 13 lutego 1924 r. w przedmiocie stosowania na obszarze województwa śląskiego ustaw, dotyczących państwowej służby cywilnej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-240",
+  "status": "repealed",
+  "issued_date": "1925-03-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/240",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 3 ustawy z dnia 13 lutego 1924 r. w przedmiocie stosowania na obszarze województwa śląskiego ustaw, dotyczących państwowej służby cywilnej (Dz. U. R. P. № 21 poz. 224), otrzymuje następujące brzmienie: „ Uchyla siej postanowienia art. 26 ustęp 2 i art. 33 ustęp 1 i 2 ustawy konstytucyjnej z dnia 15 lipca 1920 r. zawierającej statut organiczny województwa śląskiego (Dz. U. R. P. № 73 poz. 497) ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi wżycie z dniem ogłoszenia. Z tą chwilą uzyskuje na obszarze województwa śląskiego moc obowiązującą ustawa z dnia 13 lutego 1924 r. w przedmiocie stosowania na obszarze województwa śląskiego ustaw, dotyczących państwowej służby cywilnej (Dz. U. R. P. № 21 poz. 224), wobec wyrażenia zgody na nią Sejmu Śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

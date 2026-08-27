@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-119",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1932 r. w sprawie zmian w ustawie wojskowego postępowania karnego.",
+  "title_en": "",
+  "short_name": "pl-du-1932-119",
+  "status": "repealed",
+  "issued_date": "1932-01-21",
+  "in_force_date": "1932-03-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/119",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie wojskowego postępowania karnego z dnia 5 lipca 1912 r. (Dz. U. P. austr. Nr 130), obowiązującej w sądownictwie wojskowem na podstawie ustawy z dnia 29 lipca 1919 r. o tymczasowem sądownictwie wojskowem (Dz. P. P. P. Nr 65, poz. 389), wprowadzą się następujące zmiany: 1) w § 88 w ustępie 1 skreśla się słowa: „zbrodnię, która według wchodzącego w zastosowanie wymiaru kary jest zagrożona karą surowszą od kary na wolności aż do pięciu lat”, a w miejsce ich umieszcza się następujące słowa: „przestępstwo, zagrożone karą śmierci, zamknięcia w ciężkiem więzieniu, w więzieniu, zastępującem dom poprawy”; 2) ustęp trzeci § 88 otrzymuje następujące brzmienie: „ We wszystkich innych wypadkach kierujący rozprawą ustanowi oskarżonemu obrońcę z urzędu do rozprawy głównej i rozprawy w drugiej instancji tylko na wyraźne jego żądanie, gdy sprawa jest zawiła, a wyznaczenie obrońcy z urzędu nie jest połączone ze szczególnemi trudnościami ” ; 3) w ustępie 1 § 257 skreśla się słowa: „tylko” oraz: „płci męskiej”; 4) po ustępie drugim § 312 umieszcza się nowy ustęp w następującem brzmieniu: „ Jeśli z uwagi na zawiłość sprawy dotrzymanie terminu 3-dniowego jest niemożliwe, wówczas przewodniczący może oznaczyć dalszy niezbędny termin. Postanowienie to wraz z krótkiem uzasadnieniem należy umieścić w protokóle rozprawy głównej. W tym wypadku należy odpisy wyroku wraz z powodami doręczyć stronom ” . 5) w ustępie 1 § 337 dodaje się na końcu przepis następujący: „ W wypadku ustępu 3 § 312 termin ten liczy się od dnia doręczenia odpisu wyroku z powodami ” . 6) w ustępie 2 § 337 w zdaniu drugiem po słowach: „wywodzie odwołania oskarżonego” umieszcza się słowa: „wniesionego w terminie, przewidzianym w ustępie pierwszym”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa mniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

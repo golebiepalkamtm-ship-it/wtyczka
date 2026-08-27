@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-393",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1932 r. w sprawie uzupełnienia ustawy z dnia 19 grudnia 1923 r. w przedmiocie wykonania decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r. o uregulowaniu ubezpieczeń społecznych na terytorjach dawniej niemieckich, odstąpionych Polsce bezpośrednio na podstawie traktatu wersalskiego, oraz w przedmiocie dodatków drożyźnianych dla uprawnionych do pobierania świadczeń na podstawie tej decyzji.",
+  "title_en": "",
+  "short_name": "pl-du-1932-393",
+  "status": "in_force",
+  "issued_date": "1932-03-17",
+  "in_force_date": "1932-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/393",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Po art. 12 ustawy z dnia 19 grudnia 1923 r. w przedmiocie wykonania decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r. o uregulowaniu ubezpieczeń społecznych na terytorjach dawniej niemieckich, odstąpionych Polsce bezpośrednio na podstawie traktatu wersalskiego, oraz w przedmiocie dodatków drożyźnianych dla uprawnionych do pobierania świadczeń na podstawie tej decyzji (Dz. U. R. P. z 1924 r. Nr 7, poz. 63) dodaje się dwa nowe artykuły, a mianowicie art. 12-a i 12-b w brzmieniu następującem: „ Art. 12-a. Majątek dawnych niemieckich instytucyj ubezpieczeń społecznych, przyznany w art. 2 decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r. (Dz. U. R. P. z 1923 r. Nr 70, poz. 550) Państwu Polskiemu, przechodzi w każdym poszczególnym wypadku na własność tej instytucji polskiej, która przejęła zobowiązania odnośnej instytucji niemieckiej. Art. 12-b. Nieruchomości byłej niemieckiej Landesversicherungsanstalt Posen w Poznaniu i Lan-desversicherungsanstalt Westpreussen w Gdańsku, wyszczególnione w załączniku do niniejszej ustawy, Przechodzą na własność Ubezpieczalni Krajowej w Poznaniu bez potrzeby powzdania (§ 925 kodeksu cywilnego z dnia 18 sierpnia 1896 r.). Przepisanie prawa własności w księdze gruntowej nastąpi na wniosek Ubezpieczalni Krajowej w Poznaniu. Wniosek ten jest wolny od opłat stemplowych, sądowych i komunalnych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Pracy i Opieki Społecznej w porozumieniu z Ministrem Skarbu i Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Załącznik - Wykaz gruntów według księgi wieczystej których prawo własności przechodzi na Ubezpieczalnie Krajową w Poznaniu patrz oryginał Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Wykaz gruntów według księgi wieczystej których prawo własności przechodzi na Ubezpieczalnie Krajową w Poznaniu\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

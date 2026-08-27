@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1926-40",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 grudnia 1925 r. o wstrzymaniu wykonania kar za przestępstwa leśne w okręgach sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1926-40",
+  "status": "in_force",
+  "issued_date": "1925-12-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/40",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W sprawach karnych o przestępstwa z art. 624 cz. 1, a z tegoż artykułu cz. 2, o ile okolicznością obciążającą jest tylko popełnienie w lesie, gaju lub rewirze, otoczonych rowem, dalej z art. 625, punkt 3, 4 i 5, z art. 626, cz. 1 i z art. 630, a także art. 633 cz. 1 i 4 kodeksu karnego z r. 1903 wstrzymuje się wykonanie kary i nawiązki do dnia 1 grudnia 1926 r., jeżeli wyrok pierwszej instancji zapadł przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W sprawach karnych o przestępstwa, przewidziane artykułem poprzedzającym, popełnione przed dniem wejścia w życie niniejszej ustawy, w których wyrok pierwszej instancji będzie wydany po wejściu ustawy w życie, sąd wstrzyma wykonanie kary do dnia 1 grudnia 1926 r., o ile skazany jest uprawnionym do korzystania w swojem lub cudzem imieniu ze służebności (serwitutów) leśnych i jeśli przestępstwa dopuścił się w obrębie rewiru leśnego, do którego odnosi się jego uprawnienie, i nie w nocy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W stosunku do osób, które popełniły przestępstwa, przewidziane w art. 1, po dniu wejścia w życie niniejszej ustawy, a co do których zachodzą warunki art. 2, sąd może orzec wstrzymanie kar do dnia 1 grudnia 1926 r. w miarę okoliczności łagodzących i ciężkiego położenia skazanego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przepisy niniejszej ustawy odnoszą się także do kar, określonych w art. 627 kodeksu karnego, nie stosują się wszakże do przewidzianego w części drugiej tegoż artykułu zwrotu zabranego drzewa, lub jego istotnej pojedynczej wartości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Z dobrodziejstw niniejszej ustawy nie korzystają osoby, które dopuściły się przestępstwa w celu spekulacji, albo też działając w porozumieniu z osobami, powołanemi do zarządu lub nadzoru leśnego. W wypadkach, określonych w art. 1, okoliczności te ustala sąd na podstawie akt odnośnej sprawy bez przeprowadzenia osobnego dochodzenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wstrzymanie dotyczy kar, w całości lub częściowo niewykonanych. Wykonaną część kary zalicza się na poczet odbycia całej kary."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszeniem. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

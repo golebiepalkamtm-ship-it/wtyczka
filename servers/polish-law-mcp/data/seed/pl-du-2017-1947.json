@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2017-1947",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 września 2017 r. o zmianie ustawy o statusie sędziów Trybunału Konstytucyjnego",
+  "title_en": "",
+  "short_name": "pl-du-2017-1947",
+  "status": "amended",
+  "issued_date": "2017-09-15",
+  "in_force_date": "2017-10-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1947",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 listopada 2016 r. o statusie sędziów Trybunału Konstytucyjnego ( Dz. U. poz. 2073 ) wprowadza się następujące zmiany: 1) art. 3 otrzymuje brzmienie: „ Art. 3. Sędzią Trybunału może zostać osoba, która wyróżnia się wiedzą prawniczą oraz spełnia wymagania niezbędne do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego lub sędziego Naczelnego Sądu Administracyjnego. ” ; 2) po art. 18 dodaje się art. 18a w brzmieniu: „ Art. 18a. W razie śmierci sędziego Trybunału stosuje się odpowiednio przepisy dotyczące świadczeń, o których mowa w art. 101 i art. 102 ustawy z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ( Dz. U. z 2016 r. poz. 2062 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452. ) , oraz przepisy wydane na podstawie art. 103 tej ustawy. ” ; 3) art. 19 otrzymuje brzmienie: „ Art. 19. W zakresie nieuregulowanym w niniejszej ustawie do praw i obowiązków sędziów Trybunału stosuje się odpowiednio przepisy dotyczące praw i obowiązków sędziów Sądu Najwyższego. ” ; 4) w art. 37 po wyrazach „art. 12” dodaje się wyrazy „, art. 18a” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy art. 18a i art. 37 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do zdarzeń powstałych od dnia wejścia w życie ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do sędziów Trybunału Konstytucyjnego, którzy przeszli w stan spoczynku od dnia wejścia w życie ustawy zmienianej w art. 1, stosuje się odpowiednio przepis art. 48 ustawy z dnia 23 listopada 2002 r. o Sądzie Najwyższym ( Dz. U. z 2016 r. poz. 1254 , 2103 i 2261 oraz z 2017 r. poz. 38 i 1452 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1948, 2103 i 2261 oraz z 2017 r. poz. 38, 60, 803, 1139 i 1452. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

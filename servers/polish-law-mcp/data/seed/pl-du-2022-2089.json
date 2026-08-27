@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2022-2089",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 września 2022 r. o zmianie ustawy - Prawo oświatowe oraz ustawy o finansowaniu zadań oświatowych",
+  "title_en": "",
+  "short_name": "pl-du-2022-2089",
+  "status": "in_force",
+  "issued_date": "2022-09-15",
+  "in_force_date": "2022-10-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2089",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 grudnia 2016 r. - Prawo oświatowe ( Dz. U. z 2021 r. poz. 1082 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730. ) w art. 39a ust. 2 i 3 otrzymują brzmienie: „ 2. Zwrot kosztów jednorazowego przewozu następuje w wysokości określonej według wzoru: koszt = (a-b) × c gdzie: a - liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania do przedszkola, oddziału przedszkolnego w szkole podstawowej, innej formy wychowania przedszkolnego, ośrodka rewalidacyjno-wychowawczego, szkoły podstawowej albo szkoły ponadpodstawowej, a także przewozu rodzica z tego miejsca do miejsca zamieszkania lub miejsca pracy, i z powrotem, b - liczba kilometrów przewozu drogami publicznymi z miejsca zamieszkania rodzica do miejsca pracy i z powrotem, jeżeli nie wykonywałby przewozu, o którym mowa w lit. a, c - stawka za 1 kilometr przebiegu pojazdu. 3. Stawkę za 1 kilometr przebiegu pojazdu określa rada gminy, w drodze uchwały, przy czym stawka ta nie może być niższa niż określona w przepisach wydanych na podstawie art. 34a ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym ( Dz. U. z 2022 r. poz. 180 i 209 ) . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 27 października 2017 r. o finansowaniu zadań oświatowych ( Dz. U. z 2022 r. poz. 2082 ) w art. 120 w ust. 1 pkt 5 otrzymuje brzmienie: „ 5) w 2022 r. - 340 mln zł; ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Strony umowy, o której mowa w art. 39a ust. 4 ustawy zmienianej w art. 1, dostosują postanowienia umowy do przepisów ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 60 dni od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. W roku 2022 dotacja celowa, o której mowa w art. 55 ust. 3, art. 62 ust. 1 i art. 69 ust. 3 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych ( Dz. U. z 2022 r. poz. 2082 ) , w tym kwoty refundacji, o których mowa w art. 57 ust. 4-6 tej ustawy, są przekazywane w terminie od dnia 6 maja do dnia 30 listopada. 2. W roku 2022 dotacja celowa, o której mowa w art. 55 ust. 4 i art. 69 ust. 1 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych , jest przekazywana w terminie do dnia 9 grudnia. 3. W przypadku złożenia wniosku o udzielenie dotacji celowej przez jednostkę samorządu terytorialnego w terminie od dnia 6 maja 2022 r. do dnia 15 września 2022 r. wojewoda udziela dotacji celowej, o której mowa w art. 55 ust. 3 ustawy z dnia 27 października 2017 r. o finansowaniu zadań oświatowych , w terminie do dnia 5 grudnia 2022 r."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 i art. 4, które wchodzą w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2022 r. poz. 655, 1079, 1116, 1383, 1700 i 1730. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

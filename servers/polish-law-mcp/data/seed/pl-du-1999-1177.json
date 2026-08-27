@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-1177",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 października 1999 r. o zmianie ustawy o orderach i odznaczeniach.",
+  "title_en": "",
+  "short_name": "pl-du-1999-1177",
+  "status": "amended",
+  "issued_date": "1999-10-21",
+  "in_force_date": "1999-12-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/1177",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach ( Dz. U. Nr 90, poz. 450 ) wprowadza się następujące zmiany: 1) dodaje się art. 31a w brzmieniu: „ Art. 31a. Wniosek o nadanie orderu lub odznaczenia powinien zawierać informację o karalności osoby, której dotyczy. ” ; 2) w art. 33 dodaje się ust. 2a w brzmieniu: „ 2a. Odznakę Medalu Za Długoletnie Pożycie Małżeńskie w imieniu Prezydenta mogą wręczać: marszałek województwa, starosta, wójt, burmistrz lub prezydent miasta. ” ; 3) dodaje się art. 37a w brzmieniu: „ Art. 37a. Przechowywanie zawartych we wnioskach o nadanie orderu, odznaczenia lub tytułu honorowego albo we wnioskach o pozbawienie orderu, odznaczenia lub tytułu honorowego danych osobowych, o których mowa w art. 27 ust. 1 i art. 28 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. Nr 133, poz. 883), nie wymaga zgody osoby, której te dane dotyczą. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

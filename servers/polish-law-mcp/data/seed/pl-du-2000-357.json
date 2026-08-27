@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2000-357",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 marca 2000 r. o zmianie ustawy o ochronie osób i mienia.",
+  "title_en": "",
+  "short_name": "pl-du-2000-357",
+  "status": "amended",
+  "issued_date": "2000-03-31",
+  "in_force_date": "2000-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/357",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia ( Dz. U. Nr 114, poz. 740 i z 1999 r. Nr 11, poz. 95 ) art. 55 otrzymuje brzmienie: „ Art. 55. 1. Zgody na powołanie Straży Przemysłowych (Portowych, Bankowych) oraz Straży Pocztowych tracą moc z dniem 31 grudnia 2000 r. 2. Koncesje na działalność gospodarczą w zakresie usług ochrony osób i mienia, po spełnieniu przez przedsiębiorcę warunków określonych w ustawie, podlegają wymianie w terminie do dnia 31 grudnia 2000 r.; w pozostałych przypadkach tracą moc. 3. Przedsiębiorcy ubiegający się o wymianę koncesji, o których mowa w ust. 2, obowiązani są złożyć organowi właściwemu do udzielenia koncesji wniosek o wymianę koncesji w terminie do dnia 30 września 2000 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 27 marca 2000 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

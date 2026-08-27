@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-459",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 maja 1924 r. uchylająca ustawę z dnia 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej.",
+  "title_en": "",
+  "short_name": "pl-du-1924-459",
+  "status": "in_force",
+  "issued_date": "1924-05-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/459",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uchyla się ustawę z dn. 11 maja 1920 r. w przedmiocie uznania nazwisk, przybranych podczas służby wojskowej (Dz. U. R. P. № 42 poz. 251)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i z tą chwilą osoby wojskowe mogą uzyskać zmianę nazwiska w myśl ustawy z dnia 24 października 1919 r. w przedmiocie zmiany nazwisk (Dz. U. R. P. № 88 poz. 478)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wojskowych i Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

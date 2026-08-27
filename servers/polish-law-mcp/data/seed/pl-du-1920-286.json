@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-286",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 maja 1920 r. o tymczasowych emeryturach wojskowych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-286",
+  "status": "in_force",
+  "issued_date": "1920-05-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/286",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wojskowi, którzy na mocy norm emerytalnych b. państw zaborczych nabyli prawa do stałej emerytury przed wstąpieniem do wojska polskiego i którzy z wojska polskiego zostaną przeniesieni w stały stan spoczynku - otrzymują tymczasowe pobory emerytalne według art. 2 niniejszej ustawy: 1) o ile przesłużyli conajmniej 6 miesięcy w wojsku polskiem lub 2) o ile przyczyną ich przeniesienia, w stały stan spoczynku jest niezdolność do służby wojskowej, spowodowana służbą w wojsku polskiem bez względu na czas tej służby."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wysokość wymienionych w art. 1 poborów emerytalnych wynosi 60% od sumy, obliczonej według następujących zasad: a) czas służby w armjach b. państw zaborczych oblicza się według przepisów odnośnych państw, obowiązujących w Niemczech i Austro - Węgrzech przed 1 listopada 1918 r. a w Rosji - przed 1 listopada 1917 r.; b) za obliczony w myśl ustępu a) okres 10 lat służby wojskowej liczy się oficerom i równorzędnym 40%, za każdy następny rok służby 2,4% sumy wszystkich poborów w służbie czynnej, przywiązanych do ostatnio posiadanego rzeczywistego stopnia bez dodatków polowych, funkcyjnych i reprezentacyjnych, podoficerom zaś zawodowym - ostatnio posiadanego żołdu, powiększonego o ryczałt za świadczenia w naturze, licząc w to zaprowiantowanie umundurowanie i zakwaterowanie. Wysokość tymczasowych poborów emerytalnych w każdym poszczególnym wypadku ustala Minister Spraw Wojskowych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Różnica, powstać mogąca pomiędzy wymiarem tymczasowych poborów emerytalnych, w myśl niniejszej ustawy, a normami przyszłego ustawowego zaopatrzenia wojskowych, będzie każdemu emerytowanemu lub jego rodzinie wypłacana za cały czas od chwili przeniesienia go w stały stan spoczynku."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawo poboru emerytury ustaje na czas pobytu emerytowanego za granicami Państwa Polskiego bez zezwolenia władzy wojskowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

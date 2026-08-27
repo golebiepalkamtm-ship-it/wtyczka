@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-803",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lipca 1999 r. o ratyfikacji Umowy ramowej między Rzecząpospolitą Polską a Europejskim Bankiem Inwestycyjnym dotyczącej działalności EBI w Polsce, podpisanej w Warszawie dnia 1 grudnia 1997 r.",
+  "title_en": "",
+  "short_name": "pl-du-1999-803",
+  "status": "in_force",
+  "issued_date": "1999-07-24",
+  "in_force_date": "1999-08-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/803",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Umowy ramowej między Rzecząpospolitą Polską a Europejskim Bankiem Inwestycyjnym dotyczącej działalności EBI w Polsce, podpisanej w Warszawie dnia 1 grudnia 1997 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

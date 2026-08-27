@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1936-219",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1936 r. o uregulowaniu stanu prawnego niektórych gruntów, wywłaszczonych na cele obrony Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1936-219",
+  "status": "in_force",
+  "issued_date": "1936-04-09",
+  "in_force_date": "1936-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/219",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Grunty, wywłaszczone na cele obrony Państwa przez b. władze rosyjskie do dnia 31 grudnia 1915 r., mogą być przez Ministra Spraw Wojskowych w całości lub w części uznane za zbędne dla tych celów i zwrócone właścicielom lub ich następcom prawnym. (2) Przepisu ust. (1) nie stosuje się, jeżeli cena szacunkowa gruntu wywłaszczonego została w całości wypłacona i grunt został objęty w posiadanie przez Państwo Polskie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Za użytkowanie przez Państwo Polskie gruntów, zwróconych w myśl art. 1, będzie przyznane odszkodowanie w wysokości 1 % ceny szacunkowej za każdy rok użytkowania od dnia objęcia gruntu przez Państwo Polskie do dnia zwrotu gruntu, przyczem okresy, nieobejmujące całego roku, lecz nie krótsze od 6 miesięcy, liczy się za cały rok, okresów zaś poniżej 6 miesięcy nie bierze się pod uwagę."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Na podstawie zarządzeń Ministra Spraw Wojskowych właściwy wojewoda z urzędu: a) uchyla decyzje, dotyczące wywłaszczenia tych gruntów, lub ich części, które uznane zostały za zbędne dla celów obrony Państwa; b) ustala odszkodowanie za grunty, nieuznane za zbędne dla celów obrony Państwa, jeżeli ustalona przez b. władze rosyjskie cena szacunkowa nie została w całości wypłacona; c) ustala odszkodowanie za użytkowanie gruntów, przewidziane w art. 2. (2) Odszkodowanie ustala się według wartości gruntu w dniu szacunku, przyczem co do trybu postępowania stosuje się odpowiednio przepisy prawa o postępowaniu wywłaszczeniowem (Dz. U. R. P. z 1934 r. Nr. 86, poz. 776)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Kwoty, wypłacone przez b. władze rosyjskie: a) właścicielom gruntów lub ich następcom prawnym - z tytułu odszkodowania, b) osobom trzecim - na pokrycie obciążeń gruntów,zostaną przerachowane i potrącone z sumy odszkodowania, ustalonego w myśl artykułu poprzedzającego; jeżeli odszkodowanie nie należy się, albo suma jego jest niższa od kwot wypłaconych, kwoty, których z tego powodu nie można potrącić z odszkodowania, stanowią wierzytelność Skarbu Państwa. (2) Za podstawę przerachowania przyjmuje się, że cena szacunkowa gruntu w rublach, ustalona przez b. władze rosyjskie w toku postępowania wywłaszczeniowego, równa się cenie szacunkowej gruntu w złotych, ustalonej w sposób, wskazany w artykule poprzedzającym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Spraw Wojskowych i Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_3-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pass_(1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_4-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

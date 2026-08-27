@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1983-293",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 listopada 1983 r. o ustanowieniu Medalu \"Za udział w walkach w obronie władzy ludowej\".",
+  "title_en": "",
+  "short_name": "pl-du-1983-293",
+  "status": "repealed",
+  "issued_date": "1983-11-22",
+  "in_force_date": "1983-12-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1983/293",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się Medal „Za udział w walkach w obronie władzy ludowej” jako wyraz uznania dla osób, które w pierwszych latach po wyzwoleniu brały czynny udział w walkach z reakcyjnym podziemiem skierowanym przeciwko władzy ludowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Medal „Za udział w walkach w obronie władzy ludowej” nadawany jest wszystkim uczestnikom tych walk, a mianowicie: 1) żołnierzom Ludowego Wojska Polskiego, 2) funkcjonariuszom organów bezpieczeństwa publicznego, 3) funkcjonariuszom Milicji Obywatelskiej, 4) członkom Ochotniczej Rezerwy Milicji Obywatelskiej, 5) członkom organizacji politycznych, społecznych, zawodowych i młodzieżowych, pracownikom administracji państwowej oraz innym osobom biorącym udział w walkach określonych w art. 1. 2. Medal nadawany jest obywatelom polskim. 3. Medal może być nadawany także obywatelom innych państw, którzy brali czynny udział w walkach określonych w art. 1 lub wnieśli istotny wkład w obronę władzy ludowej. 4. Medal może być nadawany również pośmiertnie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Medal „Za udział w walkach w obronie władzy ludowej” nadaje Rada Państwa na wniosek: 1) Ministra Obrony Narodowej - w odniesieniu do osób pełniących czynną służbę wojskową oraz pracowników cywilnych zatrudnionych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej, 2) Ministra Spraw Wewnętrznych - w odniesieniu do funkcjonariuszy Służby Bezpieczeństwa i Milicji Obywatelskiej, osób pełniących czynną służbę wojskową w jednostkach wojskowych podległych Ministrowi Spraw Wewnętrznych, pracowników cywilnych zatrudnionych w jednostkach organizacyjnych podległych temu Ministrowi, członków Ochotniczej Rezerwy Milicji Obywatelskiej oraz emerytów i rencistów Służby Bezpieczeństwa i Milicji Obywatelskiej, 3) Ministra Spraw Zagranicznych - w odniesieniu do obywateli polskich zamieszkałych za granicą oraz obywateli innych państw, 4) Związku Bojowników o Wolność i Demokrację - w odniesieniu do członków tego Związku, 5) Prezesa Urzędu do Spraw Kombatantów lub terenowych organów administracji państwowej stopnia wojewódzkiego - w odniesieniu do innych osób niż wymienione w pkt 1-4. 2. Rada Państwa określa tryb przedstawiania wniosków o nadanie Medalu oraz sposób jego noszenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Odznaką Medalu „Za udział w walkach w obronie władzy ludowej” jest okrągły, srebrzony, oksydowany medal o średnicy 38 mm; na licowej stronie w środku znajduje się orzeł na tle obosiecznego miecza skierowanego ostrzem ku dołowi, skrzyżowanego z rozwiniętą flagą państwową Polskiej Rzeczypospolitej Ludowej i dwiema gałązkami oliwnymi, oraz napis „Manifest PKWN 1944”; na odwrotnej stronie w środku na tle tarczy znajduje się rysunek konturów granic Polski i napis „PRL”; w otoku napis „Uczestnikom walk w obronie władzy ludowej”. 2. Medal nosi się na wstążce szerokości 38 mm w kolorach czerwonym i zielonym oraz białym i czerwonym na obrzeżach. 3. Wzór rysunkowy Medalu zawiera załącznik do ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W sprawach nie uregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 17 lutego 1960 r. o orderach i odznaczeniach ( Dz. U. Nr 10, poz. 66 oraz z 1982 r. Nr 7, poz. 61 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik - Rysunek medalu (wzór) (Załącznik do ustawy stanowi oddzielną wkładkę) Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Rysunek medalu (wzór)\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

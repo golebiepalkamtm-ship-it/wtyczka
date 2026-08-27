@@ -1,0 +1,146 @@
+{
+  "id": "pl-du-2001-1363",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lipca 2001 r. o krajowym systemie ewidencji gospodarstw rolnych i zwierząt gospodarskich oraz o zmianie niektórych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1363",
+  "status": "repealed",
+  "issued_date": "2001-07-25",
+  "in_force_date": "2001-10-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1363",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady zakładania i prowadzenia, zakres oraz przeznaczenie krajowego systemu ewidencji gospodarstw rolnych i zwierząt gospodarskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Tworzy się krajowy system ewidencji gospodarstw rolnych i zwierząt gospodarskich, zwany dalej „systemem”. 2. System zakłada i prowadzi Agencja Restrukturyzacji i Modernizacji Rolnictwa, zwana dalej „Agencją”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Użyte w ustawie określenia oznaczają: 1) gospodarstwo rolne - wszystkie nieruchomości rolne będące w posiadaniu tego samego podmiotu, 2) działka rolna - zwarty obszar gruntu rolnego, wchodzący w skład gospodarstwa rolnego, na którym prowadzona jest jedna uprawa, 3) płatności bezpośrednie - pomoc finansową udzielaną na podstawie odrębnych przepisów, 4) zwierzęta gospodarskie - bydło, owce i kozy, 5) powierzchnia paszowa - grunt rolny, na którym prowadzone są uprawy roślin przeznaczonych na paszę dla zwierząt albo który jest wykorzystany do wypasu zwierząt, 6) grunt odłogowany - grunt rolny o powierzchni co najmniej 0,3 ha i szerokości 20 m, który był uprawiany z przeznaczeniem pod zbiory, a obecnie został wycofany z produkcji uprawnej lub jest na nim prowadzona produkcja na cele nieżywnościowe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. System składa się z: 1) ewidencji gospodarstw rolnych, 2) ewidencji zwierząt gospodarskich, 3) rejestru płatności bezpośrednich, 4) dokumentacji związanej z ewidencją gospodarstw rolnych oraz przyznawaniem i wypłatą płatności bezpośrednich, 5) dokumentacji związanej z przeprowadzanymi przez Agencję kontrolami przestrzegania przepisów dotyczących płatności bezpośrednich. 2. W skład systemu wchodzą także rejestry: 1) producentów bydła, 2) producentów owiec, 3) producentów kóz - którzy są uprawnieni do otrzymywania limitów określających maksymalną liczbę zwierząt, za które mogą być przyznane płatności bezpośrednie na podstawie odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "System obejmuje dane, o których mowa w art. 8, art. 9 oraz art. 10 ust. 1 i 2, dotyczące posiadaczy gospodarstw rolnych oraz posiadaczy zwierząt gospodarskich, którzy spełniają warunki do ubiegania się o płatności bezpośrednie lub którym płatności takie przyznano i wypłacono, na podstawie odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. System wykorzystuje się w zakresie: 1) przyznawania i wypłaty płatności bezpośrednich, 2) nadzoru nad przestrzeganiem przepisów dotyczących płatności bezpośrednich, sprawowanego przez Agencję, 3) postępowania w sprawie zwrotu nienależnie wypłaconych płatności bezpośrednich. 2. Zbiorcze dane zawarte w systemie mogą być udostępniane organom administracji publicznej prowadzącym inne systemy informacyjne."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ewidencję gospodarstw rolnych, ewidencję zwierząt gospodarskich oraz rejestr płatności bezpośrednich Agencja prowadzi w systemie informatycznym, zapewniając ochronę i zabezpieczenie danych przed ich utratą oraz nieuprawnionym dostępem do nich."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Ewidencja gospodarstw rolnych zawiera: 1) imię i nazwisko albo nazwę posiadacza gospodarstwa rolnego oraz jego adres, miejsce zamieszkania albo siedzibę, a w przypadku osoby fizycznej również numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL), 2) niepowtarzalny numer gospodarstwa rolnego nadany przez Agencję w trybie, o którym mowa w art. 12, oraz numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), jeżeli numer taki został nadany, 3) powierzchnię gospodarstwa rolnego, z podaniem identyfikatorów działek ewidencyjnych wchodzących w jego skład, 4) dane umożliwiające identyfikację działek rolnych i gruntów odłogowanych wchodzących w skład gospodarstwa rolnego, a w szczególności: a) powierzchnię wykazaną w hektarach, z dokładnością do drugiego miejsca po przecinku, b) lokalizację działek rolnych, z podaniem numerów działek ewidencyjnych, na których są one położone, c) sposób ich wykorzystywania, 5) powierzchnię paszową gospodarstwa rolnego. 2. Do prowadzenia ewidencji gospodarstw rolnych wykorzystuje się dane zawarte w ewidencji gruntów i budynków prowadzonej na podstawie przepisów Prawa geodezyjnego i kartograficznego. 3. Do określenia danych, o których mowa w ust. 1 pkt 4, należy wykorzystywać systemy, o których mowa w art. 7a pkt 7 ustawy z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ( Dz. U. z 2000 r. Nr 100, poz. 1086 i Nr 120, poz. 1268 oraz z 2001 r. Nr 110, poz. 1189 i Nr 115, poz. 1229 ) ."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Ewidencja zwierząt gospodarskich zawiera: 1) dane dotyczące zwierząt gospodarskich, w tym: a) numery identyfikacyjne zwierząt gospodarskich, określenie ich gatunku, płci, kategorii oraz rasy, b) miejsce przetrzymywania zwierząt gospodarskich, z podaniem numeru gospodarstwa rolnego, o którym mowa w art. 8 ust. 1 pkt 2, c) daty urodzin, uboju oraz eksportu zwierząt gospodarskich, 2) dane dotyczące posiadacza zwierząt gospodarskich, o których mowa w art. 8 ust. 1 pkt 1. 2. Do prowadzenia ewidencji zwierząt gospodarskich Agencja wykorzystuje dane zawarte w rejestrze zwierząt prowadzonym na podstawie przepisów o zwalczaniu chorób zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Inspekcji Weterynaryjnej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Rejestr płatności bezpośrednich zawiera dane związane z przyznawaniem i wypłacaniem płatności bezpośrednich oraz przeprowadzanymi przez Agencję kontrolami przestrzegania przepisów dotyczących tych płatności. 2. W rejestrze płatności bezpośrednich zamieszcza się, w odniesieniu do wnioskodawcy ubiegającego się o wypłatę płatności bezpośrednich, dane, o których mowa w ust. 1, dotyczące: 1) terminów złożenia wniosków o wypłatę płatności bezpośrednich, 2) powierzchni upraw roślin i gruntów odłogowanych, w stosunku do których wnioskodawca ubiega się o przyznanie płatności bezpośrednich, 3) liczby zwierząt gospodarskich, w stosunku do których wnioskodawca ubiega się o przyznanie płatności bezpośrednich, 4) sposobu rozpatrzenia wniosku, ze wskazaniem przypadków odmowy przyznania płatności bezpośrednich, 5) wysokości przyznanych płatności bezpośrednich, 6) wysokości wypłaconych płatności bezpośrednich, 7) zastosowania obniżenia lub redukcji płatności bezpośrednich, 8) dat przeprowadzonych kontroli u wnioskodawcy, któremu zostały przyznane płatności bezpośrednie, oraz wyniki tej kontroli, 9) kwot nienależnie wypłaconych płatności bezpośrednich, 10) sankcji zastosowanych wobec wnioskodawcy. 3. Decyzję administracyjną w sprawie zwrotu nienależnie wypłaconej płatności bezpośredniej wydaje dyrektor oddziału regionalnego Agencji, właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu, któremu nienależnie wypłacono płatność bezpośrednią. 4. Od decyzji, o której mowa w ust. 3, przysługuje odwołanie do Prezesa Agencji. 5. Do postępowania w sprawach zwrotu nienależnie wypłaconej płatności bezpośredniej stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ( Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083 , z 1998 r. Nr 106, poz. 668 , z 1999 r. Nr 11, poz. 95 i Nr 92, poz. 1062 , z 2000 r. Nr 94, poz. 1037 , Nr 116, poz. 1216 , Nr 120, poz. 1268 i Nr 122, poz. 1315 oraz z 2001 r. Nr 16, poz. 166 , Nr 39, poz. 459 , Nr 42, poz. 475 i Nr 110, poz. 1189 ) ."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Dane zawarte w systemie oraz dokumentację, o której mowa w art. 4 ust. 1 pkt 4 i 5, przechowuje się przez okres co najmniej 5 lat."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę posiadacza gospodarstwa rolnego nadaje, w drodze decyzji administracyjnej, numer gospodarstwa rolnego na wniosek jego posiadacza. 2. Wniosek, o którym mowa w ust. 1, powinien zawierać dane, o których mowa w art. 8 ust. 1 pkt 1 i 3. 3. Wniosek, o którym mowa w ust. 1, składa się przed złożeniem pierwszego wniosku o wypłatę płatności bezpośredniej, nie później jednak niż 3 miesiące przed ostatecznym terminem złożenia wniosku o wypłatę danej płatności określonym w odrębnych przepisach. 4. Decyzja, o której mowa w ust. 1, zawiera w szczególności imię i nazwisko albo nazwę posiadacza gospodarstwa rolnego, jego adres, miejsce zamieszkania albo siedzibę oraz numer gospodarstwa rolnego. 5. Od decyzji, o której mowa w ust. 1, przysługuje odwołanie do Prezesa Agencji."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Agencja może powierzać, na podstawie umowy, wykonywanie czynności technicznych związanych z prowadzeniem systemu, w tym z przyjmowaniem wniosków o wypłatę płatności bezpośrednich, wyspecjalizowanym w tym zakresie podmiotom. 2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje czynności technicznych, o których mowa w ust. 1, oraz warunki organizacyjne, techniczne i kadrowe, jakie powinny spełniać podmioty, którym mogą być powierzone do wykonania te czynności, mając na względzie zapewnienie wykonywania ich w jednolity sposób na obszarze całego kraju oraz sprawne funkcjonowanie systemu."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Prezes Głównego Urzędu Statystycznego udostępnia nieodpłatnie Agencji wykazy gospodarstw rolnych wpisanych do krajowego rejestru urzędowego podmiotów gospodarki narodowej wraz z nadanym im numerem identyfikacyjnym (REGON) i zakodowanym opisem informacji objętych rejestrem."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne ( Dz. U. z 2000 r. Nr 100, poz. 1086 i Nr 120, poz. 1268 oraz z 2001 r. Nr 110, poz. 1189 i Nr 115, poz. 1229 ) wprowadza się następujące zmiany: 1) art. 21 otrzymuje brzmienie: „ Art. 21. 1. Podstawę planowania gospodarczego, planowania przestrzennego, wymiaru podatków i świadczeń, oznaczania nieruchomości w księgach wieczystych, statystyki publicznej, gospodarki nieruchomościami oraz ewidencji gospodarstw rolnych stanowią dane zawarte w ewidencji gruntów i budynków. 2. Organy i jednostki organizacyjne realizujące zadania, o których mowa w ust. 1, współdziałają z organami Służby Geodezyjnej i Kartograficznej w zakresie utworzenia i sfinansowania systemu dostępu i wymiany danych między ewidencją gruntów i budynków a ewidencjami i rejestrami publicznymi prowadzonymi przez te organy i jednostki organizacyjne. ” ; 2) w art. 24 w ust. 4 po wyrazach „nieodpłatnie gminom” dodaje się wyrazy „oraz Agencji Restrukturyzacji i Modernizacji Rolnictwa w celu założenia i prowadzenia krajowego systemu ewidencji gospodarstw rolnych i zwierząt gospodarskich” ."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2000 r. Nr 14, poz. 176 , Nr 22, poz. 270 , Nr 60, poz. 703 , Nr 70, poz. 816 , Nr 104, poz. 1104 , Nr 117, poz. 1228 i Nr 122, poz. 1324 oraz z 2001 r. Nr 4, poz. 27 , Nr 8, poz. 64 , Nr 52, poz. 539 , Nr 73, poz. 764 , Nr 74, poz. 784 , Nr 88, poz. 961 , Nr 89, poz. 968 , Nr 102, poz. 1117 , Nr 106, poz. 1150 i Nr 110, poz. 1190 ) wprowadza się następujące zmiany: 1) w art. 21 w ust. 1 po pkt 47 dodaje się pkt 47a w brzmieniu: „ 47a) dotacje z budżetu państwa otrzymane na dofinansowanie przedsięwzięć realizowanych w ramach Specjalnego Przedakcesyjnego Programu na Rzecz Rolnictwa i Rozwoju Obszarów Wiejskich (SAPARD), ” ; 2) w art. 23 w ust. 1 w pkt 56 po wyrazach „pkt 46” dodaje się przecinek i wyrazy „47a” ."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych ( Dz. U. z 2000 r. Nr 54, poz. 654 , Nr 60, poz. 700 i 703 , Nr 86, poz. 958 , Nr 103, poz. 1100 , Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324 oraz z 2001 r. Nr 106, poz. 1150 i Nr 110, poz. 1190 ) w art. 17 w ust. 1 wprowadza się następujące zmiany: 1) po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) dotacje z budżetu państwa otrzymane na dofinansowanie przedsięwzięć realizowanych w ramach Specjalnego Przedakcesyjnego Programu na Rzecz Rolnictwa i Rozwoju Obszarów Wiejskich (SAPARD), ” ; 2) w pkt 21 wyrazy „pkt 14” zastępuje się wyrazami „pkt 14 i 14a” ."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa ( Dz. U. z 1994 r. Nr 1, poz. 2 , Nr 80, poz. 369 i Nr 98, poz. 473 , z 1997 r. Nr 41, poz. 255 , Nr 79, poz. 484 i Nr 141, poz. 943 , z 1998 r. Nr 106, poz. 668 , z 2000 r. Nr 48, poz. 547 i 550 i Nr 88, poz. 983 oraz z 2001 r. Nr 3, poz. 19 , Nr 29, poz. 320 i Nr 38, poz. 452 ) po art. 5 dodaje się art. 5a w brzmieniu: „ Art. 5a. 1. W ramach Agencji wyodrębnia się Centralę Agencji i oddziały regionalne. 2. Oddziałem regionalnym kieruje dyrektor, powoływany i odwoływany przez Prezesa Agencji. 3. Prezes Agencji i dyrektorzy oddziałów regionalnych wydają decyzje administracyjne w zakresie określonym w odrębnych przepisach. 4. W postępowaniu administracyjnym organem wyższego stopnia w rozumieniu Kodeksu postępowania administracyjnego w stosunku do dyrektorów oddziałów regionalnych jest Prezes Agencji. ”"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne ( Dz. U. Nr 144, poz. 930 , z 2000 r. Nr 104, poz. 1104 i Nr 122, poz. 1324 oraz z 2001 r. Nr 74, poz. 784 i Nr 88, poz. 961 ) w art. 10 po wyrazach „pkt 43, 46,” dodaje się wyrazy „47a i” ."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "W ustawie z dnia 30 czerwca 2000 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców ( Dz. U. Nr 60, poz. 704 ) w art. 3 pkt 3 otrzymuje brzmienie: „ 3) w rolnictwie, przetwórstwie rolno-spożywczym, łowiectwie, leśnictwie, rybołówstwie i rybactwie, na skup i przechowywanie produktów rolnych oraz zapasów przetworów z tych produktów, a także na skup i przechowywanie zapasów ryb morskich, z wyjątkiem przepisów art. 1, 4, 35, 36, art. 37 ust. 1 i 4 oraz art. 38. ”"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_4-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_6-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_8-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_8-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_8-pass_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_8-pass_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_8-pass_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_8-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_9-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_9-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_9-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_9-pass_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_9-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_10-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_10-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_10-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_10-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_10-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_10-pass_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_10-pass_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_10-pass_2-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_10-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_15-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_17-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "gospodarstwo rolne",
+      "definition": "wszystkie nieruchomości rolne będące w posiadaniu tego samego podmiotu, 2) działka rolna - zwarty obszar gruntu rolnego, wchodzący w skład gospodarstwa rolnego, na którym prowadzona jest jedna uprawa, 3) płatności bezpośrednie - pomoc finansową udzielaną na podstawie odrębnych przepisów, 4) zwierzęta gospodarskie - bydło, owce i kozy, 5) powierzchnia paszowa - grunt rolny, na którym prowadzone są uprawy roślin przeznaczonych na paszę dla zwierząt albo który jest wykorzystany do wypasu zwierząt, 6) grunt odłogowany - grunt rolny o powierzchni co najmniej 0,3 ha i szerokości 20 m, który był uprawiany z przeznaczeniem pod zbiory, a obecnie został wycofany z produkcji uprawnej lub jest na nim prowadzona produkcja na cele nieżywnościowe.",
+      "source_provision": "art3"
+    }
+  ]
+}

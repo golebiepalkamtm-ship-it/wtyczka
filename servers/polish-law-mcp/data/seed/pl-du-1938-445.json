@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-445",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 lipca 1938 r. o zmianie ustawy o finansowaniu niektórych inwestycyj z funduszów państwowych w okresie do 31 marca 1939 r.",
+  "title_en": "",
+  "short_name": "pl-du-1938-445",
+  "status": "in_force",
+  "issued_date": "1938-07-30",
+  "in_force_date": "1938-08-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/445",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 1 ustawy z dnia 25 marca 1938 r. o finansowaniu niektórych inwestycyj z funduszów państwowych w okresie do 31 marca 1939 r. ( Dz. U. R. P. Nr 21, poz. 165 ) wprowadza się zmiany następujące: 1) w pkt A kwotę 65.080.000 zł zastępuje się kwotą 67.080.000 zł; 2) w lit. e) tegoż punktu kwotę 3.000.000 zł zastępuje się kwotą 3.700.000 zł; 3) w lit, f) tegoż punktu kwotę 5.000.000 zł zastępuje się kwotą 6.300.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Skarbu oraz Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

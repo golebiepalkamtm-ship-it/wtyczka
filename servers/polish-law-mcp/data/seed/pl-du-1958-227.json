@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1958-227",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 lipca 1958 r. o częściowej zmianie przepisów o ochronie wynalazków, wzorów i znaków towarowych.",
+  "title_en": "",
+  "short_name": "pl-du-1958-227",
+  "status": "repealed",
+  "issued_date": "1958-07-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1958/227",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o ochronie wynalazków, wzorów i znaków towarowych ( Dz. U. Nr 39, poz. 384 z późniejszymi zmianami) wprowadza się następujące zmiany: 1) art. 12 lit. d) otrzymuje brzmienie: „ d) nie uiszczono opłaty za druk opisu i rysunków wynalazku. ” ; 2) w art. 36 ust. 3 skreśla się wyrazy „(art. 74)” ; 3) w art. 41 skreśla się w ust. 1 wyrazy „jeżeli opłata ta należy się w myśl art. 74 ust. (2)” oraz ust. 3; 4) skreśla się art. 74, 75, 76 i 77; 5) art. 78 otrzymuje brzmienie: „ Art. 78. (1) Rada Ministrów w drodze rozporządzenia określa przedmioty opłat związanych z ochroną wynalazków oraz ustala wysokość tych opłat i terminy ich uiszczania, jak również może wprowadzać częściowe lub całkowite zwolnienia od tych opłat oraz może określać zasady odraczania terminów ich uiszczania. (2) Minister Finansów ustala w drodze rozporządzenia sposób uiszczania opłat wymienionych w ust. 1. ” ; 6) w art. 121 ust. 5 skreśla się wyrazy „(art. 160)” ; 7) w art. 125 dodaje się na końcu wyrazy „jak również ustalać klasyfikację towarów w zastosowaniu do wzorów zdobniczych” ; 8) skreśla się art. 160, 161, 162 i 163; 9) art. 164 otrzymuje brzmienie: „ Art. 164. (1) Rada Ministrów w drodze rozporządzenia określa przedmioty opłat związanych z ochroną wzorów użytkowych i wzorów zdobniczych oraz ustala wysokość tych opłat i terminy ich uiszczania, jak również może wprowadzać częściowe lub całkowite zwolnienia od tych opłat oraz może określać zasady odraczania terminów ich uiszczania. (2) Minister Finansów ustala w drodze rozporządzenia sposób uiszczania opłat wymienionych w ust. 1. ” ; 10) w art. 199 ust. i skreśla się wyrazy „(art. 213 ust. 2)” ; 11) skreśla się art. 213, 214, 215 i 216; 12) art. 217 otrzymuje brzmienie: „ Art. 217. (1) Rada Ministrów w drodze rozporządzenia określa przedmioty opłat związanych z ochroną znaków towarowych oraz wysokość tych opłat i terminy ich uiszczania. (2) Minister Finansów ustala w drodze rozporządzenia sposób uiszczania opłat wymienionych w ust. 1. ” ; 13) w art. 237 ust. 3 skreśla się wyrazy „w kwocie 2,40 zł od wyciągu” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W dekrecie z dnia 12 października 1950 r. o wynalazczości pracowniczej ( Dz. U. z 1956 r. Nr 3, poz. 21 ) skreśla się w art. 8 ust. 3 wyrazy „udzielania patentów na pracownicze wynalazki” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie dwóch miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

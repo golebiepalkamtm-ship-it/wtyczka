@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-49",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 stycznia 1937 r. o zmianie niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-49",
+  "status": "in_force",
+  "issued_date": "1937-01-23",
+  "in_force_date": "1937-01-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/49",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na zamianę następujących nieruchomości państwowych: 1) gruntu w Łodzi o powierzchni 23 ha 170 m 2 , wydzielonego z folwarku Marysin I i oznaczonego wykazem hipotecznym osady w folwarku Marysin Nr 4 powiatu łódzkiego (Nr Rep. Hip. 8523), a położonego pomiędzy ulicą Marysińską, szosą Julianowską, folwarkiem Marysin II i gruntami prywatnymi; 2) gruntu w miejscowości i gminie Chojny w powiecie łódzkim o powierzchni 11 ha 4496 m 2 , stanowiącego część gruntów, wydzielonych z Dóbr Chojny lit. D. powiatu łódzkiego (Nr Rep. Hip. 135) i uregulowanych w oddzielnej księdze wieczystej dóbr ziemskich „Grunta od Dóbr Chojny część AB. Nr 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 69, 70 i 71”, a położonego pomiędzy gruntami państwowymi użytkowanymi przez przedsiębiorstwo Polskie Koleje Państwowe, innymi gruntami państwowymi oraz rozparcelowanymi gruntami części Dóbr Chojny, na grunt wraz ze znajdującymi się na nim budynkami, stanowiący własność gminy m. Łodzi przy ul. Żeromskiego Nr pol. 113 i oznaczony Nr hip. 2271 (Nr Rep. Hip. 5767) - o powierzchni 3 ha 4155,54 m 2 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życic z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

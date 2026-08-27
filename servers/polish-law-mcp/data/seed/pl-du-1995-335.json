@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1995-335",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 marca 1995 r. o zmianie ustawy o radiofonii i telewizji.",
+  "title_en": "",
+  "short_name": "pl-du-1995-335",
+  "status": "amended",
+  "issued_date": "1995-03-30",
+  "in_force_date": "1995-06-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1995/335",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji ( Dz. U. z 1993 r. Nr 7, poz. 34 ) wprowadza się następujące zmiany: 1) w art. 25 ust. 4 otrzymuje brzmienie: „ 4. Koszty tworzenia programów oraz audycji, o których mowa w ust. 1 i 2, są pokrywane z budżetu państwa, w granicach określonych ustawą budżetową. ” ; 2) w art. 26: a) ust. 2 otrzymuje brzmienie: „ 2. Telewizję publiczną tworzy spółka «Telewizja Polska - Spółka Akcyjna», zawiązana w celu tworzenia i rozpowszechniania ogólnokrajowych programów I, II i TV Polonia oraz regionalnych programów telewizyjnych. ” , b) w ust. 3 w pkt 1 po wyrazach „programów radiowych” skreśla się przecinek i dodaje wyrazy „i programów dla obrońców za granicą,” c) dodaje się ust. 7 w brzmieniu: „ 7. Program TV Polonia jest rozpowszechniany w sposób rozsiewczy satelitarny. ” ; 3) po art. 30 dodaje się art. 30a w brzmieniu: „ Art. 30a. 1. Przepisy dotyczące programów dla odbiorców za granicą stosuje się odpowiednio do programu TV Polonia. 2. Organem opiniodawczo-doradczym w sprawach tworzenia i rozpowszechniania programu TV Polonia jest rada programowa TV Polonia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

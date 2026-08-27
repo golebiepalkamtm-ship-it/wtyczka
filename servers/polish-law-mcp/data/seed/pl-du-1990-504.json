@@ -1,0 +1,584 @@
+{
+  "id": "pl-du-1990-504",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 listopada 1990 r. o łączności.",
+  "title_en": "",
+  "short_name": "pl-du-1990-504",
+  "status": "repealed",
+  "issued_date": "1990-11-23",
+  "in_force_date": "1990-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/504",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa reguluje zasady działalności w dziedzinie łączności - poczty i telekomunikacji. 2. Ilekroć umowy międzynarodowe, ratyfikowane przez Rzeczpospolitą Polską, odmiennie regulują zasady działalności, o której mowa w ustawie, stosuje się te umowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Ilekroć w ustawie jest mowa o: 1) pocztowych usługach o charakterze powszechnym - rozumie się przez to wykonywane przez pocztę w celach zarobkowych usługi polegające na przewozie i doręczaniu zwykłych i poleconych przesyłek listowych, listów wartościowych i paczek pocztowych oraz nadawaniu i doręczaniu przekazów pocztowych, 2) telekomunikacyjnych usługach o charakterze powszechnym - rozumie się przez to usługi polegające na zarobkowym zapewnianiu połączeń telefonicznych lub telegraficznych, z zastrzeżeniem ust. 2, 3) liniach i urządzeniach telekomunikacyjnych - rozumie się przez to linie i urządzenia służące do przesyłania, nadawania lub odbioru za pomocą energii elektromagnetycznej znaków pisma, obrazów, dźwięku i wszelkiego rodzaju wiadomości drogą przewodową, radiową lub optyczną, 4) sieci telekomunikacyjnej - rozumie się przez to zespół współpracujących ze sobą linii i urządzeń telekomunikacyjnych, 5) sieci telekomunikacyjnej użytku publicznego - rozumie się przez to sieć telekomunikacyjną służącą do wykonywania usług telekomunikacyjnych o charakterze powszechnym, 6) wewnętrznej sieci telekomunikacyjnej - rozumie się przez to sieć założoną i używaną wyłącznie do zaspokajania własnych potrzeb operatora sieci, 7) standardzie telekomunikacyjnym - rozumie się przez to zespół danych normatywnych dotyczących parametrów przekazu telekomunikacyjnego, 8) systemie telekomunikacyjnym - rozumie się przez to zespół urządzeń telekomunikacyjnych i zasad ich współdziałania, 9) operatorze sieci telekomunikacyjnej - rozumie się przez to podmiot uprawniony na podstawie ustawy lub zezwolenia do zakładania i używania sieci, linii, urządzeń telekomunikacyjnych, a także do świadczenia usług telekomunikacyjnych, 10) gospodarowaniu widmem częstotliwości - rozumie się przez to prowadzenie kompleksowych działań technicznych, administracyjno-ekonomicznych oraz inspekcyjno-kontrolnych, w tym wydawanie wymaganych zezwoleń, których celem jest racjonalizacja wykorzystania tego widma dla potrzeb rozwoju społeczno-gospodarczego i kulturalnego kraju oraz zapewnienia obronności i bezpieczeństwa państwa. 2. Minister Łączności może, w drodze rozporządzenia, wprowadzić inne usługi telekomunikacyjne jako usługi o charakterze powszechnym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Działalność w dziedzinie poczty wykonuje państwowe przedsiębiorstwo użyteczności publicznej „Poczta Polska”. 2. Nie stanowią działalności w dziedzinie poczty wykonywane przez inne podmioty gospodarcze usługi, o których mowa w art. 11 ust. 1 pkt 12 ustawy z dnia 23 grudnia 1988 r. o działalności gospodarczej ( Dz. U. Nr 41, poz. 324 oraz z 1990 r. Nr 26, poz. 149 i Nr 34, poz. 198 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Działalność w dziedzinie telekomunikacji wykonują: 1) Telekomunikacja Polska - Spółka Akcyjna, 2) jednostki organizacyjne podległe Ministrom Obrony Narodowej i Spraw Wewnętrznych w zakresie własnych potrzeb zaspokajanych za pomocą własnych przewodowych i radiowych sieci telekomunikacyjnych, 3) podmioty, które otrzymały zezwolenie telekomunikacyjne, zwane dalej „zezwoleniem”."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Sprawy emitowania przez Kościół Katolicki, inne kościoły i związki wyznaniowe własnych programów oraz zakładania i używania przez Kościół Katolicki własnych urządzeń radiokomunikacyjnych przeznaczonych do nadawania programów radiofonicznych i telewizyjnych regulują odrębne ustawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wewnętrzne sieci telekomunikacyjne lub ich części składowe mogą być używane jako sieci telekomunikacyjne użytku publicznego po otrzymaniu zezwolenia Ministra Łączności, udzielanego na zasadach określonych w art. 14-19. Rozdział 2 Zasady prowadzenia działalności w dziedzinie telekomunikacji oraz koordynacja i kontrola tej działalności"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Zakładane i używane na terytorium Rzeczypospolitej Polskiej urządzenia i systemy telekomunikacyjne, w tym kable i przewody telekomunikacyjne, powinny posiadać wydane przez Ministra Łączności świadectwo dopuszczenia do eksploatacji, zwane dalej „świadectwem homologacji”. 2. Świadectwo homologacji może być wydane jako świadectwo ogólne lub indywidualne. Świadectwo ogólne wydawane jest dla systemu lub typu urządzenia telekomunikacyjnego dostarczanego przez określonego producenta. Świadectwo indywidualne wydaje się producentowi lub użytkownikowi dla określonego urządzenia lub systemu. 3. Ogólne świadectwo homologacji wydawane jest w drodze zarządzenia Ministra Łączności. 4. Indywidualne świadectwo homologacji jest wydawane w drodze decyzji administracyjnej, na wniosek osoby zainteresowanej, po przedłożeniu przez nią opinii krajowego lub zagranicznego podmiotu wyznaczonego przez Ministra Łączności do dokonywania badań homologacyjnych. 5. Okres ważności świadectwa homologacji ustala się dla każdego typu urządzenia lub systemu zależnie od stopnia nowoczesności. Urządzenie lub system, które otrzymały świadectwo homologacji, mogą być zakładane i używane na terytorium Rzeczypospolitej Polskiej tylko w okresie ważności świadectwa homologacji. 6. Minister Łączności może cofnąć świadectwo homologacji w razie zmiany parametrów technicznych urządzenia lub systemu telekomunikacyjnego. 7. Urządzenia i systemy, które posiadają świadectwo homologacji, powinny być odpowiednio oznakowane. Sposób oznakowania określi Minister Łączności. 8. Przepisów ust. 1-7 nie stosuje się do urządzeń telekomunikacyjnych przeznaczonych do zaspokajania potrzeb resortów obrony narodowej i spraw wewnętrznych, jeżeli nie współpracują one z siecią telekomunikacyjną użytku publicznego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Łączności może zezwolić na czasowe używanie urządzeń, o których mowa w art. 7 ust. 1, dla celów próbnych lub doświadczalnych - bez świadectwa homologacji, określając jednocześnie warunki tego używania."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Łączności, w drodze rozporządzenia, może określić: 1) systemy i standardy telekomunikacyjne, które mogą być zakładane i używane na terytorium Rzeczypospolitej Polskiej, 2) wymagania techniczne i eksploatacyjne dla urządzeń, linii i sieci telekomunikacyjnych zakładanych i używanych na terytorium Rzeczypospolitej Polskiej, 3) warunki wzajemnej współpracy urządzeń, linii i sieci telekomunikacyjnych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Operator sieci telekomunikacyjnej jest obowiązany uzgadniać z Ministrem Łączności plany przebudowy lub rozbudowy sieci telekomunikacyjnych. 2. Minister Łączności określa, w drodze rozporządzenia, zakres i tryb uzgodnień, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Minister Łączności w porozumieniu z zainteresowanymi ministrami określa zasady i warunki budowy linii telekomunikacyjnych wzdłuż dróg publicznych, w miejscowościach, wzdłuż kanałów i dróg wodnych oraz w pobliżu lotnisk, a także ustala warunki, jakim te linie powinny odpowiadać w razie skrzyżowania się lub zbliżania do torów kolejowych, dróg publicznych, dróg wodnych i kanałów, linii i urządzeń energetycznych oraz urządzeń służących do przesyłania płynów i gazów. 2. Minister Łączności w porozumieniu z zainteresowanymi ministrami określa warunki, jakim pod względem zapobiegania zakłóceniom w pracy linii i urządzeń telekomunikacyjnych powinny odpowiadać linie energetyczne i linie trakcji elektrycznej oraz urządzenia do przesyłania płynów i gazów w razie skrzyżowania lub zbliżenia do linii i urządzeń telekomunikacyjnych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Zezwolenie, o którym mowa w art. 4 pkt 3, udzielane jest na zasadach określonych w art. 14-19 na zakładanie i używanie urządzeń, linii lub sieci telekomunikacyjnych, w tym wewnętrznych sieci telekomunikacyjnych, a także na świadczenie usług za pomocą tych urządzeń, linii lub sieci."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Minister Łączności określa, w drodze rozporządzenia, wykaz urządzeń, linii i sieci telekomunikacyjnych, których zakładanie i używanie nie wymaga zezwolenia."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Udzielanie, odmowa udzielenia i cofnięcie zezwolenia należy do Ministra Łączności."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zezwolenia mogą być udzielane podmiotom, które na podstawie odrębnych przepisów mogą działać na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 16."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Nie można udzielić zezwolenia: 1) na świadczenie usług telekomunikacyjnych międzynarodowych o charakterze powszechnym, 2) na używanie urządzeń radiokomunikacyjnych przeznaczonych do nadawania programów radiofonicznych i telewizyjnych - podmiotom zagranicznym lub spółce z udziałem podmiotów zagranicznych, jeżeli udział podmiotów zagranicznych w kapitale zakładowym lub akcyjnym przekracza 33%, 3) na używanie urządzeń, linii i sieci telekomunikacyjnych bezpośrednio połączonych drogą kablową, radiową lub w układzie międzynarodowych systemów satelitarnych z liniami, urządzeniami lub sieciami znajdującymi się poza granicami Rzeczypospolitej Polskiej - podmiotowi zagranicznemu lub spółce z udziałem podmiotów zagranicznych, 4) na używanie międzymiastowych linii i sieci telekomunikacyjnych oraz na świadczenie międzymiastowych usług telekomunikacyjnych - podmiotowi zagranicznemu lub spółce z udziałem podmiotów zagranicznych, jeżeli udział podmiotów zagranicznych w kapitale zakładowym lub akcyjnym przekracza 49%."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "W zezwoleniu określa się: 1) osobę upoważnioną i jej siedzibę lub miejsce zamieszkania, 2) przedmiot, zakres oraz obszar wykonywanej działalności, 3) warunki wykonywania działalności, dotyczące w szczególności formy świadczenia usług, wymagań technicznych dotyczących linii i urządzeń telekomunikacyjnych, rodzaju i rozmiaru sieci telekomunikacyjnej, sposobu technicznego jej rozwiązania, założeń i warunków współpracy z sieciami telekomunikacyjnymi użytku publicznego, a także podstawowe parametry techniczne, miejsce instalacji urządzeń oraz przyznane numeracje i częstotliwości, 4) datę rozpoczęcia działalności oraz czas trwania zezwolenia."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Minister Łączności odmawia wydania zezwolenia, jeżeli: 1) udzielenie zezwolenia zagrażałoby obronności lub bezpieczeństwu Państwa, 2) udzielenie zezwolenia byłoby sprzeczne z umowami międzynarodowymi, których Rzeczpospolita Polska jest stroną, 3) używanie urządzenia zakłócałoby pracę już działających urządzeń lub nie ma technicznych możliwości podłączenia do sieci telekomunikacyjnych użytku publicznego, sieci, linii lub urządzeń telekomunikacyjnych, które zamierza wykorzystywać wnioskodawca, 4) nie można przydzielić wnioskodawcom numeracji lub częstotliwości niezbędnych do wykonywania działalności w zakresie, o który ubiega się wnioskodawca, 5) wnioskodawcy w okresie 5 lat przed złożeniem wniosku cofnięto zezwolenie na podstawie art. 19 ustawy."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Minister Łączności cofa zezwolenie, jeżeli: 1) działalność objęta zezwoleniem jest wykonywana w sposób sprzeczny z ustawą lub warunkami określonymi w zezwoleniu, 2) podmiot posiadający zezwolenie nie wykonuje decyzji wydanych w trybie art. 29 ust. 5 ustawy lub w sposób uporczywy uchyla się od uiszczania opłat przewidzianych w ustawie, 3) podmiot posiadający zezwolenie nie rozpoczął działalności w oznaczonym w zezwoleniu terminie."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Podmioty, które uzyskały zezwolenie, uiszczają za używanie linii, urządzeń lub sieci telekomunikacyjnej roczne opłaty, a w razie opóźnienia w ich uiszczaniu - płacą odsetki ustawowe. 2. Minister Łączności w porozumieniu z Ministrem Finansów określa, w drodze rozporządzenia, wysokość i sposób uiszczania opłat, o których mowa w ust. 1. 3. Opłaty, o których mowa w ust. 1, są pobierane przez Państwową Inspekcję Telekomunikacyjną, zwaną dalej „PIT”, oraz Państwową Agencję Radiokomunikacyjną, zwaną dalej „PAR”, odpowiednio do zakresu ich działania. Opłaty te stanowią dochód Skarbu Państwa. 4. Do opłat pobieranych przez PIT i PAR stosuje się przepisy o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Minister Łączności ustala dla polskiej sieci telekomunikacyjnej użytku publicznego: 1) plan numeracji krajowej, 2) plan zagospodarowania numeracji. 2. Na podstawie planu, o którym mowa w ust. 1 pkt 2, Minister Łączności przydziela numerację podmiotom, które złożyły wniosek o wydanie zezwolenia na używanie sieci telekomunikacyjnych. 3. Do przydziału numeracji stosuje się odpowiednio przepisy art. 14-19, z zastrzeżeniem ust. 4 i 5. 4. Minister Łączności może ogłosić przetarg na przydział numeracji na określonym terenie kraju. 5. Warunki i tryb przetargu, o którym mowa w ust. 4, ustala Minister Łączności."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Minister Łączności, w porozumieniu z zainteresowanymi ministrami i po zasięgnięciu opinii właściwych komisji sejmowych, określa politykę gospodarowania częstotliwościami w kraju."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Minister Łączności przydziela podmiotom, które złożyły wniosek o wydanie zezwolenia na używanie urządzeń radiokomunikacyjnych, częstotliwości i sygnały identyfikacyjne dla tych urządzeń, z zastrzeżeniem art. 24 i 25. 2. Do przydziału częstotliwości stosuje się odpowiednio art. 14-19, z zastrzeżeniem ust. 3-5. 3. W wypadku braku możliwości przydzielenia częstotliwości wszystkim ubiegającym się podmiotom, Minister Łączności określa warunki, na jakich powinny być wykorzystywane określone częstotliwości, a następnie może ogłosić konkurs na ich przydział. 4. Minister Łączności określi, w drodze rozporządzenia, warunki i tryb przeprowadzania konkursu, o którym mowa w ust. 3. 5. Minister Łączności, niezależnie od przyczyn określonych w art. 18, może odmówić przydzielenia częstotliwości w wypadku: 1) braku wolnych częstotliwości na obszarze, na którym zamierza działać wnioskodawca, 2) braku możliwości zapewnienia ochrony wolnych częstotliwości przed zakłóceniami."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Ustalanie warunków, o których mowa w art. 23 ust. 3, w zakresie przydziału częstotliwości dla podmiotów, które złożyły wniosek o wydanie zezwolenia na używanie urządzeń radiokomunikacyjnych przeznaczonych do nadawania programów radiofonicznych lub telewizyjnych przeznaczonych do powszechnego odbioru, następuje w porozumieniu z Ministrem Kultury i Sztuki. 2. Przydział częstotliwości dla podmiotów, o których mowa w ust. 1, a także ogłaszanie konkursu na ten przydział następuje w porozumieniu z Ministrem Kultury i Sztuki."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Minister Łączności w porozumieniu z Ministrami Obrony Narodowej i Spraw Wewnętrznych przydziela częstotliwości lub przedziały częstotliwości Siłom Zbrojnym oraz jednostkom organizacyjnym podległym Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Podmioty, które uzyskały przydział częstotliwości, uiszczają roczne opłaty za ich używanie, a w razie opóźnienia w uiszczeniu tych opłat - płacą odsetki ustawowe. 2. Minister Łączności w porozumieniu z Ministrem Finansów określi, w drodze rozporządzenia, wysokość i sposób uiszczania opłat, o których mowa w ust. 1. 3. Opłaty, o których mowa w ust. 1, są pobierane i stanowią dochód PAR. 4. Do opłat pobieranych przez PAR stosuje się przepisy o postępowaniu egzekucyjnym w administracji, w zakresie egzekucji obowiązków o charakterze pieniężnym."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Minister Łączności w porozumieniu z zainteresowanymi ministrami określa, w drodze rozporządzenia, warunki i tryb wydawania świadectwa radiooperatora w służbie lotniczej, w służbie morskiej i żeglugi śródlądowej, a także w radiowej służbie amatorskiej oraz wysokość opłat za te świadectwa."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Sieci, linie i urządzenia telekomunikacyjne zakładane i używane na terytorium Rzeczypospolitej Polskiej są ewidencjonowane. 2. Operatorzy sieci, linii i urządzeń telekomunikacyjnych, o których mowa w ust. 1, dostarczają zbiorczych danych potrzebnych do ewidencji. 3. Minister Łączności określa zakres i sposób prowadzenia ewidencji oraz organy właściwe w tych sprawach. 4. Przepisów ust. 1 i 2 nie stosuje się do jednostek organizacyjnych podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych, które zadania określone w tych przepisach wykonują we własnym zakresie."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Organy Ministra Łączności wykonują kontrolę linii, urządzeń i sieci telekomunikacyjnych, a także kontrolują przestrzeganie wykorzystania przydzielonych częstotliwości, znaków wywoławczych oraz sygnałów identyfikacyjnych. 2. Kontroli podlega w szczególności eksploatacja linii, urządzeń i sieci telekomunikacyjnych, zgodność ich pracy z obowiązującymi przepisami oraz zgodność wykonywanej działalności z warunkami określonymi w zezwoleniu. 3. Pracownikom organów kontroli przysługuje, po okazaniu legitymacji służbowej i pisemnego upoważnienia, prawo: 1) wstępu do pomieszczeń kontrolowanej jednostki oraz obiektów i nieruchomości, na których znajdują się bądź są zakładane sieci, linie i urządzenia telekomunikacyjne, 2) przeprowadzania oględzin sieci, linii i urządzeń oraz dokonywania badań i pomiarów. 4. Kierownicy kontrolowanych jednostek są obowiązani zapewnić warunki sprawnego przeprowadzenia kontroli oraz udostępnić pracownikom organu kontroli materiały i dokumenty niezbędne do kontroli, a także udzielić niezbędnych informacji. 5. W razie stwierdzenia, że stan rzeczowy lub techniczny albo praca linii i urządzeń telekomunikacyjnych są niezgodne z obowiązującymi przepisami lub warunkami zezwolenia, powodują zakłócenia w działaniu innych linii i urządzeń telekomunikacyjnych - organ przeprowadzający kontrolę wydaje decyzje administracyjną, w której określa zakres naruszeń i termin usunięcia nieprawidłowości. 6. Organ przeprowadzający kontrolę jest organem egzekucyjnym w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji, w zakresie egzekucji obowiązków o charakterze niepieniężnym. 7. Organ przeprowadzający kontrolę jest obowiązany sporządzić protokół z przeprowadzonej kontroli, podpisany przez pracownika przeprowadzającego kontrolę oraz kierownika kontrolowanej jednostki. 8. Przepisów ust. 1-7 nie stosuje się do jednostek organizacyjnych podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych, które zadania określone w tych przepisach wykonują we własnym zakresie."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Organami Ministra Łączności powołanymi do kontroli, o której mowa w art. 29, są Państwowa Inspekcja Telekomunikacyjna, powołana do kontroli przewodowych sieci, linii i urządzeń telekomunikacyjnych, oraz Państwowa Agencja Radiokomunikacyjna, powołana w szczególności do kontroli sieci, linii i urządzeń radiokomunikacyjnych oraz kontroli wykorzystania częstotliwości. 2. Minister Łączności może zlecić PIJ i PAR wykonanie innych czynności i zadań z zakresu administracji państwowej. 3. Minister Łączności sprawuje nadzór nad PIT i PAR."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Niezależnie od zadań przewidzianych w art. 29, PAR jest powołany także do: 1) tworzenia warunków rozwoju krajowych służb radiokomunikacyjnych poprzez zapewnienie Rzeczypospolitej Polskiej niezbędnych przydziałów częstotliwości oraz zapewnienie dostępu do określonych pozycji na orbitach geostacjonarnych, satelitów geostacjonarnych, a także dokonywanie wymaganej koordynacji międzynarodowej w tym zakresie, 2) rejestracji i analizy zgłaszanych potrzeb użytkowników krajowych w zakresie widma częstotliwości radiowych oraz planowania i koordynacji wykorzystania tego widma, 3) prowadzenia niezbędnej działalności technicznej w dziedzinie kontroli i zwalczania szkodliwych zakłóceń radioelektrycznych powodujących pogorszenie efektywności wykorzystania widma częstotliwości. 2. Minister Łączności może upoważnić PAR do wydawania zezwoleń, w części dotyczącej urządzeń radiokomunikacyjnych, dokonywania przydziału częstotliwości, a także do wydawania świadectw radiooperatora. 3. Minister Łączności może zlecić PAR wykonywanie innych czynności i zadań z zakresu łączności radiowej."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. W razie stwierdzenia, że maszyny i urządzenia techniczne wytwarzające pole elektromagnetyczne wielkiej częstotliwości powodują zakłócenia pracy urządzeń telekomunikacyjnych, PAR wydaje decyzję administracyjną nakazującą usunięcie nieprawidłowości w określonym terminie. 2. W decyzjach, o których mowa w ust. 1, PAR może w szczególności nakazać wstrzymanie używania urządzeń i maszyn, nakazać zmiany w sposobie ich używania oraz zobowiązać do usunięcia stwierdzonych zakłóceń, uszkodzeń lub usterek. 3. Właściwy organ PAR wydający decyzję, o której mowa w ust. 1, jest organem egzekucyjnym w rozumieniu przepisów o postępowaniu egzekucyjnym w administracji, w zakresie egzekucji obowiązków o charakterze niepieniężnym. 4. Przepisów ust. 1-3 nie stosuje się do jednostek organizacyjnych podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych, które zadania określone w tych przepisach wykonują we własnym zakresie."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Minister Łączności określa, w drodze rozporządzenia, strukturę organizacyjną i szczegółowy zakres działania PIT."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Do pracowników PIT i PAR stosuje się przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ( Dz. U. Nr 31, poz. 214 , z 1984 r. Nr 35, poz. 187 , z 1988 r. Nr 19, poz. 132 , z 1989 r. Nr 4, poz. 24 , Nr 34, poz. 178 i 182 oraz z 1990 r. Nr 20, poz. 121 ) ."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. PAR jest zakładem budżetowym, który tworzą: 1) Zarząd Krajowy z siedzibą w Warszawie, na którego czele stoi Prezes, 2) zarządy okręgowe, na których czele stoją dyrektorzy okręgowi. 2. Prezesa Zarządu Krajowego powołuje i odwołuje Minister Łączności. 3. Minister Łączności, w drodze rozporządzenia, ustala statut PAR, w którym określa szczegółowy zakres działania i strukturę organizacyjną PAR, powołuje zarządy okręgowe oraz wyznacza ich siedziby i obszar działania."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Podmiot świadczący usługi telekomunikacyjne o charakterze powszechnym określa zakres i warunki wykonywania tych usług w regulaminie podanym do publicznej wiadomości. 2. Podmiot świadczący usługi telekomunikacyjne o charakterze powszechnym nie może nikomu odmówić wykonania tych usług, chyba że żądający wykonania usługi nie spełnił warunków określonych w regulaminie, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Właściciel nieruchomości lub inna osoba mająca tytuł prawny do korzystania z nieruchomości ma obowiązek umożliwić podmiotom świadczącym usługi telekomunikacyjne o charakterze powszechnym umieszczenie na nieruchomościach osprzętu liniowego instalacji telekomunikacyjnych i tabliczek informacyjnych o urządzeniach - na warunkach określonych w umowie."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Operator sieci telekomunikacyjnej użytku publicznego nie może odmówić przyłączenia do swojej sieci innej sieci telekomunikacyjnej. 2. Warunki oraz opłaty za przyłączenia, o których mowa w ust. 1, ustalane są w umowie zawieranej między posiadaczami sieci."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Opłaty za usługi telekomunikacyjne, z zastrzeżeniem ust. 3 i 4, ustala operator sieci. 2. Warunki rozliczeń z tytułu opłat za usługi, których wykonanie wymaga współpracy linii i urządzeń telekomunikacyjnych wchodzących w skład różnych sieci telekomunikacyjnych, są określane w umowach zawieranych między operatorami tych sieci, 3. Minister Łączności może wprowadzać opłaty maksymalne za usługi telekomunikacyjne o charakterze powszechnym. 4. Wysokość opłat za wykonywanie usług telekomunikacyjnych międzynarodowych ustalana jest w uzgodnieniu z Ministrem Łączności. 5. Od opłat zwolnione są rozmowy telefoniczne, radiotelefoniczne i telegramy, których treścią są wezwania o pomoc w razie klęski żywiołowej lub innego stanu wyższej konieczności, w szczególności w wypadku katastrofy, przymusowego lądowania statku powietrznego, pożaru, powodzi, nadzwyczajnego zagrożenia środowiska lub innej klęski spowodowanej żywiołowym zdarzeniem, oraz zawiadomienia o epidemii, masowych zatruciach pokarmowych, zaraźliwej chorobie zwierzęcej i pojawieniu się szkodników roślin, podlegających prawnemu obowiązkowi zgłaszania; zwolnienie od opłat nie obejmuje rozmów telefonicznych, radiotelefonicznych i telegramów organów administracji powołanych do niesienia pomocy oraz zwalczania zaraźliwych chorób ludzi, zwierząt i roślin."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Operatorzy sieci telekomunikacyjnych użytku publicznego są zobowiązani do realizacji postanowień Konwencji wiedeńskiej o stosunkach dyplomatycznych w zakresie zapewnienia środków łączności misjom zagranicznym mającym siedzibę na terenie ich działania. 2. Minister Łączności w porozumieniu z Ministrem Spraw Zagranicznych ustala, w drodze rozporządzenia, szczegółowe zasady postępowania w sprawach objętych niniejszym rozdziałem, dotyczące przedstawicielstw dyplomatycznych, urzędów konsularnych i innych misji zagranicznych korzystających z przywilejów i immunitetów na podstawie ustaw, umów i zwyczajów międzynarodowych oraz członków ich personelu, jak również innych osób zrównanych z nimi, jeżeli nie są obywatelami polskimi i nie mają miejsca stałego pobytu na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Potwierdzenie nadania telegramu wysłanego w jednostce organizacyjnej Telekomunikacji Polskiej S.A. ma moc dokumentu urzędowego. Rozdział 3 Zasady wykonywania usług pocztowych"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Usługi pocztowe wykonuje przedsiębiorstwo użyteczności publicznej „Poczta Polska”, zwane dalej „Poczta Polska”. 2. Ilekroć w ustawie lub w przepisach odrębnych używa się dla określenia podmiotu wyrazu „poczta”, rozumie się przez to Pocztę Polską."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Wysokość i formy opłat za usługi Poczty Polskiej ustala Dyrektor Poczty Polskiej. 2. Rada Ministrów może wprowadzać opłaty maksymalne za usługi pocztowe o charakterze powszechnym oraz za przewóz ładunków pocztowych wykonywany na podstawie art. 54. 3. Od opłat są zwolnione paczki z drukami lub innymi nośnikami informacji dla ociemniałych. 4. Wysokość opłat za wykonywanie usług pocztowych międzynarodowych jest ustalana w uzgodnieniu z Ministrem Łączności."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Znaczki pocztowe są urzędowymi znakami wartościowymi i służą do uiszczania opłat za usługi pocztowe, określone przez Dyrektora Poczty Polskiej. 2. Poczcie Polskiej przysługuje wyłączne prawo emisji i wprowadzania do obiegu znaczków pocztowych, z zastrzeżeniem ust. 3 i 4. 3. Minister Łączności ustala roczny plan emisji znaczków pocztowych, zawierający określenie liczby znaczków, kolejności ich wprowadzania do obiegu oraz tematyki i wzorów. 4. Minister Łączności może określać formy wydawnicze znaczków oraz ich nakłady. 5. Minister Łączności może ustalać dopłaty do znaczków pocztowych, emitowanych w formach wydawniczych, o których mowa w ust. 4, z przeznaczeniem wpływów na cele społeczne."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Potwierdzenia nadania przesyłek pocztowych i telegramów, wpłat sum pieniężnych na przekazy pocztowe oraz wpłat sum pieniężnych dokonanych w jednostkach organizacyjnych Poczty Polskiej na bankowe konta czekowe i oszczędnościowe mają moc dokumentów urzędowych."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Przesyłek pocztowych nie można ze skutkiem prawnym obciążać zastawem ani zająć, chyba że przepisy szczególne stanowią inaczej."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Poczcie Polskiej przysługuje ustawowe prawo zastawu na przesyłkach pocztowych w celu zabezpieczenia należności z tytułu opłat pocztowych i celnych oraz innych wydatków Poczty Polskiej obciążających te przesyłki. 2. Przepisu ust. 1 nie stosuje się, jeżeli adresatem przesyłki pocztowej jest organ władzy lub administracji państwowej albo organ samorządu terytorialnego."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. Poczcie Polskiej przysługuje prawo otwierania niedoręczalnych listów w celu ustalenia osoby adresata lub nadawcy. 2. Minister Łączności określa, w drodze rozporządzenia, tryb otwierania niedoręczalnych listów oraz sposób postępowania z nimi."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Pracownikom Poczty Polskiej przysługuje ochrona prawna przewidziana w przepisach prawa karnego dla funkcjonariuszy publicznych."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Powództwo przeciwko Poczcie Polskiej wytacza się przed sądem pierwszej instancji, w którego okręgu ma siedzibę jednostka organizacyjna podległa bezpośrednio Dyrektorowi Poczty Polskiej, z której działalnością wiążą się dochodzone roszczenia."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Jednostki organizacyjne Poczty Polskiej mają prawo używania oznak z godłem Rzeczypospolitej Polskiej oraz pieczęci urzędowej z wizerunkiem orła, ustalonym dla godła, i napisem w otoku."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Poczta Polska nie może nikomu odmówić wykonania usług pocztowych o charakterze powszechnym, chyba że żądający wykonania usługi nie spełnił warunków ustalonych przez Ministra Łączności."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Środki transportowe służące do przewozu ładunku pocztowego, budynki, pomieszczenia i inne nieruchomości użytkowane przez Pocztę Polską nie mogą być zajmowane do innych celów, chyba że przepis szczególny stanowi inaczej."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Przedsiębiorstwa przewozowe wykonujące publiczny regularny transport lądowy, lotniczy, morski lub śródlądowy są obowiązane przewozić, na zasadach odpłatności, ładunek pocztowy w oddzielnych przedziałach lub schowkach oraz zapewnić Poczcie Polskiej na swoich stacjach i w swoich portach możliwość używania potrzebnych pomieszczeń i urządzeń, a także wolny dostęp dla pracowników Poczty Polskiej do miejsc załadunku i wyładunku. 2. Przewoźnicy wymienieni w ust. 1 są obowiązani w szczególności: 1) przewozić ładunek pocztowy pod dozorem pracowników własnych lub Poczty Polskiej na warunkach określanych w umowach zawieranych pomiędzy nimi a Pocztą Polską, 2) wyznaczyć pracowników do pełnienia służby pocztowej w obrębie stacji lub portu, 3) ustalić rozkłady jazdy w porozumieniu z organami Poczty Polskiej i z uwzględnieniem potrzeb służby pocztowej, 4) zezwalać na bezpłatne zakładanie na lub w środkach transportowych skrzynek pocztowych, 5) w stosunku do przedsiębiorstw transportu samochodowego - przewozić również ładunek pocztowy w wydzielonych lukach bagażowych w pojemnikach Poczty Polskiej dostosowanych do nośności i ładowności pojazdów oraz prowadzić specjalne przyczepy Poczty Polskiej, jeżeli pozwalają na to techniczne właściwości pojazdu. 3. Warunki użytkowania pomieszczeń i urządzeń przedsiębiorstw określonych w ust. 1, jak również prawa i obowiązki Poczty Polskiej oraz tych przedsiębiorstw określane są w umowach zawartych pomiędzy tymi przedsiębiorstwami a Pocztą Polską. 4. Rada Ministrów określa zasady przewozu ładunków pocztowych kolejami. 5. Poczta Polska współdziała z właściwymi jednostkami w zakresie wykonywania przewozu przesyłek specjalnych resortu spraw wewnętrznych, na zasadach i warunkach uzgodnionych przez Ministra Łączności z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Plany budowy, przebudowy lub rozbudowy urządzeń kolejowych, żeglugi morskiej, śródlądowej i powietrznej oraz urządzeń transportu drogowego powinny uwzględniać potrzeby przeładunku i przewozu przesyłek pocztowych i w tym zakresie wymagają uzgodnienia z Pocztą Polską."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Poczcie Polskiej przysługuje prawo bezpłatnego umieszczania na nieruchomościach skrzynek pocztowych, skrzynek do doręczania korespondencji i automatów do pocztowej obsługi klientów. Rozdział 4 Odpowiedzialność podmiotów świadczących usługi pocztowe i telekomunikacyjne za ich niewykonanie lub nienależyte wykonanie"
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Podmiot świadczący usługę pocztową lub telekomunikacyjną o charakterze powszechnym odpowiada za jej niewykonanie lub nienależyte wykonanie jedynie w zakresie określonym w ustawie. 2. Podmiot świadczący usługę pocztową lub telekomunikacyjną nie mającą charakteru powszechnego odpowiada za jej niewykonanie lub nienależyte wykonanie na podstawie przepisów Kodeksu cywilnego . 3. Podmiot świadczący usługę pocztową lub telekomunikacyjną w obrocie zagranicznym odpowiada za jej niewykonanie lub nienależyte wykonanie w zakresie i na zasadach określonych w umowach międzynarodowych."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Podmiot świadczący usługę pocztową lub telekomunikacyjną o charakterze powszechnym ponosi odpowiedzialność za niewykonanie lub nienależyte wykonanie usługi, chyba że niewykonanie lub nienależyte wykonanie nastąpiło wskutek siły wyższej, niezachowania przez nadawcę lub adresata przepisów lub regulaminów obowiązujących przy korzystaniu z danej usługi albo z winy zleceniodawcy. 2. W razie przyjęcia przesyłki przez odbiorcę bez zastrzeżeń, wszelkie roszczenia przeciwko Poczcie Polskiej wygasają. Nie dotyczy to jednak roszczeń z tytułu opóźnionego doręczenia przesyłki nadanej jako ekspresowa, jak również roszczeń z tytułu niewidocznych uszkodzeń przesyłki, jeżeli odbiorca w ciągu tygodnia od chwili przyjęcia przesyłki zawiadomił o nich Pocztę Polską. 3. Przepisu ust. 2 nie stosuje się, gdy szkoda wynikła z winy umyślnej lub rażącego niedbalstwa Poczty Polskiej."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Jeżeli szkoda jest następstwem czynu niedozwolonego, podmiot świadczący usługę pocztową lub telekomunikacyjną ponosi odpowiedzialność na podstawie przepisów Kodeksu cywilnego ."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Minister Łączności, w drodze rozporządzenia, określa: 1) warunki korzystania z usług pocztowych o charakterze powszechnym, 2) świadczenia dodatkowe do tych usług i warunki ich wykonywania, 3) terminy, po których upływie doręczenie telegramu, przesyłki nadanej jako ekspresowa lub przekazu pocztowego uważa się za opóźnione, 4) wypadki, w których telegram lub przekaz pocztowy uważa się za nie doręczone."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Odszkodowanie za utratę poleconej przesyłki listowej, bez względu na jej zawartość, ustala się w wysokości pięćdziesięciokrotnej opłaty za traktowanie przesyłki jako poleconej. 2. Odszkodowanie za uszkodzenie poleconej przesyłki listowej zawierającej dokumenty lub książki ustala się w wysokości rzeczywiście poniesionej szkody, przy czym odszkodowanie to nie może przewyższać kwoty należnej w razie utraty takiej przesyłki."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Odszkodowanie za utratę listu wartościowego lub paczki z podaną wartością wypłaca się w wysokości kwoty zadeklarowanej przez nadawcę. 2. Odszkodowanie za ubytek lub uszkodzenie listu wartościowego albo paczki z podaną wartością ustala się w wysokości zwykłej wartości rzeczy, których ubytek lub uszkodzenie stwierdzono, przy czym odszkodowanie to nie może przewyższyć kwoty zadeklarowanej przez nadawcę."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Odszkodowanie za utratę, ubytek lub uszkodzenie paczki bez podanej wartości ustala się w wysokości zwykłej wartości utraconych lub uszkodzonych rzeczy. 2. Odszkodowanie za zawartość paczki ekspresowej przeznaczonej dla odbiorcy zamieszkałego w miejscowym obszarze pocztowym, zepsutą wskutek opóźnionego jej doręczenia, ustala się w wysokości zwykłej wartości rzeczy, które uległy zepsuciu. 3. W wypadkach określonych w ust. 1 i 2 odszkodowanie nie może przewyższać piętnastokrotności najniższej opłaty za przewóz paczki jednokilogramowej, pomnożonej przez wagę danej paczki podaną w kilogramach, przy czym część kilograma liczy się za cały."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Odszkodowanie za opóźnione doręczenie przesyłki nadanej jako ekspresowa ustala się w wysokości pięciokrotnej opłaty za traktowanie przesyłki jako ekspresowej."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. Odszkodowanie w razie niedoręczenia przekazu pocztowego ustala się w wysokości pięciokrotnej opłaty za nadanie tego przekazu. 2. Odszkodowanie za opóźnione doręczenie telegraficznego lub ekspresowego przekazu pocztowego ustala się w wysokości pięciokrotnej opłaty za traktowanie przekazu jako ekspresowego."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Odszkodowanie za niedoręczenie telegramu stanowi kwotę pięciokrotnej opłaty za nadanie tego telegramu. 2. Odszkodowanie za zniekształcenie treści telegramu lub korespondencji umieszczonej w telegraficznym przekazie pocztowym w stopniu takim, że treść ta stała się niezrozumiała lub zmieniony został jej sens, ustala się w wysokości pięciokrotnej opłaty za nadanie tego telegramu. 3. Odszkodowanie za opóźnione doręczenie telegramu ustala się w wysokości pięciokrotnej opłaty za nadanie tego telegramu."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Odszkodowanie za niewykonanie lub nienależyte wykonanie świadczeń określonych w przepisach wydanych na podstawie art. 60 pkt 2 jako dodatkowe ustala się w wysokości pięciokrotnej opłaty za dane świadczenie dodatkowe."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1. W razie niemożności korzystania przez okres dłuższy jednorazowo niż 3 dni z abonamentu telefonicznego lub telegraficznego, podmioty świadczące usługi o charakterze powszechnym ponoszą odpowiedzialność za niewykonanie lub nienależyte wykonanie umowy o korzystanie z danego abonamentu. 2. W wypadkach określonych w ust. 1 odszkodowanie ustala się w wysokości 1/30 miesięcznej opłaty abonamentowej za każdy dzień przerwy w korzystaniu z abonamentu."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Niezależnie od odszkodowania podmioty świadczące usługi o charakterze powszechnym zwracają w całości opłatę za nie wykonane świadczenie. Gdy usługę zrealizowano częściowo, zwrot dotyczy części opłaty nie znajdującej pokrycia w spełnionym świadczeniu. Podmioty te zwracają także, w wypadku niewykonania usługi, sumy pieniężne wpłacone na przekazy pocztowe."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Prawo dochodzenia roszczeń wynikających z niniejszej ustawy przysługuje osobie fizycznej lub prawnej, która zawarła umowę o świadczenie usługi pocztowej lub telekomunikacyjnej o charakterze powszechnym. 2. W razie przyjęcia przesyłki pocztowej przez adresata, roszczenie o odszkodowanie określone w ust. 1 przysługuje adresatowi tej przesyłki. 3. Nadawca przesyłki pocztowej, przekazu pocztowego lub telegramu może zrzec się na rzecz adresata swego prawa dochodzenia roszczeń wynikających z niniejszej ustawy. 4. Adresat przesyłki pocztowej, któremu zgodnie z ust. 2 przysługuje prawo dochodzenia roszczenia o odszkodowanie, może zrzec się tego prawa na rzecz nadawcy. 5. Roszczenia dochodzone na podstawie ustawy przedawniają się z upływem 1 roku od dnia następnego po dniu zawarcia umowy o świadczenie usługi pocztowej lub telekomunikacyjnej o charakterze powszechnym."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Prawo dochodzenia roszczeń w postępowaniu sądowym na podstawie ustawy lub przepisów wydanych w jej wykonaniu przysługuje po wyczerpaniu drogi postępowania reklamacyjnego. 2. Reklamację można zgłosić w każdej jednostce organizacyjnej podmiotu wykonującego tę usługę. 3. Reklamującemu przysługuje prawo wniesienia odwołania do jednostki nadrzędnej nad jednostką załatwiającą reklamację. 4. Drogę postępowania reklamacyjnego uważa się za wyczerpaną: 1) z dniem doręczenia reklamującemu stanowiska jednostki nadrzędnej, o której mowa w ust. 3, 2) po upływie 3 miesięcy od dnia wniesienia reklamacji. 5. Bieg przedawnienia zawiesza się na okres postępowania reklamacyjnego."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Spory między Pocztą Polską, podmiotami świadczącymi usługi telekomunikacyjne o charakterze powszechnym a osobami korzystającymi z tych usług rozstrzygają sądy powszechne. Rozdział 5 Ogłaszanie zarządzeń"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Zarządzenia wydane na podstawie ustawy, dotyczące realizacji praw i obowiązków obywateli, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Zarządzenia wydane na podstawie ustawy, inne niż określone w art. 73, ogłasza się w Dzienniku Urzędowym Ministerstwa Łączności."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Ogłoszenie zarządzenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” nie stanowi przeszkody w ogłoszeniu w Dzienniku Urzędowym Ministerstwa Łączności, jeżeli jest to uzasadnione względami usprawnienia organizacji pracy. Rozdział 6 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. W terminie do dnia 31 grudnia 1991 r. Minister Łączności przekształci państwową jednostkę organizacyjną „Polska Poczta, Telegraf i Telefon”, zwaną dalej „PPTT, w przedsiębiorstwo użyteczności publicznej Poczta Polska oraz w Telekomunikację Polską - Spółkę Akcyjną. 2. Rada Ministrów określi tryb przekształcenia, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Minister Łączności jest organem założycielskim dla Poczty Polskiej oraz reprezentuje Skarb Państwa w Telekomunikacji Polskiej S.A."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Do zakończenia przekształcania PPTT, ilekroć w ustawie jest mowa o Poczcie Polskiej i Telekomunikacji Polskiej S.A., rozumie się przez to PPTT."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Poczta Polska może wykonywać, niezależnie od usług pocztowych, niektóre czynności bankowe wymienione w art. 11 ust. 1 ustawy z dnia 31 stycznia 1989 r. - Prawo bankowe ( Dz. U. Nr 4, poz. 21 , Nr 54, poz. 320 , Nr 59, poz. 350 oraz Nr 74, poz. 439 i 440 ) w zakresie i na warunkach określonych przez Ministra Łączności w porozumieniu z Prezesem Narodowego Banku Polskiego i Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Pracownicy PPTT, stosownie do przeprowadzonych przekształceń, stają się z mocy prawa odpowiednio pracownikami Poczty Polskiej i Telekomunikacji Polskiej S.A., z zachowaniem dotychczasowych stosunków pracy i wynikających z nich praw i obowiązków."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Za zobowiązania wynikające ze stosunku pracy, powstałe przed przekształceniem PPTT, odpowiadają, stosownie do dokonanego przekształcenia, Poczta Polska lub Telekomunikacja Polska S.A."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Pracownicy Telekomunikacji Polskiej S.A. w wypadku sprzedaży akcji Spółki korzystają z uprawnień przewidzianych dla pracowników przedsiębiorstw państwowych podlegających prywatyzacji."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Ilekroć w przepisach odrębnych mówi się o PPTT, rozumie się przez to Pocztę Polską i Telekomunikację Polską S.A."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. W terminie 3 miesięcy od dnia wejścia w życie ustawy znosi się Państwową Inspekcję Radiową. 2. Majątek Państwowej Inspekcji Radiowej przekazuje się Państwowej Agencji Radiokomunikacyjnej."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Rada Ministrów powołuje Pełnomocnika Rządu do Spraw Telekomunikacji na Wsi oraz określa jego zadania i kompetencje w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ( Dz. U. Nr 12, poz. 114 , z 1981 r. Nr 24, poz. 124 , z 1982 r. Nr 16, poz. 125 , z 1983 r. Nr 6, poz. 35 i Nr 44, poz. 203 , z 1984 r. Nr 54, poz. 275 , z 1985 r. Nr 14, poz. 60 i Nr 23, poz. 100 , z 1986 r. Nr 39, poz. 193 , z 1988 r. Nr 20, poz. 135 i Nr 41, poz. 324 , z 1989 r. Nr 34, poz. 180 oraz z 1990 r. Nr 51, poz. 297 i Nr 72, poz. 422 ) w art. 63 § 2 i § 3 otrzymują brzmienie: „ § 2. Tej samej karze podlega, kto bez wymaganego zezwolenia lub homologacji zakłada bądź używa urządzenia, linie lub sieci telekomunikacyjne, radiowe urządzenia nadawcze i nadawczo-odbiorcze albo bez wymaganego przydziału wykorzystuje częstotliwość. § 3. Można orzec przepadek przedmiotów służących do popełnienia czynów określonych w § 1 i § 2, choćby nie stanowiły własności sprawcy. ”"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "W ustawie z dnia 23 grudnia 1988 r. o działalności gospodarczej ( Dz. U. Nr 41, poz. 324 oraz z 1990 r. Nr 26, poz. 149 i Nr 34, poz. 198 ) wprowadza się następujące zmiany: 1) w art. 4 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Prowadzenie działalności gospodarczej polegającej na zarobkowym przewozie i doręczaniu korespondencji pisemnej w obrocie międzynarodowym jest zakazane. ” ; 2) w art. 11 w ust. 1 dodaje się pkt 12 w brzmieniu: „ 12) usług polegających na zarobkowym przewozie i doręczaniu korespondencji pisemnej. ” ."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej ( Dz. U. Nr 29, poz. 154 oraz z 1990 r. Nr 51, poz. 297 i Nr 55, poz. 321 ) art. 48 otrzymuje brzmienie: „ Art. 48. 1. Kościół ma prawo do emitowania w środkach masowego przekazywania Mszy św. w niedziele i święta oraz swoich programów, w szczególności religijno-moralnych, społecznych i kulturalnych. 2. Sposób realizacji ust. 1 reguluje porozumienie między Komitetem do Spraw Radia i Telewizji „Polskie Radio i Telewizja” a Sekretariatem Konferencji Episkopatu Polski. 3. Kościół ma prawo do zakładania i używania urządzeń radiokomunikacyjnych przeznaczonych do nadawania programów radiofonicznych i telewizyjnych oraz do uzyskiwania na ten cel niezbędnych częstotliwości. 4. Sposób realizacji ust. 3 reguluje porozumienie zawierane między Ministrem Łączności a Sekretariatem Konferencji Episkopatu Polski. ”"
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania ( Dz. U. Nr 29, poz. 155 oraz z 1990 r. Nr 51, poz. 297 i Nr 55, poz. 321 ) w art. 25 w ust. 4 po wyrazie „moralnych” stawia się przecinek i dodaje wyraz „społecznych” ."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "W ustawie z dnia 1 grudnia 1989 r. o utworzeniu urzędu Ministra Łączności ( Dz. U. Nr 67, poz. 408 ) w art. 4 w ust. 1 w pkt 5 wyraz „taryf” zastępuje się wyrazami „opłat maksymalnych” ."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "1. Ulgi i zwolnienia przyznane przez Ministra Łączności na podstawie art. 49 ust. 3 ustawy z dnia 15 listopada 1984 r. o łączności ( Dz. U. Nr 54, poz. 275 , z 1987 r. Nr 33, poz. 180 , z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 67, poz. 408 ) zachowują moc obowiązującą. 2. Decyzje wydane na podstawie ustawy, o której mowa w ust. 1, zachowują moc obowiązującą, o ile nie są sprzeczne z niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "Tracą moc: 1) ustawa z dnia 15 listopada 1984 r. o łączności ( Dz. U. Nr 54, poz. 275 , z 1987 r. Nr 33, poz. 180 , z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 67, poz. 408 ) , z wyjątkiem art. 34-42, 52, 55, 57-62, które zachowują moc do czasu przekształcenia PPTT, nie dłużej jednak niż do dnia 31 grudnia 1991 r., 2) ustawa z dnia 18 stycznia 1951 r. o zakładaniu w budynkach mieszkalnych skrzynek listowych do doręczania korespondencji i czasopism ( Dz. U. Nr 6, poz. 54 i z 1953 r. Nr 37, poz. 155 ) ."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Do czasu wydania przepisów wykonawczych przewidzianych w ustawie pozostają w mocy przepisy dotychczasowe, o ile nie są sprzeczne z niniejszą ustawą, nie dłużej jednak niż do dnia 31 marca 1991 r."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Ustawa wchodzi w życie w terminie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Zasady prowadzenia działalności w dziedzinie telekomunikacji oraz koordynacja i kontrola tej działalności\",\"children\": [{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_7-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_7-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_7-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_2-arti_7-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_16-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_16-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-arti_17-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_17-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_17-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_17-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_2-arti_18-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_18-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_18-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_18-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_18-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_20-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_2-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_21-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_21-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_21-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_2-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_23-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_23-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_23-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_2-arti_23-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_23-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_2-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_2-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_2-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_2-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_26-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_2-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_2-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_28-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_28-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_2-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_29-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_2-arti_29-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_29-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_29-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_29-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_29-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_29-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_2-arti_29-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"chpt_2-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_2-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_30-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_30-pass_3\",\"symbol\":"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "pocztowych usługach o charakterze powszechnym",
+      "definition": "rozumie się przez to wykonywane przez pocztę w celach zarobkowych usługi polegające na przewozie i doręczaniu zwykłych i poleconych przesyłek listowych, listów wartościowych i paczek pocztowych oraz nadawaniu i doręczaniu przekazów pocztowych, 2) telekomunikacyjnych usługach o charakterze powszechnym - rozumie się przez to usługi polegające na zarobkowym zapewnianiu połączeń telefonicznych lub telegraficznych, z zastrzeżeniem ust. 2, 3) liniach i urządzeniach telekomunikacyjnych - rozumie się przez to linie i urządzenia służące do przesyłania, nadawania lub odbioru za pomocą energii elektromagnetycznej znaków pisma, obrazów, dźwięku i wszelkiego rodzaju wiadomości drogą przewodową, radiową lub optyczną, 4) sieci telekomunikacyjnej - rozumie się przez to zespół współpracujących ze sobą linii i urządzeń telekomunikacyjnych, 5) sieci telekomunikacyjnej użytku publicznego - rozumie się przez to sieć telekomunikacyjną służącą do wykonywania usług telekomunikacyjnych o charakterze powszechnym, 6) wewnętrznej sieci telekomunikacyjnej - rozumie się przez to sieć założoną i używaną wyłącznie do zaspokajania własnych potrzeb operatora sieci, 7) standardzie telekomunikacyjnym - rozumie się przez to zespół danych normatywnych dotyczących parametrów przekazu telekomunikacyjnego, 8) systemie telekomunikacyjnym - rozumie się przez to zespół urządzeń telekomunikacyjnych i zasad ich współdziałania, 9) operatorze sieci telekomunikacyjnej - rozumie się przez to podmiot uprawniony na podstawie ustawy lub zezwolenia do zakładania i używania sieci, linii, urządzeń telekomunikacyjnych, a także do świadczenia usług telekomunikacyjnych, 10) gospodarowaniu widmem częstotliwości - rozumie się przez to prowadzenie kompleksowych działań technicznych, administracyjno-ekonomicznych oraz inspekcyjno-kontrolnych, w tym wydawanie wymaganych zezwoleń, których celem jest racjonalizacja wykorzystania tego widma dla potrzeb rozwoju społeczno-gospodarczego i kulturalnego kraju oraz zapewnienia obronności i bezpieczeństwa państwa. 2. Minister Łączności może, w drodze rozporządzenia, wprowadzić inne usługi telekomunikacyjne jako usługi o charakterze powszechnym.",
+      "source_provision": "art2"
+    }
+  ]
+}

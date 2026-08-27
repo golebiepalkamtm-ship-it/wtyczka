@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-467",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 listopada 1990 r. o zmianie terminu przedstawienia Sejmowi i Senatowi projektu ustawy budżetowej na rok 1991 oraz terminu przedłożenia radom gmin przez zarządy projektów budżetów gmin na rok 1991.",
+  "title_en": "",
+  "short_name": "pl-du-1990-467",
+  "status": "repealed",
+  "issued_date": "1990-11-08",
+  "in_force_date": "1990-11-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/467",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Termin przedstawienia Sejmowi i Senatowi przez Radę Ministrów projektu ustawy budżetowej na rok 1991, określony w art. 37 ust. 1 ustawy z dnia 3 grudnia 1984 r. - Prawo budżetowe ( Dz. U. Nr 56, poz. 283 , z 1985 r. Nr 59, poz. 296 , z 1986 r. Nr 42, poz. 202 , z 1987 r. Nr 33, poz. 181 , z 1988 r. Nr 19, poz. 131 i Nr 41, poz. 325 oraz z 1989 r. Nr 6, poz. 32 i Nr 34, poz. 178 ) , przedłuża się do dnia 30 listopada 1990 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Termin przedłożenia radzie gminy przez zarząd projektu budżetu gminy na rok 1991, określony w art. 52 ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym ( Dz. U. Nr 16, poz. 95 , Nr 32, poz. 191 , Nr 34, poz. 199 i Nr 43, poz. 253 ) przedłuża się do dnia 20 grudnia 1990 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 15 listopada 1990 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

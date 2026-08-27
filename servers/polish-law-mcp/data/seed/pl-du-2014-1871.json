@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-1871",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 października 2014 r. o zmianie ustawy o referendum lokalnym",
+  "title_en": "",
+  "short_name": "pl-du-2014-1871",
+  "status": "amended",
+  "issued_date": "2014-10-23",
+  "in_force_date": "2014-12-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1871",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 września 2000 r. o referendum lokalnym ( Dz. U. z 2013 r. poz. 706 ) art. 54 otrzymuje brzmienie: „ Art. 54. 1. Głosowanie w referendum przeprowadza się w stałych i odrębnych obwodach głosowania, o których mowa w art. 12 § 1 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy . 2. Do tworzenia odrębnych obwodów głosowania nie stosuje się przepisów art. 12 § 7 i 9 ustawy z dnia 5 stycznia 2011 r. - Kodeks wyborczy . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

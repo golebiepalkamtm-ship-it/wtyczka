@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1921-172",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1921 r. w przedmiocie niektórych zmian w przepisach tymczasowych o urządzeniu sądownictwa w b. Królestwie Polskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1921-172",
+  "status": "in_force",
+  "issued_date": "1921-03-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/172",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuły 5, 6, 7 i 24 przepisów tymczasowych o urządzeniu sądownictwa w b. Królestwie Polskiem (Dz. Urz. Dep. Spraw. № 1) otrzymują brzmienie następujące: Art. 5. Sąd Pokoju stanowią: sędzia i ławnicy. Sądy Pokoju wyrokują w sprawach cywilnych i karnych w komplecie, złożonym z sędziego pokoju, jako przewodniczącego i 2 ławników. Wszelako w sądach Pokoju dla miast powiatowych lub miast, mających ponad 10 tysięcy mieszkańców, sędziowie pokoju prawnicy wyrokują jednoosobowo zarówno w sprawach cywilnych, jak i karnych. Poszczególne czynności sądowe, przewidziane w ustawach, pełni sędzia pokoju pozatem bez udziału awników. Nieobecnego sędziego pokoju, do czasu wyznaczenia specjalnego zastępcy przez Ministra Sprawiedliwości, może zastąpić ławnik, upoważniony do tego przez Sąd Okręgowy na posiedzeniu ogólnem połączonych wydziałów; ławnik jednak nie może rozpoznawać spraw jednoosobowo. Art. 6. Sąd Okręgowy stanowią: prezes, wiceprezes, sędziowie okręgowi i sędziowie śledczy. Sądy Okręgowe wyrokują, o ile w myśl przepisów szczególnych nie należy orzekać jednoosobowo, w następujących kompletach: a) w sprawach cywilnych i karnych w komplecie, złożonym z trzech sędziów; b) w sprawach handlowych w komplecie, złożonym z jednego sędziego, jako przewodniczącego i dwóch ławników. Ławnika nieobecnego może zastąpić sędzia. Przez sędziów rozumieć należy także prezesa i wiceprezesów. Do uzupełnienia kompletu może być z decyzji prezesa sądu powołany sędzia śledczy, sędzia pokoju lub też zastępca sędziego, wyznaczony na to stanowisko przez Ministra Sprawiedliwości. Sędzia śledczy nie bierze jednak udziału w sądzeniu sprawy, w której prowadzi śledztwo. Przewodniczy w komplecie sędzia okręgowy. Poszczególne czynności sądowe, przewidziane w ustawach, pełnią sędziowie okręgowi jednoosobowo. Komplety do spraw handlowych będą utworzone tylko w sądach, wskazanych przez Ministra Sprawiedliwości. W innych okręgach sprawy handlowe rozstrzyga Sąd Okręgowy w zwykłym komplecie cywilnym. Art. 7. Sąd Apelacyjny stanowią: prezes, wiceprezesi i sędziowie apelacyjni. Sądy Apelacyjne wyrokują w komplecie, złożonym z trzech sędziów. Przez sędziów apelacyjnych rozumieć należy także prezesa i wiceprezesów. Do uzupełnienia kompletu może być powołany z decyzji prezesa sądu sędzia okręgowy, nie ma jednak prawa przewodniczyć w komplecie Sądu Apelacyjnego. Art. 24. Ławników do Sądu Pokoju powołuje prezes Sądu Okręgowego z listy osób, ułożonej przez zgromadzenia gminne i rady miejskie a w miejscowościach, gdzie takich instytucji niema, przez instytucje, które wskaże Minister Sprawiedliwości. Kandydatów na ławników Sądów Pokoju z gmin wiejskich wybierają zgromadzenia gminne według przepisów, które wyda Minister Sprawiedliwości. Lista proponowanych ławników powinna zawierać conajmniej podwójną, w stosunku do wskazanej przez prezesa sądu, liczbę kandydatów. Osoby, zamieszczone w liście, które nie będą powołane na ławników, ani też nie będą wykreślone z listy dla braku wymaganych przymiotów, będą zastępcami ławników. Ławnikiem i jego zastępcą może być jedynie nieposzlakowany obywatel polski, używający pełni praw i posiadający dostateczną znajomość języka polskiego w słowie i piśmie. Urząd ławnika trwa trzy lata. Ławnik ustępujący winien jednak pełnić swój urząd aż do powołania następcy. Ławników do kompletów handlowych Sądu Okręgowego (art. 6) wybiera kupiectwo stosownie do przepisów, obowiązujących przy wyborze sędziów handlowych. Ławnicy ci używają tytułu sędziów handlowych i prócz udziału w sądzeniu spraw handlowych pełnią czynności, przez ustawy sędziom handlowym powierzone. Winni oni oprócz przymiotów wyżej określonych posiadać wykształcenie średnie. Liczbę sędziów handlowych określa Minister Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza obowiązuje w okręgach sądów apelacyjnych warszawskiego i lubelskiego i wchodzi w życie w dni 30 po ogłoszeniu. Wykonanie jej powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

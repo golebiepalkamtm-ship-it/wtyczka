@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2010-1498",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 października 2010 r. o zmianie ustawy - Prawo ochrony środowiska.",
+  "title_en": "",
+  "short_name": "pl-du-2010-1498",
+  "status": "amended",
+  "issued_date": "2010-10-29",
+  "in_force_date": "2010-12-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1498",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 kwietnia 2001 r. - Prawo ochrony środowiska ( Dz. U. z 2008 r. Nr 25, poz. 150 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019 i Nr 182, poz. 1228. ) w art. 403 dodaje się ust. 3-6 w brzmieniu: „ 3. Finansowanie ochrony środowiska i gospodarki wodnej, o którym mowa w ust. 1 i 2, odbywa się w trybie określonym w przepisach odrębnych, z zastrzeżeniem ust. 4-6. 4. Finansowanie ochrony środowiska i gospodarki wodnej, o którym mowa w ust. 1 i 2, może polegać na udzielaniu dotacji celowej w rozumieniu przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych z budżetu gminy lub budżetu powiatu na finansowanie lub dofinansowanie kosztów inwestycji: 1) podmiotów niezaliczonych do sektora finansów publicznych, w szczególności: a) osób fizycznych, b) wspólnot mieszkaniowych, c) osób prawnych, d) przedsiębiorców; 2) jednostek sektora finansów publicznych będących gminnymi lub powiatowymi osobami prawnymi. 5. Zasady udzielania dotacji celowej, o której mowa w ust. 4, obejmujące w szczególności kryteria wyboru inwestycji do finansowania lub dofinansowania oraz tryb postępowania w sprawie udzielania dotacji i sposób jej rozliczania określa odpowiednio rada gminy albo rada powiatu w drodze uchwały. 6. Udzielenie dotacji celowej, o której mowa w ust. 4, następuje na podstawie umowy zawartej przez gminę lub powiat z podmiotami określonymi w ust. 4. W przypadku gdy dotacja stanowi pomoc publiczną lub pomoc de minimis jej udzielenie następuje z uwzględnieniem warunków dopuszczalności tej pomocy określonych w przepisach prawa Unii Europejskiej. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy art. 403 ust. 3-6 ustawy zmienianej w art. 1 mają zastosowanie do dochodów budżetów powiatów i budżetów gmin uzyskanych od dnia 1 stycznia 2010 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 111, poz. 708, Nr 138, poz. 865, Nr 154, poz. 958, Nr 171, poz. 1056, Nr 199, poz. 1227, Nr 223, poz. 1464 i Nr 227, poz. 1505, z 2009 r. Nr 19, poz. 100, Nr 20, poz. 106, Nr 79, poz. 666, Nr 130, poz. 1070 i Nr 215, poz. 1664 oraz z 2010 r. Nr 21, poz. 104, Nr 28, poz. 145, Nr 40, poz. 227, Nr 76, poz. 489, Nr 119, poz. 804, Nr 152, poz. 1018 i 1019 i Nr 182, poz. 1228. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2000-1026",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 września 2000 r. o zmianie ustawy o narodowym spisie powszechnym ludności i mieszkań w 2001 r.",
+  "title_en": "",
+  "short_name": "pl-du-2000-1026",
+  "status": "in_force",
+  "issued_date": "2000-09-09",
+  "in_force_date": "2000-11-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/1026",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 grudnia 1999 r. o narodowym spisie powszechnym ludności i mieszkań w 2001 r. ( Dz. U. z 2000 r. Nr 1, poz. 1 ) wprowadza się następujące zmiany: 1) tytuł ustawy otrzymuje brzmienie: „ o narodowym spisie powszechnym ludności i mieszkań w 2002 r. ” ; 2) art. 1 otrzymuje brzmienie: „ Art. 1. Narodowy spis powszechny ludności i mieszkań, zwany dalej «spisem», będzie przeprowadzony na terytorium Rzeczypospolitej Polskiej w dniach od 21 maja 2002 r. do 8 czerwca 2002 r., według stanu w dniu 20 maja 2002 r. o godzinie 2400. ” ; 3) w art. 7 w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) migracji długookresowych trwających co najmniej 12 miesięcy w latach 1989-2002, ” ; 4) w art. 13 w ust. 4 wyrazy „w terminie do 30 października 2001 r.” zastępuje się wyrazami „w terminie do dnia 30 października 2002 r.” ; 5) w art. 19 ust. 1 otrzymuje brzmienie: „ 1. W dniach od 17 czerwca 2002 r. do 25 czerwca 2002 r. w wylosowanych obwodach spisowych zostanie przeprowadzony spis kontrolny. ” ; 6) w załącznikach nr 1-3 do ustawy wyrazy „NARODOWY SPIS POWSZECHNY LUDNOŚCI I MIESZKAŃ 2001 R.” zastępuje się wyrazami „NARODOWY SPIS POWSZECHNY LUDNOŚCI I MIESZKAŃ 2002 R.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

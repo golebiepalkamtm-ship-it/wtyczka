@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-93",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 lutego 1920 r. w przedmiocie zmiany ustawy z dnia 10 maja 1919 r. o ustaleniu o oszacowaniu świadczeń i strat wojennych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-93",
+  "status": "in_force",
+  "issued_date": "1920-02-20",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/93",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 9 p. a) ustawy z dnia 10 maja 1919 r. o ustaleniu i oszacowaniu świadczeń i strat wojennych (Dz. Pr. № 41, poz. 298) uchyla się, a na miejsce jego wchodzi postanowienie następujące: a) z prezesa i wiceprezesa, których deleguje prezes właściwego sądu okręgowego z pośród sędziów czynnych, a w braku odpowiednich kandydatów - Minister Sprawiedliwości z pośród byłych sędziów, adwokatów przysięgłych, adwokatów, notarjuszów, kandydatów (aplikantów) adwokatury i notarjatu, wreszcie z liczby posiadających wykształcenie prawne urzędników państwowych, albo pracowników społecznych z takiemże wykształceniem. Czas służby, spędzonej na stanowisku powyższem, liczy się tak samo, jak czas służby w odnośnym zawodzie, do którego należał powołany."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Sprawiedliwości i Prezesowi Głównego Urzędu Likwidacyjnego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

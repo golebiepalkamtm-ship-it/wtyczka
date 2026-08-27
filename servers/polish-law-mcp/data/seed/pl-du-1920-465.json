@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1920-465",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. w przedmiocie wypłaty zastępczej pewnych kategorji wierzytelności, należnych obywatelom Państwa Polskiego od niemieckich, austro-węgierskich i austrjackich b. rządów zaborczych, względnie okupacyjnych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-465",
+  "status": "in_force",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/465",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Główny Urząd Likwidacyjny do wypłaty zastępczej należnych obywatelom polskim niektórych wierzytelności, opartych na umowie lub na obowiązujących przepisach, i powstałych na obszarze b. zaboru rosyjskiego i auslrjackiego, a nie wypłaconych przez niemieckie, austro - węgierskie i austrjackie, b. rządy zaborcze, względnie okupacyjne."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wypłata zastępcza dotyczy wierzytelności, pochodzących z tytułu: 1) umowy o najem usług, 2) zwrotów kaucji i depozytów, złożonych na rzecz skarbu państw zaborczych lub okupacyjnych, a przejętych przez władze polskie, o ile tytuł do ich zatrzymania wygasł, 3) umownych dostaw prac i robót, dokonanych na rzecz państw zaborczych lub okupacyjaych, o ile Państwo Polskie z nich skorzystało lub korzysta, 4) kosztów leczenia i wszelkich tytułów prywatno - prawnych, przysługujących szpitalom, jako też instytucjom humanitarnym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wypłata nastąpi do wysokości sumy należnej od b. państw zaborczych i okupacyjnych, bez jakichkolwiek należytości ubocznych i jedynie co do roszczeń, które zostały w przepisanym porządku zgłoszone i sprawdzone pod względem należności i wysokości, pod warunkiem złożenia przez wierzyciela deklaracji, koniecznej dla rozrachunku międzypaństwowego. Wypłata może być uskuteczniona w obligacjach pożyczki wewnętrznej. Decyzja o wypłacie zastępczej nastąpi wedle uznania Głównego Urzędu Likwidacyjnego, działającego w porozumieniu z odnośnem Ministerstwem, przy wykluczeniu drogi sądowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Postanowienia ustawy niniejszej nie stosują się do roszczeń do „Krajowego Urzędu Odbudowy we Lwowie w likwidacji”."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy porucza się Prezesowi Głównego Urzędu Likwidacyjnego w porozumieniu z Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

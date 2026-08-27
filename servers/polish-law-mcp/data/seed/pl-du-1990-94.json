@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-94",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 marca 1990 r. o zmianie Konstytucji Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-94",
+  "status": "repealed",
+  "issued_date": "1990-03-08",
+  "in_force_date": "1990-03-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/94",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Konstytucji Rzeczypospolitej Polskiej ( Dz. U. z 1976 r. Nr 7, poz. 36 , z 1980 r. Nr 22, poz. 81 , z 1982 r. Nr 11, poz. 83 , z 1983 r. Nr 39, poz. 175 , z 1987 r. Nr 14, poz. 82 , z 1988 r. Nr 19, poz. 129 , z 1989 r. Nr 19, poz. 101 i Nr 75, poz. 444 ) wprowadza się następujące zmiany: 1) w art. 2 ust. 2 i w art. 32f ust. 1 pkt 1 wyrazy „do Sejmu, Senatu i do rad narodowych” zastępuje się wyrazami „do Sejmu i Senatu” ; 2) art. 32h skreśla się; 3) tytuł rozdziału 5 otrzymuje brzmienie: „Rząd i administracja” ; 4) w art. 41 pkt 11 po wyrazie „administracji” dodaje się wyraz „rządowej” ; 5) po art. 42 dodaje się art. 42a w brzmieniu: „ Art. 42a. Wojewoda jest organem administracji rządowej oraz przedstawicielem rządu w województwie. ” ; 6) tytuł rozdziału 6 otrzymuje brzmienie: „Samorząd terytorialny” ; 7) art. 43-47 otrzymują brzmienie: „ Art. 43. 1. Samorząd terytorialny jest podstawową formą organizacji życia publicznego w gminie. 2. Gmina zaspokaja zbiorowe potrzeby społeczności lokalnej. Art. 44. 1. Gmina posiada osobowość prawną i wykonuje zadania publiczne w imieniu własnym, na zasadach określonych przez ustawy. 2. Samodzielność gminy podlega ochronie sądowej. 3. W zakresie uregulowanym ustawami gmina wykonuje zlecone zadania administracji rządowej. Art. 45. 1. Organem stanowiącym gminy jest rada wybierana przez mieszkańców gminy. Zasady i tryb wyboru określa ustawa. 2. Rada wybiera organy wykonawcze gminy. Art. 46. Gminie przysługuje prawo własności i inne prawa majątkowe. Prawa te stanowią mienie komunalne. Art. 47. Dochody własne gminy są uzupełniane subwencjami na zasadach określonych przez ustawę. ” ; 8) art. 48-55 skreśla się; 9) w art. 59 ust. 3 wyrazy „wybierani przez rady narodowe” zastępuje się wyrazami „pochodzący z wyboru” i dodaje się zdanie: „Zasady i tryb wyboru ławników sądów powszechnych i szczególnych oraz ich kadencję określa ustawa.” ; 10) w art. 59 ust. 4 skreśla się; 11) tytuł rozdziału 9 otrzymuje brzmienie: „Zasady prawa wyborczego do Sejmu i Senatu” ; 12) w art. 94 ust. 1 wyrazy „oraz do rad narodowych” skreśla się; 13) art. 96 otrzymuje brzmienie: „ Art. 96. Każdy obywatel może być wybrany do Sejmu lub Senatu po ukończeniu 21 lat. ” ; 14) w art. 100 wyrazy „posłów, senatorów i członków rad narodowych” zastępuje się wyrazami „posłów i senatorów” ; 15) w art. 101 wyrazy „Poseł, senator i członek rady narodowej” zastępuje się wyrazami „Poseł i senator” ; 16) art. 102 otrzymuje brzmienie: „ Art. 102. Sposób zgłaszania kandydatur oraz przeprowadzania wyborów posłów i senatorów określa ustawa. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Pierwsze wybory do rad gmin, zarządzone po wejściu w życie niniejszej ustawy, odbywają się na podstawie ustawy, o której mowa w art. 1 pkt 7 (art. 45 ust. 1). 2. Do czasu upływu kadencji rad narodowych wybranych dnia 19 czerwca 1988 r. rady narodowe i terenowe organy administracji działają na podstawie dotychczasowych przepisów. Termin upływu kadencji rad narodowych określi ustawa, o której mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"arti_1-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"arti_1-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"arti_1-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

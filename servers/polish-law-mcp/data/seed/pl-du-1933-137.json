@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1933-137",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 marca 1933 r. o sprzedaży i zamianie nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1933-137",
+  "status": "in_force",
+  "issued_date": "1933-03-08",
+  "in_force_date": "1933-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/137",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na zbywanie drogą sprzedaży, stanowiących własność Skarbu Państwa, położonych w obrębie gmin miejskich i pozostających pod zarządem Ministra Spraw Wewnętrznych: 1) nieruchomości, niezbędnych dla celów założenia lub uregulowania ulic, placów i innych urządzeń gminnych użyteczności publicznej, o ile cele te są przewidziane w prawomocnym planie zabudowania, a odstąpienie niezbędnych dla tych celów gruntów nie może być uskutecznione na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 kwietnia 1927 r. o rozbudowie miast (Dz. U. R. P. Nr. 42, poz. 372), zmienionego rozporządzeniem Prezydenta Rzeczypospolitej z dnia 15 czerwca 1932 r. (Dz. U. R. P. Nr. 51, poz. 481), i o ile powierzchnia gruntowa tych nieruchomości nie przekracza 1.000 m 2 , 2) nieruchomości zbędnych dla celów państwowych, o ile wartość nieruchomości w poszczególnym przypadku nie przekracza 5.000 zł, a powierzchnia gruntowa nie przekracza 500 m 2."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zezwala się na zbywanie drogą zamiany, stanowiących własność Skarbu Państwa, położpnych w obrębie gmin miejskich i pozostających pod zarządem Ministra Spraw Wewnętrznych nieruchomości, których wartość w poszczególnym przypadku nie przekracza 25.000 m 2 , a powierzchnia gruntową nie przekracza 2.500 m 2. ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Sprzedaż nieruchomości państwowych (art. 1) dokonywana będzie za cenę, odpowiadającą ich wartości szacunkowej, zaś zamiana (art. 2) drogą uzyskania dla Skarbu Państwa nieruchomości równowartościowych. (2) Sprzedaż lub zamiana na warunkach ulgowych może nastąpić za zgodą Ministra Skarbu w wypadkach, zasługujących na uwzględnienie, gdy nabywcami są publiczno-prawne związki samorządowe lub instytucje społeczne, kulturalno-oświatowe i wyznaniowe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Łączna powierzchnia gruntowa nieru-chąrfloścj, które w ciągu jednego roku budżetowego będą na podstawie niniejszej ustawy sprzedane, nie może przekraczać 10.000 m 2 , zaś łączna powierzchnią nieruchomości, pozbytych drogą zamiany, nie może przekraczać 20.000 m 2 ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

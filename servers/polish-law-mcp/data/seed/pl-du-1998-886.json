@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-886",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 września 1998 r. o zmianie ustawy o Inspekcji Celnej.",
+  "title_en": "",
+  "short_name": "pl-du-1998-886",
+  "status": "repealed",
+  "issued_date": "1998-09-23",
+  "in_force_date": "1998-11-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/886",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 czerwca 1997 r. o Inspekcji Celnej ( Dz. U. Nr 71, poz. 449 ) wprowadza się następujące zmiany: 1) w art. 2 dodaje się ust. 5 w brzmieniu: „ 5. Minister Finansów określi, w drodze rozporządzenia, kryteria i tryb przydziału umundurowania, o którym mowa w ust. 4, z uwzględnieniem ilości i rodzajów składników umundurowania przysługujących funkcjonariuszom Inspekcji Celnej oraz okresu używalności tych składników. ” ; 2) w art. 28 ust. 4 otrzymuje brzmienie: „ 4. Minister Finansów w porozumieniu z Ministrem Sprawiedliwości określi, w drodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, o których mowa w ust. 1, określając zwłaszcza sposoby i tryb gromadzenia dokumentacji oraz przeprowadzania czynności operacyjno-rozpoznawczych. ” ; 3) w art. 31 ust. 7 otrzymuje brzmienie: „ 7. Minister Finansów określi, w drodze rozporządzenia, szczegółowe warunki odbywania praktyki oraz sposób organizacji kursów specjalistycznych i przeprowadzania egzaminów kwalifikacyjnych, a także obowiązujące kryteria kwalifikacji, z uwzględnieniem: 1) czasu trwania praktyki i wiedzy niezbędnej dla funkcjonariuszy Inspekcji Celnej, 2) kryteriów oceny osób przystępujących do egzaminu kwalifikacyjnego oraz trybu jego przeprowadzania. ” ; 4) w art. 37 ust. 2 otrzymuje brzmienie: „ 2. Minister Finansów określi, w drodze rozporządzenia, sposób wypełniania oświadczenia, o którym mowa w ust. 1, wraz z objaśnieniami co do terminu i miejsca składania, odpowiedzialności za podanie informacji niezgodnych z faktycznym stanem rzeczy, a także jego wzór. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Akty wykonawcze wydane na podstawie dotychczasowych przepisów art. 28 ust. 4, art. 31 ust. 7 i art. 37 ust. 2 ustawy z dnia 6 czerwca 1997 r. o Inspekcji Celnej ( Dz. U. Nr 71, poz. 449 ) pozostają w mocy do czasu zastąpienia ich nowymi przepisami, jednak nie dłużej niż przez okres sześciu miesięcy od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

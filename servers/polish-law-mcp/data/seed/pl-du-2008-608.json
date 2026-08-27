@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2008-608",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych",
+  "title_en": "",
+  "short_name": "pl-du-2008-608",
+  "status": "amended",
+  "issued_date": "2008-04-11",
+  "in_force_date": "2008-06-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/608",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 lipca 2005 r. o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych ( Dz. U. Nr 169, poz. 1415 ) art. 23 otrzymuje brzmienie: „ Art. 23. Przepisy ustawy mają zastosowanie do przestępstw popełnionych od dnia 1 lipca 2005 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wniosek o kompensatę, o którym mowa w art. 8 ust. 5 ustawy wymienionej w art. 1, dotyczący przestępstw popełnionych w okresie od dnia 1 lipca 2005 r. do dnia 20 września 2005 r. składa się w terminie 2 lat od dnia wejścia w życie niniejszej ustawy, pod rygorem wygaśnięcia uprawnienia do żądania kompensaty."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy Rady nr 2004/80/WE z dnia 29 kwietnia 2004 r. odnoszącej się do kompensaty dla ofiar przestępstw (Dz. Urz. UE L 261 z 06.08.2004, str. 15; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 7, str. 65). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

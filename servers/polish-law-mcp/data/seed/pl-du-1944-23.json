@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1944-23",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 września 1944 r. o kompetencji Przewodniczącego Krajowej Rady Narodowej.",
+  "title_en": "",
+  "short_name": "pl-du-1944-23",
+  "status": "repealed",
+  "issued_date": "1944-09-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1944/23",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przewodniczącemu Krajowej Rady Narodowej przysługują wszystkie uprawnienia Marszałka Sejmu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wobec opróżnienia urzędu Prezydenta Rzeczypospolitej Polskiej, zastępuje go Przewodniczący Krajowej Rady Narodowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Z tytułu zastępstwa Prezydenta Rzeczypospolitej Polskiej, Przewodniczący Krajowej Rady Narodowej spełnia następujące funkcje: a) podpisuje ustawy wraz z odpowiednimi członkami Polskiego Komitetu Wyzwolenia Narodowego i zarządza ich ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej oraz w celu ich wykonania wydaje rozporządzenia wykonawcze i zarządzenia, b) jest najwyższym zwierzchnikiem sił zbrojnych Państwa, przy czym zwierzchnictwo sprawuje przez Naczelne Dowództwo Wojska Polskiego, c) wykonuje prawo łaski, d) reprezentuje Państwo na zewnątrz, przyjmuje i wysyła przedstawicieli dyplomatycznych, e) zawiera umowy z innymi Państwami, f) mianuje sędziów, o ile ustawa nie zawiera innego postanowienia, g) nadaje ordery i odznaczenia, jeśli ustawy nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Przewodniczącemu Krajowej Rady Narodowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i wygasa automatycznie z chwilą ukonstytuowania się ciał parlamentarnych, wybranych na zasadzie powszechnych wyborów. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_3-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_3-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_3-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

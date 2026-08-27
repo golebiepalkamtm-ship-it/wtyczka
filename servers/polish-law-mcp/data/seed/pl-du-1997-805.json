@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-805",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 czerwca 1997 r. o zmianie ustawy o cmentarzach i chowaniu zmarłych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-805",
+  "status": "amended",
+  "issued_date": "1997-06-26",
+  "in_force_date": "1997-10-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/805",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych ( Dz. U. z 1972 r. Nr 47, poz. 298 , z 1989 r. Nr 29, poz. 154 , z 1990 r. Nr 34, poz. 198 , z 1991 r. Nr 64, poz. 271 ) art. 8 otrzymuje brzmienie: „ Art. 8. 1. Przyjęcie zwłok do pochowania na cmentarz następuje po przedstawieniu dokumentów określonych w art. 11 ust. 5 i 9. 2. W miejscowościach, w których nie ma cmentarzy komunalnych zarząd cmentarza wyznaniowego jest obowiązany umożliwić pochowanie na tym cmentarzu, bez jakiejkolwiek dyskryminacji, osób zmarłych innego wyznania lub niewierzących. 3. Zarząd cmentarza wyznaniowego nie może odmówić pochowania zwłok osób, które posiadają nabyte prawo do pochówku w określonym miejscu tego cmentarza. 4. Prawo to służy, obok osoby określonej w ust. 3, także jej bliskim, to jest małżonkowi, wstępnym, zstępnym, rodzeństwu i przysposobionym. 5. Zwłoki osób, o których mowa w ust. 3 i 4, powinny być przez zarząd cmentarza traktowane na równi ze zwłokami osób należących do wyznania, do którego należy cmentarz, a w szczególności pod względem wyznaczenia miejsca pochowania, właściwego ceremoniału pogrzebowego i wznoszenia stosownych nagrobków. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2014-696",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin oraz ustawy o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin",
+  "title_en": "",
+  "short_name": "pl-du-2014-696",
+  "status": "in_force",
+  "issued_date": "2014-04-04",
+  "in_force_date": "2014-05-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/696",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 grudnia 1993 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin ( Dz. U. z 2013 r. poz. 666 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502. ) w art. 45: 1) ust. 1 otrzymuje brzmienie: „ 1. W razie ustania przyczyny powodującej wstrzymanie wypłaty świadczeń wypłatę wznawia się od miesiąca, w którym ustała ta przyczyna, nie wcześniej jednak niż od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu. ” ; 2) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadkach określonych w art. 44 ust. 1 pkt 2 lit. b wypłatę świadczeń wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż trzy lata wstecz, licząc od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 18 lutego 1994 r. o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin ( Dz. U. z 2013 r. poz. 667 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502. ) w art. 46: 1) ust. 1 otrzymuje brzmienie: „ 1. W razie ustania przyczyny powodującej wstrzymanie wypłaty świadczeń wypłatę wznawia się od miesiąca, w którym przyczyna ta ustała, nie wcześniej jednak niż od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu. ” ; 2) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W przypadkach określonych w art. 45 ust. 1 pkt 2 lit. b wypłatę świadczeń wznawia się od miesiąca, w którym ją wstrzymano, jednak za okres nie dłuższy niż trzy lata wstecz, licząc od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do wniosków o wznowienie wypłaty świadczeń wstrzymanych na podstawie art. 44 ust. 1 pkt 2 lit. b ustawy, o której mowa w art. 1, albo na podstawie art. 45 ust. 1 pkt 2 lit. b ustawy, o której mowa w art. 2, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy stosuje się odpowiednio przepisy ustawy, o której mowa w art. 1 albo art. 2, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1355, 1623 i 1717 oraz z 2014 r. poz. 502. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 1623 i 1717 oraz z 2014 r. poz. 502. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

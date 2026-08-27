@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2001-744",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 maja 2001 r. o zmianie ustawy o dopłatach do oprocentowania niektórych kredytów bankowych.",
+  "title_en": "",
+  "short_name": "pl-du-2001-744",
+  "status": "amended",
+  "issued_date": "2001-05-09",
+  "in_force_date": "2001-07-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/744",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 1995 r. o dopłatach do oprocentowania niektórych kredytów bankowych ( Dz. U. Nr 13, poz. 60 i Nr 83, poz. 418 , z 1996 r. Nr 152, poz. 719 , z 1997 r. Nr 80, poz. 504 , Nr 107, poz. 690 , Nr 121, poz. 770 i Nr 158, poz. 1044 , z 1999 r. Nr 27, poz. 243 , Nr 63, poz. 702 i Nr 70, poz. 778 oraz z 2000 r. Nr 122, poz. 1315 ) w art. 6: a) w ust. 3 wyrazy „6 q żyta” zastępuje się wyrazami „10 q żyta” , b) w ust. 4 wyrazy „10 q żyta” zastępuje się wyrazami „15 q żyta” ,"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

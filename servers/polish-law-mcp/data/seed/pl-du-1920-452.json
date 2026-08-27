@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-452",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. w przedmiocie rozciągnięcia obowiązujących przepisów o nadzwyczajnych dodatkach drożyźnianych dla emerytów cywilnych oraz wdów i sierot po nich na emerytów wojskowych oraz wdowy i sieroty po nich.",
+  "title_en": "",
+  "short_name": "pl-du-1920-452",
+  "status": "in_force",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/452",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc ustawy z dnia 5 marca 1920 r. „w sprawie zmiany ustawy z dn. 31 lipca 1919 r. (Dz. Pr. № 65, poz. 392) oraz ustawy z dnia 8 stycznia 1920 r. (Dz. Ust. № 4, poz. 18) o przyznaniu dla cywilnych emerytowanych funkcjonarjuszów państwowych, kolejowych, dla nauczycieli szkół powszechnych, średnich i wyższych, jak też dla wdów i sierot po nich oraz księży emerytów nadzwyczajnego dodatku drożyźnianego” (Dz. Ust. № 23, poz. 127, rok 1920) rozciąga się na byłych wojskowych oficerów, duchownych, urzędników wojskowych i szeregowców b. armji rosyjskiej i austrjackiej, o ile pobierają ze Skarbu emeryturę lub zasiłki z tytułu służby swej w armjach odnośnych państw zaborczych, oraz na wdowy i sieroty po nich, o ile te ostatnie pobierają ze Skarbu pensję wdowią lub sierocą z tytułu służby ich mężów albo ojców w jednej ze wspomnianych wyżej armji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uchwałę Sejmu Ustawodawczego z dnia 1 lipca 1920 roku, by, rozpocząwszy od miesiąca czerwca 1920 r. do czasu wejścia w życie uchwalić się mającej przez Sejm ustawy emerytalnej, wypłacano co miesiąc dotychczasową emeryturę, względnie pensję wdowią i sierocą, rentę, lub dar z łaski wraz ze wszystkiemi przypadającemi dodatkami drożyznianemi w podwójnej wysokości, - rozciąga się na b. wojskowych b. armji rosyjskiej i austrjackiej, o ile pobierają ze Skarbu Polskiego emeryturę lub zasiłki z tytułu służby swej w armjach odnośnych państw zaborczych, oraz na wdowy i sieroty po nich, o ile te ostatnie pobierają ze Skarbu Polskiego pensję wdowią lub sierocą z tytułu służby ich mężów lub ojców w jednej ze wspomnianych wyżej armji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustęp b. art. 5 ustawy z dnia 31 lipca 1919 r. (Dz. Pr. № 65, poz. 392), rozszerzonej ustawą z dnia 4 lutego 1920 r. (Dz. Ust. № 13, poz. 68) na emerytów wojskowych, traci moc obowiązującą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wypłatę dodatku drażyźnianego, wymienionego w art. 1 niniejszej ustawy, uskuteczniać należy, począwszy od dnia 1 stycznia 1920 r. Wypłatę emerytur w podwójnej wysokości, wymienioną w art. 2 niniejszej ustawy, uskuteczniać należy od dnia 1 czerwca 1920 r."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

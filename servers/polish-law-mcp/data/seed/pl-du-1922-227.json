@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-227",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 kwietnia 1922 r. o zmianie w ustawach o uposażeniu z dnia 13 lipca 1920 r. postanowień, dotyczących podziału na grupy ze względu na stosunki rodzinne.",
+  "title_en": "",
+  "short_name": "pl-du-1922-227",
+  "status": "in_force",
+  "issued_date": "1922-04-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/227",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp 4 punkt b art. 5 ustaw z dnia 13 lipca 1920 r. o uposażeniu urzędników i niższych funkcjonarjuszów państwowych oraz o uposażeniu wyższych i niższych funkcjonarjuszów policji państwowej (Dz. U. R. P. № 65 poz. 429 i 431), ustęp 3 punkt b i ustęp 4 art. 5 ustawy z dn. 13 lipca 1920 r. o uposażeniu pracowników kolei państwowych (Dz. U. R. P. № 65 poz. 430) i wreszcie ustęp 4 punkt b art. 10 ustawy z dnia 13 lipca 1920 r. o uposażeniu sędziów i prokuratorów (wymiar sprawiedliwości) Rzeczypospolitej Polskiej (Dz. U. R. P. № 65 poz. 436), otrzymuje brzmienie następujące: „ślubne i uprawnione dzieci, tudzież pasierby do ukończonych lat 18, a o ile uczęszczają do szkól publicznych lub wskutek ułomności fizycznych, umysłowych albo nieuleczalnej choroby nie mogą na swoje utrzymanie zarabiać - do ukończonych lat 24. W wypadkach ułomności fizycznej, umysłowej albo nieuleczalnej choroby, jakoteż w wypadkach, gdy studja przewlekły się ponad wiek 24 lat z powodu służby wojskowej, odbytej na skutek zarządzonej mobilizacji lub uzupełnienia do stanu wojennego, albo z powodu pełnionej w tym czasie służby ochotniczej - władza centralna może w drodze wyjątku, w porozumieniu z Ministrem Skarbu, uwzględnić dzieci w wieku ponad 24 lata z tem, że przedłużony do ukończenia nauk w szkołach publicznych okres czasu wynosić może najwyżej lat 4”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W wypadkach, gdy studja przewlekły się ponad wiek 24 lat z przyczyn, o których mowa w art. 1, dla zaliczenia do wyższe) grupy rodzinnej miarodajną jest chwila wznowienia studjów, chociażby ponowne wstąpienie do szkoły publicznej po ukończeniu 24 lat, względnie ukończenie 24 lat podczas studjów, nastąpiło przed wejściem w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza Się Prezydentowi Ministrów oraz ministrom, którym powierzono wykonanie wyżej powołanych ustaw."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

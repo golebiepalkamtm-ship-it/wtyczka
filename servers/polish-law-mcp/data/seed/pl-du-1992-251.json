@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1992-251",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 czerwca 1992 r. o zmianie ustawy o zobowiązaniach podatkowych.",
+  "title_en": "",
+  "short_name": "pl-du-1992-251",
+  "status": "repealed",
+  "issued_date": "1992-06-05",
+  "in_force_date": "1992-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/251",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych ( Dz. U. Nr 27, poz. 111 , z 1982 r. Nr 45, poz. 289 , z 1984 r. Nr 52, poz. 268 , z 1985 r. Nr 12, poz. 50 , z 1988 r. Nr 41, poz. 325 , z 1989 r. Nr 4, poz. 23 , Nr 33, poz. 176 , Nr 35, poz. 192 i Nr 74, poz. 443 , z 1990 r. Nr 34, poz. 198 , z 1991 r. Nr 100, poz. 442 i Nr 110, poz. 475 oraz z 1992 r. Nr 21, poz. 86 ) art. 28 otrzymuje brzmienie: „ Art. 28. Zobowiązanie podatkowe podlega, na wniosek podatnika, a także z urzędu, potrąceniu ze wzajemnej bezspornej i wymagalnej wierzytelności podatnika wobec Skarbu Państwa, w tym również z należności wynikających z dostawy towarów, wykonywania robót i usług na rzecz państwowych jednostek budżetowych. O dokonaniu potrącenia organ podatkowy zawiadamia podatnika. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

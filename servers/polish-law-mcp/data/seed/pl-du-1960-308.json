@@ -1,0 +1,104 @@
+{
+  "id": "pl-du-1960-308",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 grudnia 1960 r. o sprawach z oskarżenia prywatnego.",
+  "title_en": "",
+  "short_name": "pl-du-1960-308",
+  "status": "repealed",
+  "issued_date": "1960-12-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1960/308",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1. W sprawach z oskarżenia prywatnego rozprawę główną w sądzie pierwszej instancji poprzedza postępowanie pojednawcze. § 2. Postępowanie pojednawcze odbywa się na posiedzeniu niejawnym. § 3. W postępowaniu pojednawczym strony mogą korzystać z pomocy obrońcy i pełnomocnika."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Postępowanie pojednawcze prowadzi sędzia lub ławnik wyznaczony przez prezesa sądu. § 2. Przepisy dotyczące sędziów w zakresie orzekania oraz przewodniczenia stosuje się odpowiednio do ławników."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "§ 1. Posiedzenie w postępowaniu pojednawczym rozpoczyna ustne sprawozdanie prowadzącego postępowanie w przedmiocie oskarżenia oraz wezwanie stron do pojednania się. § 2. Z przebiegu postępowania spisuje się protokół, w którym uwzględnia się w szczególności stanowisko stron wobec wezwania ich do pojednania oraz wyniki przeprowadzonego postępowania pojednawczego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "§ 1. Nieusprawiedliwione niestawiennictwo oskarżyciela prywatnego na posiedzenie wyznaczone w postępowaniu pojednawczym uważa się za odstąpienie od oskarżenia; powoduje ono umorzenie postępowania karnego. § 2. W razie nieusprawiedliwionego niestawiennictwa oskarżonego prowadzący postępowanie pojednawcze wyznacza termin rozprawy głównej; wówczas osoby obecne na posiedzeniu obowiązane są stawić się w nowym terminie bez osobnego wezwania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "§ 1. Pojednanie się stron powoduje umorzenie postępowania karnego. § 2. Treść pojednania powinna być wpisana do protokołu posiedzenia i podpisana przez strony."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W toku postępowania pojednawczego dopuszczalne jest pojednanie się obejmujące również inne sprawy z oskarżenia prywatnego toczące się jednocześnie pomiędzy tymi samymi stronami."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "§ 1. Pojednanie się stron może nastąpić również przez zawarcie ugody. § 2. Przedmiotem ugody mogą być również roszczenia pozostające w związku z przestępstwem. § 3. Ugoda zawarta w postępowaniu pojednawczym jest tytułem egzekucji sądowej po nadaniu przez sąd klauzuli wykonalności."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W razie niedojścia do pojednania prowadzący postępowanie pojednawcze wyznacza termin rozprawy głównej, zawiadamiając o tym ustnie obecne strony. Strony te powinny zgłosić na tym posiedzeniu wnioski o wezwanie świadków oraz o sprowadzenie innych dowodów."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "§ 1. W sprawach z oskarżenia prywatnego sąd umarza postępowanie, jeżeli niebezpieczeństwo społeczne czynu jest znikome. § 2. Przepisu § 1 nie stosuje się w postępowaniu pojednawczym."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "§ 1. W sprawach o przestępstwa określone w art. 255 i 256 kodeksu karnego, a także w art. 239 kodeksu karnego sąd może przekazać sprawę do rozpoznania organizacji społecznej, której członkami są oskarżyciel i oskarżony, jeżeli względy społeczne i okoliczności sprawy za tym przemawiają, w szczególności jeżeli czyn dokonany został na zebraniu organizacji społecznej lub na terenie zakładu pracy, w którym są zatrudnieni oskarżyciel i oskarżony. Na postanowienie sądu nie służy zażalenie. § 2. W sprawach przekazanych na podstawie § 1 organizacja społeczna stosuje środki przewidziane w jej statucie. § 3. Sprawę przekazaną na podstawie § 1 prokurator, jeżeli wymaga tego interes społeczny, może skierować na drogę postępowania sądowego; art. 65 kodeksu postępowania karnego stosuje się odpowiednio. § 4. W przypadku przekazania sprawy na podstawie § 3 rozstrzygnięcie organizacji społecznej nie wiąże sądu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "§ 1. W sprawach o przestępstwa określone w art. 255 kodeksu karnego prezes sądu, nie zarządzając doręczenia odpisu aktu oskarżenia, wnosi sprawę na posiedzenie niejawne w celu: a) odpowiedniego zastosowania art. 251 kodeksu postępowania karnego, b) umorzenia postępowania na podstawie art. 9 § 1, c) przekazania sprawy do rozpoznania organizacji społecznej (art. 10 § 1) bądź też d) skierowania sprawy do postępowania pojednawczego (art. 1). § 2. Na posiedzeniu niejawnym (§ 1) sąd orzeka w składzie jednego sędziego; prezes sądu może zarządzić rozpoznanie sprawy w składzie jednego sędziego i dwóch ławników, jeżeli ze względu na jej okoliczności uzna to za wskazane. § 3. Na rozprawie sąd orzeka w składzie jednego sędziego i dwóch ławników."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "§ 1. W razie pojednania się stron w postępowaniu pojednawczym (art. 1), umorzenia postępowania na podstawie art. 9 § 1 albo przekazania sprawy organizacji społecznej do rozpoznania (art. 10 § 1) prezes sądu zarządza z urzędu zwrot połowy zryczałtowanej równowartości kosztów postępowania karnego wniesionej przez oskarżyciela prywatnego. § 2. Jeżeli pojednanie się stron nastąpiło w innym stadium postępowania, ma zastosowanie art. 442 lit. b) kodeksu postępowania karnego."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Z powodu przestępstwa ściganego z oskarżenia prywatnego nie można wszcząć postępowania karnego po upływie trzech miesięcy, a w przypadku objęcia oskarżenia w sprawie przez prokuratora (art. 65 kodeksu postępowania karnego) - po upływie 6 miesięcy od dnia, w którym pokrzywdzony dowiedział się o osobie sprawcy przestępstwa."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W sprawach z oskarżenia prywatnego stosuje się przepisy kodeksu postępowania karnego, jeżeli przepisy niniejszej ustawy inaczej nie stanowią."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z wyjątkiem art. 10, którego dzień wejścia w życie ustali Rada Ministrów w drodze rozporządzenia wydanego po zasięgnięciu opinii Centralnej Rady Związków Zawodowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_1-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"arti_1-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_3-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_4-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_5-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_7-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"arti_7-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_9-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_10-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"arti_10-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"arti_10-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"arti_11-para_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_11-para_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_11-para_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_11-para_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_11-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"arti_11-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"arti_12-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

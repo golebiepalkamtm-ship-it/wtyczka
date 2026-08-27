@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-157",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 marca 1920 r. w przedmiocie przyznania kredytu 10 miljonów marek na cele urządzenia Kas Chorych w b. zaborze rosyjskim.",
+  "title_en": "",
+  "short_name": "pl-du-1920-157",
+  "status": "in_force",
+  "issued_date": "1920-03-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/157",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przyznaje się do dyspozycji Ministerstwa Pracy i Opieki Społecznej 10 miljonów marek na wydawanie pożyczek krótko, względnie długoterminowych, nie dłuższych jednak niż na lat 20, na cele urządzenia Kas Chorych i Związku Kas Chorych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Pożyczki długoterminowe wydawane będą na przeciąg pierwszych lat 5 bezprocentowo; warunki spłaty i skale oprocentowania na lata następne ustalone będą przez Ministerstwo Pracy i Opieki Społecznej w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pożyczka ta użyta będzie przedewszystkiem na kupno, względnie wydzierżawienie budynków dla Kas Chorych i nieodzowne przeróbki oraz inwestycje w tych budynkach, a także na inne potrzeby Kas Chorych i ich Związków."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "O sposobie użycia tych pożyczek decyduje Sekcja Ubezpieczeń Społecznych Ministerstwa Pracy i Opieki Społecznej w myśl art. 185 dekretu z dnia 11 stycznia 1919 r. (Dz. Pr. z 1919 r. № 9 poz. 122) o obowiązkowem ubezpieczeniu na wypadek choroby."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Minister Pracy i Opieki Społecznej w porozumieniu z Ministrem Skarbu ustali warunki gwarancji Kas Chorych na pożyczki długoterminowe."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Pracy i Opieki Społecznej oraz Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

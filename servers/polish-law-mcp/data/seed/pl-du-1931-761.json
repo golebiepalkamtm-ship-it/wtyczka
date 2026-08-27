@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1931-761",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 października 1931 r. o uiszczeniu niektórych zaległych podatków w naturze na cele bezpośredniej pomocy bezrobotnym.",
+  "title_en": "",
+  "short_name": "pl-du-1931-761",
+  "status": "in_force",
+  "issued_date": "1931-10-22",
+  "in_force_date": "1931-11-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/761",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do poboru zaległych państwowych podatków gruntowego, majątkowego, spadkowego i przemysłowego w naturze, a to: żytem, pszenicą, jęczmieniem, grochem i gryką (tatarką), ziemniakami i węglem, a drzewem opałowem w wyjątkowych wypadkach, określonych w rozporządzeniu wykonawczem."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podatnicy, chcący skorzystać z tego sposobu zapłaty, winni dostarczyć zboże, groch i grykę (tatarkę), ziemniaki, węgiel lub drzewo opałowe na własny koszt organom, wyznaczonym w tym celu przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Węgiel lub drzewo opałowe przyjmowane będą według miejscowych cen rynkowych, zboże zaś, groch i gryka (tatarka) i ziemniaki według cen o 10% wyższych od miejscowych cen rynkowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "O ile celem ściągnięcia zaległości podatkowych władze skarbowe wdrożyły już kroki egzekucyjne, podatnik może uwolnić się od dalszej egzekucji, jeżeli zaległość wraz z narosłemi kosztami egzekucyjnemi uiści w naturze w myśl powyższych postanowień."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Uzyskane w ten sposób artykuły żywności, węgiel i drzewo opałowe mają być użyte wyłącznie na cele bezpośredniej pomocy w naturze dla bezrobotnych i ich rodzin, przyczem artykuły te nie mogą być ani sprzedane, ani też wymieniane na inne."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy oraz wydanie rozporządzeń wykonawczych do niej porucza się Ministrowi Skarbu w porozumieniu z Ministrami Pracy i Opieki Społecznej, Spraw Wewnętrznych, Rolnictwa oraz Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i traci moc obowiązującą w terminie, który zostanie określony przez rozporządzenie Rady Ministrów. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-93",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lutego 1991 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych.",
+  "title_en": "",
+  "short_name": "pl-du-1991-93",
+  "status": "repealed",
+  "issued_date": "1991-02-22",
+  "in_force_date": "1991-03-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/93",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. Nr 24, poz. 110 i z 1982 r. Nr 31, poz. 215 ) wprowadza się następujące zmiany: 1) w art. 6 w ust. 3 wyrazy „rozpoczęte 100 zł” zastępuje się wyrazami „rozpoczęte 1000 zł” ; 2) w art. 8: a) dotychczasową treść oznacza się jako ust. 1, b) dodaje się ust. 2 w brzmieniu: „ 2. Gmina oraz związek gmin nie mają obowiązku uiszczania opłat sądowych, chyba że sprawa dotyczy prowadzonej przez nie działalności gospodarczej. ” ; 3) art. 10 otrzymuje brzmienie: „ Art. 10. Nie pobiera się opłat sądowych od: 1) wniosku o zwolnienie od obowiązku uiszczenia kosztów sądowych oraz od zażalenia na postanowienia w tym przedmiocie, 2) wniosku o zabezpieczenie powództwa lub roszczenia w postępowaniu nieprocesowym - zgłoszonego w piśmie rozpoczynającym postępowanie lub w toku postępowania, 3) wniosku będącego podstawą wszczęcia przez sąd opiekuńczy postępowania z urzędu oraz od pism składanych sądowi opiekuńczemu w wykonaniu obowiązku wynikającego z ustawy albo nałożonego przez ten sąd, 4) wniosku o przyjęcie oświadczenia o uznanie dziecka, o nadanie dziecku nazwiska oraz o przysposobienie dziecka, 5) wniosku o przesłuchanie świadka testamentu ustnego, o otwarcie i ogłoszenie testamentu oraz o zwolnienie z obowiązków wykonawcy testamentu, 6) wniosku o uznanie za zmarłego lub stwierdzenie zgonu osób, których zaginięcie pozostaje w związku z wojną rozpoczętą w dniu 1 września 1939 r., oraz o uchylenie postanowienia orzekającego uznanie za zmarłego lub stwierdzenie zgonu. ” ; 4) w art. 11 dodaje się ust. 5 w brzmieniu: „ 5. Przepisu ust. 2 nie stosuje się do opłat sądowych, których nie miała obowiązku uiścić gmina oraz związek gmin. ” ; 5) w art. 16 dodaje się ust. 4 w brzmieniu: „ 4. Zażalenie oczywiście uzasadnione, wniesione na zarządzenie przewodniczącego o zwrocie pisma lub na postanowienie sądu o odrzuceniu środka zaskarżenia, wolne jest od opłaty sądowej. ” ; 6) w art. 17 po dwukrotnie użytych wyrazach „adwokata” dodaje się wyrazy „lub radcę prawnego” ; 7) art. 26 otrzymuje brzmienie: „ Art. 26. Końcówki opłat zaokrągla się wzwyż do pełnego tysiąca złotych. ” ; 8) w art. 31 ust. 2 otrzymuje brzmienie: „ 2. W orzeczeniu kończącym sprawę w pierwszej instancji sąd ustala sumę wpisu ostatecznego w sprawach o prawa niemajątkowe, mając na względzie stan majątkowy strony obciążonej kosztami oraz rodzaj sprawy i stopień jej zawiłości, a w sprawach o prawa majątkowe - zależnie od wartości przedmiotu sprawy ustalonej w toku postępowania. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

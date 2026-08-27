@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2003-782",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 maja 2003 r. o zmianie ustawy o referendum ogólnokrajowym",
+  "title_en": "",
+  "short_name": "pl-du-2003-782",
+  "status": "amended",
+  "issued_date": "2003-05-10",
+  "in_force_date": "2003-05-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/782",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym ( Dz. U. Nr 57, poz. 507 ) wprowadza się następujące zmiany: 1) w art. 32: a) w ust. 2 pkt 2 otrzymuje brzmienie: „ 2) ustala protokolarnie: a) liczbę niewykorzystanych kart do głosowania, b) liczbę osób uprawnionych do głosowania, czyli liczbę osób ujętych w spisie osób uprawnionych do udziału w referendum, c) liczbę kart wydanych - na podstawie podpisów osób w spisie osób uprawnionych do udziału w referendum. ” , b) dodaje się ust. 4a w brzmieniu: „ 4a. Dane, o których mowa w ust. 2 pkt 2, komisja obwodowa podaje niezwłocznie do wiadomości publicznej, po wykonaniu czynności, o których mowa w ust. 4, przez wywieszenie protokołu, w miejscu łatwo dostępnym dla zainteresowanych, w budynku, w którym mieści się siedziba komisji; przepis art. 25 ust. 4 stosuje się odpowiednio. Wzór protokołu ustala, w drodze uchwały, Państwowa Komisja Wyborcza. ” ; 2) w art. 41: a) dotychczasową treść oznacza się jako ust. 1, b) dodaje się ust. 2 w brzmieniu: „ 2. Zakaz, o którym mowa w ust. 1, nie dotyczy podawania do wiadomości publicznej danych komisji obwodowych, o których mowa w art. 32 ust. 4a. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

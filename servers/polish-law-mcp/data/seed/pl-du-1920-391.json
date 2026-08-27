@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1920-391",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. w przedmiocie 4% państwowej pożyczki premjowej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-391",
+  "status": "in_force",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/391",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia 4% państwowej pożyczki premjowej na warunkach, określonych w następujących artykułach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obligacje pożyczki na okaziciela w odcinkach wyłącznie po 1000 marek polskich sprzedawane będą po kursie nominalnym (al parl) tylko za gotówkę."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stopa procentowa wynosi cztery od sta. Kupony wolne od podatków od kapitałów i rentowych, płatne są z dołu dn. 1 października każdego roku przez wszystkie oddziały Polskiej Krajowej Kasy Pożyczkowej, Pocztowej Kasy Oszczędności, kasy skarbowe oraz inne instytucje, upoważnione przez Ministerstwo Skarbu. Kuponami pożyczki można też płacić cła i podatki państwowe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W ciągu pierwszych dwudziestu lat, począwszy od 2 października 1920 r., w każdą sobotę wylosowywaną będzie jedna wygrana w kwocie miljona marek polskich, płatna bez jakichkolwiek potrąceń przez oddziały Polskiej Krajowej Kasy Pożyczkowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W ciągu następnych dwudziestu lat (1940-1960) pożyczka będzie spłacona po kursie nominalnym przez wylosowywanie obligacji łącznie z temi, na które padły wygrane."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Obligacje pożyczki mają wszelkie prawa papierów pupilarnych, będą przyjmowane w pełnej wartości nominalnej jako wadja przy licytacjach, kaucje akcyzowe i celne, kaucje przy zawieraniu kontraktów ze Skarbem Państwa oraz kaucje, składane do depozytów wszelkich instytucji rządowych w wypadkach, gdy prawo przewiduje składania kaucji pieniężnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje pożyczki będą przyjmowane bez opłaty na przechowanie przez Polską Krajową Kasą Pożyczkową i Pocztową Kasę Oszczędności."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Po wprowadzeniu przyszłej polskiej waluty pożyczka przerachowywana będzie po kursie o l0% wyższym od kursu, ustalonego dla wymiany znaków obiegowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

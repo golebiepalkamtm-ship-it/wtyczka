@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2012-354",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 marca 2012 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego",
+  "title_en": "",
+  "short_name": "pl-du-2012-354",
+  "status": "repealed",
+  "issued_date": "2012-03-02",
+  "in_force_date": "2012-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/354",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego ( Dz. U. z 2010 r. Nr 80, poz. 526 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 139, poz. 814, Nr 207, poz. 1230 i Nr 234, poz. 1385. ) w art. 28 ust. 2 otrzymuje brzmienie: „ 2. Od kwoty, o której mowa w ust. 1, odlicza się 0,4% na rezerwę części oświatowej subwencji ogólnej. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2013 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 127, poz. 857 oraz z 2011 r. Nr 139, poz. 814, Nr 207, poz. 1230 i Nr 234, poz. 1385. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

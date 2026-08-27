@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-67",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 grudnia 2005 r. o zmianie ustawy o świadczeniach rodzinnych",
+  "title_en": "",
+  "short_name": "pl-du-2006-67",
+  "status": "amended",
+  "issued_date": "2005-12-29",
+  "in_force_date": "2006-01-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/67",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ( Dz. U. Nr 228, poz. 2255 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 94, poz. 788, Nr 95, poz. 806, Nr 143, poz. 1199, Nr 164, poz. 1366, Nr 233, poz. 1994 i Nr 267, poz. 2260. ) wprowadza się następujące zmiany: 1) w art. 2 dodaje się pkt 3 i 4 w brzmieniu: „ 3) zapomoga wypłacana przez gminy, na podstawie art. 22a; 4) jednorazowa zapomoga z tytułu urodzenia się dziecka. ” ; 2) w art. 9 uchyla się ust. 5; 3) dodaje się rozdział 2a w brzmieniu: „ Rozdział 2a Jednorazowa zapomoga z tytułu urodzenia się dziecka Art. 15b. 1. Z tytułu urodzenia się żywego dziecka przyznaje się jednorazową zapomogę w wysokości 1 000 zł na jedno dziecko. 2. Zapomoga, o której mowa w ust. 1, przysługuje ojcu lub matce albo opiekunowi prawnemu niezależnie od ich dochodów. 3. Wniosek o wypłatę zapomogi składa się w terminie 3 miesięcy od dnia narodzin. Wniosek złożony po terminie właściwy organ pozostawia bez rozpoznania. Art. 15c. Do świadczenia rodzinnego określonego w niniejszym rozdziale nie stosuje się przepisów art. 23 ust. 3-5. ” ; 4) dodaje się art. 22a w brzmieniu: „ Art. 22a. 1. Rada gminy w drodze uchwały może przyznać zamieszkałym na terenie jej działania osobom jednorazową zapomogę z tytułu urodzenia ich dziecka. 2. Do zapomogi, o której mowa w ust. 1, nie stosuje się przepisów rozdziałów 4, 6 i 7. 3. Szczegółowe zasady udzielania zapomogi określa uchwała rady gminy. 4. W związku z urodzeniem się jednego dziecka może być przyznana tylko jedna zapomoga. 5. Wypłaty zapomóg finansowane są ze środków własnych gminy. ” ; 5) w art. 24 ust. 1 otrzymuje brzmienie: „ 1. Prawo do świadczeń rodzinnych ustala się na okres zasiłkowy, z wyjątkiem świadczeń, o których mowa w art. 9, 14-16 i 15b. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593, Nr 99, poz. 1001 i Nr 192, poz. 1963 oraz z 2005 r. Nr 64, poz. 565, Nr 86, poz. 732, Nr 94, poz. 788, Nr 95, poz. 806, Nr 143, poz. 1199, Nr 164, poz. 1366, Nr 233, poz. 1994 i Nr 267, poz. 2260. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

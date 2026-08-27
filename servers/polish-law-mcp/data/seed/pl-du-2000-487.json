@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2000-487",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 2000 r. o zmianie ustawy o rezerwach państwowych oraz zapasach obowiązkowych paliw.",
+  "title_en": "",
+  "short_name": "pl-du-2000-487",
+  "status": "repealed",
+  "issued_date": "2000-04-28",
+  "in_force_date": "2000-05-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/487",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw ( Dz. U. Nr 90, poz. 404 i Nr 156, poz. 775 oraz z 1997 r. Nr 121, poz. 770 ) wprowadza się następujące zmiany: 1) użyte w art. 4 w ust. 2 w pkt 1, w art. 6 w ust. 1, w art. 17 w ust. 1, 3 i 4, w art. 18 w ust. 2 i 4, w art. 22 w ust. 2 w pkt 1 i w art. 23 w ust. 2 w różnych przypadkach wyrazy „Minister Gospodarki” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw gospodarki” ; 2) użyte w art. 4 w ust. 2 w pkt 2 i w art. 22 w ust. 2 w pkt 2 w różnych przypadkach wyrazy „Minister Zdrowia i Opieki Społecznej” zastępuje się użytymi w tych samych przypadkach wyrazami „minister właściwy do spraw zdrowia” ; 3) w art. 10: a) ust. 3 otrzymuje brzmienie: „ 3. Agencja Rezerw Materiałowych podlega ministrowi właściwemu do spraw gospodarki. ” , b) w ust. 4 wyrazy „Ministra Gospodarki” zastępuje się wyrazami „ministra właściwego do spraw gospodarki” ; 4) w art. 11 ust. 4-6 otrzymują brzmienie: „ 4. Agencja Rezerw Materiałowych działa na podstawie ustawy i statutu. 5. Organizację wewnętrzną i szczegółowy zakres działania Agencji Rezerw Materiałowych określa statut nadany, w drodze rozporządzenia, przez ministra właściwego do spraw gospodarki. 6. Prezes Rady Ministrów określi, w drodze rozporządzenia, wynagrodzenie Prezesa Agencji Rezerw Materiałowych. ” ; 5) w art. 12: a) ust. 3 otrzymuje brzmienie: „ 3. Agencja Rezerw Artykułów Sanitarnych podlega ministrowi właściwemu do spraw zdrowia. ” , b) w ust. 4 wyrazy „Ministra Zdrowia i Opieki Społecznej” zastępuje się wyrazami „ministra właściwego do spraw zdrowia” ; 6) w art. 13 ust. 4-6 otrzymują brzmienie: „ 4. Agencja Rezerw Artykułów Sanitarnych działa na podstawie ustawy i statutu. 5. Organizację wewnętrzną i szczegółowy tryb działania Agencji Rezerw Artykułów Sanitarnych określa statut nadany, w drodze rozporządzenia, przez ministra właściwego do spraw zdrowia. 6. Prezes Rady Ministrów określi, w drodze rozporządzenia, wynagrodzenie Prezesa Agencji Rezerw Artykułów Sanitarnych. ” ; 7) w art. 14: a) w ust. 4 w pkt 2 wyrazy „Ministra Finansów” zastępuje się wyrazami „ministra właściwego do spraw finansów publicznych” , b) dodaje się ust. 6 i 7 w brzmieniu: „ 6. Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji Rezerw Materiałowych. 7. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji Rezerw Artykułów Sanitarnych. ” ; 8) w art. 17 ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób prowadzenia rejestru podmiotów obowiązanych do tworzenia i utrzymywania zapasów obowiązkowych paliw ciekłych, uwzględniając w szczególności datę rozpoczęcia działalności, jej przedmiot, dane o wielkości produkcji oraz to, że jednostką właściwą do prowadzenia rejestru jest Agencja Rezerw Materiałowych. ” ; 9) w art. 22 w ust. 2 w pkt 3 wyrazy „Prezesa Rady Ministrów” zastępuje się wyrazami „ministra właściwego do spraw rynków rolnych” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do czasu wydania przepisów wykonawczych na podstawie przepisów ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres sześciu miesięcy od dnia jej wejścia w życie, zachowują moc dotychczasowe przepisy wykonawcze, jeżeli nie są z nią sprzeczne."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_1-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-371",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 czerwca 1921 r. w przedmiocie zmiany postanowień ust. 2 § 42, ust. 1 § 48, § 54, ust. 2 § 62 i § 85 statutu gminnego dla st. król. miasta Krakowa.",
+  "title_en": "",
+  "short_name": "pl-du-1921-371",
+  "status": "in_force",
+  "issued_date": "1921-06-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/371",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Postanowienia ust. 2 § 42, ust. 1 § 48, § 54, ust. 2 § 62 i § 85 statutu gminnego dla stoł. król. m. Krakowa ustawa z dnia 6 października 1901 r. (Dz. Ust. Kr. № 108) z uwzględnieniem zmian, wprowadzonych przez ustawy z dnia 12 kwietnia 1905 r. (Dz. Ust. Kr. № 70), z dnia 13 listopada 1909 r. (Dz. Ust. Kr. № 148), z dnia 19 grudnia 1910 r. (Dz. Ust. Kr. № 243), z dnia 29 listopada 1911 r. (Dz. Ust. Kr. № 137), z dnia 22 sierpnia 1914 r. (Dz. Ust. Kr. z r. 1915 № 15) i z dnia 19 listopada 1918 r. (№ 161 K. L.)] otrzymują następujące brzmienie: § 42 ust. 2. Urzędowanie prezydenta trwa lat 6, licząc od dnia złożenia przysięgi. Nadto wybiera Rada ze swego grona czterech wice-prezydentów(§48). § 48 ust. 1. Urząd wice-prezydentów trwa do końca tego trzechlecia, w ciągu którego zostali wybrani. Każda odnowiona Rada wybiera czterech wiceprezydentów w sposób, przewidziany w § 43. § 54. Magistrat składa się z prezydenta, wice-prezydentów, dyrektora Magistratu, radców Magistratu oraz innych urzędników. § 62 ust. 2. W razie nieobecności lub przeszkody prezydenta zastępują go w powyższych czynnościach wiceprezydenci w porządku, przez prezydenta miasta oznaczonym, a w razie nieobecności, lub przeszkody wszystkich wice-prezydentów - najstarszy wiekiem radca miejski. § 85. Prezydenta miasta zastępują we wszystkich sprawach, do jego zakresu działania należących, wice-prezydenci, a to w porządku i w sposób, przez niego oznaczony."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie jej porucza się Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

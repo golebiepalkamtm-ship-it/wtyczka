@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2022-2367",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 października 2022 r. o wypowiedzeniu Traktatu Karty Energetycznej oraz Protokołu Karty Energetycznej dotyczącego efektywności energetycznej i odnośnych aspektów ochrony środowiska, sporządzonych w Lizbonie dnia 17 grudnia 1994 r.",
+  "title_en": "",
+  "short_name": "pl-du-2022-2367",
+  "status": "in_force",
+  "issued_date": "2022-10-06",
+  "in_force_date": "2022-11-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2367",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej wypowiedzenia Traktatu Karty Energetycznej oraz Protokołu Karty Energetycznej dotyczącego efektywności energetycznej i odnośnych aspektów ochrony środowiska, sporządzonych w Lizbonie dnia 17 grudnia 1994 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

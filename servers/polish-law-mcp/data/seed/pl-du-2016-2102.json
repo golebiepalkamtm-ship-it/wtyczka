@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2016-2102",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 listopada 2016 r. o zmianie ustawy o ochronie zwierząt",
+  "title_en": "",
+  "short_name": "pl-du-2016-2102",
+  "status": "in_force",
+  "issued_date": "2016-11-15",
+  "in_force_date": "2016-12-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2102",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt ( Dz. U. z 2013 r. poz. 856 , z 2014 r. poz. 1794 , z 2015 r. poz. 266 oraz z 2016 r. poz. 1605 i 1948 ) wprowadza się następujące zmiany: 1) w art. 11 ust. 1 otrzymuje brzmienie: „ 1. Zapobieganie bezdomności zwierząt i zapewnienie opieki bezdomnym zwierzętom oraz ich wyłapywanie należy do zadań własnych gmin. ” ; 2) w art. 11a: a) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Program, o którym mowa w ust. 1, obejmuje w szczególności: ” , b) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Program, o którym mowa w ust. 1, może obejmować plan sterylizacji lub kastracji zwierząt w gminie, przy pełnym poszanowaniu praw właścicieli zwierząt lub innych osób, pod których opieką zwierzęta pozostają. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dotychczasowe uchwały wydane na podstawie art. 11a ust. 1 ustawy zmienianej w art. 1 zachowują moc na okres, na jaki zostały wydane, i mogą być zmieniane na podstawie art. 11a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

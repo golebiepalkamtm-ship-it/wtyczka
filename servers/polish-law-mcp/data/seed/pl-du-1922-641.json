@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-641",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 sierpnia 1922 r. w przedmiocie ratyfikacji konwencji w sprawie urządzenia dróg żeglownych o znaczeniu międzynarodowem, podpisanej w Barcelonie dnia 20 kwietnia 1921 roku.",
+  "title_en": "",
+  "short_name": "pl-du-1922-641",
+  "status": "in_force",
+  "issued_date": "1922-08-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/641",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza konwencję i statut w sprawie urządzenia dróg żeglownych o znaczeniu międzynarodowem, podpisanej w Barcelonie dnia 20 kwietnia 1921 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia Naczelnika Państwa do podpisania ratyfikacji rzeczonej konwencji w imieniu Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy zleca się Ministrowi Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

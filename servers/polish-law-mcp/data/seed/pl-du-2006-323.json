@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-323",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 stycznia 2006 r. o ratyfikacji Porozumienia między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Europejską Wspólnotą Energii Atomowej a Międzynarodową Agencją Energii Atomowej dotyczącego wprowadzenia w życie artykułu III ustępy 1 i 4 Układu o nierozprzestrzenianiu broni jądrowej",
+  "title_en": "",
+  "short_name": "pl-du-2006-323",
+  "status": "in_force",
+  "issued_date": "2006-01-26",
+  "in_force_date": "2006-03-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/323",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Porozumienia między Królestwem Belgii, Królestwem Danii, Republiką Federalną Niemiec, Irlandią, Republiką Włoską, Wielkim Księstwem Luksemburga, Królestwem Niderlandów, Europejską Wspólnotą Energii Atomowej a Międzynarodową Agencją Energii Atomowej dotyczącego wprowadzenia w życie artykułu III ustępy 1 i 4 Układu o nierozprzestrzenianiu broni jądrowej, podpisanego w Brukseli dnia 5 kwietnia 1973 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

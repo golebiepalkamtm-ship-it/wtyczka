@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2008-1182",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 września 2008 r. o zmianie ustawy o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe",
+  "title_en": "",
+  "short_name": "pl-du-2008-1182",
+  "status": "amended",
+  "issued_date": "2008-09-05",
+  "in_force_date": "2008-10-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1182",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 października 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe ( Dz. U. Nr 119, poz. 567 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 52, poz. 236, z 1997 r. Nr 6, poz. 32, z 2000 r. Nr 39, poz. 442, z 2005 r. Nr 167, poz. 1398 oraz z 2006 r. Nr 220, poz. 1614. ) uchyla się art. 5."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do spraw wszczętych, a niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 52, poz. 236, z 1997 r. Nr 6, poz. 32, z 2000 r. Nr 39, poz. 442, z 2005 r. Nr 167, poz. 1398 oraz z 2006 r. Nr 220, poz. 1614. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

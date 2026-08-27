@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2015-622",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 kwietnia 2015 r. o ustanowieniu Narodowego Dnia Zwycięstwa",
+  "title_en": "",
+  "short_name": "pl-du-2015-622",
+  "status": "in_force",
+  "issued_date": "2015-04-24",
+  "in_force_date": "2015-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/622",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu upamiętnienia zwycięstwa nad hitlerowskimi Niemcami dzień 8 maja ustanawia się Narodowym Dniem Zwycięstwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Narodowy Dzień Zwycięstwa jest świętem państwowym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Znosi się Narodowe Święto Zwycięstwa i Wolności ustanowione na dzień 9 maja."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Traci moc dekret z dnia 8 maja 1945 r. o ustanowieniu Narodowego Święta Zwycięstwa i Wolności ( Dz. U. Nr 21, poz. 116 oraz z 1951 r. Nr 4, poz. 28 ) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

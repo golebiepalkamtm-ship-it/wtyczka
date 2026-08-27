@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-386",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 sierpnia 1919 r. o odpowiedzialności osób wojskowych za przestępstwa z chęci zysku.",
+  "title_en": "",
+  "short_name": "pl-du-1919-386",
+  "status": "repealed",
+  "issued_date": "1919-08-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/386",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "śmiercią karani będą wojskowi, winni przewidzianych w ustawach karnych popełnionych w czasie odbywania służby wojskowej: a) kradzieży lub przywłaszczenia (sprzeniewierzenia) podczas służby, lub z naruszeniem wojskowego obowiązku służbowego przedmiotów dostępnych lub powierzonych im z powodu służby, lub stosunku służbowego; b) kradzieży, lub przywłaszczenia (sprzeniewierzenia) dobra wojskowego; c) oszustwa na szkodę skarbu wojskowego, jeżeli szkoda wyrządzona lub zamierzona we wszystkich trzech powyższych wypadkach (a, b, c), przekracza 2.000 mk. (4.000 koron)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Śmiercią karani będą wojskowi, winni przewidzianego w ustawach karnych, w czasie odbywania służby wojskowej popełnionego, przyjęcia podarunku lub innej korzyści majątkowej, bądź obietnicy takiego podarunku albo korzyści majątkowej, danych w celu skłonienia do naruszenia obowiązków przy rozstrzyganiu spraw urzędowych lub służbowych. W wypadkach mniejszej wagi wymierzona być może kara ciężkiego więzienia (domu karnego), bezterminowego (dożywotniego) lub od lat 4-ch do 15-tu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wojskowi, winni innego, przewidzianego w ustawach karnych przyjęcia podarunku lub korzyści majątkowej lub obietnicy tychże, albo domagania się ich, albo ściągania na swoją korzyść nienależnych opłat lub świadczeń, jeżeli przestępstwo to pozostaje w związku z pełnieniem przez nich obowiązków urzędowych lub służbowych - ulegną karze ciężkiego więzienia (domu karnego) od lat 4 do 10, o ile w myśl postanowień odnośnych przepisów karnych, nie należy wymierzyć kary surowszej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Karom przewidzianym w art. 1 do 3 ulegną tak główni sprawcy, jak też i wszyscy inni wojskowi, uczestnicy przestępstwa, także w tym wypadku, gdy sprawcą głównym przestępstw w art. 1 wymienionych będzie osoba cywilna."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przestępstwa wymienione w art. 1 do 3 uważane będą zawsze za zbrodnie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Z pod działania niniejszej ustawy wyjęci są wojskowi, którzy w chwili popełnienia przestępstw w art. 1 do 3 wymienionych nie ukończyli 18 lat życia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza zyskuje moc obowiązującą z dniem ogłoszenia w Dzienniku Praw Państwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Rada Ministrów władna będzie uchylić moc obowiązującą niniejszej ustawy. Uchwała ta wymaga zatwierdzenia Naczelnika Państwa i ogłoszona będzie w Dzienniku Praw. Z tą chwilą postanowienia ustaw karnych, dotyczące kar za przestępstwa w niniejszej ustawie wymienione, odzyskują moc prawną."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy należy do Ministerstwa Spraw Wojskowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

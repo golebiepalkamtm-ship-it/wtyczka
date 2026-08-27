@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-227",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 kwietnia 1921 r. o zmianie artykułów 10 i 12 ustawy Polskiej Krajowej Kasy Pożyczkowej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-227",
+  "status": "in_force",
+  "issued_date": "1921-04-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/227",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuły 10 i 12 ustawy Polskiej Krajowej Kasy Pożyczkowej. z dnia 7 grudnia 1918 r. (Dz. Pr. № 19, poz. 56) otrzymują brzmienie następujące: Art. 10. Polska Krajowa Kasa Pożyczkowa: 1) przyjmuje wkłady gotówkowe na rachunki: a) terminowe, b) bezterminowe (a vista) i c) rachunki przekazowe; 2) wydaje: a) przekazy krajowe, b) ustalone osobną ustawą zagraniczne przekazy kasowe. Wkłady gotówkowe mogą być przyjmowane bezprocentowo lub na oprocentowanie, stosownie do przepisów, które wyda Minister Skarbu. Art. 12. Polska Krajowa Kasa Pożyczkowa może wydawać na zasadzie uchwał sejmowych krótkoterminowe, najwyżej 6 miesięczne pożyczki Skarbowi Państwa na zastaw zobowiązań skarbowych i gminom na zastaw ich obligów. Polska Krajowa Kasa Pożyczkowa może pobierać procenty jedynie za tę część pożyczek, udzielonych Skarbowi Państwa, która przewyższa sumę rzeczywiście dokonanej niepokrytej emisji biletów Polskiej Krajowej Kasy Pożyczkowej, obliczoną bez włączenia emisji, dokonanych na podstawie art. 2 z dnia 26 marca 1920 r. (Dz. Ust. № 31, poz. 179). Wysokość procentu, przewidzianego w ustępie poprzednim, ustala Rada Ministrów, na wniosek Ministra Skarbu. Wysokość stopy procentowej od pożyczek, zaciągniętych przez gminy w Polskiej Krajowej Kasie Pożyczkowej, ustala Minister Skarbu na wniosek dyrekcji Polskiej Krajowej Kasy Pożyczkowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

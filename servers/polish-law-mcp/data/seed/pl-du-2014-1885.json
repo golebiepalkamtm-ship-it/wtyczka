@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2014-1885",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 2014 r. o zmianie ustawy o swobodzie działalności gospodarczej",
+  "title_en": "",
+  "short_name": "pl-du-2014-1885",
+  "status": "repealed",
+  "issued_date": "2014-12-05",
+  "in_force_date": "2014-12-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1885",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ( Dz. U. z 2013 r. poz. 672 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133, 1138 i 1146. ) w art. 20 ust. 1 i 2 otrzymują brzmienie: „ 1. Przedsiębiorca wprowadzający towar do obrotu na terytorium Rzeczypospolitej Polskiej jest obowiązany do zamieszczenia na towarze, jego opakowaniu, etykiecie, instrukcji lub do dostarczenia w inny, zwyczajowo przyjęty sposób, pisemnych informacji w języku polskim: 1) określających firmę producenta w rozumieniu art. 3 pkt 2 ustawy z dnia 12 grudnia 2003 r. o ogólnym bezpieczeństwie produktów ( Dz. U. Nr 229, poz. 2275 , z późn. zm. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106, z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586 oraz z 2014 r. poz. 1662. ) i jego adres, a także państwo siedziby wytwórcy, jeżeli ma on siedzibę poza terytorium państw członkowskich Unii Europejskiej i państw członkowskich Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) - stron umowy o Europejskim Obszarze Gospodarczym; 2) umożliwiających identyfikację towaru, chyba że przeznaczenie towaru jest oczywiste. 2. Przepis ust. 1 nie dotyczy towarów, w stosunku do których przepisy odrębne szczegółowo regulują obowiązki w zakresie oznakowania. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisu art. 20 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie stosuje się do towarów: 1) wprowadzonych do obrotu na terytorium Rzeczypospolitej Polskiej, przed dniem wejścia w życie niniejszej ustawy, zgodnie z art. 20 ust. 1 ustawy wymienionej w art. 1 w brzmieniu dotychczasowym; 2) wprowadzanych do obrotu na terytorium Rzeczypospolitej Polskiej od dnia wejścia w życie niniejszej ustawy, zgodnie z art. 20 ust. 1 ustawy wymienionej w art. 1 w brzmieniu dotychczasowym, nie dłużej niż przez 36 miesięcy od dnia jej wejścia w życie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 17 kwietnia 2014 r., pod numerem 2014/0182/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. Nr 239, poz. 2039 oraz z 2004 r. Nr 65, poz. 597), które wdraża postanowienia dyrektywy 98/34/WE Parlamentu Europejskiego i Rady z dnia 22 czerwca 1998 r. ustanawiającej procedurę udzielania informacji w dziedzinie norm i przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (Dz. Urz. WE L 204 z 21.07.1998, str. 37, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 20, str. 337, z późn. zm.). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822, 1133, 1138 i 1146. 3) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 35, poz. 215, z 2008 r. Nr 157, poz. 976, z 2009 r. Nr 18, poz. 97 i Nr 20, poz. 106, z 2011 r. Nr 63, poz. 322 i Nr 102, poz. 586 oraz z 2014 r. poz. 1662. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

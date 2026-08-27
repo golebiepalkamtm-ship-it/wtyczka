@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1920-455",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. w przedmiocie wewnętrznej przymusowej pożyczki państwowej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-455",
+  "status": "repealed",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/455",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się rząd do przeprowadzenia po zamknięciu subskrybcji na rozpisane w myśl ustaw z dn. 27 lutego 1920 r. 5% krótko i długoterminową wewnętrzne pożyczki państwowe (Dz. Ust. № 21 poz. 115 oraz № 25 poz. 152), nowej wewnętrznej przymusowej pożyczki państwowej na ogólnych zasadach, wyrażonych w następujących artykułach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wewnętrzną przymusową pożyczkę państwową wypuścić należy w postaci pożyczki rentowej, oprocentowanej w wysokości trzech od sta."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Obligacjom wewnętrznej przymusowej pożyczki państwowej przyznać należy prawa, służące obligacjom 5% długoterminowej wewnętrznej pożyczki państwowej w myśl art. 5 i 6 ustawy z dn. 27 lutego 1920 r. (Dz. Ust. № 25 poz. 152)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wewnętrzną przymusową pożyczkę państwową wypuści się w sumie 15 miljardów marek. Sumę tę zmniejsza się w zależności od wyników subskrybcji na 5% długoterminową wewnętrzną pożyczkę państwową z r. 1920, nie wliczając atoli do sumy tej pożyczki wpłat, uzyskanych drogą konwersji asygnat pożyczki z 1918 roku i obligacji austrjackich pożyczek wojennych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Do pokrycia wewnętrznej przymusowej pożyczki państwowej należy pociągnąć; a) osoby prawne, trudniące się działalnością, obliczoną na zysk i z tego tytułu opodatkowane; b) osoby fizyczne, których majątek ruchomy lub nieruchomy przedstawia wartość wyższą od 100.000 marek lub roczny dochód z pracy zarobkowej jest wyższy od 36.000 marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przy rozkładzie pożyczki przymusowej należy zastosować stopę progresyjną, zaczynającą się od 2% najniższego majątku, a kończącą się na 20% wartości majątku, przekraczającego 5 miljonów marek, względnie przy dochodzie z pracy zarobkowej zaczynającą się od 5% dochodu, a kończącą się na 35% dochodu przy dochodzie wyższym od 1.000.000 marek."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Uiszczenie pokrycia wewnętrznej przymusowej pożyczki państwowej powinno być rozłożone na dwie raty. Repartycji należności za pierwszą z tych rat dokonać powinny na podstawie wielokrotności sum płaconych podatków państwowych władze skarbowe, wyznaczone przez Ministra Skarbu. Repartycji drugiej raty pożyczki dokonać należy na podstawie oszacowania majątku, względnie dochodu. Repartycje tej raty pożyczki powierzyć należy specjalnie powołanym komisjom repartycyjnym z udziałem przedstawicieli ludności."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Osoby, które w myśl art. 9 ustawy z dnia 27 lutego 1920 r. (Dz. Ust. № 25 poz. 152) wylegitymują się z nabycia i posiadania obligacji 5% długoterminowej pożyczki państwowej z 1920 r., są zwolnione od obowiązku pokrycia wewnętrznej przymusowej pożyczki państwowej do pełnej wysokości sumy posiadanych obligacji pożyczki długoterminowej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Skarbu jest upoważniony do wypuszczenia obligacji pożyczki przymusowej w pierwszym terminie jej płatności po kursach niższych od nominalnego od l% do 10%, w drugim terminie płatności po kursach wyższych od nominalnego od 1% do 10%. Minister Skarbu określi w drodze rozporządzenia sposób, w jaki mogą spełnić zobowiązanie, wynikające z niniejszej ustawy, płatnicy, nie posiadający dostatecznej gotówki, a rozporządzający innemi wartościami majątkowemi na zabezpieczenie wpłaty pożyczki przymusowej, jak: nieruchomościami, towarami i t. p. Do tych zaś, którzy nie zastosują się do postanowień niniejszej ustawy w terminach, określonych w rozporządzeniu Ministra Skarbu, będą stosowane postanowienia przymusowe i karne, przewidziane w ustawie o podatku dochodowym i uzupełniającym majątkowym."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie tej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

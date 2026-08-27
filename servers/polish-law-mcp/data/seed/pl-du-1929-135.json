@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1929-135",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lutego 1929 r. w sprawie uzupełnienia niektórych postanowień rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu karno-administracyjnem.",
+  "title_en": "",
+  "short_name": "pl-du-1929-135",
+  "status": "repealed",
+  "issued_date": "1929-02-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/135",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W granicach upoważnień, zawartych w ustawach, obowiązujących na obszarze województw: lwowskiego, krakowskiego, stanisławowskiego, tarnopolskiego i cieszyńskiej części województwa śląskiego, na których podstawie władze i organa gminne mogły przed wejściem w życie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu karno-administracyjnem (Dz. U. R. P. Nr 38, poz. 365) nakładać kary pieniężne, względnie aresztu, są one z mocy niniejszej ustawy uprawnione do wydawania nakazów karnych w trybie art. 45 ust. 1 powyższego rozporządzenia Prezydenta Rzeczypospolitej w zastępstwie powiatowej władzy administracji ogólnej, a bez upoważnienia wojewody, wymaganego powołanym art. 45 ust. 3. Do nakładania kar w trybie nakazów karnych uprawnieni są naczelnicy gmin (wójt, burmistrz, prezydent miasta)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na obszarze województw: poznańskiego, pomorskiego i górnośląskiej części województwa śląskiego służy z mocy niniejszej ustawy miejscowym władzom policyjnym w zastępstwie powiatowej władzy administracji ogólnej, a bez upoważnienia wojewody, wymaganego art. 45 ust. 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu karno-administracyjnem (Dz. U. R. P. Nr 38, poz. 365) prawo wydawania nakazów karnych w trybie art. 45 ust. 1 powyższego rozporządzenia co do przestępstw, do których z mocy szczególnych przepisów ustaw, dekretów i rozporządzeń, wydanych przez władze polskie, miała przed wejściem w życie tego rozporządzenia zastosowanie ustawa z dnia 23 kwietnia 1883 r., dotycząca wydawania policyjnych zarządzeń karnych przeciw wykroczeniom (Zb. Ust. Pr. str. 65)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stosowanie nakazów karnych przez władze i organa, wymienione w art. 1 i 2, jest dopuszczalne także w wypadkach, w których przysługiwało im prawo orzekania o odszkodowaniu lub konfiskacie, o ile wysokość szkody, względnie wartość skonfiskowanego przedmiotu nie przenosi kwoty 30 zł."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Grzywny, wymierzone na podstawie art. 1 lub 2, oraz skonfiskowane na podstawie art. 3 przedmioty, względnie kwoty, uzyskane za nie drogą sprzedaży, przypadają w razie braku odmiennych postanowień w ustawach szczególnych na obszarze województw, wymienionych w art. 1, na rzecz gminy z przeznaczeniem na cele opieki społecznej, zaś na obszarze, określonym w art. 2, na rzecz tego, kto ponosi rzeczowe koszty miejscowego zarządu policyjnego. Na pozostałym obszarze Rzeczypospolitej Polskiej wpływają grzywny, nałożone przez władze gminne w trybie, przewidzianym w art. 45 powołanego wyżej rozporządzęnia Prezydenta Rzeczypospolitej Polskiej, o ile szczególne ustawy nie stanowią inaczej, na rzecz gminy i mają być użyte na cele opieki społecznej. Postanowienia ustępu pierwszego mają zastosowanie wówczas, gdy orzeczenie karne wydaje powiatowa władza administracji ogólnej na skutek sprzeciwu, przewidzianego w art. 46 rozporządzenia Prezydenta Rzeczypospolitej o postępowaniu karno-administracyjnem. W wypadku skierowania sprawy na drogę sądową grzywny, orzeczone przez sąd, przypadają na rzecz Skarbu Państwa, o ile ustawa szczególna nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych oraz Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie czternastu dni od jej ogłoszenia. Do spraw, wszczętych przed dniem wejścia w życie niniejszej ustawy, mają zastosowanie przepisy dotychczasowe rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu karno-administracyjnem (Dz. U. R. P. Nr 38, poz. 365). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

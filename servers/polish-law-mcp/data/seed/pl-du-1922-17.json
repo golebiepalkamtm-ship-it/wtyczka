@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 stycznia 1922 r. o dodatku za studja wyższe dla urzędników państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1922-17",
+  "status": "in_force",
+  "issued_date": "1922-01-10",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych, dodatek za studja wyższe, przyznany urzędnikom państwowym, pracownikom kolei państwowych, funkcjonarjuszom policji państwowej, profesorom szkół akademickich, nauczycielom i dyrektorom państwowych szkół średnich, ogólnokształcących, seminarjów nauczycielskich i preparand oraz wizytatorom szkół, nauczycielom w średnich szkołach zawodowych oraz dyrektorom szkół zawodowych, na zasadzie ustaw z dnia 13 lipca 1920 r. (Dz. U. R. P. № 65, poz. 429, 430, 431, 432, 433 i 435) zmieniać się będzie w stosunku, w jakim pozostaje każdorazowy mnożnik dodatku drożyźnianego dla miejscowości klasy pierwszej do mnożnika 150 (stupięćdziesięciu)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dodatek za studja wyższe, przyznany nauczycielom i dyrektorom państwowych szkół średnich ogólnokształcących, seminarjów nauczycielskich i preparand oraz wizytatorom szkół, nauczycielom w średnich szkołach zawodowych jakoteż dyrektorom szkół zawodowych oblicza się na podstawie płacy zasadniczej tego stopnia służbowego, wedle którego, otrzymują powyżsi pracownicy dodatek drożyźniany."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezydentowi Ministrów w porozumieniu z Ministrem Skarbu oraz Ministrami Kolei Żelaznych, Spraw Wewnętrznych, Wyznań Religijnych i Oświecenia Publicznego, o ile chodzi o byłą dzielnicą pruską-Ministrowi b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1922 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

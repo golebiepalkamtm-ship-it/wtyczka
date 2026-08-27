@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1936-222",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1936 r. w sprawie zmiany ustawy z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu.",
+  "title_en": "",
+  "short_name": "pl-du-1936-222",
+  "status": "in_force",
+  "issued_date": "1936-04-09",
+  "in_force_date": "1936-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/222",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu (Dz. U. R. P. Nr. 2/20 r. poz. 7) według brzmienia jednolitego tekstu (Obwieszczenie Ministra Opieki Społecznej z dnia 25 października 1933 r. Dz. U. R. P. Nr. 94/33 r. poz. 734) wprowadza się zmiany następujące: W art. 16 ustawy dodaje się nowy ustęp 2-gi o brzmieniu następującem: „ Wynagrodzenie za pracę w godzinach nadliczbowych według zasad, określonych w ustępie poprzednim, przysługuje pracownikowi również w wypadkach, gdy pracodawca nie uzyskał zezwolenia na przedłużenie czasu pracy wskutek odmowy ze strony władz, bądź wskutek braku odpowiedniego wystąpienia pracodawcy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Opieki Społecznej w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

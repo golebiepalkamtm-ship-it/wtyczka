@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1935-164",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1935 r. o wykonywaniu przewozu osób kolejami użytku prywatnego.",
+  "title_en": "",
+  "short_name": "pl-du-1935-164",
+  "status": "repealed",
+  "issued_date": "1935-03-18",
+  "in_force_date": "1935-04-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/164",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przewóz osób kolejami użytku prywatnego może być wykonywany ubocznie obok właściwego przeznaczenia gospodarczego kolei na podstawie pozwolenia Ministra Komunikacji, jeżeli tego wymagają potrzeby komunikacyjne ludności okolicznej lub względy turystyczne."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Warunki wykonywania przewozu osób kolejami użytku prywatnego określa Minister Komunikacji w pozwoleniu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Komunikacji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

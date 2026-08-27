@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1935-99",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1935 r. o oznaczaniu wagi na ładunkach przewożonych na statkach.",
+  "title_en": "",
+  "short_name": "pl-du-1935-99",
+  "status": "repealed",
+  "issued_date": "1935-01-31",
+  "in_force_date": "1935-03-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/99",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Na każdej przesyłce opakowanej częściowo lub w całości, mającej tysiąc lub więcej kilogramów wagi brutto, oraz na każdym innym przedmiocie tejże wagi, przeznaczonych do przewiezienia morzem lub drogą wodną śródlądową, nadanych na obszarze Rzeczypospolitej, powinna być przed załadowaniem na statek oznaczona waga zwierzchu ładunku lub w innem miejscu łatwo dostrzegalnem, cyframi i literami nie mniejszemi niż 8 cm długości, o barwie wybitnie odróżniającej się od barwy opakowania towaru lub od barwy towaru i nie dającej się zmyć wodą. (2) Obowiązek oznaczania wagi w sposób, wskazany w ust. (1), ciąży na wysyłającym ładunek, jeśli zaś ładunek nadaje ekspedytor - na ekspedytorze."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W przypadkach wyjątkowych, gdy trudno jest oznaczyć wagę ładunku ściśle, wysyłający lub ekspedytor będą mogli wskazać wagę przybliżoną."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nad przestrzeganiem przepisów ustawy niniejszej czuwa Urząd Morski w Gdyni oraz inspekcja pracy, a w żegludze śródlądowej organa powołane do inspekcji tej żeglugi oraz inspekcja pracy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W przypadku, gdy wysyłający lub ekspedytor nie oznaczyli wagi ładunku, Urząd Morski w Gdyni, albo organa powołane do inspekcji żeglugi śródlądowej zarządzają oznaczenie wagi na koszt wysyłającego lub ekspedytora."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W razie uporczywego przekraczania przepisów ustawy niniejszej Dyrektor Urzędu Morskiego w Gdyni lub organa powołane do inspekcji żeglugi śródlądowej mogą nakładać na wysyłających lub ekspedytorów kary grzywny do 200 zł."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Opieki Społecznej oraz Przemysłu i Handlu, a w odniesieniu do żeglugi śródlądowej - Ministrom: Opieki Społecznej oraz Komunikacji."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa mniejsza wchodzi w życie w miesiąc po ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

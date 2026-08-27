@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1974-115",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 maja 1974 r. o urzędzie Ministra Spraw Zagranicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1974-115",
+  "status": "repealed",
+  "issued_date": "1974-05-29",
+  "in_force_date": "1974-06-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1974/115",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Minister Spraw Zagranicznych jest naczelnym organem administracji państwowej w dziedzinie polityki zagranicznej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Spraw Zagranicznych należy w szczególności: 1) opracowywanie założeń i realizacja polityki zagranicznej Polskiej Rzeczypospolitej Ludowej zgodnie z kierunkami i wytycznymi ustalanymi przez Radę Ministrów, 2) reprezentowanie Polskiej Rzeczypospolitej Ludowej w stosunkach z innymi państwami oraz w organizacjach międzynarodowych w zakresie swojej właściwości, 3) reprezentowanie i ochrona interesów Polskiej Rzeczypospolitej Ludowej i jej obywateli oraz polskich osób prawnych za granicą, 4) programowanie generalnej polityki traktatowej Polskiej Rzeczypospolitej Ludowej, 5) propagowanie celów i zasad polityki zagranicznej Polskiej Rzeczypospolitej Ludowej w kraju i za granicą oraz prowadzenie i koordynowanie działalności informacyjnej o Polskiej Rzeczypospolitej Ludowej za granicą, 6) utrzymywanie i zacieśnianie więzi z Polonią zagraniczną, 7) polityczne koordynowanie działalności ministrów (kierowników urzędów i instytucji centralnych) w dziedzinie stosunków z zagranicą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Spraw Zagranicznych ustala organizację i kieruje działalnością przedstawicielstw dyplomatycznych i urzędów konsularnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rada Ministrów określi w drodze rozporządzenia szczegółowy zakres działania Ministra Spraw Zagranicznych oraz nada statut Ministerstwu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

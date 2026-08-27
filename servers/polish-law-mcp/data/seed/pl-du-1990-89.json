@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1990-89",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 1990 r. o likwidacji Wspólnoty Węgla Kamiennego i Wspólnoty Energetyki i Węgla Brunatnego oraz o zmianie niektórych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-1990-89",
+  "status": "in_force",
+  "issued_date": "1990-02-24",
+  "in_force_date": "1990-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/89",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wspólnota Węgla Kamiennego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Węgla Kamiennego ( Dz. U. Nr 33, poz. 183 ) , oraz Wspólnota Energetyki i Węgla Brunatnego, utworzona ustawą z dnia 23 października 1987 r. o utworzeniu Wspólnoty Energetyki i Węgla Brunatnego ( Dz. U. Nr 33, poz. 184 ) , zwane dalej „wspólnotami”, przechodzą w stan likwidacji z dniem wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obowiązki i zadania likwidatora wspólnot powierza się Ministrowi Przemysłu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pozostały po zakończeniu likwidacji nie należący do innych osób prawnych majątek wspólnot przechodzi na własność Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Do likwidacji wspólnot stosuje się odpowiednio przepisy o likwidacji przedsiębiorstw państwowych, chyba że ustawa stanowi inaczej. 2. Rada Ministrów może określić, w drodze rozporządzenia, szczególny tryb likwidacji wspólnot."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W okresie postępowania likwidacyjnego wspólnoty i ich organy działają na dotychczasowych zasadach, chyba że ustawa stanowi inaczej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Przemysłu w okresie likwidacji może: 1) powierzyć organom wspólnoty wykonywanie niektórych czynności likwidacyjnych, 2) ograniczyć zakres zadań organów wspólnoty, 3) powoływać i odwoływać wszystkich członków rad nadzorczych wspólnot."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Minister Przemysłu wyłącza w trakcie postępowania likwidacyjnego poszczególne jednostki organizacyjne ze zgrupowania we wspólnocie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Rada Ministrów może powierzyć, w drodze rozporządzenia, wykonywanie niektórych zadań oraz uprawnień wspólnot naczelnym organom administracji państwowej lub innym organom administracji, mieszczących się w ich ustawowo określonych zakresach działania, a także upoważnić do powierzenia wykonywania tych zadań powołanym przez te organy jednostkom organizacyjnym. 2. Rada Ministrów określi, w drodze rozporządzenia, szczególne zasady gospodarki finansowej jednostek, o których mowa w ust. 1, a także obowiązki podmiotów gospodarczych prowadzących działalność w dziedzinie górnictwa i energetyki, w zakresie pokrywania kosztów wykonywania zadań tych jednostek."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Znosi się Państwową Radę Górnictwa i Państwową Radę Gospodarki Energetycznej. 2. W dekrecie z dnia 6 maja 1953 r. - Prawo górnicze ( Dz. U. z 1978 r. Nr 4, poz. 12 , z 1984 r. Nr 35, poz. 186 , z 1987 r. Nr 33, poz. 180 , z 1988 r. Nr 41, poz. 324 i z 1989 r. Nr 35, poz. 192 ) skreśla się art. 147 3. W ustawie z dnia 6 kwietnia 1984 r. o gospodarce energetycznej ( Dz. U. Nr 21, poz. 96 , z 1987 r. Nr 33, poz. 180 , z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 35, poz. 192 ) skreśla się art. 12."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Z dniem 30 września 1990 r. tracą moc ustawy: 1) z dnia 23 października 1987 r. o utworzeniu Wspólnoty Węgla Kamiennego ( Dz. U. Nr 33, poz. 183 ) , 2) z dnia 23 października 1987 r. o utworzeniu Wspólnoty Energetyki i Węgla Brunatnego ( Dz. U. Nr 33, poz. 184 ) ."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

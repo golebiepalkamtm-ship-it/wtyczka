@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1921-767",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 grudnia 1921 r. o umowach nabycia nieruchomości, sporządzonych na imię osób podstawionych, oraz o wykupie majątków, sprzedanych z powodu ograniczeń narodowości polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-767",
+  "status": "in_force",
+  "issued_date": "1921-12-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/767",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby narodowości polskiej, które z powodu przepisów ograniczających rosyjskich ustaw: a) z dnia 14 marca 1897 roku o nabywaniu przez cudzoziemców nieruchomości na własność lub terminowe posiadanie i użytkowanie (ros. Zb. Pr. i Rozp. № 43 poz. 378 z 1887 r.), b) ustawy z dnia 13 lipca 1871 r. o nabywaniu majątków poduchownych (ros. Zb. Pr. i Rozp. № 73 z 1871 r.), c) ustaw z dnia 10 grudnia 1865 r. o zakazie osobom narodowości polskiej nabywania majątków w 9 guberniach zachodnich (pełny Zb. Pr. № 42759), z dnia 27 grudnia 1884 r. o nabywaniu, zastawie i dzierżawie gruntów w tychże guberniach (ros. Zb. Pr. i Rozp. z 1885 r. poz. 36) i z dnia 2 lutego 1891 r. o zakazie oddawania gruntów w dożywotne posiadanie (ros. Zb. Pr. i Rozp. z 1891 r. poz. 366) nabyły przed 1 sierpnia 1914 r. nieruchomości na imię osób podstawionych lub za aktami nieformalnemi, mogą postawić odpowiednie żądanie w celu uprawnienia swego nabycia. Tacy nabywcy mogą powoływać się na dowód ze świadków tylko w razie oddania im w posiadanie spornej nieruchomości."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Postanowienia art. 1 stosują się również do umów nabycia nieruchomości za pośrednictwem b. Banku Włościańskiego na imię osób podstawionych z powodu stosowania ograniczeń przeciwko osobom pochodzenia polskiego oraz z powodu przekroczenia co do przestrzeni nabywa niego gruntu norm, przewidzianych w art. 63 statutu tegoż Banku (wyda nie 1912 r.). W tych wypadkach Zarząd Likwidacyjny Oddziałów Banku Włościańskiego na terenie Państwa Polskiego może udzielać zezwoleń na przepisanie prawa własności bez względu na powyższe normy. Dla wszczęcia powództwa w sprawach powyższych nie jest konieczna zgoda utworzonej na zasadzie statutu Banku Włościańskiego spółki na zmianę składu swoich spólników."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Osoby, wskazane w art. 1, mogą żądać na drodze sądowej zwrotu swoich majątków, sprzedanych po 13 stycznia 1835 r. wskutek wydania powołanych w art. 1 ustaw z 27 grudnia 1884 r. i 2 lutego 1891 r., o ile majątki te znajdują się jeszcze w rękach pierwotnego nabywcy lub jego spadkobierców, albo osób, które od nich otrzymały ten majątek pod tytułem darmym. Żądający zwrotu winien obecnemu właścicielowi wypłacić cenę, którą określi sąd orzekający według ceny przeciętnej podobnych nieruchomości w ostatnich pięciu latach przed wytoczeniem powództwa z potrąceniem istniejących obciążeń ulegającego wykupowi majątku."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawa, w artykułach 1 - 3 przewidziane, służą również zstępnym osób, wskazanych w art. 1."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wszelkie wyroki i decyzje sądowe, niezgodne z zasadami niniejszej ustawy, na żądanie osób interesowanych, postawione w drodze powództwa, mogą być uznane za nieszkodzące ich prawom, płynącym z tej ustawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Żądania, w poprzednich artykułach wymienione, mogą być postawione najpóźniej w przeciągu lat pięciu od daty ogłoszenia niniejszej ustawy. Przeciwko powyższym żądaniom, postawionym w tym ierminie, nie można bronić się przedawnieniem. Nabyte w dobrej wierze prawa osób trzecich pozostają w swej mocy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza obowiązuje na obszarze b. zaboru rosyjskiego z dniem jej ogłoszenia. Wykonanie jej powierza się Ministrowi Sprawiedliwości i Prezesowi Głównego Urzędu Ziemskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

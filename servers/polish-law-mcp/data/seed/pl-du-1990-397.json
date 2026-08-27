@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-397",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 września 1990 r. o zmianie Konstytucji Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-397",
+  "status": "repealed",
+  "issued_date": "1990-09-27",
+  "in_force_date": "1990-10-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/397",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Konstytucji Rzeczypospolitej Polskiej ( Dz. U. z 1976 r. Nr 7, poz. 36 , z 1980 r. Nr 22, poz. 81 , z 1982 r. Nr 11, poz. 83 , z 1983 r. Nr 39, poz. 175 , z 1987 r. Nr 14, poz. 82 , z 1988 r. Nr 19, poz. 129 , z 1989 r. Nr 19, poz. 101 i Nr 75, poz. 444 oraz z 1990 r. Nr 16, poz. 94 i Nr 29, poz. 171 ) wprowadza się następujące zmiany: 1) w art. 32a: a) ust. 1-3 otrzymują brzmienie: „ 1. Prezydent jest wybierany przez Naród. 2. Prezydent jest wybierany na lat pięć i może być ponownie wybierany tylko jeden raz. 3. Prezydentem może być wybrany każdy obywatel polski, który ukończył 35 lat i korzysta z pełni praw wyborczych do Sejmu. ” , b) dodaje się ust. 5 w brzmieniu: „ 5. Wybory Prezydenta zarządza Marszałek Sejmu nie wcześniej niż na cztery miesiące i nie później niż na trzy miesiące przed upływem kadencji urzędującego Prezydenta, a w razie opróżnienia urzędu Prezydenta - nie później niż w czternastym dniu po opróżnieniu urzędu, wyznaczając datę wyborów przypadającą w ciągu dwóch miesięcy od dnia zarządzenia wyborów. Wybory odbywają się w dniu wolnym od pracy. ” ; 2) w art. 32b: a) ust. 1 otrzymuje brzmienie: „ 1. Marszałek Sejmu zwołuje Sejm i Senat połączone w Zgromadzenie Narodowe w celu: 1) stwierdzenia ważności wyboru i przyjęcia przysięgi od nowo wybranego Prezydenta, 2) uznania trwałej niezdolności Prezydenta do sprawowania urzędu ze względu na stan zdrowia, 3) rozpatrzenia sprawy postawienia Prezydenta w stan oskarżenia przed Trybunałem Stanu. ” , b) ust. 2, 4 i 5 skreśla się; 3) w art. 32c w ust. 1 w zdaniu pierwszym wyraz „ślubowania” zastępuje się wyrazem „przysięgi” oraz w treści roty wyrazy „z woli Zgromadzenia Narodowego” skreśla się, a użyty dwukrotnie wyraz „ślubuję” zastępuje się wyrazem „przysięgam” ; 4) tytuł rozdziału 9 otrzymuje brzmienie: „ Zasady wyborów do Sejmu i Senatu oraz Prezydenta ” 5) w art. 94 dodaje się ust. 3 w brzmieniu: „ 3. Wybory Prezydenta są powszechne, równe, bezpośrednie i odbywają się w głosowaniu tajnym. ” ; 6) w art. 100 po wyrazie „senatorów.” dodaje się wyrazy „oraz na Prezydenta” ; 7) art. 102 otrzymuje brzmienie: „ Art. 102. Sposób zgłaszania kandydatów i przeprowadzenia wyborów posłów, senatorów oraz Prezydenta określają ustawy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Kadencja Prezydenta Rzeczypospolitej Polskiej wybranego przez Zgromadzenie Narodowe w dniu 19 lipca 1989 r. ulega skróceniu i wygasa z chwilą objęcia urzędu przez Prezydenta wybranego w wyborach powszechnych. 2. Pierwsze powszechne wybory Prezydenta zarządza Marszałek Sejmu nie później niż w ciągu dwóch miesięcy od daty wejścia w życie niniejszej ustawy, wyznaczając datę wyborów na dzień ustawowo wolny od pracy, przypadający w okresie dwóch miesięcy od dnia zarządzenia wyborów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

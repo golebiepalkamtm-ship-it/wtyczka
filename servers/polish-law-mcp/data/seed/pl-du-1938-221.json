@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-221",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1938 r. o zmianie ustawy w przedmiocie zaopatrzenia weteranów powstań narodowych z 1831 r., 1848 r. i 1863 r. oraz wdów po nich.",
+  "title_en": "",
+  "short_name": "pl-du-1938-221",
+  "status": "in_force",
+  "issued_date": "1938-04-09",
+  "in_force_date": "1938-04-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/221",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 marca 1922 r. w przedmiocie zaopatrzenia weteranów powstań narodowych z 1831 r., 1848 r. i 1863 r. oraz wdów po nich ( Dz. U. R. P. Nr 26, poz. 212 ) , zmienionej rozporządzeniem Prezydenta Rzeczypospolitej z dnia 7 października 1927 r. ( Dz. U. R. P. Nr 88, poz. 791 ) , wprowadza się zmiany następujące: 1) art. 2 otrzymuje brzmienie: „ Art. 2. Zaopatrzenie weteranów składa się: a) z pensji, b) z dodatku pielęgnacyjnego, c) z leczenia i opieki społecznej. ” ; 2) art. 3 otrzymuje brzmienie: „ Art. 3. Miesięczna pensja weterana samotnego wynosi 125 zł, żonatego - 150 zł. Dodatek pielęgnacyjny wynosi 75 zł miesięcznie. ” ; 3) w art. 4 wyraz „uposażenia” zastępuje się wyrazem „pensji” ; 4) w art. 6 zdanie pierwsze otrzymuje brzmienie: „ Pensja wdowia wynosi 75 zł miesięcznie. ” ; 5) w art. 10 w ust. 1 przepis, oznaczony lit. b), otrzymuje brzmienie: „ b) gdy osoba, uprawniona do zaopatrzenia, zostanie prawomocnie skazana na karę dodatkową utraty praw publicznych lub utratę obywatelskich praw honorowych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrami Skarbu i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia 1 stycznia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

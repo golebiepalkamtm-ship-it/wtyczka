@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-389",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. o podwyższeniu podatku gruntowego na obszarze b. zaboru austrjacko węgierskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-389",
+  "status": "in_force",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/389",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Stopę procentową podatku gruntowego, obowiązującego na obszarze b. zaboru austrjacko-węgierskiego, podwyższa się do wysokości 350% czystego dochodu katastralnego, poczynając od dn. 1 stycznia 1920 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Począwszy od wskazanego w art. 1 terminu, znosi się wymiar i pobór dodatków państwowych do podatku gruntowego podług rozporządzeń cesarskich z dnia 28 sierpnia 1916 r. (Dz. u. p. № 280) i 16 marca 1917 r. (Dz. u. p. № 124). Posiadacze gospodarstw rolnych i leśnych, dla których roczny wymiar podatku gruntowego wyniesie wedle niniejszej ustawy mniej niż 20 marek, są wolni od tego podatku, o ile nie są obowiązani do płacenia podatku dochodowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Za podstawę do wymiaru należytości w myśl § 130 ustawy z dnia 9 lutego 1850 r. (Dz. u. p. № 50) ma być przyjmowana, jako najniższa wartość nieruchomości, podlegającej podatkowi gruntowemu, 4% krotna kwota podatku gruntowego w wysokości, określonej w art. 1 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Postanowienia rozporządzenia cesarskiego z dnia 16 marca 1917 r. (Dz. u. p. № 124) o ulgach w podatku gruntowym z powodu klęsk żywiołowych oraz rozporządzenia wykonawczego z dnia 25 grudnia 1917 r. (Dz. u. p. № 516) pozostają nadal w mocy. Uchyla się natomiast postanowienia § 3 ustawy z dnia 23 stycznia 1914 r. (Dz. u. p. № 14) oraz § 4 ustawy z dnia 24 maja 1869 r. (Dz. u. p. № 88) w brzmieniu ustawy z dnia 28 marca 1880 r. (Dz. u. p. № 34)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Za podstawę do obliczania dodatków autonomicznych do podatku gruntowego służy wysokość podatku gruntowego, określona w art. 1 niniejszej ustawy. Wysokość obciążenia gruntowego dodatkiem do podatku na rzecz funduszu krajowego nie ulega zmianie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje przez r. 1920 i 1921."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1920-181",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1920 r. w sprawie zmiany artykułu 1 ustawy z dnia 27 stycznia 1920 r. w przedmiocie przyznania nadzwyczajnego dodatku drożyźnianego urzędnikom i funkcjonarjuszom państwowym, egzekutorom podatkowym, funkcjonarjuszom kolei państwowych, nauczycielom szkół powszechnych i zawodowych, państwowych szkół średnich, seminarjów nauczycielskich i preparand oraz szkół wyższych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-181",
+  "status": "in_force",
+  "issued_date": "1920-03-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/181",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tabelę wymiarową, stanowiącą ustęp 2-gi art. 1 ustawy z dnia 27 stycznia 1920 r. (Dz. Ust. № 7 poz. 47) zmienia się w ten sposób, iż w rubryce drugiej po słowach: „uposażenie ze Skarbu Państwa” wstawia się słowa: „dla wdowców i wdów bezdzietnych”; zaś rubryka trzecia otrzymuje brzmienie następujące: „dla żonatych i zamężnych, bezdzietnych lub z 1 dzieckiem, dla wdowców lub wdów z 1 lub 2-giem dzieci”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

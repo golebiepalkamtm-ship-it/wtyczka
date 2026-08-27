@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1989-286",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 sierpnia 1989 r. o zmianach w wykonywaniu budżetu państwa w 1989 r.",
+  "title_en": "",
+  "short_name": "pl-du-1989-286",
+  "status": "repealed",
+  "issued_date": "1989-08-23",
+  "in_force_date": "1989-08-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/286",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. W okresie od dnia 1 lipca do dnia 30 września 1989 r. wydatki budżetu państwa, określone w ustawie budżetowej na rok 1989 z dnia 15 lutego 1989 r. ( Dz. U. Nr 7, poz. 45 i Nr 25, poz. 134 ) , mogą być ponoszone do wysokości określonej w załączniku do niniejszej ustawy. 2. Kredyt udzielony przez Narodowy Bank Polski na finansowanie niedoboru budżetu centralnego w 1989 r. nie może przekroczyć w okresie do dnia 30 września 1989 r. wysokości zadłużenia budżetu państwa z tytułu tego kredytu na dzień 16 sierpnia 1989 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Banki w okresie do dnia 31 grudnia 1989 r. realizują w pierwszej kolejności tytuły egzekucyjne (sądowe, arbitrażowe i administracyjne) oraz przelewy należności budżetowych w ciężar rachunków podmiotów gospodarczych niezależnie od kolejności wynikającej z dyspozycji posiadaczy tych rachunków."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stawki odsetek za zwłokę, o których mowa w art. 18 ust. 4 ustawy budżetowej na rok 1989 z dnia 15 lutego 1989 r. ( Dz. U. Nr 7, poz. 45 i Nr 25, poz. 134 ) , nie mogą przekraczać określonej na podstawie odrębnych przepisów wysokości odsetek maksymalnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z tym że art. 1 ust. 1 z mocą od dnia 1 lipca 1989 r. Załącznik - Wydatki budżetu państwa Lp. Treść Kwota wydatków w mld zł Ogółem wydatki budżetu państwa 8.430 1 Dopłaty do cen towarów i usług dla ludności 3.027 2 Dotacje dla przedsiębiorstw 3 Rozliczenia z bankami 255 4 Wydatki jednostek i zadań gospodarczych 529 5 Nauka 21 6 Oświata i wychowanie 1.209 7 Szkolnictwo wyższe 174 8 Kultura i sztuka 111 9 Ochrona zdrowia i opieka społeczna, kultura fizyczna i sport oraz turystyka i wypoczynek 1.160 10 Ubezpieczenia społeczne 442 11 Obrona narodowa 531 12 Administracja, wymiar sprawiedliwości, prokuratura i bezpieczeństwo publiczne 585 w tym: - administracja państwowa 231 - wymiar sprawiedliwości 95 - bezpieczeństwo publiczne 259 13 Dotacja na Fundusz Obsługi Zadłużenia Zagranicznego 287 14 Pozostałe wydatki bieżące 28 15 Wydatki na inwestycje i remonty kapitalne 71 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Wydatki budżetu państwa\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

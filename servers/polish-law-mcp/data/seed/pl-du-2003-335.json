@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2003-335",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 stycznia 2003 r. o zmianie ustawy o Komitecie Badań Naukowych",
+  "title_en": "",
+  "short_name": "pl-du-2003-335",
+  "status": "repealed",
+  "issued_date": "2003-01-10",
+  "in_force_date": "2003-03-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/335",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 stycznia 1991 r. o Komitecie Badań Naukowych ( Dz. U. z 2001 r. Nr 33, poz. 389 ) art. 13 otrzymuje brzmienie: „ Art. 13. Komitet wykonuje swoje zadania przy pomocy ministerstwa obsługującego ministra właściwego do spraw nauki. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zniesienia urzędu Komitetu Badań Naukowych i przekształcenia tego urzędu w ministerstwo obsługujące ministra właściwego do spraw nauki stosuje się odpowiednio przepisy art. 39 ust. 1-1c ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ( Dz. U. z 2003 r. Nr 24, poz. 199 ) ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Należności i zobowiązania znoszonego urzędu Komitetu Badań Naukowych stają się, z zastrzeżeniem ust. 2, należnościami i zobowiązaniami ministra właściwego do spraw nauki. 2. Prawa i obowiązki wynikające z umów i porozumień zawartych przez znoszony urząd Komitetu Badań Naukowych lub na jego rzecz przejmuje minister właściwy do spraw nauki."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Z dniem utworzenia ministerstwa obsługującego ministra właściwego do spraw nauki pracownicy znoszonego urzędu Komitetu Badań Naukowych stają się pracownikami tego ministerstwa. 2. Dyrektor Generalny znoszonego urzędu Komitetu Badań Naukowych, w terminie 7 dni od dnia ogłoszenia ustawy, jest obowiązany zawiadomić na piśmie pracowników o zmianach, jakie mają nastąpić w zakresie ich stosunków pracy. Przepisy art. 23 1 § 4 Kodeksu pracy stosuje się odpowiednio. 3. Stosunki pracy z pracownikami, o których mowa w ust. 1, wygasają po upływie trzech miesięcy od dnia przejścia do ministerstwa obsługującego ministra właściwego do spraw nauki, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie nieprzyjęcia nowych warunków pracy lub płacy. 4. Wcześniejsze rozwiązanie stosunku pracy z pracownikiem może nastąpić za wypowiedzeniem. 5. W przypadku wygaśnięcia stosunku pracy, o którym mowa w ust. 3, lub wypowiedzenia, o którym mowa w ust. 4, pracownikom przysługują świadczenia przewidziane dla pracowników, z którymi stosunki pracy rozwiązuje się z powodu likwidacji urzędu. 6. Przepisów ust. 2 zdanie drugie oraz ust. 3 i 4 nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy z dnia 18 grudnia 1998 r. o służbie cywilnej ( Dz. U. z 1999 r. Nr 49, poz. 483 , Nr 70, poz. 778 i Nr 110, poz. 1255 , z 2001 r. Nr 102, poz. 1116 , Nr 111, poz. 1194 , Nr 128, poz. 1403 i Nr 154, poz. 1800 oraz z 2002 r. Nr 150, poz. 1237 , Nr 153, poz. 1271 i Nr 240, poz. 2052 ) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

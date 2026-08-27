@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-159",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy o drogach publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2018-159",
+  "status": "amended",
+  "issued_date": "2017-12-08",
+  "in_force_date": "2018-01-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/159",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 marca 1985 r. o drogach publicznych ( Dz. U. z 2017 r. poz. 2222 oraz z 2018 r. poz. 12 i 138 ) wprowadza się następujące zmiany: 1) w art. 4 po pkt 11a dodaje się pkt 11b w brzmieniu: „ 11b) droga o znaczeniu obronnym - droga publiczna lub jej odcinek, wyznaczona w okresie pokoju, przewidziana do wykorzystania w czasie pokoju, kryzysu lub wojny do wykonywania przewozów istotnych dla obronności państwa oraz zobowiązań sojuszniczych; ” ; 2) w art. 4a ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw transportu w porozumieniu z Ministrem Obrony Narodowej określi, w drodze zarządzenia, wykaz dróg o znaczeniu obronnym lub ich odcinków. Zarządzenie to nie podlega ogłoszeniu. ” ; 3) w art. 5 w ust. 1 uchyla się pkt 7; 4) w art. 6 ust. 1 otrzymuje brzmienie: „ 1. Do dróg wojewódzkich zalicza się drogi inne niż określone w art. 5 ust. 1, stanowiące połączenia między miastami lub mające znaczenie dla województwa. ” ; 5) w art. 10 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Pozbawienie drogi o znaczeniu obronnym dotychczasowej kategorii jest możliwe jedynie w przypadku jednoczesnego zaliczenia tej drogi do nowej kategorii. Przepis ust. 3 zdanie drugie stosuje się. ” ; 6) w art. 18 w ust. 2: a) pkt 2 otrzymuje brzmienie: „ 2) przygotowanie dróg krajowych, których jest zarządcą, na potrzeby obrony państwa; ” , b) po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) nadzór nad przygotowaniem innych niż określone w pkt 2 dróg publicznych na potrzeby obrony państwa zgodnie z zaleceniami ministra właściwego do spraw transportu; ” ; 7) w art. 19 dodaje się ust. 9 w brzmieniu: „ 9. Zadania na drogach o znaczeniu obronnym wykonywane w ramach przygotowań obronnych państwa ujętych w programach obronnych, o których mowa w art. 6 ust. 2 pkt 1 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej ( Dz. U. z 2017 r. poz. 1430 i 2217 oraz z 2018 r. poz. 138 ) , są finansowane z budżetu państwa w ramach wydatków obronnych, o których mowa w art. 7 ustawy z dnia 25 maja 2001 r. o przebudowie i modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej ( Dz. U. z 2018 r. poz. 37 ) . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\",\"children\": [{\"id\": \"arti_1-pint_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

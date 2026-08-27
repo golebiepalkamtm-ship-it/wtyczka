@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1921-181",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1921 r. w przedmiocie zmiany przepisów o wymiarze grzywien, nawiązek i wynagrodnego w b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-181",
+  "status": "in_force",
+  "issued_date": "1921-03-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/181",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kwoty pieniężne, określające według obowiązujących w b. dzielnicy pruskiej, a przed dniem 8 stycznia 1919 r. wydanych ustaw i rozporządzeń niemieckich i pruskich najwyższe granice wymiaru lub stały wymiar grzywien pojedynczych i zbiorowych (jako środków karnych, dyscyplinarnych, porządkowych, oraz sądowo i administracyjno - egzekucyjnych), nawiązek i wynagrodnego, lub najwyższą granicą upoważnień organów władzy dyscyplinarnej do nakładania grzywien w drodze dyscyplinarnej (porządkowej) - podwyższa się dziesięciokrotnie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "I. W niemieckiej ustawie karnej z dnia 15 maja 1871 r. (Dz. Ust. Rz. str. 40) zmienia się: a) w ustępach 2 i 3 § 1 kwotę: „sto pięćdziesiąt marek” na kwotę: „ tysiąc pięćset marek ” ; b) w ustępie 2 § 28 kwotę: „sześćset marek” na kwotę: „sześć tysięcy marek”; c) w ustępie 1 § 29 kwoty: „piętnaście marek” na kwoty: „sto pięćdziesiąt marek”; d) w ustępie 1 l. 4 i 5 § 70 kwotę: „sześć tysięcy marek” na kwotę: „sześćdziesiąt tysięcy marek”; e) w ustępie 1 l. 6 § 70 kwotę: „sto pięćdziesiąt marek” na kwotę: „tysiąc pięćset marek”; II. W niemieckiej ustawie o ustroju sądownictwa z dnia 27 stycznia 1877 r. (Dz. Ust. Rz. 1877 r., str. 41; 1898 r. str. 371) zmienia się: a) w § 27 l. 2 kwotę: „sześćset marek” na kwotę: „sześć tysięcy marek”; b) w § 27 l. 4, 5, 6, 7 w brzmieniu punktu 4 art. 1 rozporządzenia Ministra b. Dzielnicy Pruskiej z dnia 23 czerwca 1920 r. (Dz. Urz. № 34 poz. 304) kwotę: „tysiąc marek” na - „tysiąc pięćset marek”; c) w § 28 kwotę: „stopięćdziesiątmarek” na kwotę: „tysiąc pięćset marek”; d) w § 29 w brzmieniu niemieckiej ustawy o uproszczeniu wymiaru sprawiedliwości w sprawach karnych z dnia 21 października 1917 r. (Dz. Ust. Rz. 1917 r., str. 1037) kwotę: „tysiąc pięćset marek” na kwotę: „piętnaście tysięcy marek.” Postanowienia ustępów 2 i 3 art. III niemieckiej ustawy o uproszczeniu wymiaru sprawiedliwości w sprawach karnych z dnia 21 października 1917 r. (Dz. Ust. Rz. 1917 r., str. 1037) uchyla się. III. W pruskiej ustawie o wydawaniu policyjnych rozporządzeń karnych z powodu wykroczeń z dnia 23 kwietnia 1883 r. (Zb. Ust. str. 65) zmienia się w ustępie 3 § 1 kwotę: „trzydzieści marek” na kwotę: „trzysta marek.” IV. W pruskiej ustawie o kradzieżach leśnych z dnia 15 kwietnia 1876 r. (Zb. Ust. str. 222) zmienia się w ustępie 2 § 13 kwotę: „pięć marek” na kwotę: „pięćdziesiąt marek”. V. W pruskiej ustawie o policji polnej i leśnej z dnia 1 kwietnia 1880 r. (Zb. Ust. str. 230) zmienia się w § 6 kwotę: „dziesięć marek” na kwotę: „sto marek”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z upływem miesiąca, następującego po miesiącu, w którym ją ogłoszono."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie tej ustawy powierza się Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\",\"children\": [{\"id\": \"arti_2-none_I-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-none_I-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-none_I-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-none_I-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-none_I-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_2-none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\",\"children\": [{\"id\": \"arti_2-none_II-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-none_II-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-none_II-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-none_II-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2-none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III.\"},{\"id\": \"arti_2-none_IV\",\"symbol\": \"none_IV\",\"type\": \"none\",\"name\": \"IV\",\"title\": \"IV.\"},{\"id\": \"arti_2-none_V\",\"symbol\": \"none_V\",\"type\": \"none\",\"name\": \"V\",\"title\": \"V.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

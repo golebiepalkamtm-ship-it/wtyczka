@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-1416",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 lipca 2005 r. o zmianie ustawy - Kodeks postępowania karnego",
+  "title_en": "",
+  "short_name": "pl-du-2005-1416",
+  "status": "amended",
+  "issued_date": "2005-07-07",
+  "in_force_date": "2005-09-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1416",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ( Dz. U. Nr 89, poz. 555 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203 i Nr 163, poz. 1363. ) art. 464 otrzymuje brzmienie: „ Art. 464. § 1. Strony oraz obrońcy i pełnomocnicy mają prawo wziąć udział w posiedzeniu sądu odwoławczego rozpoznającego zażalenie na postanowienie kończące postępowanie oraz na zatrzymanie. Mają oni prawo do udziału w posiedzeniu sądu odwoławczego także wtedy, gdy przysługuje im prawo udziału w posiedzeniu sądu pierwszej instancji. § 2. W innych wypadkach sąd odwoławczy może zezwolić stronom lub obrońcy albo pełnomocnikowi na wzięcie udziału w posiedzeniu. § 3. Przepis art. 451 stosuje się odpowiednio, gdy przedmiotem posiedzenia ma być rozpoznanie zażalenia na postanowienie kończące postępowanie oraz na zatrzymanie. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 83, poz. 931, z 2000 r. Nr 50, poz. 580, Nr 62, poz. 717, Nr 73, poz. 852 i Nr 93, poz. 1027, z 2001 r. Nr 98, poz. 1071 i Nr 106, poz. 1149, z 2002 r. Nr 74, poz. 676, z 2003 r. Nr 17, poz. 155, Nr 111, poz. 1061 i Nr 130, poz. 1188, z 2004 r. Nr 51, poz. 514, Nr 69, poz. 626, Nr 93, poz. 889, Nr 240, poz. 2405 i Nr 264, poz. 2641 oraz z 2005 r. Nr 10, poz. 70, Nr 48, poz. 461, Nr 77, poz. 680, Nr 96, poz. 821, Nr 141, poz. 1181, Nr 143, poz. 1203 i Nr 163, poz. 1363. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

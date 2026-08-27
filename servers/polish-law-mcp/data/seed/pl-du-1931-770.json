@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-770",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 listopada 1931 r. w sprawie częściowej zmiany ustawy z dnia 22 lipca 1925 r. o uregulowaniu obrotu cukrem na obszarze Rzeczypospolitej.",
+  "title_en": "",
+  "short_name": "pl-du-1931-770",
+  "status": "repealed",
+  "issued_date": "1931-11-05",
+  "in_force_date": "1931-11-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/770",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 22 lipca 1925 r. o uregulowaniu obrotu cukrem na obszarze Rzeczypospolitej (Dz. U. R. P. Nr 90, poz. 630) ulega następującym zmianom: 1) Art. 7 ustawy otrzymuje brzmienie: „ Cukrowniom wolno będzie odstępować swe udziały w kontyngencie zasadniczym i zapasowym, jak również w wypadku, przewidzianym w art. 12 niniejszej ustawy, w kontyngencie eksportowym w całości lub w części, innym cukrowniom na warunkach, przewidzianych w rozporządzeniu wykonawczem do niniejszej ustawy ” . 2) Art. 12 ustawy otrzymuje brzmienie: „ Cukier, nie objęty kontyngentem zasadniczym ani zapasowym, może być wypuszczony z cukrowni na rynek wewnętrzny do spożycia jedynie za opłatą podatku spożywczego w wysokości, ustalonej dla cukru, wprowadzonego do wolnego obrotu ponad ilość, określoną kontyngentem, i to dopiero po wyczerpaniu przypadającego w danym okresie ogólnego kontyngentu zasadniczego wszystkich cukrowni. Cukier taki może być wywożony zagranicę Rzeczypospolitej bez ograniczeń i opłat celnych. Natomiast w razie zawarcia międzynarodowego porozumienia cukrowniczego w celu uregulowania eksportu cukru i udziału w tem porozumieniu, za zgodą Ministrów Skarbu, Rolnictwa i Przemysłu i Handlu, polskiego przemysłu cukrowniczego, Minister Skarbu w porozumieniu z Ministrami Rolnictwa i Przemysłu i Handlu będzie wyznaczał kontyngent eksportowy cukru w wysokości nie wyższej od przewidzianej dla polskiego eksportu w takiem porozumieniu międzynarodowem. Rozdział kontyngentu eksportowego będzie dokonywany przez Ministra Skarbu w porozumieniu z Ministrami Rolnictwa i Przemysłu i Handlu pomiędzy cukrownie, należące do takiego porozumienia międzynarodowego, a które będa czynne w danej kampanji na obszarze Rzeczypospolitej, proporcjonalnie do ich rzeczywistej produkcji. W tym wypadku będą obowiązywały następujące postanowienia: a) w ramach uzyskanych udziałów w kontyngencie eksportowym cukrownie będą mogły wywozić cukier zagranicę bez żadnych ograniczeń; b) cukier, wyprodukowany ponad kontyngent zasadniczy, zapasowy i eksportowy, jak również cukier, wyprodukowany przez cukrownie, nie posiadające udziału w kontyngencie eksportowym, będzie podlegał przy wywozie zagranicę opłacie w wysokości 100 zł. od każdych 100 kg.; c) udział w kontyngencie eksportowym, nie wykorzystany przez cukrownie w okresie, na który został przeznaczony, będzie wygasał z upływem tego okresu ” . 3) Art. 13 otrzymuje brzmienie: „ Przekroczenia ustawy niniejszej oraz wydanych na jej podstawie przepisów będą karane grzywną do 200.000 zł. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

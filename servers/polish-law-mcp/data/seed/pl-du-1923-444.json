@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1923-444",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 kwietnia 1923 r. o przekazaniu uniwersytetowi Jana Kazimierza we Lwowie budynków posejmowych.",
+  "title_en": "",
+  "short_name": "pl-du-1923-444",
+  "status": "in_force",
+  "issued_date": "1923-04-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/444",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Budynki, położone między ulicami: Marszałkowską, Mickiewicza i Kościuszki we Lwowie (1 k. 717 2/4 i 586 2/4A, objęty wykazem 652 II jako „gmach sejmowy”; 1 k. 717 lit. A. 2/4, objęty wykazem 653 II; tudzież 1 k. 1320 2/4, objęty wykazem 1490 II), które należały dawniej do Galicyjskiego Funduszu Krajowego, na podstawie zaś ustawy z dnia 30 stycznia 1920 r. (Dz. U. R. P. № 11 poz. 61) stały się własnością państwową - przekazuje się na stałe i wyłączne używanie uniwersytetowi Jana Kazimierza we Lwowie z wyłączeniem budynku, zajętego przez Polski Bank Krajowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zarząd budynków, w art. 1 wymienianych, oddany zostanie do 14 dni po wejściu w życie niniejszej ustawy władzom akademickim uniwersytetu Jana Kazimierza."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Budynki, wymienione w art. 1, zostaną opróżnione i oddane w całości do użytku uniwersytetu Jana Kazimierza w czasie możliwie krótkim, najpóźniej zaś w przeciągu roku, licząc od dnia ogłoszenia niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Budynek przy ul. Smolki 3 we Lwowie, który należał dawniej do Galicyjskiego Funduszu Krajowego, na mocy zaś ustawy z dnia 30 stycznia 1920 r. (Dz. U. R. P. № 11 poz. 61) stał się własnością państwową, przekazuje się na staję i wyłączne używanie ciału samorządowemu województwa lwowskiego (ustawa z dnia 26 września 1922 r.-Dz. U. R. P. № 90 poz. 829). Dopóki ciało to nie zostanie utworzone, przysługuje prawo zarządu nad wymienionym budynkiem Tymczasowemu Wydziałowi Samorządowemu we Lwowie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Co do budynków, wymienionych w art. 1 i 4, uchyla się działanie ustawy z dnia 18 grudnia 1920 r. (Dz. U. R. P. z r. 1921 № 4 poz. 19)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza stanowi tytuł prawny do intabulacji prawa używania nieruchomości, wymienionych w art. 1 i 4, w myśl wymogów § 26 austr. ustawy z dnia 25 lipca 1871 r. (Austr. Dzien. Ust. № 95)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Bibljotekę b. Wydziału Krajowego we Lwowie, która na mocy ustawy z dnia 30 stycznia 1920 r. (Dz. U. R. P. № 11 poz. 61) stałą się własnością państwową i znajduje się pod zarządem Tymczasowego Wydziału Samorządowego, przekazuje gis, uniwersytetowi Jana Kazimierza we Lwowie z wyjątkiem dzieł treści technicznej, które mają być oddane przyszłym organom samorządu wojewódzkiego, a narazie Tymczasowemu Wydziałowi Samorządowemu we Lwowie, oraz tych dzieł, wchodzących w zakres nauk prawnych, politycznych, społecznych i ekonomicznych, które uniwersytet Jana Kazimierza już posiada, a które przekazuje się Bibljotece Sejmu i Senatu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów w porozumieniu z właściwymi Ministrami."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

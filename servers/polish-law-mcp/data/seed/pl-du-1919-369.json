@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1919-369",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 1919 r. o przebudowie węzła kolejowego warszawskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1919-369",
+  "status": "in_force",
+  "issued_date": "1919-07-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/369",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do poczynienia wszelkich potrzebnych czynności celem przebudowy węzła kolejowego warszawskiego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Kosztorys przebudowy zatwierdzi Rada Ministrów na wniosek Ministra Kolei Żelaznych, a potrzebne kredyty wstawi Ministerstwo Kolei Żelaznych corocznie w preliminowanej wysokości do budżetu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nieruchomości, objęte ogólnym projektem przebudowy, podlegają przymusowemu wywłaszczeniu w trybie przez dekret z dnia 7 lutego 1919 r. (Dz. Pr. № 14, poz. 162) przewidzianym."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Kolei Żelaznych mocen jest już teraz, a więc przed zatwierdzeniem kosztorysu, przystąpić do natychmiastowego rozpoczęcia przebudowy węzła kolejowego warszawskiego według planu, przez Ministra ułożonego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Na te natychmiastowe roboty przyznaje się Ministrowi Kolei Żelaznych na rok 1919 kredyt w wysokości 15 miljonów marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy należy do Ministra Kolei Żelaznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-15",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1924 r. o zatwierdzeniu zmian w statucie Banku Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1925-15",
+  "status": "in_force",
+  "issued_date": "1924-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/15",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na podstawie art. 12 statutu Banku Polskiego (załącznik do rozporządzenia Prezydenta Rzeczypospolitej z dnia 20 stycznia 1924 r. - Dz. U. R. P. z 1924 r. № 8, poz. 75) zatwierdza się uchwałą Nadzwyczajnego Walnego Zebrania Akcjonarjuszów Banku Polskiego z dnia 17 czerwca 1924 r. o następującem brzmieniu: Art. 18 statutu Banku Polskiego z dnia 20 stycznia 1924 r. (Dz. U. R. P. № 8, poz. 75) otrzymuje brzmienie następujące: „ Każdy akcjonarjusz, uprawniony do udziału w Walnem Zebraniu (art. 16) i do głosowania na niem (art. 17), może wykonywać swoje prawa przez pełnomocnika. Akcjonarjusz, posiadający mniej niż 25 akcyj, może upoważnić do zastępstwa innego akcjonarjusza, przyczem każde 25 akcyj łącznie z reprezentowanemi dają prawo do jednego głosu. Pełnomocnikiem może być tylko akcjonarjusz, uprawniony do udziału w Walnem Zebraniu, lecz nikt nie może posiadać więcej niż 500 głosów razem z własnemi. Każdemu akcjonarjuszowi wolno mieć tylko jednego pełnomocnika. Pełnomocnictwa do uczestniczenia i głosowania na Walnem Zebraniu są wolne od opłat stemplowych. Pełnomocnictwa wystawia się w formie listu do Dyrekcji Banku Polskiego, podpisanego własnoręcznie pełnem imieniem i nazwiskiem akcjonarjusza ” . Art. 19 powołanego wyżej statutu otrzymuje brzmienie następujące: „ Pełnomocnictwa do uczestniczenia na Walnem Zebraniu winny być przedstawione w Centrali Banku w Warszawie najpóźniej na siedem dni przed terminem zebrania dla wpisania na listę upoważnionych do głosowania i przygotowania kart. wstępu z oznaczeniem ilości głosów. Akcjonarjusze otrzymują karty wstępu na podstawie zapisów w księdze akcjonarjuszów. Wydawanie kart. wstępu rozpoczyna się na dwa tygodnie przed terminem zebrania i przerywa się na trzy dni przed zebraniem ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej S. Wojciechowski Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

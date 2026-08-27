@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1992-368",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 lipca 1992 r. o zmianie ustawy o izbach gospodarczych.",
+  "title_en": "",
+  "short_name": "pl-du-1992-368",
+  "status": "amended",
+  "issued_date": "1992-07-30",
+  "in_force_date": "1992-10-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/368",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 maja 1989 r. o izbach gospodarczych ( Dz. U. Nr 35, poz. 195 ) po art. 12 dodaje się art. 12 1 w brzmieniu: „ Art. 12 1 . 1. Krajowa Izba Gospodarcza może inicjować, na wniosek podmiotów gospodarczych, tworzenie na terytorium Rzeczypospolitej Polskiej dwu- lub wielostronnych izb gospodarczych. Krajowa Izba Gospodarcza określa liczbę członków założycieli wymaganą do utworzenia izby. 2. Zadaniem izb, o których mowa w ust. 1, jest działanie na rzecz promocji handlu zagranicznego i wspomagania rozwoju międzynarodowych stosunków gospodarczych, w granicach określonych w art. 3-5. 3. Utworzenie i działalność izb, o których mowa w ust. 1, odbywa się na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 4 i 5. 4. Członkami izb gospodarczych, o których mowa w ust. 1, mogą być prowadzące działalność gospodarczą podmioty polskie oraz podmioty zagraniczne w rozumieniu przepisów ustawy o spółkach z udziałem zagranicznym. 5. Izby, o których mowa w ust. 1, podlegają na wniosek Krajowej Izby Gospodarczej wpisowi do rejestru izb gospodarczych stosownie do przepisów niniejszej ustawy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1923-216",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 marca 1923 r. w przedmiocie zezwolenia gminie miasta Lwowa na zaciągnięcie za poręką Państwa pożyczki komunalnej w kwocie 120.000.000 mk. na cele przebrukowania ulic i placów publicznych we Lwowie.",
+  "title_en": "",
+  "short_name": "pl-du-1923-216",
+  "status": "in_force",
+  "issued_date": "1923-03-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/216",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się gminą król. stoł. miasta Lwowa do zaciągnięcia w drodze emisji obligacji komunalnych, wedle stopy 41/2 % oprocentowanych, pożyczki do wysokości 120.000.000 mk., spłacalnej najpóźniej w ciągu lat 60, a to na cele, wymienione w art. 2 tej ustawy, z zachowaniem przepisów, zawartych w artykułach 3, 4 i 5."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Z funduszów, uzyskać się mających w sposób ustanowiony w art. 1, mają być pokryte wydatki na przełożenie bruków istniejących, względnie urządzenie nowych i żwirowanie najbardziej zniszczonych ulic i placów miejskich we Lwowie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie wymienionych w art. 2 inwestycji, jako też emisja potrzebnych kwot pożyczkowych na cele wymienione, nastąpić ma stopniowo i na podstawie specjalnej uchwały rady miejskiej, zatwierdzonej przez Wydział Samorządowy. Sposób użycia każdej częściowej pożyczki ma być wykazywany Wydziałowi Samorządowemu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Umowy, co do sfinansowania niniejszej pożyczki zawrzeć się mające, będą obowiązywały gminę król. stoł. miasta Lwowa dopiero od chwili zatwierdzenia tych umów przez Wydział Samorządowy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Za pożyczkę niniejszą 120.000.000 mk. poręcza Skarb Państwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Rada król. stoł. miasta Lwowa obowiązana jest przez cały czas okresu umorzenia wstawiać do budżetu miejskiego raty amortyzacyjne od tej pożyczki i przy uchwalaniu budżetu uchwalać stosowne środki pokrycia niedoboru budżetowego. Budżet, przez radę miejską uchwalony, przedłoży Magistrat król. stoł. miasta Lwowa Tymczasowemu Wydziałowi Samorządowemu, a względnie Rządowi Rzeczypospolitej Polskiej corocznie najpóźniej na 14 dni przed rozpoczęciem każdego roku budżetowego. Zamknięcie rachunków z ubiegłego roku, przez Radę miejską sprawdzone i przyjęte, przedłoży Magistrat Wydziałowi Samorządowemu corocznie najpóźniej 1 września."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje tej pożyczki mogą być używane do korzystnego lokowania w nich kapitałów fundacyjnych zakładów, zostających pod nadzorem publicznym, tudzież funduszów sierocych, powierzniczych i depozytowych, kaucji służbowych i przemysłowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

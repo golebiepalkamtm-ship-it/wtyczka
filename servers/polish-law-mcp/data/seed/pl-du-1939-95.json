@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1939-95",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lutego 1939 r. o użyciu broni przez Policję Państwową i organa ochrony granic.",
+  "title_en": "",
+  "short_name": "pl-du-1939-95",
+  "status": "in_force",
+  "issued_date": "1939-02-23",
+  "in_force_date": "1939-03-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/95",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Funkcjonariusze Policji Państwowej oraz organów ochrony granic są uprawnieni do użycia broni w następujących przypadkach: 1) dla odparcia bezpośredniego bezprawnego zamachu na życie, zdrowie lub wolność ich samych bądź innych osób; 2) dla odparcia bezpośredniego bezprawnego zamachu na mienie publiczne lub prywatne; 3) przeciwko osobie, używającej wobec nich przemocy fizycznej w celu udaremnienia czynności służbowej; 4) przeciwko osobie, mającej przy sobie broń lub inne przedmioty niebezpieczne dla życia lub zdrowia ludzkiego, jeżeli pomimo wezwania nie porzuci przedmiotu, bądź porzuciwszy go usiłuje nim ponownie owładnąć; 5) w czasie ścigania niebezpiecznego przestępcy lub osoby podejrzanej o ciężkie przestępstwo, jeżeli pomimo wezwania nie zatrzyma się, bądź rąk do góry nie podniesie; 6) dla udaremnienia ucieczki osoby aresztowanej lub zatrzymanej, którą uprzedzono, że w razie próby ucieczki zostanie użyta broń; 7) dla udaremnienia nielegalnego przekroczenia granicy Państwa; 8) przeciwko przebywającemu w kryjówce niebezpiecznemu przestępcy, jeżeli mimo wezwania kryjówki tej nie opuści; 9) przeciwko osobie, która nie usłucha prawnego wezwania, wydanego przez funkcjonariusza w czasie pełnienia służby asystencyjnej, wartowniczej lub konwojowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Oddziały zwarte mogą użyć broni tylko na rozkaz bezpośredniego dowódcy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Użycie broni może nastąpić jedynie w przypadkach oczywistej konieczności, jeżeli zamierzonego celu nie da się osiągnąć innymi środkami. (2) Przed użyciem broni zawsze należy wezwać do zaniechania lub spełnienia danej czynności, ostrzegając, że będzie użyta broń, przy czym funkcjonariusze nie występujący w mundurach, winni ujawnić swój charakter. Jeżeli ostrzeżenie słowne nie byłoby celowe, należy ostrzec w inny sposób. (3) Przepis ust. (2) nie dotyczy przypadków, w których wszelka zwłoka groziłaby niebezpieczeństwem dla życia funkcjonariusza lub osób trzecich, bądź mogłaby udaremnić pościg i ujęcie przestępcy, bądź też groziłaby powszechnym niebezpieczeństwem dla życia, mienia lub zdrowia ludzkiego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Jeżeli wynikiem użycia broni było zranienie człowieka, należy w miarę możności zapewnić zranionemu opiekę lekarską i udzielić mu pierwszej pomocy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Funkcjonariusz jest obowiązany zawiadomić niezwłocznie swą władzę przełożoną o każdym przypadku użycia broni. (2) Władza przełożona jest obowiązana w każdym przypadku użycia broni przeprowadzić dochodzenie celem stwierdzenia, czy użycie broni nastąpiło zgodnie z przepisami ustawy niniejszej. (3) Władza przełożona zawiadomi niezwłocznie właściwego prokuratora o przypadkach użycia broni, które spowodowały śmierć lub uszkodzenie ciała człowieka, albo były niezgodne z przepisami ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Spraw Wewnętrznych. Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "(1) Ustawa niniejsza wchodzi w życie po upływie 30 dni od dnia ogłoszenia. (2) Z dniem wejścia w życie ustawy niniejszej traci moc prawną rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 lutego 1928 r. o użyciu broni przez organa służby bezpieczeństwa publicznego i ochrony granic ( Dz. U. R. P. z 1928 r. Nr 27, poz. 243 ) . Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_3-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_5-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_7-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

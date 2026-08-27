@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1996-269",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 kwietnia 1996 r. o zmianie ustawy o Policji oraz ustawy o Urzędzie Ochrony Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1996-269",
+  "status": "in_force",
+  "issued_date": "1996-04-25",
+  "in_force_date": "1996-05-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/269",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 kwietnia 1990 r. o Policji ( Dz. U. Nr 30, poz. 179 , z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461 , z 1992 r. Nr 54, poz. 254 , z 1994 r. Nr 53, poz. 214 oraz z 1995 r. Nr 4, poz. 17 , Nr 34, poz. 163 i Nr 104, poz. 515 ) w art. 19a wprowadza się następujące zmiany: 1) w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) przeciwko życiu, spowodowania ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia oraz pozbawienia człowieka wolności w celu wymuszenia okupu lub zachowania określonego w art. 211 Kodeksu karnego , ” ; 2) ust. 2 otrzymuje brzmienie: „ 2. Minister Spraw Wewnętrznych może zarządzić, na czas określony, czynności wymienione w ust. 1, po uzyskaniu pisemnej zgody Prokuratora Generalnego oraz bieżąco informuje Prokuratora Generalnego o przeprowadzonych czynnościach oraz o ich wyniku. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 6 kwietnia 1990 r. o Urzędzie Ochrony Państwa ( Dz. U. Nr 30, poz. 180 , z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461 , z 1992 r. Nr 54, poz. 254 , z 1994 r. Nr 53, poz. 214 oraz z 1995 r. Nr 4, poz. 17 , Nr 34, poz. 163 i Nr 104, poz. 515 ) wprowadza się następujące zmiany: 1) w art. 6a w ust. 2 po wyrazie „określi” dodaje się wyraz „zakres,” ; 2) w art. 10a ust. 2 otrzymuje brzmienie: „ 2. Minister Spraw Wewnętrznych może zarządzić, na czas określony, czynności wymienione w ust. 1, po uzyskaniu pisemnej zgody Prokuratora Generalnego oraz bieżąco informuje Prokuratora Generalnego o przeprowadzonych czynnościach i o ich wyniku. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

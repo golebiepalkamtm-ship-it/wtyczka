@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1919-470",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 października 1919 r. w sprawie zmiany ustawy o rzeczowych świadczeniach wojennych z dnia 11 kwietnia 1919 r.",
+  "title_en": "",
+  "short_name": "pl-du-1919-470",
+  "status": "in_force",
+  "issued_date": "1919-10-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/470",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 6 ustawy o rzeczowych świadczeniach wojennych ma opiewać następująco: Zażądanie świadczeń wojennych następuje w drodze nakazów rekwizycyjnych, wydanych przez właściwe urzędy administracyjne na podstawie zapotrzebowań, wystawionych przez władze wojskowe w myśl art. 7. Gdzie władze rządowe administracyjne jeszcze nie są zorganizowane - zażądanie świadczeń nastąpić może na zasadzie nakazów rekwizycyjnych władz wojskowych, za pośrednictwem urzędu gminnego. W razie nagłej a gwałtownej potrzeby przysługuje władzom wojskowym, każdorazowo do tego upoważnionym przez Ministra Spraw Wojskowych, prawo bezpośredniego wydawania nakazów rekwizycyjnych sklepom, składom, fabrykom oraz osobom lub instytucjom, gromadzącym przedmioty podlegające rekwizycji w celach handlowych. W tym wypadku władze wojskowe urzeczywistniają owe nakazy we własnym zakresie działania w myśl ustaw obowiązujących i zawiadamiają o tem władze admnistracyjne."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministerstwem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 28 października 1919 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

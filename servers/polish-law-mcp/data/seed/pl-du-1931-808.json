@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1931-808",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. zmieniająca ustawę o ochronie lokatorów.",
+  "title_en": "",
+  "short_name": "pl-du-1931-808",
+  "status": "in_force",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-12-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/808",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. U. R. P. Nr 39, poz. 406) ulega następującym zmianom: 1) Początkowe zdanie ust. 1 art. 2 otrzymuje brzmienie następujące: „ 1) Przepisom niniejszej ustawy nie podlegają: ” . 2) W art. 2 ust. 1 lit. b) otrzymuje brzmienie następujące: „ b) budynki, będące w dniu 1 kwietnia 1924 r. własnością Państwa lub związku samorządowego, o ile są przeznaczone na cele wojskowe, a w których zamieszkiwanie osób cywilnych jest niedopuszczalne ze względu na interes Państwa, a także budynki, będące w dniu 1 kwietnia 1924 r. własnością Państwa, o ile są przeznaczone na cele biurowe mieszczących się w nich urzędów państwowych lub urzędów i agencyj pocztowych przedsiębiorstwa państwowego „Polska Poczta, Telegraf i Telefon”. W odniesieniu do pomieszczeń w tych budynkach obowiązuje termin wypowiedzenia trzymiesięczny, sześciomiesięczny lub roczny, a to w zależności od tego, czy komorne za dane pomieszczenie pobiera się miesięcznie, kwartalnie lub rocznie ” . 3) W art. 2 ust. 2 otrzymuje brzmienie następujące: „ 2) W wypadkach, przewidzianych pod lit. a), c), e) oraz i) ust. 1, wynajmujący żądać może usunięcia lokatora jedynie w końcu kwartału kalendarzowego, za poprzedniem co najmniej trzymiesięcznem wypowiedzeniem ” . 4) W tytule rozdziału V po słowach: „dla bezrobotnych” dodaje się słowa: „i w porze zimowej”. 5) Ostatnie zdanie ust. 1 art. 23 otrzymuje brzmienie następujące: „ Eksmisja z takich mieszkań nie będzie wykonywana: a) w okresie od 1 listopada do 31 marca, jeżeli ją orzeczono z przyczyny, przewidzianej w art. 11 ust. 2 lit. a), b) na mocy decyzji sądu, jeżeli bezrobotny otrzymał pracę i opłaca prócz bieżącego komornego zaległe komorne w ratach, wynoszących 25% bieżącego komornego miesięcznego ” . 6) W art. 24 dodaje się w końcu nowy ustęp treści następującej: „ Pozwany traci również prawo do korzystania z moratorjum mieszkaniowego, przewidzianego w art. 23, jeżeli w tej samej miejscowości posiada inne mieszkanie lub mu je dostarczono ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Sprawiedliwości i Spraw WewnętrznychArt. 3. Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

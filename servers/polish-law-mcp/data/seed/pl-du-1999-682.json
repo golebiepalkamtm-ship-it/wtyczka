@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1999-682",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 czerwca 1999 r. o zmianie ustawy - Prawo budowlane.",
+  "title_en": "",
+  "short_name": "pl-du-1999-682",
+  "status": "amended",
+  "issued_date": "1999-06-18",
+  "in_force_date": "1999-07-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/682",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ( Dz. U. Nr 89, poz. 414 , z 1996 r. Nr 100, poz. 465 , Nr 106, poz. 496 i Nr 146, poz. 680 , z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726 , z 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 oraz z 1999 r. Nr 41, poz. 412 i Nr 49, poz. 483 ) wprowadza się następujące zmiany: 1) w art. 3 pkt 15 otrzymuje brzmienie: „ 15) terenie zamkniętym - należy przez to rozumieć teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w przepisach Prawa geodezyjnego i kartograficznego, niezbędny na cele: a) obronności lub bezpieczeństwa państwa, będący w dyspozycji jednostek organizacyjnych podległych ministrom właściwym do: spraw obrony narodowej, spraw wewnętrznych, spraw zagranicznych oraz Szefowi Urzędu Ochrony Państwa, b) bezpośredniego wydobywania kopaliny ze złoża, będący w dyspozycji zakładu górniczego, ” ; 2) w art. 33 dodaje się ust. 5 w brzmieniu: „ 5. Projekt budowlany i inne dokumenty, o których mowa w ust. 2-4, zawierające informacje niejawne mogą być za zgodą właściwego organu przechowywane przez inwestora. ” ; 3) w art. 38: a) w ust. 2 po wyrazach „obiektu budowlanego” dodaje się wyrazy „, z zastrzeżeniem ust. 3” , b) dodaje się ust. 3 w brzmieniu: „ 3. Właściwy organ w decyzji o pozwoleniu na budowę obiektu budowlanego na terenie zamkniętym niezbędnym na cele obronności lub bezpieczeństwa państwa może wyrazić zgodę, aby zatwierdzony projekt budowlany, a także inne dokumenty objęte pozwoleniem na budowę zawierające informacje niejawne przechowywane były przez użytkownika obiektu budowlanego. ” ; 4) w art. 82 w ust. 3 pkt 6 otrzymuje brzmienie: „ 6) służących celom bezpieczeństwa państwa, na terenach zamkniętych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "w art. 3 pkt 15 otrzymuje brzmienie: „ 15) terenie zamkniętym",
+      "definition": "należy przez to rozumieć teren, a w szczególnych przypadkach obiekt budowlany lub jego część, dostępny wyłącznie dla osób uprawnionych oraz wyznaczony w sposób określony w przepisach Prawa geodezyjnego i kartograficznego, niezbędny na cele: a) obronności lub bezpieczeństwa państwa, będący w dyspozycji jednostek organizacyjnych podległych ministrom właściwym do: spraw obrony narodowej, spraw wewnętrznych, spraw zagranicznych oraz Szefowi Urzędu Ochrony Państwa, b) bezpośredniego wydobywania kopaliny ze złoża, będący w dyspozycji zakładu górniczego, ”",
+      "source_provision": "art1"
+    }
+  ]
+}

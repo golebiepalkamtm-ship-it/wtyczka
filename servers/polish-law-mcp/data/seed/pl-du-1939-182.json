@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1939-182",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 marca 1939 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1939-182",
+  "status": "in_force",
+  "issued_date": "1939-03-30",
+  "in_force_date": "1939-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/182",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 8 listopada 1927 r. o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa (Dz. U. R. P. z 1938 r. Nr 66, poz. 496) wprowadza się następujące zmiany: 1) w art. 2 ust. (2) otrzymuje brzmienie: „Rada Ministrów może wprowadzić powyższy obowiązek na wniosek Ministra Spraw Wojskowych także w czasie pokojowym, gdy tego wymagać będzie interes obrony Państwa.”; 2) po art. 26 dodaje się art. 26-a o brzmieniu: „ Art. 26-a. Odstąpione Państwu na własność przy poborze zwierzęta pociągowe, wozy, pojazdy mechaniczne i rowery w warunkach, określonych w art. 2 ust. (2), mogą być na podstawie zarządzenia Ministra Spraw Wojskowych zwrócone poprzednim właścicielom (posiadaczom), jeżeli interes obrony Państwa nie będzie wymagał zatrzymania tych przedmiotów na stałe i jeżeli wynagrodzenie za odstąpione przedmioty nie zostało jeszcze wypłacone. Poprzedni właściciele (posiadacze) odstąpionych przy poborze zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów będą obowiązani przyjąć je z powrotem, przy czym otrzymują jedynie wynagrodzenie za czas zatrzymania tych przedmiotów oraz odszkodowanie w razie ich uszkodzenia. Sposób ustalania i wypłaty wynagrodzenia oraz odszkodowania, przewidzianych w ustępie poprzednim, określi rozporządzenie Ministra Spraw Wojskowych w porozumieniu z Ministrem Skarbu i innymi właściwymi ministrami. ” ; 3) w art. 27 po ust. (2) dodaje się dwa ustępy nowe o brzmieniu: „ W przypadkach szczególnej potrzeby, stwierdzonej uchwałą Rady Ministrów, przedmioty te mogą być przez władze wojskowe zatrzymane na przeciąg czasu dłuższy niż dni 14. W warunkach, określonych w art. 2, przedmioty zatrzymane przed powstaniem tych warunków podczas próbnego poboru mogą przejść na własność Państwa bez powtórnego przedstawienia ich na komisję poboru rzeczywistego, za wynagrodzeniem równym cenie szacunkowej, ustalonej przy poborze próbnym, niezależnie od wynagrodzenia za czas zatrzymania od dnia poboru próbnego do dnia zawiadomienia o przejęciu na własność Państwa. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Spraw Wojskowych i Spraw Wewnętrznych w porozumieniu z Ministrami: Skarbu, Komunikacji, Rolnictwa i Reform Rolnych, Przemysłu i Handlu oraz Poczt i Telegrafów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

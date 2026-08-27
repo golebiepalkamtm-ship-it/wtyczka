@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1922-810",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. o opłacie za nadzór nad zakładami ubezpieczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1922-810",
+  "status": "repealed",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/810",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nadzór nad wszystkiemi państwowemi, publicznemi i prywatnemi zakładami ubezpieczeń na całym obszarze Rzeczypospolitej, z wyjątkiem publicznych zakładów ubezpieczeń społecznych, wykonywa Minister Skarbu za pomocą osobnego Państwowego Urzędu Kontroli Ubezpieczeń."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycia kosztów nadzoru i utrzymania Państwowego Urzędu Kontroli Ubezpieczeń pobierana będzie od zakładów ubezpieczeń podlegających nadzorowi Ministerstwa Skarbu, opłata specjalna pod nazwą „opłata za nadzór nad zakładami ubezpieczeń”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stopę opłaty oraz sposób przeprowadzenia jej rozdziału i poboru oznacza Minister Skarbu w zależności od rzeczywistych kosztów nadzoru. Jednakże wysokość opłaty, uiszczanej corocznie przez poszczególny zakład ubezpieczeń, nie może przekraczać siedmiu pro mille (7% o) od sumy składek (premji) brutto, zebranych przez ten zakład w roku sprawozdawczym w obrocie krajowym z interesów bezpośrednich, przyczem w zakładach, opartych na wzajemności, odlicza się od sumy składek brutto przyznane ubezpieczonym za rok sprawozdawczy zwroty i dywidendy. Opłata za nadzór nie może obciążać ubezpieczonych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Opłatę, oznaczoną w art. 2, uiścić należy po raz pierwszy za rok sprawozdawczy, rozpoczynający się dnia 1 stycznia 1922 r., względnie w innym terminie tegoż roku, i uiszczać ją corocznie zaraz po przyjęciu przez walne zgromadzenie bilansu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Opłaty za nadzór nad zakładami ubezpieczeń, pobierane dotychczas na zasadzie art. 559 Ros. Zbioru Praw tom V z r. 1908, § 1 austr. ustawy z dn. 24 lipca 1917 r. (austr. Dz. Ust. P. № 307) i § 81 niem. ustawy z dnia 12 maja 1901 r. (Dz. Ust. Rzeszy str. 139 i nast.), uchyla się z chwilą wejścia w życie ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1983-202",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1983 r. o Polskiej Agencji Prasowej.",
+  "title_en": "",
+  "short_name": "pl-du-1983-202",
+  "status": "repealed",
+  "issued_date": "1983-07-28",
+  "in_force_date": "1983-08-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1983/202",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Powołuje się Polską Agencję Prasową, zwaną dalej „PAP”, której zadaniem jest informowanie społeczeństwa polskiego o sprawach kraju i zagranicy oraz informowanie zagranicy o Polsce. 2. PAP jest rządową agencją prasową, która upowszechnia dokumenty i oświadczenia władz państwowych oraz prezentuje stanowisko władz państwowych wobec wydarzeń w kraju i na świecie. 3. PAP zawiera umowy z zagranicznymi agencjami informacyjnymi oraz dysponuje na terytorium Polskiej Rzeczypospolitej Ludowej ich serwisami na zasadach wyłączności."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Na czele PAP stoi Prezes pełniący funkcje centralnego organu administracji państwowej. 2. Do zakresu działania Prezesa PAP należy kierowanie pracą i reprezentowanie PAP, a w szczególności programowanie i kontrola wykonywania jej zadań, polityka kadrowa, zawieranie umów o współpracy z partnerami krajowymi i zagranicznymi oraz wykonywanie innych zadań określonych w przepisach szczególnych. 3. Prezes PAP pełni jednocześnie funkcję Redaktora Naczelnego PAP."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Prezesa PAP powołuje i odwołuje Prezes Rady Ministrów. 2. Wiceprezesów PAP powołuje i odwołuje Prezes Rady Ministrów na wniosek Prezesa PAP. 3. Prezes Rady Ministrów sprawuje nadzór nad działalnością Prezesa PAP."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Przy Prezesie PAP działa Kolegium PAP, jako organ opiniodawczo-doradczy. 2. Organizację wewnętrzną PAP oraz skład, zakres i tryb działania Kolegium określa statut nadany przez Prezesa Rady Ministrów. 3. Rada Ministrów, w drodze rozporządzenia, określa prawa i obowiązki pracowników PAP oraz zasady ich wynagradzania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "PAP prowadzi działalność w formie zakładu budżetowego w rozumieniu art. 11 ust. 1 ustawy z dnia 25 listopada 1970 r. - Prawo budżetowe ( Dz. U. Nr 29, poz. 244 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Państwowe przedsiębiorstwo pod nazwą Polska Agencja Prasowa PAP ulega likwidacji. 2. Majątek oraz prawa i zobowiązania likwidowanego przedsiębiorstwa przejmuje Polska Agencja Prasowa. 3. Pracownicy likwidowanego przedsiębiorstwa stają się pracownikami Polskiej Agencji Prasowej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Traci moc dekret z dnia 26 października 1945 r. o utworzeniu Polskiej Agencji Prasowej PAP ( Dz. U. Nr 50, poz. 278 i z 1950 r. Nr 58, poz. 524 ) ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1983 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

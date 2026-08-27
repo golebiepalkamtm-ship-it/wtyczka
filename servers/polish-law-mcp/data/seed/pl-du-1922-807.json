@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1922-807",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. w przedmiocie ustalania wartości celem wymiaru opłat stemplowych.",
+  "title_en": "",
+  "short_name": "pl-du-1922-807",
+  "status": "in_force",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/807",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Za podstawę do wymiaru opłaty stemplowej (należytości) od umowy sprzedaży służy zasadniczo umówiona cena sprzedaży z doliczeniem wartości przyjętych przez kupującego świadczeń ubocznych. Jednak w razie ustalenia; że suma, obliczona w sposób powyższy, jest niższa od rzeczywistej wartości, odpowiadającej przedmiotowi sprzedaży w danem miejscu i czasie, władza skarbowa ma przyjąć za podstawę. obliczenia opłaty stemplowej wartość rzeczywistą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Jeśli zachodzi uzasadniona przyczyna do przypuszczenia, że cena sprzedaży z doliczeniem świadczeń ubocznych nie odpowiada wartości rzeczywistej przedmiotu sprzedaży, władza skarbowa celem ustalenia wartości (art. 1) ma wezwać podatnika do odpowiedniego podwyższenia szacunku, wyznaczając mu termin najmniej 2-tygodniowy do odpowiedzi. O ile podatnik nie odpowiedział, lub szacunku odpowiednio nie podwyższył, władza skarbowa ustali wartość rzeczywistą na podstawie opinji znawców, zaprzysiężonych przez sąd. Koszty tego ustalenia wartości poniesie podatnik, jeśli wartość, w ten sposób ustalona, przewyższa więcej niż o trzecią część wartość, podaną przez podatnika, lub, w braku oświadczenia z jego strony - sumę ceny sprzedaży wraz ze świadczeniami ubocznemi. Gdzie niema stale ustanowionych i zaprzysiężonych znawców sądowych dla odnośnego zakresu wiadomości, lub gdy liczba ich nie wystarcza, sąd na żądanie władzy skarbowej ustanowi stałych znawców i odbierze od nich przysięgę. Właściwość sądów w tych przypadkach oraz sposób ustanawiania, zaprzysięgania i wynagradzania znawców określi rozporządzenie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Postanowienia art. 2 będą stosowane odpowiednio do umów innego rodzaju, niż umowa sprzedaży, jeżeli według obowiązujących przepisów za podstawę wymiaru opłaty stemplowej (należytości) służyć ma wartość rzeczy, a w dokumencie, zawierającym umowę, bądź wcale nie podano tej wartości, bądź istnieją powody do mniemania, że wartość podana jest niższa od wartości rzeczywistej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawo do ustalenia rzeczywistej wartości, przysługujące władzy skarbowej na mocy poprzednich artykułów, przedawnia się z upływem lat 5 od chwili dojścia umowy do wiadomości władzy skarbowej, o ile przepisy dzielnicowe nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

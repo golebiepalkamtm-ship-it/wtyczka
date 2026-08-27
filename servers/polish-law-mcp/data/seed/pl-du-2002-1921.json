@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-1921",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 grudnia 2002 r. o zmianie ustawy o zasadach wspierania rozwoju regionalnego.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1921",
+  "status": "repealed",
+  "issued_date": "2002-12-04",
+  "in_force_date": "2002-12-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1921",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 maja 2000 r. o zasadach wspierania rozwoju regionalnego ( Dz. U. Nr 48, poz. 550 , Nr 95, poz. 1041 i Nr 109, poz. 1158 , z 2001 r. Nr 45, poz. 497 , Nr 100, poz. 1085 , Nr 111, poz. 1197 i Nr 154, poz. 1800 oraz z 2002 r. Nr 25, poz. 253 i Nr 66, poz. 596 ) wprowadza się następujące zmiany: 1) w art. 5 w ust. 3 pkt 5 otrzymuje brzmienie: „ 5) przedsięwzięcia w zakresie edukacji, w tym inwestycje oświatowe i edukację dorosłych, ” ; 2) w art. 7 ust. 3 otrzymuje brzmienie: „ 3. O ile odrębne ustawy nie stanowią inaczej, środki przeznaczone na zadania ujęte w kontrakcie wojewódzkim, o których mowa w ust. 2, są wyodrębnione w ustawie budżetowej w częściach, których dysponentami są ministrowie właściwi realizujący te zadania. ” ; 3) w art. 14: a) ust. 6 otrzymuje brzmienie: „ 6. Organy zarządzające podmiotów, o których mowa w ust. 2 i 2a, oraz dysponent środka specjalnego, o którym mowa w art. 47b ustawy z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach , są obowiązani konsultować z zarządem województwa programy i plany swojej działalności, w tym plany finansowe, na terenie województwa pod kątem ich zgodności ze strategią rozwoju województwa i programami wojewódzkimi. ” , b) dodaje się ust. 9 w brzmieniu: „ 9. Rada Ministrów, w drodze rozporządzenia, określi: 1) zakres, tryb i terminy uzgodnień, opinii i konsultacji: a) programów i planów działalności podmiotów, o których mowa w ust. 2, z zarządem województwa oraz ich projektów z ministrem, b) planu działalności podmiotu, o którym mowa w ust. 2a, z zarządem województwa oraz jego projektu z ministrem, c) planu finansowego środka specjalnego, o którym mowa w art. 47b ustawy z dnia 29 lipca 1992 r. o grach losowych, zakładach wzajemnych i grach na automatach , z zarządem województwa oraz jego projektu z ministrem - z uwzględnieniem zadań realizowanych przez te podmioty i przeznaczenia środka specjalnego oraz przy zapewnieniu sprawnego przeprowadzania procedur, 2) tryb rozwiązywania problemów nieuzgodnionych w wyniku postępowań, o których mowa w pkt 1, z uwzględnieniem ust. 2-4. ” ; 4) w art. 16 ust. 5 otrzymuje brzmienie: „ 5. Kontrakt i jego zmiany, z zastrzeżeniem art. 21 ust. 4, po podpisaniu przez ministra i marszałka województwa wymagają zatwierdzenia przez sejmik województwa oraz przez Radę Ministrów. ” ; 5) w art. 21 dodaje się ust. 4 i 5 w brzmieniu: „ 4. Zmiany kontraktu w ramach limitów określonych na podstawie programu wsparcia uzgadniają i zatwierdzają minister i marszałek województwa w formie pisemnego zgodnego oświadczenia stron. 5. Zmiany, o których mowa w ust. 4, wymagają powiadomienia sejmiku województwa i Rady Ministrów. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2003 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

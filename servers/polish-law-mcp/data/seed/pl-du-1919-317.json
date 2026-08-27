@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-317",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 czerwca 1919 r. o przedłużeniu umownych czasokresów do przedsiębrania robót, celem wydobywania minerałów, zawierających żywice ziemne.",
+  "title_en": "",
+  "short_name": "pl-du-1919-317",
+  "status": "in_force",
+  "issued_date": "1919-06-05",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/317",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Jeżeli w umowie o odstąpieniu prawa wydobywania minerałów, zawierających żywice ziemne (par. 1-y ust. z 11 maja 1884 dz. p. p. byłej Austrji № 71), zawartej przed dniem 1-ym sierpnia 1914 r. postanowiono, że można się domagać rozwiązania umowy w razie, gdy roboty wiertnicze lub eksploatacyjne nie będą w należytym czasie rozpoczęte lub nie będą należycie kontynuowane, to nie można żądać rozwiązania umowy, o ile zwłoka przypada na czas między dniem 1-ym sierpnia 1914 a dniem 31 grudnia 1919 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W sądzie powiatowym, w którego okrągu leży teren objęty umową, można atoli domagać się wydania uchwały, iż uprawniony do wydobywania jest obowiązany roboty wiertnicze lub eksploatacyjne rozpocząć lub kontynuować już przed dniem 31 grudnia 1919 r.; termin ścisły oznacza sąd. Przed rozstrzygnięciem winien sąd przesłuchać uprawnionego do wydobywania, przeprowadzić odpowiednie dochodzenie i zasięgnąć opinji okręgowego urzędu górniczego. Wniosek należy uwzględnić, jeżeli wyniki postępowania uprawdopodobnią, że uprawniony do wydobywania może przedsięwziąć roboty wiertnicze lub eksploatacyjne, do których jest obowiązany wedle umowy. Jeżeli wniosek zostanie uwzględniony, winien sąd wyznaczyć uprawnionemu do wydobywania stosowny czasokres do przedsięwzięcia robót wiertniczych lub robót eksploatacyjnych, a to z tym skutkiem, że po bezskutecznym upływie tego czasokresu można żądać rozwiązania umowy. Przeciw uchwale o wniosku powyższym dopuszczalny jest rekurs. Przeciw rozstrzygnięciu sądu drugiej instancji niema dalszego środka prawnego. O kosztach postępowania należy rozstrzygać wedle postanowień procedury cywilnej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Przemysłu i Handlu mai prawo, jeżeli tego wymaga interes publiczny, wedle uznania nakazać podjęcie lub kontynuowanie robót wiertniczych lub eksploatacyjnych. Jeżeli uprawniony do wydobywania nie zastosuje się w wyznaczonym mu okresie do takiego nakazu, można żądać rozwiązania umowy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Pominąwszy wypadki, wymienione w art. 2 i 3, czasokresy wyznaczone w umowie, zawartej przed dniem 1-ym sierpnia 1914 r. dla robót wiertniczych i eksploatacyjnych, przedłuża się w ten sposób, iż uprawniony do wydobywania, począwszy od dnia 1-go stycznia 1920 r., korzysta z tej części umownego czasokresu, jaka jeszcze nie upłynęła w dniu 1-ym sierpnia 1914 r., a jeżeli czasokres w tym dniu jeszcze się nie rozpoczął, z całego czasokresu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Poprzedzające postanowienia nie zmieniają czasu trwania umów oznaczonych w art. 1-ym."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa ta obowiązuje od dnia 1-go stycznia 1919 r. na obszarze b. zaboru austrjackiego, nie ma atoli zastosowania do umów, które przed dniem ogłoszenia tej ustawy zostały już prawomocnie rozwiązane. Wykonanie ustawy poleca się Ministerstwu Sprawiedliwości oraz Przemysłu i Handlu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

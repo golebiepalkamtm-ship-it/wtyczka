@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2013-830",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o księgach wieczystych i hipotece",
+  "title_en": "",
+  "short_name": "pl-du-2013-830",
+  "status": "amended",
+  "issued_date": "2013-05-24",
+  "in_force_date": "2013-07-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/830",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece ( Dz. U. z 2013 r. poz. 707 ) wprowadza się następujące zmiany: 1) w art. 76 po ust. 1 dodaje się ust. 1 1 -1 4 w brzmieniu: „ 1 1 . Hipoteka na części ułamkowej nieruchomości obciąża nieruchomość otrzymaną w wyniku zniesienia współwłasności przez współwłaściciela, którego udział był obciążony tą hipoteką. 1 2 . Jeżeli współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką, przysługuje spłata, na wierzytelności z tego tytułu jego wierzycielowi hipotecznemu przysługuje ustawowe prawo zastawu. O pierwszeństwie ustawowego prawa zastawu na wierzytelności o spłatę rozstrzyga pierwszeństwo hipotek obciążających udział współwłaściciela. 1 3 . Jeżeli w wyniku podziału współwłaścicielowi nieruchomości, którego udział był obciążony hipoteką przypada nieruchomość z dopłatą, ust. 1 2 stosuje się odpowiednio. 1 4 . Postanowienie umowy albo ugody sądowej znoszącej współwłasność, na mocy którego współwłaściciel nieruchomości, którego udział był obciążony hipoteką, nie otrzymuje spłaty lub dopłaty, jest nieważne. ” ; 2) w art. 101 dodaje się zdanie drugie w brzmieniu: „ O pierwszeństwie ustawowego prawa zastawu rozstrzyga pierwszeństwo hipotek obciążających wygasłe prawo użytkowania wieczystego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2012-789",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 maja 2012 r. o zmianie ustawy o organizacji rynku rybnego",
+  "title_en": "",
+  "short_name": "pl-du-2012-789",
+  "status": "amended",
+  "issued_date": "2012-05-25",
+  "in_force_date": "2012-07-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/789",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 grudnia 2008 r. o organizacji rynku rybnego ( Dz. U. z 2011 r. Nr 34, poz. 168 ) w art. 23: 1) ust. 1 otrzymuje brzmienie: „ 1. W przypadku gatunków ryb, których zasoby wymagają wzmożonej ochrony lub wzmożonego nadzoru, pierwsza sprzedaż odbywa się wyłącznie w centrum pierwszej sprzedaży. ” ; 2) w ust. 3 pkt 2 otrzymuje brzmienie: „ 2) czas wyładunku ryb, o których mowa w pkt 1 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

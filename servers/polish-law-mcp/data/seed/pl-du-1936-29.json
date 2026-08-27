@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1936-29",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 stycznia 1936 r. o dodatkowych kredytach na rok 1935/36.",
+  "title_en": "",
+  "short_name": "pl-du-1936-29",
+  "status": "in_force",
+  "issued_date": "1936-01-04",
+  "in_force_date": "1936-01-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/29",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki, ustalone w grupie A. Administracja budżetu, załączonego do ustawy skarbowej z dnia 24 marca 1935 r. na okres od 1 kwietnia 1935 r. do 31 marca 1936 r. (Dz. U. R. P. Nr. 21, poz. 121), podwyższa się o następujące kwoty: 1) w części 5. Ministerstwo Spraw Zagranicznych w wydatkach zwyczajnych w dziale 3 „Urzędy zagraniczne”, w § 12 „Opieka nad emigrantami zagranicą” o...... 532.000 zł 2) w części 7. Ministerstwo Spraw Wewnętrznych w wydatkach nadzwyczajnych w dziale 2 „Województwa i Starostwa”, w nowoutworzonym § 16 „Koszty wyborów do Sejmu i Senatu” o.......2.000.000 „ 3) w części 11. Ministerstwo Komunikacji w wydatkach zwyczajnych w dziale 4 „Roboty publiczne” w rozdziale 2 „Budowle wodne”, w § 12 „Rzeki żeglowne” o.... 500.000, 4) w części 12. Ministerstwo Rolnictwa i Reform Rolnych w wydatkach zwyczajnych: a) w dziale 2, § 11 „Melioracje” o 250.000 b) w dziale 3, § 10 „Zasiłki na popieranie drobnego rolnictwa” o.. 1.030.000 c) w dziale 3, § 15 „Zasiłki i inne wydatki na popieranie eksportu artykułów hodowlanych” o......7.667.000„"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ogólna kwota wydatków, ustalonych w ustawie skarbowej z 24 marca 1935 r. na okres od 1 kwietnia 1925 r. do 31 marca 1936 r. (Dz. U. R P. Nr. 21, poz. 121) w kwocie 2.168.378.160 zł, nie może ulec zwiększeniu mimo postanowień art. 1 niniejszej ustawy, co winno być osiągnięte wskutek oszczędności, uzyskanych drogą przepisanego w art. 5 ustawy skarbowej na okres od 1 kwietnia 1935 r. do 31 marca 1936 r. miesięcznego otwierania kredytów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1935 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

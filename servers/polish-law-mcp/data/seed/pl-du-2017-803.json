@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2017-803",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 2017 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych",
+  "title_en": "",
+  "short_name": "pl-du-2017-803",
+  "status": "amended",
+  "issued_date": "2017-03-23",
+  "in_force_date": "2017-04-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/803",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ( Dz. U. z 2016 r. poz. 2062 , 1948 , 2103 i 2261 oraz z 2017 r. poz. 38 i 60 ) wprowadza się następujące zmiany: 1) w art. 21: a) w § 1 pkt 1 otrzymuje brzmienie: „ 1) w sądzie rejonowym - prezes sądu i dyrektor sądu, z zastrzeżeniem art. 21a § 1; ” , b) uchyla się § 1a, c) uchyla się § 3; 2) po art. 21 dodaje się art. 21a w brzmieniu: „ Art. 21a. § 1. W sądzie rejonowym można powołać dyrektora sądu, jeżeli uzasadniają to względy organizacyjne, a w szczególności wielkość sądu mierzona liczbą stanowisk sędziowskich, asesorskich i referendarskich oraz zatrudnionych w nim pracowników lub odległość od sądu okręgowego. W sądzie rejonowym, w którym nie powołuje się dyrektora sądu, zadania dyrektora sądu wykonuje dyrektor przełożonego sądu okręgowego, który przejmuje także prowadzenie gospodarki finansowej tego sądu. § 2. Minister Sprawiedliwości jest zwierzchnikiem służbowym dyrektora sądu. § 3. Prezes sądu wykonuje w stosunku do dyrektora sądu czynności z zakresu prawa pracy, z wyjątkiem czynności zastrzeżonych dla Ministra Sprawiedliwości. ” ; 3) w art. 22 w § 1 w pkt 1 po lit. a dodaje się lit. aa w brzmieniu: „ aa) co najmniej raz w roku określa potrzeby sądu konieczne dla zapewnienia warunków prawidłowego funkcjonowania i sprawnego wykonywania przez sąd zadań, o których mowa w art. 1 § 2 i 3, biorąc pod uwagę przewidywany ich zakres, ” ; 4) w art. 32: a) § 1 otrzymuje brzmienie: „ § 1. Dyrektora sądu zatrudnia się na podstawie powołania. Dyrektora sądu powołuje i odwołuje Minister Sprawiedliwości. ” , b) uchyla się § 2, c) uchyla się § 7, d) po § 7 dodaje się § 7a w brzmieniu: „ § 7a. W razie potrzeby Minister Sprawiedliwości wyznacza, spośród pracowników sądu, osobę pełniącą obowiązki dyrektora sądu do czasu jego powołania. ” , e) § 9 otrzymuje brzmienie: „ § 9. Minister Sprawiedliwości może powołać zastępcę dyrektora sądu, jeżeli przemawiają za tym szczególne względy, w tym wielkość sądu i zakres jego zadań. Przepisy § 1 i 3 stosuje się odpowiednio. ” ; 5) w art. 32a uchyla się § 2-13; 6) uchyla się art. 32b; 7) w art. 179 po § 1 dodaje się § 1a w brzmieniu: „ § 1a. Czynności prezesa sądu wywołujące skutki finansowe nieujęte w planie finansowym sądu wymagają, dla ich ważności, uprzedniej akceptacji właściwego dyrektora sądu, z wyjątkiem zarządzeń dotyczących kosztów sądowych orzeczonych przez sąd. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Postępowania dotyczące powołania dyrektora sądu lub zastępcy dyrektora sądu prowadzone na podstawie przepisów dotychczasowych i niezakończone przed dniem wejścia w życie niniejszej ustawy ulegają zakończeniu z tym dniem."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_4-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_4-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

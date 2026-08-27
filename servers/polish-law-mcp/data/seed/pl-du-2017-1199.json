@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2017-1199",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy o obligacjach",
+  "title_en": "",
+  "short_name": "pl-du-2017-1199",
+  "status": "amended",
+  "issued_date": "2017-06-08",
+  "in_force_date": "2017-06-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1199",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 stycznia 2015 r. o obligacjach ( Dz. U. poz. 238 oraz z 2017 r. poz. 1089 ) wprowadza się następujące zmiany: 1) w art. 74 dodaje się ust. 8 w brzmieniu: „ 8. Jeżeli emitent w warunkach emisji postanowi, że obligacje są emitowane w celu ich zakwalifikowania jako pozycje środków własnych zgodnie z przepisami rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) ( Dz. Urz. UE L 12 z 17.01.2015, str. 1 , z późn. zm. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 85 z 01.04.2016, str. 6. ) oraz wyemitowane obligacje zostały zaliczone do środków własnych zakładu ubezpieczeń lub zakładu reasekuracji, przepisu ust. 2 nie stosuje się. ” ; 2) w art. 75 dodaje się ust. 5 w brzmieniu: „ 5. Jeżeli emitent w warunkach emisji postanowi, że obligacje są emitowane w celu ich zakwalifikowania jako pozycje środków własnych zgodnie z przepisami rozporządzenia delegowanego Komisji (UE) 2015/35 z dnia 10 października 2014 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2009/138/WE w sprawie podejmowania i prowadzenia działalności ubezpieczeniowej i reasekuracyjnej (Wypłacalność II) oraz wyemitowane obligacje zostały zaliczone do środków własnych zakładu ubezpieczeń lub zakładu reasekuracji, przepisu ust. 1 pkt 2 nie stosuje się. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiana wymienionego rozporządzenia została ogłoszona w Dz. Urz. UE L 85 z 01.04.2016, str. 6. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

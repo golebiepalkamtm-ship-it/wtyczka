@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-310",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 marca 1999 r. o zmianie ustawy o warunkach wykonywania międzynarodowego transportu drogowego.",
+  "title_en": "",
+  "short_name": "pl-du-1999-310",
+  "status": "repealed",
+  "issued_date": "1999-03-19",
+  "in_force_date": "1999-04-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/310",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 sierpnia 1997 r. o warunkach wykonywania międzynarodowego transportu drogowego ( Dz. U. Nr 106, poz. 677 ) wprowadza się następujące zmiany: 1) w art. 3 pkt 2 otrzymuje brzmienie: „ 2) międzynarodowym transportem drogowym na potrzeby własne jest niezarobkowy przewóz osób lub rzeczy, wykonywany przez przedsiębiorcę pomocniczo w stosunku do podstawowej działalności gospodarczej pojazdami samochodowymi będącymi jego własnością lub do których posiada udokumentowane prawo dysponowania; nie obejmuje to przewozu osób w ramach prowadzonej działalności turystycznej, ” ; 2) w art. 10 w ust. 1: a) pkt 1 otrzymuje brzmienie: „ 1) śmierci osoby fizycznej posiadającej koncesję i wstąpienia na jej miejsce spadkobiercy, w tym również osoby fizycznej będącej wspólnikiem spółki cywilnej, spółki jawnej lub spółki komandytowej, ” b) pkt 3 otrzymuje brzmienie: „ 3) przejęcia przez innego przedsiębiorcę w całości lub w części działalności w zakresie międzynarodowego transportu drogowego. ” ; 3) w art. 26 ust. 2 otrzymuje brzmienie: „ 2. Krajowy przedsiębiorca wykonujący międzynarodowy transport drogowy uiszcza opłatę za wydanie zezwolenia zagranicznego na jednorazowe lub wielokrotne przewozy. ” ; 4) w art. 31 ust. 3 otrzymuje brzmienie: „ 3. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wysokość prowizji oraz sposób jej pobierania i rozliczania z jednostkami, o których mowa w ust. 1 oraz w art. 27 ust. 2-4. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

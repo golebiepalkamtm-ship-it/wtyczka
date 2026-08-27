@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2016-2036",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 października 2016 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych",
+  "title_en": "",
+  "short_name": "pl-du-2016-2036",
+  "status": "amended",
+  "issued_date": "2016-10-21",
+  "in_force_date": "2016-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2036",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 grudnia 1998 r. oemeryturach i rentach z Funduszu Ubezpieczeń Społecznych ( Dz. U. z 2016 r. poz. 887 i 1948 ) w art. 141 w ust. 1: 1) w pkt 1 w lit. b na końcu przecinek zastępuje się średnikiem i uchyla się lit. c; 2) po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) 75% kwoty najniższej emerytury lub renty - przy potrącaniu należności, o których mowa w art. 139 ust. 1 pkt 5, wraz z kosztami i opłatami egzekucyjnymi; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zobowiązań istniejących w dniu wejścia w życie niniejszej ustawy stosuje się przepis art. 141 ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie sześciu miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

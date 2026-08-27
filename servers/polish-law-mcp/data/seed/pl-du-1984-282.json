@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1984-282",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 grudnia 1984 r. o uznaniu ważności umów o przekazanie gospodarstwa rolnego następcy.",
+  "title_en": "",
+  "short_name": "pl-du-1984-282",
+  "status": "in_force",
+  "issued_date": "1984-12-03",
+  "in_force_date": "1984-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1984/282",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Umowy o przekazanie gospodarstwa rolnego następcy, sporządzone przed dniem 1 stycznia 1983 r. na podstawie ustawy z dnia 27 października 1977 r. o zaopatrzeniu emerytalnym oraz innych świadczeniach dla rolników i ich rodzin ( Dz. U. Nr 32, poz. 140 ) przez upoważnionego pracownika urzędu gminy nie będącego naczelnikiem gminy, uznaje się za sporządzone z zachowaniem formy przewidzianej w tej ustawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przez użyte w niniejszej ustawie określenie „naczelnik gminy” rozumie się także inne terenowe organy administracji państwowej o właściwości ogólnej stopnia podstawowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

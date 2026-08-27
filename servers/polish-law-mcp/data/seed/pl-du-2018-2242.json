@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2018-2242",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 listopada 2018 r. o zmianie niektórych ustaw w celu ułatwienia sprzedaży żywności przez rolników do sklepów i restauracji",
+  "title_en": "",
+  "short_name": "pl-du-2018-2242",
+  "status": "in_force",
+  "issued_date": "2018-11-09",
+  "in_force_date": "2018-11-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2242",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2018 r. poz. 1509 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193 i 2215. ) wprowadza się następujące zmiany: 1) w art. 20: a) w ust. 1c: - uchyla się pkt 1, - pkt 2 otrzymuje brzmienie: „ 2) przetwarzanie produktów roślinnych i zwierzęcych i ich sprzedaż nie odbywa się przy zatrudnieniu osób na podstawie umów o pracę, umów zlecenia, umów o dzieło oraz innych umów o podobnym charakterze, z wyłączeniem uboju zwierząt rzeźnych i obróbki poubojowej tych zwierząt, w tym również rozbioru, podziału i klasyfikacji mięsa, przemiału zbóż, wytłoczenia oleju lub soku oraz sprzedaży podczas wystaw, festynów, targów i kiermaszy; ” , - uchyla się pkt 3, b) uchyla się ust. 1ea; 2) w art. 21 w ust. 1 pkt 71a otrzymuje brzmienie: „ 71a) przychody, o których mowa w art. 20 ust. 1c, do kwoty 40 000 zł rocznie; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ( Dz. U. z 2018 r. poz. 1541 , 1669 , 2136 i 2227 ) wprowadza się następujące zmiany: 1) w art. 3 w ust. 3 pkt 29b otrzymuje brzmienie: „ 29b) rolniczy handel detaliczny - handel detaliczny w rozumieniu art. 3 ust. 7 rozporządzenia nr 178/2002, polegający na produkcji żywności pochodzącej w całości lub części z własnej uprawy, hodowli lub chowu podmiotu działającego na rynku spożywczym i zbywaniu takiej żywności: a) konsumentowi finalnemu, o którym mowa w art. 3 ust. 18 rozporządzenia nr 178/2002, lub b) do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego; ” ; 2) w art. 44a: a) w ust. 1 uchyla się pkt 4 i 5, b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Zbywanie żywności w ramach rolniczego handlu detalicznego: 1) do zakładów prowadzących handel detaliczny z przeznaczeniem dla konsumenta finalnego odbywa się, jeżeli zakłady te są zlokalizowane na obszarze województwa, w którym ma miejsce prowadzenie produkcji tej żywności w ramach rolniczego handlu detalicznego, lub na obszarach powiatów lub miast stanowiących siedzibę wojewody lub sejmiku województwa, sąsiadujących z tym województwem; 2) jest dokumentowane w sposób umożliwiający określenie ilości zbywanej żywności; 3) nie może być dokonywane z udziałem pośrednika, z wyjątkiem zbywania takiej żywności podczas wystaw, festynów, targów lub kiermaszy, organizowanych w celu promocji żywności, jeżeli pośrednik zbywa konsumentom finalnym żywność: a) wyprodukowaną przez tego pośrednika w ramach rolniczego handlu detalicznego, b) wyprodukowaną przez inny podmiot prowadzący rolniczy handel detaliczny na obszarze powiatu, w którym pośrednik ten prowadzi produkcję żywności w ramach rolniczego handlu detalicznego, lub na obszarze powiatu sąsiadującego z tym powiatem. ” , c) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ W miejscu zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, o którym mowa w ust. 1a pkt 3, umieszcza się w sposób czytelny i widoczny dla konsumenta: ” , d) ust. 4 otrzymuje brzmienie: „ 4. Minister właściwy do spraw rolnictwa w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy sposób oznakowania miejsca zbywania żywności konsumentowi finalnemu przez podmiot prowadzący rolniczy handel detaliczny, w tym przez pośrednika, mając na względzie zapewnienie informacji o żywności zbywanej w ramach rolniczego handlu detalicznego i podmiotach prowadzących ten handel oraz ochronę zdrowia publicznego. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193 i 2215. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

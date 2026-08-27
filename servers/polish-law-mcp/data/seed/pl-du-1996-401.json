@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1996-401",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 lipca 1996 r. zmieniająca ustawę o zmianie ustawy o samorządzie terytorialnym oraz niektórych innych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-1996-401",
+  "status": "in_force",
+  "issued_date": "1996-07-05",
+  "in_force_date": "1996-07-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/401",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 września 1995 r. o zmianie ustawy o samorządzie terytorialnym oraz niektórych innych ustaw ( Dz. U. Nr 124, poz. 601 ) skreśla się art. 8."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 24b ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym , w brzmieniu ustalonym przez art. 1 pkt 13 ustawy wymienionej w art. 1 niniejszej ustawy, stosuje się do radnych tych rad gmin, które zostaną wybrane po dniu wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Urlop bezpłatny udzielony radnemu w okresie od 18 listopada 1995 r. do dnia 18 maja 1996 r. w trybie art. 24b ust. 2 i 3 ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym , w brzmieniu ustalonym przez art. 1 pkt 13 ustawy wymienionej w art. 1 niniejszej ustawy, ulega skróceniu do dnia wejścia w życie niniejszej ustawy. 2. Okres urlopu bezpłatnego, o którym mowa w ust. 1, uważa się za okres wykonywania pracy na dotychczasowym stanowisku, za który przysługuje wynagrodzenie jak za urlop wypoczynkowy. 3. Radny, o którym mowa w ust. 1, korzystający z urlopu bezpłatnego, podejmie pracę w terminie uzgodnionym z pracodawcą, najpóźniej jednak pierwszego dnia miesiąca kalendarzowego następującego po upływie jednego miesiąca od dnia wejścia w życie ustawy; przepisy art. 24c ustawy, o której mowa w ust. 1, stosuje się odpowiednio. 4. Niestawienie się radnego, o którym mowa w ust. 3, w miejscu pracy w terminie 14 dni od dnia wejścia w życie ustawy, w celu uzgodnienia daty podjęcia pracy, jest równoznaczne z kontynuowaniem urlopu bezpłatnego, na warunkach określonych w ustawie wymienionej w ust. 1, chyba że uchybienie terminu nastąpiło bez winy radnego i stawił się on w miejscu pracy bezzwłocznie po ustaniu przyczyny uchybienia terminu. 5. Przepisu ust. 1 nie stosuje się do radnych, którzy po uzyskaniu urlopu bezpłatnego, a przed dniem wejścia w życie ustawy, nawiązali stosunek pracy nie wywołujący skutków przewidzianych w art. 24b ustawy z dnia 8 marca 1990 r. o samorządzie terytorialnym , w brzmieniu ustalonym przez art. 1 pkt 13 ustawy wymienionej w art. 1 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Stwierdzenie przez radę gminy wygaśnięcia mandatu radnego lub zrzeczenie się mandatu przez radnego, jeżeli wynikło ono z okoliczności, o których mowa w art. 8 ust. 1 i 2 ustawy wymienionej w art. 1, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy, nie mają mocy prawnej, jeżeli przed dniem wejścia w życie ustawy mandat nie został ponownie obsadzony. 2. O utracie mocy obowiązującej uchwały rady gminy stwierdzającej wygaśnięcie mandatu radnego w okolicznościach, o których mowa w ust. 1, zarząd gminy powiadamia wyborców właściwego okręgu wyborczego w drodze obwieszczenia. 3. W przypadku obsadzenia mandatu radnego, osobie, która utraciła mandat w okolicznościach, o których mowa w art. 8 ust. 1 i 2 ustawy wymienionej w art. 1, w brzmieniu obowiązującym do dnia wejścia w życie niniejszej ustawy, nie przysługują roszczenia z tego tytułu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Z dniem wejścia w życie ustawy ulegają z mocy prawa umorzeniu postępowania wyborcze, prowadzone na podstawie ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ( Dz. U. z 1996 r. Nr 84, poz. 387 ) , których celem jest obsadzenie mandatu wygasłego w okolicznościach określonych w art. 8 ustawy, o której mowa w art. 1, w brzmieniu dotychczasowym. 2. Informację o umorzeniu postępowania wyborczego wojewoda podaje do wiadomości w sposób zwyczajowo przyjęty na obszarze gminy oraz ogłasza, w formie obwieszczenia, w wojewódzkim dzienniku urzędowym."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_3-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

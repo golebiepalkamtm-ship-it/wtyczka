@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1965-318",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 1965 r. o zmianie prawa o notariacie.",
+  "title_en": "",
+  "short_name": "pl-du-1965-318",
+  "status": "repealed",
+  "issued_date": "1965-12-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1965/318",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 66 ustawy z dnia 25 maja 1951 r. - Prawo o notariacie ( Dz. U. z 1963 r. Nr 19, poz. 106 i z 1964 r. Nr 41, poz. 278 ) dodaje się nowy § 3 w brzmieniu: „ § 3. Rada Ministrów może w drodze rozporządzenia przedłużyć termin określony w § 1. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

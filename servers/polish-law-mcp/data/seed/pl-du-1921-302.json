@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1921-302",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 maja 1921 r. o ulgach co do kwalifikacji na urząd sędziowski i prokuratorski.",
+  "title_en": "",
+  "short_name": "pl-du-1921-302",
+  "status": "in_force",
+  "issued_date": "1921-05-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/302",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Minister Sprawiedliwości może rozporządzeniem skrócić przejściowo czas trwania sędziowskiej służby przygotowawczej w okręgach sądów apelacyjnych we Lwowie i Krakowie z trzech lat do półtora roku, o ile to jest niezbędne do pozyskania potrzebnej liczby sędziów i prokuratorów. Upoważnienie to rozciąga się na pięć lat, licząc od dnia ogłoszenia niniejszej ustawy. Aplikanci, dopuszczeni do egzaminu sędziowskiego na zasadzie skróconej służby przygotowawczej, są zwolnieni od dostarczenia pracy domowej z zakresu umiejętności prawa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Egzamin adwokacki lub notarjalny, złożony w b. zaborze austrjackim, egzamin sędziowski, adwokacki lub notarjalny, złożony przed 1 listopada 1918 r. w innych częściach b. Austrji lub w Bośni i Hercegowinie, jak również egzamin na starszego kandydata do posad sądowych, złożony przed 1 kwietnia 1917 r. w b. cesarstwie rosyjskiem, zastępuje aplikację sądową i egzamin sędziowski. W ciągu lat trzech po ogłoszeniu niniejszej ustawy mogą osoby, które złożyły z dobrym wynikiem egzamin, przepisany dla służby wojskowo - sędziowskiej, osiągnąć urząd sędziowski lub prokuratorski, jeżeli złożą z pomyślnym wynikiem egzamin uzupełniający z przedmiotów prawa i procesu cywilnego. Egzamin należy złożyć ustnie i pisemnie według przepisów, obowiązujących dla egzaminów sędziowskich. Minister Sprawiedliwości oznaczy rozporządzeniem dalsze warunki dopuszczenia do tego egzaminu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kandydatom adwokackim, którzy w ciągu roku po wejściu w życie niniejszej ustawy, przejdą do służby sędziowskiej lub prokuratorskiej, będzie w razie wystąpienia z niej, czas, tam spędzony, wliczony do trzechlecia, które kandydat spędzić ma w myśl § 26 austr. ordynacji adwokackiej z 6 lipca 1863 r. (Dz. Pr. № 95) po złożeniu doktoratu u adwokata, jak również do terminu dwuletniego, przepisanego w ust. 2 art. 14 dekretu w przedmiocie statutu tymczasowego Palestry Państwa Polskiego z dnia 24 grudnia 1918 r. (Dz. Pr. № 22 poz. 75), bez względu na to, w której dzielnicy pełnili służbę sądową. Termin jednoroczny, w ustępie pierwszym oznaczony, może być rozporządzeniem Ministra Sprawiedliwości przedłużony do lat pięciu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ukończenie wydziału ekonomicznego politechniki petersburskiej, za złożeniem przepisanych tam egzaminów, uprawnia do aplikacji, o ile kandydat zgłosi się do niej w przeciągu lat trzech od wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kto złożył egzamin sędziowski w którejkolwiek dzielnicy, lub posiada egzamin zastępczy (art. 2), może być mianowany na urząd sędziowski lub prokuratorski w każdej dzielnicy. Aplikacja sądowa, potrzebna do dopuszczenia do egzaminu sędziowskiego, może być odbywana w różnych dzielnicach."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Wykonanie jej poleca się Ministrowi Sprawiedliwości, a w b. dzielnicy pruskie Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

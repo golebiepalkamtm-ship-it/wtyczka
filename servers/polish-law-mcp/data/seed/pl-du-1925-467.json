@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1925-467",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 czerwca 1925 r. o uzupełnieniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 kwietnia 1924 r. o zmianie ustroju pieniężnego.",
+  "title_en": "",
+  "short_name": "pl-du-1925-467",
+  "status": "repealed",
+  "issued_date": "1925-06-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/467",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnienie Ministra Skarbu, zawarte w ust. 1 § 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 kwietnia 1924 r. o zmianie ustroju pieniężnego (Dz. U. R. P. № 34 poz. 351), do emisji biletów zdawkowych na sumę nie wyżej 150 miljonów złotych, rozciąga się również na bilety zdawkowe, opiewające na 5 złotych. W tekście, drukowanym na tych biletach, winno być oznaczone, że są to bilety zdawkowe."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do biletów zdawkowych, wypuszczonych na podstawie art. 1 niniejszej ustawy, mają zastosowanie postanowienia § 7 oraz ust. 2 i 3 § 8 powołanego w art. 1 rozporządzenia w brzmieniu, ustalonem w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 28 czerwca 1924 r. (Dz. U. R. P. № 56 poz. 564)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Szczegółowe terminy oraz warunki wycofania poszczególnych kategoryj biletów zdawkowych, opiewających na jeden i dwa złote, wypuszczonych na podstawie § 6 powołanego na wstępie rozporządzenia, oraz biletów zdawkowych, wypuszczonych na podstawie art. 1 niniejszej ustawy, jak niemniej terminy pozbawienia poszczególnych biletów zdawkowych charakteru prawnego środka płatniczego będzie ustalał Minister Skarbu w drodze rozporządzenia z tem, że termin między początkiem wycofania a jego ukończeniem nie może być krótszy, niż jeden rok."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

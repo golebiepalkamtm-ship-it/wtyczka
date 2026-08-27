@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1919-263",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 kwietnia 1919 r. o nietykalności członków Sejmu Ustawodawczego.",
+  "title_en": "",
+  "short_name": "pl-du-1919-263",
+  "status": "in_force",
+  "issued_date": "1919-04-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/263",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Członkowie Sejmu Ustawodawczego nie mogą być nigdy pociągani do odpowiedzialności prawnej za swoją działalność w Sejmie lub poza Sejmem, wchodzącą w zakres wykonywania mandatu poselskiego. Za przemówienia i odezwania się, tudzież manifestacje w Sejmie lub komisjach sejmowych odpowiadają tylko przed Sejmem podług przepisów regulaminu sejmowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przez cały czas trwania Sejmu Ustawodawczego posłowie nie mogą być w żadnym wypadku pozbawieni wolności. W tymże samym czasie nie wolno żadnej władzy sądowej lub administracyjnej wdrażać przeciwko nim postępowania karnego lub dyscyplinarnego bez uprzedniej zgody Sejmu. Postępowanie karne lub dyscyplinarne, wdrożone przeciw posłowi przed uzyskaniem mandatu poselskiego, winno być na żądanie Sejmu zawieszone aż do wygaśnięcia tegoż mandatu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Członkowie Sejmu Ustawodawczego, badani jako świadkowie przed sądami, władzami administracyjnemi i dyscyplinarnemi, mają prawo uchylenia się od zeznań co do faktów, które im w wykonywaniu zawodu poselskiego do wiadomości podano, jako też co do osób, od których pośrednio lub bezpośrednio wiadomość o tych faktach uzyskali."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Mieszkanie członków Sejmu Ustawodawczego jest nietykalne. Wkroczenie do mieszkania, rewizja domowa i zatrzymanie papierów oraz wszelakich ruchomości może mieć miejsce jedynie na podstawie nakazu władzy sądowej w tych wypadkach, w których członkowie rodziny posła, wspólnie z nim mieszkający, lub domownicy ścigani są z powodu popełnienia czynów karygodnych, i powinno być wyłącznie do tych osób ograniczone."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Nikt nie może być pociągnięty do odpowiedzialności za zgodne z prawdą sprawozdania z jawnych obrad Sejmu i komisji sejmowych, ani też za częściowy lub zupełny przedruk tychże jawnych obrad, zgodny z urzędowym stenograficznym protokułem. Te sprawozdania i przedruki nie podlegają konfiskacie i wolne są od cenzury."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Członkowie Sejmu Ustawodawczego mogą bez pozwolenia i zawiadomienia władz zwoływać zgromadzenia celem zdania sprawy z działalności sejmowej. Na tych zgromadzeniach przedstawiciele i organy władzy nie mają prawa mieszania się do obrad."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Listy i telegramy, wystosowane do członków Sejmu Ustawodawczego, jako też korespondencja tychże ostatnich - nie podlegają żadnej cenzurze. Władze mogą zatrzymać tylko telegramy, których treść narusza tajemnice wojskowe i państwowe."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

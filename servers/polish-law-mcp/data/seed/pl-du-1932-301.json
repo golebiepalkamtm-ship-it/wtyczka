@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-301",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 marca 1932 r. o scalaniu działek budowlanych w mieście Gdyni.",
+  "title_en": "",
+  "short_name": "pl-du-1932-301",
+  "status": "repealed",
+  "issued_date": "1932-03-14",
+  "in_force_date": "1932-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/301",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na obszarach miasta Gdyni, objętych prawomocnym planem zabudowania, postępowanie scaleniowe, przewidziane w artykułach 98 - 143 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr 23, poz. 202), może być poza wypadkiem, przewidzianym w art. 99 ust. 1 lit. b tegoż rozporządzenia, wszczęte z urzędu także w wypadkach, gdy w obrębie bloku budowlanego, już utworzonego, lub który ma być utworzony w myśl prawomocnego planu zabudowania: a) znajdują się takie działki, które mogą ulec scaleniu według art. 68 powołanego wyżej rozporządzenia, a przynajmniej jedna z nich nie przylega do żadnej z ulic, otaczających blok budowlany, lub gdy b) powierzchnia działek, które ze względu na ich rozmiary, kształt lub położenie, nie mogą być zabudowane zgodnie z wymogami przepisów obowiązujących i planu zabudowania, albo działek, które są zdatne do zabudowania zgodnie z obowiązującemi przepisami i prawomocnym planem zabudowania, lecz nie mogą być zabudowane w sposób ekonomiczny i celowy, wynosi co najmniej jedną piątą część powierzchni całego bloku."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Koszt postępowania scaleniowego, przeprowadzonego na podstawie art. 1, ponosi gmina m. Gdyni. Tem samem odnośnie do niniejszej ustawy nie ma zastosowania art. 107 rozporządzenia, w art. 1 niniejszej ustawy wymienionego. Pozatem stosowane będą wszelkie postanowienia powołanego w art. 1 rozporządzenia części I Tytułu III „Scalenie działek budowlanych”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia, a utraci moc po upływie 10 lat od dnia wejścia jej w życie. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-536",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lipca 1922 r. w przedmiocie sądów doraźnych w b. dzielnicy pruskiej i na obszarze górnośląskim Województwa Śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-536",
+  "status": "repealed",
+  "issued_date": "1922-07-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/536",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą ustawy z dnia 30 czerwca 1919 r. w przedmiocie sądów doraźnych (Dz. P. P. P. № 55 poz. 341) rozciąga się na obszar b. dzielnicy pruskiej oraz na obszar górnośląski Województwa Śląskiego ze zmianami, w niniejszej ustawie określonemi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 30 czerwca 1919 r. w przedmiocie sądów doraźnych wprowadza się zmiany następujące: a) Przepis art. 1 otrzymuje brzmienie następujące: „ Sądownictwu doraźnemu poddane być mogą przestępstwa, przewidziane w §§ 125 ust. 2, 211, 212, 225, 243 p. 5 i 6, 249, 250, 251, 252, 255, 306, 307, 308, 311, 312, 315, z wypuszczeniem słów końcowych, zawartych w tym przepisie:” lub w inny sposób”, 317, 321 ust. 2, 323, 324, Kod. Karn., oraz w §§ 5, 6, 7 i 8 ustawy z dn. 9 czerwca 1884 r. o zbrodniczem i wszemgrożącem używaniu środków wybuchowych (Dz. U. Rzeszy str. 61) ” ; b) w art. 5 słowa: „(art. 51 K. K)” zastępuje się słowami: „(§§ 47, 48, 49 Kod. Kar.)”; c) w ust. 1 art. 13 skreśla się słowa: „przepis art. 557 u. p. k. nie będzie stosowany”, a słowa: „z pośród aplikantów sądowych i obrońców” zastępuje się słowami: „z pośród sędziów lub aplikantów”; d) w art. 17 zastępuje się słowa: „(art. 636 - 645 u. p. k.)” słowami: „(§ 242 ust. 1 i 2 ust. o postęp, kar.)”, a słowa: „(art. 620 - 635 i 679 - 749 u. p. k.)” słowami: „(§§ 225 - 265 i §§ 274, 275 ust. o postęp, kar.)”; e) w art. 18 słowa: „art. 771 u. p. k.” zastępuje się słowami: „§ 266 i ust. 1 § 267 ust. o postęp, kar.”; f) ust. 2 art. 18 otrzymuje brzmienie następujące: „ Postanowienie ust. 1 § 267 ust. o postęp. kar., dozwalające ogłoszenie wyroku najpóźniej w tydzień po zakończeniu rozpraw, nie ma zastosowania w postępowaniu doraźnem ” ; g) skreśla się ust. 2 i 3 art. 19, a w ust. 1 tegoż artykułu skreśla się słowa: „w tych przypadkach, w których w postępowaniu zwyczajnem przestępstwo zagrożone jest conajmniej karą ciężkiego więzienia”; h) do ustępu ostatniego art. 19 dodać należy wyrazy: „jeśli w postępowaniu zwyczajnem nie należy wymierzyć kary śmierci”; i) skreśla się ust. 2 art. 21 i ust. 1 art. 26; j) w art. 22 słowa: „w art. 961 u. p. k.” zastępuje się słowami: „w zdaniu 2 ust. 1 § 485 ust. o postęp. kar.”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych. Minister Sprawiedliwości ogłosi dla obszarów, wymienionych w art. 1, ustawę z dnia 30 czerwca 1919 r. w przedmiocie sądów doraźnych (Dz. P. P. P. № 55 poz. 341) w redakcji, uwzględniającej zmiany, wprowadzone niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje na obszarach, wymienionych w art. 1 i wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_2-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_2-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"arti_2-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"arti_2-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

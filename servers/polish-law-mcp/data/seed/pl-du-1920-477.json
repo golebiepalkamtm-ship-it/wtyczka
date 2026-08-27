@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1920-477",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. o ujednostajnieniu i podwyższeniu podatków gruntowych i podymnego na obszarze b. Królestwa Kongresowego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-477",
+  "status": "in_force",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/477",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uchyla się na obszarze b. Królestwa Kongresowego moc rozporządzeń b. władz okupacyjnych niemieckich i austrjacko-węgierskich w przedmiocie podatków gruntowych i podymnego i przywraca się stosowanie na tym obszarze przepisów, zawartych w rosyjskiej ustawie o podatkach bezpośrednich (Zb. Pr. tom V wyd. 1903 r. art. 119-218 i 272) ze zmianami, wskazanemi w art. 2-8 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustępowi 3 art. 120 rosyjskiej ustawy o podatkach bezpośrednich nadaje się brzmienie następujące: „wszystkie grunty i lasy, stanowiące własność Państwa”. Artykułowi 132 rosyjskiej ustawy o podatkach bezpośrednich nadaje się brzmienie następujące: „podatek gruntowy dodatkowy pobiera się w wysokości 100% podatku gruntowego głównego. Majątki, nie przekraczające przestrzeni 30 morgów, płacą podatek gruntowy dodatkowy w wysokości 60% podatku gruntowego głównego”. Ustęp 2 art. 142 tejże ustawy otrzymuje następujące brzmienie, „fabryki i zakłady rządowe oraz wszystkie wogóle gmachy rządowe, nie wyłączając pomieszczeń, zajmowanych w tych budynkach przez urzędników wojskowych lub cywilnych i służbę niższą, tudzież lokali wynajmowanych”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stawki głównych podatków gruntowych, określone w dodatkach do art. 128 i 171 rosyjskiej ustawy o podatkach bezpośrednich, podwyższa się czternastokrotnie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Podymne dworskie główne, określone w dodatku do uwagi do art. 150 rosyjskiej ustawy o podatkach bezpośrednich, w majątkach klasy I, II, III i IV podwyższa się ośmiokrotnie, a w majątkach klasy V - sześciokrotnie. Podymne dodatkowe pobiera się w wysokości 1 procentu od sumy szacunku ubezpieczeniowego każdej budowli. Gdy jednak budowla jest oszacowana powyżej 100.000 mk., podatek dodatkowy oblicza się tylko od tej ostatniej sumy. Podymne z osad włościańskich tudzież z nieruchomości, położonych w osadach, utworzonych z miast, określone w art. 164 i 194 ustawy rosyjskiej o podatkach bezpośrednich, podwyższa się dla osad klasy pierwszej ośmiokrotnie, dla osad klasy drugiej i trzeciej - sześciokrotnie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kwoty, wyrażone w walucie rublowej, przelicza się na marki polskie według stosunku 216 mk. polskich za 100 rb. Przerachowanie stawki podymnego wyraża się w pełnych markach; należności w ilości 50 lub więcej fenigów liczy się za jedną markę, należności zas w ilości mniejszej pd 50 fen. nie wchodzą w rachubę."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Opłatę drogową w wysokości 15% od głównych podatków gruntowych i podymnego, ustanowioną na mocy zatwierdzonych władzą cesarską w dniu 19 czerwca 1870 roku przepisów o utrzymaniu dróg ziemskich w guberniach Królestwa Polskiego (Dz. Pr. tom LXX, str. 242), tudzież pobieranie obowiązującej dotychczas opłaty transportowej w odniesieniu do wszystkich gruntów, jakoteż domów, podlegających podatkom gruntowym lub podymnego - znosi się. Uchyla się również art. 273 i 274 ustawy o podatkach bezpośrednich, wyd. 1903 roku, ustanawiające specjalny podatek na koszty utrzymania sądów gminnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Za podstawę do obliczania dodatków do głównych podatków gruntowych na rzecz powiatowych związków komunalnych, w myśl art. 7 p. dekretu z dnia 7 lutego 1919 r. (Dz. Pr. № 14, poz. 151), przyjmuje się 52% tych podatków, według wymiaru urzędów skarbowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Skarbu ma prawo podatki gruntowe i podymne co do tych jednostek podatkowych, gmin lub okręgów, które poniosły straty wskutek wojny lub spowodowanych nią klęsk żywiołowych, zniżać, odraczać, rozkładać na raty i umarzać na wszelkie sumy i bez ograniczenia terminu. Bliższe postanowienia w tym przedmiocie wyda Minister Skarbu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1920 r. i obowiązuje przez r. 1920 i 1921."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

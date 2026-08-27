@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-1653",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym",
+  "title_en": "",
+  "short_name": "pl-du-2008-1653",
+  "status": "amended",
+  "issued_date": "2008-12-05",
+  "in_force_date": "2008-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1653",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym ( Dz. U. Nr 191, poz. 1410 , z 2007 r. Nr 89, poz. 590 i Nr 166, poz. 1172 oraz z 2008 r. Nr 17, poz. 101 ) po art. 56 w rozdziale 8 dodaje się art. 56a w brzmieniu: „ Art. 56a. 1. W 2009 r. na podstawie założeń, o których mowa w art. 46 ust. 3, minister właściwy do spraw zdrowia, do dnia 15 stycznia 2009 r., przedstawia ministrowi właściwemu do spraw finansów publicznych wysokość środków na finansowanie zadań, o których mowa w art. 46 ust. 1, wraz z podziałem tych środków pomiędzy poszczególne województwa. 2. W celu ustalenia wysokości środków na finansowanie zespołów ratownictwa medycznego pomiędzy poszczególne województwa należy kolejno obliczyć: 1) dla każdego województwa - sumę: a) iloczynu liczby zespołów podstawowych w tym województwie i wskaźnika kosztów całodobowego utrzymania zespołu podstawowego stanowiącego 0,75 kosztów całodobowego utrzymania zespołu specjalistycznego oraz b) liczby zespołów specjalistycznych - zwaną dalej „unormowaną liczbą zespołów”; 2) sumę unormowanej liczby zespołów łącznie dla wszystkich województw; 3) dla każdego województwa - udział procentowy unormowanej liczby zespołów w sumie, o której mowa w pkt 2. 3. Wysokość środków na finansowanie zespołów ratownictwa medycznego dla danego województwa stanowi iloczyn środków ustalonych w ustawie budżetowej z przeznaczeniem na finansowanie zadań zespołów ratownictwa medycznego i udziału procentowego, o którym mowa w ust. 2 pkt 3. 4. Na rok 2009 liczby zespołów, o których mowa w ust. 2 pkt 1, ustala się na podstawie planów, o których mowa w art. 21, uwzględniając współczynniki stanowiące stosunek okresu funkcjonowania zespołu ratownictwa medycznego w danym roku do całego roku. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2009 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2020-2374",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o Chrześcijańskiej Akademii Teologicznej w Warszawie",
+  "title_en": "",
+  "short_name": "pl-du-2020-2374",
+  "status": "amended",
+  "issued_date": "2020-11-27",
+  "in_force_date": "2020-12-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/2374",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 marca 2000 r. o Chrześcijańskiej Akademii Teologicznej w Warszawie ( Dz. U. z 2019 r. poz. 1381 ) wprowadza się następujące zmiany: 1) w art. 1 w ust. 1 wyrazy „uczelnią państwową” zastępuje się wyrazami „uczelnią publiczną” ; 2) art. 3a otrzymuje brzmienie: „ Art. 3a. 1. Akademia otrzymuje subwencję ze środków finansowych, o których mowa w art. 365 pkt 1 lub 2 ustawy z dnia 20 lipca 2018 r. - Prawo o szkolnictwie wyższym i nauce ( Dz. U. z 2020 r. poz. 85 , 374 , 695 , 875 i 1086 ) , w wysokości nie niższej niż ustalona na rok poprzedni na podstawie algorytmu podziału środków finansowych, o którym mowa odpowiednio w art. 368 ust. 2 lub 3 tej ustawy. 2. Minister właściwy do spraw wyznań religijnych oraz mniejszości narodowych i etnicznych udziela Akademii dotacji podmiotowej na dofinansowanie wynagrodzeń nauczycieli akademickich wykonujących pracę w Wydziale Teologicznym, wraz z pochodnymi od tych wynagrodzeń. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2021 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

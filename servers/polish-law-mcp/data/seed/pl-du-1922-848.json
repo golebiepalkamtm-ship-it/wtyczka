@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-848",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. w przedmiocie częściowej zmiany ustawy niemieckiej z dnia 14 sierpnia 1876 r., dotyczącej zarządu lasów, należących do gmin i zakładów publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1922-848",
+  "status": "repealed",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/848",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Lasy prywatne, położone na obszarze województw: poznańskiego i pomorskiego, poddaje się, z uwzględnieniem postanowienia art. 8 ustawy z dnia 1 sierpnia 1919 r. o tymczasowej organizacji zarządu b. dzielnicy pruskiej (Dz. P. P. P. № 64 poz. 385), nadzorowi państwowemu, określonemu ustawą z dnia 14 sierpnia 1876 r. o zarządzie lasów, należących do gmin i zakładów publicznych w prowincjach Prus Zachodnich, Brandenburgji, Pomorza, Poznania, Śląska i Saksonji (Zb. Ust. Prusk. str. 373), jednak z wyłączeniem stosowania §§ 8 i 9 tej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Rolnictwa i Dóbr Państwowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

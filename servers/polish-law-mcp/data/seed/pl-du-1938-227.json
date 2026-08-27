@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-227",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1938 r. o zmianie ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym.",
+  "title_en": "",
+  "short_name": "pl-du-1938-227",
+  "status": "repealed",
+  "issued_date": "1938-04-09",
+  "in_force_date": "1938-04-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/227",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 304 ustawy z dnia 28 marca 1933 roku o ubezpieczeniu społecznym ( Dz. U. R. P. Nr 51, poz. 396 ) wprowadza się zmianę następującą: po ust. (3) dodaje się dwa nowe ustępy (3a) i (3b): „ (3a) Minister Opieki Społecznej rozszerzy w drodze rozporządzeń zasady ubezpieczenia brackiego, określonego na mocy ust. (3) - na pracowników, zatrudnionych w przedsiębiorstwach górniczych w powiatach bialskim, bielskim i chrzanowskim, z tym jednak zastrzeżeniem, że zaliczenie tym pracownikom do ubezpieczenia lat, przepracowanych przed dniem 1 lipca 1938 r., nie może przewyższać lat 11, oraz że koszt tego zaliczenia pokryty będzie przez przedsiębiorstwa w formie opłacania corocznie kwoty 175.000 złotych przez przeciąg 35 lat, dzielonej między poszczególne przedsiębiorstwa, proporcjonalnie do liczby wydobytych ton węgla kamiennego. (3b) Rozporządzenia te określą również zasady likwidacji lokalnych funduszów zapomogowych i urządzeń pokrewnych, istniejących przy przedsiębiorstwach, wymienionych w ustępie poprzedzającym oraz zasady likwidacji lub dalszego prowadzenia takich urządzeń przy przedsiębiorstwach „Węgierska Górka”, „Górnicza i Hutnicza Spółka Akcyjna” w Węgierskiej Górce i „Giesche” Zakłady Hutnicze Spółka Akcyjna w Trzebini, jako też udział Zakładu Ubezpieczeń Społecznych (Funduszu Ubezpieczenia Emerytalnego Robotników) w kosztach likwidacji tych urządzeń. Udział Zakładu Ubezpieczeń Społecznych (Funduszu Ubezpieczenia Emerytalnego Robotników) nie może przekraczać kwoty 500.000 złotych ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

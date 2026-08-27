@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1997-467",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 kwietnia 1997 r. o zmianie ustawy o jednostkach badawczo-rozwojowych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-467",
+  "status": "repealed",
+  "issued_date": "1997-04-24",
+  "in_force_date": "1997-07-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/467",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ( Dz. U. z 1991 r. Nr 44, poz. 194 i Nr 107, poz. 464 , z 1992 r. Nr 54, poz. 254 , z 1994 r. Nr 1, poz. 3 i Nr 43, poz. 163 , z 1996 r. Nr 41, poz. 175 i Nr 89, poz. 402 oraz z 1997 r. Nr 43, poz. 272 ) po art. 18 dodaje się art. 18a w brzmieniu: „ Art. 18a. Jednostki badawczo-rozwojowe są zwolnione z opłat z tytułu użytkowania wieczystego gruntów stanowiących własność Skarbu Państwa lub własność gminy, z wyjątkiem części tych gruntów wykorzystywanej wyłącznie do działalności gospodarczej. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Z dniem wejścia w życie ustawy: 1) grunty stanowiące własność Skarbu Państwa lub gminy, znajdujące się w posiadaniu jednostki badawczo-rozwojowej, która w dniu 5 grudnia 1990 r. nie legitymowała się dokumentami o ich przekazaniu wydanymi w formie przewidzianej prawem, i wykorzystywane przez tę jednostkę do celów statutowych, stają się przedmiotem użytkowania wieczystego tej jednostki, 2) budynki i urządzenia trwale związane z gruntami, o których mowa w pkt 1, stają się własnością jednostki badawczo-rozwojowej. 2. Przepisy ust. 1 nie naruszają praw osób trzecich. 3. Nabycie praw, o których mowa w ust. 1, stwierdza się decyzją wojewody w odniesieniu do nieruchomości stanowiących własność Skarbu Państwa albo decyzją zarządu gminy w odniesieniu do nieruchomości stanowiących własność gminy. 4. Decyzja, o której mowa w ust. 3, stanowi podstawę do dokonania wpisu w księdze wieczystej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

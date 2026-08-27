@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2023-2699",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 grudnia 2023 r. o zmianie ustawy o doręczeniach elektronicznych",
+  "title_en": "",
+  "short_name": "pl-du-2023-2699",
+  "status": "in_force",
+  "issued_date": "2023-12-12",
+  "in_force_date": "2023-12-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/2699",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 listopada 2020 r. o doręczeniach elektronicznych ( Dz. U. z 2023 r. poz. 285 i 1860 ) wprowadza się następujące zmiany: 1) w art. 152: a) w ust. 1 wyrazy „po dniu 31 grudnia 2023 r.” zastępuje się wyrazami „od dnia 1 stycznia 2025 r.” , b) w ust. 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Podmioty niepubliczne nieposiadające adresu do doręczeń elektronicznych wpisanego do bazy adresów elektronicznych, wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej do dnia 31 grudnia 2024 r., składające w okresie od dnia 1 lipca 2025 r. do dnia 30 września 2026 r. wniosek o zmianę wpisu, są obowiązane do: ” ; 2) w art. 155 ust. 11 otrzymuje brzmienie: „ 11. Termin określony w komunikacie nie może być wcześniejszy niż dzień 30 marca 2024 r. i późniejszy niż dzień 1 stycznia 2025 r. ” ; 3) w art. 158 uchyla się ust. 2."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1990-311",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 lipca 1990 r. o zasadach realizacji przedpłat na samochody osobowe.",
+  "title_en": "",
+  "short_name": "pl-du-1990-311",
+  "status": "repealed",
+  "issued_date": "1990-07-20",
+  "in_force_date": "1990-08-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/311",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Osoby, które w 1981 r. wniosły przedpłaty na zakup samochodów osobowych marki Fiat 126p lub FSO 1500 i dotychczas samochodu nie odebrały, nabywają te samochody po cenach umownych z dnia faktycznego odbioru samochodu, pomniejszonych o bonifikatę w wysokości 50% ceny samochodu w wersji standard (Fiat 126p) lub w wersji podstawowej (FSO 1500). 2. Realizacja przedpłat odbywa się w kolejności wynikającej z dotychczas przyjętych zasad oraz w ramach środków przeznaczonych w budżecie państwa na dotacje przedmiotowe do bonifikat. 3. W razie zmiany uprawnienia do zakupu samochodu osobowego, na który wniesiono przedpłatę, na uprawnienie do zakupu innego samochodu, stosuje się bonifikatę obliczoną w stosunku do ceny samochodu, na który wniesiono przedpłatę."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Kwoty bonifikat, o których mowa w art. 1, pomniejszone o podatek obrotowy od samochodów w wersji standard (Fiat 126p FL) lub w wersji podstawowej (FSO 1500), stanowią dotację przedmiotową rozliczaną przez sprzedawcę z budżetem państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Osoba, która zrezygnuje z zakupu samochodu zaoferowanego po cenie i w trybie określonym w art. 1, otrzymuje zwrot wniesionych wkładów wraz z oprocentowaniem oraz rekompensatę równą bonifikacie określonej w art. 1 ust. 1, którą wypłaca bank likwidujący rachunek przedpłaty na samochód. 2. Kwota rekompensaty, o której mowa w ust. 1, stanowi dotację przedmiotową rozliczaną przez bank z budżetem państwa. 3. Zwalnia się od podatku dochodowego kwoty otrzymane z tytułu rekompensat określonych w ust. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Jeżeli osoba wymieniona w art. 3 ust. 1 zrezygnuje z rekompensaty, o której mowa w tym przepisie, i w ciągu roku od daty likwidacji rachunku przedpłaty na samochód sprowadzi z zagranicy samochód osobowy, samochód ten jest wolny od cła. 2. Osoba wymieniona w ust. 1 jest obowiązana przedłożyć organowi celnemu oryginał zaświadczenia banku o rezygnacji z zakupu samochodu na przedpłatę wniesioną w 1981 r. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio do samochodów osobowych importowanych, nabywanych od podmiotów gospodarczych prowadzących działalność w zakresie handlu zagranicznego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

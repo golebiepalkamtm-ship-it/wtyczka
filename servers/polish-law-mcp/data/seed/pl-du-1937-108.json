@@ -1,0 +1,116 @@
+{
+  "id": "pl-du-1937-108",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lutego 1937 r. o stanie wyjątkowym.",
+  "title_en": "",
+  "short_name": "pl-du-1937-108",
+  "status": "in_force",
+  "issued_date": "1937-02-22",
+  "in_force_date": "1937-03-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/108",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Wprowadzenie stanu wyjątkowego zarządza Rada Ministrów na wniosek Ministra Spraw Wewnętrznych i za zezwoleniem Prezydenta Rzeczypospolitej (art. 78 ustawy konstytucyjnej). (2) Zarządzenie Rady Ministrów, oprócz ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej, należy nadto obwieścić w gminach, objętych stanem wyjątkowym. (3) Zarządzenie wchodzi w życie na obszarze powiatu z dniem obwieszczenia go w mieście, będącym siedzibą powiatowej władzy administracji ogólnej, a gdy warunki nie pozwalają na przeprowadzenie tej czynności w tym mieście - w dniu obwieszczenia w siedzibie właściwej wojewódzkiej władzy administracji ogólnej. (4) Obwieszczenie powinno wymieniać swobody obywatelskie, które ulegają zawieszeniu, oraz skutki, jakie zawieszenie tych swobód pociąga za sobą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Wprowadzenie stanu wyjątkowego powoduje zawieszenie czasowe następujących swobód obywatelskich: wolności osobistej, nietykalności mieszkania, wolności słowa, tajemnicy korespondencji, wolności zrzeszeń. (2) Zawieszenie swobód obywatelskich pociąga za sobą z mocy samego prawa skutki, określone w art. 3-7, jeżeli zarządzenie Rady Ministrów o wprowadzeniu stanu wyjątkowego nie zacieśnia wyraźnie ich zakresu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Zawieszenie wolności osobistej pociąga za sobą skutki, określone w przepisach artykułu niniejszego. (2) Władzy administracji ogólnej służy wobec osób, zagrażających bezpieczeństwu, spokojowi lub porządkowi publicznemu, samoistne prawo dokonywania rewizji osobistych, zatrzymywania w areszcie w ciągu 8 dni, stosowania w sprawach karnych administracyjnych aresztu tymczasowego na czas do 2 miesięcy, internowania w osobnych miejscach na ten cel przeznaczonych na czas nie przekraczający 3 miesięcy, konfinowania (wyznaczenia przymusowego pobytu) na określonym obszarze na czas nie przekraczający 6 miesięcy, wreszcie - wydaenie z obszaru objętego stanem wyjątkowym na czas trwania tego stanu lub krótszy. (3) Zarządzenia o internowaniu, konfinowaniu i wydaleniu połączyć można z ograniczeniami niezbędnymi dla zapewnienia skuteczności tym zarządzeniom. (4) Internowanie i konfinowanie do dni 30 zarządza powiatowa władza, na okres zaś dłuższy - wojewódzka władza administracji ogólnej. (5) Wobec osób, podejrzanych o popełnienie zbrodni lub występku, ściganych z urzędu, należy stosować areszt tymczasowy; odstąpienie od aresztowania pod warunkiem złożenia kaucji lub poręczenia może nastąpić tylko za zgodą prokuratora."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zawieszenie rękojmi nietykalności mieszkania pociąga za sobą samoistne uprawnienie władz administracji ogólnej do dokonywania rewizji domowych i zajmowania przedmiotów u osób, zagrażających bezpieczeństwu, spokojowi lub porządkowi publicznemu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Zawieszenie wolności słowa uprawnia władze administracji ogólnej do: 1) wprowadzania cenzury prewencyjnej dla druków i wszelkich utworów, przeznaczonych do rozpowszechniania, 2) zawieszania czasopism, konfiskaty druków i wszelkich utworów, przeznaczonych do rozpowszechnienia, odbierania im debitu pocztowego oraz ograniczania ich rozpowszechniania, jeżeli zagrażają one bezpieczeństwu, spokojowi lub porządkowi publicznemu, 3) zakazu wydawania nowych czasopism bez uprzedniego zezwolenia, 4) zakazu zajmowania się rozpowszechnianiem druków bez uprzedniego zezwolenia, 5) zakazu wykonywania przemysłu i zawodu drukarskiego i graficznego przez osoby, zagrażające bezpieczeństwu, spokojowi lub porządkowi publicznemu, 6) wprowadzania cenzury prewencyjnej utworów, przeznaczonych do odtwarzania publicznego, tudzież kontroli i przerywania tego rodzaju produkcyj."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Zawieszenie tajemnicy korespondencji pociąga za sobą uprawnienie władz administracji ogólnej do przeglądania korespondencji, przesyłek pocztowych i telegramów, do ich zajmowania i konfiskaty oraz do kontroli i przerywania rozmów telefonicznych i radiowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zawieszenie wolności zrzeszeń pociąga za sobą skutki następujące: 1) nowe zrzeszenia i oddziały można tworzyć tylko za uprzednim zezwoleniem władz administracji ogólnej, 2) jeżeli władza administracji ogólnej uzna, że względy bezpieczeństwa, spokoju lub porządku publicznego tego wymagają, może: a) zawieszać i ograniczać działalność zrzeszeń, b) roztaczać nadzór nad działalnością zrzeszeń i przeglądać ich akta, c) nakazywać uprzednie zawiadamianie władzy o posiedzeniach władz i organów zrzeszeń oraz wysyłać na posiedzenia te swoich przedstawicieli, d) uchylać i zawieszać wykonanie uchwał, powziętych przez władze i organa zrzeszeń, e) zakazywać zmów pracodawców i pracowników oraz związanej z tym działalności."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) W czasie trwania stanu wyjątkowego Minister Spraw Wewnętrznych może w porozumieniu z interesowanymi ministrami wydawać wyjątkowe rozporządzenia i zarządzenia co do: 1) wyrabiania broni, amunicji, materiałów wybuchowych oraz innych narzędzi i substancyj, mogących służyć do napaści lub obrony, 2) przebywania i zachowywania się w miejscach publicznych, używania odznak i mundurów, dokonywania zdjęć fotograficznych, 3) urządzania zgromadzeń i imprez, połączonych ze skupieniem się ludności, 4) dowodów osobistych i meldunków, 5) kontroli, ograniczenia lub zamknięcia ruchu osobowego i towarowego na drogach lądowych, wodnych i powietrznych oraz komunikacji pocztowej, telegraficznej i telefonicznej i radiowej, 6) wyrobu, obrotu, posiadania 1 używania wszelkich urządzeń, mogących służyć do porozumiewania się na odległość, 7) zaopatrzenia ludności w artykuły pierwszej potrzeby, 8) ochrony i utrzymania prawidłowego działania środków komunikacyjnych i środków łączności wraz z przynależnymi urządzeniami, urzędów i instytucji rządowych i samorządowych, wreszcie - wszelkich zakladów i przedsiębiorstw, których normalna działalność leży w interesie publicznym. (2) Rozporządzenia i zarządzenia wyjątkowe mogą wprowadzać osobiste i rzeczowe świadczenia ludności, nie przekraczające jednak zakresu świadczeń, zastrzeżonych przepisami na rzecz wojska w okresie wojennym. Jako świadczenia osobiste można wprowadzić bez płatne pełnienie pomocniczej służby bezpieczeństwa przez ludność miejscową, pod nadzorem władz gminnych i odpowiedzialnością gminy za szkody i straty, wynikłe z zaniedbania obowiązków tej służby. Odpowiedzialność i wysokość odszkodowania ustala wojewódzka władza administracji ogólnej, przy czym może ona nakazać egzekucję na rzecz poszkodowanego w trybie administracyjnym. Przyznanie tego odszkodowania nie narusza praw poszkodowanego do dochodzenia dalszych szkód na drodze sądowej. Gmina ma zwrotne roszczenie do osób, z których winy szkoda powstała. (3) Przepisy art. 1 stosuje się odpowiednio do rozporządzeń i zarządzeń wyjątkowych. (4) W rozporządzeniu lub zarządzeniu wyjątkowym można przekazywać uprawnienia, przewidziane w artykule niniejszym, wojewódzkim i powiatowym władzom administracji ogólnej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Zakłady i przedsiębiorstwa, na które w myśl art. 8 pkt 8) może być rozciągnięta ochrona w razie wprowadzenia stanu wyjątkowego. obowiązane są w każdym czasie udzielać na żądanie Ministra Spraw Wewnętrznych danych co do środków, jakimi może być zapewniona normalna ich działalność."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "(1) Jeśli na obszarze, na którym obowiązuje stan wyjątkowy, są lub mają być wprowadzone sądy doraźne, Rada Ministrów może upoważnić Ministra Sprawiedliwości do wydania rozporządzenia, że - w stosunku do przestępstw, popełnionych na obszarze stanu wyjątkowego w czasie istnienia tego stanu - dozwolone jest stosowanie postępowania doraźnego bez zachowania ograniczeń co do terminów, zakreślonych dla przesłuchania oskarżonych (obwinionych), trwania dochodzeń; złożenia wniosku co do stawienia oskarżonego przed sądem doraźnym, wyznaczenia rozprawy głównej i czasu jej trwania. (2) Do rozporządzenia, wymienionego w ustępie poprzedzającym, stosuje się odpowiednio przepisy art. 1."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "(1) Kto wykracza przeciwko nakazom lub zakazom, wydanym na podstawie ustawy niniejszej lub opartych na niej rozporządzeń lub zarządzeń, podlega w trybie administracyjnym karze aresztu do 6 miesięcy i grzywny do 5.000 zł, albo jednej z tych kar. (2) W sprawach o przestępstwa, określone w ust. (1), stosuje się przyśpieszone postępowanie karne administracyjne, przy czym żądanie skierowania sprawy na drogę sądową nie wstrzymuje też wykonania kary aresztu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "(1) Jeśli siły i środki władz administracji ogólnej i ich organów nie są wystarczające dla zapewnienia na obszarze objętym stanem wyjątkowym wykonania wydanych rozporządzeń i zarządzeń, wynikających z przepisów ustawy niniejszej, mogą one używać do pomocy organów wykonawczych wszystkich innych władz państwowych, znajdujących się na obszarze ich działania. Korzystanie z pomocy siły zbrojnej regulują przepisy o asystencji wojskowej. (2) Rada Ministrów może na wniosek Ministra Spraw Wewnętrznych upoważnić go do przekazywania w porozumieniu z Ministrem Spraw Wojskowych na czas ograniczony pewnych funkcji i uprawnień władz administracyjnych cywilnych władzom wojskowym, jak również do uzależnienia władz administracyjnych cywilnych od dowództwa wojskowego w zakresie potrzebnym do osiągnięcia jednolitości działania celem zapewnienia bezpieczeństwa Państwa i porządku publicznego."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Z chwilą ustania przyczyn, które spowodowały wprowadzenie stanu wyjątkowego, Rada Ministrów niezwłocznie uchyli zarządzenie o wprowadzeniu tego stanu. Uchylenie to może dotyczyć całego obszaru, na którym stan wyjątkowy był wprowadzony, albo też tylko jego części."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "(1) Zarządzenie o uchyleniu stanu wyjątkowego wchodzi w życie z dniem ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej. (2) Z dniem tym na obszarze, na którym stan wyjątkowy uchylono, tracą moc wszelkie rozporządzenia i zarządzenia, wydane na podstawie przepisów o stanie wyjątkowym. (3) Przepis ust. (2) nie dotyczy kar i postępowania karnego (art. 11), jak również odpowiedzialności gmin za szkody i straty oraz postępowania odszkodowawczego, wymienionego w art. 8. Rozpoczęte postępowanie doraźne, w którym na zasadzie art. 10 nie zachowano terminów ustawowych, należy prowadzić dalej pomimo niezachowania tych terminów."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "W sprawach, objętych ustawą niniejszą, Minister Spraw Wewnętrznych władny jest określić drogą rozporządzenia tok instancji i tryb postępowania, o ile ustawa niniejsza nie zawiera odpowiednich przepisów. Minister Spraw Wewnętrznych władny jest także określać w miarę potrzeby tryb uzyskiwania przez gminy środków dla wynagrodzenia strat i szkód (art. 8) drogą odpowiedniej daniny lub świadczeń osobistych."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. (2) Jednocześnie traci moc obowiązującą rozporządzenie Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o stanie wyjątkowym (Dz. U. R. P. Nr 32, poz. 307). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_1-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_3-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_3-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_3-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_5-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_5-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_7-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_7-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_7-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_7-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_8-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_8-pass_(1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_8-pass_(1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_8-pass_(1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_8-pass_(1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_8-pass_(1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_8-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_10-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_11-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_12-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_14-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_14-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_17-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

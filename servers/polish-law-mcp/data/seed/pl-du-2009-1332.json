@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-1332",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 września 2009 r. o zmianie ustawy o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa",
+  "title_en": "",
+  "short_name": "pl-du-2009-1332",
+  "status": "repealed",
+  "issued_date": "2009-09-10",
+  "in_force_date": "2009-10-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1332",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 września 1999 r. o niektórych umowach kompensacyjnych zawieranych w związku z umowami dostaw na potrzeby obronności i bezpieczeństwa państwa ( Dz. U. Nr 80, poz. 903 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 119, poz. 1250, z 2001 r. Nr 89, poz. 972, z 2002 r. Nr 37, poz. 332, Nr 74, poz. 676 i Nr 81, poz. 733, z 2004 r. Nr 19, poz. 177 i Nr 238, poz. 2390, z 2006 r. Nr 251, poz. 1845 oraz z 2007 r. Nr 50, poz. 331. ) w art. 2: 1) w ust. 2 pkt 4 otrzymuje brzmienie: „ 4) dostawy uzbrojenia, sprzętu wojskowego, części zamiennych i materiałów eksploatacyjnych niezbędnych dla zapewnienia właściwego funkcjonowania i wyposażenia Sił Zbrojnych Rzeczypospolitej Polskiej kierowanych do działań poza granicami państwa lub wykonujących takie działania, ” ; 2) dodaje się ust. 3 w brzmieniu: „ 3. Minister Obrony Narodowej przedkłada Sejmowi i Radzie Ministrów, do dnia 31 marca każdego roku, roczne sprawozdanie dotyczące ilości, wartości oraz przeznaczenia dostaw zrealizowanych w trybie, o którym mowa w ust. 2 pkt 4. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 119, poz. 1250, z 2001 r. Nr 89, poz. 972, z 2002 r. Nr 37, poz. 332, Nr 74, poz. 676 i Nr 81, poz. 733, z 2004 r. Nr 19, poz. 177 i Nr 238, poz. 2390, z 2006 r. Nr 251, poz. 1845 oraz z 2007 r. Nr 50, poz. 331. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

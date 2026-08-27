@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1927-206",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lutego 1927 r. o Komitecie Floty Narodowej.",
+  "title_en": "",
+  "short_name": "pl-du-1927-206",
+  "status": "repealed",
+  "issued_date": "1927-02-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1927/206",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu skoordynowania działalności poszczególnych instytucyj, grup społecznych oraz osób, dążących do utworzenia polskiej floty morskiej, ustanawia się Komitet Floty Narodowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W miarę zainteresowania morzem i handlem morskim ze strony kół gospodarczych i społecznych Komitet Floty Narodowej powołuje je do współdziałania tak, aby tworząca się żegluga polska i jej szybszy rozwój doznały przez to skutecznego poparcia. Zgodnie z tym celem zbiera Komitet fundusze i niemi zarządza."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Prezydjum Komitetu Floty Narodowej stanowią: Marszałek Sejmu jako przewodniczący, dalej Marszałek Senatu, Prezes Rady Ministrów względnie jego zastępca, oraz prezes sejmowej komisji morskiej. Nadto w skład Komitetu wchodzą: prezes sejmowej komisji przemysłowo-handlowej, Minister Spraw Wojskowych, Minister Przemysłu i Handlu, Minister Komunikacji oraz Minister Robót Publicznych. W razie potrzeby zaprasza prezes Komitetu ha posiedzenie innych przedstawicieli Sejmu i Rządu. Mandaty przedstawicieli Sejmu i Senatu w Komitecie Floty Narodowej trwają przez kadencją parlamentarną i to aż do ukonstytuowania następnego Sejmu i Senatu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Komitet powoła do swego grona: delegatów izb handlowych oraz przedstawicieli innych instytucyj, zainteresowanych w handlu morskim. Nadto może Komitet kooptować jeszcze inne osoby, działające na polu społecznem lub naukowem zgodnie z celami Komitetu. Celem skuteczniejszego wykonywania prac Komitetu Floty Narodowej mianuje się członków wspierających. Członkiem wspierającym może być każda osoba fizyczna lub prawna, opłacająca na cele Komitetu odpowiednią wkładkę. Członkowie wspierający, zasłużeni dla rozwoju floty morskiej, mogą być mianowani członkami honorowymi Komitetu Floty Narodowej, Członkowie wspierający mogą dorywczo lub na stałe łączyć się w koła miejscowe. Kategorje członków wspierających, ich prawa i obowiązki, wysokość wkładek, prawo noszenia odznak, oraz sposób działania kół miejscowych określi regulamin, wydany przez Komitet Floty Narodowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Posiedzenia Komitetu są wyznaczana przez prezesa lub jego zastępcę. Uchwały, zapadłe na posiedzeniach, są ważne niezależnie od liczby uczestników."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Sprawozdania kasowe i wykonawcze podaje Komitet do publicznej wiadomości co pół roku. Do kontroli kasowej i administracyjnej działalności Komitetu ustanawia się komisję rewizyjną, w skład której prezes komitetu zaprasza: przedstawiciela Najwyższej Izby Kontroli, jednego członka Komitetu Floty Narodowej z poza wydziału wykonawczego, oraz trzech przedstawicieli największych miast polskich. Komisja rewizyjna może zaprosić do współpracy rzeczoznawcę."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie Uchwał Komitetu należy do wydziału wykonawczego, składającego się z pięciu osób, które Komitet wyłania ze swego składu. Wydziałowi wykonawczemu przewodniczy wiceprezes Komitetu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Członkowie Komitetu Floty Narodowej nie pobierają wynagrodzenia ta udział w pracach Komitetu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Pod kierunkiem wydziału wykonawczego jest czynne biuro Komitetu. Szef biura w charakterze referenta Spraw bieżących ma udział w posiedzeniach Komitetu z głosem doradczym. Koszty utrzymania biura ponosi Skarb Państwa z budżetu Ministerstwa Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Równocześnie tracą moc obowiązujące przepisy ustawy z dnia 26 marca 1920 r. o Komitecie Floty Narodowej (Dz. U. R. P. z r. 1920 Nr 32, poz. 187)."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Przemysłu i Handlu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

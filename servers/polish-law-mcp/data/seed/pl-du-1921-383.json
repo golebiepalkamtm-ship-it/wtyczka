@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1921-383",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 lipca 1921 r. w przedmiocie udzielenia Rządowi pełnomocnictw do wydawania rozporządzeń w sprawie regulowania obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami.",
+  "title_en": "",
+  "short_name": "pl-du-1921-383",
+  "status": "repealed",
+  "issued_date": "1921-07-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/383",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Udziela się Ministrowi Skarbu na przeciąg jednego roku od dnia wejścia w życie niniejszej ustawy pełnomocnictw do wydawania rozporządzeń z mocą ustawy, mających na celu regulację obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rozporządzenia Ministra Skarbu, wymienione w art. 1, dotyczyć mogą w szczególności: warunków nabywania i gromadzenia walut zagranicznych i dewiz, dysponowania, lombardowania i innych obrotów niemi, oraz dokonywania tranzakcji w tych walutach, obrotów markami polskiemi w stosunku do krajów zagranicznych, wywozu za granicę walut zagranicznych i dewiz, marek polskich oraz wszelkich wogóle papierów wartościowych, wreszcie organizacji kontroli i nadzoru nad całokształtem obrotu pieniężnego z krajami zagranicznemi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się również Ministra Skarbu do wydawania rozporządzeń w przedmiocie wyznaczania premji dla osób, które, przyczyniły się do wykrycia przekroczeń rozporządzeń, wydanych i obowiązujących na mocy niniejszej ustawy, i ujęcia sprawców."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Osoby, wykraczające przeciw postanowieniom, zawartym w rozporządzeniach Ministra Skarbu, wydanych na podstawie niniejszej ustawy, ulegają karze: a) na obszarze b. dzielnicy rosyjskiej i pruskiej - więzienia do 3 lat i grzywny do 1 miljona marek, jeśli zaś przestępstwo nie wypływa z chęci zysku - tylko grzywny; b) na obszarze b. dzielnicy austrjackiej i węgierskiej - aresztu lub aresztu ścisłego do 3 lat i grzywny do 1 miljona marek, jeśli zaś przestępstwo nie wypływa z chęci zysku - tylko grzywny. O ile przekroczenie polega na nieuprawnionym wywozie walut zagranicznych i dewiz, marek polskich oraz wszelkich wogóle papierów wartościowych zagranicę (przemytnictwie walut i walorów), wówczas grzywna może być zwiększona do wysokości potrójnej wartości wywożonych przedmiotów. Prócz kar powyższych może być ponadto wyrokiem sądowym orzeczona konfiskata sum pieniężnych, pozostających w związku z przestępstwem. Przy przemytnictwie walut i walorów konfiskata wywożonych wartości musi być orzeczona. Tylko w wyjątkowych wypadkach, przy zajściu nadzwyczajnych okoliczności łagodzących, i gdy stwierdzonem zostanie, że wywożone wartości nie miały być użyte do operacji handlowych i innych zarobkowych, może sąd odstąpić od orzeczenia konfiskaty nieprawnie przewożonych przez granicę wartości. Karom wymienionym w niniejszym artykule, ulegną również osoby, winne usiłowania tych wykroczeń lub udziału w nich."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Osoby, skazane na karę w myśl art. 4, można wyrokiem właściwego sądu pozbawić na przeciąg czasu do lat trzech prawa prowadzenia handlu, lub zarządzania przedsiębiorstwem, albo też zajmowania się pośrednictwem handlowem."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Do orzekania kar w zakresie, przewidzianym w art. 4 i 5 niniejszej ustawy, powołuje się: a) na obszarze b. dzielnicy rosyjskiej i pruskiej - sądy okręgowe; b) na obszarze b. dzielnicy austrjackiej i węgierskiej - sądy skarbowe Przy przestępstwach mniejszej wagi może być sprawa na wniosek prokuratora przekazana przez sąd okręgowy sądowi powiatowemu, ewentualnie sądowi pokoju; w tym wypadku można orzec obok konfiskaty (ust. 3 art. 4) karę pozbawienia wolności do 6 miesięcy i grzywnę do 200.000 mk., lub jedną z tych kar."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Do przestępstw, popełnionych przed wejściem w życie niniejszej ustawy, stosuje się przepisy karne, przewidziane w ustawie z 9 lipca 1920 r. (Dz. Ust. № 56, poz. 347)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości, a na obszarze b. dzielnicy pruskiej - Ministrowi Skarbu i Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

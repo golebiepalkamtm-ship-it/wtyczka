@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1923-377",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 maja 1923 r. w przedmiocie zmian niektórych postanowień ustawy z dnia 8 czerwca 1920 r. o podatku od skrzynek depozytowych (safes).",
+  "title_en": "",
+  "short_name": "pl-du-1923-377",
+  "status": "in_force",
+  "issued_date": "1923-05-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/377",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 4 ustawy z dnia 8 czerwca 1920 r. o podatku od skrzynek depozytowych (safes) (Dz. R. P. № 50 poz. 305) otrzymuje brzmienie następujące: „ Stawka podatkowa od jednej skrzynki depozytowej rocznie wynosi: a) do 10.000 cm. 3 objętości 6.000 mk. b) ponad 10.000 do 20.000 cm. 3 objętości 25.000 „ c) ponad 20.000 cm. 3 objętości 50.000 „"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Część ostatnia art. 5 powołanej wyżej ustawy otrzymuje brzmienie następujące: „ Podatek, w terminie nie uiszczony, uważa się za zaległość. Od zaległych sum podatku od skrzynek depozytowych pobiera się kary za zwłokę w wysokości 10% miesięcznie. Zaległy podatek ściąga się przymusowo wraz z karami za zwłokę i kosztami egzekucyjnemi ” ;"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Część druga art. 8 powołanej wyżej ustawy otrzymuje brzmienie następujące: „ Dodatkowy podatek, nie uiszczony w tym terminie, uważa się za zaległość. Od zaległych sum podatku od skrzynek depozytowych pobiera się kary za zwłokę w wysokości 10% miesięcznie. Zaległy podatek ściąga się przymusowo wraz z karami za zwłokę i kosztami egzekueyjnemi ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kwotę grzywny, oznaczoną w art. 11 ustawy, podwyższa się do 1.000.000 mk."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Upoważnia się Ministra Skarbu do corocznego podwyższania, względnie obniżania, poczynając od roku podatkowego 1924, wszelkich kwot pieniężnych, oznaczonych w niniejszej ustawie, za pomocą ich mnożenia lub dzielenia przez wykładnik stosunku przeciętnej cen hurtowych w roku 1922 do przeciętnej tych cen w roku, poprzedzającym rok podatkowy. Wykładnik podwyżki, względnie zniżki, w myśl części pierwszej niniejszego artykułu, w postaci liczby całej lub conajwyżej z jednym znakiem dziesiętnym, ustala Minister Skarbu w pierwszej połowie stycznia roku podatkowego na podstawie danych, dostarczonych przez Główny Urząd Statystyczny."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza uzyskuje moc obowiązującą z dniem 1 lipca 1923 r. Kwoty podatku, przypadającego za rok 1923 w myśl art. 1 niniejszej ustawy, winny być wypłacone w terminie do dni 14, licząc od dnia następnego po ogłoszeniu niniejszej ustawy, przyczem na poczet przypadających kwot należy zaliczyć sumy podatku, już wpłacone w myśl części pierwszej art. 5 ustawy z dnia 8 czerwca 1920 r. Do sum podatku, nie uiszczonych w wyżej oznaczonym terminie, będą stosowane przepisy art. 2 niniejszej ustawy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

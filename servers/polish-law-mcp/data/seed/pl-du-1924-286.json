@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1924-286",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 marca 1924 r. w przedmiocie zmian niektórych postanowień ustawy o państwowej służbie cywilnej.",
+  "title_en": "",
+  "short_name": "pl-du-1924-286",
+  "status": "in_force",
+  "issued_date": "1924-03-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/286",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do art. 17 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej (Dz. U. R. P. № 21 poz. 164) w brzmieniu, ustalonem w art. 3 noweli do tej ustawy z dnia 28 lipca 1922 r. (Dz. U. R. P. № 67 poz. 606), dodaje się, jako ustęp ostatni, następujące postanowienie: „ Urzędników Kancelarji Cywilnej Prezydenta Rzeczypospolitej mianuje Prezydent Rzeczypospolitej za kontrasygnatą Prezesa Rady Ministrów ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Art. 52 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej otrzymuje następujące brzmienie: „ O ile dobro służby tego wymaga, można przenieść urzędnika do innej miejscowości i na inne stanowisko służbowe nie niższego stopnia służbowego, w tej samej kategorji urzędników i w tym samym dziale zarządu państwowego. Przeniesienia urzędnika dokonywa władza naczelna, względnie władza, bezpośrednio podległa władzy naczelnej, której przekazane zostało mianowanie na dane stanowiska służbowe. O ile na zasadzie art. 17 niniejszej ustawy mianowanie urzędników pięciu najniższych stopni służbowych przekazano kierownikom władz, bezpośrednio podlegających władzy naczelnej, przeniesienie tych urzędników z okręgu terytorjalnego kierownika władzy, który ich mianował, do innego okręgu terytorjalnego należy do władzy naczelnej. Przy przeniesieniach z urzędu lub w drodze konkursu należą się urzędnikowi koszty przeniesienia. Przy przeniesieniach na prośbę urzędnika przyznanie kosztów przeniesienia zależeć będzie od decyzji właściwej władzy naczelnej. Do przesiedlenia się należy urzędnikowi wyznaczyć odpowiedni termin i zwolnić go na odpowiedni czas od pełnienia służby, uwzględniając przytem jego warunki osobiste i rodzinne ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do art. 54 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej dodaje się, jako ustęp 4, następujące postanowienie: „ Urzędników pierwszych czterech stopni służbowych przenosi w stan nieczynny, względnie w stan rozporządzalności, Prezydent Rzeczypospolitej na wniosek Rady Ministrów ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W punkcie 4 art. 77 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej dodaje się po słowach: „z umniejszonem uposażeniem emerytalnem” słowa: „względnie odprawą”."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Do art. 84 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej dodaje się, jako ustęp ostatni, następujące postanowienie; „ Urzędnicy, przeniesieni w stan spoczynku, podlegają odpowiedzialności dyscyplinarnej z powodu występku służbowego, którego dopuścili się w czasie czynnej służby ” ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Do art. 85 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej dodaje się, jako ustęp ostatni, następujące postanowienie: „ Te same kary dyscyplinarne mają zastosowanie do urzędników, przeniesionych w stan spoczynku, przy zachowaniu właściwości tej komisji dyscyplinarnej, której podlegali w czasie pełnienia służby czynnej ” ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Do art. 92 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej w brzmieniu, ustalonem art. 5 noweli z dn. 28 lipca 1922 r., dodaje się, jako ustęp ostatni, następujące postanowienie: „ Niższych funkcjonarjuszów Kancelarji Cywilnej Prezydenta Rzeczypospolitej mianuje Szef tej Kancelarji ” ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przewidziany w art. 116 ustawy z dn. 17 lutego 1922 r. o państwowej służbie cywilnej w brzmieniu noweli z dnia 28 lipca 1922 r. termin dwuletni dla ustalenia urzędników i niższych funkcjonarjuszów państwowych od wejścia w życie ustawy przedłuża się o jeden rok,"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza Prezesowi Rady Ministrów i innym ministrom we właściwym każdemu z nich zakresie działania."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

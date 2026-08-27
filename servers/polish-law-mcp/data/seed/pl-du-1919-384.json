@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1919-384",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 sierpnia 1919 r. o upoważnieniu Rządu do wydania rozporządzenia, normującego przenoszenie własności nieruchomości ziemskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-384",
+  "status": "in_force",
+  "issued_date": "1919-08-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/384",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd, aby do czasu uchwalenia przez Sejm ustawy regulującej obrót ziemią w myśl uchwalonych dnia 10 lipca 1919 r. zasad reformy rolnej, wydał rozporządzenia z mocą ustawy, normujące przenoszenie własności nieruchomości ziemskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie tej ustawy powierza się Ministerstwu Rolnictwa i Dóbr Państwowych w porozumieniu z Ministerstwem Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

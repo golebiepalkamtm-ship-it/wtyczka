@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-2777",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o swobodzie działalności gospodarczej",
+  "title_en": "",
+  "short_name": "pl-du-2004-2777",
+  "status": "repealed",
+  "issued_date": "2004-11-25",
+  "in_force_date": "2004-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/2777",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ( Dz. U. Nr 173, poz. 1807 ) wprowadza się następujące zmiany: 1) uchyla się art. 108; 2) w art. 109 uchyla się ust. 4; 3) w art. 110: a) ust. 1 otrzymuje brzmienie: „ 1. Przedsiębiorca wnioskujący o udzielenie pomocy publicznej składa oświadczenie przed organem udzielającym pomocy, że spełnia przesłanki określone w załączniku I do rozporządzenia nr 70/2001/WE z dnia 12 stycznia 2001 r. w sprawie zastosowania art. 87 i 88 Traktatu WE w odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 z 13.01.2001), zmienionego rozporządzeniem nr 364/2004/WE z dnia 25 lutego 2004 r. (Dz. Urz. WE L 63 z 28.02.2004). ” , b) dodaje się ust. 4 w brzmieniu: „ 4. Wyrażone w euro wielkości, o których mowa w załączniku I do rozporządzenia określonego w ust. 1, przelicza się na złote według średniego kursu ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roku obrotowego wybranego do określenia statusu przedsiębiorcy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

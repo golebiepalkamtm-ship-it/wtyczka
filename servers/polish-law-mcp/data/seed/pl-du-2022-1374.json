@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2022-1374",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 maja 2022 r. o zmianie ustawy o księgach wieczystych i hipotece oraz ustawy o przetwarzaniu informacji kryminalnych",
+  "title_en": "",
+  "short_name": "pl-du-2022-1374",
+  "status": "in_force",
+  "issued_date": "2022-05-12",
+  "in_force_date": "2022-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/1374",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece ( Dz. U. z 2019 r. poz. 2204 , z 2021 r. poz. 1177 i 1978 oraz z 2022 r. poz. 872 ) wprowadza się następujące zmiany: 1) w art. 36 4 w ust. 8 w pkt 26 kropkę zastępuje się średnikiem i dodaje się pkt 27 i 28 w brzmieniu: „ 27) Kasa Rolniczego Ubezpieczenia Społecznego; 28) Szef Krajowego Centrum Informacji Kryminalnych. ” ; 2) w art. 36 5 w ust. 3 wyrazy „i 22-24” zastępuje się wyrazami „, 22, 24 i 28” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 6 lipca 2001 r. o przetwarzaniu informacji kryminalnych ( Dz. U. z 2021 r. poz. 1607 oraz z 2022 r. poz. 655 ) w art. 13 w ust. 1 w pkt 5 lit. b otrzymuje brzmienie: „ b) przedmiotach, w tym nieruchomościach, wykorzystanych do popełnienia przestępstwa, uzyskanych w wyniku przestępstwa lub utraconych w związku z przestępstwem, ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 2 lat od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

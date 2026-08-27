@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-1105",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 maja 2005 r. o zmianie ustawy o cudzoziemcach",
+  "title_en": "",
+  "short_name": "pl-du-2005-1105",
+  "status": "repealed",
+  "issued_date": "2005-05-18",
+  "in_force_date": "2005-07-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1105",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 czerwca 2003 r. o cudzoziemcach ( Dz. U. Nr 128, poz. 1175 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1842 oraz z 2005 r. Nr 90, poz. 757 i Nr 94, poz. 788. ) art. 162 otrzymuje brzmienie: „ Art. 162. Minister właściwy do spraw wewnętrznych utworzy Krajowy System Informatyczny do dnia 31 grudnia 2006 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959 i Nr 179, poz. 1842 oraz z 2005 r. Nr 90, poz. 757 i Nr 94, poz. 788. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2018-2117",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 2018 r. o ustanowieniu Święta Narodowego z okazji Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej",
+  "title_en": "",
+  "short_name": "pl-du-2018-2117",
+  "status": "in_force",
+  "issued_date": "2018-11-07",
+  "in_force_date": "2018-11-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2117",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dzień 12 listopada 2018 r. jest Świętem Narodowym z okazji Setnej Rocznicy Odzyskania Niepodległości Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dzień 12 listopada 2018 r. jest dniem wolnym od pracy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Świadczenia opieki zdrowotnej w szpitalach i świadczenia opieki zdrowotnej w ambulatoryjnej opiece zdrowotnej udzielane na podstawie ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ( Dz. U. z 2018 r. poz. 1510 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669 i 1925. ) , które mają być udzielone w dniu 12 listopada 2018 r. w godzinach ich udzielania przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, są udzielane w dniu 12 listopada 2018 r. według zaplanowanej na ten dzień kolejności zgłoszenia. 2. Apteka ogólnodostępna, która zgodnie z uchwałą rady powiatu, o której mowa w art. 94 ust. 2 ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne ( Dz. U. z 2017 r. poz. 2211 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, ) jest obowiązana zapewnić dostępność świadczeń na terenie powiatu w dni wolne od pracy, zapewnia tę dostępność także w dniu 12 listopada 2018 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1637 i 1669. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1515, 1532, 1544, 1552, 1669 i 1925. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 650, 697, 1039, 1375, 1515, 1544, 1629, Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

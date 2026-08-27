@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-1739",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 listopada 2009 r. o zmianie dekretu o należnościach świadków, biegłych i stron w postępowaniu sądowym",
+  "title_en": "",
+  "short_name": "pl-du-2009-1739",
+  "status": "repealed",
+  "issued_date": "2009-11-05",
+  "in_force_date": "2009-12-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1739",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W dekrecie z dnia 26 października 1950 r. o należnościach świadków, biegłych i stron w postępowaniu sądowym ( Dz. U. Nr 49, poz. 445 oraz z 2004 r. Nr 273, poz. 2702 ) w art. 10 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Wynagrodzenie biegłego, będącego podatnikiem podatku od towarów i usług, podwyższa się o stawkę podatku od towarów i usług przewidzianą dla tego rodzaju czynności w przepisach o podatku od towarów i usług, obowiązującą w dniu orzekania o tym wynagrodzeniu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2010 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

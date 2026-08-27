@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1932-341",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o udzielaniu poręki państwowej.",
+  "title_en": "",
+  "short_name": "pl-du-1932-341",
+  "status": "repealed",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/341",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do udzielania poręki państwowej za zobowiązania, wymienione w art. 2 niniejszej ustawy, do wysokości łącznej 1.500 miljonów złotych w złocie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wymieniona w art. 1 poręka państwowa może być udzielana: 1) za zobowiązania banków państwowych dowysokości 750 miljonów złotych w złocie; 2) za zobowiązania przedsiębiorstw państwowych do wysokości 250 miljonów złotych w złocie; 3) za zobowiązania związków komunalnych i funduszów kuracyjnych; 4) za zobowiązania banków komunalnych; 5) za zobowiązania instytucyj kredytu długoterminowego oraz banków hipotecznych z tytułu emisji listów zastawnych, o ile listy te odpowiadają następującym warunkom: a) znajdują pokrycie w pierwszej połowie wartości przynoszących dochód nieruchomości, na których hipotekę została udzielona pożyczka i ustanowiono prawa zastawu dla tych listów; b) mają oznaczony okres umorzenia, względnie określony termin płatności; c) wydawane są pod nadzorem rządowym i zgodnie z warunkami, zatwierdzonemi dla każdej instytucji, emitującej listy zastawne, zosobna przez Ministra Skarbu; 6) za zobowiązania zapłaty kapitału i odsetek obligacyj, wypuszczanych zgodnie z pkt. 15 art. 16 ustawy z dnia 14 października 1921 r. o udzielaniu koncesji na koleje żelazne prywatne (Dz. U. R. P. Nr 88, poz. 646) na cele budowy i początkowego zaopatrzenia linij kolejowych użytku publicznego; 7) za zobowiązania związków i spółek rolniczych, instytucyj kredytu rolniczego, Centralnej Kasy Spółek Rolniczych, centralnych instytucyj spółdzielczych i wszelkich spółdzielni, mających dostateczne zabezpieczenie w majątku tych instytucyj i w zobowiązaniach ich członków; 8) za zobowiązania osób fizycznych i prawnych, zaciągnięte w kraju lub zagranicą, a zabezpieczone: a) hipotecznie w pierwszej połowie szacunku nieruchomości, b) towarami, przeznaczonemi na wywóz, do wysokości 50% ceny rynkowej tych towarów; 9) za zobowiązania osób fizycznych i prawnych, wynikające z operacyj handlu zagranicznego oraz wogóle z interesów, prowadzonych z zagranicą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Forma papierów wartościowych, korzystających z poręki państwowej na zasadzie postanowień ustawy niniejszej oraz tekst napisu, stwierdzającego udzielenie gwarancji, podlega zatwierdzeniu Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Skarbu do udzielania, w granicach, określonych art. 2 niniejszej ustawy, poręki państwowej także w walutach obcych według parytetu złota oraz do ustalania przedmiotu poręki, zakresu odpowiedzialności Skarbu Państwa oraz ewentualnych warunków dodatkowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Równocześnie traci moc obowiązującą ustawa z dnia 1 lipca 1925 r. o udzielaniu poręki państwowej (Dz. U. R. P. Nr 68, poz. 481) i rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie zmiany ustawy z dnia 1 lipca 1925 r. o udzielaniu poręki państwowej (Dz. U. R. P. Nr 38, poz. 358). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_2-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\",\"children\": [{\"id\": \"arti_2-pint_8-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_8-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

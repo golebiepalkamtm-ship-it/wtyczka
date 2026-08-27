@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1989-434",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 grudnia 1989 r. o utworzeniu urzędu Ministra Rolnictwa i Gospodarki Żywnościowej.",
+  "title_en": "",
+  "short_name": "pl-du-1989-434",
+  "status": "repealed",
+  "issued_date": "1989-12-20",
+  "in_force_date": "1989-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/434",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Rolnictwa i Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Rolnictwa i Gospodarki Żywnościowej realizuje politykę państwa w zakresie rolnictwa i gospodarki żywnościowej w stosunku do wszystkich podmiotów gospodarczych, niezależnie od formy własności."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Do zakresu działania Ministra Rolnictwa i Gospodarki Żywnościowej należą w szczególności sprawy: 1) produkcji roślinnej, hodowli i ochrony roślin oraz nasiennictwa, 2) produkcji zwierzęcej i hodowli zwierząt, 3) ochrony zdrowia zwierząt, produkcji leków weterynaryjnych oraz nadzoru sanitarno-weterynaryjnego nad żywnością pochodzenia zwierzęcego, 4) gospodarki rybackiej w wodach śródlądowych, 5) przetwórstwa rolno-spożywczego i przechowalnictwa artykułów żywnościowych, 6) gospodarki gruntami przeznaczonymi na cele rolne i ich ochrony, 7) ewidencji gruntów i budynków w odniesieniu do obszarów gmin, a także podziałów i rozgraniczania nieruchomości w odniesieniu do obszarów nie objętych działaniem ustawy z dnia 29 kwietnia 1985 r. o gospodarce gruntami i wywłaszczaniu nieruchomości ( Dz. U. z 1989 r. Nr 14, poz. 74 i Nr 29, poz. 154 ) , 8) melioracji oraz zaopatrzenia wsi i rolnictwa w wodę, 9) budownictwa rolniczego, elektryfikacji i mechanizacji rolnictwa, 10) oświaty rolniczej oraz postępu naukowo-technicznego. 2. Minister Rolnictwa i Gospodarki Żywnościowej, stosownie do ustalonego ustawą zakresu działania, wykonuje zadania związane z obronnością i bezpieczeństwem państwa oraz inne zadania, określone w ustawach szczególnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Rolnictwa i Gospodarki Żywnościowej wykonuje swoje zadania w szczególności przez: 1) opracowywanie założeń polityki państwa w zakresie rolnictwa i gospodarki żywnościowej, 2) udział w planowaniu społeczno-gospodarczym i finansowym, 3) tworzenie warunków ekonomiczno-finansowych, organizacyjnych i technicznych do zapewnienia rozwoju rolnictwa i przetwórstwa rolno-spożywczego, 4) tworzenie warunków do rozwoju współpracy gospodarczej i naukowo-technicznej z zagranicą."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Rada Ministrów, w drodze rozporządzenia, może określić szczegółowy zakres działania Ministra Rolnictwa i Gospodarki Żywnościowej. 2. Organizację Ministerstwa Rolnictwa i Gospodarki Żywnościowej oraz wykaz jednostek organizacyjnych podporządkowanych Ministrowi Rolnictwa i Gospodarki Żywnościowej i przedsiębiorstw państwowych, dla których Minister jest organem założycielskim, określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Znosi się urząd Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej. 2. Określone w odrębnych przepisach sprawy należące do Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej, w zakresie ustalonym ustawą, przechodzą do zakresu działania Ministra Rolnictwa i Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Minister Rolnictwa i Gospodarki Żywnościowej, stosownie do ustalonego ustawą zakresu działania, staje się z dniem wejścia w życie ustawy organem założycielskim przedsiębiorstw państwowych, dla których dotychczas takim organem był Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W ustawie z dnia 12 listopada 1985 r. o zmianach w organizacji oraz zakresie działania niektórych naczelnych i centralnych organów administracji państwowej ( Dz. U. Nr 50, poz. 262 , z 1987 r. Nr 33, poz. 180 oraz z 1989 r. Nr 30, poz. 163 , Nr 64, poz. 387 i Nr 73, poz. 433 ) art. 2 skreśla się."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1990 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_3-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_3-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_3-pass_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

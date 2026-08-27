@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-215",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lutego 1932 r. zmieniająca niektóre postanowienia rozporządzenia Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o żegludze i spławie na śródlądowych drogach wodnych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-215",
+  "status": "repealed",
+  "issued_date": "1932-02-18",
+  "in_force_date": "1932-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/215",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o żegludze i spławie na śródlądowych drogach wodnych (Dz. U. R. P. Nr 29, poz. 266) wprowadza się następujące zmiany; 1) w art. 1 ustęp 3 otrzymuje brzmienie: „ Zasady udzielania zezwoleń ustala Minister Robót Publicznych w porozumieniu z Ministrem Przemysłu i Handlu, Ministrem Skarbu i Ministrem Spraw Wojskowych ” ; 2) w art. 5 ustęp 1 otrzymuje brzmienie: „ Do wydawania patentów statkowych powołane są wojewódzkie władze administracji ogólnej, przy których zostaną utworzone komisje w myśl art. 6 ” ; 3) w art. 6 ustępie 3 po wyrazach: „Ministrem Spraw Wewnętrznych” dodaje się wyrazy: „i Ministrem Spraw Wojskowych” ; 4) W art. 8 ustęp 1 otrzymuje brzmienie: „ Do wydawania patentów żeglarskich powołane są wojewódzkie władze administracji ogólnej, przy których zostaną utworzone komisje dla stwierdzenia kwalifikacyj, potrzebnych do wykonywania zawodu żeglarskiego ” ; 5) w art. 8 ustęp 4 otrzymuje brzmienie: „ W razie utraty kwalifikacyj do wykonywania zawodu żeglarskiego wydany patent może być unieważniony przez władzę, która patent wydała ” ; 6) w art. 11 ustęp 1 otrzymuje brzmienie: „ Do wydawania dokumentów podróży dla tratew i patentów retmańskich powołane są państwowe zarządy wodne na wodach, objętych ich działalnością, a tam, gdzie takich zarządów niema, powiatowe władze administracji ogólnej ” ; 7) w art. 19 ustęp 2 otrzymuje brzmienie: „ Minister Robót Publicznych może w drodze rozporządzenia upoważnić wojewódzkie władze administracji ogólnej do wydawania w ramach przepisów, przewidzianych w ust. 1 szczegółowych postanowień odnośnie do poszczególnych dróg wodnych lub ich odcinków ” ; 8) w art. 22 ustęp 1 otrzymuje brzmienie: „ Od zarządzeń, dotyczących wydawania, względnie unieważniania, patentów retmańskich (art. 11), służy odwołanie do wojewódzkiej władzy administracji ogólnej tego województwa, na obszarze którego państwowy zarząd wodny ma swoją siedzibę, względnie wojewódzkiej władzy administracji ogólnej, właściwej dla danej władzy powiatowej w myśl ogólnych przepisów o postępowaniu administracyjnem ” ; 9) w art. 22 ustęp 2 otrzymuje brzmienie: „ Od orzeczeń wojewódzkich władz administracji ogólnej, dotyczących wydawania, względnie unieważniania, patentów statkowych (art. 5) i żeglarskich (art. 8), służy odwołanie do Ministra Robót Publicznych w myśl ogólnych przepisów o postępowaniu administracyjnem ” ; 10) w art. 22 skreśla się ustęp 3 i 4."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

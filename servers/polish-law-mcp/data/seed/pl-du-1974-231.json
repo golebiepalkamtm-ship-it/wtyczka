@@ -1,0 +1,608 @@
+{
+  "id": "pl-du-1974-231",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 1974 r. o okręgowych sądach pracy i ubezpieczeń społecznych.",
+  "title_en": "",
+  "short_name": "pl-du-1974-231",
+  "status": "repealed",
+  "issued_date": "1974-10-24",
+  "in_force_date": "1974-10-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1974/231",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się okręgowe sądy pracy i ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Okręgowe sądy pracy i ubezpieczeń społecznych, zwane dalej „sądami”, rozpoznają odwołania od orzeczeń zakładowych i powiatowych komisji rozjemczych, powiatowych komisji odwoławczych do spraw pracy oraz organów orzekających w sprawach o świadczenia pieniężne z ubezpieczenia społecznego w zakresie określonym w Kodeksie pracy , w niniejszej ustawie oraz w przepisach odrębnych. § 2. W zakresie określonym w Kodeksie pracy , w niniejszej ustawie oraz w przepisach odrębnych okręgowe sądy pracy i ubezpieczeń społecznych rozpoznają również W pierwszej instancji sprawy przedstawione im przez zakładowe i powiatowe komisje rozjemcze, powiatowe komisje odwoławcze do spraw pracy oraz organy orzekające w sprawach o świadczenia pieniężne z ubezpieczenia społecznego w wyniku odwołania od decyzji organu rentowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sądy powinny całą swoją działalnością umacniać socjalistyczne stosunki pracy, chronić osobiste i majątkowe prawa i interesy pracowników i zakładów pracy oraz oddziaływać wychowawczo w duchu przestrzegania zasad praworządności ludowej, dyscypliny pracy i troski o mienie społeczne, zgodnie z zasadami ustroju i celami Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "§ 1. Dla województwa i miasta wyłączonego z województwa tworzy się jeden sąd. W uzasadnionych wypadkach może być utworzony osobny sąd dla województwa oraz dla miasta wyłączonego z województwa. § 2. Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych oraz po porozumieniu z Centralną Radą Związków Zawodowych w drodze rozporządzenia tworzy i znosi sądy oraz ustala ich siedziby."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "§ 1. Sąd rozpoznaje sprawy w składzie sędziego jako przewodniczącego i dwóch ławników. § 2. Prezes sądu może zarządzić rozpoznanie sprawy zawiłej w składzie trzech sędziów i dwóch ławników. § 3. Postanowienia poza rozprawą oraz zarządzenia wydaje przewodniczący bez udziału ławników, jeżeli ustawa nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Jeżeli wymaga tego dobro wymiaru sprawiedliwości, potrzeba bezpośredniego oddziaływania wychowawczego albo gdy przyczyni się to do oszczędności kosztów, sąd wykonuje czynności poza swoją siedzibą, w szczególności na terenie właściwego uspołecznionego zakładu pracy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "§ 1. Sąd zwraca uwagę organom orzekającym na istotne uchybienia stwierdzone w ich postępowaniu, a w uzasadnionych wypadkach zawiadamia o tym organy, które je powołały. § 2. Przepis § 1 stosuje się odpowiednio w razie uchybień stwierdzonych w załatwianiu spraw przez zakłady pracy oraz organy rentowe."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "§ 1. Co najmniej raz w roku prezes sądu zwołuje zgromadzenie ogólne sędziów dla omówienia działalności sądu oraz wniosków zmierzających do przeciwdziałania powstawaniu sporów w stosunkach pracy i ubezpieczeń społecznych. § 2. Prezes sądu zaprasza do udziału w zgromadzeniu wojewodę (prezydenta miasta wyłączonego z województwa) prokuratora wojewódzkiego, wojewódzką radę związków zawodowych, a nadto w zależności od przedmiotu zgromadzenia także kierowników większych zakładów pracy, właściwy organ inspekcji pracy, organ zakładu ubezpieczeń społecznych oraz inne zainteresowane organy działające w okręgu sądu. § 3. informację o przebiegu zgromadzenia i jego wynikach prezes sądu przedstawia Ministrowi Sprawiedliwości, Ministrowi Pracy, Płac i Spraw Socjalnych, Pierwszemu Prezesowi Sądu Najwyższego, Prokuratorowi Generalnemu Polskiej Rzeczypospolitej Ludowej oraz Centralnej Radzie Związków Zawodowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Prezes sądu składa okresowe informacje o działalności sądu właściwej wojewódzkiej radzie narodowej (radzie narodowej miasta wyłączonego z województwa)."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Sąd składa się z prezesa, który jest kierownikiem sądu, wiceprezesa i sędziów."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Minister Sprawiedliwości w drodze rozporządzenia wyda regulamin wewnętrznego urzędowania sądów."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Jeżeli przepisy niniejszej ustawy nie stanowią inaczej, do ustroju sądów stosuje się odpowiednio przepisy dotyczące sądów wojewódzkich."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Użyte w ustawie określenia: 1) organ orzekający - oznacza zakładową lub powiatową komisję rozjemczą, powiatową komisję odwoławczą do spraw pracy oraz określony odrębnymi przepisami organ orzekający w sprawach o świadczenia pieniężne z ubezpieczenia społecznego w wyniku odwołania od decyzji organu rentowego i organ wydający decyzję w sprawach o świadczenia pieniężne z ubezpieczenia społecznego, o ile od decyzji tego organu przysługuje odwołanie (skarga) bezpośrednio do sądu, 2) organ rentowy - oznacza jednostkę organizacyjną właściwą do ustalania świadczeń pieniężnych z ubezpieczenia społecznego, 3) świadczenia pieniężne z ubezpieczenia społecznego - oznaczają przewidziane przepisami emerytury, renty inwalidzkie lub rodzinne, dodatki do emerytury lub renty, świadczenia rentowe z tytułu wypadku przy pracy lub choroby zawodowej, zasiłki pogrzebowe, zasiłki rodzinne, chorobowe lub połogowe i inne wynikające ze stosunku ubezpieczenia społecznego, jak również świadczenia pieniężne wynikające z odrębnych systemów emerytalnych i rentowych oraz świadczenia odszkodowawcze z tytułu wypadków i chorób pozostających w związku ze służbą wojskową lub służbą w Milicji Obywatelskiej albo w Służbie Więziennej, 4) pracownik - oznacza również członka spółdzielni pracy lub członków rodziny pracownika i członka spółdzielni pracy, uprawnionych do wniesienia odwołania. Oddział 2 Sędziowie"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Sędziowie w zakresie orzekania są niezawiśli i podlegają tylko ustawom."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Sędziów powołuje Rada Państwa na wniosek Ministra Sprawiedliwości, przedkładany po zasięgnięciu opinii Ministra Pracy, Płac i Spraw Socjalnych."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "§ 1. Na stanowisko sędziego może być powołany ten, kto: a) daje rękojmię należytego wykonywania obowiązków sędziego w Polsce Ludowej, b) posiada obywatelstwo polskie i korzysta w pełni z praw cywilnych i obywatelskich, c) jest nieskazitelnego charakteru, d) ukończył uniwersyteckie studia prawnicze, e) pozostawał co najmniej przez dwa lata na stanowisku sędziego lub prokuratora, f) ukończył trzydzieści lat życia. § 2. Od warunku wymienionego w § 1 lit. e) wolne są: a) osoby zatrudnione na stanowiskach profesorów i docentów nauk prawnych w polskich szkołach wyższych, w Polskiej Akademii Nauk oraz w innych placówkach naukowych i naukowo-badawczych, b) adwokaci. § 3. Od warunku wymienionego w § 1 lit. e) mogą być zwolnione osoby posiadające co najmniej pięcioletnią praktykę w charakterze radcy prawnego albo co najmniej pięcioletnią praktykę zawodową w zakresie wymiaru zaopatrzeń emerytalnych lub załatwiania spraw z zakresu prawa pracy i ubezpieczeń społecznych, które zdały egzamin sędziowski. Od warunku, o którym mowa w § 1 lit. e), w wypadkach wyjątkowych mogą być zwolnione także inne osoby nie wymienione w § 2. Zwolnienia udziela Rada Państwa na wniosek Ministra Sprawiedliwości przy powołaniu na stanowisko sędziego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "§ 1. Osoby pozostające z sobą w stosunku pokrewieństwa do drugiego stopnia lub powinowactwa pierwszego stopnia oraz małżonkowie nie mogą być sędziami w jednym wydziale sądu, natomiast w sądzie nie podzielonym na wydziały - brać udziału w jednym składzie orzekającym ani też podlegać sobie służbowo. § 2. Nie może być sędzią osoba, której małżonek wykonuje zawód adwokata. Nie może być również sędzią osoba, której krewny lub powinowaty w stopniu określonym w § 1 wykonuje zawód adwokata na obszarze właściwości tego samego okręgowego sądu pracy i ubezpieczeń społecznych. § 3. Przepisów § 2. nie stosuje się w wypadkach, gdy małżonek, krewny lub powinowaty sędziego jest wpisany na listę adwokatów, lecz nie wykonuje zawodu adwokata."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "§ 1. Minister Sprawiedliwości może delegować sędziego okręgowego sądu pracy i ubezpieczeń społecznych do zastępczego pełnienia w sądzie wojewódzkim obowiązków sędziego lub czynności administracyjnych albo do czynności w Ministerstwie Sprawiedliwości lub w Ministerstwie Pracy, Płac i Spraw Socjalnych, jak również sędziego sądu powiatowego lub wojewódzkiego do zastępczego pełnienia obowiązków sędziego w okręgowym sądzie pracy i ubezpieczeń społecznych, jednakże bez zgody sędziego na czas nie dłuższy niż trzy miesiące w roku. § 2. Prezes sądu wojewódzkiego na wniosek prezesa właściwego okręgowego sądu pracy i ubezpieczeń społecznych może delegować sędziego sądu powiatowego lub wojewódzkiego do zastępczego pełnienia obowiązków sędziego w okręgowym sądzie pracy i ubezpieczeń społecznych, mającym siedzibę w okręgu tego samego sądu wojewódzkiego, jednakże w braku zgody sędziego na czas nie dłuższy jak jeden miesiąc w roku. § 3. Sędzia sądu powszechnego delegowany do zastępczego pełnienia obowiązków sędziowskich w okręgowym sądzie pracy i ubezpieczeń społecznych ma wszelkie uprawnienia sędziego tego sądu. Jednakże sędzia sądu powiatowego nie ma prawa przewodniczenia w sprawach rozpoznawanych przez ten sąd w składzie trzech sędziów i dwóch ławników. § 4. Na zasadach określonych w § 1 i 2 może być delegowany do pracy w okręgowym sądzie pracy i ubezpieczeń społecznych asesor sądowy. Minister Sprawiedliwości może powierzyć takiemu asesorowi pełnienie czynności sędziego w sprawach rozpatrywanych w tym sądzie bez prawa przewodniczenia na rozprawach. § 5. Przepis § 2 stosuje się odpowiednio do delegowania przez prezesa okręgowego sądu pracy i ubezpieczeń społecznych sędziego tego sądu do zastępczego pełnienia obowiązków sędziego w sądzie wojewódzkim. § 6. Łączny okres delegacji zarządzonych na podstawie § 1, 2 i 5 bez zgody sędziego nie może przekraczać trzech miesięcy w roku."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Prezesów i wiceprezesów sądów powołuje spośród sędziów i odwołuje ich Minister Sprawiedliwości po zasięgnięciu opinii Ministra Pracy, Płac i Spraw Socjalnych."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "W sprawach związanych z powołaniem i odwołaniem sędziego, a także w innych sprawach dotyczących sędziów okręgowych sądów pracy i ubezpieczeń społecznych - jeżeli ustawa nie stanowi inaczej - stosuje się odpowiednio przepisy dotyczące sędziów sądów wojewódzkich. Oddział 3 Ławnicy"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "W orzekaniu w sprawach rozpoznawanych przez sądy - jeżeli ustawa nie stanowi inaczej - biorą udział ławnicy."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "W zakresie orzekania ławnicy są niezawiśli, podlegają tylko ustawom i mają równe z sędziami obowiązki i uprawnienia, nie mogą jednak przewodniczyć na rozprawie i naradzie. Ławnik nie może też wykonywać czynności sędziego poza rozprawą, naradą i wydaniem orzeczenia, z wyjątkiem wypadków określonych w art. 37 § 4, art. 43 § 2, art. 44 i 65."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Liczbę ławników określają prezesi sądów."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "§ 1. Kandydatów na ławników zgłaszają w równej liczbie wojewoda (prezydent miasta wyłączonego z województwa) oraz wojewódzka rada związków zawodowych (rada związków zawodowych właściwa dla miasta wyłączonego z województwa). § 2. Kandydatów na ławników do sądów obejmujących swoim zasięgiem działania województwo oraz miasto wyłączone z województwa zgłaszają: 1) w tej samej liczbie - wojewoda oraz prezydent miasta Wyłączonego z województwa, 2) wojewódzka rada związków zawodowych, a jeżeli działają osobne rady dla województwa i miasta wyłączonego z województwa - w tej samej liczbie obydwie te rady, z zachowaniem co do ogólnej liczby kandydatów zgłaszanych przez organy administracji państwowej oraz instancje związków zawodowych zasady określonej w § 1. § 3. Kandydat na ławnika powinien posiadać ukończone trzydzieści lat życia oraz znajomość problematyki stosunków pracy i ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "§ 1. Ławników wybiera wojewódzka rada narodowa (rada narodowa miasta wyłączonego z województwa). § 2. Ławników do sądów obejmujących swoim zasięgiem działania województwo i miasto wyłączone z województwa wybierają w równej liczbie - wojewódzka rada narodowa oraz rada narodowa miasta wyłączonego z województwa. § 3. Rady narodowe wybierają ławników w równej liczbie spośród kandydatów zgłoszonych przez organy administracji państwowej oraz instancje związków zawodowych."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Do składu sądu prezes sądu wyznacza jednego ławnika wybranego spośród kandydatów zgłoszonych przez wojewodę (prezydenta miasta wyłączonego z województwa) i jednego ławnika wybranego spośród kandydatów zgłoszonych przez wojewódzką radę związków zawodowych."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Ławnicy zdają okresowo sprawę ze swej działalności radzie narodowej, która ich wybrała."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "§ 1. Prezes sądu zwołuje co najmniej raz w roku zebranie ławników sądu w celu omówienia działalności sądu i wymiany doświadczeń. § 2. Zebranie może być połączone ze zgromadzeniem sędziów, o którym mowa w art. 8."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "W zakresie nie uregulowanym niniejszą ustawą w sprawach związanych z wyborem i odwołaniem ławnika, a także w innych sprawach dotyczących ławników, stosuje się odpowiednio przepisy o ławnikach ludowych w sądach powszechnych. Oddział 4 Sekretariaty i pracownicy sądowi"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "§ 1. W sądach działają sekretariaty sądów. § 2. Zadaniem sekretariatów sądów jest obsługa kancelaryjna sądów, prowadzenie akt i ksiąg sądowych oraz wykonywanie innych czynności zlecanych przez prezesa, wiceprezesa i sędziów. § 3. Minister Sprawiedliwości określi organizacją i szczegółowy zakres działania sekretariatów sądów oraz warunki tworzenia i zakres działania innych jednostek organizacyjnych administracji sądowej."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Do pracowników sądowych stosuje się odpowiednio przepisy dotyczące pracowników sądowych w sądach wojewódzkich. Rozdział 2 Postępowanie Oddział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "§ 1. Odwołanie od orzeczeń organów orzekających wnosi się na piśmie do organu, który wydał zaskarżone orzeczenie, lub do protokołu sporządzonego przez ten organ, w terminie dwóch tygodni od doręczenia orzeczenia. § 2. Pracownik i osoba ubiegająca się o świadczenia pieniężne z ubezpieczenia społecznego może również wnieść odwołanie do protokołu w okręgowym sądzie pracy i ubezpieczeń społecznych, właściwym do rozpoznania odwołania albo' mającym swą siedzibę w mieście lub powiecie, w którym zamieszkuje odwołujący się. Jeżeli odwołujący się zamieszkuje w innej miejscowości, może wnieść odwołanie do protokołu we właściwym dla jego miejsca zamieszkania sądzie powiatowym. § 3. Sąd, do którego wniesiono odwołanie, niezwłocznie przekazuje protokół organowi, od którego pochodzi zaskarżone orzeczenie, chyba że sąd ten jest właściwy do jego rozpoznania. W takim wypadku przewodniczący niezwłocznie zażąda akt sprawy i nada odwołaniu właściwy bieg, przekazując odpis protokołu organowi, od którego pochodzi zaskarżone orzeczenie."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "§ 1. Odwołanie powinno zawierać oznaczenie zaskarżonego orzeczenia, określenie i zwięzłe uzasadnienie wniosków i zarzutów oraz podpis odwołującego się albo jego przedstawiciela ustawowego lub pełnomocnika. § 2. Odwołujący się może rozszerzyć lub w inny sposób zmienić żądanie, jeśli rozszerzone lub zmienione roszczenie jest oparte na tej samej podstawie faktycznej lub prawnej co żądanie pierwotne. § 3. Jeżeli odwołujący się zgłosił nowe żądanie, dotychczas nie rozpoznane przez organ orzekający i nie objęte § 2, sąd przyjmie to żądanie do protokołu, a protokół przekazuje właściwemu organowi orzekającemu lub organowi rentowemu do rozpoznania."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "§ 1. Organ orzekający doręcza stronie przeciwnej odpis odwołania, po czym niezwłocznie przekazuje akta właściwemu sądowi, dołączając dowód doręczenia odpisu odwołania, § 2. Doręczenie zarządza przewodniczący organu orzekającego w sposób, jaki uzna za najbardziej celowy dla przyspieszenia dalszego biegu sprawy. Fakt doręczenia może być stwierdzony także notatką, w której doręczający poda datę, nazwisko i imię oraz stanowisko służbowe osoby, której doręczono odpis odwołania. § 3. Jeżeli odpis odwołania ma być doręczony przez zakładową komisję rozjemczą zakładowi pracy lub pracownikowi zatrudnionemu w tym zakładzie pracy, Komisja rozjemcza przedstawia akta sądowi najdalej w ciągu trzech dni od daty złożenia odwołania. § 4. Strona przeciwna może, a jeżeli jest nią uspołeczniony zakład pracy - ma obowiązek w ciągu tygodnia od doręczenia jej odwołania wnieść na nie odpowiedź wprost do sądu."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Właściwy do rozpoznania odwołania jest sąd, w którego okręgu ma siedzibę organ orzekający, który wydał zaskarżone orzeczenie, chyba że przepisy odrębne stanowią inaczej."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Sąd, na zgodny wniosek stron, może odwołanie przekazać do rozpoznania innemu okręgowemu sądowi pracy i ubezpieczeń społecznych, jeżeli przemawiają za tym względy celowości. Postanowienie w tym przedmiocie może zapaść na posiedzeniu niejawnym. Sąd, któremu sprawa została przekazana, jest związany postanowieniem sądu przekazującego."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "§ 1. Odwołujący się może cofnąć odwołanie w każdym czasie, aż do zamknięcia rozprawy. W takim wypadku sąd umarza postępowanie w odpowiednim zakresie. § 2. W razie zawarcia ugody lub ograniczenia żądania po wydaniu orzeczenia przez organ orzekający, sąd uchyla zaskarżone orzeczenie i umarza postępowanie w odpowiednim zakresie. § 3. Sąd uzna za niedopuszczalne zawarcie ugody, cofnięcie odwołania lub ograniczenie żądania, jeżeli byłoby to niezgodne z prawem, zasadami współżycia społecznego albo jeżeli czynność taka naruszałaby słuszny interes pracownika. § 4. Postanowienie w przedmiocie umorzenia postępowania może zapaść na posiedzeniu niejawnym w składzie, w jakim sprawa byłaby rozpoznawana na rozprawie."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Zdolność sądową i procesową ma także zakład pracy, chociażby nie posiadał osobowości prawnej, a w sprawach o świadczenia pieniężne z ubezpieczenia społecznego zdolność tę ma organ rentowy."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "§ 1. Postępowanie wolne jest od opłat sądowych. § 2. Wydatki związane z czynnościami podejmowanymi w toku postępowania ponosi tymczasowo Skarb Państwa. Sąd w orzeczeniu kończącym postępowanie w instancji obciąża tymi wydatkami strony, stosując odpowiednio przepisy o kosztach sądowych w sprawach cywilnych."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "§ 1. Sąd uzasadnia wszelkie orzeczenia kończące postępowanie w instancji oraz postanowienia, o których mowa w art. 36. § 2. Orzeczenia kończące postępowanie, zapadłe na posiedzeniu niejawnym, sąd uzasadnia i doręcza bezzwłocznie stronom z urzędu wraz z uzasadnieniem. Oddział 2 Przygotowanie rozprawy"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Sprawa powinna być tak przygotowana do wyznaczenia terminu rozprawy, aby możliwe było jej rozstrzygnięcie już na pierwszym posiedzeniu i bez wzywania świadków. Termin ten nie powinien być wyznaczony później, jak w dwa tygodnie od wpłynięcia sprawy."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "§ 1. Niezwłocznie po wpłynięciu akt sprawy przewodniczący lub wyznaczony przez niego sędzia dokonuje wstępnego badania sprawy. § 2. Wstępne badanie sprawy polega na ustaleniu, czy odwołanie spełnia niezbędne wymagania pozwalające nadać mu dalszy bieg, oraz na podjęciu czynności umożliwiających rozstrzygnięcie sprawy na pierwszym posiedzeniu."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "§ 1. W uzasadnionych wypadkach sąd może rozpatrzyć odwołanie wniesione w spóźnionym terminie, jeżeli opóźnienie nie przekroczyło trzech tygodni. § 2. Jeżeli opóźnienie jest dłuższe niż przewidziane w § 1, rozpoznanie odwołania może nastąpić po uprzednim przywróceniu terminu do jego wniesienia w trybie i z przyczyn przewidzianych w Kodeksie postępowania cywilnego . Postanowienie w przedmiocie przywrócenia terminu może być podjęte na posiedzeniu niejawnym., w składzie, w jakim sprawa byłaby rozpoznawana na rozprawie."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Sąd odrzuca odwołanie, jeżeli odwołujący nie uzupełnił w terminie braków odwołania, uniemożliwiających nadanie mu dalszego biegu, albo jeżeli brak jest podstaw do rozpatrzenia spóźnionego odwołania. Postanowienie w tym przedmiocie może być podjęte na posiedzeniu niejawnym w składzie, w jakim sprawa byłaby rozpoznawana na rozprawie."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "§ 1. W toku wstępnego badania sprawy przewodniczący zażąda w razie potrzeby przedstawienia przez strony lub inne osoby i organy znajdujących się u nich, a niezbędnych do rozstrzygnięcia sprawy pism, ksiąg, planów, wykazów, akt osobowych lub innych dokumentów. Wezwanie w tym przedmiocie może nastąpić także w trybie przewidzianym w art. 468 Kodeksu postępowania cywilnego . Może być również połączone z zarządzeniem o wyznaczeniu terminu rozprawy. § 2. Przewodniczący może także zażądać od jednej lub obu stron dodatkowych wyjaśnień albo oświadczeń na piśmie bądź do protokołu poza rozprawą."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Jeżeli wyniki wstępnego badania sprawy przemawiają za podjęciem przez sąd czynności wyjaśniających albo jeżeli wzgląd na zmniejszenie kosztów postępowania uzasadnia przeprowadzenie dowodu przez sędziego wyznaczonego lub sąd wezwany albo sporządzenie opinii przez biegłego przed rozprawą, rozprawa może być wyznaczona w terminie późniejszym, niż to przewiduje art. 41, umożliwiającym dokonanie tych czynności."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "§ 1. Czynności wyjaśniające mają na celu ustalenie, jakie z istotnych dla rozstrzygnięcia sprawy okoliczności są sporne między stronami, czy i jakie dowody należy dodatkowo przeprowadzić, wyjaśnienie innych okoliczności mających znaczenie dla prawidłowego i szybkiego rozstrzygnięcia sprawy oraz w sprawach pracowniczych - skłonienie stron do zawarcia ugody. Mogą one być połączone z przeprowadzeniem dowodu. § 2. W uzasadnionych wypadkach czynności, o których mowa w § 1, mogą być przeprowadzone w uspołecznionym zakładzie pracy będącym stroną postępowania."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "§ 1. Zakres czynności wyjaśniających oraz sposób ich przeprowadzenia określa sąd postanowieniem wydanym na posiedzeniu niejawnym. § 2. O terminie czynności wyjaśniających, połączonych z przeprowadzeniem dowodów, sąd zawiadamia strony, a jeżeli ustanowiły pełnomocników - ich pełnomocników, co najmniej na trzy dni przed terminem przeprowadzenia dowodu. § 3. Czynności wyjaśniające przeprowadza sąd w składzie jednego sędziego bez udziału ławników. Przeprowadzenie tych czynności w zakładzie pracy można zlecić innemu okręgowemu sądowi pracy i ubezpieczeń społecznych lub sądowi powiatowemu, gdy z uwagi na odległość siedziby zakładu od sądu przeprowadzenie ich przez sąd właściwy w sprawie byłoby niecelowe. § 4. Z czynności wyjaśniających sąd sporządza notatkę urzędową, a jeżeli są one połączone z przeprowadzeniem dowodu - protokół."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "§ 1. Postanowienie określające dodatkowe środki dowodowe i fakty podlegające stwierdzeniu może zapaść na posiedzeniu niejawnym. Może być także połączone z postanowieniem, o którym mowa w art. 48 § 1, lub podjęte w toku czynności wyjaśniających. § 2. W toku przeprowadzania dowodu sędzia lub sąd wezwany może przeprowadzić dalsze dowody, jeżeli jest to uzasadnione wynikami postępowania w sprawie."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Sądem wezwanym w rozumieniu niniejszej ustawy jest okręgowy sąd pracy i ubezpieczeń społecznych, jeżeli czynności mają być przeprowadzone na terenie powiatu lub miasta, w którym sąd ten ma swą siedzibę. W innych wypadkach sądem tym jest sąd powiatowy."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Postanowienie okręgowego sądu pracy i ubezpieczeń społecznych stwierdzające, że sprawa nie podlega jego rozpoznaniu, i przekazujące sprawę sądowi powszechnemu lub innemu organowi jest wiążące dla sądu lub organu, któremu sprawa została przekazana. Postanowienie w tym przedmiocie może zapaść na posiedzeniu niejawnym."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Jeżeli strona, będąca osobą fizyczną, nie ma zdolności procesowej ani przedstawiciela ustawowego, sąd dla postępowania w rozpoznawanej sprawie z urzędu ustanowi dla niej kuratora i zawiadomi o tym sąd opiekuńczy. Postanowienie w tym przedmiocie może zapaść na posiedzeniu niejawnym. Oddział 3 Rozprawa i wyrokowanie"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "§ 1. O terminie rozprawy zawiadamia się strony, a jeżeli ustanowiły pełnomocników - ich pełnomocników. W razie potrzeby przewodniczący może zarządzić osobiste stawiennictwo jednej lub obu stron. W takim wypadku strona będąca jednostką gospodarki uspołecznionej powinna być reprezentowana na rozprawie przez radcę prawnego lub inną osobę obeznaną ze stanem faktycznym sprawy i uprawnioną do zawarcia ugody. § 2. Rozprawa odbywa się bez względu na niestawiennictwo jednej lub obu stron, chyba że ze względu na niestawiennictwo zachodzą podstawy do odroczenia rozprawy. Wyrok wydany w nieobecności pozwanego nie jest zaoczny."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Po wywołaniu sprawy rozprawa rozpoczyna się od sprawozdania sędziego, który zwięźle przedstawia stan sprawy."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Sąd nie jest związany granicami wniosków i zarzutów odwołania. Sąd ma obowiązek wszechstronnie wyjaśnić sprawę, wziąć pod rozwagę naruszenie przez organ orzekający prawa materialnego oraz rażące naruszenie przepisów o postępowaniu."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Sąd może dokonać nowych ustaleń bez względu na to, czy są one zgodne z ustaleniami organu orzekającego. Sąd nie może jednak dokonać nowych ustaleń odmiennych od ustaleń organu orzekającego, jeżeli byłyby one wyłącznie wynikiem innej oceny wiarogodności zeznań świadków lub stron, chyba że ponownie przeprowadził dowód z zeznań tych świadków lub stron."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Sąd wydając wyrok w sprawie orzeka także o roszczeniach, które wynikają z tej samej podstawy faktycznej lub prawnej, chociaż nie były objęte żądaniem lub gdy były w nim zgłoszone w rozmiarze mniejszym niż usprawiedliwiony wynikiem postępowania."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Rozpoznaniu sądu podlegają również orzeczenia poprzedzające wydanie orzeczenia końcowego, chyba że według przepisów o postępowaniu przed organem orzekającym podlegały one oddzielnemu zaskarżeniu."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Sąd nie może uchylić lub zmienić orzeczenia na niekorzyść strony wnoszącej odwołanie, chyba że strona przeciwna również wniosła odwołanie."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Sąd może z urzędu rozpoznać sprawę na rzecz współuczestników, którzy orzeczenia nie zaskarżyli, gdy będące przedmiotem odwołania prawa lub obowiązki są wspólne także dla tych współuczestników albo gdy oparte są na tej samej podstawie faktycznej i prawnej. Współuczestników takich należy wezwać na rozprawę, mogą oni także składać pisma przygotowawcze."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Sąd oddala odwołanie, jeżeli nie ma podstaw do jego uwzględnienia."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "W razie uwzględnienia odwołania sąd zmienia zaskarżone orzeczenie w całości lub w części i orzeka co do istoty sprawy."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "§ 1. Sąd uchyla zaskarżone orzeczenie: 1) gdy organ orzekający rozpoznał sprawę nie podlegającą jego kompetencji, chyba że zachodzi naruszenie przepisów o miejscowej właściwości organu orzekającego w sprawach świadczeń pieniężnych z ubezpieczenia społecznego, powiatowej komisji rozjemczej lub powiatowej komisji odwoławczej do spraw pracy, 2) jeżeli skład organu orzekającego był sprzeczny z przepisami prawa lub jeżeli w rozpoznaniu sprawy brała udział osoba wyłączona z mocy ustawy. § 2. Sąd może uchylić zaskarżone orzeczenie: 1) gdy organ orzekający rozpoznał sprawę o żądanie, które powinno być skierowane przeciwko innemu zakładowi pracy lub innemu organowi rentowemu, albo 2) jeżeli mimo istnienia spornych okoliczności nie przeprowadzono jakiegokolwiek postępowania dowodowego co do istoty sprawy. § 3. Sąd, uchylając zaskarżone orzeczenie, przekazuje sprawę do ponownego rozpoznania właściwemu organowi orzekającemu lub organowi rentowemu. § 4. Sąd zwraca akta sprawy właściwemu organowi w ciągu 7 dni od sporządzenia uzasadnienia orzeczenia."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Sąd uchyla zaskarżone orzeczenie i odrzuca wniosek, jeżeli o to samo roszczenie pomiędzy tymi samymi stronami toczy się sprawa wcześniej wytoczona albo jeżeli sprawa taka została już prawomocnie rozstrzygnięta."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Gdy zachodzą okoliczności, o których mowa w art. 63 i 64, sąd może rozpoznać odwołanie na posiedzeniu niejawnym w składzie, w jakim sprawa byłaby rozpoznana na rozprawie."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "§ 1. Jeżeli przy rozpoznaniu odwołania przez sąd powstanie zagadnienie prawne budzące poważne wątpliwości, sąd może przedstawić to zagadnienie do rozstrzygnięcia Sądowi Najwyższemu, odraczając rozpoznanie sprawy. Sąd Najwyższy władny jest przejąć sprawę do rozpoznania. W takim wypadku rozpoznanie sprawy następuje w trybie przepisów niniejszej ustawy. § 2. Uchwała Sądu Najwyższego rozstrzygająca zagadnienie prawne wiąże w danej sprawie."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Sąd sporządza uzasadnienie wyroku najpóźniej w terminie do 7 dni od chwili jego wydania lub ogłoszenia. Odpis wyroku z uzasadnieniem doręcza się stronom z urzędu."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Od orzeczenia okręgowego sądu pracy i ubezpieczeń społecznych nie przysługuje odwołanie, z wyjątkiem orzeczeń w sprawach przejętych przez sąd do rozpoznania lub przekazanych temu sądowi przez Sąd Najwyższy po uchyleniu w postępowaniu z rewizji nadzwyczajnej orzeczenia komisji rozjemczej (art. 277 § 3 Kodeksu pracy )."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "§ 1. Jeżeli w wyroku zasądzono roszczenie na rzecz pracownika, sąd z urzędu wydaje uprawnionemu w dniu rozprawy odpis sentencji wyroku. § 2. Na wniosek pracownika sąd stwierdzi prawomocność orzeczenia komisji rozjemczej lub powiatowej komisji odwoławczej do spraw pracy w takim zakresie, w jakim orzeczenie uprawomocniło się w następstwie orzeczenia sądu. Dotyczy to także wypadku, gdy strony zawarły ugodę."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Orzeczenie okręgowego sądu pracy i ubezpieczeń społecznych oraz ugoda zawarta przed tym sądem stanowią tytuł egzekucyjny i podlegają wykonaniu na podstawie przepisów rozdziału XI działu dwunastego Kodeksu pracy , a gdy należności przypadają organowi rentowemu - w trybie przepisów o postępowaniu egzekucyjnym w administracji."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Jeżeli strona bez usprawiedliwionych powodów nie wykona wydanych w toku postępowania postanowień lub zarządzeń, sąd może skazać ją na grzywnę według przepisów Kodeksu postępowania cywilnego o karach za niestawiennictwo świadka i odmówić przyznania kosztów lub zastosować jeden z tych środków, nie może jednak nakazać przymusowego sprowadzenia jej do sądu. Gdy stroną tą jest jednostka gospodarki uspołecznionej: 1) grzywnie podlega pracownik odpowiedzialny za wykonanie postanowień lub zarządzeń, a w razie niewyznaczenia takiego pracownika lub niemożności jego ustalenia - kierownik zakładu, nadto 2) sąd w każdym wypadku zawiadamia o tym organ nadrzędny tej jednostki."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "W sprawach nie uregulowanych niniejszą ustawą do postępowania przed okręgowymi sądami pracy i ubezpieczeń społecznych stosuje się przepisy Kodeksu pracy oraz odpowiednio przepisy tytułu wstępnego, księgi pierwszej i czwartej części pierwszej oraz części trzeciej Kodeksu postępowania cywilnego , przepisy o kosztach sądowych i inne przepisy dotyczące postępowania sądowego w sprawach cywilnych. Nie stosuje się jednak przepisów art. 75-85, 194-198, 464, 470-476 Kodeksu postępowania cywilnego , a w sprawach przeciwko organowi rentowemu nadto art. 469 tego kodeksu."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Jeżeli ze względu na występujące w sprawie poważne wątpliwości prawne organ orzekający przedstawi sprawę do rozpoznania okręgowemu sądowi pracy i ubezpieczeń społecznych, a sąd uzna, że brak jest podstaw do przejęcia sprawy, wydaje na posiedzeniu niejawnym, w terminie 3 dni od wpływu sprawy, postanowienie odmawiające przejęcia sprawy. Postanowienie wymaga uzasadnienia."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "§ 1. W razie przejęcia przez okręgowy sąd pracy i ubezpieczeń społecznych do rozpoznania sprawy, o której mowa w art. 73, postępowanie przed tym sądem toczy się według przepisów tytułu wstępnego, księgi pierwszej i czwartej części pierwszej oraz części trzeciej Kodeksu postępowania cywilnego , przepisów o kosztach sądowych i innych przepisów dotyczących postępowania sądowego w sprawach cywilnych ze zmianami wynikającymi z odpowiedniego zastosowania przepisów art. 35, 38, 39, 41, 42, 46-53 i 71. § 2. Środki odwoławcze od orzeczeń okręgowych sądów pracy i ubezpieczeń społecznych w sprawach, o których mowa w § 1. rozpoznaje Sąd Najwyższy w trybie przewidzianym niniejszą ustawą dla rozpatrywania odwołań od orzeczeń organów orzekających. § 3. Do wykonania prawomocnego orzeczenia sądu wydanego w postępowaniu, o którym mowa w § 1 i 2, oraz ugody zawartej w tym postępowaniu stosuje się art. 70. Oddział 4 Przepisy odrębne o postępowaniu w sprawach o świadczenia pieniężne z ubezpieczenia społecznego"
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Odwołanie nie przysługuje: 1) w sprawach, w których decyzja zależy od swobodnego uznania organu rentowego, oraz 2) w sprawach o przeliczenie na walutę polską świadczeń przyznanych przez instytucje zagraniczne i w sprawach o przeliczenie na walutę obcą świadczeń przyznanych przez polskie organy rentowe."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Pełnomocnikiem osoby ubiegającej się o świadczenia pieniężne z ubezpieczenia społecznego może być również przedstawiciel organizacji zrzeszającej emerytów i rencistów lub zakładu pracy, w którym zainteresowany był ostatnio zatrudniony."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "§ 1. Stronami są: osoba, której praw i obowiązków dotyczy zaskarżone orzeczenie, organ rentowy i zainteresowany. § 2. Zainteresowanym jest ten, czyje prawa lub obowiązki zależą od rozstrzygnięcia sprawy. Jeżeli osoba teka nie została wezwana do udziału w sprawie przed organem orzekającym, sąd wezwie ją do postępowania bądź z urzędu, bądź na jej wniosek lub na wniosek jednej ze stron."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Nie jest dopuszczalne zawarcie ugody."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Zmiana przez organ rentowy zaskarżonej decyzji przed rozstrzygnięciem sprawy przez wydanie decyzji uwzględniającej w całości lub w części żądanie strony powoduje umorzenie w całości lub w części postępowania. Poza tym zmiana lub wykonanie decyzji nie ma wpływu na bieg sprawy."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Na wniosek organu rentowego sąd może na posiedzeniu niejawnym wstrzymać tymczasowo, do czasu rozpoznania odwołania, w całości lub w części wykonanie orzeczenia organu orzekającego, przyznającego stronie prawo do świadczeń okresowych. Wstrzymanie dotyczy świadczeń przypadających w czasie po doręczeniu organowi rentowemu orzeczenia wstrzymującego ich wykonanie."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Wydatki związane z czynnościami podejmowanymi w toku postępowania ponosi Skarb Państwa."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Strona ma prawo żądać od Skarbu Państwa zwrotu kosztów podróży i wynagrodzenia za utratę zarobku spowodowaną osobistym stawiennictwem, gdy sąd wezwał ją do takiego stawiennictwa. Żądanie to strona powinna zgłosić w dniu stawiennictwa pod rygorem utraty należności."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Do rewizji nadzwyczajnej od wyroku okręgowego sądu pracy i ubezpieczeń społecznych w sprawach o świadczenia pieniężne z ubezpieczenia społecznego stosuje się odpowiednio przepisy Kodeksu pracy o rewizji nadzwyczajnej. Rozdział 3 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "§ 1. Traci moc ustawa z dnia 28 lipca 1939 r. - Prawo o sądach ubezpieczeń społecznych ( Dz. U. z 1961 r. Nr 41, poz. 215 i z 1962 r. Nr 11, poz. 54 ) , z tym iż zachowuje ona moc w odniesieniu do Trybunału Ubezpieczeń Społecznych do czasu jego zniesienia, zgodnie z przepisem § 3 oraz ze zmianami wynikającymi z tego przepisu. § 2. Znosi się okręgowe sądy ubezpieczeń społecznych. § 3. Trybunał Ubezpieczeń Społecznych zostaje zniesiony po upływie sześciu miesięcy od daty wejścia w życie niniejszej ustawy. Nie zakończone do tego czasu sprawy, toczące się przed Trybunałem Ubezpieczeń Społecznych, przekazuje się do dalszego rozpoznania sądowi właściwemu dla m.st. Warszawy. Sprawy te podlegają rozpoznaniu w składzie trzech sędziów i dwóch ławników. § 4. Minister Sprawiedliwości ureguluje sprawy związane ze zniesieniem sądów ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Sędziowie Trybunału Ubezpieczeń Społecznych z dniem zniesienia Trybunału stają się sędziami okręgowych sądów pracy i ubezpieczeń społecznych, właściwych ze względu na miejsce ich zamieszkania."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Sędziowie okręgowych sądów ubezpieczeń społecznych stają się sędziami sądów powiatowych, właściwych ze względu na miejsce ich zamieszkania."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Sędziowie, którzy na podstawie art. 85 i 86 stali się sędziami okręgowych sądów pracy i ubezpieczeń społecznych lub sądów powiatowych, zachowują prawo do dotychczas pobieranego zasadniczego uposażenia."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "§ 1. Mandaty ławników okręgowych sądów ubezpieczeń społecznych wygasają z dniem wejścia w życie niniejszej ustawy. § 2. Liczbą ławników wybieranych w pierwszych wyborach na podstawie niniejszej ustawy określają prezesi właściwych sądów wojewódzkich."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Sekretarze sądowi i inni pracownicy sądów ubezpieczeń społecznych, z zachowaniem prawa do dotychczas pobieranego zasadniczego uposażenia, stają się pracownikami okręgowych sądów pracy i ubezpieczeń społecznych utworzonych w siedzibach dotychczasowych sądów ubezpieczeń społecznych, a jeżeli siedziba okręgowego sądu pracy i ubezpieczeń społecznych jest inna niż siedziba okręgowego sądu ubezpieczeń społecznych - pracownikami sądów powiatowych istniejących w siedzibach sądów ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "§ 1. Postępowanie sądowe w sprawach o roszczenia pracownika ze stosunku pracy wszczęte przed wejściem w życie niniejszej ustawy i do tego czasu prawomocnie nie zakończone będzie toczyło się według przepisów dotychczasowych, chyba że przepisy ustawy stanowią inaczej. § 2. Postępowanie w sprawach o świadczenia pieniężne z zaopatrzenia emerytalnego, w których decyzja organu rentowego została wydana przed wejściem w życie niniejszej ustawy, i do tego czasu prawomocnie nie zakończone, toczyć się będzie według przepisów dotychczasowych w okręgowych sądach pracy i ubezpieczeń społecznych, właściwych stosownie do art. 35. § 3. Do postępowania w sprawach o świadczenia pieniężne z ubezpieczenia społecznego, które stosownie do przepisów dotychczas obowiązujących nie podlegały rozpoznaniu przez sądy ubezpieczeń społecznych, stosuje się przepisy niniejszej ustawy, jeżeli po dniu jej wejścia w życie wydane zostało orzeczenie przez organ orzekający (art. 13 pkt 1). § 4. W sprawach, o których mowa w § 1 i 2, w których orzeczenie sądu pierwszej instancji zostało po wejściu w życie niniejszej ustawy uchylone przez sąd drugiej instancji lub przez Sąd Najwyższy, postępowanie toczyć się będzie przed okręgowym sądem pracy i ubezpieczeń społecznych według przepisów niniejszej ustawy. Czynności dokonane w czasie przed wejściem w życie ustawy są skuteczne, jeżeli odpowiadają przepisom dotychczasowym. § 5. Przepis § 4 stosuje się w sprawach, w których orzeczenie sądu pierwszej instancji zostało po dniu wejścia w życie niniejszej ustawy uchylone przez sąd właściwy dla m.st. Warszawy, któremu stosownie do art. 84 § 3 zostaną przekazane do rozpoznania sprawy toczące się przed Trybunałem Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "Przepisy art. 90 § 2 i 4 stosuje się także do spraw o świadczenia pieniężne z tytułu wypadku przy pracy lub choroby zawodowej, należne pracownikowi od uspołecznionego zakładu pracy, jeżeli przed dniem wejścia w życie ustawy zapadło orzeczenie komisji rozjemczej, a w sprawach tych, w których komisja nie była właściwa, decyzję w tym czasie podjęła jednostka nadrzędna nad zakładem pracy."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "Ilekroć obowiązujące przepisy przewidują prawo stron odwołania się (skargi) od decyzji organów administracji państwowej lub organów społecznych do okręgowych sądów ubezpieczeń społecznych, odwołania rozpoznają okręgowe sądy pracy i ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "W ustawie z dnia 2 grudnia 1960 r. o ławnikach ludowych w sądach powszechnych ( Dz. U. Nr 54, poz. 309 i z 1970 r. Nr 16, poz. 136 ) uchyla się art. 22."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "W ustawie z dnia 15 lutego 1962 r. o Sądzie Najwyższym ( Dz. U. Nr 11, poz. 54 ) wprowadza się następujące zmiany: 1) art. 9 otrzymuje brzmienie: „ Art. 9. Izba Pracy i Ubezpieczeń Społecznych sprawuje, w granicach i w trybie określonych przez właściwe przepisy, nadzór nad orzecznictwem sądowym w sprawach ze stosunku pracy i w sprawach o świadczenia pieniężne z ubezpieczenia społecznego, a nadto rozpoznaje rewizje nadzwyczajne od prawomocnych orzeczeń zakładowych i powiatowych komisji rozjemczych, powiatowych komisji odwoławczych do spraw pracy, rad nadzorczych oddziałów Zakładu Ubezpieczeń Społecznych oraz Komisji Odwoławczej do Spraw Emerytalnych, określonej w przepisach o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin. ” , 2) w art. 24 lit. a) i b) otrzymują brzmienie: „ a) przez rozpoznawanie środków odwoławczych od nieprawomocnych orzeczeń sądów wojewódzkich i okręgowych sądów pracy i ubezpieczeń społecznych wydanych w pierwszej instancji oraz od nieprawomocnych orzeczeń sądów wojskowych, b) przez rozpoznawanie rewizji nadzwyczajnych od prawomocnych orzeczeń sądowych oraz prawomocnych orzeczeń organów, o których mowa w art. 9. ” , 3) w art. 27 ust. 3 otrzymuje brzmienie: „ 3. Rozpoznawanie rewizji nadzwyczajnych od orzeczeń Sądu Najwyższego następuje w składzie siedmiu sędziów Sądu Najwyższego. Rewizje nadzwyczajne od orzeczeń innych sądów i organów są rozpoznawane w składzie trzech sędziów Sądu Najwyższego. Od rozpoznawania rewizji nadzwyczajnych wyłączeni są sędziowie, którzy wydali zaskarżone orzeczenie. ” , 4) w art. 28 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Sąd Najwyższy ustala wytyczne na wniosek Ministra Sprawiedliwości, Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej albo Pierwszego Prezesa Sądu Najwyższego, a w sprawach z zakresu prawa pracy i ubezpieczeń społecznych także na wniosek Ministra Pracy, Płac i Spraw Socjalnych lub Centralnej Rady Związków Zawodowych. ” , 5) w art. 29 w ust. 2 zdanie pierwsze otrzymuje brzmienie: „ Wniosek o podjęcie uchwały może być postawiony przez Ministra Sprawiedliwości, Prokuratora Generalnego Polskiej Rzeczypospolitej Ludowej, Pierwszego Prezesa Sądu Najwyższego lub prezesa Sądu Najwyższego, a w sprawach z zakresu prawa pracy i ubezpieczeń społecznych - także przez Ministra Pracy, Plac i Spraw Socjalnych lub Centralną Radę Związków Zawodowych, ponadto zaś w sprawach z zakresu wynalazczości - przez Prezesa Urzędu Patentowego. ” , 6) w art. 42 ust. 1 otrzymuje brzmienie: „ 1. Z zachowaniem przepisów prawa o ustroju sądów powszechnych Minister Sprawiedliwości, w porozumieniu z. Pierwszym Prezesem Sądu Najwyższego, może delegować sędziego sądu wojewódzkiego lub sędziego okręgowego sądu pracy i ubezpieczeń społecznych do pełnienia czynności sędziowskich w Sądzie Najwyższym, a sędziego Sądu Najwyższego w tym samym trybie i za jego zgodą - do pełnienia czynności w sądzie wojewódzkim lub okręgowym sądzie pracy i ubezpieczeń społecznych albo w Ministerstwie Sprawiedliwości. ” , 7) art. 49 uchyla się;"
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "W Kodeksie postępowania cywilnego wprowadza się następujące zmiany: 1) w art. 423 dodaje się § 3 w brzmieniu: „ § 3. Przepis paragrafu poprzedzającego nie ma zastosowania w postępowaniu wywołanym złożeniem rewizji nadzwyczajnej w sprawach o roszczenia pracownika ze stosunku pracy oraz o świadczenia pieniężne z ubezpieczenia społecznego. Jednakże w postępowaniu w sprawach o świadczenia pieniężne z ubezpieczenia społecznego niedopuszczalne jest zawarcie ugody. ” , 2) w art. 459 § 1. otrzymuje 1 brzmienie: „ § 1. Przepisy niniejszego działu stosuje się w sprawach o roszczenia pracownika ze stosunku pracy i o naprawienie szkód wyrządzonych pracownikowi przez zakład pracy, jeżeli przepisy szczególne nie stanowią inaczej. ” , 3) w art. 476 § 1 otrzymuje brzmienie: „ § 1. Zasądzając należność pracownika w sprawach ze stosunku pracy, sąd z urzędu nada wyrokowi przy jego wydaniu rygor natychmiastowej wykonalności w części nie przekraczającej pełnego jednomiesięcznego wynagrodzenia pracownika. ” , 4) art. 465 i 475 § 2 uchyla się."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "W ustawie z dnia 13 kwietnia 1960 r. o zmianach właściwości w dziedzinie ubezpieczeń społecznych, rent, zaopatrzeń i opieki społecznej ( Dz. U. Nr 20, poz. 119 i z 1972 r. Nr 11, poz. 81 ) wprowadza się następujące zmiany: 1) w art. 10: a) ust. 4 otrzymuje brzmienie: „ 4. Przewodniczącego rady nadzorczej Zakładu powołuje Prezes Rady Ministrów, a przewodniczących rad nadzorczych oddziałów Zakładu - Minister Pracy, Płac i Spraw Socjalnych na wniosek Centralnej Rady Związków Zawodowych. ” , b) ust. 5 skreśla się, 2) art. 11 otrzymuje brzmienie: „ Art. 11. 1. Odwołania od decyzji oddziału Zakładu w sprawach: 1) świadczeń z ubezpieczenia społecznego na wypadek choroby i macierzyństwa, świadczeń z ubezpieczenia rodzinnego, objęcia ubezpieczeniem społecznym i wymiaru składek, 2) emerytur, rent i zaopatrzeń - rozstrzygają rady nadzorcze oddziałów Zakładu. 2. Odwołanie do rady nadzorczej oddziałów Zakładu nie przysługuje: 1) w sprawach, w których decyzja zależy od swobodnego uznania, 2) w sprawach, w których przedmiotem odwołania są ustalenia komisji lekarskiej do spraw inwalidztwa i zatrudnienia, 3) od decyzji Biura Rent Zagranicznych Zakładu, 4) w innych sprawach, w których przepisy odrębne wyłączają odwołanie. 3. Od orzeczeń rad nadzorczych oddziałów Zakładu, od decyzji oddziałów Zakładu w sprawach, o których mowa w ust. 2 pkt 2, oraz od decyzji Biura Rent Zagranicznych Zakładu przysługuje odwołanie do okręgowego sądu pracy i ubezpieczeń społecznych na zasadach i w trybie określonych odrębnymi przepisami. Odwołanie do okręgowego sądu pracy i ubezpieczeń społecznych nie przysługuje jednak w sprawach o objęcie ubezpieczeniem społecznym, o wymiar składek i o prawo do świadczeń leczniczych a także w sprawach o przeliczenie na walutę polską świadczeń przyznanych przez instytucje zagraniczne i w sprawach o przeliczenie na walutę obcą świadczeń przyznawanych przez polskie organy rentowe. 4. Od prawomocnego orzeczenia rady nadzorczej oddziału Zakładu może być wniesiona rewizja nadzwyczajna, jeżeli orzeczenie rażąco narusza prawo lub interes Polskiej Rzeczypospolitej Ludowej. Do rewizji nadzwyczajnej stosuje się odpowiednio przepisy Kodeksu pracy o rewizji nadzwyczajnej. 5. Rada nadzorcza oddziału Zakładu może w wyjątkowym wypadku przedstawić sprawę okręgowemu sądowi pracy i ubezpieczeń społecznych w celu przejęcia jej do rozpatrzenia przez len sąd, jeżeli jest to celowe ze względu na występujące w sprawie poważne wątpliwości prawne; nie dotyczy to spraw rozpatrywanych przez rady nadzorcze od rozstrzygnięć których nie służy odwołanie do okręgowego sądu pracy i ubezpieczeń społecznych. 6. Postępowanie przed radą nadzorczą jest wolne od opłat. ” , 3) po art. 11 dodaje się art. 11 1 w brzmieniu: „ Art. 11 1 . 1. Rada Ministrów po porozumieniu z Centralną Radą Związków Zawodowych określi w drodze rozporządzenia: 1) organizację, zasady i tryb działania rad nadzorczych Zakładu i jego oddziałów, 2) zasady tworzenia zespołów orzekających, 3) tryb postępowania przed radami nadzorczymi oddziałów, 4) wynagrodzenie za udział w posiedzeniach zespołów orzekających oraz związane z tym diety i koszty podróży. 2. Nadzór nad organizacją i trybem działania rad nadzorczych zakładu i jego oddziałów sprawuje Minister Pracy, Płac i Spraw Socjalnych, działając w porozumieniu z Centralną Radą Związków Zawodowych. W tym trybie Minister Pracy, Płac i Spraw Socjalnych może wydawać wytyczne w zakresie sprawowanego nadzoru. ” ."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "W ustawie z dnia 23 stycznia 1968 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin ( Dz. U. Nr 3, poz. 10 ) art. 32 otrzymuje brzmienie: „ Art. 32. 1. Od decyzji wydanej przez właściwą kolejową jednostką organizacyjną przysługuje odwołanie do Komisji Odwoławczej do Spraw Emerytalnych. Odwołanie nie przysługuje od decyzji w sprawach, w których przedmiotem odwołania są ustalenia komisji lekarskiej do spraw inwalidztwa i zatrudnienia. 2. Od orzeczeń Komisji Odwoławczej do Spraw Emerytalnych oraz od decyzji kolejowych jednostek organizacyjnych w sprawach, w których przedmiotem odwołania są ustalenia komisji lekarskiej do spraw inwalidztwa i zatrudnienia, przysługuje odwołanie do okręgowego sądu pracy i ubezpieczeń społecznych na zasadach i w trybie określonych odrębnymi przepisami. Właściwy do rozpoznania odwołania jest sąd, w którego okręgu ma siedzibę kolejowa jednostka organizacyjna, która wydała decyzję. 3. Od prawomocnego orzeczenia Komisji Odwoławczej do Spraw Emerytalnych może być wniesiona rewizja nadzwyczajna, jeżeli orzeczenie rażąco narusza prawo lub interes Polskiej Rzeczypospolitej Ludowej. Do rewizji nadzwyczajnej stosuje się odpowiednio przepisy Kodeksu pracy o rewizji nadzwyczajnej. 4. Komisja Odwoławcza do Spraw Emerytalnych może w wyjątkowym wypadku przedstawić sprawę okręgowemu sądowi pracy i ubezpieczeń społecznych w celu przejęcia jej do rozpatrzenia przez ten sąd, jeżeli jest to celowe ze względu na występujące w sprawie poważne wątpliwości prawne. 5. Minister Komunikacji w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych oraz Ministrem Sprawiedliwości, po porozumieniu z Centralną Radą Związków Zawodowych, określi w drodze rozporządzenia: 1) organizację, zasady i tryb działania Komisji Odwoławczej do Spraw Emerytalnych, 2) zasady tworzenia zespołów orzekających, 3) tryb postępowania przed Komisją Odwoławczą do Spraw Emerytalnych, 4) wynagrodzenie za udział w posiedzeniach zespołów orzekających oraz związane z tym diety i koszty podróży. 6. Nadzór nad organizacją i trybem działania Komisji Odwoławczej do Spraw Emerytalnych sprawuje Minister Komunikacji, działając w porozumieniu z Zarządem Głównym Związku Zawodowego Pracowników Kolejowych. ”"
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1975 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Ustrój sądów\",\"children\": [{\"id\": \"chpt_1-schp_1\",\"symbol\": \"schp_1\",\"type\": \"schp\",\"name\": \"1\",\"title\": \"Oddział 1 - Sądy\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-schp_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_1-arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_1-schp_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_1-schp_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_4-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_1-arti_4-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_1-schp_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_5-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_1-arti_5-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_1-arti_5-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_1-schp_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_7-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_1-arti_7-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_1-schp_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_8-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_1-arti_8-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_1-arti_8-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-schp_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_1-schp_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"chpt_1-schp_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_1-schp_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_1-schp_1-arti_13-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-schp_1-arti_13-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-schp_1-arti_13-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-schp_1-arti_13-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"chpt_1-schp_2\",\"symbol\": \"schp_2\",\"type\": \"schp\",\"name\": \"2\",\"title\": \"Oddział 2 - Sędziowie\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_1-schp_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_1-schp_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_16-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"chpt_1-schp_2-arti_16-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_16-para_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-schp_2-arti_16-para_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_1-schp_2-arti_16-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_17-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_2-arti_17-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_2-arti_17-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_1-schp_2-arti_18-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_2-arti_18-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_2-arti_18-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"chpt_1-schp_2-arti_18-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"},{\"id\": \"chpt_1-schp_2-arti_18-para_5\",\"symbol\": \"para_5\",\"type\": \"para\",\"name\": \"5\",\"title\": \"§ 5.\"},{\"id\": \"chpt_1-schp_2-arti_18-para_6\",\"symbol\": \"para_6\",\"type\": \"para\",\"name\": \"6\",\"title\": \"§ 6.\"}]},{\"id\": \"chpt_1-schp_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_1-schp_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"}]},{\"id\": \"chpt_1-schp_3\",\"symbol\": \"schp_3\",\"type\": \"schp\",\"name\": \"3\",\"title\": \"Oddział 3 - Ławnicy\",\"children\": [{\"id\": \"chpt_1-schp_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"chpt_1-schp_3-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_1-schp_3-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_1-schp_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_1-schp_3-arti_24-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_3-arti_24-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\",\"children\": [{\"id\": \"chpt_1-schp_3-arti_24-para_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-schp_3-arti_24-para_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-schp_3-arti_24-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_1-schp_3-arti_25-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_3-arti_25-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_3-arti_25-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_1-schp_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_1-schp_3-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_1-schp_3-arti_28-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_3-arti_28-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_1-schp_3-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"}]},{\"id\": \"chpt_1-schp_4\",\"symbol\": \"schp_4\",\"type\": \"schp\",\"name\": \"4\",\"title\": \"Oddział 4 - Sekretariaty i pracownicy sądowi\",\"children\": [{\"id\": \"chpt_1-schp_4-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_1-schp_4-arti_30-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-schp_4-arti_30-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-schp_4-arti_30-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-schp_4-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Postępowanie\",\"children\": [{\"id\": \"chpt_2-schp_1\",\"symbol\": \"schp_1\",\"type\": \"schp\",\"name\": \"1\",\"title\": \"Oddział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_32-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_32-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_2-schp_1-arti_32-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_2-schp_1-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_33-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_33-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_2-schp_1-arti_33-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_2-schp_1-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_34-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_34-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_2-schp_1-arti_34-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"chpt_2-schp_1-arti_34-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"chpt_2-schp_1-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"chpt_2-schp_1-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"chpt_2-schp_1-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_37-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_37-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_2-schp_1-arti_37-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"chpt_2-schp_1-arti_37-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"chpt_2-schp_1-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"chpt_2-schp_1-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_39-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_39-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_2-schp_1-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\",\"children\": [{\"id\": \"chpt_2-schp_1-arti_40-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-schp_1-arti_40-"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "organ orzekający",
+      "definition": "oznacza zakładową lub powiatową komisję rozjemczą, powiatową komisję odwoławczą do spraw pracy oraz określony odrębnymi przepisami organ orzekający w sprawach o świadczenia pieniężne z ubezpieczenia społecznego w wyniku odwołania od decyzji organu rentowego i organ wydający decyzję w sprawach o świadczenia pieniężne z ubezpieczenia społecznego, o ile od decyzji tego organu przysługuje odwołanie (skarga) bezpośrednio do sądu, 2) organ rentowy - oznacza jednostkę organizacyjną właściwą do ustalania świadczeń pieniężnych z ubezpieczenia społecznego, 3) świadczenia pieniężne z ubezpieczenia społecznego - oznaczają przewidziane przepisami emerytury, renty inwalidzkie lub rodzinne, dodatki do emerytury lub renty, świadczenia rentowe z tytułu wypadku przy pracy lub choroby zawodowej, zasiłki pogrzebowe, zasiłki rodzinne, chorobowe lub połogowe i inne wynikające ze stosunku ubezpieczenia społecznego, jak również świadczenia pieniężne wynikające z odrębnych systemów emerytalnych i rentowych oraz świadczenia odszkodowawcze z tytułu wypadków i chorób pozostających w związku ze służbą wojskową lub służbą w Milicji Obywatelskiej albo w Służbie Więziennej, 4) pracownik - oznacza również członka spółdzielni pracy lub członków rodziny pracownika i członka spółdzielni pracy, uprawnionych do wniesienia odwołania. Oddział 2 Sędziowie",
+      "source_provision": "art13"
+    }
+  ]
+}

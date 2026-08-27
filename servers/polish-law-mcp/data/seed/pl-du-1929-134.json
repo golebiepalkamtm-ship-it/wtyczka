@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-134",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lutego 1929 r. w przedmiocie uzupełnienia ustawy z dnia 31 lipca 1924 r. w przedmiocie ochrony drobnych dzierżawców rolnych, a w szczególności zmiany niektórych przepisów ustawy z dnia 2 lipca 1920 r. oraz ustawy z dnia 18 marca 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1929-134",
+  "status": "in_force",
+  "issued_date": "1929-02-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/134",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawę z dnia 31 lipca 1924 r. (Dz. U. R. P. Nr 75 z 1924 r. poz. 741) w przedmiocie ochrony drobnych dzierżawców rolnych, a w szczególności zmiany niektórych przepisów ustawy z dnia 2 lipca 1920 r. (Dz. U. R. P. Nr 56, poz. 346) oraz ustawy z dnia 18 marca 1920 r. (Dz. U. R. P. Nr 28, poz. 165) uzupełnia się w sposób następujący: W art. 12 ustawy z 31 lipca 1924 r. (Dz. U. R. P. Nr 75 z 1924 r., poz. 741) w przedmiocie ochrony drobnych dzierżawców rolnych, a w szczególności zmiany niektórych przepisów ustawy z dnia 2 lipca 1920 r. (Dz. U. R. P. Nr 56, poz. 346) oraz ustawy z dnia 18 marca 1920 r. (Dz. U. R. P. Nr 28, poz. 165) po wyrazach „łącznie z województwem śląskiem” wstawia się wyrazy „przyczem przepisy powyższej ustawy na terenie b. dzielnicy pruskiej dotyczą także tych wszystkich gruntów o obszarze do 5 hektarów ziemi, które były wydzierżawione przed 28 sierpnia 1924 r. i są jeszcze obecnie we władaniu drobnych dzierżawców, o ile eksmisja nie została w chwili wejścia w życie tej ustawy orzeczona prawomocnym wyrokiem sądowym”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Reform Rolnych w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Prezes Rady Ministrów: I. Bartel Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

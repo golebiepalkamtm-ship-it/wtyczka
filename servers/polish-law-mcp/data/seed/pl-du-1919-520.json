@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-520",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1919 r. w przedmiocie zmiany niektórych postanowień pruskiej ustawy o podatku dochodowym z dnia 19 czerwca 1906 r. obowiązującej w b. Dzielnicy Pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-520",
+  "status": "in_force",
+  "issued_date": "1919-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/520",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Część pierwszą ustępu 4 § 23 pruskiej ustawy o podatku dochodowym zmienia się w ten sposób, że obowiązek udzielania wiadomości, wymaganych w tym ustępie, obciąża pracodawców, niezależnie od sumy dochodów zatrudnionych przez nich pracowników."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustępie 1 § 25, w § 33, w ustępie 2 § 36, w ustępie 2 § 42, w punkcie 1 i 2 ustępu 1 i w ustępie 2 § 43, w ustępie 1 § 70 sumę „3.000 marek” zmienia się na sumę „4.000 marek”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Grzywnę, przewidzianą w ustępie 1 § 72, należy wymierzać w wysokości cztero do dziesięciokrotnej kwoty podatku uszczuplonego albo zatajonego. Grzywna ta jednak nie może wynosić mniej, niż 200 marek. W wyjątkowych wypadkach obok grzywny może być wymierzona kara więzienia do jednego roku. Grzywnę, przewidzianą w ustępie 2 § 72, określa się zamiast „20 do 100 marek” - od 50 do 300 marek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Grzywnę, przewidzianą w ustępie 1 § 74, określa się zamiast „do 300 marek” - od 100 do 10.000 marek."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

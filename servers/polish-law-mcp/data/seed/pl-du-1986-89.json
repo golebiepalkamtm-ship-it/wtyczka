@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1986-89",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 kwietnia 1986 r. o zmianie ustawy o wykonywaniu i organizacji rzemiosła.",
+  "title_en": "",
+  "short_name": "pl-du-1986-89",
+  "status": "repealed",
+  "issued_date": "1986-04-23",
+  "in_force_date": "1986-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1986/89",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 8 czerwca 1972 r. o wykonywaniu i organizacji rzemiosła ( Dz. U. z 1983 r. Nr 7, poz. 40 , z 1984 r. Nr 5, poz. 24 i z 1985 r. Nr 3, poz. 12 ) wprowadza się następujące zmiany: 1) w art. 18 w ust. 2 dodaje się pkt 7 w brzmieniu: „ 7) uchyla się od dokonywania odpisów na działalność socjalną dla pracowników zakładów rzemieślniczych i uczniów pobierających naukę zawodu w tych zakładach oraz członków ich rodzin, a także na pomoc w zaspokajaniu potrzeb mieszkaniowych pracowników zakładów rzemieślniczych i ich rodzin; cofnięcie uprawnienia następuje na wniosek właściwego cechu. ” ; 2) art. 29 otrzymuje brzmienie: „ Art. 29. 1. Członkowie cechu obowiązani są, uiszczać składki członkowskie, a także dokonywać odpisów na działalność socjalną dla pracowników zakładów rzemieślniczych i uczniów pobierających naukę zawodu oraz członków ich rodzin (fundusz socjalny) i pomoc w zaspokajaniu potrzeb mieszkaniowych pracowników zakładów rzemieślniczych i ich. rodzin (fundusz mieszkaniowy). 2. Wysokość składki członkowskiej ustala walne zgromadzenie członków cechu. Centralny Związek Rzemiosła ustala zasady, według jakich w ramach składek organizacje cechowe uczestniczą w pokrywaniu potrzeb działalności statutowej izb rzemieślniczych i Centralnego Związku Rzemiosła. 3. Sposób tworzenia i gromadzenia funduszów socjalnego i mieszkaniowego oraz zasady udzielania świadczeń i pomocy z tych funduszów dla pracowników zakładów rzemieślniczych, cechów, spółdzielni rzemieślniczych, izb rzemieślniczych i Centralnego Związku Rzemiosła określa Krajowa Rada Rzemiosła, w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych. Wysokość odpisów na te fundusze nie może być wyższa od określonej w przepisach dla jednostek gospodarki uspołecznionej. 4. Składki członkowskie i odpisy na fundusze socjalny i mieszkaniowy podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

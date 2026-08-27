@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-337",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 1932 r. o pomocy finansowej Skarbu Państwa dla gminy m. Wilna na pokrycie zobowiązań z tytułu 5% obligacyj konwersyjnych m. Wilna z 1931 r. w funtach szterlingach.",
+  "title_en": "",
+  "short_name": "pl-du-1932-337",
+  "status": "in_force",
+  "issued_date": "1932-03-15",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/337",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do udzielenia z funduszów Skarbu Państwa pomocy finansowej gminie miasta Wilna na pokrycie zobowiązań z tytułu 5%obligacyj konwersyjnych tegoż miasta w funtach szterlingach, wypuszczonych na podstawie uchwały Rady Miejskiej m. Wilna z dnia 6 listopada 1931 r. wzamian za obligacje drugiej obligacyjnej pożyczki m. Wilna, emitowane w 1921 r. na sumę 449.160 funtów szterlingów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Pomoc finansowa, przewidziana w art. 1 niniejszej ustawy, wynosić będzie połowę odsetek i rat amortyzacyjnych, poczynając od dnia 15 maja 1931 r. Ponadto Skarb Państwa pokryje połowę odsetek wypłaconych posiadaczom obligacyj za okres przejściowy od 15 listopada 1930 r. do dnia 14 maja 1931 r. w wysokości 2 1/2 od sta od nominalnej sumy obligacyj, dopuszczonych do konwersji"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

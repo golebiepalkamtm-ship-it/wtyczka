@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1922-597",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 sierpnia 1922 r. w przedmiocie zmiany niektórych postanowień ustaw karnych, obowiązujących w b. dzielnicy rosyjskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-597",
+  "status": "in_force",
+  "issued_date": "1922-08-05",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/597",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Część 2, 3 i 4 art. 70 ustawy z dnia 25 lutego 1921 r. w przedmiocie zmian w ustawodawstwie karnem, obowiązującem w b. zaborze rosyjskim (Dz. U. R. P. № 30, poz. 169) otrzymuje brzmienie następujące: „ W ustawach tych: 1) podwyższa się stokrotnie kwoty, od których zawisłą jest karygodnoić przestępstwa; 2) podwyższa się pięćdziesięciokrotnie wysokość kaucji kasacyjnych; 3) podwyższa się dwustokrotnie najwyższą granice grzywien i kar pieniężnych, oznaczonych w określonej kwocie pieniężnej;. 4) podwyższa się dwustokrotnle najniższą i najwyższą granicą kwot, wymienionych w art. 59 k. k., tudzież dwustokrotnle należytości, przewidziane w ustawia postępowania karnego. Przepis ust. 1, 3 i 4 cz. 2 niniejszego artykułu nie stosuje się do przepisów, wydanych po 1 stycznia 1919 r., a nie wcielonych do kodeksu karnego. Przepis ust. 3 cz. 2 niniejszego artykułu stosuje się również do dekretu z dnia 7 lutego 1919 r. (Oz. P. P. P. № 14 poz. 160) ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 71 ustawy z 25 lutego 1921 r. w przedmiocie zmian w ustawodawstwie karnem, obowiązującem w b. zaborze rosyjskim (Dz. U. R. P. № 30 poz. 169) w miejsce: „10.000” wstępuje liczba: „100.000”. W § 4 rozporządzenia Rady Ministrów z 13 kwietnia 1921 r. w przedmiocie przepisów karno - sądowych na ziemiach przynależnych do Rzeczypospolitej Polskiej na podstawie umowy o preliminaryjnym pokoju i rozejmie, podpisanej w Rydze dnia 12 października 1920 r. (Dz. U. R. P. № 37 poz. 223) w miejsce „10.000 mk.” wstąpuje „40.000 mk”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ust. 5 art. 2 przepisów przechodnich do ustawy postępowania karnego z 16 lipca 1917 r. (Dz. Urz. Dep. Sprawiedl. Tymcz. Rady St № 1) po „586” należy wstawić: „591 cz. 2”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przepis art. 180 u. p. k. otrzymuje brzmienie nastąpujące: „ W sprawach o wykroczenia sędzia pokoju, uznając na zasadzie otrzymanych zawiadomień policji albo innych urzędów lub osób urzędowych, że dowody oskarżenia względem osoby, która popełniło przestępstwo, są wystarczające i nie budzą wątpliwości, może w drodze nakazu karnego wymierzyć karą aresztu do dni 14 lub grzywną albo karę pieniężną do wysokości 20.000 mk., tudzież orzec konfiskatą przedmiotów, wziętych w przechowanie sądu lub władzy bezpieczeństwa ” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie w b. dzielnicy rosyjskiej w 15 dniu po ogłoszeniu. Sprawy, które wpłynęły do sądów okręgowych przed wejściem w życie ustawy niniejszej, o ile wyznaczono już w nich termin rozprawy głównej, ukończone będą przez sądy okręgowe, choćby z mocy niniejszej ustawy należały do właściwości sądów pokoju."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

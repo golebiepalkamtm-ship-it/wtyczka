@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-111",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 marca 1937 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 grudnia 1927 r. o godłach i barwach państwowych oraz o oznakach, chorągwiach i pieczęciach.",
+  "title_en": "",
+  "short_name": "pl-du-1937-111",
+  "status": "in_force",
+  "issued_date": "1937-03-03",
+  "in_force_date": "1937-03-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/111",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 13 grudnia 1927 r. o godłach i barwach państwowych oraz o oznakach, chorągwiach i pieczęciach (Dz. U. R. P. Nr 115, poz. 980), zmienionym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 listopada 1930 r. (Dz. U. R. P. Nr 80, poz. 629) i ustawą z dnia 14 marca 1933 r. (Dz. U. R. P. Nr 29, poz. 246), wprowadza się zmiany następujące: 1) w art. 4 ustęp 1 otrzymuje brzmienie następujące „ Dla władz i urzędów, zakładów, instytucji i przedsiębiorstw samorządu terytorialnego ustanawia się oznaki, złożone z herbu województwa, do którego należą, i z napisu odpowiadającego ich nazwie. ” ; w tymże artykule w ustępie 2 skreśla się zdanie drugie; 2) w art. 19 w ustępie 4 zdanie drugie otrzymuje brzmienie następujące; „ Miasta, posiadające historycznie uzasadnione herby, zatwierdzone na podstawie art. 4 ust. 3, mogą w pieczęciach władz i urzędów miejskich używać tych herbów zamiast orła państwowego. ” ; 3) tytuł V zastępuje się przepisami o brzmieniu następującym: „ Tytuł V. Zezwolenie na używanie herbów. Art. 21. Osobom i instytucjom prywatnym nie wolno używać pieczęci z orłem państwowym, ani też nie wolno im używać w celach handlowych oraz na blankietach i szyldach herbu państwowego. Przepis ustępu pierwszego stosuje się także do herbów wojewódzkich oraz do herbów powiatowych lub gminnych związków samorządu terytorialnego. Właściwe związki samorządowe mogą za zgodą wojewody, a m. st. Warszawa za zgodą Ministra Spraw Wewnętrznych - udzielać zezwoleń na używanie swych herbów osobom i instytucjom prywatnym w celach handlowych oraz na blankietach i szyldach. Zezwolenie można cofnąć, jeżeli wymaga tego interes publiczny. Tytuł VI. Przepisy karne. Art. 22. Kto bezprawnie używa godła państwowego, oznaki władzy państwowej, samorządowej lub korporacji publicznoprawnej, bandery handlowej morskiej, polskiego znaku pocztowego oraz flagi niewojennych statków państwowych, podlega w drodze administracyjnej karze aresztu do 3 miesięcy i grzywny do 3.000 złotych, albo jednej z tych kar. ” ; 4) tytuł VI otrzymuje oznaczenie: „Tytuł VII”; 5) w art. 24 ustęp 1 otrzymuje brzmienie następujące: „ Przepisy szczegółowe w sprawach, unormowanych rozporządzeniem niniejszym, nie wyłączając przepisów, dotyczących pieczęci poszczególnych władz (urzędów, zakładów, instytucyj, przedsiębiorstw, korporacyj) oraz używania, wyrobu i nadzoru nad wyrobem tych pieczęci, - ustali rozporządzenie Rady Ministrów. ” ; 6) w art. 26 ustęp 4 otrzymuje brzmienia następujące: „ Władze, urzędy, zakłady, instytucje i przedsiębiorstwa samorządu terytorialnego dostosują swe oznaki i pieczęcie do przepisów rozporządzenia niniejszego najpóźniej z końcem roku następującego po roku, w którym herby odnośnych województw lub inne herby związków samorządu terytorialnego będą nadane lub zatwierdzone. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów i właściwym ministrom."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w tycie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

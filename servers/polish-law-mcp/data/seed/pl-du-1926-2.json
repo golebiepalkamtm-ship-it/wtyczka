@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1926-2",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 grudnia 1925 r. o zabezpieczeniu podaży przedmiotów powszedniego użytku.",
+  "title_en": "",
+  "short_name": "pl-du-1926-2",
+  "status": "repealed",
+  "issued_date": "1925-12-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/2",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem zaopatrzenia rynku wewnętrznego w przedmioty powszedniego użytku, tudzież zapobiegania i przeciwdziałania zwyżce cen na te przedmioty, upoważnia się Radę Ministrów, aby po wysłuchaniu opinji czynników fachowych regulowała: a) wywóz zbóż chlebowych w razie stwierdzenia nadmiernego zmniejszania się zapasów; b) przemiał zbóż chlebowych i wypiek; c) ceny przetworów zbóż chlebowych, mięsa i jego przetworów, jako też odzieży i obuwia na zasadzie kosztów produkcyj i gospodarczo usprawiedliwionych kosztów wymiany; d) obrót handlowy przedmiotami powszedniego użytku, wyżej wyszczególnionemi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Opłaty za korzystanie z komunalnych urządzeń, zakładów i przedsiębiorstw, dostarczających ludności przedmiotów, względnie świadczeń powszedniego użytku, wymagają zatwierdzenia właściwej władzy nadzorczej, wskazanej w art. 36 i 37 ustawy o tymczasowem uregulowaniu finansów komunalnych z d. 11 sierpnia 1923 r. (Dz. U. R. P. № 94, poz. 747). Zatwierdzenia władzy nadzorczej wymagają również wszelkie zmiany opłat, o których mowa w poprzednim ustępie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Winni przekroczenia rozporządzeń, wydanych na podstawie niniejszej ustawy, o ile dany czyn nie ulega ukaraniu surowszemu w myśl innych ustaw karnych, ulegną karze aresztu do 6 tygodni i grzywny do 10.000 złotych, lub jednej z tych kar. Władza orzekająca oznaczy w orzeczeniu, na wypadek niemożności ściągnięcia grzywny, karę zastępczego aresztu według słusznego uznania, jednak nie ponad trzy tygodnie. Z karą. orzekaną wedle niniejszego postanowienia, może być połączona konfiskata przedmiotów, do których odnosi się czyn przestępny."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Właściwemi do orzekania są władze administracyjne I instancji. W sprawach o przekroczenia rozporządzeń, wydanych na podstawie punktów c) i d) art. 1, władze administracyjne orzekać będą po wysłuchaniu opinij komisyj obywatelskich. Komisje te działać będą pod przewodnictwem delegata władzy administracyjnej i składać się będą z równej ilości przedstawicieli konsumentów z jednej strony, i handlu, rolnictwa i przemysłu - z drugiej. Przeciwko orzeczeniom władz administracyjnych I instancji można w ciągu dni 7 od dnia doręczenia orzeczenia wnieść na ręce tej władzy żądanie przekazania sprawy właściwemu sądowi powiatowemu (pokoju), który postąpi wedle przepisów postępowania, obowiązujących w I instancji sądowej. Ma obszarze mocy obowiązującej niemieckiej ustawy postępowania karnego z roku 1877 stosuje się przepisy o policyjnych rozporządzeniach karnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rozporządzenia, wydane na podstawie niniejszej ustawy, obowiązują, o ile nie są wydane na czas krótszy, do 31 sierpnia 1926 r. Przepisy ustaw i rozporządzeń, uchylone rozporządzeniami, wydanemi na mocy niniejszej ustawy, tracą moc obowiązującą na okres czasu, na który te ostatnie rozporządzenia zostały wydane. Po wygaśnięciu mocy obowiązującej rozporządzeń, wydanych na mocy niniejszej ustawy, naruszenia tych rozporządzeń, dokonane w czasie ich obowiązywania, będą jednak ukarane wedle art. 3 i 4."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wewnętrznych i innym właściwym ministrom co do spraw, należących do ich zakresu działania."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Minister Spraw Wewnętrznych Wł. Raczkiewicz Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1948-183",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 1948 r. o zmianie ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym.",
+  "title_en": "",
+  "short_name": "pl-du-1948-183",
+  "status": "in_force",
+  "issued_date": "1948-04-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1948/183",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 marca 1933 r. o ubezpieczeniu społecznym ( Dz. U. R. P. Nr 51, poz. 396 ) , zmienionej rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. ( Dz. U. R. P. Nr 95, poz. 855 ) , ustawami: z dnia 11 stycznia 1938 r. ( Dz. U. R. P. Nr 3, poz. 15 ) , z dnia 9 kwietnia 1938 r. ( Dz. U. R. P. Nr 26, poz. 227 ) , z dnia 23 kwietnia 1938 r. ( Dz. U. R. P. Nr 29, poz. 258 ) i z dnia 28 lipca 1939 r. ( Dz. U. R. P. Nr 71, poz. 476 ) oraz dekretami: z dnia 7 września 1944 r. ( Dz. U. R. P. Nr 4, poz. 19 i Nr 5, poz. 24 ) , z dnia 23 października 1944 r. ( Dz. U. R. P. Nr 9, poz. 44 ) , z dnia 29 września 1945 r. ( Dz. U. R. P. Nr 43, poz. 240 ) , z dnia 8 stycznia 1946 r. ( Dz. U. R. P. Nr 4, poz. 28 ) , z dnia 13 grudnia 1946 r. ( Dz. U. R. P. z 1947 r. Nr 2, poz. 4 ) i z dnia 28 października 1947 r. ( Dz. U. R. P. Nr 66, poz. 413 ) - wprowadza się następujące zmiany: 1) w art. 105 ust. 1 pkt 2 otrzymuje brzmienie: „ 2) zasiłek połogowy przez czas wstrzymania się położnicy od pracy, nie wyłączając niedziel i świąt, nie dłużej jednak niż w ciągu dwunastu tygodni, z których co najmniej osiem przypadać powinno po porodzie; w stosunku do tego zasiłku ma odpowiednie zastosowanie art. 95 ust. 4 i 5 ” ; 2) w art. 109 ust. 1 pkt 5 otrzymuje brzmienie: „ 5) przedłużenie okresu pobierania zasiłku połogowego i zasiłku dla karmiących matek ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 105 ust. 1 pkt 2, objęty zmianą pierwszą art. 1 niniejszej ustawy, ma również zastosowanie do położnic, które w dniu wejścia w życie niniejszej ustawy nie wyczerpały jeszcze okresu uprawnień do zasiłku połogowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

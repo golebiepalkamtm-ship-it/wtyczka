@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1991-260",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 czerwca 1991 r. o przekształceniu własnościowym przedsiębiorstwa państwowego Polskie Linie Lotnicze \"Lot\".",
+  "title_en": "",
+  "short_name": "pl-du-1991-260",
+  "status": "repealed",
+  "issued_date": "1991-06-14",
+  "in_force_date": "1991-07-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/260",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Prywatyzacja przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT”, zwanego dalej „Lotem”, następuje w drodze przekształcenia „Lotu” w spółkę, na zasadach i w trybie określonych w ustawie z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych ( Dz. U. Nr 51, poz. 298 i z 1991 r. Nr 60, poz. 253 ) , z zastrzeżeniem ust. 2 i 3. 2. W spółce powstałej w wyniku przekształcenia „Lotu” Skarb Państwa reprezentuje Minister Transportu i Gospodarki Morskiej. 3. Uprawnienia Ministra Przekształceń Własnościowych określone w ustawie wymienionej w ust. 1 wykonuje, w porozumieniu z tym Ministrem, Minister Transportu i Gospodarki Morskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W spółce, o której mowa w art. 1, Skarb Państwa zachowuje co najmniej 51% sumy głosów służących całemu kapitałowi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Traci moc ustawa z dnia 3 grudnia 1984 r. o przedsiębiorstwie państwowym Polskie Linie Lotnicze „LOT” ( Dz. U. Nr 55, poz. 281 ) , z zastrzeżeniem ust. 2. 2. Do czasu wpisania do rejestru handlowego spółki powstałej w wyniku przekształcenia „Lotu”, przedsiębiorstwo to działa na zasadach i w trybie określonych przepisami ustawy, o której mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo upadłościowe ( Dz. U. Nr 93, poz. 834 , z 1935 r. Nr 22, poz. 129 , z 1946 r. Nr 31, poz. 197 , z 1949 r. Nr 32, poz. 240 , z 1950 r. Nr 38, poz. 349 i z 1990 r. Nr 14, poz. 87 ) w art. 3 w § 2 skreśla się wyrazy „przedsiębiorstwa państwowego Polskie Linie Lotnicze „LOT” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

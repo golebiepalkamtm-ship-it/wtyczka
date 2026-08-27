@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-2022",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 2002 r. o zmianie ustawy - Prawo wodne.",
+  "title_en": "",
+  "short_name": "pl-du-2002-2022",
+  "status": "repealed",
+  "issued_date": "2002-12-05",
+  "in_force_date": "2002-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/2022",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 lipca 2001 r. - Prawo wodne ( Dz. U. Nr 115, poz. 1229 i Nr 154, poz. 1803 oraz z 2002 r. Nr 113, poz. 984 , Nr 130, poz. 1112 i Nr 233, poz. 1957 ) art. 212 otrzymuje brzmienie: „ Art. 212. Spółki wodne, które w dniu wejścia w życie ustawy wykonywały działalność, o której mowa w art. 164 ust. 3, mogą prowadzić tę działalność nie dłużej niż 2 lata od dnia wejścia w życie ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

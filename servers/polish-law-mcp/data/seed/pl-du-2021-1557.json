@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2021-1557",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lipca 2021 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2021-1557",
+  "status": "amended",
+  "issued_date": "2021-07-23",
+  "in_force_date": "2021-08-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1557",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. z 2020 r. poz. 755 , 807 , 956 i 2186 oraz z 2021 r. poz. 1080 ) po art. 98a dodaje się art. 98b w brzmieniu: „ Art. 98b. W elektronicznym postępowaniu upominawczym wydatki ponosi Skarb Państwa. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W sprawach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepis art. 98b ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

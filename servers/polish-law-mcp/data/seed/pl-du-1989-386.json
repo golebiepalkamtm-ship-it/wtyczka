@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1989-386",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 listopada 1989 r. o nadaniu Akademii Medycznej we Wrocławiu imienia Piastów Śląskich.",
+  "title_en": "",
+  "short_name": "pl-du-1989-386",
+  "status": "in_force",
+  "issued_date": "1989-11-23",
+  "in_force_date": "1989-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/386",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Akademii Medycznej we Wrocławiu nadaje się nazwę „Akademia Medyczna imienia Piastów Śląskich we Wrocławiu”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

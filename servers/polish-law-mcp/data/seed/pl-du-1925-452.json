@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-452",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 maja 1925 r. w sprawie zmian rozporządzenia Prezydenta Rzeczypospolitej o zastosowaniu złotego do obliczenia wkładek (premij), jako też świadczeń pieniężnych (rent) i o przerachowaniu na złote dawnych zobowiązań rentowych w ubezpieczeniu na wypadek niezdolności do pracy, na starość i na korzyść pozostałych po ubezpieczonych rodzin w b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-452",
+  "status": "in_force",
+  "issued_date": "1925-05-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/452",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r. o zastosowaniu złotego do obliczenia wkładek (premij), jako też świadczeń pieniężnych (rent) i o przerachowaniu na złote dawnych zobowiązań rentowych w ubezpieczeniu na wypadek niezdolności do pracy, na starość i na korzyść pozostałych po ubezpieczonych rodzin w b. dzielnicy pruskiej (Dz. U. R. P. № 55, poz. 549) zmienia się, jak następuje: W § 1 wstawia się w miejsce kwoty 1.150 zł. - kwotę 1.200 zł. W § 4 w ustępie 1 słowa: „dla rent powstałych po wejściu w życie niniejszego rozporządzenia” - skreśla się. W § 8 - składki tygodniowe zmienia się, jak następuje: w klasie I-ej 0,30 zł. tygodniowo „ „ II-ej 0,45 „ „ „ „ III-ej 0,60 „ „ „ „ IV-ej 0,75 „ „ „ „ V-ej 0,90 „ „ W § 10 w wierszu 6 skreśla się zdanie od słów: „Udział państwa” do końca."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1925 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

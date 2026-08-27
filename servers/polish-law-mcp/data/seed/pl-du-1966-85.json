@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1966-85",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 kwietnia 1966 r. o ustanowieniu medalu \"Za udział w walkach o Berlin\" i medalu \"Za zasługi dla obronności kraju\".",
+  "title_en": "",
+  "short_name": "pl-du-1966-85",
+  "status": "repealed",
+  "issued_date": "1966-04-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1966/85",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Dla uczczenia historycznego zwycięstwa nad faszyzmem niemieckim oraz wkładu Ludowego Wojska Polskiego w zdobyciu Berlina w 1945 r. ustanawia się medal „Za udział w walkach o Berlin”. 2. Medal „Za udział w walkach o Berlin” stanowi uznanie dla osób, które brały udział w walkach o zdobycie Berlina w 1945 r. 3. Medal „Za udział w walkach o Berlin” nadaje Minister Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W celu uznania zasług położonych w dziedzinie rozwoju i umacniania obronności Polskiej Rzeczypospolitej Ludowej ustanawia się medal „Za zasługi dla obronności kraju”. 2. Medal „Za zasługi dla obronności kraju” dzieli się na trzy stopnie: Złoty Medal „Za zasługi dla obronności kraju”, Srebrny Medal „Za zasługi dla obronności kraju”, Brązowy Medal „Za zasługi dla obronności kraju”. 3. Medal „Za zasługi dla obronności kraju” stanowi uznanie dla osób, które swoją pracą lub działalnością przyczyniły się do rozwoju i umocnienia obronności kraju. 4. Medal „Za zasługi dla obronności kraju” może być również nadany jednostce wojskowej, organizacji społecznej, przedsiębiorstwu, zakładowi lub instytucji. 5. Medal „Za zasługi dla obronności kraju” nadaje Minister Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Obrony Narodowej określi w drodze rozporządzenia opis, wymiary i wzory rysunkowe odznak medalu „Za udział w walkach o Berlin” i medalu „Za zasługi dla obronności kraju”, zasady nadawania i tryb przedstawiania wniosków o nadanie tych medali oraz tryb wręczania i sposób ich noszenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Utrata medalu następuje na skutek skazania na karę utraty obywatelskich praw honorowych. 2. Minister Obrony Narodowej może pozbawić medalu w razie stwierdzenia, że osoba nagrodzona medalem dopuściła się czynu, wskutek którego jest jego niegodna."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

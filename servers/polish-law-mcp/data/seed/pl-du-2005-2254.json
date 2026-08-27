@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-2254",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 grudnia 2005 r. zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2005-2254",
+  "status": "in_force",
+  "issued_date": "2005-12-16",
+  "in_force_date": "2005-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/2254",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 11 kwietnia 2001 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz o zmianie niektórych innych ustaw ( Dz. U. Nr 43, poz. 476 ) art. 5 otrzymuje brzmienie: „ Art. 5. 1. Zbiory meldunkowe prowadzone w systemie kartotecznym mogą być nadal prowadzone w tym systemie do czasu uzupełnienia zbiorów meldunkowych prowadzonych w systemie informatycznym, nie dłużej jednak niż do dnia 31 grudnia 2010 r. 2. Ewidencja wydanych i utraconych dowodów osobistych (rejestry numerowe) prowadzona w systemie kartotecznym może być nadal prowadzona w tym systemie do czasu zakończenia wymiany książeczkowych dowodów osobistych, nie dłużej jednak niż do dnia 31 grudnia 2007 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

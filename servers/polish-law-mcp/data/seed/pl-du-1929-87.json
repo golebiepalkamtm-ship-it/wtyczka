@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1929-87",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 stycznia 1929 r. zmieniająca art. 1 ustawy z dnia 23 lipca 1926 r. oraz art. I ustawy z dnia 2 marca 1927 r. o zmianie art. 112 ustawy o szkołach akademickich z dnia 13 lipca 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1929-87",
+  "status": "repealed",
+  "issued_date": "1929-01-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/87",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zmienia się art. 1 ustawy z 23 lipca 1926 r. (Dz. U. R. P. Nr 93, poz. 536) w ten sposób, że: a) w ustępie 1 tegoż art. 1 skreśla się słowa: „lecz tylko do 31 grudnia 1928 r.”, a w miejsce ich wstawia się słowa: „lecz tylko do 30 czerwca 1931 r.”; b) w ustępie 3 tegoż art. 1 skreśla się słowa: „do 1927 r. włącznie” oraz słowa: „lecz tylko do 31 grudnia 1928 r.”, a w miejsce ich wstawia się słowa: „do 1929 r. włącznie” oraz słowa: „lecz tylko do 30 czerwca 1930 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zmienia się art. 1 ustawy z 2 marca 1927 r. (Dz. U. R. P. Nr 32, poz. 287) w ten sposób, że skreśla się w nim słowa: „a kończą je w r. 1927, względnie 1928” oraz słowa: „lecz tylko do 31 grudnia 1928 t.” a w miejsce ich wstawia się słowa: „a kończą je w r. 1929, względnie do końca czerwca. 1930 r.” oraz słowa: „lecz tylko do 30 czerwca 1930 r.”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rady Wydziałowe uniwersytetów mogą we wszystkich powyższych wypadkach przyznać prawo składania rygorozów i egzaminów w drodze szczególnie wyjątkowej najpóźniej do dnia 31 grudnia 1932 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1929 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

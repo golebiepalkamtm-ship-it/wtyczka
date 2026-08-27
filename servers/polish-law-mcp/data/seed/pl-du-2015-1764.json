@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-1764",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 września 2015 r. o zmianie ustawy o usługach płatniczych",
+  "title_en": "",
+  "short_name": "pl-du-2015-1764",
+  "status": "amended",
+  "issued_date": "2015-09-25",
+  "in_force_date": "2015-11-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1764",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych ( Dz. U. z 2014 r. poz. 873 i 1916 ) po art. 179 dodaje się art. 179a w brzmieniu: „ Art. 179a. 1. Trójstronny system kart płatniczych w rozumieniu art. 2 pkt 18 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę ( Dz. Urz. UE L 123 z 19.05.2015, str. 1 ) , który spełnia określone w tym przepisie warunki uznania go za czterostronny system kart płatniczych, do dnia 9 grudnia 2018 r. jest zwolniony z obowiązków przewidzianych w rozdziale II tego rozporządzenia. 2. Przepis ust. 1 stosuje się w odniesieniu do krajowych transakcji płatniczych w rozumieniu art. 2 pkt 9 rozporządzenia, o którym mowa w ust. 1, jeżeli transakcje dokonywane w ramach trójstronnego systemu kart płatniczych, o którym mowa w ust. 1, nie przekraczają w ujęciu rocznym 3% wartości wszystkich krajowych transakcji płatniczych w rozumieniu art. 2 pkt 9 rozporządzenia, o którym mowa w ust. 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa służy stosowaniu art. 1 ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę (Dz. Urz. UE L 123 z 19.05.2015, str. 1). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-478",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 1919 r. w przedmiocie zmiany nazwisk.",
+  "title_en": "",
+  "short_name": "pl-du-1919-478",
+  "status": "repealed",
+  "issued_date": "1919-10-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/478",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwolenia na zmianę nazwiska obywatelom Rzeczypospolitej Polskiej udziela Minister Spraw Wewnętrznych. Zezwolenie może być udzielone tylko w przypadkach, zasługujących na szczególne uwzględnienie. Brzmienie nie polskie nazwiska nie jest dostatecznym powodem do zmiany. Za zmianę nazwiska pobiera się opłatę w sumie 3000 mk. (4500 koron). Od opłaty może być petent zwolniony w całości lub w części przez Ministra Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Proszący winien wyłuszczyć powody zamierzonej zmiany nazwiska i wskazać nazwisko, które pragnie przybrać. Do podania należy dołączyć metrykę chrztu, względnie urodzenia, tudzież dokumenty, wykazujące przynależność do Państwa Polskiego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Spraw Wewnętrznych rozpatrzy potrzebę zmiany nazwiska, a w razie uznania jej zarządzi na koszt petenta ogłoszenie zamierzonej zmiany w Dzienniku Urzędowym Rzeczypospolitej Polskiej, tudzież według własnego wyboru w trzech dziennikach nieurzędowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W ciągu dni 90 od dnia ogłoszenia w dzienniku urzędowym wolno z ważnych powodów zgłosić sprzeciw w przedmiocie zamierzonej zmiany nazwiska do Ministra Spraw Wewnętrznych. W razie zgłoszenia sprzeciwu przez osoby tego samego nazwiska, które proszący przybrać zamierza, zezwolenie nie może być udzielone. Podanie i sprzeciwy rozstrzyga Minister Spraw Wewnętrznych i zawiadamia o swej decyzji tak proszącego, jak i osoby, które sprzeciwy niosły."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ogłoszenie o zezwoleniu na zmianę nazwiska zamieści Minister Spraw Wewnętrznych w Dzienniku Urzędowym Rzeczypospolitej Polskiej, zarządzając jednocześnie adnotację w aktach stanu cywilnego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Adnotacja w aktach stanu cywilnego powoduje zmianę nazwiska proszącego, jego żony, a także i tych dzieci, które w chwili wniesienia podania nie były pełnoletnie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje na całym obsarze Rzeczypospolitej Polskiej. Z dniem tym tracą moc obowiązującą wszystkie inne przepisy w przedmiocie zmiany nazwisk."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Sprawy zmiany nazwisk, nie załatwione jeszcze prawomocnie do dnia ogłoszenia niniejszej ustawy, mają być traktowane według postanowień tej ustawy."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2001-1321",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 sierpnia 2001 r. o zmianie ustawy - Prawo telekomunikacyjne.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1321",
+  "status": "repealed",
+  "issued_date": "2001-08-24",
+  "in_force_date": "2001-10-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1321",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 lipca 2000 r. - Prawo telekomunikacyjne ( Dz. U. Nr 73, poz. 852 ) wprowadza się następujące zmiany: 1) w art. 14: a) ust. 2 otrzymuje brzmienie: „ 2. Prezes URT zgłasza, w drodze decyzji, w terminie 21 dni od dnia wpływu zgłoszenia, sprzeciw wobec podjęcia przez przedsiębiorcę zgłaszanej działalności telekomunikacyjnej, jeżeli: 1) zgłoszenie narusza przepisy ustawy, 2) jest niekompletne lub zawarte w nim dane nie są zgodne ze stanem faktycznym, 3) podjęcie działalności telekomunikacyjnej objętej zgłoszeniem stwarza zagrożenie dla obronności, bezpieczeństwa państwa lub bezpieczeństwa i porządku publicznego. ” , b) dodaje się ust. 2a w brzmieniu: „ 2a. W przypadku, o którym mowa w ust. 2 pkt 3, Prezes URT zgłasza sprzeciw, po zasięgnięciu opinii Ministra Obrony Narodowej lub Szefa Urzędu Ochrony Państwa, w zakresie ich właściwości. Opinia Ministra Obrony Narodowej lub Szefa Urzędu Ochrony Państwa stwierdzająca, że zachodzą okoliczności prowadzące do zagrożenia obronności lub bezpieczeństwa państwa, nie wymaga uzasadnienia. ” ; 2) dodaje się art. 14a w brzmieniu: „ Art. 14a. 1. Prezes URT zgłasza, w drodze decyzji, sprzeciw wobec wykonywanej działalności telekomunikacyjnej objętej zgłoszeniem, jeżeli: 1) operator narusza przepisy ustawy i w terminie określonym w decyzji Prezesa URT, wydanej w trybie, o którym mowa w art. 119, nie usunął stanu niezgodnego z prawem, 2) zachodzą okoliczności, o których mowa w art. 8 ust. 1 pkt 2 lit. a). 2. W przypadku, o którym mowa w ust. 1 pkt 2, Prezes URT zgłasza sprzeciw, po zasięgnięciu opinii Ministra Obrony Narodowej lub Szefa Urzędu Ochrony Państwa, w zakresie ich właściwości. Opinia Ministra Obrony Narodowej lub Szefa Urzędu Ochrony Państwa stwierdzająca, że zachodzą okoliczności prowadzące do zagrożenia obronności lub bezpieczeństwa państwa, nie wymaga uzasadnienia. ” ; 3) w art. 16 wyrazy „art. 14 ust. 2” zastępuje się wyrazami „art. 14 ust. 2 i 2a oraz w art. 14a” ; 4) w art. 22 ust. 3 otrzymuje brzmienie: „ 3. Rezerwacji częstotliwości dokonuje się dla podmiotu, który spełnia wymagania określone ustawą, a także jeżeli nie zachodzą okoliczności, o których mowa w art. 8 ust. 1 pkt 2, oraz jeżeli spełnione są warunki określone w art. 18 ust. 1 pkt 2. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

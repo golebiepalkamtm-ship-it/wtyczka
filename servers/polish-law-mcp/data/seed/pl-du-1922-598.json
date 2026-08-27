@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1922-598",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 sierpnia 1922 r. w przedmiocie zmiany niektórych postanowień ustaw karnych, obowiązujących w b. dzielnicy austrjackiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-598",
+  "status": "repealed",
+  "issued_date": "1922-08-05",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/598",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Powszechną ustawę karna, obowiązującą w b. dzielnicy austrjackiej, z dnia 27 maja 1852 r. (Austr. Dz. Ust. P. № 117) zmienia się jak następuje: a) w §§ 85 a, 173, 183, 200 w miejsce kwoty „pięć tysięcy marek” wstępuje kwota „pięćdziesiąt tysięcy marek”; b) §§ 174 II, 175 II, 176 II, 181 w miejsce kwoty „tysiąc marek” wstępuje kwota „dziesięć tysięcy marek”; c) w §§ 100, 179, 184, 203 w miejsce kwoty „pięćdziesiąt tysięcy marek” wstępuje kwota „pięćset tysięcy marek”; d) w § 182 w miejsce kwoty „dwadzieścia pięć tysięcy marek” wstępuje kwota „dwieście pięćdziesiąt tysięcy marek”; e) w § 186 b w miejsce kwoty „pięć tysięcy marek” wstępuje kwota „pięćdziesiąt tysięcy marek”; a w § 186 c w miejsce kwoty „tysiąc marek” kwota „dziesięć tysięcy marek”; f) w § 221 w miejsce kwoty „pięć tysięcy marek” wstępuje kwota „pięćdziesiąt tysięcy marek”; g) w § 522 w miejsce słów „od pięciuset do pięciuset tysięcy marek” wstępują słowa „od pięciu tysięcy do miljona marek”; h) w § 532 w miejsce kwoty „dwa tysiące pięćset”, względnie „dziesięć tysięcy marek”, wstępują kwoty „dwadzieścia pięć tysięcy”, względnie „sto tysięcy marek”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W § 1 ustawy z dnia 25 maja 1883 r. (Austr. Dz. Ust. P. № 78) o przepisach karnych przeciwko udaremnieniu egzekucji w miejsce kwoty „pięć tysięcy marek” wstępuje kwota „pięćdziesiąt tysięcy marek”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustęp 1 art. 2 ustawy z dnia 16 marca 1920 r. w przedmiocie zmiany niektórych postanowień ustaw karnych, obowiązujących w b. zaborze austriackim (Dz. U. R. P. № 26 poz. 158) otrzymuje brzmienie następujące: „ Najwyższą i najniższą granicę grzywien, przewidzianych w powszechnej ustawie karnej, w ustawach karnych dodatkowych i w ustawie o postępowaniu karnem, tudzież grzywny, oznaczone w tych ustawach kwotą stałą w koronach - zastępuje się dwustokrotną liczbą marek polskich, oznaczone zaś w złotych reńskich cztery stokrotną liczba marek polskich. Postanowienie niniejsze nie dotyczy przepisów karnych, wydanych przez władze polskie. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Uchyla się wszystkie przepisy sprzeczne z niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie dni 14 po ogłoszeniu i stosuje się także do czynów karygodnych, popełnionych przed wejściem jej w życie, o ile pod sądny wedle przepisów dawniejszych podlegałby postanowieniom surowszym."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_1-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

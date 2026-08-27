@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2021-149",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 stycznia 2021 r. o zmianie zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r.",
+  "title_en": "",
+  "short_name": "pl-du-2021-149",
+  "status": "in_force",
+  "issued_date": "2021-01-20",
+  "in_force_date": "2021-01-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/149",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej zmiany zakresu obowiązywania Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., przez: 1) zmianę zastrzeżenia złożonego na podstawie art. 78 ust. 2 Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., do jej art. 30 ust. 2; 2) zmianę zastrzeżenia złożonego na podstawie art. 78 ust. 2 tiret drugie Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., do jej art. 44 ust. 1 lit. e; 3) przedłużenie obowiązywania na okres kolejnych pięciu lat, licząc od dnia 1 lutego 2021 r., zastrzeżenia złożonego na podstawie art. 78 ust. 2 Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., do jej art. 55; 4) wycofanie zastrzeżenia złożonego na podstawie art. 78 ust. 2 tiret czwarte Konwencji Rady Europy o zapobieganiu i zwalczaniu przemocy wobec kobiet i przemocy domowej, sporządzonej w Stambule dnia 11 maja 2011 r., do jej art. 58."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

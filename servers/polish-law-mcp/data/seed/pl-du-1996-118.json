@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1996-118",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 stycznia 1996 r. o zmianie ustawy - Prawo o stowarzyszeniach.",
+  "title_en": "",
+  "short_name": "pl-du-1996-118",
+  "status": "amended",
+  "issued_date": "1996-01-10",
+  "in_force_date": "1996-03-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/118",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ( Dz. U. Nr 20, poz. 104 i z 1990 r. Nr 14, poz. 86 ) wprowadza się następujące zmiany: 1) w preambule oraz w art. 1 w ust. 1 wyrazy „Konstytucją Polskiej Rzeczypospolitej Ludowej” zastępuje się wyrazami „przepisami konstytucyjnymi utrzymanymi w mocy przez Ustawę Konstytucyjną z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym” ; 2) w art. 4, 5 i art. 7 ust. 1 pkt 1 użyte w różnych przypadkach wyrazy „Polska Rzeczpospolita Ludowa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Rzeczpospolita Polska” ; 3) w art. 25 skreśla się pkt 2; 4) w art. 26 zdaniu pierwszemu nadaje się brzmienie: „ W razie niezastosowania się stowarzyszenia do wymagań określonych w art. 25, sąd na wniosek organu nadzorującego może nałożyć grzywnę w wysokości jednorazowo nie wyższej niż 5000 zł. ” ; 5) art. 39 otrzymuje brzmienie: „ Art. 39. Koszty likwidacji pokrywa się z majątku likwidowanego stowarzyszenia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 1 pkt 5 ma zastosowanie do stowarzyszeń, w sprawie których decyzję o likwidacji podjęto po terminie określonym w art. 3."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 1 miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

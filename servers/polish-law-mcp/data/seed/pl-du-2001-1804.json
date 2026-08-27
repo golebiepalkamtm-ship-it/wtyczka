@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2001-1804",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o zagospodarowaniu przestrzennym.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1804",
+  "status": "repealed",
+  "issued_date": "2001-12-21",
+  "in_force_date": "2001-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1804",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 lipca 1994 r. o zagospodarowaniu przestrzennym ( Dz. U. z 1999 r. Nr 15, poz. 139 , Nr 41, poz. 412 i Nr 111, poz. 1279 , z 2000 r. Nr 12, poz. 136 , Nr 109, poz. 1157 i Nr 120, poz. 1268 oraz z 2001 r. Nr 5, poz. 42 , Nr 14, poz. 124 , Nr 100, poz. 1085 i Nr 115, poz. 1229 ) w art. 67: a) w ust. 1 wyrazy „7 lat” zastępuje się wyrazami „8 lat” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Jeżeli w terminie, o którym mowa w ust. 1, rada gminy uchwali studium uwarunkowań i kierunków zagospodarowania przestrzennego gminy i przystąpi do sporządzenia miejscowego planu zagospodarowania przestrzennego albo jego zmiany, plan, o którym mowa w ust. 1, zachowuje ważność, w granicach objętych uchwałą, do czasu uchwalenia nowego planu, jednak nie dłużej niż przez 9 lat od dnia wejścia w życie ustawy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 1 stycznia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

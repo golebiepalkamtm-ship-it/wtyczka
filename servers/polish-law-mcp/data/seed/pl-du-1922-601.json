@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-601",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1922 r. dotycząca rozszerzenia zakresu działania ustawy z dnia 29 lipca 1921 r. w przedmiocie przeznaczenia terenów za cytadelą oraz pasa ziemi wzdłuż ulicy Górnej w Warszawie pod budowę domów.",
+  "title_en": "",
+  "short_name": "pl-du-1922-601",
+  "status": "in_force",
+  "issued_date": "1922-07-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/601",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zakres działania ustawy z dnia 29 lipca 1921 r. w przedmiocie przeznaczenia terenów za cytadelą oraz pasa ziemi wzdłuż ulicy Górnej w Warszawie pod budowę domów (Dz. U. R. P. № 69 poz. 448) rozszerza się na trójkątny kawałek gruntu o powierzchni 17.841 metr. kw., położony między ulicami Górną, Myśliwiecką a nowo projektowaną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom: Skarbu, Rolnictwa i Dóbr Państwowych oraz Robót Publicznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

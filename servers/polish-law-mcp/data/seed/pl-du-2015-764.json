@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-764",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 2015 r. o ratyfikacji decyzji Rady z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej (2014/335/UE, Euratom)",
+  "title_en": "",
+  "short_name": "pl-du-2015-764",
+  "status": "in_force",
+  "issued_date": "2015-04-09",
+  "in_force_date": "2015-06-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/764",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji decyzji Rady z dnia 26 maja 2014 r. w sprawie systemu zasobów własnych Unii Europejskiej (2014/335/UE, Euratom) ( Dz. Urz. UE L 168 z 07.06.2014, str. 105 ) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

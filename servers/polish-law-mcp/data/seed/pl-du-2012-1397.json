@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2012-1397",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 października 2012 r. o zmianie ustawy o efektywności energetycznej",
+  "title_en": "",
+  "short_name": "pl-du-2012-1397",
+  "status": "repealed",
+  "issued_date": "2012-10-10",
+  "in_force_date": "2012-12-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/1397",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 kwietnia 2011 r. o efektywności energetycznej ( Dz. U. Nr 94, poz. 551 oraz z 2012 r. poz. 951 i 1203 ) wprowadza się następujące zmiany: 1) w art. 1 pkt 4 otrzymuje brzmienie: „ 4) zasady sporządzania audytu efektywności energetycznej. ” ; 2) w art. 22 ust. 3 otrzymuje brzmienie: „ 3. Audyt efektywności energetycznej, o którym mowa w ust. 1, i audyt efektywności energetycznej, o którym mowa w art. 19 ust. 1, nie mogą być wykonywane przez tę samą osobę dla tego samego przedsięwzięcia służącego poprawie efektywności energetycznej. ” ; 3) tytuł rozdziału 5 otrzymuje brzmienie: „ Zasady sporządzania audytu efektywności energetycznej ” ; 4) w art. 28 uchyla się ust. 5; 5) uchyla się art. 29-34."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

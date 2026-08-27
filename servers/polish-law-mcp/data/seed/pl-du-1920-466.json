@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1920-466",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. o zmianie cen za dostarczanie energji elektrycznej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-466",
+  "status": "repealed",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/466",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Elektrownie, obowiązane na mocy umów do dostarczania energji elektrycznej, mogą żądać stosownego podwyższenia ceny sprzedażnej energji, o ile z przyczyny wywołanego wypadkami wojennemi przesilenia ekonomicznego własne koszty wytwarzania podniosły się tak znacznie, iż przyrost ten nie mógł być przewidziany w chwili zawarcia umowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "O ile w wypadkach, przewidzianych w art. 1, nie nastąpi porozumienie między stronami, spór rozstrzyga komisja rozjemcza, względnie komisja rzeczoznawców."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Komisje rozjemcze składać się będą z nieparzystej liczby osób. Każda ze stron deleguje do komisji rozjemczej równą liczbę osób, które wybierają wspólnie przewodniczącego z poza swego grona. W razie nieustalenia składu komisji przez strony w ciągu dni 14 od chwili zażądania komisji przez jedną ze stron, cały skład komisji wyznacza Minister Przemysłu i Handlu w porozumieniu z Ministrem Spraw Wewnętrznych. Tryb postępowania komisji rozjemczych określą przepisy wykonawcze."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Orzeczenia komisji rozjemczych stają się prawomocne, o ile w terminie, w rozporządzeniu wykonawczem określić się mającem, nie zostaną przez Ministra Przemysłu i Handlu uchylone. Termin iiczyć się będzie od dnia wysłania orzeczenia komisji do Ministerstwa Przemysłu i Handlu listem poleconym, lub od daty stwierdzenia odbioru. Jeżeli orzeczenie komisji rozjemczej zostało przez Ministra Przemysłu i Handlu uchylone, sprawę wraz z motywami uchylenia przekazuje się komisji rozjemczej dla ponownego rozpatrzenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Gdyby i powtórne orzeczenie komisji rozjemczej uległo uchyleniu, spór rozstrzygnie ostatecznie komisja rzeczoznawców przy Ministerstwie Przemysłu i Handlu. Komisja rzeczoznawców składać się będzie z równej liczby osób, reprezentujących interesy odbiorców i elektrowni, oraz przewodniczącego, wyznaczonego prze; Ministra Przemysłu i Handlu. Sposób powołania członków komisji rzeczoznawców i tryb postępowania tej komisji określą przepisy wykonawcze."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Gdy umowa, stanowiąca podstawę układu lub orzeczenia komisji rozjemczej, względnie komisji rzeczoznawców (art. 2), ogranicza wysokość opłaty za dostarczanie energji elektrycznej osobom trzecim, to ustanowione przez układ lub orzeczenie komisji podniesienie cen obowiązuje nietylko strony, lecz również wszystkich odbiorców energji, korzystających z niej na zazadach wspomnianej umowy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Orzeczenie komisji rozjemczej lub orzeczenie komisji rzeczoznawców zmienia odnośne warunki umowy od daty reklamacji o zmianę cen, wniesionej na podstawie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Koszty postępowania komisji rozjemczych i komisji rzeczoznawców ustalają te komisje i nakładają je na strony według swojego uznania."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Rewizji orzeczeń komisji rozjemczych i komisji rzeczoznawców lub zawartych przez strony układów, dotyczących podwyższenia cen, żądać można, o ile koszty wytwarzania energji elektrycznej znacznie się zmieniły od chwili wydania orzeczenia komisji lub zawarcia układu. Żądać można zarówno nowego podwyższenia cen, jak ich obniżenia. Sprawy, dotyczące rewizji cen w myśl artykułu niniejszego, ulegają rozpoznaniu komisji rozjemczych, względnie komisji rzeczoznawców, jedynie na mocy zezwolenia, wydawanego na prośbę strony interesowanej przez Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Rada Ministrów określi na wniosek Ministra Przemysłu i Handlu termin, od którego ustawa niniejsza przestanie obowiązywać."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Spraw Wewnętrznych, na obszarze zaś b. dzielnicy pruskiej także w porozumieniu z Ministrem b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1924-671",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 lipca 1924 r. w przedmiocie opłat od uprawnień górniczych.",
+  "title_en": "",
+  "short_name": "pl-du-1924-671",
+  "status": "repealed",
+  "issued_date": "1924-07-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/671",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się następujące opłaty od uprawnień górniczych: a) na obszarze, na którym obowiązuje austrjackie i węgierskie ustawodawstwo górnicze: od wyłączności poszukiwań górniczych - 16 zł. rocznie, od hektara miary górniczej (kopalnianej, dziennej i przymiaru), nadanej na węgiel kamienny-4 zł., na rudę żelazną 1 zł., a na inny minerał zastrzeżony-2 zł. rocznie; b) na obszarach, na których obowiązuje rosyjskie i pruskie ustawodawstwo górnicze: od hektara zatwierdzonego nadania górniczego na węgiel kamienny-4 zł., na rudę żelazną-1 zł., a na inny minerał zastrzeżony - 2 zł. rocznie. Ułamek hektara liczy się jako cały hektar."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Posiadacz uprawnienia, względnie jego prawny zastępca, winien uiszczać opłatę zgóry w dwuch równych ratach półrocznych, płatnych w ciągu pierwszego miesiąca półrocza kalendarzowego. Za półrocze kalendarzowe, w którem uprawnienie górnicze powstało, należy uiścić całą ratę półroczną w ciągu miesiąca kalendarzowego, następującego po miesiącu, w którym uzyskano od władzy górniczej uprawnienie. Również za półrocze kalendarzowe, w którem uprawnienie górnicze zgasło czy to wskutek zrzeczenia się, czy wskutek odebrania, należy uiścić całą ratę półroczną stosownie do przepisu ustępu pierwszego tego artykułu. Uprawnienia górnicze, istniejące w dniu ogłoszenia niniejszej ustawy, traktuje się co do opłaty, jako nowo-powstałe. Uprawnienia górnicze, będące własnością Państwa, są wolne od opłat, wymienionych w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W razie zalegania opłaty za miary i nadania górnicze poza termin, oznaczony w poprzednim artykule, winien zalegający uiszczać 10 procent od zaległej sumy za każdy miesiąc zwłoki. Rozpoczęty miesiąc zwłoki liczy się jako cały. Zaległe opłaty ściągnięte będą w drodze przymusowej w sposób, przepisany dla podatków bezpośrednich. W razie nieuiszczenia całkowitej opłaty od wyłączności poszukiwań górniczych w ciągu miesiąca płatności (art. 2), władza górnicza wzywa niezwłocznie zalegającego z opłatą, by w ciągu 30 dni od doręczenia wezwania uiścił zaległość. Po bezskutecznym upływie tego terminu wyłączność gaśnie sama przez się."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Przemysłu i Handlu w porozumieniu z Ministrem Skarbu do obniżania opłat od wyłączności poszukiwań górniczych w wypadkach, gdzie złoża mineralne są ubogie i nierównomiernie rozłożone. Zniżenie nie powinno sięgać poniżej 1/4 wysokości opłaty i będzie udzielane na ściśle określony czas, nie dłużej jednak niż na dwa lata."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawy i rozporządzenia, sprzeczne z postanowieniami niniejszej ustawy, tracą z chwilą wejścia jej w życie moc obowiązującą."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie na całym obszarze Rzeczypospolitej Polskiej, z wyjątkiem obszaru województwa śląskiego, z dniem ogłoszenia, na obszarze zaś województwa śląskiego-z dniem ogłoszenia na nią zgody sejmu śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

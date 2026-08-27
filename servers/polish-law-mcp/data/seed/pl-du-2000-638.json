@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2000-638",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o Trybunale Konstytucyjnym oraz ustawy o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-2000-638",
+  "status": "in_force",
+  "issued_date": "2000-06-09",
+  "in_force_date": "2000-07-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/638",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym ( Dz. U. Nr 102, poz. 643 i z 2000 r. Nr 48, poz. 552 ) wprowadza się następujące zmiany: 1) w art. 6: a) dodaje się ust. 2a w brzmieniu: „ 2a. Sędziowie Trybunału Konstytucyjnego przechodzą w stan spoczynku po ukończeniu swojej kadencji. ” , b) w ust. 3 dodaje się zdanie drugie w brzmieniu: „ Do sędziów, którzy skorzystają z tego prawa, nie ma zastosowania przepis ust. 2a. ” ; 2) w art. 39 dodaje się ust. 3 w brzmieniu: „ 3. Przepisu ust. 1 pkt 3 nie stosuje się, jeżeli wydanie orzeczenia o akcie normatywnym, który utracił moc obowiązującą przed wydaniem orzeczenia, jest konieczne dla ochrony konstytucyjnych wolności i praw. ” ; 3) w art. 46: a) ust. 1 otrzymuje brzmienie: „ 1. Skarga konstytucyjna, zwana dalej „skargą”, może być wniesiona po wyczerpaniu drogi prawnej, o ile droga ta jest przewidziana, w ciągu 3 miesięcy od doręczenia skarżącemu prawomocnego wyroku, ostatecznej decyzji lub innego ostatecznego rozstrzygnięcia. ” , b) skreśla się ust. 3 i 4; 4) w art. 48 w ust. 1 wyrazy „Skarga powinna być sporządzona przez adwokata lub radcę prawnego” zastępuje się wyrazami „Skargę i zażalenie na postanowienie o odmowie nadania skardze dalszego biegu sporządzają adwokat lub radca prawny” ; 5) w art. 59 w ust. 2 skreśla się wyraz „inny” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 28 sierpnia 1997 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych oraz niektórych innych ustaw ( Dz. U. Nr 124, poz. 782 , z 1998 r. Nr 98, poz. 607 i z 1999 r. Nr 75, poz. 853 ) w art. 7 skreśla się zdanie drugie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Uprawnienia nabyte niniejszą ustawą przez sędziów Trybunału Konstytucyjnego przysługują od momentu wejścia w życie ustawy również sędziom Trybunału Konstytucyjnego pozostającym w stanie spoczynku."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

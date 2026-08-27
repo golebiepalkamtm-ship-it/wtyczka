@@ -1,0 +1,200 @@
+{
+  "id": "pl-du-1922-6",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 grudnia 1921 r. o zasileniu finansów miejskich i o karach, nakładanych przez gminy miejskie za fałszywe zeznania podatkowe na obszarach b. zaboru rosyjskiego i austrjackiego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-6",
+  "status": "repealed",
+  "issued_date": "1921-12-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/6",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Miasta i miasteczka b. zaboru rosyjskiego, z wyłączeniem osad, położonych na obszarze b. Królestwa Polskiego, oraz gminy b. zaboru austrjackiego, podpadające pod ustawy krajowe z d. 13 marca 1889 r. (Dz. Ust. Kr. № 24), niemniej z dnia 3 lipca 1896 r. (Dz. Ust. Kr. № 51), tudzież miasta stołeczne Lwów i Kraków otrzymają z państwowego podatku dochodowego 30%, zaś Warszawa 50% wpływów z tego podatku w poszczególnych miejscowościach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Miejscowości, wymienione w art. 1 niniejszej ustawy, otrzymują ze Skarbu Państwa raty umorzenia (annuitety) od długów, zaciągniętych w okresie od dnia 1 sierpnia 1914 r. do dnia wejścia w życie niniejszej ustawy na pokrycie wydatków, poniesionych w zastępstwie Państwa, przy potrącaniu udzielonych miastom zaliczek ze Skarbu Państwa. Bliższe określenie rodzaju i sposobu ustalenia wysokości tych wydatków zawierać będzie rozporządzenie wykonawcze. II. Podatek od obrotu i dodatki do państwowego zasadniczego podatku przemysłowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Miejscowości, wymienione w art. 1, mają prawo pobierać do końca roku 1923: a) podatek od obrotu od przedsiębiorstw oraz zajęć zawodowych, które na podstawie ustawy o państwowym podatku przemysłowym podlegają procentowemu podatkowi od zysku (art. 483 ust. o państw, podatku przemysłowym), b) dodatki do państwowego zasadniczego podatku przemysłowego od wszystkich innych przedsiębiorstw i zajęć zawodowych i zarobkowych, które na podstawie powyższej ustawy podlegają tylko państwowemu zasadniczemu podatkowi przemysłowemu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Podatkowi od obrotu podlegają obroty tych jednostek podatkowych, które są pociągnięte do państwowego podatku przemysłowego w obrębie danej miejscowości. Przedsiębiorstwa, obowiązane do publicznego składania rachunków, płacą podatek od obrotu w takiej wysokości, jaka wypada ze stosunku zasadniczego podatku przemysłowego (patentów), opłaconego w obrębie danej miejscowości, do ogólnej sumy państwowego zasadniczego podatku przemysłowego opłaconego przez dane przedsiębiorstwo."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Miarodajne dla wymiaru podatku od obrotu są sumy obrotów, ustalone w myśl postanowień art. 470 i 495 ustawy o państw. podatku przem. i § 162 instrukcji, do tejże ustawy przez organy skarbowe powołane do wymiaru państwowego podatku procentowego od zysku."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Stopa podatku wynosi: a) od obrotu-nie wyżej 0,2%, b) dodatków do państwowego zasadniczego podatku przemysłowego-nie wyżej 50% tego podatku."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Na poczet podatku od obrotu mogą być pobrane dodatki do zasadniczego podatku przemysłowego (patentów) od przedsiębiorstw, wymienionych w art. 3 lit a), jednak nie wyżej niż 100% tego podatku. Nadwyżki zapłacone z tego tytułu ponad kwoty wymierzonego podatku od obrotu podlegają zwrotowi po potrąceniu przypadających od płatnika z innych tytułów miejskich należności podatkowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przedsiębiorcy widowisk, opłacający podatek miejski od widowisk i rozrywek mają prawo potracić przy wymierzaniu podatku od obrotu i od dodatków do państwowego zasadniczego podatku przemysłowego, prócz wymierzanych w ustawie o państwowym podatku przemysłowym, kwoty wpłacane do kasy miejskiej tytułem podatku od widowisk i rozrywek."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Bliższy sposób pobierania podatku od obrotu i dodatków do państwowego podatku przemysłowego określi statut podatkowy, zatwierdzony przez Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Do czasu wprowadzenia jednolitej ustawy o państwowym podatku przemysłowym na obszarze b. zaboru austrjackiego zamiast art. 3-8 obowiązują następujące postanowienia: Podatek od obrotu w wysokości ustalonej w art. 6, pobiera się od przedsiębiorstw zarobkowych i zatrudnień, na zysk obliczonych, oraz przedsiębiorstw, obowiązanych do publicznego składania rachunków, podlegających powszechnemu względnie szczególnemu podatkowi zarobkowemu (ustawa o bezpośrednich podatkach osobistych z dnia 25 października 1896 r.)-(austr. Dz. Ust. P. № 220-i późniejsze nowele). Organy wymiarowe I instancji winny ustalić obrót powyższych przedsiębiorstw i zatrudnień przy sposobności wymiaru podatku zarobkowego. Obrót przedsiębiorstw, podlegających szczególnemu podatkowi zarobkowemu, rozdziela się na poszczególne miejscowości w ten sam sposób, w jaki wedle dotychczasowych przepisów przypisywano tangenty łącznego podatku zarobkowego na odnośne miejscowości w celu obliczenia dodatków autonomicznych. Na poczet podatku od obrotu, tytułem zaliczki, będą pobierane na obszarze b. zaboru austrjackiego dodatki miejskie do powszechnego, względnie szczególnego, podatku zarobkowego w wysokości, przez zarządy wymienionych w art. 1 miejscowości ustalić się mającej. Nadwyżka zaliczki podlega zwrotowi w myśl postanowień art. 7. III. Przekazania gminom miejskim podatku od nieruchomości."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Pobierany na rzecz Skarbu Państwa podatek od nieruchomości miejskich, zaprowadzony w b. zaborze rosyjskim ustawą z dnia 6/19 czerwca 1910 r. (ros. Zb. Pr. i Rozp. z 1910 r. № 113), przekazuje się do końca r. 1923 na rzecz tych miast, w których on obecnie istnieje, względnie stosownie do przepisów powyższej ustawy winien być zaprowadzony. Wymiar i pobór podatku mają uskuteczniać miasta, na zasadach powołanej wyżej ustawy i wydanych do niej instrukcji oraz przepisów wykonawczych ze zmianami, określonemi w art. 12 - 16 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Podatkowi podlegają wyłącznie nieruchomości, leżące na obszarze miasta."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Wolne od podatku są jedynie: 1) Nieruchomości, dające mały dochód, od których podatek nie wynosiłby 10 mk. rocznie. 2) Nieruchomości, należące do instytucji wyznaniowych, wszelkich uznanych w Państwie wyznań, oraz instytucji opieki społecznej, publicznych restytucji leczniczych i naukowych, a nie przynoszących dochodów przez oddanie ich w najem lub w dzierżawą. 3) Grunta, należące do dróg żelaznych typu normalnego, wraz z budynkami i konstrukcjami, przeznaczonemi na potrzeby ruchu kolejowego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Aż do uchylenia ustawy o ochronie lokatorów okresem wymiarowym jest każdy rok kalendarzowy oddzielnie, przyczem wymiar podatku może być dokonywany na podstawie czynszów najmu, ustalonych już poprzednio i z uwzględnieniem ewentualnych podwyżek, jakie na dany rok będą prawnie dopuszczone, bez ponownego przeprowadzenia przepisanego ustawą postępowania wymiarowego. Sposób i termin przeprowadzenia przepisanej w art. 5 ustawy z dnia 6/19 czerwca 1910 r. lustracji nieruchomości, lub sprostowania kwot podatkowych na wypadek podwyżki określi Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Wysokość podatku uchwala na każdy okres podatkowy reprezentacja miejska, przyczem jednak podatek nie może wynosić mniej niż 15%, ani więcej niż 30% przeciętnego podatkowego dochodu netto z nieruchomości."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "W miejsce urzędów i organów, powołanych obecnie do ogólnego zarządu podatkiem od nieruchomości miejskich i do wykonywania potrzebnych do tego czynności, wstępują urzędy i organy miejskie. Bliższe postanowienia wyda Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Uchyla się pobór podatku domowo-czynszowego do końca r. 1923, zaprowadzonego w b. zaborze austrjackim ustawą z dnia 9 lutego 1882 r. (austr. Dz. Ust. P. № 17), - względnie ustawą z dnia 12 lipca 1896 r. (austr. Dz. Ust. P. № 120). Zarazem uchyla się w gminach miejskich b. zab. austrjackiego (art. 1 niniejszej ustawy) pobór podatku domowo-klasowego, zaprowadzonego austr. patentem cesarskim z dnia 23 lutego 1820 r., względnie ustawą z dnia 9 lutego 1882 r. (austr. Dz. Ust. P. № 17); natomiast rozciąga się ten podatek także na budowle wynajęte w całości lub części, jeżeli znajdują się poza obrębem gmin miejskich. Uchylenie tego podatku ma moc do końca 1923 r."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "W gminach miejskich b. zaboru austrjackiego, określonych w art. 1 niniejszej ustawy, zaprowadza się podatek od nieruchomości, który ma być na rzecz tych gmin wymierzany i pobierany według zasad, podanych w art. 11-16 niniejszej ustawy, względnie wedle zasad rosyjskiej ustawy z dn. 6/19 czerwca 1910 r. (ros. Zb. Pr. i Rozp. № 113, 1910 r.), w brzmieniu tekstu, ogłoszonego w myśl art. 31 niniejszej ustawy, do końca r. 1923."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Ustawa niniejsza nie narusza przysługującego nowym budowlom na mocy obowiązujących w b. zaborze austrjackim ustaw czasowego i całkowitego zwolnienia od podatku, natomiast inne ulgi podatkowe uchyla się. Również uchyla się przypis idealnego podatku dla celów wymiaru dodatków samorządowych. Do budowli, rozpoczętych po dn. 31 grudnia 1920 r., przepisy powyższych ustaw austrjackich nie będą stosowane. Miasta mogą jednak dla takich budowli ustanowić odpowiednie czasowe ulgi podatkowe."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Przypadający od nowych budowli w b. zaborze austrjackim na mocy ustaw z 25 marca 1880 r. (austr. Dz. Ust. P. № 39) i 9 lutego 1882 r. (austr. Dz. Ust. P. № 17) 5% podatek w miejscowościach, podlegających podatkowi od nieruchomości (art. 17 i 18 niniejszej ustawy), będzie pobierany na rzecz tychże miejscowości. Właścicielom nowych budowli przysługuje jednak prawo żądania, by zamiast powyższego 5% podatku był wymierzany i pobierany podatek od nieruchomości miejskich wedle przepisów niniejszej ustawy. IV. Ustanowienie w gminach miejskich podatku od lokali."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "W miejscowościach, w których do końca roku 1919 istniał państwowy podatek mieszkaniowy, zaprowadzony w byłym zaborze rosyjskim, zaprowadza się na rzecz gmin miejskich podatek od lokali. Innym miejscowościom byłego zaboru rosyjskiego może Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu zezwolić na pobór tego podatku. Zarazem zaprowadza się podatek od lokali w miejscowościach byłego zaboru austrjackiego, w art. 1 podanych."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Podatkowi od lokali podlegają z wyjątkami, wskazanemi w art. 23, mieszkania, zakłady przemysłowo-handlowe lub inne ubikacje bez względu na to, czy mieszkanie lub ubikacje są wynajęte, bądź oddane do użytku bezpłatnie, bądź też znajdują się w domu własnym."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Podatkowi nie podlegają: a) pomieszczenia świątyń, otwartych dla ogółu poszczególnych wyznań, b) lokale, zajmowane przez instytucje naukowe, oświatowe i dobroczynne, z wyjątkiem lokali, odnajmowanych lub oddawanych przez te instytucje do użytkowania i przynoszących dochód, c) lokale w domach nowo wybudowanych, nadbudowanych lub odbudowanych po dniu 1 stycznia 1919 roku-przez lat dziesięć od wprowadzenia lokatorów; d) zajęte przez cudzoziemskich przedstawicieli dyplomatycznych, uwierzytelnionych przy Rządzie polskim, i inne osoby, należące do składu poselstw i misji, przez konsulów generalnych, konsulów, wicekonsulów i agentów konsularnych, będących poddanymi tego państwa, które ich mianowało, jeżeli z państwem tem Polska zawarła konwencję co do spraw konsularnych, albo jeżeli przedstawiciele polscy w tych państwach korzystają z podobnych ulg, oraz lokale, służące na potrzeby tych poselstw, misji lub konsulatów."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Podatek opłacają osoby fizyczne lub prawne, zajmujące lokale, podlegające podatkowi. Podatek ten winni ściągać właściciele realności wraz z komornem i innemi należytościami. Za pobór tego podatku otrzymają właściciele realności odszkodowanie w wysokości 5% od kwoty, wpłaconej do kasy miejskiej. W razie odmowy zapłaty, a najdalej w miesiąc po terminie płatności, winien właściciel lub jego zastępca donieść kompetentnej władzy o odmowie lub zwłoce, poczem następuje egzekucja ze strony gminy. O ileby właściciel w oznaczonym terminie trzydziestodniowym nie doniósł o odmowie, obowiązek uiszczenia tego podatku przechodzi na właściciela z prawem regresu do lokatora. Rozporządzenie wykonawcze określi wysokość odsetek zwłoki oraz termin, od którego mają być płacone. Podatek od lokalu w miejscowościach leczniczych i w letniskach unormuje rozporządzenie wykonawcze, wydane stosownie do art. 31."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Wysokość podatku określa stosownie do faktycznego komornego lub wartości czynszowej na każdy rok podatkowy reprezentacja miejska z mocą obowiązującą dopiero w 2 miesiące po ogłoszeniu uchwały. Najniższa jednakże norma tego podatku ma wynosić 25% faktycznego komornego lub wartości czynszowej. Podatek opłaca się w terminach kwartalnych: 1 stycznia, kwietnia, lipca i października. Po zmianach ustawy o ochronie lokatorów stawki podatku od lokali ulegną ponownemu zatwierdzeniu Rządu."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Wymierzanie i ściąganie podatku od lokali wykonywają urzędy i organa miejskie. V. O karach nakładanych przez gminy miejskie za fałszywe zeznania podatkowe."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Wniesienie świadomie fałszywych zeznań przez płatników wszelkiego rodzaju podatków i opłat miejskich, pobieranych bezpośrednio przez organa miast, wymienionych w art. 1, oraz udzielanie fałszywych wyjaśnień w tych sprawach podatkowych przez inne osoby, będzie karane grzywną do wysokości 1.000.000 Mk. Grzywnę na wypadek niemożności ściągnięcia zastąpi pozbawienie wolności na czas do 3 miesięcy. Do orzekania powołany jest magistrat. Od orzeczenia karnego magistratu można odwołać się do państwowej władzy nadzorczej magistratu w ciągu dni 14, licząc od dnia następującego po doręczeniu orzeczenia karnego, a od orzeczenia władzy nadzorczej w tym samym terminie do miejscowego właściwego sądu okręgowego, który rozstrzyga ostatecznie przy odpowiedniem zastosowaniu przepisów, dotyczących odwołania się od wyroku sądów pokoju (powiatowych). Sąd okręgowy nie może jednak uchylić orzeczenia administracyjnego z poleceniem ponownego rozpatrzenia sprawy i wydania nowego orzeczenia. Odwołanie do władzy nadzorczej lub do sądu nie wstrzymuje wykonania kary, z wyjątkiem kary pozbawienia wolności. O wykonanie kary pozbawienia wolności należy zwrócić się do sądu pokoju (powiatowego), który wydaje polecenie w tym przedmiocie po stwierdzeniu prawomocności orzeczenia i bezskuteczności egzekucji na podstawie przesłanych mu w tym celu akt sprawy. VI. Postanowienia końcowe."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1921 r. na obszarze b. zaboru rosyjskiego i b. zaboru austrjackiego. Termin oraz sposób przekazania czynności wymiaru i poboru podatku od nieruchomości organom miejskim będzie określony przez Ministra Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych. Wpływy Skarbu Państwa z podatku od nieruchomości i z podatku domowo-czynszowego, względnie domowo-klasowego (art. 17), pobranych za czas od 1 stycznia 1921 roku, będą przelane do kas miejskich sposobem, który określi Minister Skarbu w drodze rozporządzenia. Upoważnia się Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu, ewentualnie z Ministrem b. Dzielnicy Pruskiej, do rozciągnięcia niniejszej ustawy na obszar b. dzielnicy pruskiej drogą rozporządzenia."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Przepisy niniejszej ustawy nie naruszają prawa miejscowości, wymienionych w art. 1, do dalszego poboru, względnie wprowadzania podatków i danin miejskich, opartych na dekrecie w przedmiocie skarbowości gmin miejskich z 7 lutego 1919 r. (Dz. P. P. P. №14, poz. 150), względnie dekrecie w przedmiocie skarbowości powiatowych związków komunalnych z 7 lutego 1919 r. (Dz. P. P. P. № 14, poz. 151), oraz na ustawach gminnych, obowiązujących w Małopolsce i ustawie z 24 października 1919 r. (Dz. U. R. P. № 88, poz. 479) w przedmiocie zmian tychże ustaw gminnych, o ile odnośne postanowienia tych dekretów i ustaw nie są sprzeczne z niniejszą ustawą. Opodatkowanie przemysłu i handlu oraz zajęć zawodowych i zarobkowych na rzecz miejscowości, wymienionych w art. 1 niniejszej ustawy, odbywać się może jedynie na podstawie art. 1-27 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Wszelkie przepisy, sprzeczne z postanowieniami niniejszej ustawy, tracą moc obowiązującą."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Spraw Wewnętrznych i Ministrowi Skarbu, których nadto upoważnia się, aby teksty ustaw rosyjskich z dn. 6/19 czerwca 1910 r. o podatku państwowym od nieruchomości w miastach i z dnia 14/27 maja 1893 roku o państwowym podatku mieszkaniowym z uwzględnieniem zmian, zawartych w art. 12-16 i 22-25 niniejszej ustawy, tudzież zmian, wynikających z odnośnego unormowania ustroju administracyjnego i kompetencji władz w Polsce, ogłosili z mocą obowiązującą na obszarach b. zaboru rosyjskiego i austrjackiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\",\"children\": [{\"id\": \"none_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"none_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"}]},{\"id\": \"none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\",\"children\": [{\"id\": \"none_II-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"none_II-arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"none_II-arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"none_II-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"none_II-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"none_II-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"none_II-arti_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"none_II-arti_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"none_II-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"none_II-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"none_II-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"none_II-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III.\",\"children\": [{\"id\": \"none_III-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"none_III-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"none_III-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"none_III-arti_13-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_III-arti_13-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_III-arti_13-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"none_III-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"none_III-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"none_III-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"none_III-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"none_III-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"none_III-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"none_III-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"}]},{\"id\": \"none_IV\",\"symbol\": \"none_IV\",\"type\": \"none\",\"name\": \"IV\",\"title\": \"IV.\",\"children\": [{\"id\": \"none_IV-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"none_IV-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"none_IV-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"none_IV-arti_23-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"none_IV-arti_23-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"none_IV-arti_23-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"none_IV-arti_23-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"none_IV-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"none_IV-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"none_IV-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"}]},{\"id\": \"none_V\",\"symbol\": \"none_V\",\"type\": \"none\",\"name\": \"V\",\"title\": \"V.\",\"children\": [{\"id\": \"none_V-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"}]},{\"id\": \"none_VI\",\"symbol\": \"none_VI\",\"type\": \"none\",\"name\": \"VI\",\"title\": \"VI.\",\"children\": [{\"id\": \"none_VI-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"none_VI-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"none_VI-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"none_VI-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

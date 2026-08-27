@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-1427",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 października 2008 r. o zmianie ustawy o ustanowieniu programu wieloletniego \"Program dla Odry - 2006\"",
+  "title_en": "",
+  "short_name": "pl-du-2008-1427",
+  "status": "repealed",
+  "issued_date": "2008-10-23",
+  "in_force_date": "2008-12-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1427",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 lipca 2001 r. o ustanowieniu programu wieloletniego „Program dla Odry - 2006” ( Dz. U. Nr 98, poz. 1067 i Nr 154, poz. 1800 oraz z 2002 r. Nr 216, poz. 1827 ) art. 8 otrzymuje brzmienie: „ Art. 8. Rada Ministrów przedstawia Sejmowi, nie później niż do dnia 30 czerwca, roczną informację o realizacji zadań wynikających z Programu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

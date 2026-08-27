@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2011-1706",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 grudnia 2011 r. o zmianie ustawy o systemie ubezpieczeń społecznych",
+  "title_en": "",
+  "short_name": "pl-du-2011-1706",
+  "status": "amended",
+  "issued_date": "2011-12-21",
+  "in_force_date": "2011-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/1706",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ( Dz. U. z 2009 r. Nr 205, poz. 1585 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175 i Nr 232, poz. 1378. ) wprowadza się następujące zmiany: 1) w art. 16 ust. 1b otrzymuje brzmienie: „ 1b. Składki na ubezpieczenia rentowe osób, o których mowa w ust. 1 i 1a, finansują z własnych środków, w wysokości 1,5% podstawy wymiaru ubezpieczeni i w wysokości 6,5% podstawy wymiaru płatnicy składek. ” ; 2) w art. 22 w ust. 1 pkt 2 otrzymuje brzmienie: „ 2) 8,00% podstawy wymiaru - na ubezpieczenia rentowe; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 lutego 2012 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 218, poz. 1690, z 2010 r. Nr 105, poz. 668, Nr 182, poz. 1228, Nr 225, poz. 1474, Nr 254, poz. 1700 i Nr 257, poz. 1725 oraz z 2011 r. Nr 45, poz. 235, Nr 75, poz. 398, Nr 138, poz. 808, Nr 171, poz. 1016, Nr 197, poz. 1170, Nr 199, poz. 1175 i Nr 232, poz. 1378. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

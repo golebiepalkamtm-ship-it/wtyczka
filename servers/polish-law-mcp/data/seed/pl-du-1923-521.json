@@ -1,0 +1,212 @@
+{
+  "id": "pl-du-1923-521",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 czerwca 1923 r. w przedmiocie niektórych zmian w przepisach o państwowym podatku dochodowym, obowiązujących w b. dzielnicy pruskiej na mocy pruskiej ustawy z dnia 19 czerwca 1906 r., ustawy z dnia 19 grudnia 1919 r. oraz ustawy z dnia 6 kwietnia 1922 r.",
+  "title_en": "",
+  "short_name": "pl-du-1923-521",
+  "status": "in_force",
+  "issued_date": "1923-06-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/521",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kwotą dochodu, oznaczoną § 4 prusk. ustawy z dnia 19 czerwca 1906 r. (Zb. Pr. prusk. str. 259), podwyższa się do 2.000.000 mk."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uposażenia służbowe, emerytury i wynagrodzenia za najemną pracę, o których mowa w §§ 2 i 14 pruskiej ustawy z 19 czerwca 1906 r., podlegają podatkowi dochodowemu na podstawie działu II niniejszej ustawy. Tego rodzaju dochodów nie włącza się do ogólnego dochodu, podlegającego opodatkowaniu w myśl przepisów ustawy pruskiej z dnia 19 czerwca 1906 r., oraz przepisów działu I niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "§ 5 ustawy pruskiej z dnia 19 czerwca 1906 r. uzupełnia się ustępem ósmym o brzmieniu następującem: „8) w spółdzielniach (ustawa z dnia 29 października 1920 r. Dz. U. R. P. № 111, poz. 733) kwoty, przelane do funduszów spółdzielni, nie podlegających statutowo podziałowi między członków”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kwoty, określone w § 8 część II p. p. 3 i 4 pruskiej ustawy z dnia 19 czerwca 1906 r., podwyższa się czerdziestokrotnie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustęp drugi § 9 ustawy pruskiej z dnia 19 czerwca 1906 r. otrzymuje brzmienie następujące: „Opodatkowaniu podlegają dochody osób fizycznych oraz osób niefizycznych, wymienionych w ustępie 6 § 9, osiągnięte w ostatnim roku kalendarzowym lub w ostatnim roku operacyjnym, względnie gospodarczym, poprzedzającym rok podatkowy. Jeżeli dochody z danego źródła nie płynęły przez cały rok, wówczas opodatkowanie następuje według przypuszczalnego dochodu rocznego”. Uchyla się postanowienia ustępów 3, 4 i 6§ 9, dotyczące podstaw opodatkowania z przecięcia trzech lat."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Art. 12 ustawy pruskiej z dnia 19 czerwca 1906 r. uzupełnia się następującym ustępem ósmym: „ Przy obliczeniu ogólnego dochodu z gospodarstw rolnych poniżej 15 ha, położonych w odległości ponad 5 klm. od granicy miast z ludnością wyżej 100.000 mieszkańców - przyjmuje się dochód w wysokości, nie przekraczającej wartości czterech centnarów metrycznych żyta z 1 ha gruntu po cenach przeciętnych w r. 1922 ” ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Taryfy, podane w §§ 17 i 18 pruskiej ustawy z dn. 19 czerwca 1906 r., zastępuje się skalą następującą: Liczba porz. Wysokość dochodów w tysiącach marek ponad - do Stopa procentowa Podatek w tysiącach marek. 1 2000 - 2600 2 52 2 2600 - 3200 2,2 70,4 3 3200 - 3800 2,4 91,2 4 3800 - 4400 2,6 114,4 5 4400 - 5000 2,8 140 6 5000 - 5800 3 174 7 5800 - 6600 3,2 211,20 8 6600 - 7400 3,4 251,60 9 7400 - 8200 3,6 295,20 10 8200 - 9000 3,8 342 11 9000 - 10000 4,1 410 12 10000 - 11000 4,5 495 13 11000 - 12000 4,9 588 14 12000 - 13000 5,3 689 15 13000 - 14000 5,7 798 16 14000 - 15500 6,2 961 17 15500 - 17000 6,7 1139 18 17000 - 18500 7,2 1332 19 18500 - 20000 7,7 1540 20 20000 - 22000 8,3 1826 21 22000 - 24000 8,9 2136 22 24000 - 26000 9,5 2470 23 26000 - 28000 9,9 2772 24 28000 - 30000 10,3 3090 25 30000 - 32000 10,7 3424 26 32000 - 34000 11,1 3774 27 34000 - 36000 11,5 4140 28 36000 - 38000 11,9 4522 29 38000 - 40000 12,3 4920 30 40000 - 43000 12,8 5504 31 43000 - 46000 13,3 6118 32 45000 - 49000 13,8 6762 33 49000 - 52000 14,4 7488 34 52000 - 55000 15 8250 35 55000 - 58000 15,6 9048 36 58000 - 62000 16,3 10106 37 62000 - 66000 17 11220 38 66000 - 70000 17,7 12390 39 70000 - 75000 18,5 13875 40 75000 - 80000 19,3 15440 41 80000 - 85000 20,1 17085 42 85000 - 90000 20,8 18720 43 90000 - 95000 21,5 20425 44 95000 - 100000 22,2 22200 45 100000 - 105000 22,9 24045 46 105000 - 110000 23,6 25960 47 110000 - 115000 24,3 27945 48 115000 - 120000 25 30000 Przy dochodzie ponad 120.000.000 mk. podatek wynosi 30.000.000 mk. i oprócz tego 1.250.000 mk. od każdych pełnych 5.000.000 mk. ponad 120.000.000 mk. Do podatku dolicza się ponadto, o ile chodzi o dochód osób fizycznych i spadków nieobjętych: ponad 120.000.000 mk. do 180.000.000 mk. 1.5% „ 180.000.000 „ „ 240.000.000 „ 2.5% „ 240.000.000 „ „ 300.000.000 „ 4% „ 300.000.000 „ „ 360.000.000 „ 5.5% „ 360.000.000 „ „ 450.000.000 „ 7% „ 450.000.000 „ „ 720.000.000 „ 9% „ 720.000.000 „ „ 900.000.000 „ 11% „ 900.000.000 „ „ 1.200.000.000 „ 13% „ 1.200.000.000 15% od całego podlegającego podatkowi dochodu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Granice dochodu, określone w §§ 19 i 20 pruskiej ustawy z dnia 19 czerwca 1906 r. w brzmieniu, ustalonem pruską ustawą z dnia 26 maja 1909 r. (Zb. Pr. prusk. str. 349), uzasadniające ulgi podatkowe, podwyższa się z kwoty 6500 mk. do kwoty 10.000.000 mk., z kwoty zaś 9500 mk. do kwoty 15.000.000 mk."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Kwotę 3000 mk., wyszczególnioną w ustępie 1 § 25 i w ustępie 2 § 36, podwyższa się do 600.000 mk., kwotę zaś 3000 mk., wyszczególnioną w § 33, w ustępie 2 § 42, w punkcie 1 i 2 części II § 43 pruskiej ustawy z 19 czerwca 1906 r., podwyższa się do 6.600,000 mk."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Postanowienie, zawarte w ustępie 1 § 72 pruskiej ustawy z 19 czerwca 1906 r. i dotyczące najniższej grzywny w kwocie stu marek, uchyla się. Ustęp 1 § 72 uzupełnia się następującem przepisem: „W wyjątkowych wypadkach obok kary pieniężnej może być wymierzona kara więzienia do jednego roku”. Kwotę grzywny, przewidzianą w ustępie 2 § 72, podwyższa się z 20 do 100 mk. na 10.000 do 100.000 mk"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Kwotę grzywny, przewidzianą w ustępie 1 § 74 pruskiej ustawy z 19 czerwca 1906 r., podwyższa się z 300 mk. na 300.000 mk., kwotę, zaś, przewidzianą w drugim ustępie tegoż paragrafu, podwyższa się z 20 mk. na 10.000 mk., wreszcie kwotę, przewidziane w § 75 powyższej ustawy, podwyższa, z 1.500 mk. na 1.500.000 mk."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Postanowienia §§ 81 i 82 pruskiej ustawy z 19 czerwca 1906 r. będą stosowane ze zmianami, wynikającemi z postanowień ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Dodatki do państwowego podatku dochodowego na rzecz gmin i związków komunalnych nie mogą przewyższać przy dochodzie podatkowem: ponad 2.000.000 mk. do 30.000.000 mk. 4% „ 30.000.000 „ „ 100.000.000 „ 4,5% „ 100.000.000 „ 5% dochodu podatkowego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Opodatkowaniu na rzecz gmin i związków komunalnych w myśl art. 13 niniejszej ustawy podlegają dochody ze wszystkich źródeł z wyjątkiem dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę (art. 25). Dział II. Zmiany w opodatkowaniu dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Wszelkie dochody z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę (art. 2 niniejszej ustawy), przewyższające 7.200.000 mk. podlegają podatkowi dochodowemu na zasadzie niniejszego działu II"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Za podstawę podatku przyjmuje się wysokość uposażeń, względnie wynagrodzeń bieżących, otrzymywanych zarówno w pieniądzach, jak i i w naturze, obliczoną w stosunku rocznym. Dochody te opodatkowuje się w całości i nie stosuje się do nich odliczeń, tudzież zniżek podatkowych, przewidzianych w §§ 8, 19 i 20 pruskiej ustawy z dnia 19 czerwca 1906 r. Wartość pieniężna dochodów w naturze oblicza się podług cen w dniu 1 stycznia roku kalendarzowego 1923."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Podatek pobiera się drogą potrącenia przy każdej wypłacie, a mianowicie: od wynagrodzeń, których wysokość, obliczona w stosunku rocznym, wynosi w tysiącach marek: ponad 7.200 mk. do 9.600 mk. potrąca się 1.1% 9.600 „ „ 12.000 „ „ „ 1.4% „ 12.000 „ „ 15.600 „ „ „ 1.7% „ 15.600 „ „ 19.200 „ „ „ 2% „ 19.200 „ „ 22.800 „ „ „ 2.5% „ 22.800 „ „ 26.400 „ „ „ 3% „ 26.400 „ „ 30.000 „ „ „ 3.5% „ 30.000 „ „ 34.000 „ „ „ 4.5% „ 34.000 „ „ 38.000 „ „ „ 5.5% „ 38.000 „ „ 42.000 „ „ „ 7% „ 42.000 „ „ 46.000 „ „ „ 8.5% „ 46.000 „ „ 50.000 „ „ „ 10% „ 50.000 „ „ 52.000 „ „ „ 11.5% Do uposażeń, przekraczających 52.000.000 mk., stosuje się podaną w skali w art. 7 niniejszej ustawy stopę procentową, obniżoną o 2%. Stopę procentową podatku ustala się przy każdorazowej powtarzającej się wypłacie, przyjmując tę wypłatę za podstawę do obliczenia rocznej cyfry dochodu. W celu ustalenia stopy procentowej przy wpłacie jednorazowych wynagrodzeń dolicza się je do sumy ostatniego perjodycznego wynagrodzenia, obliczonej w stosunku rocznym."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Obowiązek potrącania podatku ciąży na władzach, urzędach, jakoteż na instytucjach i przedsiębiorstwach i wogóle na służbodawcach, wypłacających wszelkiego rodzaju wynagrodzenia. Potrącone w ciągu miesiąca kwoty należy w terminie do dni 14 po upływie tegoż miesiąca wpłacić do właściwej kasy skarbowej z załączeniem wykazu potrąceń, sporządzonego według przepisanego wzoru, lub z załączeniem odpisu listy płacy, zawierającej dane, niezbędne do sprawdzenia prawidłowości dokonanych potrąceń. Wykaz ten, względnie odpis listy płacy, po uwidocznieniu na nim przyjętej sumy, oraz daty przyjęcia, kasa skarbowa przesyła do właściwej władzy podatkowej I instancji."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Wymiar podatku przez władzę podatkową z reguły nie ma miejsca. Wyjątek zachodzi wówczas, gdy służbodawca albo nie wpłacił podatków wcale, albo wpłacił za mało. W tych wypadkach władza podatkowa I instancji uskutecznia wymiar podatku. Od wymiaru służbodawca może odwołać się do izby skarbowej w ciągu dni trzydziestu od dnia doręczenia mu wezwania. Odwołanie nie wstrzymuje egzekucji. Kwoty nie wpłaconego w terminie podatku będą przymusowo ściągnięte od osób, wymienionych w części pierwszej art. 18 niniejszej ustawy, wraz z karami za zwłokę w wysokości 10% miesięcznie i z kosztami egzekucyjnemi."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Dla stwierdzenia obowiązku potrącania podatku oraz dla sprawdzenia, czy potrącenia podatku są uskutecznione prawidłowo i we właściwym czasie, władzom skarbowym przysługuje prawo delegowania urzędników do instytucji i osób, wymienionych w art. 18 część pierwsza niniejszej ustawy, celem przejrzenia i sporządzenia wyciągów z list płacy, umów i innych dokumentów, odnoszących się do najmu pracowników, względnie celem zbadania dokonanych wypłat."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Na nieprawidłowe potrącania podatku przez służbodawców pracownicy mogą wnosić zażalenia w terminie dni trzydziestu od daty potrącenia do właściwej władzy podatkowej I instancji. Od decyzji władzy podatkowej I instancji służy pracownikowi odwołanie w trybie, określonym w art. 19 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Służbodawca, który nie spełni obowiązku wpłacenia podatku w myśl art. 18 niniejszej ustawy, ulegnie karze grzywny w myśl przepisów § 74 ustawy pruskiej z 19 czerwca 1906 r. i art. 11 niniejszej ustawy, W razie świadomego podania nieprawdziwych okoliczności w listach płacy lub w wyjaśnieniach, stosuje się analogicznie § 72 pruskiej ustawy z 19 czerwca 1906 r. i art. 10 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Kto nie dopuści urzędnika, delegowanego przez władze skarbowe na podstawie art. 20 niniejszej ustawy do wykonania czynności, przewidzianych w tym artykule, ulegnie w drodze sądowej karze pieniężnej od 10.000 do 500.000 mk., lub karze pozbawienia wolności do jednego roku, o ile nie podlega surowszemu ukaraniu wedle obowiązującej ustawy karnej."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Kary pieniężne, nałożone na podstawie art. 23 niniejszej ustawy, wpływają na rzecz Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Do państwowego podatku dochodowego, pobieranego od dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę na zasadach, wyłuszczonych w niniejszym dziale II, ustanawia się dodatki na rzecz gmin miejskich i powiatowych związków komunalnych w wysokości 3% od wypłaconego wynagrodzenia, podlegającego państwowemu podatkowi dochodowemu. Dodatki te będą potrącone przez służbodawców równocześnie z podatkiem państwowym, przyczem stosuje się przepisy artykułów 18 do 23 włącznie niniejszej ustawy. Dział III. Postanowienia ogólne."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Jeżeli przeciętne ceny hurtowe w Państwie w pierwszej połowie roku kalendarzowego 1923 będą wyższe od przeciętnych cen hurtowych z roku 1922, wówczas część państwowego podatku dochodowego wraz z dodatkami na rzecz związków samorządnych, wymierzona wedle skali art. 7 niniejszej ustawy, a przypadająca do zapłaty w kwartale trzecim i czwartym roku kalendarzowego 1923, winna być zapłacona w takiej wysokości, jaka wypadnie z pomnożenia tej części podatku wraz z dodatVami na rzecz związków samorządnych przez wykładnik, wyrażający wzrost przeciętnych cen hurtowych w pierwszej połowie roku 1923 w porównaniu z przeciętnemi cenami hurtowemi w roku 1922. Wykładnik, o którym mowa w części pierwszej niniejszego artykułu, ustala Minister Skarbu w miesiącu lipcu roku podatkowego na podstawie danych, dostarczonych przez Główny Urząd Statystyczny. Wykładnik winien być wyrażony w liczbie całej lub conajwyżej z jednym znakiem dziesiętnym. Jeżeli podatnik, korzystając z prawa, przysługującego w myśl § 67 ustęp 2 pruskiej ustawy z 19 czerwca 1906 roku, wpłaci zgóry przed końcem czerwca 1923 r. drugą i trzecią ratę podatku dochodowego na rok podatkowy 1923 w całości lub w części, to do wpłaconych zgóry kwot podatku nie będzie stosowany wykładnik, o którym mowa w poprzednich częściach niniejszego artykułu."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "W sposób, wskazany w art. 26 niniejszej ustawy, Minister Skarbu ustala na każdy kwartał kalendarzowy, poczynając od drugiego kwartału, wykładnik, wynikający z porównania przeciętnych cen drugiego miesiąca poprzedniego kwartału kalendarzowego z przeciętnemi cenami w styczniu 1923 r. Przez tak ustalony wykładnik winny być pomnożone - na każdy następny kwartał kalendarzowy - kwoty, zakreślające granice dochodu dla oznaczenia stopy procentowej podatku od uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę zarówno w skali art. 17, jak w skali art. 7 niniejszej ustawy. Równocześnie ulega odpowiedniemu powiększeniu kwota 7.200.000 mk., oznaczona w art. 15. Tak powiększone kwoty będą w każdym poszczególnym kwartale roku podatkowego 1923 miarodajne do ustalenia potrąceń w myśl art. 17 i 25 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Uchyla się moc obowiązującą ustawy o podatku uzupełniającym (Erganzungssteuer) z dnia 19 czerwca 1906 r. (Zb. pr. pruskich str. 241) oraz ustawy o podatku od przyrostu majątku (Besitzsteuer) z dnia 3 lipca 1913 r. (Dz. Ustaw Rzeszy str. 524)."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Z wpływów państwowego podatku dochodowego pobierają gminy i związki komunalne 30%."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Uchyla się postanowienia trzeciego ustępu części pierwszej § 15 pruskiej ustawy z dnia 19 czerwca 1906 r., dotyczące potrącania z podstawy opodatkowania 3 i 1/2% kapitału zakładowego (akcyjnego). tem samem uchyla się postanowienia przedostatniego ustępu tegoż paragrafu 15. Nadto uchyla się postanowienia, zawarte w ustępie pierwszym § 3 pp. 1 i 2 oraz w §§ 18, 70, 79 i 80 prusk. ustawy z dnia 19 czerwca 1906 r."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Punkt 3 ustępu pierwszego § 3 ustawy pruskiej z dnia 19 czerwca 1906 r. otrzymuje brzmienie następujące: „ Uwierzytelnieni przy Rządzie Rzeczypospolitej Polskiej zastępcy obcych państw oraz przydani im urzędnicy i osoby pozostające u nich w służbie, o ile są cudzoziemcami ” ."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje od 1 kwietnia do 31 grudnia 1923 r. Podatek dochodowy na ten okres czasu będzie wymierzony i pobrany w wysokości trzech czwartych części całorocznej należności podatkowej, przypadającej według działu I i III niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I.\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"bran_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"bran_I-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II. - Zmiany w opodatkowaniu dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę.\",\"children\": [{\"id\": \"bran_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"bran_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"bran_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"bran_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"bran_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"bran_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"bran_II-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"bran_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"bran_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"}]},{\"id\": \"bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III. - Postanowienia ogólne.\",\"children\": [{\"id\": \"bran_III-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_III-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"bran_III-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_III-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_III-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_III-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"bran_III-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_III-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

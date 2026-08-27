@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-1233",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 listopada 1999 r. o wypowiedzeniu Konwencji między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Mongolskiej Republiki Ludowej w sprawie uregulowania zagadnień dotyczących podwójnego obywatelstwa i zapobiegania przypadkom jego powstawania, podpisanej w Ułan Bator dnia 23 maja 1975 r.",
+  "title_en": "",
+  "short_name": "pl-du-1999-1233",
+  "status": "in_force",
+  "issued_date": "1999-11-18",
+  "in_force_date": "1999-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/1233",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Upoważnia się Prezydenta Rzeczypospolitej Polskiej do wypowiedzenia Konwencji między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Mongolskiej Republiki Ludowej w sprawie uregulowania zagadnień dotyczących podwójnego obywatelstwa i zapobiegania przypadkom jego powstawania, podpisanej w Ułan Bator dnia 23 maja 1975 r. 2. Wypowiedzenie następuje z zachowaniem przepisów o wypowiedzeniu, zawartych w Konwencji, nie później niż do dnia 30 czerwca 2000 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

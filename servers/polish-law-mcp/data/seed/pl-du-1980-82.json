@@ -1,0 +1,200 @@
+{
+  "id": "pl-du-1980-82",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 października 1980 r. o Najwyższej Izbie Kontroli.",
+  "title_en": "",
+  "short_name": "pl-du-1980-82",
+  "status": "repealed",
+  "issued_date": "1980-10-08",
+  "in_force_date": "1980-10-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1980/82",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Najwyższa Izba Kontroli kontroluje działalność naczelnych, centralnych i terenowych organów administracji państwowej. 2. W celu wykonania zadań określonych w ust. 1 Najwyższa Izba Kontroli kontroluje działalność zjednoczeń, przedsiębiorstw i zakładów, urzędów i instytucji państwowych. 3. Najwyższa Izba Kontroli może kontrolować działalność organizacji i związków spółdzielczych w zakresie realizacji zadań zleconych przez państwo i prawidłowości gospodarowania mieniem społecznym. 4. Najwyższa Izba Kontroli może również przeprowadzać kontrole: 1) organizacji społecznych - w zakresie zadań zleconych przez państwo, korzystania z pomocy państwa lub dysponowania funduszami pochodzącymi z czynów i wpłat społecznych, 2) jednostek gospodarki nie uspołecznionej - w zakresie dostaw, robót i usług na rzecz jednostek gospodarki uspołecznionej oraz w zakresie wywiązywania się z obowiązków finansowych na rzecz państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Realizując zadania określone w art. 1 Najwyższa Izba Kontroli bada pod względem legalności, gospodarności, celowości i rzetelności działalność gospodarczą, finansową i organizacyjno-administracyjną kontrolowanych jednostek organizacyjnych, a w szczególności wykonywanie: 1) zadań wynikających z narodowych planów społeczno-gospodarczych i budżetu państwa, 2) ustaw i wydanych na ich podstawie aktów normatywnych, 3) uchwał Sejmu określających podstawowe kierunki społeczno-gospodarczej działalności państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Najwyższa Izba Kontroli podejmuje kontrole na zlecenie Sejmu, Rady Państwa, na wniosek Prezesa Rady Ministrów oraz z własnej inicjatywy. 2. Najwyższa Izba Kontroli wykonuje swoje zadania na podstawie okresowych planów pracy, które przedkłada Sejmowi i Radzie Państwa. 3. Kontrola wstępna, polegająca na badaniu stanu faktycznego i dokumentów mających stanowić podstawę decyzji podejmowanych przez naczelne organy państwowe, może być przeprowadzona przez Najwyższą Izbę Kontroli na zlecenie Sejmu, Rady Państwa oraz na wniosek Prezesa Rady Ministrów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Najwyższa Izba Kontroli przedkłada Sejmowi: 1) uwagi do sprawozdań Rady Ministrów z wykonania narodowego planu społeczno-gospodarczego i analizę wykonania budżetu państwa, 2) sprawozdania z wyników kontroli zleconych przez Sejm, Radę Państwa i przeprowadzonych na wniosek Prezesa Rady Ministrów oraz informacje o wynikach innych kontroli, 3) roczne sprawozdanie ze swej działalności. 2. Najwyższa Izba Kontroli może występować z wnioskami w sprawie rozpatrzenia przez Sejm lub jego organy określonych problemów społeczno-gospodarczych i organizacyjno-prawnych, związanych z działalnością organów administracji państwowej. 3. Najwyższa Izba Kontroli przedkłada Sejmowi, wynikające z ustaleń kontroli, zarzuty dotyczące odpowiedzialności osób zajmujących kierownicze stanowiska w administracji państwowej. 4. Prezes Najwyższej Izby Kontroli lub jego przedstawiciele biorą udział w posiedzeniach komisji sejmowych, referują wyniki przeprowadzonych kontroli, zgłaszają uwagi do sprawozdań i informacji przedłożonych komisji przez organy administracji państwowej, a w miarę potrzeby udzielają wyjaśnień. 5. Szczegółowy tryb realizacji przez Najwyższą Izbę Kontroli zadań wobec Sejmu i jego organów określa regulamin Sejmu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Najwyższa Izba Kontroli przedkłada Radzie Państwa sprawozdania z wyników kontroli zleconych przez Radę Państwa oraz wyniki innych ważniejszych kontroli, a w miarę potrzeby także opracowane na ich podstawie uwagi, spostrzeżenia i wnioski, dotyczące zwłaszcza stanu obowiązującego prawa, stanu zabezpieczenia mienia społecznego lub funkcjonowania systemu kontroli społecznej w jednostkach gospodarki uspołecznionej oraz w administracji."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Najwyższa Izba Kontroli przedkłada Radzie Ministrów sprawozdania z wyników kontroli przeprowadzonych na wniosek Prezesa Rady Ministrów oraz informacje o wynikach innych kontroli. 2. Najwyższa Izba Kontroli przedstawia Prezesowi Rady Ministrów uwagi, analizy, sprawozdania, wnioski i informacje przedkładane Sejmowi oraz Radzie Państwa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Delegatury Najwyższej Izby Kontroli przedkładają radom narodowym stopnia wojewódzkiego uwagi do sprawozdań z wykonania planów społeczno-gospodarczych województw i analizy wykonania ich budżetów, a także informacje o wynikach kontroli ważniejszych zagadnień gospodarki i administracji terenowej. 2. Delegatury Najwyższej Izby Kontroli przedkładają prezydiom właściwych rad narodowych stopnia wojewódzkiego okresowe plany pracy oraz wyniki ważniejszych kontroli. 3. Zasady i tryb współdziałania Najwyższej Izby Kontroli z radami narodowymi określa Rada Państwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Najwyższa Izba Kontroli wykonując swoje zadania współdziała z komisjami rad narodowych i komitetami kontroli społecznej, a także ze związkami zawodowymi oraz organami samorządu społecznego i organizacjami społecznymi. 2. Najwyższa Izba Kontroli, w miarę potrzeby, zapewnia udział przedstawicieli kontroli społecznej w podejmowanych czynnościach kontrolnych oraz inicjuje kontrole społeczne. 3. Najwyższa Izba Kontroli przedstawia właściwym instancjom organizacji politycznych, związkowych oraz zawodowych informacje problemowe o wynikach ważniejszych kontroli, przeprowadzonych w zakresie objętym działalnością tych organizacji."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Organy kontroli, rewizji, inspekcji i lustracji działające w administracji państwowej oraz w spółdzielczości są obowiązane do: 1) współdziałania z odpowiednimi jednostkami organizacyjnymi Najwyższej Izby Kontroli przy ustalaniu okresowych planów kontroli oraz ich realizacji, 2) przeprowadzania niektórych kontroli wspólnie pod kierownictwem Najwyższej Izby Kontroli, 3) wykonywania kontroli doraźnych na zlecenie Najwyższej Izby Kontroli. Rozdział 2 Organizacja Najwyższej Izby Kontroli"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Prezes Najwyższej Izby Kontroli kieruje jej działalnością i odpowiada przed Sejmem za sprawowanie swojego urzędu oraz za podległych mu pracowników. 2. Prezes Najwyższej Izby Kontroli bierze udział w posiedzeniach Sejmu; może też uczestniczyć w posiedzeniach Rady Ministrów. 3. Rada Państwa, na wniosek Prezesa Najwyższej Izby Kontroli, powołuje i odwołuje wiceprezesów Najwyższej Izby Kontroli."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Kolegium Najwyższej Izby Kontroli tworzą: Prezes Najwyższej Izby Kontroli jako przewodniczący, wiceprezesi Najwyższej Izby Kontroli, sekretarz i członkowie; sekretarza oraz członków powołuje i odwołuje Rada Państwa na wniosek Prezesa Najwyższej Izby Kontroli. 2. Osoby wchodzące w skład Kolegium Najwyższej Izby Kontroli są w sprawowaniu swych funkcji niezawisłe; mogą zgłaszać do protokołu zdanie odrębne w sprawie podejmowanych uchwał. 3. Kolegium Najwyższej Izby Kontroli uchwala: 1) uwagi do sprawozdań Rady Ministrów z wykonania narodowego planu społeczno-gospodarczego i analizę wykonania budżetu państwa, 2) uwagi lub wnioski przedkładane Sejmowi oraz Radzie Państwa w myśl art. 4 i 5, 3) roczne sprawozdania z działalności Najwyższej Izby Kontroli, 4) projekty statutu Najwyższej Izby Kontroli oraz przepisów o trybie przeprowadzania czynności kontrolnych, 5) okresowe plany pracy Najwyższej Izby Kontroli, 6) projekt budżetu Najwyższej Izby Kontroli. 4. Kolegium Najwyższej Izby Kontroli rozpatruje również inne sprawy określone w statucie, wniesione pod obrady przez Prezesa Najwyższej Izby Kontroli albo przedstawione przez jedną trzecią członków Kolegium."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Jednostkami organizacyjnymi Najwyższej Izby Kontroli realizującymi działalność kontrolną są zespoły i departamenty oraz delegatury. 2. Organizację wewnętrzną Najwyższej Izby Kontroli, terytorialny i rzeczowy zakres właściwości oraz siedziby delegatur określa statut Najwyższej Izby Kontroli, nadany przez Radę Państwa na wniosek Prezesa Najwyższej Izby Kontroli."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Minister Finansów włącza projekt budżetu Najwyższej Izby Kontroli, w brzmieniu proponowanym przez Kolegium Najwyższej Izby Kontroli, do projektu budżetu państwa. 2. Prezesowi Najwyższej Izby Kontroli w zakresie wykonywania budżetu Najwyższej Izby Kontroli przysługują uprawnienia Ministra Finansów. Rozdział 3 Pracownicy Najwyższej Izby Kontroli"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Pracownikiem Najwyższej Izby Kontroli, wykonującym lub nadzorującym czynności kontrolne, może być osoba, która ze względu na nieskazitelny charakter oraz posiadane kwalifikacje i praktykę zawodową daje rękojmię należytego wykonywania obowiązków służbowych. 2. Pracownicy Najwyższej Izby Kontroli podlegają Prezesowi Najwyższej Izby Kontroli i są przed nim odpowiedzialni za sumienne wykonywanie swoich obowiązków, a w szczególności za rzetelne i obiektywne ujmowanie i dokumentowanie wyników kontroli oraz za przestrzeganie tajemnicy państwowej i służbowej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Stosunek pracy z pracownikami Najwyższej Izby Kontroli, wykonującymi lub nadzorującymi czynności kontrolne, nawiązuje się na podstawie mianowania. 2. Dyrektorów zespołów, departamentów oraz delegatur mianuje i zwalnia Prezes Najwyższej Izby Kontroli po zasięgnięciu opinii Kolegium Najwyższej Izby Kontroli. 3. Pozostałych pracowników, wykonujących lub nadzorujących czynności kontrolne, mianuje i zwalnia Prezes Najwyższej Izby Kontroli. 4. Pracownicy, o których mowa w ust. 3, mogą być zatrudnieni na podstawie umowy o pracę na okres nie przekraczający jednego roku. 5. Stosunek pracy z pracownikami administracyjnymi i pracownikami obsługi nawiązuje się na podstawie umowy o pracę."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Pracownicy Najwyższej Izby Kontroli, wykonujący lub nadzorujący czynności kontrolne, nie mogą być pociągani do odpowiedzialności karnej z powodu swoich czynności służbowych bez uprzedniej zgody Kolegium Najwyższej Izby Kontroli. Przepis ten stosuje się odpowiednio również po ustaniu stosunku pracy."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Stosunek pracy z mianowanym pracownikiem Najwyższej Izby Kontroli ulega rozwiązaniu: 1) w razie stwierdzenia nienależytego wywiązywania się z obowiązków służbowych, 2) w przypadku orzeczenia przez właściwą komisję lekarską trwałej niezdolności do pełnienia obowiązków służbowych, 3) w razie niezdolności do pracy spowodowanej chorobą, o ile okres tej choroby przekracza jeden rok, 4) na podstawie orzeczenia komisji dyscyplinarnej. 2. Stosunek pracy z mianowanym pracownikiem Najwyższej Izby Kontroli może być rozwiązany: 1) na wniosek pracownika, 2) w związku z osiągnięciem wieku emerytalnego. 3. Rozwiązanie stosunku pracy z przyczyn wymienionych w ust. 1 pkt 1-3 oraz w ust. 2 następuje po uprzednim trzymiesięcznym wypowiedzeniu."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Za naruszenie obowiązków służbowych lub uchybienie godności stanowiska mianowani pracownicy Najwyższej Izby Kontroli ponoszą odpowiedzialność porządkową lub dyscyplinarną. 2. Karą porządkową jest upomnienie udzielane przez Prezesa Najwyższej Izby Kontroli. 3. Karami dyscyplinarnymi są: 1) nagana, 2) nagana z ostrzeżeniem, 3) obniżenia uposażenia zasadniczego o jedną grupę, 4) dyscyplinarne zwolnienie z pracy. 4. W sprawach dyscyplinarnych orzekają, działające na zasadzie niezawisłości, Komisja Dyscyplinarna i Odwoławcza Komisja Dyscyplinarna przy Prezesie Najwyższej Izby Kontroli,"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Rada Państwa określa: 1) szczegółowo prawa i obowiązki oraz wymagane kwalifikacje pracowników Najwyższej Izby Kontroli, 2) tabelę stanowisk i stan etatów, zasady wynagradzania oraz zasady przyznawania dodatków do wynagrodzeń i diet dla tych pracowników, 3) tryb powoływania i sposób działania komisji dyscyplinarnych. Rozdział 4 Zasady wykonywania kontroli"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. W związku z wykonywaną kontrolą przedstawiciele Najwyższej Izby Kontroli mają prawo: 1) wstępu do pomieszczeń i innych obiektów jednostek kontrolowanych, 2) wglądu do ksiąg, rejestrów, planów, sprawozdań oraz innych akt i dokumentów, znajdujących się w jednostce kontrolowanej i związanych z jej działalnością, 3) zabezpieczania dokumentów i innych dowodów, 4) dokonywania przesłuchań przy zastosowaniu przepisów kodeksu postępowania administracyjnego , 5) powoływania biegłych do uczestnictwa w pracach kontrolnych, 6) zwoływania narad z pracownikami kontrolowanej jednostki. 2. Pracownicy kontrolowanej jednostki obowiązani są udzielać przedstawicielom Najwyższej Izby Kontroli ustnych i pisemnych wyjaśnień w sprawach dotyczących przedmiotu kontroli."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. W razie stwierdzenia nadużyć, bezpośrednio grożącego niebezpieczeństwa, a także niegospodarności, marnotrawstwa lub niedbalstwa przedstawiciele Najwyższej Izby Kontroli przeprowadzający kontrolę mają prawo wydawać zarządzenia doraźne w celu usunięcia nieprawidłowości i zapobieżenia niebezpieczeństwu lub szkodzie. 2. Kierownik jednostki kontrolowanej lub nadrzędnej może zgłosić do Prezesa Najwyższej Izby Kontroli wniosek o uchylenie lub zmianę zarządzenia doraźnego. 3. Zgłoszenie wniosku, o którym mowa w ust. 2, nie wstrzymuje wykonania zarządzenia doraźnego."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Przedstawiciele Najwyższej Izby Kontroli, w związku z wykonywaną kontrolą, mają prawo: 1) wydawać kierownikowi jednostki kontrolowanej pisemne zalecenia w sprawie usunięcia stwierdzonych uchybień i nieprawidłowości, 2) występować do właściwych jednostek nadrzędnych o podjęcie odpowiednich decyzji, 3) zasięgać dodatkowych informacji w innych jednostkach organizacyjnych oraz żądać wyjaśnień od pracowników tych jednostek."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Przedstawiciele Najwyższej Izby Kontroli mają prawo brać udział w posiedzeniach kierownictwa, kolegiach i naradach organów administracji państwowej oraz organizacji i związków spółdzielczych."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. W procesie kontroli mogą w miarę potrzeby uczestniczyć w charakterze rzeczoznawców pracownicy ośrodków naukowych i naukowo-badawczych, przedstawiciele stowarzyszeń zawodowych i inni wybitni specjaliści. 2. Prezes Najwyższej Izby Kontroli ustala zasady wynagradzania rzeczoznawców z budżetu Najwyższej Izby Kontroli. Rozdział 5 Zasady realizacji wyników kontroli"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Najwyższa Izba Kontroli na podstawie wyników przeprowadzonych kontroli: 1) występuje z wnioskami zmierzającymi do usunięcia stwierdzonych nieprawidłowości, zapobieżenia im na przyszłość oraz usprawnienia działalności, która była przedmiotem kontroli, 2) opracowuje dla właściwych organów państwowych, organizacji politycznych i społecznych informacje dotyczące oceny przebiegu realizacji określonych zadań społeczno-gospodarczych oraz sprawności działania organów administracji ogólnej i gospodarczej. 2. Najwyższa Izba Kontroli w szczególności kieruje do jednostek skontrolowanych, ich jednostek nadrzędnych oraz innych zainteresowanych jednostek państwowych lub społecznych wystąpienia pokontrolne zawierające uwagi i wnioski w sprawie usunięcia stwierdzonych nieprawidłowości i wyciągnięcia odpowiednich konsekwencji wobec osób odpowiedzialnych za powstanie tych nieprawidłowości. 3. Kierownicy jednostek, do których wystąpienie pokontrolne zostało skierowane, są obowiązani w wyznaczonym terminie zawiadomić Najwyższą Izbę Kontroli o sposobie wykorzystania uwag i o wykonaniu wniosków. W razie braku możliwości wykonania wniosków należy podać uzasadnione przyczyny ich niewykonania i propozycje co do sposobu i terminów usunięcia stwierdzonych nieprawidłowości. 4. Odstąpienie od wykonania wniosków Najwyższej Izby Kontroli, dotyczących wyciągnięcia konsekwencji służbowych lub zastosowania innych przewidzianych prawem form odpowiedzialności wobec osób winnych, może nastąpić za zgodą organu Najwyższej Izby Kontroli, który skierował wystąpienie, a w razie braku uzgodnienia tylko za zgodą Prezesa Najwyższej Izby Kontroli."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. W razie ujawnienia przestępstwa lub wykroczenia Najwyższa Izba Kontroli przekazuje sprawę organowi powołanemu do ścigania przestępstw lub wykroczeń i w miarę potrzeby zawiadamia o tym organ nadrzędny jednostki skontrolowanej. 2. Organ, któremu przekazano sprawę w myśl ust. 1, obowiązany jest zawiadomić Najwyższą Izbę Kontroli o wynikach postępowania. 3. W razie ujawnienia innych czynów, pociągających za sobą określone formy odpowiedzialności, Najwyższa Izba Kontroli zawiadamia o tym zainteresowane organy lub instytucje; przepis ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Ministrowie, kierownicy urzędów centralnych oraz terenowe organy administracji państwowej stopnia wojewódzkiego dokonują okresowo, z udziałem przedstawicieli Najwyższej Izby Kontroli, analiz i ocen stopnia wykorzystania ustaleń kontroli do usprawnienia działalności podległych im jednostek organizacyjnych. 2. Prezes Najwyższej Izby Kontroli może zapraszać na posiedzenia Kolegium Najwyższej Izby Kontroli ministrów, kierowników urzędów centralnych, wojewodów i prezydentów miast stopnia wojewódzkiego, a także członków kierownictwa poszczególnych organizacji gospodarczych, w celu omówienia ustaleń przeprowadzonej kontroli oraz wynikających z tych ustaleń wniosków."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Rada Państwa, na wniosek Prezesa Najwyższej Izby Kontroli przedstawiony w porozumieniu z Prezesem Rady Ministrów, ustala tryb przeprowadzania czynności kontrolnych przez Najwyższą Izbę Kontroli oraz zasady realizacji wyników kontroli. Rozdział 6 Przepisy karne"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Kto uchyla się od kontroli, w szczególności przez nieprzedłożenie potrzebnych dla kontroli dokumentów, albo niezgodnie z prawdą informuje o wykonaniu wniosków pokontrolnych, podlega karze aresztu do 3 miesięcy albo karze grzywny do 5.000 zł. Rozdział 7 Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Traci moc ustawa z dnia 27 marca 1976 r. o Najwyższej Izbie Kontroli ( Dz. U. Nr 12, poz. 66 ) . 2. Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy zachowują moc przepisy wydane na podstawie ustawy wymienionej w ust. 1, nie dłużej jednak niż przez okres trzech miesięcy od dnia wejścia w życie niniejszej ustawy. 3. Wydane na podstawie ustawy wymienionej w ust. 1 orzeczenia o karach pieniężnych pozostają w mocy, a odwołania od tych orzeczeń rozpatrywane są na podstawie przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Ustawa wchodzi w życie z dniem uchwalenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Zadania i zakres działania Najwyższej Izby Kontroli\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_1-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Organizacja Najwyższej Izby Kontroli\",\"children\": [{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_11-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_11-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_11-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_11-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_11-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_2-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Pracownicy Najwyższej Izby Kontroli\",\"children\": [{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_15-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-arti_15-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_3-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_17-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_17-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_17-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_17-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_3-arti_17-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_17-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_18-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_18-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_18-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_3-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Zasady wykonywania kontroli\",\"children\": [{\"id\": \"chpt_4-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_4-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_20-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_20-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_20-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_20-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_4-arti_20-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_4-arti_20-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_4-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_4-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_4-arti_22-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_22-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_22-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_4-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_4-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Zasady realizacji wyników kontroli\",\"children\": [{\"id\": \"chpt_5-arti_25\",\""
+    }
+  ],
+  "definitions": []
+}

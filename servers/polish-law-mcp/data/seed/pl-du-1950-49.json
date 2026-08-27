@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1950-49",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 lutego 1950 r. o przekazaniu Ministrowi Zdrowia zakresu działania Ministra Pracy i Opieki Społecznej w przedmiocie opieki społecznej nad dziećmi do lat trzech oraz nad kobietami ciężarnymi i karmiącymi.",
+  "title_en": "",
+  "short_name": "pl-du-1950-49",
+  "status": "in_force",
+  "issued_date": "1950-02-04",
+  "in_force_date": "1950-02-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/49",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zakres działania i uprawnienia Ministra Pracy i Opieki Społecznej, dotyczące spraw opieki społecznej nad dziećmi do lat trzech oraz nad kobietami ciężarnymi i karmiącymi, przechodzą na Ministra Zdrowia, w szczególności zaś przewidziane w następujących ustawach i rozporządzeniach: 1) w ustawie z dnia 16 sierpnia 1923 r. o opiece społecznej ( Dz. U. R. P. Nr 92, poz. 726 ) ; 2) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. o unormowaniu właściwości władz i trybu postępowania w niektórych działach administracji państwowej ( Dz. U. R. P. Nr 110, poz. 976 ) ; 3) w dekrecie z dnia 22 października 1947 r. w sprawie mocy obowiązującej niektórych przepisów ustawodawstwa z zakresu opieki społecznej ( Dz. U. R. P. Nr 65, poz. 389 ) ; 4) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 29 czerwca 1924 r. w sprawie wykonywania opieki społecznej nad obywatelami polskimi, którzy w żadnej gminie Rzeczypospolitej Polskiej nie mają prawa do opieki trwałej, oraz ponoszenia wynikających stąd kosztów ( Dz. U. R. P. Nr 56, poz. 576 ) ; 5) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o rozgraniczeniu obowiązków opiekuńczych związków komunalnych ( Dz. U. R. P. Nr 26, poz. 232 ) ; 6) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 stycznia 1928 r. o budowie i utrzymaniu wojewódzkich zakładów opiekuńczo-wychowawczych ( Dz. U. R. P. Nr 8, poz. 56 ) ; 7) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 kwietnia 1927 r. o nadzorze i kontroli nad działalnością instytucyj opiekuńczych ( Dz. U. R. P. z 1927 r. Nr 40, poz. 354 i z 1928 r. Nr 38, poz. 359 ) ; 8) w ustawie z dnia 6 maja 1920 r. w sprawie publicznej opieki nad kalekami (Zb. u. prusk., str. 280); 9) w ustawie z dnia 2 lipca 1900 r. o wychowaniu zapobiegawczym nieletnich (Zb. u. prusk., str. 264) w brzmieniu nadanym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. o unormowaniu właściwości władz i trybu postępowania w niektórych działach administracji państwowej ( Dz. U. R. P. Nr 110, poz. 976 ) oraz dekretem Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. o zmianie ustawy z dnia 2 lipca 1900 r. o wychowaniu zapobiegawczym nieletnich ( Dz. U. R. P. Nr 3, poz. 18 ) ; 10) w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o opiekunach społecznych i o komisjach opieki społecznej ( Dz. U. R. P. Nr 29, poz. 267 ) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Do zakresu działania Ministra Zdrowia przechodzą również sprawy, związane z utrzymywaniem żłobków dla niemowląt przez zakłady pracy w myśl ustawy z dnia 2 lipca 1924 r. w przedmiocie pracy młodocianych i kobiet ( Dz. U. R. P. z 1924 r. Nr 65, poz. 636 , z 1931 r. Nr 101, poz. 773 , z 1945 r. Nr 43, poz. 236 i z 1948 r. Nr 27, poz. 182 ) . 2. Sieć żłobków, określonych w ust. 1, planuje Minister Zdrowia w porozumieniu z Ministrem Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Z dniem wejścia w życie niniejszej ustawy traci moc obowiązującą przepis art. 4 ustawy z dnia 7 kwietnia 1949 r. o przekazaniu Ministrowi Oświaty zakresu działania Ministra Pracy i Opieki Społecznej w przedmiocie opieki społecznej nad dziećmi i młodzieżą ( Dz. U. R. P. Nr 25, poz. 175 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Zdrowia i Ministrowi Pracy i Opieki Społecznej w porozumieniu z Ministrem Administracji Publicznej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

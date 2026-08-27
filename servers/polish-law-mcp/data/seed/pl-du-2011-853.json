@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2011-853",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o cmentarzach i chowaniu zmarłych",
+  "title_en": "",
+  "short_name": "pl-du-2011-853",
+  "status": "in_force",
+  "issued_date": "2011-05-26",
+  "in_force_date": "2011-07-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/853",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych ( Dz. U. z 2011 r. Nr 118, poz. 687 ) w art. 11: 1) ust. 5 otrzymuje brzmienie: „ 5. Jeden z egzemplarzy karty zgonu zawierający adnotację urzędu stanu cywilnego o zarejestrowaniu zgonu, z zastrzeżeniem ust. 5a, przedstawia się administracji cmentarza w celu pochowania zwłok, drugi zaś służy do celów statystycznych. ” ; 2) po ust. 5 dodaje się ust. 5a w brzmieniu: „ 5a. W przypadku dziecka martwo urodzonego, bez względu na czas trwania ciąży, dla którego na wniosek osoby uprawnionej do pochowania, o której mowa w art. 10 ust. 1, sporządzono kartę zgonu, dla celów określonych w ust. 5 nie jest wymagana adnotacja urzędu stanu cywilnego o zarejestrowaniu zgonu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

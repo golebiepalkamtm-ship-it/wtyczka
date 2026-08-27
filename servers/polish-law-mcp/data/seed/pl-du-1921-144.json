@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-144",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 marca 1921 r. zmieniająca §§ 66, 80, 81 i 100 galicyjskiej ustawy gminnej dla gmin wiejskich.",
+  "title_en": "",
+  "short_name": "pl-du-1921-144",
+  "status": "in_force",
+  "issued_date": "1921-03-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/144",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą § 66 ustawy gminnej z dnia 12 sierpnia 1866 r. (Dz. Ust. Kr. № 19), § 80 tejże ustawy (w brzmieniu, ustalonem ustawą z 13 stycznia 1909 r. (Dz. Ust. Kr. № 20)), § 81 tejże ustawy (w brzmieniu ustawy z 18 marca 1888 r. (Dz. Ust. Kr. № 36)), wreszcie § 100 tejże ustawy uchyla się, a w ich miejsce wprowadza się nowe w następującym brzmieniu: § 66. Zakładowy majątek i dobro gminy i jej zakładów mają być utrzymywane w całości i dobrym stanie. Do podziału zakładowego majątku lub dobra między członków gminy potrzebne jest przyzwolenie Tymczasowego Wydziału Samorządowego. § 80. Do nałożenia dodatków, przenoszących 20% do 50% podatków bezpośrednich lub podatku konsumpcyjnego, potrzebne jest przyzwolenie rady powiatowej. Przyzwolenie to potrzebne jest nawet do nałożenia dodatków, przenoszących 5% dodatków bezpośrednich, jeżeli tego wymaga jeden z członków, należących, do rady gminnej podług § 16 (radny bez wyboru). Żądanie to jednak musi być wniesione do rady gminnej na tem posiedzeniu, na którem dodatek uchwalony został, lub do zwierzchności gminnej, najpóźniej w 8 dni po tem posiedzeniu. Do nałożenia dodatków do podatków bezpośrednich lub do podatku konsumpcyjnego, przenoszących 50% do 100% i potrzebne jest zezwolenie Tymczasowego Wydziału Samorządowego za zgodą władzy administracyjnej drugiej instancji. Takie jednak zezwolenie może być udzielone najdłużej na 5 lat. Gdyby porozumienie między Tymczasowym Wydziałem Samorządowym a władzą administracyjną drugiej instancji nie nastąpiło, sprawa winna być przedłożona do decyzji Ministrowi Spraw Wewnętrznych. Dodatki na dłuższy okres aniżeli 5 lat lub dodatki, przenoszące 100% podatków bezpośrednich albo podatku konsumpcyjnego, nakładane być mogą tylko na podstawie zezwolenia Ministra Spraw Wewnętrznych i Ministra Skarbu. Do dodatków do podatków bezpośrednich, o których mowa w powyższych ustępach, nie mają być wliczane dodatki na pokrycie datków konkurencyjnych, nakładanych na gminę na mocy ustaw szkolnych, tudzież dodatki, przeznaczone na pokrycie potrzeb drogowych i wogóle takie dodatki, które nakładane są na pokrycie wydatków, opartych na podstawie innych specjalnych ustaw, a nie na mocy ustawy gminnej. § 81. Do zaprowadzenia opłat, nie należących do kategorji dodatków do podatków bezpośrednich lub do podatku konsumpcyjnego, jako też do podwyższenia istniejących już opłat tego rodzaju, potrzebne jest rozporządzenie Ministra Spraw Wewnętrznych i Ministra Skarbu. Zezwolenie na dalszy pobór tego rodzaju opłat po wygaśnięciu mocy obowiązującej rozporządzenia, którem wprowadzone zostały, udzielone być może przez Tymczasowy Wydział Samorządowy za zgodą władzy administracyjnej drugiej instancji, jednakże zawsze nie w wyższym wymiarze i nie na dłuższy okres czasu niż dotyczącem rozporządzeniem dotąd dozwolone były. Odmowa na prośby tego rodzaju może nastąpić tylko za zezwoleniem Ministra Spraw Wewnętrznych. Pobór kas gminnych za pojedyncze przez reprezentację gminną w zakresie jej kompetencji udzielane uprawnienia, tudzież za używanie zakładów gminnych i za inne w interesie stron przez organy gminne podejmowane czynności urzędowe dozwolony być może przez Tymczasowy Wydział Samorządowy za zgodą władzy administracyjnej drugiej instancji, jednak bez naruszenia już dawniej dla poszczególnych poborów tego rodzaju istniejących postanowień prawnych. § 100. Uchwały rady gminnej, do których ważkości potrzebne jest przyzwolenie ministerjalne, mają być podawane do rady powiatowej, która je wraz ze swojem zdaniem przedłoży przez Tymczasowy Wydział Samorządowy Ministerstwu Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Sprzeczne z nią ustawy i rozporządzenia tracą moc obowiązującą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej przekazuje się Ministrowi Spraw Wewnętrznych i Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

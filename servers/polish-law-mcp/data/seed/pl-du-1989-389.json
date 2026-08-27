@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1989-389",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 grudnia 1989 r. o szczególnych zasadach planowania społeczno-gospodarczego na rok 1990 oraz o zmianie niektórych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-1989-389",
+  "status": "repealed",
+  "issued_date": "1989-12-01",
+  "in_force_date": "1989-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/389",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Zobowiązuje się Radę Ministrów do opracowania na rok 1990 rocznego narodowego planu społeczno-gospodarczego w postaci założeń polityki społeczno-gospodarczej przewidzianych do realizacji przez Radę Ministrów. Założenia te zostaną przedstawione Sejmowi i Senatowi oraz opinii publicznej i skonsultowane ze związkami zawodowymi. 2. Przepisów ustawy z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym ( Dz. U. z 1987 r. Nr 4, poz. 26 i Nr 33, poz. 181 , z 1988 r. Nr 20, poz. 134 i Nr 41, poz. 327 oraz z 1989 r. Nr 4, poz. 22 i Nr 35, poz. 192 ) oraz ustawy z dnia 3 grudnia 1984 r. - Prawo budżetowe ( Dz. U. Nr 56, poz. 283 , z 1985 r. Nr 59, poz. 296 , z 1986 r. Nr 42, poz. 202 , z 1987 r. Nr 33, poz. 181 , z 1988 r. Nr 19, poz. 131 i Nr 41, poz. 325 oraz z 1989 r. Nr 6, poz. 32 i Nr 34, poz. 178 ) nie stosuje się w zakresie dotyczącym centralnego planu rocznego na rok 1990. 3. Do rocznych planów terytorialnych na rok 1990 stosuje się odpowiednio przepis ust. 1."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Wielkość środków przeznaczonych z budżetu centralnego na rok 1990 na inwestycje centralne, inwestycje jednostek budżetowych, ministerstw i urzędów centralnych określi ustawa budżetowa. 2. Rada Ministrów określi imienny wykaz inwestycji centralnych, a także podział środków, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Warunki, o których mowa w art. 20 ustawy z dnia 23 października 1987 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania gospodarki narodowej ( Dz. U. Nr 33, poz. 181 ) , na rok 1990 określi Rada Ministrów, a środki finansowe - ustawa budżetowa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W ustawie z dnia 31 stycznia 1989 r. o kształtowaniu środków na wynagrodzenia w sferze budżetowej ( Dz. U. Nr 4, poz. 24 i Nr 48, poz. 261 ) w art. 3 w ust. 1 wyrazy „centralny plan roczny” zastępuje się wyrazami „ustawa budżetowa” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W ustawie z dnia 15 lutego 1989 r. o Funduszu Obsługi Zadłużenia Zagranicznego ( Dz. U. Nr 6, poz. 31 ) w art. 4 w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) wykupione w polskich bankach dewizowych, ” ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W ustawie z dnia 27 kwietnia 1989 r. o Centralnym Funduszu Rozwoju Nauki i Techniki ( Dz. U. Nr 25, poz. 134 ) dodaje się art. 12a w brzmieniu: „ Art. 12a. Rada Ministrów ustali stawkę wpłat, o których mowa w art. 2 pkt 2, obowiązującą na rok 1990. ”"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

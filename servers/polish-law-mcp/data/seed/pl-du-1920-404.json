@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-404",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. o zakazie wywozu zagranicę kruszców szlachetnych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-404",
+  "status": "repealed",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/404",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zabrania się wywozu zagranicę kruszców szlachetnych we wszelkiej postaci, jako to: w monetach, sztabach i wyrobach oraz w stanie nieprzerobionym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Każdy opuszczający granice Rzeczypospolitej ma prawo wywieźć następujące przedmioty złote, srebrne lub platynowe do swego własnego użytku: 1) jedną obrączkę ślubną, 2) jeden zegarek kieszonkowy ewentualnie z łańcuszkiem lub dewizką, 3) dwa pierścionki, 4) parę kolczyków."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W szczególnych wypadkach Minister Skarbu zezwolić może na wywóz zagranicę również innych, w art. 2 niewymienionych wyrobów z kruszców szlachetnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Osoby, winne świadomego przekroczenia zakazu, wyrażonego w art. 1, bez względu na to czyją własność stanowią wywożone przedmioty, podlegają: na obszarze b. dzielnicy rosyjskiej i pruskiej karze więzienia do roku jednego i grzywny do 100.000 marek, lub jednej z tych kar, (na obszarze zaś b. dzielnicy austrjackiej - karze aresztu lub aresztu ścisłego do roku jednego oraz grzywny do 100.000 marek, lub jednej z tych kar. Niezależnie od powyższych kar można orzec również konfiskatę wywożonych przedmiotów. Usiłowanie podlega tym samym karom. Do orzekania w sprawach o wykroczenia przeciwko ustawie niniejszej powołuje się na obszarze b. dzielnicy rosyjskiej sądy pokoju, na obszarze b. dzielnicy austrjackiej - sądy okręgowe do spraw skarbowych, na obszarze b. dzielnicy pruskiej - sądy powiatowe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości; na obszarze zaś b. dzielnicy pruskiej - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrami Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Jednocześnie traci moc obowiązującą dekret z dnia 4 lutego 1919 r. o zakazie wywozu kruszców w monetach, sztabach i wyrobach (Dz. Pr. № 13, poz. 144). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

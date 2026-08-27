@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1938-16",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 stycznia 1938 r. o doręczeniu pism urzędowych przez gminy.",
+  "title_en": "",
+  "short_name": "pl-du-1938-16",
+  "status": "in_force",
+  "issued_date": "1938-01-11",
+  "in_force_date": "1938-01-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/16",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Pisma urzędowe doręczają władze oraz instytucje prawa publicznego przez pocztę lub przez swych funkcjonariuszów. (2) Gminy są obowiązane do doręczania pism urzędowych jedynie w przypadkach przez akt ustawodawczy wyraźnie określonych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Art. 23 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu administracyjnym ( Dz. U. R. P. Nr 36, poz. 341 ) otrzymuje następujące brzmienie: „ Art. 23. 1. Wezwania i inne pisma urzędowe władza doręcza za potwierdzeniem odbioru przez pocztę lub przez swych funkcjonariuszów. 2. Pisma adresowane do miejscowości, w których nie ma zorganizowanej pocztowej służby doręczeń - doręcza się za pośrednictwem władz gminnych. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Art. 147 ordynacji podatkowej z dnia 15 marca 1934 r. ( Dz. U. R. P. z 1936 r. Nr 14, poz. 134 ) otrzymuje następujące brzmienie: „ Art. 147. § 1. Doręczanie wszelkich pism władz skarbowych uskutecznia się przez pocztę lub przez organa władz skarbowych. § 2. Pisma adresowane do miejscowości, w których nie ma zorganizowanej pocztowej służby doręczeń, doręcza się za pośrednictwem władz gminnych. § 3. Za doręczanie pism przez władze gminne przyznaje się gminom wynagrodzenie w wysokości 6 groszy od każdego pisma. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom Spraw Wewnętrznych i Skarbu w porozumieniu z interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_(1\",\"symbol\": \"pint_(1\",\"type\": \"pint\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pint_(2\",\"symbol\": \"pint_(2\",\"type\": \"pint\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

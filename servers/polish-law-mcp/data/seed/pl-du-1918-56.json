@@ -1,0 +1,140 @@
+{
+  "id": "pl-du-1918-56",
+  "type": "statute",
+  "title": "Ustawa Polskiej Krajowej Kasy Pożyczkowej",
+  "title_en": "",
+  "short_name": "pl-du-1918-56",
+  "status": "in_force",
+  "issued_date": "1918-12-07",
+  "in_force_date": "1918-12-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1918/56",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zanim na mocy uchwały sejmowej nie zostanie powołany do życia Bank Polski Polska Krajowa Kasa Pożyczkowa, założona i prowadzona aż do 11 listopada 1918 r. przez okupacyjną władzę niemiecką, jest jedyną emisyjną instytucją bankową Państwa Polskiego, kasą centralną urzędów państwowych i miejscem przechowywania depozytów, znajdujących się pod opieką państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Suma marek polskich, wypuszczonych przez Polską Krajową Kasę Pożyczkową do 11 listopada 1918 r., wynosi 880.150.867 marek 50 fenigów. Za pewność aktywów, w jakich została umieszczona wykazana wyżej suma, odpowiada Państwo Niemieckie. Dalszą emisję marek polskich Polska Krajowa Kasa Pożyczkowa prowadzi na rachunek Państwa Polskiego, pod nadzorem rządu, a specjalnie Ministra Skarbu, na zasadach, wyszczególnionych w następnych punktach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Suma biletów Polskiej Krajowej Kasy Pożyczkowej, wypuszczonych po 11 listopada 1918 r., nie może przewyższać 500 miljonów marek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Marki polskie są środkiem prawnym płatniczym w całem państwie i przyjmowane są przez wszystkie urzędy, według wartości nominalnej. W tych dzielnicach kraju, w których prawnie obiegają jeszcze ruble lub korony, stosunek marek polskich do tych pieniędzy przy zapłatach skarbowych ustanawiany będzie perjodycznie przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Polskiej Krajowej Kasie Pożyczkowej nie wolno wydać ani jednego biletu, niezabezpieczonego całkowicie złotem, licząc 2784 marki za 1 kilogram złota, albo następującemi wartościami: a) wekslami, złożonemi do dyskonta albo na zabezpieczenie kredytu w rachunku bieżącym, przyczem weksle rnuszą mieć conajmniej 2 podpisy i żyro jednego z banków polskich, posiadającego w Kasie kredyt; do terminu płatności weksli nie może brakować więcej nad 4 miesiące; b) towarami, złożonemi na zabezpieczenie pożyczek, udzielanych w stosunku połowy wartości szacunku rynkowego; c) polskiemi papierami procentowemi i dywidendowemi, na zastaw których Kasa udziela pożyczek według norm, oznaczonych przez zarząd i zatwierdzonych przez Ministra Skarbu; d) polskiemi papierami procentowemi, nabytemi na własny rachunek Kasy, do sumy nie przewyższającej 10 miljonów marek; e) banknotami rosyjskiemi i austrjackiemi, nabywanemi przez Kasę na własny rachunek, do sumy nie przewyższającej 10 miljonów marek; dalsze nabywanie wymienionych banknotów może być zarządzone tylko przez Ministra Skarbu; f) banknotami rosyjskiemi i austrjackiemi, zastawianemi w Kasie według norm, oznaczonych przez zarząd i zatwierdzonych przez Ministra Skarbu; g) banknotami niemieckiemi, wymienianemi na marki polskie podług uznania zarządu do sumy 10 miljonów marek; dalsze zwiększenie tej sumy zależy od decyzji Ministra Skarbu; h) nabywanemi na własny rachunek Kasy pieniędzmi, czekami i wekslami tych państw, których pieniądze nie były prawnym środkiem płatniczym w Polsce podczas okupacji."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wszelkie pożyczki udzielane są tylko w markach polskich i mają być spłacone w tej lub w przyszłej polskiej walucie według kursu, który obowiązywać będzie dla konwersji wszelkich zobowiązań płatniczych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Pożyczki udzielane są na termin nie dłuższy nad 6 miesięcy. Stopę procentową i prowizyjną oznacza zarząd."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Zastaw papierów i towarów odbywa się przez oddanie ich Kasie przy deklaracji, wyrażającej zgodę właściciela na sprzedaż zastawów przez Kasę za pośrednictwem maklera giełdowego, o ile w 10 dni po ustalonym terminie pożyczka nie będzie zapłaconą. Za zgodą Ministra Skarbu może też być udzielona pożyczka na towary, znajdujące się na składzie pożyczającego, pod jego opieką i odpowiedzialnością."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Zastawione papiery nie mogą być sekwestrowane i zaliczane do masy upadłości dłużnika, zanim nie zostanie spłacona cała suma długu należna Kasie."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Polska Krajowa Kasa Pożyczkowa przyjmuje wkłady gotówkowe tylko bezprocentowe, bądź na przechowanie, bądź na rachunek bieżący, zwyczajny lub przekazowy (giro)."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Polska Krajowa Kasa Pożyczkowa jest kasą centralną wszystkich urzędów państwowych, a przedewszystkiem kas skarbowych, które z polecenia Ministra Skarbu przelewają do Kasy wolne fundusze na rachunek Skarbu Państwa. Kasa zarządza rachunkiem Skarbu bezpłatnie. Wszelkie wypłaty Skarbu Kasa załatwia w granicach rozporządzalnej gotówki na rachunku Skarbu Państwa bez żadnej prowizji. Ma zlecenia Skarbu Kasa inkasuje bezpłatnie należności skarbowe we wszystkich miejscowościach, gdzie posiada własne oddziały."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Krótkoterminowe, najdłużej 6-miesięczne, pożyczki Skarbowi Państwa na zastaw biletów skarbowych i gminom na zastaw ich prawnie wypuszczonych obligów Kasa może wydawać tylko na zasadzie każdorazowego postanowienia Rady Ministrów, zatwierdzonego przez Naczelnika Państwa, a po zebraniu się Sejmu jedynie na zasadzie uchwały sejmowej. Za pożyczki skarbowe Kasa nic nie pobiera, za pożyczki komunalne pobiera 5%."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Prowizję za wszelkie bankowe czynności pośredniczące oznacza zarząd."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Kasa może otwierać oddziały na całym obszarze Państwa po zatwierdzeniu odnośnego wniosku zarządu przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zarząd Kasy powierza się dyrekcji, złożonej z naczelnego dyrektora i jego zastępcy, mianowanych przez Prezydenta Ministrów na wniosek Ministra Skarbu. Zarząd w swojej działalności kieruje się niniejszą ustawą i przepisami, wydanemi przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Bilanse miesięczne Kasy drukuje się w gazecie urzędowej oraz conajmniej w 3 miejscowych gazetach według wyboru zarządu. O stanie emisji banknotów podaje się do wiadomości co 10 dni. W każdym bilansie miesięcznym, obejmującym stan majątku od początku istnienia Kasy, zaznacza się wpływy na poczet aktywów, przyjętych 11 listopada 1918 r."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Minister Skarbu perjodycznie zarządza rewizję bilansów i kas oraz całej biurowości Kasy według swego uznania. To samo prawo przysługuje Prezydentowi Ministrów, który może delegować do tej czynności zarówno urzędników państwowych jak i prywatnych rzeczoznawców."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Cały zysk, jaki okaże się przy zamknięciu rachunków rocznych Kasy, przelewa się na fundusz rezerwowy, o którego przeznaczeniu, jak również o likwidacji Kasy, zadecyduje Sejm."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Za podrabianie banknotów Kasy grozi taka sama odpowiedzialność, jak za podrabianie papierów państwowych."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "We wszystkich wypadkach, których ustawa niniejsza nie rozstrzyga, Kasa podlega ogólnemu prawu. W razie jakichbądź wątpliwości przy stosowaniu ustawy rozstrzyganie ich należy do Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Równocześnie traci moc obowiązującą ustawa Polskiej Krajowej Kasy Pożyczkowej z dnia 9 grudnia 1916 r. (Dz. Rozp. dla Jen. Gub. Warsz. № 57 z dn. 13/XII 1916). Dan w Warszawie, d. 7 grudnia 1918 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_5-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_5-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_5-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_5-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_5-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

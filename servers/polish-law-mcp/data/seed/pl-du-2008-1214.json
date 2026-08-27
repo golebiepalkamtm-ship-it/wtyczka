@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2008-1214",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 października 2008 r. o zmianie ustawy o Bankowym Funduszu Gwarancyjnym",
+  "title_en": "",
+  "short_name": "pl-du-2008-1214",
+  "status": "repealed",
+  "issued_date": "2008-10-03",
+  "in_force_date": "2008-11-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1214",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym ( Dz. U. z 2007 r. Nr 70, poz. 474 ) wprowadza się następujące zmiany: 1) w art. 2 uchyla się pkt 7; 2) w art. 13: a) ust. 1 otrzymuje brzmienie: „ 1. Podmioty objęte systemem gwarantowania wnoszą na rzecz Funduszu obowiązkowe opłaty roczne w wysokości iloczynu stawki nieprzekraczającej 0,3% i podstawy naliczania opłaty rocznej, o której mowa w ust. 1a. ” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Podstawę naliczania opłaty rocznej stanowi kwota odpowiadająca 12,5-krotności sumy wymogów kapitałowych z tytułu poszczególnych rodzajów ryzyka oraz wymogów kapitałowych z tytułu przekroczenia limitów i naruszenia innych norm określonych w ustawie - Prawo bankowe , obliczona przez bank według zasad określonych na podstawie przepisów tej ustawy. ” , c) ust. 2 otrzymuje brzmienie: „ 2. Wysokość stawki, o której mowa w ust. 1, na kolejny rok określa i przekazuje podmiotom objętym systemem gwarantowania Rada Funduszu, nie później niż do końca roku kalendarzowego poprzedzającego rok, w którym opłata ma być wniesiona. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do obliczania obowiązkowej opłaty rocznej, o której mowa w art. 13 ust. 1 ustawy zmienianej w art. 1, wnoszonej na rzecz Bankowego Funduszu Gwarancyjnego w roku 2008 stosuje się przepisy dotychczasowe. Przepisy art. 13 ust. 1 i 1a ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, mają po raz pierwszy zastosowanie do obliczania obowiązkowej opłaty rocznej wnoszonej przez banki w roku 2009."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Ustawa z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym dokonała w zakresie swojej regulacji wdrożenia dyrektywy Parlamentu Europejskiego i Rady 94/19/WE z dnia 30 maja 1994 r. w sprawie systemów gwarancji depozytów (Dz. Urz. WE L 135 z 31.05.1994). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

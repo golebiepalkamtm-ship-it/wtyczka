@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2022-1457",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi",
+  "title_en": "",
+  "short_name": "pl-du-2022-1457",
+  "status": "amended",
+  "issued_date": "2022-06-09",
+  "in_force_date": "2022-07-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/1457",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ( Dz. U. z 2022 r. poz. 329 i 655 ) wprowadza się następujące zmiany: 1) w art. 69 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 w brzmieniu: „ § 2. Na wniosek adresata doręczenie może być dokonane na wskazany przez niego adres skrytki pocztowej. W takim przypadku pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe składa się w placówce pocztowej tego operatora, umieszczając zawiadomienie o tym w skrytce pocztowej adresata. W zawiadomieniu wskazuje się placówkę pocztową operatora, w której złożono pismo, oraz zamieszcza się informację, że należy je odebrać w terminie siedmiu dni od dnia pozostawienia zawiadomienia. ” ; 2) w art. 73: a) w § 1 wyrazy „art. 65-72” zastępuje się wyrazami „art. 65-68, art. 69 § 1 oraz art. 70-72” , b) dodaje się § 5 w brzmieniu: „ § 5. W przypadku niepodjęcia pisma w terminie, o którym mowa w art. 69 § 2, przepisy § 3 i 4 stosuje się odpowiednio. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

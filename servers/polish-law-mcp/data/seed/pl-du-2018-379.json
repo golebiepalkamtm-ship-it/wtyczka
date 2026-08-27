@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2018-379",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 stycznia 2018 r. o zmianie ustawy o działach administracji rządowej",
+  "title_en": "",
+  "short_name": "pl-du-2018-379",
+  "status": "amended",
+  "issued_date": "2018-01-26",
+  "in_force_date": "2018-02-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/379",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ( Dz. U. z 2017 r. poz. 888 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1086, 1566, 1909, 2180 i 2494 oraz z 2018 r. poz. 138. ) wprowadza się następujące zmiany: 1) w art. 14 w ust. 1 w pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 w brzmieniu: „ 14) udziału w kształtowaniu estetyki przestrzeni publicznej w zakresie architektury, urbanistyki i planowania przestrzennego. ” ; 2) po art. 33c dodaje się art. 33d w brzmieniu: „ Art. 33d. Prezes Rady Ministrów koordynuje politykę mieszkaniową państwa oraz kontroluje jej realizację. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W celu wykonania przepisów ustawy Prezes Rady Ministrów może dokonać, w drodze rozporządzenia, przeniesienia planowanych dochodów i wydatków budżetowych, w tym wynagrodzeń, między częściami, działami i rozdziałami budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikających z ustawy budżetowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 1086, 1566, 1909, 2180 i 2494 oraz z 2018 r. poz. 138. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

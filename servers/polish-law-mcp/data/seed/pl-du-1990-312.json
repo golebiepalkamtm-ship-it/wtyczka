@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1990-312",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1990 r. o partiach politycznych.",
+  "title_en": "",
+  "short_name": "pl-du-1990-312",
+  "status": "repealed",
+  "issued_date": "1990-07-28",
+  "in_force_date": "1990-08-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/312",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Partia polityczna jest organizacją społeczną występującą pod określoną nazwą, stawiającą sobie za cel udział w życiu publicznym, w szczególności przez wywieranie wpływu na kształtowanie polityki państwa i sprawowanie władzy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Członkami partii politycznych mogą być obywatele Rzeczypospolitej Polskiej, którzy ukończyli 18 lat. 2. Partia polityczna nie może posiadać jednostek organizacyjnych w zakładach pracy ani w Siłach Zbrojnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nazwa i symbole partii politycznej, zgłoszone w sposób przewidziany w art. 4, korzystają z ochrony prawnej przewidzianej dla dóbr osobistych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Partia polityczna uzyskuje osobowość prawną z chwilą zgłoszenia jej do ewidencji prowadzonej przez Sąd Wojewódzki w Warszawie. 2. Zgłoszenie powinno zawierać nazwę i siedzibę partii oraz sposób wyłaniania organu upoważnionego do reprezentowania partii przy czynnościach prawnych. Może zawierać również wzór symbolu (symboli) partii. 3. Zgłoszenie powinno zawierać także imiona, nazwiska i adresy oraz podpisy co najmniej 15 osób posiadających pełną zdolność do czynności prawnych. Trzy spośród nich dokonują zgłoszenia osobiście, przyjmując odpowiedzialność za prawdziwość danych zawartych w zgłoszeniu. 4. Poświadczenie zgłoszenia jest dowodem nabycia osobowości prawnej. 5. Partia polityczna powinna zgłaszać do ewidencji imiona, nazwiska i adresy osób wchodzących w skład organu, o którym mowa w ust. 2. 6. Ewidencja partii politycznych jest jawna. Każdemu przysługuje prawo otrzymania uwierzytelnionych odpisów i wyciągów z tej ewidencji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Trybunał Konstytucyjny wydając, na skutek przedstawienia Sądu Wojewódzkiego w Warszawie lub na wniosek Ministra Sprawiedliwości, orzeczenie o sprzeczności celów lub działalności partii politycznej z Konstytucją Rzeczypospolitej Polskiej, może zalecić wprowadzenie w określonym terminie stosownych zmian do statutu lub programu partii. 2. Jeżeli działalność partii politycznej zmierza do zmiany przemocą konstytucyjnego ustroju Rzeczypospolitej Polskiej lub wyraża się organizowaniem przez władze partii stosowania przemocy w życiu publicznym. Minister Sprawiedliwości wystąpi do Trybunału Konstytucyjnego o zakaz jej działalności. 3. Prawomocne orzeczenie Trybunału Konstytucyjnego o zakazie działalności partii politycznej powoduje wykreślenie jej z ewidencji. 4. W razie wykreślenia partii politycznej z ewidencji, o której mowa w art. 4 ust. 1, lub wydania zakazu jej działania, a także na skutek rozwiązania się partii, partia podlega likwidacji. Do postępowania likwidacyjnego stosuje się odpowiednio przepisy rozdziału 5 ustawy z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ( Dz. U. Nr 20, poz. 104 i z 1990 r. Nr 14, poz. 86 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Środki majątkowe partii politycznej dla realizacji jej celów mogą pochodzić ze składek członkowskich, darowizn, spadków, zapisów, dochodów z majątku i dochodów z działalności gospodarczej, a także z ofiarności publicznej. 2. Działalność gospodarcza może być prowadzona przez partię wyłącznie w formie spółdzielni i udziału w spółkach. 3. Partie polityczne nie mogą korzystać z jakiegokolwiek wsparcia rzeczowego i pomocy finansowej od osób zagranicznych w rozumieniu prawa dewizowego i osób prawnych z wyłącznym udziałem podmiotów zagranicznych. 4. Korzyści majątkowe uzyskane w wyniku naruszenia zakazu określonego w ust. 3 podlegają w całości przepadkowi na rzecz Skarbu Państwa. 5. Zasady finansowania partii politycznych ze źródeł publicznych na cele kampanii wyborczej regulują ordynacje wyborcze. 6. Opodatkowanie partii politycznych regulują odrębne przepisy. 7. Dochody z działalności gospodarczej partii politycznych wolne są od podatku dochodowego w części, w jakiej zostały przeznaczone na cele statutowe. 8. Źródła finansowania partii politycznych są jawne."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Partiom politycznym zapewnia się prawo dostępu do państwowego radia i telewizji na zasadach określonych w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_6-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_6-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"arti_6-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"arti_6-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

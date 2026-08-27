@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1919-265",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 1919 r. o utworzeniu Głównego Urzędu Zaopatrywania Armji.",
+  "title_en": "",
+  "short_name": "pl-du-1919-265",
+  "status": "in_force",
+  "issued_date": "1919-04-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/265",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przy Ministerstwie Spraw Wojskowych utworzony zostaje „Główny Urząd Zaopatrywania Armji”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Główny Urząd Zaopatrywania Armji: 1) ześrodkowuje i pokrywa ogólne zapotrzebowanie armji, tworzy i utrzymuje w tym celu łączność z przemysłowemi siłami kraju oraz prowadzi potrzebną statystykę; 2) pomaga dostawcom w otrzymaniu surowców, półfabrykatów i innych artykułów, potrzebnych do wykonania zamówień; dokonywuje tego ewentualnie przy pomocy organów rządowych specjalnie do tych celów powołanych; 3) współdziała w uruchomieniu i rozwinięciu przemysłu krajowego dla potrzeb armji; 4) rozdziela zamówienia armji pomiędzy poszczególne wytwórnie krajowe; 5) w miarę konieczności i w porozumieniu z Ministrem Skarbu i Ministrem Spraw Zagranicznych rozdziela zamówienia pomiędzy fabryki zagraniczne i zawiera z niemi w imieniu rządu umowy na dostawy; 6) przygotowuje i zawiera umowy z poszczególnymi dostawcami, a także dokonywa z nimi rozrachunków; 7) finansuje i subwencjonuje przedsiębiorstwa pracujące na potrzeby armji; 8) uzyskuje od rządu kredyty niezbędne do wykonania zamówień; 9) dozoruje wykonanie zamówień; 10) organizuje i zakłada nowe wytwórnie wojskowe i zarządza niemi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Główny Urząd Zaopatrywania Armji ma prawo w granicach obowiązujących ustaw nakładania sekwestrów, dokonywania rekwizycji materjałów i urządzeń technicznych, sekwestru wytwórni wojskowo - technicznych, nakładania na dostawców i fabrykantów oraz ich urzędników i robotników zobowiązań koniecznych dla zabezpieczenia albo obrony interesów wojskowych, oraz udzielania ulg w stosunku do powinności wojskowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na czele Głównego Urzędu Zaopatrywania Armji stoi dyrektor mianowany przez Radę Ministrów na wniosek Ministra Spraw Wojskowych, któremu bezpośrednio podlega."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Organem doradczym przy Głównym Urzędzie Zaopatrywania Armji jest Komitet pod przewodnictwem dyrektora Głównego Urzędu Zaopatrywania Armji, w skład którego wchodzą przedstawiciele następujących ministerstw: 1) Ministerstwa Spraw Wojskowych, 2) Ministerstwa Przemysłu i Handlu, 3) Ministerstwa Aprowizacji, 4) Ministerstwa Rolnictwa, 5) Ministerstwa Skarbu, 6) Ministerstwa Pracy i 7)Ministerstwa Spraw Zagranicznych, oraz przedstawiciele organizacji społecznych. Sposób funkcjonowania Komitetu określa regulamin."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Istniejący Urząd Zaopatrywania Techniczno - Wojskowy przy Ministerstwie Przemysłu i Handlu ma być, w myśl wyżej przytoczonych zasad, wcielony do Głównego Urzędu Zaopatrywania Armji przy Ministerstwie Spraw Wojskowych i odpowiednio przekształcony."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Przemysłu i Handlu. Ustawa wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_2-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2007-48",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 grudnia 2006 r. o zmianie ustawy o przeciwdziałaniu narkomanii",
+  "title_en": "",
+  "short_name": "pl-du-2007-48",
+  "status": "amended",
+  "issued_date": "2006-12-07",
+  "in_force_date": "2007-01-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/48",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii ( Dz. U. Nr 179, poz. 1485 oraz z 2006 r. Nr 66, poz. 469 i Nr 120, poz. 826 ) wprowadza się następujące zmiany: 1) w art. 4 pkt 5 otrzymuje brzmienie: „ 5) konopie włókniste - rośliny z gatunku konopie siewne (Cannabis sativa L), w których suma zawartości delta-9-tetrahydrokannabinolu oraz kwasu tetrahydrokannabinolowego (kwasu delta-9-THC-2-karboksylowego) w kwiatowych lub owocujących wierzchołkach roślin, z których nie usunięto żywicy, nie przekracza 0,20% w przeliczeniu na suchą masę; ” ; 2) w art. 6 w ust. 3 po pkt 14 dodaje się pkt 14a w brzmieniu: „ 14a) dofinansowywanie kosztów szkoleń w dziedzinie uzależnienia; ” ; 3) w art. 10 ust. 5 otrzymuje brzmienie: „ 5. W celu realizacji zadań, o których mowa w ust. 1, wójt (burmistrz, prezydent miasta) może powołać pełnomocnika. ” ; 4) po art. 27 dodaje się art. 27a w brzmieniu: „ Art. 27a. 1. Dyrektor Biura może dofinansować koszty szkolenia w dziedzinie uzależnienia jego uczestnikom, na ich wniosek, złożony za pośrednictwem podmiotu prowadzącego szkolenia w dziedzinie uzależnień, jeżeli osoby te są zatrudnione w jednostkach prowadzących rehabilitację, w tym w szczególności osobom wymienionym w art. 86. 2. Dyrektor Biura wskazuje termin składania wniosków, o których mowa w ust. 1, a także ustala corocznie maksymalną kwotę dofinansowania przypadającą na jednego uczestnika szkolenia w dziedzinie uzależnienia oraz liczbę osób objętych dofinansowaniem, mając na względzie wysokość środków przewidzianych na ten cel w planie finansowym Biura. 3. Dane, o których mowa w ust. 2, Dyrektor Biura zamieszcza, niezwłocznie po ich ustaleniu, na stronie biuletynu informacji publicznej Biura. 4. Wniosek, o którym mowa w ust. 1, zawiera: 1) imię i nazwisko; 2) adres miejsca zamieszkania; 3) terminy rozpoczęcia i zakończenia szkolenia w dziedzinie uzależnienia; 4) uzasadnienie wniosku. 5. O dofinansowaniu kosztów szkolenia w dziedzinie uzależnienia decyduje, z zastrzeżeniem ust. 1, kolejność wpływu wniosków, o których mowa w ust. 1, do wyczerpania środków przewidzianych na ten cel w planie finansowym Biura. ” ; 5) w załączniku nr 1 do ustawy: a) w części 1 „Środki odurzające grupy I-N” w kolumnie „Międzynarodowe nazwy zalecane”: - wyrazy „KONOPI ZIELE I ŻYWICA innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste” zastępuje się wyrazami „KONOPI ZIELE innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste” , - dodaje się pozycję w brzmieniu: „ŻYWICA KONOPI” , b) w części 4 „Środki odurzające grupy IV-N” w kolumnie „Międzynarodowe nazwy zalecane”: - wyrazy „KONOPI ZIELE I ŻYWICA innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste” zastępuje się wyrazami „KONOPI ZIELE innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste” , - dodaje się pozycję w brzmieniu: „ŻYWICA KONOPI” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

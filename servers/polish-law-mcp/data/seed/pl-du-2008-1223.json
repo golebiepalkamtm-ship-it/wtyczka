@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-1223",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 października 2008 r. o zmianie ustawy o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej",
+  "title_en": "",
+  "short_name": "pl-du-2008-1223",
+  "status": "amended",
+  "issued_date": "2008-10-03",
+  "in_force_date": "2008-11-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1223",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 8 lipca 2005 r. o realizacji prawa do rekompensaty z tytułu pozostawienia nieruchomości poza obecnymi granicami Rzeczypospolitej Polskiej ( Dz. U. Nr 169, poz. 1418 oraz z 2006 r. Nr 195, poz. 1437 ) wprowadza się następujące zmiany: 1) w art. 7 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Organem właściwym w sprawach zmiany, stwierdzenia nieważności lub wznowienia postępowania w sprawach zaświadczeń i decyzji potwierdzających prawo do rekompensaty wydanych na podstawie odrębnych przepisów jest wojewoda, o którym mowa w ust. 3. ” ; 2) art. 20 otrzymuje brzmienie: „ Art. 20. Do postępowań zakończonych wydaniem decyzji lub zaświadczeń potwierdzających prawo do rekompensaty stosuje się art. 145, art. 145a, art. 146 § 2, art. 147-152, art. 154 § 2, art. 155-159 oraz art. 161-163 Kodeksu postępowania administracyjnego , z tym że w przypadku zaświadczeń przepisy te stosuje się odpowiednio. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

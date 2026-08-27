@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2000-1167",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 2000 r. o zmianie ustawy o zamówieniach publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-2000-1167",
+  "status": "repealed",
+  "issued_date": "2000-10-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/1167",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 czerwca 1994 r. o zamówieniach publicznych ( Dz. U. z 1998 r. Nr 119, poz. 773 , z 1999 r. Nr 45, poz. 437 oraz z 2000 r. Nr 12, poz. 136 i Nr 93, poz. 1027 ) po art. 9 dodaje się art. 9a w brzmieniu: „ Art. 9a. 1. Tworzy się środki specjalne Urzędu Zamówień Publicznych, zwane dalej «środkami specjalnymi». 2. Środki specjalne tworzone są z następujących źródeł: 1) wpisów i opłat uiszczonych przez odwołujących się, 2) wpłat uczestników postępowania odwoławczego z tytułu kosztów postępowania orzeczonych przez zespoły arbitrów rozpatrujące wniesione odwołania, 3) wpływów z publikacji z zakresu zamówień publicznych, wydawanych przez Urząd Zamówień Publicznych, 4) odsetek od środków, o których mowa w pkt 1-3. 3. Ze środków specjalnych finansowe są: 1) wynagrodzenia arbitrów, 2) zwrot wydatków należnych arbitrom, 3) wydatki Urzędu Zamówień Publicznych związane z postępowaniami odwoławczymi, 4) zwrot wpisu, 5) wydatki związane z wydawaniem przez Urząd Zamówień Publicznych publikacji dotyczących zamówień publicznych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Środki finansowe zgromadzone na wyodrębnionym rachunku bankowym środków specjalnych, utworzonych na podstawie rozporządzenia Ministra Finansów z dnia 8 maja 1991 r. w sprawie środków specjalnych jednostek budżetowych ( Dz. U. Nr 42, poz. 184 , z 1993 r. Nr 38, poz. 166 i z 1997 r. Nr 34, poz. 208 ) , stają się środkami finansowymi środków specjalnych utworzonych na podstawie art. 9a ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 15 grudnia 2000 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

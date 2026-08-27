@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-711",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1924 r. w przedmiocie zamiany państwowych gruntów kolejowych w Lisich Kątach pod Grudziądzem, przy stacji Chodecz w województwie warszawskiem i w gminie Ostrzeszów w województwie poznańskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1924-711",
+  "status": "in_force",
+  "issued_date": "1924-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/711",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na zamianą stanowiących własność państwową i pozostających pod zarządem państwowych kolei żelaznych: a) parcel gruntowych № № 400/73 i 401/73 o łącznej powierzchni 243 mtr. kwadr., zapisanych w księdze gruntowej Lisie Kąty tom II karta 36 i położonych w gminie Lisie Kąty w województwie pomorskiem, na parcelą № 403/75 o powierzchni 128 mtr. kwadr., zapisaną w księdze gruntowej Lisie Kąty tom II karta 48, stanowiącą własność prywatną; b) działki gruntu o powierzchni 528 mtr. kwadr., położonej przy stacji kolejowej Chodecz w województwie warszawskiem, na działką gruntu o powierzchni 1056 mtr. kwadr., położoną przy tejże stacji Chodecz, a należącą do majątku Kaliska, powiatu włocławskiego; c) parcel gruntowych №№ 527/28, 538/122, 540/122, 500/135, 502/135, 498/142 i 539/199 o łącznej powierzchni 41 arów 6 mtr. kwadr., położonych w gminie Ostrzeszów tegoż powiatu w województwie poznańskiem, zapisanych w księdze gruntowej tom XII karta 335, na zajęte na mocy umowy z dnia 28 września (15 października) 1915 r. parcele gruntowe №№ 535/79, 503/136, 496/141, 492/145 i 487/164 o łącznej powierzchni 38 arów 56 mtr. kwadr., zapisane w księdze gruntowej tom XXVI karta 818, stanowiące własność gminy Ostrzeszów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Kolei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

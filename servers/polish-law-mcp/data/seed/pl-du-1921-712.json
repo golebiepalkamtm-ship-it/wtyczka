@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1921-712",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 listopada 1921 r. w przedmiocie zmiany art. 1178 Ustawy Lekarskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-712",
+  "status": "in_force",
+  "issued_date": "1921-11-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/712",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 1178 Ustawy Lekarskiej (Zbiór Praw b. ces. ros. tom XIII wydanie z 1905 r.) ulega następującej zmianie: wyrazy „na każde 3-lecie z góry” skreśla się, wyrazy „Komitet Ministrów” zastępuje się wyrazami: „Minister Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrem Przemysłu i Handlu” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza uzyskuje moc obowiązującą z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

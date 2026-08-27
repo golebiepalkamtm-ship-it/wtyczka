@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1919-405",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lipca 1919 r. zmieniająca postanowienia § 8a i § 16 galicyjskiej ustawy o konkurencji kościelnej z dnia 15 sierpnia 1866 r. w brzmieniu noweli z dnia 16 kwietnia 1896 r. obowiązująca na terytorjum b. Galicji.",
+  "title_en": "",
+  "short_name": "pl-du-1919-405",
+  "status": "in_force",
+  "issued_date": "1919-07-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/405",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Postanowienia § 8a i § 16 ustawy z 15 sierpnia 1866 dz. u. kr. Nr. 28 (w brzmieniu noweli z dnia 16 kwietnia 1896 dz. u. kr. Nr. 25) o pokrywaniu kosztów stawiania i utrzymywania budynków kościelnych i plebańskich w parafjach wyznania katolickiego, tudzież dostarczania przyrządów i sprzętów kościelnych, przestają w dotychczasowem brzmieniu obowiązywać, a natomiast obowiązywać będą następujące postanowienia. § 8a. Rozkład wydatków, przypadających na należących do parafji członków gminy, wymienionych w § 8 pod l. 1 nastąpić ma według postanowień działu V ustawy gminnej w ten sam sposób, jak rozkład innych wydatków gminnych. Jeżeli parafja składa się z kilku gmin lub części tychże, natenczas należy, jeśli niema innej umowy, nałożyć koszta na każdą gminę w stosunku do podatków bezpośrednich, uiszczanych przez należących do dotyczącego obrządku członków gmin lub części gmin wcielonych do parafji. Gminie wolno z funduszów własnych pokryć w całości lub w części wydatki przypadające na jej członków. § 16. Do pertraktacji konkurencyjnej wezwane będą wszystkie do konkurencji obowiązane strony z równoczesnem ostrzeżeniem, iż na wypadek niestawienia się uznane będą za przyzwalające na zamierzoną budowę, tudzież do dodatków na nie wypadających pociągnięte zostaną. Patron ma prawo użycia w miejsce swoje umocowanego do tej czynności zastępcy. Przy rozprawie konkurencyjnej ma jeden głos każda w moc fundacji, umowy lub ustawy do konkurencji obowiązana strona, a mianowicie ordynarjat, paroch, patron, z każdej gminy pełnomocnik, obrany bezwzględną większością głosów przez parafjan tegoż samego obrządku, prawo wyboru w gminie mających. Każdej z tych stron należy się głos bez względu na to, czy w danym razie przyczynią się do pokrycia kosztów. Do powzięcia uchwały potrzebna jest bezwzględna większość glosujących."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza obowiązuje z dniem 1 sierpnia 1919 roku."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie tej ustawy poleca się Ministrowi Wyznań Religijnych i Oświecenia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

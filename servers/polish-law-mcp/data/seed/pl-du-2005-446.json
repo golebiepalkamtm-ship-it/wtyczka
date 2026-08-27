@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-446",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 stycznia 2005 r. o zmianie ustawy o wykonaniu mandatu posła i senatora",
+  "title_en": "",
+  "short_name": "pl-du-2005-446",
+  "status": "amended",
+  "issued_date": "2005-01-06",
+  "in_force_date": "2005-03-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/446",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ( Dz. U. z 2003 r. Nr 221, poz. 2199 oraz z 2004 r. Nr 116, poz. 1202 i Nr 210, poz. 2135 ) wprowadza się następujące zmiany: 1) po art. 5 dodaje się art. 5a w brzmieniu: „ Art. 5a. Poseł lub senator w czasie pozbawienia wolności nie wykonuje praw i obowiązków wynikających z niniejszej ustawy. ” ; 2) w art. 23 dodaje się ust. 10a w brzmieniu: „ 10a. W przypadku, o którym mowa w art. 5a, prawa i obowiązki posła i senatora wynikające z funkcjonowania i znoszenia biura przechodzą odpowiednio na Marszałka Sejmu i Marszałka Senatu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

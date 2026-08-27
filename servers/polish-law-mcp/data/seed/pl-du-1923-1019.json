@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1923-1019",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 listopada 1923 r. w przedmiocie niektórych zmian w dekrecie z dnia 8 lutego 1919 r. o spółkach z ograniczoną odpowiedzialnością i dekrecie z dnia 7 lutego 1919 r. o rejestrze handlowym.",
+  "title_en": "",
+  "short_name": "pl-du-1923-1019",
+  "status": "in_force",
+  "issued_date": "1923-11-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/1019",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dekret z dnia 8 lutego 1919 r. o spółkach z ograniczoną odpowiedzialnością (Dz. P. P. P. № 15 poz. 201) ulega następującym zmianom: Art. 4. Wpis spółki do rejestru może nastąpić dopiero z chwilą zgłoszenia zaświadczenia ze strony zarządu spółki, że przynajmniej czwarta część każdego pieniężnego wkładu na udział została wpłacona. Art. 5 ustęp 1. Kapitał zakładowy spółki z ograniczoną odpowiedzialnością winien wynosić najmniej sumę marek polskich, odpowiadającą równowartości 2.000 złotych franków i dzielić się na równe udziały przynajmniej w kwocie marek polskich, odpowiadającej równowartości 20 franków złotych. Art. 5 ustęp 2 wykreśla się. Art. 5 ustęp 3. Udziały mogą być wpłacane za zgodą wszystkich spólników zamiast w pieniądzach w wyraźnie określonych i oszacowanych rzeczach innych, zarówno zmysłowych, jak i niezmysłowych. Wpłata podobnego udziału musi być dokonana przed zarejestrowaniem spółki, względnie przed zarejestrowaniem podwyższenia jej kapitału. Art. 6 ustęp 1. Do zbycia lub zastawu udziału, jakoteż do przyrzeczenia zbycia lub zastawu potrzebny jest akt urzędowy; ponadto może być zastrzeżone, że do zbycia lub zastawu osobom poza spółką potrzeba uczynienia zadość pewnym warunkom. Gdyby zbycie lub zastaw uwarunkowane były zgodą organów spółki lub spólników i zgody takiej odmówiono, może sędzia rejestrowy udzielić zezwolenia, jeżeli zachodzą ważne ku temu powody, jednak o tyle, o ile spółka w terminie wyznaczonym nie przedstawi innego nabywcy. Art. 9. Dodaje się do ustępu 3: „Co do zarządców, ustanowionych w umowie spółki (statucie), można zastrzec, że będą usuwalni tylko dla ważnej przyczyny”. Art. 11 w ustępie 2. Wyraz miljon zmienia się na sumę marek polskich, odpowiadającą równowartości 20.000 franków złotych. Art. 14 koniec ustępu 2 zmienia się na: „przynajmniej dni 14”. Art. 15 ustęp 2 otrzymuje brzmienie: „Pełnomocnik musi złożyć pisemne pełnomocnictwo”. Art. 17 ustęp 3. Uchwały w przedmiocie wszelkich zmian umowy spółki, w szczególności w przedmiocie podwyższenia i obniżenia kapitału zakładowego, przedłużenia terminu do wpłaty udziału, oraz w przedmiocie rozwiązania spółki - zapadają głosami spólników, reprezentujących przynajmniej 3/4 głosów. Art. 17 ustęp 4. Zobowiązanie spólnika do świadczeń ponad pierwotną umowę może nastąpić tylko za zgodą piśmienną. Art. 19 ustęp 1 punkt 2: żądać w ciągu 2 miesięcy od powzięcia uchwały, co do której w ciągu 7 dni zgłosili sprzeciw listem poleconym, jej unieważnienia w drodze powództwa. Sąd okręgowy lub sędzia rejestrowy uwzględni żądania powyższe, jeśli zachodzą słuszne i uzasadnione ku temu powody."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Artykuł 2 dekretu o rejestrze handlowym (Dz. Pr. P. P. № 14, poz. 164) otrzymuje w punkcie liczba 9 brzmienie następujące: „ w odniesieniu do spółek z ograniczoną odpowiedzialnością imiona i nazwiska członków zarządu, względnie rady nadzorczej, wysokość kapitału zakładowego, wysokość kapitału w gotowiżnie i wkładach niepieniężnych, uchwały w przedmiocie podwyższenia i obniżenia kapitału zakładowego, wysokość udziałów i sposób ich wpłaty, terminy wpłaty, wysokość i terminy dokonanych wypłat na kapitał zakładowy, sprzeciw wierzycieli, gdy jest dopuszczalny, oraz zmiana tych danych; przepis ten stosuje się analogicznie do stowarzyszeń i związków uznanych za handlowe ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza obowiązuje na obszarze całego b. zaboru rosyjskiego i zyskuje moc obowiązującą w przeciągu 10 dni od daty jej ogłoszenia. Jednocześnie rozciąga się na Ziemię Wileńską oraz na województwa: nowogródzkie, poleskie, wołyńskie i powiaty: białostocki, bielski, sokólski, grodzieński i wołkowyski województwa białostockiego - moc obowiązującą dekretu z dnia 6 lutego 1919 r. o spółkach z ograniczoną odpowiedzialnością (Dz. Pr. P. P. № 15 poz. 201) wraz z wydanemi w jego rozwinięciu i uzupełnieniu postanowieniami i rozporządzeniami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom: Sprawiedliwości, Przemysłu i Handlu oraz Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

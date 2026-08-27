@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2015-653",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 kwietnia 2015 r. o zmianie ustawy o płatnościach w ramach systemów wsparcia bezpośredniego",
+  "title_en": "",
+  "short_name": "pl-du-2015-653",
+  "status": "repealed",
+  "issued_date": "2015-04-24",
+  "in_force_date": "2015-05-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/653",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 lutego 2015 r. o płatnościach w ramach systemów wsparcia bezpośredniego ( Dz. U. poz. 308 ) wprowadza się następujące zmiany: 1) w art. 16: a) w ust. 2: - w pkt 1 lit. a otrzymuje brzmienie: „ a) posiada samice lub samce tego gatunku: - których wiek w dniu 15 maja roku, w którym został złożony wniosek o przyznanie tej płatności, nie przekracza 24 miesięcy, - przez okres 30 dni od dnia złożenia wniosku o przyznanie tej płatności, ” , - w pkt 2 lit. a otrzymuje brzmienie: „ a) posiada samice tego gatunku: - których wiek w dniu 15 maja roku, w którym został złożony wniosek o przyznanie tej płatności, przekracza 24 miesiące, - przez okres 30 dni od dnia złożenia wniosku o przyznanie tej płatności, ” , b) w ust. 5 pkt 1 otrzymuje brzmienie: „ 1) posiada samice danego gatunku: a) których wiek w dniu 15 maja roku, w którym został złożony wniosek o przyznanie danej płatności, wynosi co najmniej 12 miesięcy, b) przez okres: - od dnia 20 października do dnia 20 listopada roku, w którym został złożony wniosek o przyznanie tej płatności, oraz w dniu złożenia tego wniosku - w przypadku owiec, - 30 dni od dnia złożenia wniosku o przyznanie danej płatności - w przypadku kóz; ” , c) po ust. 5 dodaje się ust. 5a w brzmieniu: „ 5a. W przypadku gdy dane zwierzę z gatunku bydło domowe lub koza domowa zostało objęte więcej niż jednym wnioskiem o przyznanie płatności związanej do zwierząt, płatność tę przyznaje się temu rolnikowi, który złożył jako pierwszy wniosek o przyznanie tej płatności do tego zwierzęcia i są spełnione pozostałe warunki przyznania tej płatności. ” ; 2) w art. 56 ust. 3 i 4 otrzymują brzmienie: „ 3. Wniosek o uznanie za rolnika uczestniczącego w systemie dla małych gospodarstw, o którym mowa w ust. 2, składa się do dnia 10 lipca 2015 r., składając wniosek o przyznanie płatności bezpośrednich albo składając odrębny wniosek do kierownika biura powiatowego Agencji, o którym mowa w art. 5, na formularzu opracowanym i udostępnionym przez Agencję. 4. W 2015 r. rolnik uczestniczący w systemie dla małych gospodarstw może wystąpić z tego systemu, składając oświadczenie o wystąpieniu z tego systemu w terminie do dnia 10 lipca tego roku. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W 2015 r. wniosek o przyznanie płatności bezpośrednich i płatności niezwiązanej do tytoniu składa się w terminie do dnia 15 czerwca."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jeżeli okres posiadania zwierzęcia, o którym mowa w art. 16 ust. 2 pkt 1 lit. a tiret drugie, pkt 2 lit. a tiret drugie oraz ust. 5 pkt 1 lit. b tiret drugie ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, upłynął przed dniem wejścia w życie niniejszej ustawy, warunek posiadania zwierzęcia przez ten okres uznaje się za spełniony."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem 15 maja 2015 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

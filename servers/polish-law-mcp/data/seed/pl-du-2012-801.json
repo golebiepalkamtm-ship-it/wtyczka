@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2012-801",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 maja 2012 r. o ratyfikacji Protokołu w sprawie rejestrów uwalniania i transferu zanieczyszczeń do Konwencji o dostępie do informacji, udziale społeczeństwa w podejmowaniu decyzji oraz dostępie do sprawiedliwości w sprawach dotyczących środowiska, sporządzonego w Kijowie dnia 21 maja 2003 r.",
+  "title_en": "",
+  "short_name": "pl-du-2012-801",
+  "status": "in_force",
+  "issued_date": "2012-05-25",
+  "in_force_date": "2012-07-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/801",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protokołu w sprawie rejestrów uwalniania i transferu zanieczyszczeń do Konwencji o dostępie do informacji, udziale społeczeństwa w podejmowaniu decyzji oraz dostępie do sprawiedliwości w sprawach dotyczących środowiska, sporządzonego w Kijowie dnia 21 maja 2003 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

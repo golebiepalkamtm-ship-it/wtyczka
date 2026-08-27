@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2006-1835",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 grudnia 2006 r. o zmianie ustawy o restrukturyzacji górnictwa węgla kamiennego w latach 2003-2006",
+  "title_en": "",
+  "short_name": "pl-du-2006-1835",
+  "status": "repealed",
+  "issued_date": "2006-12-15",
+  "in_force_date": "2006-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1835",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o restrukturyzacji górnictwa węgla kamiennego w latach 2003-2006 ( Dz. U. Nr 210, poz. 2037 oraz z 2005 r. Nr 150, poz. 1250 ) wprowadza się następujące zmiany: 1) w art. 28 ust. 1 otrzymuje brzmienie: „ 1. Kompetencje ministra właściwego do spraw Skarbu Państwa określone w art. 2 pkt 5 i 6 oraz w art. 18 ust. 1 ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa ( Dz. U. Nr 106, poz. 493 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538 oraz z 2006 r. Nr 107, poz. 721. ) w odniesieniu do przedsiębiorstw górniczych, z wyjątkiem Lubelskiego Węgla „Bogdanka” S.A., a także w odniesieniu do „Węglokoks” S.A. w Katowicach i „Węglozbyt” S.A. w Katowicach, wykonuje do dnia 31 grudnia 2007 r. minister właściwy do spraw gospodarki. ” ; 2) w art. 34 w ust. 1: a) pkt 1 otrzymuje brzmienie: „ 1) do dnia 31 grudnia 2007 r. - zadań dotyczących likwidacji kopalń oraz zadań wykonywanych po zakończeniu likwidacji kopalń; ” , b) w pkt 6 lit. b i c otrzymują brzmienie: „ b) do dnia 31 grudnia 2007 r. - rent wyrównawczych przysługujących od kopalń całkowicie likwidowanych, c) do dnia 31 grudnia 2007 r. - deputatów węglowych dla emerytów i rencistów z kopalń całkowicie likwidowanych, ” ; 3) w art. 51 w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) udowodnił okres pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy oraz pobierał rentę z tytułu niezdolności do pracy w związku z wypadkiem lub chorobą zawodową łącznie przez 15 lat, w tym posiadał 5 lat pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy, albo ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy art. 20, 23 i 27 ustawy, o której mowa w art. 1, zachowują moc do dnia 31 grudnia 2007 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepis art. 51 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do wniosków o emerytury górnicze złożonych do dnia 31 grudnia 2007 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 106, poz. 673, Nr 115, poz. 741 i Nr 141, poz. 943, z 1998 r. Nr 155, poz. 1014, z 2000 r. Nr 48, poz. 550, z 2001 r. Nr 4, poz. 26, z 2002 r. Nr 25, poz. 253 i Nr 240, poz. 2055, z 2004 r. Nr 99, poz. 1001, Nr 123, poz. 1291 i Nr 273, poz. 2703, z 2005 r. Nr 169, poz. 1417 i Nr 183, poz. 1538 oraz z 2006 r. Nr 107, poz. 721. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

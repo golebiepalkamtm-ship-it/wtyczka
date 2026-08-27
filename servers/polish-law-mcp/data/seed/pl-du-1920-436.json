@@ -1,0 +1,194 @@
+{
+  "id": "pl-du-1920-436",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 lipca 1920 r. o uposażeniu sędziów i prokuratorów (wymiar sprawiedliwości) Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-436",
+  "status": "in_force",
+  "issued_date": "1920-07-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/436",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "System hierarchiczny, wedle którego ugrupowani są urzędnicy państwowi i urządzone jest ich uposażenie, nie ma zastosowania do sędziów prokuratorów i kandydatów na stanowiska sędziowskie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sędziowie i prokuratorzy, z wyłączeniem sędziów pokoju nie prawników i pełniących swe czynności ubocznie nie zawodowych sędziów pokoju, podzieleni są pod względem uposażenia na cztery grupy: Do I grupy należą: sędziowie pokoju, sędziowie śledczy (w b. dzielnicy rosyjskiej i austrjackiej), sędziowie powiatowi (w b. dzielnicy austrjackiej i pruskiej), sędziowie zapasowi (w b. dzielnicy austrjackiej), naczelnicy sądów powiatowych (w b. dzielnicy austrjackiej i pruskiej), prezesi sądów powiatowych (w b. dzielnicy pruskiej), podprokuratorzy przy sądach okręgowych. Do II grupy należą: prezesi, wiceprezesi i sędziowie sądów okręgowych, dyrektorowie przy sądach okręgowych (w b. dzielnicy pruskiej), prokuratorzy przy sądach okręgowych, podprokuratorzy przy sądach apelacyjnych. Do grupy III na;eżą: prezesi, wiceprezesi i sędziowie sądów apelacyjnych, prezesi senatów przy sądach apelacyjnych (w b. dzielnicy pruskiej), prokuratorzy przy sądach apelacyjnych, zastępcy prokuratorów przy sądach apelacyjnych (w b. dzielnicy pruskiej), podprokuratorzy przy Sądzie Najwyższym. Do IV grupy należą: pierwszy prezes, prezesi i sędziowie Sądu Najwyższego, pierwszy prokurator i prokuratorzy przy Sądzie Najwyższym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Uposażenie sędziów i prokuratorów, podzielonych na powyższe cztery grupy, składa się: a) z płacy zasadniczej, b) z dodatków starszeństwa, c) z dodatków drożyźnianych. d) z dodatków za kierownictwo."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Płaca zasadnicza wynosi we wszystkich czterech, w Art. 2 oznaczonych grupach - 2400 marek miesięcznie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Dodatki starszeństwa wynoszą miesięcznie: w grupie I: po upływie 3 lat służby 300 mk. ,, ,, 6 ,, ,, 600 ,, ,, ,, 9 ,, ,, 900 ,, w grupie II: w pierwszych 3 latach służby 1200 ,, po upływie 3 lat służby 1500 ,, ,, ,, 6 ,, ,, 1800 ,, ,, ,, 9 ,, ,, 2100 ,, ,, ,, 12 ,, ,, 2400 ,, w grupie III: w pierwszych 3 latach służby 2700 ,, po upływie 3 lat służby 3000 ,, ,, ,, 6 ,, ,, 3300 ,, ,, ,, 9 ,, ,, 3600 ,, ,, ,, 12 ,, ,, 3900 ,, w grupie IV: w pierwszych 3 latach służby 4200 ,, po upływie 3 lat służby 4500 ,, ,, ,, 6 ,, ,, 4800 ,, ,, ,, 9 ,, ,, 5100 ,, Każdy następny dodatek starszeństwa mieści już w sobie dodatek poprzedni, jak to wykazuje załączona tabela."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Sędziom i prokuratorom grupy I, którzyby po upływie 12 lat służby w tej grupie nie zostali przeniesieni do grupy II, należą się dalsze cztery do grupy II przywiązane dodatki starszeństwa, a mianowicie: po upływie 12 lat służby 1200 mk. ,, ,, 15 ,, ,, 1500 ,, ,, ,, 18 ,, ,, 1800 ,, ,, ,, 21 ,, ,, 2100 ,, Sędziom i prokuratorom grupy II, którzyby po upływie 15 lat służby w tej grupie nie zostali przeniesieni do grupy III, należą się dalsze trzy do grupy III przywiązane dodatki starszeństwa, a mianowicie: po upływie 15 lat służby 2700 mk. ,, ,, 18 ,, ,, 3000 ,, ,, ,, 21 ,, ,, 3300 ,, Sędziom i prokuratorom grupy III, którzyby po upływie 15 lat służby w tej grupie nie zostali przeniesieni do grupy IV, należy się dalszy jeden do grupy IV przywiązany dodatek starszeństwa, a mianowicie 4200 marek"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Sędzia i prokurator, który w myśl art. 6 otrzymał już dodatek starszeństwa, przekraczający normy odnośnej grupy, wymienione w art. 5, a następnie przeniesiony został do grupy wyższej, otrzymuje do końca rozpoczętego w grupie niższej trzechlecia taki dodatek starszeństwa, jaki otrzymywał w chwili przeniesienia, a w następnem trzechleciu dodatek bezpośrednio wyższy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Sędzia i prokurator, przeniesiony z grupy wyższej do niższej, zatrzymuje uzyskany w grupie wyższej dodatek starszeństwa oraz prawo do uzyskania dodatków starszeństwa w tej wyższej grupie wedle przepisów art. 5 i 6."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Sędzia i prokurator, delegowany czasowo z grupy niższej do wyższej w celu spełniania czynności zastępczo lub w charakterze pomocniczym, zatrzymuje przynależność do grupy niższej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych, sędzia i prokurator pobiera dodatek drożyźniany do płacy zasadniczej zależnie od stosunków rodzinnych i miejscowości, w której pełni służbę stale. Pod względem stosunków rodzinnych, dzielili się sędziów i prokuratorów na cztery grupy: Do pierwszej grupy należą samotni, do drugiej, utrzymujący jednego lub dwuch członków rodziny (mała rodzina), do trzeciej, utrzymujący do czterech członków rodziny (średnia rodzina), do czwartej, utrzymujący więcej niż czterech członków rodziny (duża rodzina). Przy zaliczaniu do grup uwzględnia się będących na utrzymaniu sędziego (prokuratora): a) żonę, b) ślubne i uprawnione dzieci tudzież pasierbów do ukończonych lat 18, a o ile uczęszczają do szkół publicznych lub wskutek ułomności fizycznych albo umysłowych nie mogą na swoje utrzymanie zarabiać - do ukończonych lat 24. W wypadkach ułomności fizycznej lub umysłowej Minister Sprawiedliwości może w drodze wyjątku uwzlędnić dzieci w wieku ponad 24 lata. Jeżeli żona sędziego (prokuratora) pozostaje w służbie państwowej, nie uwzględnia się żony przy wymiarze dodatku drożyźnianego dla męża. Dzieci (pasierbów), które zawarły związki małżeńskie lub które same się utrzymują, jakoteż pasierbów, posiadających własne zaopatrzenie - nie uwzględnia się przy wymiarze dodatku drożyźnianego. Dodatek drożyźniany wymierza się w markach polskich przez pomnożenie dwuch liczb. Jednym współczynnikiem tego mnożenia (mnożna) jest liczba jednakowa dla wszystkich czterech w art. 2 określonych grup, różna jednak dla wymienionych wyżej czterech grup rodzinnych, a mianowicie: dla samotnych liczba 23, dla małej rodziny liczba 27, dla średniej rodziny liczba 30, a dla dużej rodziny liczba 33. Drugim współczynnikiem tego mnożenia (mnożnik) jest liczba jednakowa dla wszystkich w art. 2 określonych grup i dla wspomnianych wyżej czterech grup rodzinnych, różna jednak dla poszczególnych miejscowości, które podzielone być mają na klasy. W chwili wejścia w życie niniejszej ustawy obowiązywać będzie dla najwyższej klasy miejscowości mnożnik 150. Podziału miejscowości na klasy dokona Rada Ministrów na wniosek Ministra Skarbu, biorąc pod uwagą różnicę warunków ekonomicznych, z zastrzeżeniem jednak, że kwota dodatku drożyźnianego dla miejscowości, zaliczonej do klasy najniższej, nie może się różnić od kwoty dodatku drożyźnianego dla miejscowości, zaliczonej do klasy najwyższej, o więcej aniżeli 40%. W zależności od zmiany warunków ekonomicznych w poszczególnych miejscowościach, Rada Ministrów na wniosek Ministra Skarbu podwyższać lub obniżać będzie mnożnik i zarządzać będzie zmiany w zaliczeniu miejscowości do poszczególnych klas. Mnożnik dodatku drożyźnianego i podział miejscowości na klasy będą te same, co dla urzędników państwowych."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Sędziowie i prokuratorzy, sprawujący czynności kierownicze, otrzymują dodatki za kierownictwo w stosunku procentowym do sumy: płacy zasadniczej, dodatku starszeństwa i dodatku drożyźnianego, a mianowicie: a) pierwszy prezes Sądu Najwyższego 30%, b) prezesi (sądów apelacyjnych, prezesi sądów okręgowych i wiceprezesi sądów okręgowych w Krakowie i Lwowie, będący kierownikami sądów okręgowych karnych 25%. c) prezesi Sądu Najwyższego, prezesi sądów powiatowych, naczelnicy i stali kierownicy sądów powiatowych, jeżeli w sądzie powiatowym pełni służbę, wliczając naczelnika (kierownika), więcej niż 15 sędziów i pierwszy prokurator przy Sądzie Najwyższym 20% d) wiceprezesi sądów apelacyjnych, prezesi senatów przy sądach apelacyjnych (w b. dzielnicy pruskiej), wiceprezesi sądów okręgowych, dyrektorowie przy sądach okresowych (w b. dzielnicy pruskiej), naczelnicy i stali kierownicy sądów powiatowych, jeżeli w sądzie pełni służbę, wliczając naczelnika (kierownika), najmniej 5, a najwięcej 15 sędziów, prokuratorzy przy sądach apelacyjnych i prokuratorzy przy sądach okręgowych 15%, e) naczelnicy i stali kierownicy sądów powiatowych, jeżeli w sądzie pełni służbę, wliczając naczelnika (kierownika), mniej niż 5 sędziów i zastępcy prokuratorów przy radach apelacyjnych (w b. dzielnicy pruskiej) 10%."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Suma płacy zasadniczej, dodatku starszeństwa (dodatku drożyźnianego i dodatku za kierownictwo sędziego lub prokuratora, który przeniesiony został z grupy wyższej do niższej, nie może przewyższać sumy: płacy zasadniczej, najwyższego dodatku starszeństwa, jaki w tej grupie niższej może być osiągnięty, dodatku drożyźnianego i dodatku za kierownictwo. W danym wypadku nastąpić powinno stosowne zmniejszenie, a ewentualnie całkowite odjęcie dodatku za kierownictwo,"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Sędziowie i prokuratorzy, którym powierzono kierownictwo przejściowo w czasie nieobecności właściwego kierownika, mają prawo, o ile sprawują te czynności przynajmniej przez jeden miesiąc, do dodatku za kierownictwo na czas sprawowania czynności kierowniczych. Wiceprezesi pobierają w wyżej określonych warunkach dodatek prezesowski w czasie, w którym zastępują prezesów. Postanowienia powyższe nie stosują się do czasu zwykłych urlopów"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Zawodowi sędziowie pokoju nieprawnicy w b. dzielnicy rosyjskiej otrzymują trzy czwarte części uposażenia, ustanowionego dla grupy Z tem ograniczeniem stosują się do nich przepisy art. 4, 5, 6 i 10."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Niezawodowi sędziowie pokoju w b. dzielnicy rosyjskiej i pruskiej, pełniący swe czynności ubocznie, sprawują swe obowiązki honorowo. Normy ryczałtowego zwrotu kosztów i odszkodowania za stratę czasu ustanowi dla b. dzielnicy rosyjskiej Minister Sprawiedliwości w porozumieniu z Ministrem Skarbu, a dla b. dzielnicy pruskiej Minister b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Aplikanci bez egzaminu na sędziego otrzymują uposażenie: w pierwszym roku w wysokości 600 mk. miesięcznie; a po upływie roku 1000. mk. miesięcznie. Nadto pobierać będą przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych, dodatek drożyźniany, którego podstawą są następujące mnożne, dostosowane do wspomnianych w art. 10 czterech grup rodzinnych, a mianowicie: a) dla aplikantów z uposażeniem 600 mk: dla samotnych 10, dla małej rodziny 14, dla średniej rodziny 17, dla dużej rodziny 20. b) dla aplikantów z uposażeniem 1000 mk.: dla samotnych 14, dla małej rodziny 18, dla średniej rodziny 21. dla dużej rodziny 24. Dodatek ten oblicza się zresztą wedle przepisów art. 10. Aplikanci, którzy złożyli egzamin na sędziego, i asesorowie (w b. dzielnicy pruskiej) otrzymują uposarzenie w wysokości trzech czwartych części zasadniczej płacy, określonej w art. 4, a nadto przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych - dodatek drożyźniany, którego podstawą są następujące mnożne, dostosowane do wspomnianych w art. 10 czterech grup, rodzinnych, a mianowicie: dla samotnych 18, dla małej rodziny 22, dla średniej rodziny 25, dla dużej rodziny 28. Dodatek ten oblicza się zresztą wedle przepisów art. 10."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Jeżeli sędzia lub prokurator otrzymuje mieszkanie w naturze, wartość tego mieszkania potrąca się z uposażenia."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Sędzia (z wyjątkiem niezawodowych sędziów pokoju w b. dzielnicy rosyjskiej, pełniących swe czynności ubocznie) i prokurator otrzymywać mogą ze skarbu państwa tylko jedno stałe uposażenie służbowe. Mogą jednak za spełnianie pewnych czynności, właściwych innym urzędom państwowym, otrzymywać dodatkowe wynagrodzenie, którego wysokość ustala właściwa władza centralna w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Prawo do otrzymywania uposażenia rozpoczyna się: a) dla wstępujących do sądownictwa, czy to po raz pierwszy, czy to ponownie, o ile istotne objęcie służby nastąpiło najpóźniej 15 dnia miesiąca kalendarzowego- od 1 dnia tegoż miesiąca, a o ile po 15 dniu miesiąca kalendarzowego-od 15 dnia tegoż miesiąca kalendarzowego, b) w pozostałych wypadkach zaś z dniem pierwsym najbliższego kalendarzowego miesiąca po dniu mianowania na nowe stanowisko, względnie po powstaniu warunków, uzasadniających zmianę w wymiarze uposażenia. Atoli w razie takiej zmiany miejsca służbowego, która pociąga za sobą zmianę w wysokości uposażenia, przysługuje sędziemu, prokuratorowi i kandydatowi na stanowisko sędziowskie, prawo do uposażenia, odpowiadającego nowemu miejscu służbowemu, od pierwszego dnia kalendarzowego miesiąca, następującego po uwolnieniu go od poprzednich obowiązków służbowych. W razie śmierci sędziego, prokuratora, lub kandydata na stanowisko sędziowskiej wstrzymuje się wypłatę uposażenia, z ostatnim dniem kalendarzowego miesiąca, w którym śmierć nastąpiła, a w razie rozwiązania stosunku służbowego w inny sposób, z ostatnim dniem tego kalendarzowego miesiąca, w którym stosunek ten rzeczywiście ustał."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Uposażenie wypłaca się sędziemu, prokuratorowi i kandydatowi na stanowiska sędziowskie w ratach miesięcznych zgóry, w pierwszym dniu każdego miesiąca. O ile pierwszy dzień miesiąca jest niedzielą lub świętem uroszystem, wypłata uposażenia następuje w ostatnim dniu poprzedniego miesiąca."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Normy wszelkich należności niestałych i ubocznych, jak: djety, ryczałty rozjazdowe, koszty podróży, koszty przesiedlenia i t. p. określi rozporządzenie Rady Ministrów. Rozdział II. Przepisy przejściowe."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Sędziom i prokuratorom, którzy będą już w czynnej służbie w chwili wejścia w życie niniejszej ustawy, a którzy w czasie przed przyjęciem do służby sądowej polskiej pozostawali w służbie państwowej rosyjskiej, austrjackiej lub niemieckiej, albo w zawodzie adwokackim lub notarjalnym, liczy się w celu oznaczenia dodatku starszeństwa w grupie, do jakiej powinni być wedle niniejszej ustawy zaliczeni (art. 2, 14, 26 i 27): 1) czas, spędzony w służbie sądowej polskiej - a to w b. dzielnicy rosyjskiej najwcześniej od 1 września 1917 r., w b. dzielnicy austrjackiej najwcześniej od 1 listopada 1918 r., a w b. dzielnicy pruskiej najwcześniej od 1 stycznia 1919 r. - na stanowisku, odpowiadającem tej samej grupie, w całości; 2) czas, spędzony: a) w jakiejkolwiek służbie państwowej polskiej, b) w niepodległościowych formacjach wojskowych polskich-a to najwcześniej od chwili wybuchu wojny światowej - na obszarach Polski i zagranicą, c) w sądownictwie (wymiar i zarząd sprawiedliwości), cywilnem, admini-strjacyjnem lub wojskowem rosyjskiem, austrjackiem lub niemieckiem, d) w adwokaturze, notarjacie, rosyjskiej Prokuratorji Królestwa Polskiego, albo austrjackiej Prokuratorji Skarbu, e) w szczególności członkom izby IV Najwyższego Sądu (Trybunał Administracyjny) także czas, spędzony w służbie administracyjnej austrjackiej, rosyjskiej i niemieckiej-a mianowicie: w grupie I - w dwuch trzecich częściach, ,, II - ,, szóstych częściach, ,, III- ,, dwunastych częściach, ,, IV- ,, dwudziestych czwartych częściach. Przy obliczaniu służby (pracy zawodowej) poprzedniej uwzględnia się również czas, spędzony w charakterze aplikanta (auskultanta, praktykanta sądowego, kandydata do posad sądowych), referendarjusza oraz kandydata adwokackiego (pomocnika adwokata przysięgłego) i notarjalnego. Czasu pełnienia normalnej powszechnej powinności wojskowej nie uwzględnia się przy obliczaniu czasu poprzedniej służby (pracy zawodowej). Inną służbę wojskową policzą się tylko wówczas, gdy sędzia (prokurator) nie spełniał jej równocześnie z państwową służbą cywiną (pracą zawodową). W wypadkach urlopu bez uposażenia, odliczenia pewnego czasu orzeczeniem dyscyplinarnem, pełnienia dobrowolnej służby wojskowej, zawieszenia w urzędowaniu, zakończonego prawomocnem skazaniem w drodze dyscyplinarnej, nie uwzględnia się odnośnego czasokresu przy obliczaniu czasu poprzedniej służby. Podstawę obliczenia stanowi cały w rachubę wchodzący czas (lata, miesiące, dni). Przerwy w czasie, który powinien być policzony, nie stanowią przeszkody do policzenia poszczególnych okresów. Z czasu, który będzie wynikiem obliczenia, dokonanego według zasad artykułu niniejszego, skreśla się niepełne miesiące."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Te same zasady (art. 22) mają zastosowanie do sędziów i prokuratorów, którzy przyjęci zostaną do służby po wejściu w życie ustawy niniejszej, atoli w oznaczonym osobną ustawą okresie organizacji jednolitego sądownictwa polskiego."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Aż do czasu wejścia w życie ustawy o służbie sędziowskiej i prokuratorskiej zawieszenie sędziego lub prokuratora w urzędowaniu wstrzymuje przyznanie mu dalszych dodatków starszeństwa. Przyznanie tych dalszych dodatków może jednak nastąpić jeszcze przed wejściem w życie wspomnianej ustawy, jeżeli sędziego (prokuratora) prawomocnem orzeczeniem sądu dyscyplinarnego w zupełności uniewinniono."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Przepisy art. 3, 4, 5, 6, 10 i 11 stosują się do sędziów, prawników i prokuratorów, którzy za mianowani zostaną po wejściu w życie niniejszej ustawy, tylko o tyle, o ile będą mieli za sobą conajmniej pięcioletnią służbę lub pracę zawodową (art. 22). Ten pięcioletni okres liczyć należy, uwzględniając cały czas służby (pracy zawodowej), nie zaś tylko w ułamkach. Sędziowie, prawnicy i prokuratorowie, którzy zamianowani będą po dniu wejścia w życie niniejszej ustawy, a którzy najmniej pięcioletniej służby lub pracy zawodowej jeszcze nie ukończyli, pobierać będą aż do ukończenia rzeczonego pięcioletniego okresu uposażenie, ustanowione w art. 16 dla egzaminowanych aplikantów (asesorów)."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Sędziów śledczych w b. dzielnicy austrjackiej, sędziów powiatowych, sędziów pokoju prawników i podprokuratorów przy sądach okręgowych, w b. dzielnicy rosyjskiej, którzy będą na tych stanowiskach w dniu wejścia w życie ustawy niniejszej lub obejmą je w czasie, w art. 23 wspomnianym, zalicza się do grupy II po upływie 12' lat służby lub pracy zawodowej (art. 22, liczonych w całości, nie zaś tylko w ułamkach. Sędziów śledczych w byłej dzielnicy rosyjskiej i podprokuratorów przy sądach okręgowych w b. dzielnicy austrjackiej i pruskiej, którzy będą na tych stanowiskach w chwili wejścia w życie ustawy niniejszej lub obejmą je w czasie, w Art. 23 wspomnianym, zalicza się do grupy II po upływie 6 lat służby lub pracy zawodowej (art. 22), liczonych w całości, nie zaś tylko w ułamkach, w tem co najmniej 3 lat służby na stanowisku sędziego śledczego (w b. dzielnicy rosyjskiej) względnie podprokuratora przy sądzie okręgowym (w byłej dzielnicy austrjackiej i pruskiej)."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Sędziów i prokuratorów (w b. dzielnicy austrjackiej) w VII klasie rangi i tych, którzy usyskali już uposażenie tej klasy rangi drogą automatycznego awansu, oraz naczelników sądów powiatowych VI klasy rangi i podprokuratorów VI klasy rangi, a w b. dzielnicy pruskiej sędziów powiatowych, którzy w chwili wejścia w życie ustawy niniejszej posiadać już będą VI klasę płacy, zalicza się do grupy II, zaś tych asesorów, którzy przed swem mianowaniem w tym charakterze zajmowali już w innych dzielnicach Polski stanowiska sędziowskie - do grupy I. Upoważnia się Ministra Sprawiedliwości, ażeby w porozumieniu z Ministrem Skarbu zaliczył w b. dzielnicy rosyjskiej i austrjackiej tych sędziów i prokuratorów, którzy w chwili wejścia w życie ustawy niniejszej posiadać będą uposażenie conajmniej III kategorji płacy, względnie klasy rangi, nadto w b. dzielnicy austrjackiej tych sędziów i prokuratorów, którzy w chwili wejścia w życie ustawy niniejszej posiadać będą V lub VI klasę rangi, do grupy wyższej niż ta, do której powinniby być zaliczeni wedle art. 2 ustawy niniejszej, zaś Ministra b. Dzielnicy Pruskiej upoważnia się, ażeby zaliczył tych sędziów i prokuratorów, którzy w chwili wejścia w życie ustawy niniejszej posiadać będą w b. dzielnicy pruskiej VI klasę płacy albo posiadali już poprzednio w b. dzielnicy austrjackiej VI klasę rangi-do grupy wyższej niż ta, do której powinniby być zaliczeni wedle art. 2 ustawy niniejszej,"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Ustanowieni przejściowo w b. dzielnicy pruskiej sędziowie śledczy przy sądach okręgowych i podprokuratorzy pomocniczy przy sądach okręgowych otrzymują dwie trzecie części ustanowionej w art. 4 płacy zasadniczej, a nadto dwie trzecie części dodatku drożyźnianego, obliczanego wedle postanowień art. 10."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Wszelkie z ustawy niniejszej wypływające prawa sędziów prokuratorów i kandydatów na stanowiska sędziowskie będą zrealizowane z mocą od dnia 1 lipca 1920 r. Z dniem 1 lipca 1920 r. tracą moc obowiązującą wszystkie ustawy i przepisy w przedmiocie, objętym ustawą niniejszą. Wypłaty, dokonane w ciągu marca, kwietnia, maja i czerwca 1990 r. ponad ustawowe uposażenie uważa się za bezzwrotny dodatek regulacyjny po dzień 30 czerwca 1920 r."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Wykonanie ustawy niniejszej powierza się Prezydentowi Ministrów i Ministrowi Skarbu oraz Ministrowi Sprawiedliwości, a o ile chodzi o b. dzielnicę pruską, także Ministrowi b. Dzielnicy Pruskiej. Załącznik - Tabela graficzna 52 2.400 + 5.100 = 7.500 51 50 49 2.400 + 4.800 = 7.200 48 47 } IV grupa 45 2.400 + 4.500 = 6.900 45 44 43 16 2.400 + 4.200 = 6.600 42 15 41 14 40 13 2.400 + 3.900 = 6.300 39 12 38 11,00 37 10 2.400 + 3.600 = 6.000 36 9 35 8 } III grupa 34 22 7 2.400 + 3.300 = 5.700 33 21 6 32 20 5 31 19 4 2.400 + 3.000 = 5.400 30 18 3 29 17 2 28 16 1 2.400 + 2.700 = 5.100 27 15 26 14 25 13 2.400 + 2.400 = 4.800 24 12 23 11 22 10 22 2400 + 2.100 = 4300 21 9 21 } II grupa 20 8 20 19 7 19 2.400 + 1.800 = 4.200 18 6 18 17 5 17 16 4 16 2.400 + 1.500 = 3.900 15 3 15 14 2 14 13 1 13 2.400 + 1.200 = 3.600 12 12 11 11 10 10 2.400 + 900 = 3.300 9 9 8 8 7 7 2.400 + 600 = 3.000 } I grupa 6 6 5 5 4 4 2.400 + 300 = 2700 3 3 2 2 1 1 2.400 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_I\",\"symbol\": \"chpt_I\",\"type\": \"chpt\",\"name\": \"I\",\"title\": \"Rozdział I.\",\"children\": [{\"id\": \"chpt_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_I-arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_I-arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_I-arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_I-arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"chpt_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_I-arti_11-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_I-arti_11-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_I-arti_11-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_I-arti_11-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_I-arti_11-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"chpt_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_I-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_I-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_I-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_I-arti_16-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_I-arti_16-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_I-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_I-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_I-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_I-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"chpt_I-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"}]},{\"id\": \"chpt_II\",\"symbol\": \"chpt_II\",\"type\": \"chpt\",\"name\": \"II\",\"title\": \"Rozdział II. - Przepisy przejściowe.\",\"children\": [{\"id\": \"chpt_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_II-arti_22-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_II-arti_22-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_II-arti_22-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_II-arti_22-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_II-arti_22-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_II-arti_22-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_II-arti_22-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]}]},{\"id\": \"chpt_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"chpt_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_II-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_II-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_II-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_II-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"chpt_II-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"}]} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tabela graficzna\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

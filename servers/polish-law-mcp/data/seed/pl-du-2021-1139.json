@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2021-1139",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o przekształceniach własnościowych w przemyśle cukrowniczym",
+  "title_en": "",
+  "short_name": "pl-du-2021-1139",
+  "status": "amended",
+  "issued_date": "2021-05-20",
+  "in_force_date": "2021-06-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1139",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 sierpnia 1994 r. o przekształceniach własnościowych w przemyśle cukrowniczym ( Dz. U. poz. 473 , z 1996 r. poz. 724 , z 1997 r. poz. 770 , z 2001 r. poz. 810 , z 2004 r. poz. 386 oraz z 2005 r. poz. 1539 ) w art. 11b ust. 4 otrzymuje brzmienie: „ 4. Akcje nabyte w trybie określonym w przepisach wydanych na podstawie ust. 2 lub akcje bez wyłączonego prawa głosu mogą być zbywane wyłącznie innym plantatorom buraków cukrowych związanych umowami kontraktacji buraków cukrowych z Krajową Spółką Cukrową i pracownikom Krajowej Spółki Cukrowej albo mogą być nabyte przez Krajową Spółkę Cukrową w celu umorzenia. Akcje nowych emisji Krajowej Spółki Cukrowej mogą obejmować wyłącznie Skarb Państwa, plantatorzy buraków cukrowych związani umowami kontraktacji buraków cukrowych z Krajową Spółką Cukrową lub pracownicy Krajowej Spółki Cukrowej, lub mogą być objęte przez inne osoby wyłącznie w formie akcji z wyłączonym prawem głosu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

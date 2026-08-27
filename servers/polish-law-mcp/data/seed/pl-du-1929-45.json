@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1929-45",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1928 r. o uporządkowaniu stanu prawnego na obszarze powiatu brasławskiego oraz gminy duksztańskiej w powiecie święciańskim w zakresie wykonania reformy rolnej.",
+  "title_en": "",
+  "short_name": "pl-du-1929-45",
+  "status": "in_force",
+  "issued_date": "1928-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/45",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przeciwko zarządzeniom i orzeczeniom urzędów ziemskich, wydanym przed dniem 9 stycznia 1926 r. w odniesieniu do nieruchomości ziemskich, położonych w obrębie powiatu brasławskiego oraz gminy duksztańskiej w powiecie święciańskim, na podstawie dekretów Naczelnego Dowódcy Wojsk Litwy Środkowej i Prezesa Tymczasowej Komisji Rządzącej Nr. Nr. 39, 213, 214, 242, 257, 349, 399, 461, 469 i 471 (Dz. U. T. K. R. L. S. Nr 9 z dnia 16 grudnia 1920 r., Nr. 15(25) z dnia 23 kwietnia 1921 r., Nr. 17(27) z dnia 20 maja 1921 r., Nr. 20(30) z dnia 15 czerwca 1921 r., Nr. 31(41) z dnia 30 września 1921 r., Nr. 34(44) z dnia 19 listopada 1921 r., Nr. 2(52) z dnia 24 stycznia 1922 r., Nr. 5(55) z dnia 3 lutego 1922 r.) nie służy zarzut, że dekrety te nie obowiązywały na obszarze wymienionego powiatu i gminy w dniu wydania tych zarządzeń i orzeczeń, jeżeli do nieruchomości, przejętych na podstawie tych zarządzeń i orzeczeń, nabyły prawa osoby trzecie, które bądź zakwalifikowano jako nabywców, bądź z innego tytułu oddano im w posiadanie powyższe nieruchomości."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Odwołanie od zarządzeń i orzeczeń, o których mowa w art. 1, służy stronom zainteresowanym na zasadach ogólnych, ustanowionych w ustawach, któremi wymienione w art. 1 dekrety zostały zastąpione."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Reform Rolnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

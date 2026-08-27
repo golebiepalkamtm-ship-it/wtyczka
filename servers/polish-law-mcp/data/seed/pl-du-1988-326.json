@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1988-326",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 grudnia 1988 r. o zmianie Kodeksu handlowego.",
+  "title_en": "",
+  "short_name": "pl-du-1988-326",
+  "status": "repealed",
+  "issued_date": "1988-12-23",
+  "in_force_date": "1988-12-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1988/326",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 czerwca 1934 r. - Kodeks handlowy ( Dz. U. Nr 57, poz. 502 , z 1946 r. Nr 57, poz. 321 , z 1950 r. Nr 34, poz. 312 oraz z 1964 r. Nr 16, poz. 94 ) art. 158 otrzymuje brzmienie: „ Art. 158. 1. Spółki z ograniczoną odpowiedzialnością mogą być tworzone w celach gospodarczych przez jedną lub więcej osób, o ile ustawy nie zawierają ograniczeń. 2. W przypadku gdy spółka z ograniczoną odpowiedzialnością jest utworzona tylko przez jedną osobę (jedyny spólnik), osoba ta wykonuje wszystkie uprawnienia przysługujące zgromadzeniu spólników zgodnie z postanowieniami niniejszego działu. 3. Jedynym spólnikiem spółki z ograniczoną odpowiedzialnością nie może być inna spółka z ograniczoną odpowiedzialnością, składająca się z jednego spólnika. 4. Ilekroć w niniejszym dziale mówi się o „umowie spółki”, należy przez to rozumieć także akt założycielski sporządzony przez jedynego spólnika. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

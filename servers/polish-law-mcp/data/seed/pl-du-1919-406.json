@@ -1,0 +1,110 @@
+{
+  "id": "pl-du-1919-406",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela.",
+  "title_en": "",
+  "short_name": "pl-du-1919-406",
+  "status": "repealed",
+  "issued_date": "1919-07-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/406",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Każdy, roszczący prawo do zagubionego, zniszczonego lub nieprawnie zabranego tytułu na okaziciela, może celem zachowania swych praw wnieść do sądu okręgowego podanie z żądaniem wzbronienia wszelkich wypłat z tego tytułu i dokonywania jakichkolwiek z nim tranzakcji. Właściwość sądu określa się według siedziby zarządu głównego instytucji, która tytuł wypuściła."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podanie zawierać winno: a) imię, nazwisko, zajęcie i zamieszkanie rzeczywiste petenta, oraz mieszkanie, obrane przez niego w miejscu siedziby właściwego sądu okręgowego; b) wyszczególnienie rodzaju wartości nominalnej, serji, numerów i ilości tytułów; c) uzasadnienie praw petenta; d) wyszczególnienie okoliczności, jakie towarzyszyły utracie tytułu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sąd okręgowy, po zawezwaniu petenta, rozpoznaje podanie na publicznem posiedzeniu w zwykłym składzie trzech sądziów lub też jednoosobowo przez sędziego, wyznaczonego w tym celu z postanowienia ogólnego zebrania wydziałów sądu. Odpis decyzji, uwzględniającej żądanie petenta w przedmiocie wzbronienia wypłat i tranzakcji, doręcza się z urzędu instytucji, która tytuł wypuściła. Jednocześnie sąd zarządzi trzykrotne ogłoszenie decyzji, w odstępach dwumiesięcznych w gazecie rządowej, oraz przynajmniej w jednem z czasopism prywatnych, z wezwaniem wszystkich, roszczących prawa do tytułu, aby w ciągu czasu przez sąd oznaczonego, który nie może być krótszy niż dwuletni i dłuższy niż pięcioletni, licząc od daty pierwszego ogłoszenia, złożyli w sądzie tytuł lub zgłosili sprzeciwy. Od decyzji sądu okręgowego lub sędziego, oddalającej żądanie, służy skarga incydentalna do sądu apelacyjnego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Instytucja, która tytuł wypuściła, winna po otrzymaniu decyzji, wymienionej w art. 3, wstrzymywać wszelkie wypłaty z zakwestionowanego tytułu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Po upływie dni ośmiu od dnia wydania numeru gazety rządowej, w którym pierwsze ogłoszenie wydrukowano, żadne tranzakcje z zakwestionowanym tytułem dokonywane być nie mogą."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Jeśli zakwestjonowany tytuł będzie złożony, sąd wyznaczy osobie, która wniosła pierwotne podanie, termin do sprawdzenia tożsamości i autentyczności złożonego tytułu, oraz do przedsięwzięcia kroków sądowych w celu jego odzyskania. Jeśli w ciąqu tego terminu pierwotny petent powyższych czynności nie wykona, sąd nakaże zwrot złożonego tytułu, uchyli zakaz dokonywania wypłat i tranzakcji. W razie zaś wytoczenia powództwa rewindykacyjnego lub skierowania sprawy na drogę karną, sąd postąpi według ogólnych przepisów proceduralnych. Gdy zqłoszony będzie sprzeciw bez złożenia zakwestjonowanego tytułu, sąd odeśle strony do drogi powództwa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Gdy termin w ogłoszeniu w myśl art. 3 wskazany upłynął, a utraconego tytułu nie złożono, ani też sprzeciwu nie zgłoszono, sąd na wniosek petenta unieważnia tytuł bądź wprost, bądź po uprzedniem stawieniu odpowiedniej poręki na czas przez sąd wskazany. Jeżeli poręka w terminie przez sąd wskazanym stawiona nie będzie, sąd z urzędu oddali żądanie unieważnienia tytułu. Decyzja w przedmiocie stawienia poręki, jak również oddalająca żądanie unieważnienia tytułu, podlega zaskarżeniu w drodze incydentalnej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Odpis decyzji, unieważniającej tytuł, lub oddalającej żądanie unieważnienia tytułu, doręczony będzie z urzędu instytucji, która tytuł wypuściła, a jednocześnie sąd zarządzi z urzędu ogłoszenie decyzji w gazecie rządowej oraz w jednem z czasopism prywatnych. Doręczenie odpisu decyzji, oddalającej żądanie unieważnienia tytułu oraz ogłoszenie taklej decyzji nastąpi po upływie terminu do jej zaskarżenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Po unieważnieniu tytułu instytucja, która tytuł wypuściła, wyda na żądanie osoby, wymienionej w art. 1, i na jej koszt, dublikat unieważnionego tytułu z nowym arkuszem kuponowym, względnie wypłaci kapitał, jeśli tytuł był wymagalny, oraz przypadające procenty, dywidendę i inne należności."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Jeśli do instytucji, która tytuł wypuściła, zgłosi się osoba trzecia z zakwestjonowanym tytułem, instytucja ta tytuł zatrzyma i niezwłocznie zawiadomi o tem sąd, sąd zaś zawiadomi, osobę, która podanie w myśl art. 1-go wniosła."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Termin do wdrożenia postępowania, przewidzianego przez przepisy niniejsze, ogranicza się do lat pięciu, licząc od dnia utraty tytułu, względnie od dnia, w którym petent o utracie się dowiedział. Bieg tego terminu jest zawieszony na czas wojny oraz zamieszek wewnętrznych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Jeśli ze względu na okoliczności wojenne lub inne okoliczności nadzwyczajne zachodzi obawa, że tytuły na okaziciela, znajdujące się w bankach zamiejscowych, uledz mogły zniszczeniu albo przywłaszczeniu, sąd mocen jest zezwolić na zastosowanie środków zabezpieczających, przewidzianych w art. 1 - 5. W tym wypadku winien petent najpóźniej w ciągu sześciu miesięcy od dnia przywrócenia normalnych warunków, który to dzień oznaczy Minister Sprawiedliwości i poda do wiadomości publicznej, donieść sądowi, czy utrata istotnie nastąpiła i czy wniosek swój utrzymuje w mocy. W razie niewniesienia takiego podania decyzja zabezpieczająca upada. Decyzje w przedmiotach powyższych ulegają zaskarżeniu w drodze incydentalnej."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Ustawa niniejsza nie dotyczy: 1) biletów Polskiej Krajowej Kasy Pożyczkowej, 2) banknotów, oraz innych tytułów na okaziciela, przez Państwo wypuszczonych, biletów loteryjnych, kolejowych i t. p., 3) kuponów od listów zastawnych Tow. Kredytowego Ziemskiego w Królestwie Polskiem, od listów zastawnych Tow. Kredytowych Miejskich, oraz od obligacji miast na obszarze b. Królestwa Polskiego,"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Uchyla się postanowienia ustaw i statutów Towarzystw Kredytowych, akcyjnych i innych, niezgodne z przepisami niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Od podań, wymienionych w art. 1, 7 i 12, i od sprzeciwu osób trzecich oraz od skarg incydentalnych pobierany będzie wpis stały w kwocie 5 marek, koszta postępowania w sprawie ponosi strona interesowana."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Ustawa niniejsza zyskuje moc obowiązującą na obszarze b. zaboru rosyjskiego z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

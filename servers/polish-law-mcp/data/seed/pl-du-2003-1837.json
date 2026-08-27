@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2003-1837",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 września 2003 r. o zmianie ustawy o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny",
+  "title_en": "",
+  "short_name": "pl-du-2003-1837",
+  "status": "repealed",
+  "issued_date": "2003-09-19",
+  "in_force_date": "2003-11-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/1837",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny ( Dz. U. Nr 22, poz. 271 , z 2002 r. Nr 144, poz. 1204 oraz z 2003 r. Nr 84, poz. 774 ) wprowadza się następujące zmiany: 1) w art. 2: a) ust. 1 otrzymuje brzmienie: „ 1. Konsument, który zawarł umowę poza lokalem przedsiębiorstwa, może od niej odstąpić bez podania przyczyn, składając stosowne oświadczenie na piśmie w terminie dziesięciu dni od zawarcia umowy. Do zachowania tego terminu wystarczy wysłanie oświadczenia przed jego upływem. ” , b) ust. 3 otrzymuje brzmienie: „ 3. W razie odstąpienia od umowy umowa jest uważana za niezawartą, a konsument jest zwolniony z wszelkich zobowiązań. To, co strony świadczyły, ulega zwrotowi w stanie niezmienionym, chyba że zmiana była konieczna w granicach zwykłego zarządu. Zwrot powinien nastąpić niezwłocznie, nie później niż w terminie czternastu dni. Jeżeli konsument dokonał jakichkolwiek przedpłat, należą się od nich odsetki ustawowe od daty dokonania przedpłaty. ” ; 2) w art. 7: a) ust. 1 otrzymuje brzmienie: „ 1. Konsument, który zawarł umowę na odległość, może od niej odstąpić bez podania przyczyn, składając stosowne oświadczenie na piśmie w terminie dziesięciu dni, ustalonym w sposób określony w art. 10 ust. 1. Do zachowania tego terminu wystarczy wysłanie oświadczenia przed jego upływem. ” , b) ust. 3 otrzymuje brzmienie: „ 3. W razie odstąpienia od umowy umowa jest uważana za niezawartą, a konsument jest zwolniony z wszelkich zobowiązań. To, co strony świadczyły, ulega zwrotowi w stanie niezmienionym, chyba że zmiana była konieczna w granicach zwykłego zarządu. Zwrot powinien nastąpić niezwłocznie, nie później niż w terminie czternastu dni. Jeżeli konsument dokonał jakichkolwiek przedpłat, należą się od nich odsetki ustawowe od daty dokonania przedpłaty. ” ; 3) w art. 16 w ust. 2 zdanie wstępne otrzymuje brzmienie: „ Przepisów art. 7, 9 i art. 12 ust. 1 nie stosuje się do: ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

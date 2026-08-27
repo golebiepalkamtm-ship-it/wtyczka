@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1936-221",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1936 r. o użyciu broni przez wartowników cywilnych, będących pod nadzorem Ministerstwa Spraw Wojskowych.",
+  "title_en": "",
+  "short_name": "pl-du-1936-221",
+  "status": "repealed",
+  "issued_date": "1936-04-09",
+  "in_force_date": "1936-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/221",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Osobom cywilnym - pełniącym na podstawie stosunku służbowego lub umownego czynności wartownicze w poszczególnych działach administracji wojskowej i w państwowych przedsiębiorstwach skomercjalizowanych, będących pod nadzorem Ministerstwa Spraw Wojskowych, oraz w tych przedsiębiorstwach prywatnych, które, wykonywując materjały na potrzeby obrony Państwa, zarządzeniem Ministerstwa Spraw Wojskowych są chronione przez wartowników cywilnych - tudzież ich przełożonym cywilnym w służbie wartowniczej służy w czasie wykonywania tych czynności prawo użycia broni w przypadkach, określonych w ustawie niniejszej. (2) Minister Spraw Wojskowych określa, jakie czynności osób wymienionych w ust. (1) uważa się za czynności wartownicze w rozumieniu ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Wartownicy cywilni uprawnieni są do użycia broni w następujących przypadkach: 1) w celu odparcia niebezpiecznego napadu lub zamachu, zagrażającego życiu, zdrowiu lub wolności wartownika, jego przełożonych w służbie wartowniczej, albo chronionemu przez niego mieniu, albo też w celu przeciwdziałania przedsięwzięciu czynności, zmierzających bezpośrednio do takiego napadu lub zamachu; 2) w razie nieusłuchania wezwania do natychmiastowego odłożenia broni, lub innych przedmiotów, których użycie może zagrażać zdrowiu lub życiu wartownika, jego przełożonych w służbie wartowniczej, albo chronionemu przez niego mieniu, albo też, gdy wezwany po odłożeniu broni lub wymienionych przedmiotów samowolnie je podejmuje; 3) przeciwko osobie, która nie usłucha rozkazu wartownika, albo jego przełożonych w służbie wartowniczej, wydanego w granicach pełnionej służby, a dotyczącego bezpośrednio bezpieczeństwa chronionego mienia lub osoby wartownika i jego przełożonych w służbie wartowniczej. (2) Powyższe uprawnienia służą również przełożonym cywilnym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Użycie broni jest dopuszczalne tylko w razie oczywistej niezbędności, szczególnie bardzo oględnie w wypadkach zagrożenia bezpośrednio życiu osób postronnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Użycie broni może nastąpić po jednorazowem wezwaniu do spełnienia lub zaniechania danej czynności oraz po jednorazowym wystrzale ostrzegawczym w powietrze, jeżeli ustne wezwanie nie odniosło skutku. (2) Przepisów ust. (1) nie stosuje się jedynie w przypadkach, w których wszelka zwłoka groziłaby bezpośredniem niebezpieczeństwem dla życia, zdrowia lub wolności wartownika, jego przełożonych w służbie wartowniczej, albo też dla chronionego przez niego mienia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Wartownik, który użył broni, powinien zawiadomić o tern natychmiast po zejściu z posterunku swego przełożonego, który przeprowadza w każdym przypadku użycia broni dochodzenie w celu stwierdzenia, czy użycie broni było zgodne z przepisami ustawy niniejszej. (2) Jeżeli użycie broni pociągnęło za sobą śmierć lub uszkodzenie ciała, przełożony zawiadamia o tem bezzwłocznie właściwego prokuratora. Przełożony zawiadamia również właściwego prokuratora o tych przypadkach użycia broni, które nastąpiło wbrew przepisom ustawy niniejszej. (3) Przepisy ust. (1) i (2) stosuje się odpowiednio do przełożonych cywilnych w służbie wartowniczej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Spraw Wojskowych wyda przepisy o umundurowaniu (oznakach zewnętrznych) i uzbrojeniu wartowników cywilnych i ich przełożonych cywilnych w służbie wartowniczej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_2-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_5-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

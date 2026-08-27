@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1950-182",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 kwietnia 1950 r. o zgłaszaniu zobowiązań wobec zagranicy oraz znajdującego się w kraju mienia cudzoziemców.",
+  "title_en": "",
+  "short_name": "pl-du-1950-182",
+  "status": "repealed",
+  "issued_date": "1950-04-26",
+  "in_force_date": "1950-05-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/182",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Osoby fizyczne i prawne, mające miejsce zamieszkania lub siedzibę w kraju, są obowiązane zgłosić: 1) zobowiązania wobec cudzoziemców zarówno własne, jak i osób przez siebie reprezentowanych, a mających miejsce zamieszkania lub siedzibę w kraju, 2) znajdujące się w ich posiadaniu lub zarządzie mienie cudzoziemców. 2. Rodzaj podlegających zgłoszeniu zobowiązań i mienia (ust. 1), jak również zasady zgłaszania i tryb postępowania określi Minister Finansów w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Za cudzoziemców uważa się osoby fizyczne i prawne, mające miejsce zamieszkania lub siedzibę za granicą, nie wyłączając zagranicznych oddziałów (filii, agentur, przedstawicielstw) przedsiębiorstw i instytucji krajowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kto - będąc do tego obowiązany w myśl niniejszej ustawy i rozporządzeń, wydanych na jej podstawie, nie zgłosi zobowiązań wobec cudzoziemców albo mienia cudzoziemców w kraju - podlega karze aresztu do lat trzech lub grzywny."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Śledztwo w sprawach o przestępstwa, przewidziane w niniejszej ustawie, prowadzi prokurator bezpośrednio bądź za pośrednictwem Ochrony Skarbowej. 2. Do prowadzenia śledztwa stosuje się przepisy postępowania karnego, przy czym Ochronie Skarbowej służą uprawnienia Milicji Obywatelskiej. 3. Milicja Obywatelska działa w zakresie ścigania przestępstw, określonych w art. 3, w zastępstwie nieobecnych organów Ochrony Skarbowej. O wykryciu przestępstwa i o przedsięwziętych czynnościach Milicja Obywatelska zawiadamia niezwłocznie właściwego prokuratora i Ochronę Skarbową."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy porucza się Ministrowi Finansów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

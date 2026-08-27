@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1920-327",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lipca 1920 r. o utworzeniu Rady Obrony Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1920-327",
+  "status": "in_force",
+  "issued_date": "1920-07-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/327",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się Radę Obrony Państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Skład Rady stanowią: a) Naczelnik Państwa, jako przewodniczący, b) Marszałek Sejmu Ustawodawczego, c) dziesięciu posłów, wyznaczonych przez Sejm Ustawodawczy, d) Prezydent Ministrów, e) trzech członków Rządu, wyznaczonych przez Radę Ministrów, f) trzech przedstawicieli wojskowości, wyznaczonych przez Naczelnego Wodza Wojsk Polskich. W zastępstwie Naczelnika Państwa przewodniczy Radzie Prezydent Ministrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do zakresu działania Rady należy: a) decydowanie we wszystkich sprawach, związanych z prowadzeniem i zakończeniem wojny oraz z zawarciem pokoju; b) wydawanie w tych sprawach rozporządzeń i zarządzeń."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wszystkie rozporządzenia i zarządzenia Rady podlegają natychmiastowemu wykonaniu. Te rozporządzenia i zarządzenia, które w myśl ustaw wymagają uchwały Sejmu, winny być następnie na najbliźszem posiedzeniu Sejmu składane za pośrednictwem Prezydenta Ministrów Sejmowi do zatwierdzenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Radę zwołuje Naczelnik Państwa, względnie z jego upoważnienia Prezydent Rady Ministrów. Do ważności uchwał potrzebna jest obecność dwóch trzecich części członków, a w tern przynajmniej połowy ilości posłów, w skład Rady wchodzących."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Decyzje Rady zapadają zwykłą większością głosów; w razie równego podziału głosów rozstrzyga głos przewodniczącego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Biurowością Rady kieruje Prezydent Ministrów."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Rada zostaje rozwiązana mocą uchwały Sejmu Ustawodawczego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "pl-du-1920-305",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 czerwca 1920 r. o podatku od skrzynek depozytowych (safes).",
+  "title_en": "",
+  "short_name": "pl-du-1920-305",
+  "status": "in_force",
+  "issued_date": "1920-06-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/305",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Od 1 lipca roku 1920 wprowadza się podatek od skrzynek depozytowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Opodatkowaniu podlegają wszelkie instytucje kredytowe i domy bankowe oraz wogóle wszystkie osoby prawne i fizyczne, które odnajmują skrzynki depozytowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podstawę do wymiaru podatku stanowi ilość przeznaczonych do odnajmu skrzynek depozytowych i ich rozmiar wedle stanu z dniem 1 stycznia każdego roku kalendarzowego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Stawka podatkowa od jednej skrzynki depozytowej rocznie wynosi: a) do 20000 cm 3 objętości - 50 mk. b) ponad 20.000 cm 3 objętości - 100 mk."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Instytucje i osoby, obowiązane do opłacenia podatku w myśl art. 1, powinny przed 31 stycznia każdego roku obliczyć stawki podatkowe, przypadające w myśl poprzedniego artykułu od ilości i rozmiaru przeznaczonych do odnajmu skrzynek depozytowych i w tym samym terminie wnieść do kasy skarbowej łączną sumę rocznego podatku. Podatek, przypadający za czas od 1 lipca do końca grudnia 1920 r. w normie półrocznej obliczyć należy według stanu z dniem 1 lipca 1920 roku i wnieść do kasy skarbowej w ciągu jednego miesiąca od dnia wejścia w życie niniejszej ustawy. Podatek, w terminie nieuiszczony, ściągnięty będzie razem z odsetkami za zwłokę w wysokości 1% miesięcznie, przyczem miesiąc zaczęty liczyć się będzie za cały."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W ciągu ośmiu dni po upływie terminów, oznaczonych w poprzednim artykule, płatnicy obowiązani są złożyć władzy skarbowej pierwszej instancji wykaz, zawierający ilość przeznaczonych do odnajmu skrzynek depozytowych i ich wymiary tudzież cyfrowe obliczenie przypadającego podatku."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Władza skarbowa sprawdza dane zawarte w wykazie i w razie wątpliwości co do prawidłowości obliczenia podatku deleguje swego urzędnika do sprawdzenia właściwych danych na miejscu. Płatnicy obowiązani są na żądanie delegata władzy skarbowej zezwolić na obejrzenie oddziału skrzynek depozytowych i sprawdzenie danych zawartych w wykazie. O obejrzeniu i sprawdzeniu spisuje się protokuł w obecności płatnika lub jego zastępcy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Jeżeli po sprawdzeniu wykazu okaże się, że podatek obliczono i zapłacono w kwocie niższej od przepisanej niniejszą ustawą, władza skarbowa wzywa piśmiennie płatnika, aby dodatkową kwotę podatku, powiększoną pięciokrotnie, wpłacił do kasy skarbowej w ciągu czternastu dni od dnia doręczenia wezwania. Dodatkowy podatek, nieuiszczony w tym terminie, ściągnięty będzie wraz z odsetkami za zwłokę w wysokości 1% miesięcznie."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Przeciwko postanowieniu o ściągnięciu podatku dodatkowego płatnikowi służy prawo odwołania się do władzy skarbowej drugiej instancji w terminie czterotygodniowym, licząc od dnia następnego po doręczeniu odnośnego wezwania. Władza ta rozstrzyga ostatecznie. Odwołanie się nie wstrzymuje obowiązku zapłacenia podatku dodatkowego."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Gdy oddział skrzynek depozytowych otworzono w ciągu roku podatkowego, obowiązek podatkowy rozpoczyna się od najbliższego następującego po otwarciu ćwierćrocza kalendarzowego. W tym wypadku należy z podatku, przypadającego na cały rok, zapłacić tylko tę część, jaka wypadnie stosunkowo za ten krótszy okres czasu. Podatek, przypadający za ten okres czasu, należy przy zastosowaniu postanowień art. 6 wpłacić w ciągu pierwszego miesiąca tego ćwierćrocza, od którego rozpoczął się obowiązek podatkowy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Za niezłożenie wykazu, wymienionego w art. 6 niniejszej ustawy, w przepisanym terminie, władza skarbowa pierwszej instancji ma prawo wymierzyć grzywnę do wysokości 5000 mk. Grzywna ta może być powtarzana."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Przeciwko orzeczeniu karnemu płatnikowi służy prawo odwołania się do władzy skarbowej drugiej instancji, która rozstrzyga sprawę ostatecznie. Termin do złożenia odwołania, które składa się u właściwej władzy skarbowej pierwszej instancji, wynosi 8 dni od doręczenia orzeczenia karnego."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

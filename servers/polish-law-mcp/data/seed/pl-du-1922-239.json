@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1922-239",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 kwietnia 1922 r. w przedmiocie uzupełnienia i zmian w ustawie z dnia 7 maja 1920 r. o likwidacji serwitutów na terenie b. Królestwa Kongresowego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-239",
+  "status": "repealed",
+  "issued_date": "1922-04-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/239",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 8 ustawy z dnia 7 maja 1920 r. (Dz. U. R. P. № 42, poz. 249) otrzymuje brzmienia następujące: „ Wierzyciele hipoteczni oraz osoby, na których rzecz figurują w dziale III wykazu hipotecznego ograniczenia prawa własności dóbr, regulujących serwituty, jeżeli miejsce ich pobytu jest wiadome, mogą brać udział w likwidacji, o ile tego zażądają, po otrzymaniu zawiadomienia od urzędu ziemskiego o rozpoczęciu postępowania likwidacyjnego. Zawiadomienia powyższe mogą być doręczane tym osobom w drodze ogłoszenia w prasie urzędowej ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Artykuł 14 ustawy otrzymuje brzmienie następujące: „ Jeśli dobra ziemskie są obciążone serwitutami, należącemi do kilku wsi, to likwidacja takich serwitutów odbywać się będzie w kolejności wsi, ustanowionej przez urzędy ziemskie, z zachowaniem wskazań art. 13 ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Artykuł 15 ustawy otrzymuje brzmienie następujące: „ Wydzielenie tytułem wynagrodzenia za serwituty przestrzeni leśnej lub ziemi z pod lasu może nastąpić za zezwoleniem urzędów ochrony lasów, które winny wydać decyzję w ciągu miesiąca od daty zawiadomienia o tem właściwego urzędu ochrony lasów. Niewydanie w tym terminie powyższej decyzji uznaje się za milczące zezwolenie ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Art. 16 ustawy uzupełnia się następującem końcowem zdaniem: „ W wypadkach, gdy majątek, obciążony serwitutami, należy do kilku współwłaścicieli, uprawnionym do zawarcia układu o zniesienie serwitutów jest jeden z ich grona, obierany przez pozostałych, a jeśli ugoda w tej mierze nie nastąpi, to najstarszy z nich wiekiem ” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W artykule 18 ustawy skreśla się wyrazy: „ na sesji gospodarczej ” ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Punkt a) artykułu 19 otrzymuje brzmienie następujące: „ We wszelkich wypadkach urządzenia rolnego na terenie dziedzin, obciążonych lub korzystających z serwitutów, jako to: przy komasacji gruntów, parcelacji, kolonizacji, likwidowaniu serwitutów jednej ze wsi i t. p. (art. 2 niniejszej ustawy) ” ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W artykule 23 ustawy skreśla się wyrazy: „ na posiedzeniu gospodarczem ” ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Artykuł 30 ustawy uzupełnia się następującem końcowem zdaniem: „ Okres pięcioletni liczyć należy według lat kalendarzowych, poczynając wstecz od 31 grudnia roku, poprzedzającego datę decyzji okręgowej komisji ziemskiej, nakazującej przymusowe postępowanie (art. 23) ” ."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Artykuł 31 ustawy otrzymuje brzmienie następujące: „ Czynności nadzorcze przy likwidacji serwitututów wykonywane są przez urzędy ziemskie bezpłatnie. Natomiast koszty, związane ze sporządzeniem planów i przeprowadzeniem likwidacji serwitutów na gruncie, ponoszą: a) przy likwidacji dobrowolnej - strona, którą ten warunek obowiązuje w umowie, b) przy likwidacji przymusowej-obydwie strony po połowie. Wysokość tych kosztów oraz ich podział pomiędzy uczestnikami likwidacji określa okręgowa komisja ziemska ” ."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Czynności, dotyczące likwidacji serwitutów, obciążających nieruchomości państwowe, przeprowadzają w imieniu Państwa jako strony władze, pod których zarządem nieruchomości te pozostają. W zakresie niezbędnym do przeprowadzenia likwidacji serwitutów władze te mają prawo do zbywania, zamiany i obciążania nieruchomego majątku państwowego."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Głównego Urzędu Ziemskiego."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

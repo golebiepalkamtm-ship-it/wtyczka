@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2003-1838",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 września 2003 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych",
+  "title_en": "",
+  "short_name": "pl-du-2003-1838",
+  "status": "in_force",
+  "issued_date": "2003-09-19",
+  "in_force_date": "2003-11-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/1838",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lipca 2001 r. - Prawo o ustroju sądów powszechnych ( Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787 oraz z 2002 r. Nr 153, poz. 1271 , Nr 213, poz. 1802 i Nr 240, poz. 2052 ) art. 139 otrzymuje brzmienie: „ Art. 139. § 1. Nadzór merytoryczny nad aplikacją sądową sprawuje Minister Sprawiedliwości. § 2. Aplikację sądową prowadzą prezesi sądów apelacyjnych. § 3. Minister Sprawiedliwości, w drodze zarządzenia, wyznacza sądy apelacyjne, w których prezesi prowadzą zajęcia seminaryjne, i określa obszary apelacji objęte tymi zajęciami. § 4. Minister Sprawiedliwości może, w szczególnie uzasadnionych przypadkach, na wniosek prezesa sądu apelacyjnego, w drodze zarządzenia, powierzyć prezesowi sądu okręgowego prowadzenie zajęć seminaryjnych dla części obszaru apelacji, obejmującej jeden lub więcej okręgów sądowych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 2004 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

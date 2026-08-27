@@ -1,0 +1,607 @@
+{
+  "id": "pl-du-1961-46",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1961 r. Prawo budowlane.",
+  "title_en": "",
+  "short_name": "pl-du-1961-46",
+  "status": "repealed",
+  "issued_date": "1961-01-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1961/46",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa normuje sprawy projektowania, budowy, rozbiórki i utrzymania obiektów budowlanych oraz określa zasady organizacji, obowiązki i uprawnienia organów państwowego nadzoru budowlanego. 2. Przepisów ustawy nie stosuje się do projektowania, budowy, produkcji i utrzymania wszelkich maszyn, środków transportu, urządzeń mechanicznych oraz innych urządzeń, służących bezpośrednio do produkcji i przeróbki gotowych wyrobów lub ich części, środków konsumpcyjnych, półprefabrykatów, surowców itp. 3. Przepisy ustawy stosuje się do urządzeń wpływających na wygląd obiektów budowlanych, jak tablice pamiątkowe, urządzenia reklamowe, napisy, szyldy, trwałe urządzenia wnętrz budynków użytku publicznego. 4. Ilekroć w ustawie jest mowa: 1) o „obiekcie budowlanym” - należy przez to rozumieć stałe i tymczasowe budynki, urządzenia budowlane związane z budynkami, obiekty inżynierskie, urządzenia techniczne, instalacje przemysłowe, pomniki, posągi, wodotryski itp. obiekty architektury ogrodowej oraz kapliczki i inne podobne obiekty kultu religijnego, 2) o „budynku” - należy przez to rozumieć każdą budowlę posiadającą ściany lub filary bądź słupy i pokrycie, 3) o „tymczasowych obiektach budowlanych” - należy przez to rozumieć obiekty budowlane przeznaczone do czasowego użytku, które po upływie okresu, oznaczonego w pozwoleniu na budowę, ulegają rozbiórce lub przeniesieniu, oraz obiekty budowlane nie połączone trwale z terenem i przeznaczone do częstej rozbiórki i składania, jak np.: strzelnice, uliczne kioski, pawilony sprzedaży ulicznej i wystawowe, cyrki wędrowne, urządzenia rozrywkowe i trybuny na wolnym powietrzu itp., 4) o „urządzeniach budowlanych związanych z budynkami” - należy przez to rozumieć urządzenia terenowe, które służą do celowego wykorzystania budynków, jak np. dojazdy, przejazdy, przejścia, ogrodzenia, urządzenia terenowe zieleni przydomowej, wszelkie urządzenia instalacyjne, służące do: ogrzewania, wentylacji, łączności, zaopatrzenia w wodę zimną i ciepłą, zaopatrzenia w gaz i energię elektryczną, usuwania ścieków, z wyjątkiem urządzeń dźwigowych i urządzeń kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 5) o „obiekcie inżynierskim” - należy przez to rozumieć wszelkie budowle nadziemne i podziemne, nie objęte określeniami budynku i urządzeń budowlanych związanych z budynkami, jak np. linie i węzły kolejowe, drogi, ulice, place, drogi startowe, lądowiska, rampy, budowle ziemne o stałym technicznym przeznaczeniu (jak nasypy, wykopy, rowy, wały, groble, grodze, kopce), budowle ochronne przeciwśniegowe, przeciwlawinowe i przeciwrumowiskowe, przyczółki, mosty, wiadukty, akwedukty, tunele, galerie, mury oporowe, szyby i korytarze podziemne, urządzenia terenowe zieleni użytku publicznego, promenady, bulwary, parkingi, doki, nadbrzeża portowe i przystani, falochrony, akwatoria portowe, kanały, zimowiska statków, maszty, budowle piętrzące (zapory, tamy, śluzy, jazy), melioracje wodne dla potrzeb rolnictwa, drenaże, stawy, budowle ujęć wody, usuwania ścieków i gromadzenia nieczystości, studnie, zbiorniki wody i cieczy, osadniki ścieków, boiska sportowe, stadiony, tory wyścigowe, lodowiska, skocznie, wieże spadochronowe itp., jak również sieci użytku publicznego: elektroenergetyczne, telekomunikacyjne, cieplne, gazowe, wodociągowe i kanalizacyjne, 6) o „instalacjach przemysłowych” - należy przez to rozumieć wszelkie instalacje służące do celów technologicznych, naukowych i naukowo-badawczych, z wyjątkiem urządzeń instalacyjnych, objętych określeniem urządzeń budowlanych związanych z budynkami, 7) o „urządzeniach technicznych” - należy przez to rozumieć wszelkie urządzenia techniczne, nie objęte określeniem obiektu inżynierskiego i instalacji przemysłowych, a w szczególności urządzenia techniczne, związane z eksploatacją kopalin, służące do utrzymania ruchu i transportu kolejowego, drogowego, miejskiego, lotniczego i wodnego, służące do celów łączności, służące do oczyszczania wód powierzchniowych i podziemnych oraz do oczyszczania i unieszkodliwiania ścieków bądź nieczystości, służące do regulacji i obsługi urządzeń przemysłowych oraz urządzeń zakładów wodnych i zakładów elektrycznych, a także urządzenia dźwigowe, zbiorników pod ciśnieniem oraz urządzenia kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 8) o „budowie” - należy przez to rozumieć również nadbudowę, przebudowę, rozbudowę oraz remonty obiektów budowlanych, 9) o „remoncie” - należy przez to rozumieć wykonywanie robót budowlanych w istniejących obiektach budowlanych, z wyjątkiem robót dotyczących bieżącej konserwacji tych obiektów, polegających na dokonywaniu drobnych napraw, konserwacji i malowania elementów budowlanych oraz instalacyjnych obiektu, nie powodujących zmiany ich konstrukcji, przeznaczenia lub wyglądu zewnętrznego obiektu budowlanego, 10) o „Komitecie Budownictwa” - należy przez to rozumieć Komitet Budownictwa, Urbanistyki i Architektury, a o „Przewodniczącym Komitetu Budownictwa” - Przewodniczącego Komitetu Budownictwa, Urbanistyki i Architektury."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zależnie od szczególnego charakteru wymagań technicznych występujących przy projektowaniu, budowie, rozbiórce i utrzymaniu obiektów budowlanych obiekty te zalicza się do budownictwa powszechnego lub do budownictwa specjalnego. 2. Obiektami budowlanymi budownictwa powszechnego w rozumieniu ustawy są: 1) budynki stałe i tymczasowe oraz urządzenia budowlane związane z budynkami, 2) pomniki, posągi, wodotryski itp. obiekty architektury ogrodowej oraz kapliczki i inne podobne obiekty kultu religijnego. 3. Przepisy ustawy dotyczące budownictwa powszechnego stosuje się ponadto do: 1) obiektów inżynierskich służących do celów szkolnictwa, nauki, kultury, zdrowia, wypoczynku, rozrywki i sportu, 2) innych obiektów budowlanych, nie zaliczonych w obowiązujących przepisach do budownictwa specjalnego, 3) urządzeń, o których mowa w art. 1 ust. 3. 4. Obiektami budowlanymi budownictwa specjalnego w rozumieniu ustawy są: 1) obiekty inżynierskie w zakładach energetycznych, zakładach wodnych i w innych zakładach przemysłowych, 2) obiekty inżynierskie, związane z eksploatacją kopalin, służące do utrzymania ruchu i transportu kolejowego, drogowego, miejskiego, lotniczego i wodnego oraz służące do celów łączności, energetyki, gospodarki komunalnej oraz melioracji wodnych dla potrzeb rolnictwa, 3) obiekty inżynierskie, służące do celów ochrony brzegów morskich oraz ochrony i regulacji brzegów wód śródlądowych oraz służące do wszystkich celów budownictwa wodnego, mających wpływ na zasoby i obniżenie lub podniesienie się stanu wód powierzchniowych i podziemnych, 4) instalacje przemysłowe, 5) urządzenia techniczne. 5. Przepisy ustawy dotyczące budownictwa specjalnego stosuje się ponadto do: 1) obiektów budowlanych, służących celom ściśle wojskowym oraz celom terenowej obrony przeciwlotniczej, 2) obiektów budowlanych, zaliczonych w myśl przepisów ust. 2 do budownictwa powszechnego, a przeznaczonych do produkcji materiałów i środków służących do celów obrony kraju oraz służących do celów łączności, związanych z obronnością kraju, 3) budynków stałych i tymczasowych, służących do celów technologicznych górnictwa i komunikacji. 6. Rada Ministrów w drodze rozporządzenia ustali szczegółowo, jakie obiekty budowlane, określone w ust. 4 i 5, zalicza się do budownictwa specjalnego, jak również wskaże właściwych ministrów dla spraw tego budownictwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Obiekty budowlane mogą być wznoszone wyłącznie na terenach przeznaczonych na dany cel zgodnie z przepisami o planowaniu przestrzennym. 2. Forma architektoniczna obiektów budowlanych powinna być zharmonizowana z otoczeniem i w miarę możności powinna wpływać na podniesienie walorów estetycznych otoczenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Obiekty budowlane powinny być zaprojektowane i wybudowane w taki sposób, aby zapewnione było bezpieczeństwo dla ludzi i mienia i aby zapewnione były: właściwy układ funkcjonalny obiektu, odpowiednia jego trwałość, ekonomiczność budowy ze szczególnym uwzględnieniem oszczędnego i racjonalnego stosowania materiałów, ekonomiczność użytkowania oraz potrzeby użytkowe, a w szczególności potrzeby w zakresie ochrony przeciwpożarowej, oświetlenia, zaopatrzenia w wodę, usuwania ścieków, ogrzewania i wentylacji, wymagań higieniczno-sanitarnych, komunikacji itp. 2. W celu zachowania warunków, o których mowa w ust. 1, należy stosować obowiązujące normy państwowe, normatywy techniczne projektowania i inne obowiązujące przepisy techniczno-budowlane oraz przestrzegać zasad współczesnej wiedzy technicznej. Ponadto należy stosować zatwierdzone opracowania typowe, jeżeli względy techniczne bądź ekonomiczne nie stoją temu na przeszkodzie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Warunki techniczne, którym powinny odpowiadać obiekty budowlane, oraz ogólne warunki techniczne wykonywania robót budowlanych i rozbiórkowych normują przepisy wydane w drodze rozporządzenia dla budownictwa powszechnego przez Przewodniczącego Komitetu Budownictwa, a dla budownictwa specjalnego - w drodze zarządzenia przez właściwych ministrów w porozumieniu z Przewodniczącym Komitetu Budownictwa, a także w porozumieniu z Prezesem Wyższego Urzędu Górniczego, jeżeli chodzi o przepisy dotyczące budownictwa specjalnego w zakresie górnictwa. 2. Przepisy, o których mowa w ust. 1, dotyczące budownictwa powszechnego stosuje się także do budynków zaliczonych w trybie art. 2 ust. 5 i 6 do budownictwa specjalnego. Właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa mogą jednak określać dodatkowe warunki techniczne, którym mają odpowiadać wyżej wymienione budynki, bądź wskazać, których z przepisów dotyczących budownictwa powszechnego nie stosuje się ze względu na przeznaczenie danego rodzaju budynków."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Warunki techniczne odbioru i stosowania, a także właściwości materiałów, elementów i konstrukcji budowlanych, metody ich badania oraz stopień ich palności i wytrzymałości na działanie ognia i wysokich temperatur, jak również zasady obliczeń technicznych i wymiarowania, symbole i oznaczenia stosowane w projektach budowlanych regulują normy państwowe."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Zasady projektowania obiektów budowlanych, mające na celu zabezpieczenie właściwego układu funkcjonalnego, związanego z przeznaczeniem określonego obiektu, i ustalenie warunków użytkowych, jakim mają odpowiadać te obiekty w danych warunkach ekonomicznych, określają normatywy techniczne projektowania. 2. Normatywy techniczne projektowania dla budownictwa powszechnego ustanawia Przewodniczący Komitetu Budownictwa w porozumieniu z właściwym ministrem, a dla budownictwa specjalnego - właściwy minister w porozumieniu z Przewodniczącym Komitetu Budownictwa, a także w porozumieniu z Prezesem Wyższego Urzędu Górniczego, jeżeli chodzi o przepisy dotyczące budownictwa specjalnego w zakresie górnictwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Opracowania typowe mogą obejmować elementy budowlane, konstrukcyjne, instalacyjne i wyposażeniowe, zestawy tych elementów, sekcje i segmenty obiektów budowlanych bądź całe obiekty budowlane. 2. Przewodniczący Komitetu Budownictwa ustali zasady sporządzania i zatwierdzania projektów opracowań typowych, o których mowa w ust. 1. 3. Zatwierdzone opracowania typowe publikowane są w formie katalogów opracowań typowych, wydawanych przez zainteresowanych ministrów w porozumieniu z Przewodniczącym Komitetu Budownictwa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Do czasu unormowania określonych zagadnień techniczno-budowlanych w drodze norm państwowych i normatywów technicznych projektowania zagadnienia te mogą być w razie potrzeby normowane w drodze zarządzeń wydawanych przez organy, o których mowa w art. 5."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Nowe materiały, elementy i konstrukcje budowlane oraz nowe metody budowlane mogą być masowo stosowane przy wznoszeniu obiektów budownictwa powszechnego na podstawie decyzji Przewodniczącego Komitetu Budownictwa, a przy wznoszeniu obiektów budownictwa specjalnego - na podstawie decyzji właściwego ministra, wydanej w porozumieniu z Przewodniczącym Komitetu Budownictwa. 2. Za nowe uważa się materiały, elementy i konstrukcje budowlane oraz metody budowy, których właściwości, zakres i sposób stosowania nie zostały określone przez państwowe normy lub które nie były do dnia wejścia w życie ustawy stosowane na terenie kraju lub jego części. 3. Podstawą do decyzji organów wymienionych w ust. 1 powinny być zadowalające wyniki badań, przeprowadzonych przez instytuty naukowo-badawcze, zakłady naukowe bądź inne fachowe instytucje i placówki. 4. Przepisu ust. 1 nie stosuje się do budownictwa doświadczalnego i prototypowego, realizowanego w celu wprowadzenia postępu technicznego, według programu i warunków ustalonych przez właściwe organy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Komitet Budownictwa wydaje dziennik urzędowy „Dziennik Budownictwa”. 2. W Dzienniku Budownictwa ogłasza się: 1) zarządzenia Przewodniczącego Komitetu Budownictwa i właściwych ministrów, wydane w celu wykonania ustaw lub dekretów i z powołaniem się na zawarte w nich upoważnienie, regulujące sprawy techniczno-budowlane oraz sprawy związane z działalnością państwowego nadzoru budowlanego, 2) inne zarządzenia, a także decyzje, instrukcje i obwieszczenia Przewodniczącego Komitetu Budownictwa i właściwych ministrów w zakresie określonym w pkt 1, 3) zarządzenia ustalające normatywy techniczne projektowania, 4) obwieszczenia o wydaniu katalogu zatwierdzonych opracowań typowych. 3. W Dzienniku Budownictwa mogą być ponadto zamieszczone: 1) wykazy norm państwowych dotyczących budownictwa, 2) okólniki dotyczące spraw techniczno-budowlanych oraz spraw związanych z działalnością państwowego nadzoru budowlanego, 3) inne akty prawne i okólniki dotyczące budownictwa, gdy zamieszczenie ich uzna za wskazane Przewodniczący Komitetu Budownictwa. 4. Aktów prawnych wymienionych w ust. 2 nie ogłasza się w Monitorze Polskim. 5. Dzień wydania Dziennika Budownictwa, oznaczony na każdym numerze, jest dniem prawnego ogłoszenia aktów w nim zamieszczonych. 6. Akty prawne ogłaszane w Dzienniku Budownictwa wchodzą w życie z dniem ich ogłoszenia, jeśli same nie stanowią inaczej. 7. Przewodniczący Komitetu Budownictwa prostuje błędy w ogłoszonych tekstach aktów prawnych w drodze obwieszczenia ogłoszonego w Dzienniku Budownictwa. 8. Właściwe organy prezydiów rad narodowych obowiązane są udostępnić ludności bezpłatne przeglądanie Dziennika Budownictwa. Rozdział 2 O inwestorze"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Inwestorem w rozumieniu ustawy jest osoba prawna lub inna jednostka organizacyjna, która z mocy odrębnych przepisów jest uprawniona do dysponowania środkami finansowymi na realizację inwestycji budowlanych i realizuje te inwestycje. Inwestorem jest również osoba fizyczna realizująca inwestycje. 2. Inwestorami państwowymi są państwowe jednostki organizacyjne. 3. Inwestorami spółdzielczymi są spółdzielnie i centrale spółdzielcze. 4. Inwestorami społecznymi są: 1) organizacje polityczne, 2) organizacje społeczne i zawodowe, 3) stowarzyszenia zarejestrowane. 5. Inwestorami prywatnymi są osoby fizyczne oraz nie objęte przepisami ust. 2-4 osoby prawne. 6. Inwestorzy państwowi i spółdzielczy mogą realizować inwestycje budowlane w celu przekazania ich właściwemu użytkownikowi."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Inwestor państwowy obowiązany jest: 1) opracować lub zlecić opracowanie właściwej jednostce projektowania założeń zamierzonej inwestycji i uzyskać ich zatwierdzenie przez właściwe organy nadrzędne bądź nadzorcze, 2) uzyskać prawo realizacji inwestycji na określonym terenie, 3) zlecić właściwej jednostce projektowania opracowanie projektu zamierzonej inwestycji i uzyskać zatwierdzenie tego projektu, 4) sprawować nadzór nad realizacją inwestycji oraz koordynować działalność wykonawców realizujących inwestycje, 5) dokonać odbioru wykonanej inwestycji. 2. W czasie realizacji inwestycji inwestor państwowy podejmuje decyzje dotyczące zagadnień technicznych, ekonomicznych i użytkowych inwestycji w ramach projektu budowlanego i obowiązujących przepisów. 3. Przewodniczący Komitetu Budownictwa wydaje dla inwestycji państwowych przepisy ustalające: 1) zasady sporządzania, uzgadniania i zatwierdzania założeń oraz projektu inwestycji budowlanych, 2) zasady i warunki umów o wykonanie prac projektowych, zawieranych przez inwestorów państwowych z jednostkami projektowania, 3) zasady i warunki umów o wykonanie robót budowlanych, 4) zasady odbioru robót budowlanych oraz stwierdzanie zdatności do użytkowania wykonanej inwestycji. 4. Przepisy ust. 1 i 2 oraz przepisy wydane na podstawie ust. 3 stosuje się odpowiednio do inwestycji dokonywanych przez inwestorów spółdzielczych i inwestorów społecznych, będących jednostkami gospodarki uspołecznionej. 5. Przepisy, o których mowa w ust. 3 pkt 1, wydawane są w porozumieniu z Przewodniczącym Komisji Planowania przy Radzie Ministrów, a wymienione w ust. 3 pkt 2, 3 i 4 - w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Inwestor społeczny może realizować tylko takie inwestycje budowlane, które związane są z jego działalnością określoną w statucie bądź w innych przepisach prawnych albo uznaną przez prawo i które odpowiadają zakresowi tej działalności. 2. Przepisy art. 13 ust. 1 i 2 stosuje się odpowiednio do inwestorów społecznych, nie będących jednostkami gospodarki uspołecznionej. 3. Rada Ministrów określi w drodze rozporządzenia zasady i tryb zatwierdzania założeń inwestycji inwestorów społecznych. 4. Przy ustalaniu i zatwierdzaniu założeń inwestycji dla inwestorów społecznych, w braku odpowiednich normatywów technicznych, należy przestrzegać zasad stosowanych dotychczas zwyczajowo w budownictwie podobnych obiektów. 5. Przepisy ust. 1-4 stosuje się odpowiednio do inwestycji kościołów i związków religijnych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Inwestor prywatny może dokonać inwestycji budowlanych wyłącznie dla zaspokojenia potrzeb mieszkaniowych własnych i najbliższej rodziny oraz dla zaspokojenia własnych potrzeb gospodarczych, dla wykonywania zawodu lub dla wykonywania działalności usługowej. 2. Przewodniczący Komitetu Budownictwa w porozumieniu z Ministrem Gospodarki Komunalnej oraz przewodniczącym Komitetu Drobnej Wytwórczości może w drodze rozporządzenia wydać szczegółowe przepisy niezbędne dla ustalenia, jakich inwestycji w zakresie ustalonym w ust. 1 mogą dokonywać inwestorzy prywatni."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Przepisy o obowiązkach i prawach inwestora zawarte w dalszych przepisach ustawy stosuje się odpowiednio do jednostek organizacyjnych oraz osób prawnych i fizycznych, wykonujących bądź na rzecz których wykonywane są remonty, przebudowy bądź rozbudowy. Rozdział 3 O kwalifikacjach fachowych i obowiązkach osób wykonujących funkcje techniczne w budownictwie"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Osoby wykonujące funkcje techniczne projektanta, kierownika budowy, kierownika robót, majstra budowlanego oraz inspektora nadzoru inwestorskiego powinny posiadać odpowiednie kwalifikacje fachowe w zakresie wykształcenia technicznego i praktyki, stwierdzone przez właściwe organy. Decyzje właściwego organu, stwierdzające posiadanie kwalifikacji fachowych, zwane są w dalszych przepisach ustawy „uprawnieniami budowlanymi”. 2. Uprawnienia budowlane powinny posiadać również osoby zatrudnione w organach państwowego nadzoru budowlanego oraz w innych jednostkach państwowych, jeżeli do ich obowiązków służbowych należy ocena i sprawdzanie projektów budowlanych lub kontrola techniczna budowy bądź kontrola techniczna utrzymania obiektów budowlanych. 3. Przewodniczący Komitetu Budownictwa w zakresie budownictwa powszechnego, a właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa w zakresie budownictwa specjalnego mogą ustalić inne funkcje techniczne w budownictwie, nie wymienione w ust. 1, których wykonywanie uzależnione będzie od posiadania określonych kwalifikacji fachowych, oraz tryb i zasady stwierdzania tych kwalifikacji. 4. Przepisy, o których mowa w ust. 3, dla budownictwa specjalnego w zakresie górnictwa wydawane są ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Uprawnienia budowlane mogą być wydawane jako uprawnienia do projektowania bądź jako uprawnienia do kierowania robotami budowlanymi, a także jako uprawnienia do projektowania i kierowania. 2. Uprawnienia do kierowania robotami budowlanymi upoważniają do wykonywania funkcji technicznych kierownika budowy, kierownika robót, majstra budowlanego oraz inspektora nadzoru inwestorskiego. 3. W uprawnieniach budowlanych należy określić specjalności techniczno-budowlane oraz zakres prac projektowych lub robót budowlanych, do których wykonywania uprawniona jest osoba posiadająca dane uprawnienia."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. W budownictwie powszechnym mogą być wydawane uprawnienia budowlane w następujących specjalnościach techniczno-budowlanych: 1) architektonicznej, 2) konstrukcyjno-inżynieryjnej, 3) instalacji i urządzeń sanitarnych, 4) instalacji urządzeń elektrycznych. 2. Dla uzyskania uprawnień budowlanych do projektowania w specjalnościach, o których mowa w ust. 1, wymagane jest posiadanie wyższego lub średniego wykształcenia technicznego w tych specjalnościach oraz odpowiedniej praktyki. 3. Dla uzyskania uprawnień budowlanych do kierowania robotami budowlanymi w odpowiednim zakresie w poszczególnych specjalnościach techniczno-budowlanych wymagane jest posiadanie wyższego lub średniego wykształcenia technicznego odpowiedniej specjalności bądź dyplomu mistrza w odpowiednim zawodzie budowlanym oraz odpowiedniej praktyki na budowie, przy robotach budowlanych w danej specjalności. 4. Ilekroć w niniejszej ustawie jest mowa o „mistrzu” w odpowiednim zawodzie, należy przez to rozumieć osoby posiadające zawodowe uzdolnienia do samoistnego prowadzenia rzemiosła budowlanego, stwierdzone dyplomem mistrza w zawodach objętych listą rzemiosł, wydanym przez państwową komisję egzaminacyjną lub przez izbę rzemieślniczą. 5. Uprawnienia do projektowania w danej specjalności techniczno-budowlanej mogą obejmować prawo projektowania określonych robót budowlanych w innych specjalnościach oraz prawo kierowania takimi robotami innych specjalności. Uprawnienia do kierowania robotami budowlanymi określonej specjalności mogą obejmować prawo kierowania określonymi robotami w innej specjalności."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Sprawy wydawania uprawnień budowlanych w budownictwie powszechnym należą do zakresu działania Komitetu Budownictwa, który może w drodze rozporządzenia sprawy te przekazać właściwym do spraw nadzoru budowlanego organom prezydiów wojewódzkich rad narodowych (rad narodowych miast wyłączonych z województw). 2. Przewodniczący Komitetu Budownictwa może przekazać niektóre czynności związane z wydawaniem uprawnień budowlanych odpowiednim stowarzyszeniom społeczno-zawodowym."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Przewodniczący Komitetu Budownictwa wyda w drodze rozporządzenia dla budownictwa powszechnego przepisy szczegółowe, które określą: zakres prac projektowych i robót budowlanych objętych poszczególnymi rodzajami uprawnień budowlanych, rodzaje studiów wyższych i średnich, rodzaje i czasokres praktyk wymaganych dla uzyskania uprawnień, tryb wydawania uprawnień, oraz określi zakres prac projektowych i robót budowlanych, do których wykonywania nie jest wymagane posiadanie odpowiednich uprawnień. 2. Właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa, a w zakresie górnictwa również w porozumieniu z Prezesem Wyższego Urzędu Górniczego, określą dla budownictwa specjalnego: 1) specjalności techniczno-budowlane, dla których wydawane będą uprawnienia budowlane, 2) rodzaje studiów wyższych i średnich oraz rodzaje i zakresy praktyki wymagane do uzyskania uprawnień, 3) zakres prac projektowych i robót budowlanych, do których wykonywania wymagane jest posiadanie odpowiednich uprawnień, 4) organy właściwe do wydawania oraz tryb wydawania uprawnień budowlanych. 3. W przepisach, o których mowa w ust. 1 i 2, może być wprowadzony obowiązek złożenia egzaminu przez osoby ubiegające się o uzyskanie uprawnień budowlanych. Przepisy o egzaminach powinny określać program egzaminów, sposób ich przeprowadzenia oraz wysokość opłat i ich przeznaczenie. 4. Przepisy, o których mowa w niniejszym artykule, powinny przewidywać udział stowarzyszeń społeczno-zawodowych przy stwierdzaniu kwalifikacji fachowych i przeprowadzaniu egzaminów. 5. Rada Ministrów może w drodze rozporządzenia nałożyć na osoby prawne, posiadające prawo do wykonywania robót budowlanych, obowiązek zapewnienia odpowiedniej ilości miejsc dla osób odbywających praktykę budowlaną oraz określić zasady przyjmowania i odbywania praktyki budowlanej."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Przepisów art. 18-21 nie stosuje się do majstrów budowlanych. 2. Przewodniczący Komitetu Budownictwa wyda w drodze rozporządzenia przepisy o stwierdzaniu kwalifikacji fachowych do kierowania robotami budowlanymi dla majstrów budowlanych w budownictwie powszechnym. Odpowiednie przepisy wydadzą dla majstrów budowlanych w budownictwie specjalnym właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa, a w stosunku do majstrów budowlanych budownictwa specjalnego w górnictwie - również z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Do podstawowych obowiązków projektanta należy: 1) zaprojektowanie inwestycji budowlanej i poszczególnych obiektów budowlanych w sposób odpowiadający założeniom inwestycji, normatywom technicznym projektowania, wymaganiom bezpieczeństwa dla ludzi i mienia, wymaganiom użytkowym, technicznym, ekonomicznym i estetycznym oraz zaproponowanie właściwej metody realizacji, 2) wykonanie projektu budowlanego zgodnie z normami państwowymi, z obowiązującymi przepisami i zasadami współczesnej wiedzy technicznej, 3) pełnienie na koszt inwestora nadzoru autorskiego nad realizacją jego projektu na żądanie właściwego organu państwowego nadzoru budowlanego oraz w przypadkach uzgodnionych z inwestorem. 2. Nadzór autorski obejmuje: 1) czuwanie w toku realizacji budowy nad zgodnością rozwiązań technicznych, materiałowych i użytkowych z projektem budowlanym, 2) uzupełnianie brakujących szczegółów oraz wyjaśnianie wykonawcy wątpliwości powstałych w toku realizacji budowy, 3) uzgadnianie z inwestorem i wykonawcą możliwości wprowadzenia materiałów zamiennych w stosunku do materiałów przewidzianych w projekcie budowlanym, 4) branie udziału w komisjach i naradach technicznych, a w szczególności w komisjach odbioru końcowego robót."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Do podstawowych obowiązków kierownika budowy należy: 1) organizowanie i kierowanie całością budowy obiektu budowlanego oraz nadzór nad pracą kierowników robót i koordynowanie całości pracy na budowie, 2) kontrola zgodności realizacji obiektu budowlanego pod względem technicznym i ekonomicznym z warunkami pozwolenia na budowę, z kosztorysami, z normami państwowymi, opracowaniami typowymi, przepisami techniczno-budowlanymi oraz z zasadami współczesnej wiedzy technicznej; nadzór nad wykonywaniem robót budowlanych w sposób zapewniający bezpieczeństwo obiektu budowlanego w trakcie jego realizacji i użytkowania; nadzór nad przestrzeganiem na budowie przepisów bezpieczeństwa i higieny pracy, 3) organizowanie komisji i narad technicznych związanych z budową obiektu budowlanego oraz branie udziału w komisji odbioru końcowego robót, 4) wykonywanie wszelkich czynności związanych z gospodarczą i techniczną stroną budowy danego obiektu budowlanego i rozliczenie wyników gospodarczych prowadzonej budowy. 2. Do podstawowych obowiązków kierownika robót należy: 1) organizowanie i kierowanie wykonaniem całości robót określonej specjalności budowlanej, związanych z budową obiektu budowlanego, oraz nadzór nad pracą majstrów budowlanych, a także koordynacja całości powierzonych mu prac na budowie, 2) przestrzeganie zgodności powierzonych mu robót budowlanych pod względem technicznym i ekonomicznym z warunkami pozwolenia na budowę, z normami państwowymi, opracowaniami typowymi i przepisami techniczno-budowlanymi oraz z zasadami współczesnej wiedzy technicznej; nadzór nad wykonywaniem robót określonej specjalności techniczno-budowlanej w sposób gwarantujący bezpieczeństwo obiektu budowlanego w toku realizacji i użytkowania; nadzór nad przestrzeganiem na budowie przepisów bezpieczeństwa i higieny pracy, 3) ustalanie właściwych sposobów przechowywania materiałów budowlanych dostarczonych na budowę, nadzór nad celowym i ekonomicznym ich zużyciem oraz nadzór nad właściwym przechowywaniem tych materiałów, 4) branie udziału w komisjach i naradach technicznych, a w szczególności w komisjach odbioru końcowego robót, 5) podejmowanie czynności związanych z gospodarczą i techniczną stroną wykonywania robót danej specjalności techniczno-budowlanej oraz nadzór nad prawidłowością rozliczeń i ustalania wynagrodzeń pracowników za wykonane roboty. 3. Do podstawowych obowiązków majstra budowlanego należy: 1) organizowanie i kierowanie pracą grupy pracowników na określonym przez kierownika robót odcinku robót związanych z budową obiektu budowlanego oraz organizowanie i kierowanie pracą osób odbywających praktykę na budowie, 2) wykonanie powierzonych robót budowlanych zgodnie z projektem podstawowym i rysunkami roboczymi, z normami państwowymi i opracowaniami typowymi, a także z zasadami rzemiosła oraz nadzór nad przestrzeganiem przez pracowników ustalonych procesów technologicznych wykonywania robót budowlanych oraz przepisów bezpieczeństwa i higieny pracy, 3) przestrzeganie prawidłowości wykonania wszelkich rusztowań, szalowań, nakryć, wykopów i innych urządzeń pomocniczych w sposób zapewniający bezpieczeństwo pracy i ochronę zdrowia, 4) branie udziału w działalności komisji technicznych, związanej ze sprawdzaniem lub odbiorem robót budowlanych na powierzonym mu odcinku robót, 5) podejmowanie czynności związanych z gospodarczą i techniczną stronę wykonywania robót budowlanych na powierzonym mu odcinku robót. 4. Do podstawowych obowiązków kierownika robót należą ponadto obowiązki określone w ust. 3, jeżeli na danej budowie nie została ustanowiona funkcja majstra budowlanego, a do podstawowych obowiązków kierownika budowy - obowiązki określone w ust. 2, jeżeli na danej budowie nie została ustanowiona funkcja kierownika robót."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Inspektor nadzoru inwestorskiego jest przedstawicielem inwestora na budowie określonego obiektu budowlanego. 2. Do podstawowych obowiązków inspektora nadzoru inwestorskiego należy: 1) kontrola zgodności wykonania robót określonej specjalności techniczno-budowlanej pod względem technicznym, materiałowym, użytkowym i ekonomicznym z warunkami pozwolenia na budowę, z przepisami techniczno-budowlanymi, z normami państwowymi i opracowaniami typowymi, a także z zasadami współczesnej wiedzy technicznej oraz nadzór nad wykonywaniem robót określonej specjalności techniczno-budowlanej w sposób gwarantujący bezpieczeństwo obiektu budowlanego w trakcie jego realizacji i użytkowania, 2) podejmowanie w toku budowy decyzji dotyczących zagadnień technicznych, ekonomicznych i użytkowych tej budowy, w ramach projektu budowlanego i obowiązujących przepisów, 3) sprawdzanie postępu robót, przeprowadzanie odbiorów częściowych robót budowlanych, branie udziału w odbiorze końcowym robót i przekazaniu obiektu budowlanego do użytku oraz stwierdzanie obliczeń ilości i wartości robót odebranych, 4) ustalanie ilości, stopnia przydatności i sposobu wykorzystania materiałów budowlanych uzyskanych z rozbiórki, 5) kontrola usunięcia przez wykonawcę usterek i braków, stwierdzonych w czasie odbioru obiektu budowlanego i w okresie gwarancyjnym. 3. Ogólne kierownictwo i koordynacja pracy poszczególnych inspektorów nadzoru inwestorskiego, sprawujących nadzór nad wykonaniem robót określonej specjalności techniczno-budowlanej, należy do jednego z tych inspektorów nadzoru inwestorskiego, wyznaczonego przez inwestora."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Przewodniczący Komitetu Budownictwa dla budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego mogą określić w drodze zarządzeń szczegółowy zakres obowiązków osób wykonujących funkcje techniczne w budownictwie. 2. Przepisy w sprawach określonych w ust. 1 dla budownictwa specjalnego w zakresie górnictwa wydawane są w porozumieniu z Prezesem Wyższego Urzędu Górniczego. Rozdział 4 O sporządzaniu i zatwierdzaniu projektów budowlanych"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Do sporządzania projektów budowlanych oraz innych prac projektowych w budownictwie powołane są państwowe jednostki projektowania. 2. Zasady tworzenia, organizacji i pracy państwowych jednostek projektowania ustala Komitet Budownictwa na podstawie wytycznych Rady Ministrów."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Osoby fizyczne oraz osoby prawne nie będące jednostkami gospodarki państwowej mogą prowadzić działalność zawodową w zakresie sporządzania prac projektowych w budownictwie tylko po uzyskaniu pozwolenia na taką działalność. 2. Pozwolenie, o którym mowa w ust. 1, może być udzielone tylko osobie posiadającej odpowiednie uprawnienia budowlane, a także osobie prawnej, jeżeli kierownik jednostki projektującej oraz pracownicy wykonujący funkcje projektantów posiadają takie uprawnienia. 3. Rada Ministrów ustali w drodze rozporządzenia organy właściwe do udzielania pozwoleń, o których mowa w ust. 1, zasady, tryb i warunki, na jakich pozwolenia te mogą być udzielone, wysokość opłat za wydanie pozwolenia, a także warunki cofania tych pozwoleń. Rozporządzenie to może również ustalić zasady udzielania zezwoleń osobom zatrudnionym w urzędach, instytucjach i przedsiębiorstwach państwowych oraz w jednostkach gospodarki uspołecznionej, posiadającym odpowiednie uprawnienia budowlane, na dorywcze wykonywanie projektów budowlanych bez uzyskiwania pozwolenia na działalność zawodową w zakresie wykonywania prac projektowych w budownictwie, o którym mowa w ust. 1. 4. Nie stanowi działalności zawodowej w zakresie wykonywania prac projektowych w budownictwie w rozumieniu ustawy udział w konkursie na projekt w budownictwie oraz wykonywanie prac projektowych dla własnych potrzeb projektującego bez względu na to, czy jest on osobą fizyczną czy prawną."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Projekt budowlany obejmuje projekt wstępny (stanowiący część budowlaną projektu inwestycji) i projekt podstawowy bądź tylko projekt podstawowy. 2. Projekt wstępny powinien zawierać zasady urbanistycznego, technicznego i ekonomicznego rozwiązania całej inwestycji oraz poszczególnych obiektów budowlanych. W skład projektu wstępnego wchodzi plan zagospodarowania terenu lub działki objętej inwestycją oraz opinia geotechniczna o przydatności gruntu pod budowę. Projekt wstępny opracowuje się na podstawie zatwierdzonych założeń inwestycji. 3. Projekt podstawowy powinien zawierać rozwiązanie zagadnień technicznych dotyczących budowy i użytkowania obiektu budowlanego, ustalać charakter i rodzaj zamierzonych robót oraz zastosowane konstrukcje i materiały."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Projekt wstępny, stanowiący część budowlaną projektu inwestycji, podlega zatwierdzeniu przez właściwe organy państwowego nadzoru budowlanego. 2. Niezależnie od obowiązku określonego w ust. 1 projekt wstępny z zakresu budownictwa specjalnego podlega zatwierdzeniu pod względem urbanistycznym i architektoniczno-budowlanym przez organ państwowego nadzoru budowlanego, właściwy dla budownictwa powszechnego. 3. Przewodniczący Komitetu Budownictwa dla budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego, ustalą w porozumieniu z Przewodniczącym Komisji Planowania przy Radzie Ministrów zasady i wymagania, jakim powinno odpowiadać opracowanie projektów wstępnych, zakres, zasady i tryb zatwierdzania tych projektów przez organy państwowego nadzoru budowlanego oraz jakie obiekty budowlane nie będą wymagały sporządzenia projektu wstępnego. 4. Przepisy, o których mowa w ust. 3, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego. 5. Przepis ust. 2 nie ma zastosowania do obiektów budowlanych wymienionych w art. 2 ust. 5 pkt 1 i 2 oraz do innych obiektów, które określi Przewodniczący Komitetu Budownictwa. 6. Przewodniczący Komitetu Budownictwa oraz właściwi ministrowie mogą, w zakresie swojej właściwości, zastrzec w poszczególnych przypadkach przedstawienie sobie do zatwierdzenia projektu wstępnego. 7. Przepisy ust. 1-6 nie naruszają uprawnień organów właściwych do zatwierdzania projektów wstępnych inwestycji."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Projekt podstawowy powinien być opracowany w oparciu o zatwierdzony projekt wstępny lub - w razie braku projektu wstępnego - w oparciu o zatwierdzone założenia zamierzonej inwestycji budowlanej. 2. Wprowadzenie w projekcie podstawowym istotnych zmian w stosunku do rozwiązań przyjętych w zatwierdzonym projekcie wstępnym jest możliwe tylko za zgodą organu właściwego do zatwierdzania projektów wstępnych, o którym mowa w art. 30 ust. 1, 2 i 6."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Projekt podstawowy podlega zatwierdzeniu przez właściwe organy państwowego nadzoru budowlanego. 2. Przewodniczący Komitetu Budownictwa w zakresie budownictwa powszechnego, a właściwi ministrowie w zakresie budownictwa specjalnego mogą w drodze zarządzenia zwolnić od obowiązku zatwierdzania przez podległe im organy państwowego nadzoru budowlanego wszystkie lub niektóre projekty podstawowe, sporządzone w określonych w zarządzeniu państwowych jednostkach projektowania. 3. Przewodniczący Komitetu Budownictwa w zakresie budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego ustalą zasady sporządzania projektów podstawowych, zasady i tryb zatwierdzania tych projektów oraz określą, jakie obiekty i roboty budowlane nie będą wymagały sporządzania i zatwierdzania projektu podstawowego. 4. Przepisy, o których mowa w ust. 3, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a przepisy, o których mowa w ust. 2 i 3, dla budownictwa specjalnego w zakresie górnictwa wydawane są ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Projekty budowlane pomników, posągów, figur, tablic pamiątkowych, kapliczek i innych podobnych obiektów i urządzeń, umieszczonych w miejscach publicznych, wymagają zatwierdzenia pod względem artystycznym. 2. Zasady i tryb zatwierdzania projektów, o których mowa w ust. 1, ustali w drodze rozporządzenia Minister Kultury i Sztuki wspólnie z Przewodniczącym Komitetu Budownictwa."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Jeżeli ustawowe przepisy szczególne wymagają lub uzależniają zatwierdzenie projektu wstępnego albo podstawowego od porozumienia lub zgody innych organów administracji państwowej oraz organów inspekcji pracy, projekt ten może być zatwierdzony dopiero po dokonaniu czynności wymaganych przez te przepisy szczególne."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Zatwierdzenie projektu podstawowego przez organ państwowego nadzoru budowlanego traci swoją ważność po upływie 2 lat, jeżeli w tym terminie nie zostało wydane pozwolenie na budowę. 2. W przypadku, o którym mowa w ust. 1, pozwolenie na budowę może być wydane dopiero po ponownym zatwierdzeniu projektu podstawowego. Rozdział 5 O pozwoleniach na budowę oraz warunkach rozpoczęcia robót budowlanych"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Przed przystąpieniem do wykonania obiektu budowlanego niezbędne jest uzyskanie przez inwestora pozwolenia na budowę. 2. Pozwolenie niezbędne jest również na wykonanie rozbiórki obiektu budowlanego. 3. Przewodniczący Komitetu Budownictwa w zakresie budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego określą obiekty budowlane, których budowa lub rozbiórka nie wymaga uzyskania pozwolenia, lecz tylko zgłoszenia, albo też których budowa lub rozbiórka nie wymaga uzyskania ani pozwolenia, ani zgłoszenia. 4. Przepisy, o których mowa w ust. 3, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Pozwolenie na budowę lub rozbiórkę obiektu budowlanego wydaje i zgłoszenie budowy lub rozbiórki przyjmuje właściwy organ państwowego nadzoru budowlanego, a dla budownictwa specjalnego w zakresie górnictwa - ponadto właściwy okręgowy urząd górniczy. 2. Pozwolenie na budowę lub rozbiórkę obiektu budowlanego może być udzielone po uprzednim uzyskaniu wymaganego przepisami szczególnymi pozwolenia, porozumienia lub zgody innych organów administracji państwowej. 3. Niezależnie od obowiązku określonego w ust. 2 udzielenie pozwolenia na budowę lub rozbiórkę obiektu budowlanego z zakresu budownictwa specjalnego może nastąpić tylko za zgodą organu państwowego nadzoru budowlanego, właściwego do spraw budownictwa powszechnego. 4. Organ państwowego nadzoru budowlanego, właściwy do spraw budownictwa powszechnego, może nie wyrazić zgody na wydanie pozwolenia, o którym mowa w ust. 3, jeżeli zamierzona budowa mogłaby sprowadzić niebezpieczeństwo dla ludzi lub mienia, albo uzależnić to pozwolenie od spełnienia warunków wynikających z obowiązujących przepisów i wymagań urbanistyczno-architektonicznych w miejscu wykonania robót. 5. Organ państwowego nadzoru budowlanego, właściwy do spraw budownictwa powszechnego, może odroczyć wydanie pozwolenia na budowę do czasu wykazania przez inwestora, że ma on zapewnioną możliwość uzyskania niezbędnych materiałów dla zamierzonej budowy. Przepis ten nie ma zastosowania do inwestorów państwowych i spółdzielczych. 6. Przepis ust. 3 i 4 nie ma zastosowania do budowy lub rozbiórki obiektów budowlanych wymienionych w art. 2 ust. 5 pkt 1 i 2 oraz do innych obiektów, które określi Przewodniczący Komitetu Budownictwa."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Właściwy organ państwowego nadzoru budowlanego może w razie potrzeby w pozwoleniu na budowę lub rozbiórkę obiektu budowlanego albo w potwierdzeniu przyjęcia zgłoszenia budowy lub rozbiórki ustalić warunki, wynikające z obowiązujących przepisów bądź ze względu na bezpieczeństwo, które powinno być zachowane przy prowadzeniu robót budowlanych."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Udzielenie pozwolenia na budowę lub rozbiórkę obiektu budowlanego nie narusza praw osób trzecich."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Przeniesienie pozwolenia na budowę lub rozbiórkę obiektu budowlanego na innego inwestora jest możliwe pod warunkiem przejęcia przez nowego inwestora wszystkich warunków tego pozwolenia. 2. Przeniesienia, o którym mowa w ust. 1, dokonuje właściwy organ państwowego nadzoru budowlanego na wniosek zainteresowanych inwestorów."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Pozwolenie na budowę lub rozbiórkę obiektu budowlanego traci ważność, jeżeli: 1) budowa lub rozbiórka nie została rozpoczęta w ciągu dwóch lat lub w terminie ustalonym w pozwoleniu, 2) budowa lub rozbiórka została przerwana na czas dłuższy niż dwa lata lub nie została zakończona w terminie wskazanym w pozwoleniu, 3) samowolnie odstąpiono od istotnych warunków pozwolenia. 2. Rozpoczęcie albo wznowienie budowy lub rozbiórki w przypadkach określonych w ust. 1 może nastąpić po uzyskaniu nowego pozwolenia na budowę lub rozbiórkę obiektu budowlanego."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Po udzieleniu pozwolenia na budowę lub rozbiórkę obiektu budowlanego właściwy organ wydaje dziennik budowy lub rozbiórki, który służy do zapisywania wszelkich danych, dotyczących danej budowy lub rozbiórki."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Pozwolenie na budowę lub rozbiórkę obiektu budowlanego oraz dziennik budowy lub rozbiórki powinny znajdować się podczas wykonywania robót na miejscu budowy lub rozbiórki i być dostępne dla przedstawicieli organów państwowego nadzoru budowlanego i innych organów uprawnionych do ich przeglądania."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Inwestor, który uzyskał pozwolenie na budowę lub rozbiórkę obiektu budowlanego, może poruczyć wykonanie danych robót tylko osobie prawnej lub fizycznej, posiadającej prawo do wykonywania takich robót. 2. Osoba prawna, podejmująca się wykonania robót budowlanych, jest zobowiązana, w przypadkach określonych przepisami, wyznaczyć kierownika budowy, a także kierowników robót i majstrów budowlanych. 3. Inwestor może prowadzić roboty budowlane systemem gospodarczym. Jeżeli zakres wykonywanych robót budowlanych wymaga powołania osoby posiadającej odpowiednie uprawnienia budowlane, inwestor obowiązany jest zapewnić kierownictwo i nadzór osoby posiadającej takie uprawnienia. 4. Kierownik budowy, kierownicy robót oraz inspektorzy nadzoru inwestorskiego przed rozpoczęciem swych czynności na budowie lub przy rozbiórce obiektu budowlanego obowiązani są zawiadomić właściwy organ państwowego nadzoru budowlanego o podjęciu się wykonywania danej funkcji technicznej."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "O terminie rozpoczęcia budowy lub rozbiórki obiektu budowlanego, na które jest wymagane pozwolenie, kierownik budowy obowiązany jest zawiadomić właściwy organ państwowego nadzoru budowlanego co najmniej na 7 dni przed rozpoczęciem robót budowlanych."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Przed przystąpieniem do robót ziemnych związanych z budową obiektów budowlanych, wymagających nawiązania do innych obiektów budowlanych lub do linii odgraniczających (linii regulacyjnych) albo zabudowy i do stałych rzędnych wysokości, należy uzyskać wyznaczenie tych obiektów w terenie przez organ państwowej służby geodezyjnej albo przez uprawnione do takich czynności osoby prawne lub fizyczne. 2. W przypadkach, o których mowa w ust. 1, prawidłowość usytuowania poziomego oraz posadowienia wysokościowego realizowanego obiektu budowlanego powinna być sprawdzona w początkowym stadium budowy przez organ państwowej służby geodezyjnej. 3. Istniejące obiekty budowlane, a w szczególności urządzenia komunalne, oraz drzewa i krzewy, zbiorniki, cieki wodne i znaki geodezyjne znajdujące się na placu budowy, jeżeli nie są przeznaczone do likwidacji, a także ziemia roślinna znajdująca się tam - powinny być na czas trwania robót budowlanych odpowiednio zabezpieczone."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Budowa lub rozbiórka obiektu budowlanego powinna być prowadzona w sposób zapewniający bezpieczeństwo oraz higienę pracy. 2. Warunki bezpieczeństwa i higieny pracy przy wykonywaniu robót budowlanych i rozbiórkowych określi w drodze rozporządzenia Przewodniczący Komitetu Budownictwa w porozumieniu z Centralną Radą Związków Zawodowych. Ministrowie właściwi do spraw budownictwa specjalnego w porozumieniu z Przewodniczącym Komitetu Budownictwa i Centralną Radą Związków Zawodowych, a także w porozumieniu z Prezesem Wyższego Urzędu Górniczego w odniesieniu do budownictwa specjalnego w zakresie górnictwa, wydadzą w tym zakresie przepisy uzupełniające potrzebne ze względu na specyfikę robót budowlanych i rozbiórkowych budownictwa specjalnego."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. W przypadku gdy do wykonania robót budowlanych lub rozbiórkowych niezbędne jest wejście na teren nieruchomości bądź do budynku lub mieszkania sąsiada, inwestor obowiązany jest co najmniej na 14 dni przed rozpoczęciem robót zawiadomić o tym sąsiada. 2. Jeżeli inwestor nie otrzyma sprzeciwu sąsiada w terminie 7 dni po doręczeniu zawiadomienia, o którym mowa w ust. 1, uważa się, że sąsiad wyraził zgodę. 3. W razie zgłoszenia przez sąsiada sprzeciwu właściwy organ państwowego nadzoru budowlanego na wniosek inwestora decyduje o konieczności dopuszczenia do korzystania z terenu nieruchomości bądź budynku lub mieszkania sąsiada, określając jednocześnie rozmiary tego korzystania. 4. Inwestor wynagrodzi sąsiadowi wszelkie szkody spowodowane wejściem lub korzystaniem z terenu jego nieruchomości bądź budynku albo mieszkania, o których mowa w ust. 1. Wynikłe stąd spory rozpatruje sąd lub arbitraż państwowy stosownie do właściwości."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Szczegółowe przepisy o wydawaniu pozwoleń na budowę i rozbiórkę obiektów budowlanych, o zgłaszaniu robót budowlanych i rozbiórkowych, o sposobie prowadzenia dziennika budowy lub rozbiórki określą: dla budownictwa powszechnego Przewodniczący Komitetu Budownictwa, a dla budownictwa specjalnego właściwi ministrowie. 2. Przepisy, o których mowa w ust. 1, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego. 3. Przepisy, o których mowa w ust. 1, mogą wprowadzić odstępstwa od postanowień zawartych w art. 42 i 46. 4. Szczegółowe przepisy, dotyczące wykonywania czynności geodezyjnych, o których mowa w art. 46 ust. 1 i 2, wyda Minister Spraw Wewnętrznych w porozumieniu z Przewodniczącym Komitetu Budownictwa, Ministrami Gospodarki Komunalnej i Rolnictwa oraz ministrami właściwymi dla budownictwa specjalnego i Prezesem Wyższego Urzędu Górniczego. Rozdział 6 O nadzorze nad budową, rozbiórką i utrzymaniem obiektów budowlanych"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Pracownicy organów państwowego nadzoru budowlanego, w celu wykonania swych zadań, mają prawo wstępu na budowę, na teren zakładów pracy i instytucji oraz do obiektów budowlanych położonych na tym terenie, a także do innych obiektów budowlanych dla przeprowadzenia kontroli robót budowlanych lub rozbiórkowych oraz kontroli utrzymania obiektów budowlanych w należytym stanie technicznym. 2. Kontrola robót i obiektów budowlanych powinna być przeprowadzona w obecności kierownika budowy lub robót albo ich zastępców, kierownika zakładu pracy, jego zastępcy albo wyznaczonego pracownika bądź w obecności właściciela lub zarządcy obiektu budowlanego. W lokalach mieszkalnych czynności urzędowe należy wykonywać w obecności pełnoletniego domownika i przedstawiciela administracji lub zarządu budynków. 3. Kontrolę robót i obiektów budowlanych, które są w zarządzie państw obcych lub są użytkowane przez przedstawicieli dyplomatycznych i konsularnych tych państw oraz inne osoby zrównane z nimi na podstawie ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, należy wykonywać za zgodą tych przedstawicieli lub osób."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Właściwy organ państwowego nadzoru budowlanego obowiązany jest wstrzymać roboty budowlane bądź rozbiórkowe w przypadku, gdy są one wykonywane bez wymaganego pozwolenia albo w sposób mogący sprowadzić niebezpieczeństwo dla ludzi lub mienia bądź spowodować ciężkie straty w gospodarce narodowej, albo gdy budowa lub rozbiórka obiektu budowlanego odbiega w sposób istotny od projektu bądź warunków określonych w pozwoleniu. 2. Właściwy organ państwowego nadzoru budowlanego może wstrzymać roboty budowlane bądź rozbiórkowe w przypadku, gdy są one wykonywane bez wymaganego zgłoszenia albo gdy budowa lub rozbiórka odbiega od warunków określonych w potwierdzeniu zgłoszenia budowy lub rozbiórki. 3. W decyzji o wstrzymaniu budowy lub rozbiórki obiektu budowlanego należy: 1) podać powód wstrzymania robót budowlanych bądź rozbiórkowych, 2) ustalić wymagania co do doraźnego zabezpieczenia robót oraz otoczenia, 3) określić, jakie zmiany lub przeróbki należy wykonać dla uzyskania pozwolenia na wznowienie robót budowlanych lub rozbiórkowych, 4) określić terminy, w jakich mają być spełnione wymagania i warunki, o których mowa w pkt 2 i 3. 4. W przypadku gdy wymagania i warunki, o których mowa w ust. 3 pkt 2 i 3, nie zostaną spełnione w wyznaczonym terminie, właściwy organ państwowego nadzoru budowlanego może wydać nakaz przymusowej rozbiórki."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. Obiekty budowlane będące w budowie lub wybudowane bez pozwolenia bądź niezgodnie z istotnymi warunkami pozwolenia ulegają przymusowej rozbiórce, jeżeli właściwy organ państwowego nadzoru budowlanego stwierdzi, że obiekt budowlany: 1) znajduje się na terenie, który zgodnie z przepisami o planowaniu przestrzennym nie jest przeznaczony pod zabudowę albo przeznaczony jest pod innego rodzaju zabudowę, lub 2) sprowadza bądź w razie wybudowania sprowadziłby niebezpieczeństwo dla ludzi lub mienia albo 3) powoduje bądź w razie wybudowania spowodowałby niedopuszczalne pogorszenie warunków użytkowych i zdrowotnych dla otoczenia. 2. Właściwy organ państwowego nadzoru budowlanego stwierdzając, że zachodzi jeden z przypadków wymienionych w ust. 1, obowiązany jest wydać inwestorowi, właścicielowi bądź zarządcy nakaz przymusowej rozbiórki obiektu budowlanego i określić termin jej wykonania. 3. Wojewódzki (miejski miasta wyłączonego z województwa) organ państwowego nadzoru budowlanego może wydać nakaz przymusowej rozbiórki obiektu budowlanego będącego w budowie lub wybudowanego bez pozwolenia bądź niezgodnie z istotnymi warunkami pozwolenia, jeżeli jest to uzasadnione innymi ważnymi przyczynami poza wymienionymi w ust. 1."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Tymczasowe obiekty budowlane powinny być rozebrane po upływie okresu oznaczonego w pozwoleniu na budowę, na jaki zostały wzniesione. Jeżeli właściciel lub zarządca obiektu budowlanego obowiązku tego nie dokona, właściwy organ państwowego nadzoru budowlanego wezwie go do dokonania rozbiórki w oznaczonym terminie. 2. Jeżeli pomimo wezwania obiekt budowlany, o którym mowa w ust. 1, nie został rozebrany, a właściciel lub zarządca nie uzyskał przedłużenia terminu użytkowania tego obiektu, właściwy organ państwowego nadzoru budowlanego obowiązany jest wydać nakaz przymusowej rozbiórki, określając przy tym termin jej wykonania."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Inwestor, właściciel lub zarządca obiektu budowlanego w przypadkach, o których mowa w art. 51 ust. 4, w art. 52 oraz w art. 53 ust. 2, obowiązany jest swoim kosztem dokonać rozbiórki i uporządkować teren w terminie wskazanym w nakazie przymusowej rozbiórki. 2. W przypadku niewykonania obowiązku, o którym mowa w ust. 1, należy wdrożyć postępowanie przymusowe zgodnie z przepisami o postępowaniu przymusowym w administracji. 3. Na pokrycie kosztów przeprowadzenia rozbiórki w trybie przepisów o postępowaniu przymusowym w administracji służy organowi, który przeprowadza rozbiórkę lub który ją zarządził, prawo zatrzymania i sprzedaży materiałów budowlanych uzyskanych z rozbiórki."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. W przypadkach gdy nie zachodzą warunki przewidziane w art. 52 dla wydania nakazu przymusowej rozbiórki obiektu budowlanego nie odpowiadającego obowiązującym przepisom, właściwy organ państwowego nadzoru budowlanego wyda inwestorowi, właścicielowi lub zarządcy tego obiektu nakaz dokonania zmian lub przeróbek, niezbędnych dla doprowadzenia obiektu budowlanego do stanu zgodnego z obowiązującymi przepisami, oraz ustali termin, w jakim te zmiany lub przeróbki powinny być dokonane. 2. W razie niewykonania nakazu, o którym mowa w ust. 1, należy wdrożyć postępowanie przymusowe zgodne z przepisami o postępowaniu przymusowym w administracji."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Jeżeli względy społeczne i gospodarcze przemawiają za celowością czasowego wykorzystania obiektu budowlanego, co do którego wydany został nakaz przymusowej rozbiórki na podstawie art. 52 ust. 1 pkt 1 i art. 53 ust. 2, właściwy organ państwowego nadzoru budowlanego może odroczyć wykonanie przymusowej rozbiórki na określony czas i zezwolić na czasowe użytkowanie obiektu budowlanego w sposób określony w decyzji. 2. Odroczenie przymusowej rozbiórki nie zwalnia osób winnych budowy obiektu budowlanego bez pozwolenia od odpowiedzialności karnej. 3. Do obiektu budowlanego, co do którego odroczono wykonanie przymusowej rozbiórki zgodnie z postanowieniem ust. 1, nie mają zastosowania przepisy o wyłączeniu budynków spod publicznej gospodarki lokalami."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Odszkodowanie przewidziane w przepisach o zasadach i trybie wywłaszczenia nieruchomości nie należy się za obiekt budowlany, w stosunku do którego wydano nakaz przymusowej rozbiórki na podstawie art. 51 ust. 4, art. 52 ust. 2 i 3 oraz art. 53 ust. 2. 2. Wywłaszczający nie jest obowiązany do dostarczenia lokali zastępczych dla osób, które zamieszkują lub zajmują lokal użytkowy w obiekcie budowlanym, co do którego nakaz przymusowej rozbiórki został wydany na podstawie art. 52 ust. 2 i 3 oraz art. 53 ust. 2."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. W przypadku gdy właściwy organ państwowego nadzoru budowlanego stwierdza nieodpowiedni stan techniczny wybudowanego i użytkowanego obiektu budowlanego albo nieodpowiedni sposób użytkowania obiektu budowlanego, który wpływa na pogorszenie bezpieczeństwa ludzi lub mienia lub trwałości tego obiektu, bądź niewykonanie przez właściciela lub zarządcę obowiązków wynikających z przepisów dotyczących warunków technicznych, jakim powinny odpowiadać obiekty budowlane, może w szczególności: 1) uznać obiekt budowlany za wymagający naprawy oraz nakazać podjęcie robót i innych środków niezbędnych dla doprowadzenia obiektu do odpowiedniego stanu, 2) nakazać użytkowanie obiektu budowlanego zgodnie z jego przeznaczeniem, 3) nakazać usunięcie zagrożenia bezpieczeństwa ludzi lub mienia oraz dokonanie niezbędnych zabezpieczeń, 4) nakazać osobom mieszkającym w obiekcie budowlanym lub innym użytkownikom w przypadkach stwierdzonego niebezpieczeństwa dla ludzi lub mienia opuszczenie całości lub części obiektu, gdy prowadzenie robót w obecności mieszkańców lub użytkowników byłoby połączone z niebezpieczeństwem dla ludzi lub mienia, 5) nakazać rozbiórkę obiektu budowlanego lub jego części grożących zawaleniem lub nie nadających się do naprawy, 6) nakazać wyposażenie obiektu budowlanego w urządzenia i instalacje oraz ich uzupełnienie bądź ulepszenie. 2. W przypadku wydania na podstawie przepisu ust. 1 pkt 2, 3 i 4 nakazu opuszczenia przez mieszkańców lub użytkowników całości lub części obiektu budowlanego właściwy organ państwowego nadzoru budowlanego zawiadamia równocześnie o tym organ właściwy do spraw przekwaterowania tych mieszkańców lub użytkowników z tego obiektu."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. W przypadku gdy należy niezwłocznie zastosować środki mające na celu usunięcie niebezpieczeństwa ludzi lub mienia, właściwy organ państwowego nadzoru budowlanego jest uprawniony do przedsięwzięcia na koszt inwestora, właściciela lub zarządcy potrzebnych środków, jak np. opróżnienia lub ogrodzenia obiektu budowlanego w całości lub części. 2. Do przedsięwzięcia na koszt inwestora lub właściciela środków przewidzianych w ust. 1 upoważniona jest również Milicja Obywatelska oraz inne organy państwowe powołane do utrzymania porządku i bezpieczeństwa publicznego. O czynnościach swych organy te powinny bezzwłocznie zawiadomić właściwy organ państwowego nadzoru budowlanego."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "1. W przypadku gdy nie użytkowany obiekt budowlany zniszczony lub nie wykończony nie nadaje się do remontu, odbudowy bądź wykończenia, właściwy organ państwowego nadzoru budowlanego może wezwać właściciela lub zarządcę do rozbiórki tego obiektu i usunięcia gruzów oraz określić termin przystąpienia do tych robót i termin ich ukończenia. 2. W razie gdy właściciel lub zarządca obiektu budowlanego nie rozpocznie lub nie zakończy rozbiórki i usunięcia gruzu w wyznaczonym terminie, właściwy organ państwowego nadzoru budowlanego może zarządzić ze środków państwowych rozbiórkę tego obiektu i usunięcie gruzu. 3. Materiały pochodzące z rozbiórki w przypadku, o którym mowa w ust. 2, przechodzą na własność Państwa. 4. Właściciel rozebranego obiektu budowlanego w przypadku określonym w ust. 2 i 3 nie może być obciążony kosztami tej rozbiórki i usunięcia gruzu ani też nie przysługuje mu prawo do odszkodowania."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Organy państwowego nadzoru budowlanego mają prawo żądać od inwestora, właściciela lub zarządcy obiektu budowlanego oraz od wykonawcy robót budowlanych udzielania informacji i udostępnienia dokumentów związanych z prowadzeniem robót, przekazaniem obiektu budowlanego do użytkowania bądź utrzymaniem obiektu."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Gdy względy bezpieczeństwa ludzi lub mienia albo odpowiedniej trwałości obiektu budowlanego tego wymagają, właściwy organ państwowego nadzoru budowlanego ma prawo żądać od inwestora, właściciela lub zarządcy oraz od wykonawcy robót budowlanych dostarczenia technicznych ekspertyz dotyczących projektu budowlanego, materiałów, robót, a także stanu technicznego obiektów budowlanych, oraz określić termin ich dostarczenia. 2. Koszty ekspertyz określonych w ust. 1 ponosi inwestor, właściciel lub zarządca obiektu budowlanego albo wykonawca robót budowlanych. 3. W razie niedostarczenia w wyznaczonym terminie żądanych ekspertyz lub w razie dostarczenia ekspertyz, które niedostatecznie wyjaśniają sprawę będącą przedmiotem ekspertyzy - właściwy organ państwowego nadzoru budowlanego ma prawo zlecić wykonanie tych ekspertyz na koszt inwestora, właściciela lub zarządcy obiektu budowlanego bądź na koszt wykonawcy robót budowlanych."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Przewodniczący Komitetu Budownictwa dla budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego mogą określić szczegółowe zasady i tryb wykonywania państwowego nadzoru budowlanego nad budową, rozbiórką i utrzymaniem obiektów budowlanych. 2. Przepisy, o których mowa w ust. 1, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego. Rozdział 7 O pozwoleniach na użytkowanie obiektów budowlanych"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Obiekt budowlany, na którego budowę wymagane jest uzyskanie pozwolenia na budowę, może być użytkowany po uzyskaniu pozwolenia na użytkowanie. 2. Przewodniczący Komitetu Budownictwa dla budownictwa powszechnego, a właściwi ministrowie dla budownictwa specjalnego określą obiekty budowlane, których użytkowanie nie wymaga uzyskania pozwolenia, lecz tylko zgłoszenia albo też których użytkowanie nie wymaga uzyskania pozwolenia ani zgłoszenia. 3. Przepisy, o których mowa w ust. 2, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. Pozwolenia na użytkowanie wydaje i zgłoszenia o zamierzonym przystąpieniu do użytkowania przyjmuje właściwy organ państwowego nadzoru budowlanego. 2. Pozwolenie na użytkowanie obiektu budowlanego może być udzielone po uprzednim uzyskaniu wymaganego przepisami szczególnymi pozwolenia, porozumienia lub zgody innych organów administracji państwowej oraz organów Inspekcji Pracy."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Niezależnie od obowiązku uzyskania pozwolenia na użytkowanie obiektu budowlanego od właściwego organu państwowego nadzoru budowlanego, o zamierzonym przystąpieniu do użytkowania obiektu budowlanego zaliczonego do budownictwa specjalnego należy zawiadomić co najmniej na 7 dni przed terminem oddania danego obiektu do użytkowania odpowiedni organ państwowego nadzoru budowlanego, właściwy do spraw budownictwa powszechnego. 2. Organ państwowego nadzoru budowlanego właściwy do spraw budownictwa powszechnego może nie wyrazić zgody na użytkowanie obiektu budowlanego, o którym mowa w ust. 1, jeżeli stwierdzi, że stan obiektu budowlanego sprowadza niebezpieczeństwo dla ludzi lub mienia, albo uzależnić przystąpienie do użytkowania tego obiektu od spełnienia warunków wynikających z obowiązujących przepisów lub wymagań urbanistyczno-architektonicznych na terenie budowy. 3. Przepis ust. 1 i 2 nie ma zastosowania do obiektów budowlanych określonych w art. 2 ust. 5 pkt 1 i 2."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Pozwolenie na użytkowanie obiektu budowlanego może być wydane po protokolarnym stwierdzeniu na miejscu budowy, że obiekt budowlany wykonany został zgodnie z warunkami pozwolenia na budowę i obowiązującymi przepisami, że jego stan nie zagraża bezpieczeństwu i że obiekt budowlany jest zdatny do użytku. 2. Stwierdzenie zdatności obiektu budowlanego do użytkowania może być uzależnione od wyniku przeprowadzonych prób. 3. Stwierdzenie zdatności do użytkowania obiektu budowlanego budownictwa objętego przepisami art. 13 dokonywane jest na podstawie przepisów, o których mowa w art. 13 ust. 3 pkt 4. Dla pozostałego budownictwa czynności te wykonują właściwe organy państwowego nadzoru budowlanego."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Właściwy organ państwowego nadzoru budowlanego może w pozwoleniu na użytkowanie obiektu budowlanego określić warunki użytkowania tego obiektu albo uzależnić to użytkowanie od wykonania w oznaczonych terminach określonych robót wykończeniowych."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1. Szczegółowe zasady stwierdzenia przez organy państwowego nadzoru budowlanego zdatności obiektu budowlanego do użytkowania oraz szczegółowy tryb wydawania pozwoleń na użytkowanie lub zgłaszania przystąpienia do użytkowania obiektu budowlanego określą dla budownictwa powszechnego Przewodniczący Komitetu Budownictwa, a dla budownictwa specjalnego - właściwi ministrowie. 2. Przepisy, o których mowa w ust. 1, w zakresie budownictwa specjalnego wydawane są w porozumieniu z Przewodniczącym Komitetu Budownictwa, a dla budownictwa specjalnego w zakresie górnictwa - ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego. Rozdział 8 O utrzymaniu obiektów budowlanych"
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Właściciel lub zarządca obiektu budowlanego obowiązany jest do użytkowania tego obiektu zgodnie z przeznaczeniem oraz do utrzymania go w należytym stanie w celu ochrony przed zniszczeniem. 2. W szczególności do obowiązków właściciela lub zarządcy obiektu budowlanego należy: 1) utrzymanie obiektu budowlanego w należytym stanie technicznym, nie powodującym zagrożenia bezpieczeństwa ludzi lub mienia albo zmniejszenia jego trwałości, odpowiadającym wymaganiom bezpieczeństwa pożarowego, terenowej obrony przeciwlotniczej, sanitarnym, ochrony wód, estetyki, bezpieczeństwa i higieny pracy, a także wymaganiom technicznym w zakresie utrzymania i eksploatacji urządzeń technicznych związanych z obiektem budowlanym, jak dźwigi, kotły, zbiorniki pod ciśnieniem itp., 2) utrzymanie w stanie bezpiecznym i estetycznym urządzeń terenowych związanych z obiektami budowlanymi, jak dojazdy, chodniki, przejścia przez tereny przynależne do obiektu budowlanego itp., 3) przeprowadzanie badania stanu technicznego obiektu budowlanego oraz wykonywanie robót budowlanych niezbędnych do jego utrzymania w należytym stanie - z zachowaniem obowiązujących przepisów, 4) wyposażenie obiektów budowlanych w urządzenia i instalacje oraz ulepszanie i uzupełnianie istniejących urządzeń i instalacji w granicach i na warunkach określonych przepisami, jak np. wykonanie instalacji wodociągowo-kanalizacyjnej, gazowej, elektrycznej, cieplnej, a także podłączenia ich do sieci publicznych, wykonanie instalacji piorunochronnej itp., 5) dokonanie rozbiórki obiektu budowlanego w przypadku uznania obiektu budowlanego za nie nadający się do wykończenia lub budowy, a także w przypadku otrzymania nakazu rozbiórki."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Użytkownicy obiektów budowlanych obowiązani są do korzystania z tych obiektów zgodnie z ich przeznaczeniem. 2. Zmiana sposobu użytkowania obiektu budowlanego przez użytkownika, niezależnie od zgody właściciela lub zarządcy tego obiektu, wymaga zgody właściwego organu państwowego nadzoru budowlanego. 3. Przez zmianę sposobu użytkowania należy rozumieć stworzenie tego rodzaju sytuacji w obiekcie budowlanym, przy której następuje przeróbka na pomieszczenie na pobyt ludzi takich lokali, które uprzednio miały inne przeznaczenie lub były budowane dla innego celu, albo naruszenie warunków bezpieczeństwa pożarowego lub warunków higieniczno-sanitarnych, albo zmiana obciążeń użytkowych bądź zmiana wyglądu obiektu budowlanego."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Organy prezydiów rad narodowych i Milicji Obywatelskiej obowiązane są niezwłocznie przekazywać właściwemu organowi państwowego nadzoru budowlanego otrzymane od komitetów blokowych wiadomości o nienależytym stanie technicznym obiektów budowlanych. Rozdział 9 O organach nadzoru budowlanego"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "1. Naczelnymi organami państwowego nadzoru budowlanego są: 1) dla budownictwa powszechnego - Komitet Budownictwa, 2) dla budownictwa specjalnego - właściwi ministrowie. 2. Terenowymi organami państwowego nadzoru budowlanego są: 1) dla budownictwa powszechnego - właściwe do spraw nadzoru budowlanego organy prezydiów powiatowych rad narodowych, prezydiów miejskich rad narodowych w miastach stanowiących powiaty miejskie, prezydiów dzielnicowych rad narodowych w miastach wyłączonych z województw oraz prezydiów wojewódzkich rad narodowych i prezydiów rad narodowych miast wyłączonych z województw, 2) dla budownictwa specjalnego - właściwe organy, określone w przepisach szczególnych lub powołane przez Radę Ministrów. 3. Nadzór budowlany nad budownictwem powszechnym na terenach kolejowych Komitet Budownictwa wykonuje w porozumieniu z Ministrem Komunikacji, a terenowe organy nadzoru budowlanego właściwe do spraw budownictwa powszechnego - w porozumieniu z podległymi Ministrowi Komunikacji organami nadzoru nad budownictwem specjalnym kolejowym. 4. Rada Ministrów w drodze rozporządzenia powoła w razie potrzeby terenowe organy państwowego nadzoru budowlanego dla budownictwa specjalnego w tych resortach, w których organy takie nie zostały powołane przepisami szczególnymi. 5. Rada Ministrów może w drodze rozporządzenia przekazywać funkcje naczelnego organu państwowego nadzoru budowlanego dla budownictwa specjalnego w zakresie górnictwa Prezesowi Wyższego Urzędu Górniczego, a funkcje terenowych organów państwowego nadzoru budowlanego w tym zakresie - okręgowym urzędom górniczym."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. W sprawach państwowego nadzoru budowlanego, o których mowa w niniejszej ustawie, działają jako pierwsza instancja administracyjna właściwe do spraw państwowego nadzoru budowlanego organy prezydiów powiatowych rad narodowych oraz prezydiów miejskich rad narodowych w miastach stanowiących powiaty miejskie, z wyjątkiem przypadków zastrzeżonych przepisami do zakresu działania innych organów państwowego nadzoru budowlanego, wymienionych w art. 73. 2. W sprawach, o których mowa w ust. 1, organom do spraw nadzoru budowlanego prezydiów dzielnicowych rad narodowych w miastach wyłączonych z województw przysługują uprawnienia właściwych do spraw nadzoru budowlanego organów prezydiów powiatowych rad narodowych. 3. Powiatowa rada narodowa za zgodą wojewódzkiej rady narodowej może przekazać gromadzkiej (miejskiej, osiedla) radzie narodowej w odniesieniu do budownictwa powszechnego niektóre sprawy państwowego nadzoru budowlanego przy równoczesnym przekazaniu środków służących do wykonywania tych zadań, a mianowicie: 1) w stosunku do inwestorów państwowych, spółdzielczych i społecznych - sprawy kontroli legalności oraz wstrzymywania robót budowlanych i rozbiórkowych, prowadzonych bez wymaganego pozwolenia, a także sprawy wynikające z art. 59 i 61, z tym że czynności i decyzję w tych sprawach mogą również podejmować bezpośrednio właściwe do spraw państwowego nadzoru budowlanego organy prezydiów powiatowych rad narodowych, 2) w stosunku do inwestorów prywatnych - sprawy wynikające z art. 37 i 64 dotyczące przyjmowania zgłoszeń oraz sprawy wynikające z art. 51, 58 ust. 1 pkt 1-4, 59 i 61."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Organy Technicznej Inspekcji Pracy, Państwowej Inspekcji Sanitarnej, ochrony przeciwpożarowej, ochrony zabytków oraz ochrony przyrody, przy wydawaniu decyzji mających wpływ na stan techniczny będących w budowie lub istniejących obiektów budowlanych, działają w porozumieniu z właściwym organem państwowego nadzoru budowlanego."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Przepisy, o których mowa w art. 5 ust. 1, w art. 8 ust. 2, w art. 9 i w art. 13 ust. 3, w art. 17 ust. 3, w art. 22 ust. 2, w art. 26 ust. 1, w art. 30 ust. 5, w art. 37 ust. 6 i w art. 47 ust. 2, wydawane są przez Przewodniczącego Komitetu Budownictwa w porozumieniu z zainteresowanymi ministrami i kierownikami urzędów centralnych. 2. Prezes Rady Ministrów może w drodze rozporządzenia określić szczegółowo zasady współdziałania organów, o których mowa w art. 73 ust. 2 i art. 75. Rozdział 10 Przepisy karne"
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Kto: 1) wykonuje działalność zawodową w zakresie sporządzania prac projektowych w budownictwie bez pozwolenia przewidzianego w niniejszej ustawie i w rozporządzeniu Rady Ministrów wydanym na podstawie art. 28 ust. 3 albo 2) posiadając pozwolenie na działalność zawodową w zakresie sporządzania prac projektowych w budownictwie, przyjęty do opracowania projekt przekazuje do sporządzenia innej osobie nie posiadającej pozwolenia na taką działalność, albo 3) posiadając pozwolenie na działalność zawodową w zakresie sporządzania prac projektowych w budownictwie lub zezwolenie na dorywcze wykonanie projektów budowlanych, podpisuje jako autor projekty wykonane przez inne osoby - podlega karze aresztu do 3 miesięcy lub karze grzywny do 4 500 zł albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Kto: 1) nie stosuje się przy sporządzaniu projektów lub prowadzeniu robót budowlanych albo rozbiórkowych do przepisów niniejszej ustawy lub przepisów wydanych na jej podstawie albo 2) nie stosuje się do zarządzeń organów państwowego nadzoru budowlanego, wydanych na podstawie niniejszej ustawy lub na podstawie przepisów wydanych na jej podstawie, albo 3) uchyla się od udzielenia na żądanie organu państwowego nadzoru budowlanego informacji i nie przedstawia w nakazanym terminie dokumentów, albo 4) nie spełnia lub spełnia niedbale określony w art. 70 obowiązek utrzymania obiektu budowlanego we właściwym stanie technicznym, albo 5) nie wykonuje wydanego na podstawie niniejszej ustawy nakazu opuszczenia obiektu budowlanego, albo przebywa w obiekcie budowlanym, w stosunku do którego wydano zakaz przebywania ze względu na stan zagrożenia bezpieczeństwa ludzi lub mienia, albo 6) użytkuje bądź oddaje do użytkowania obiekt budowlany, na który nie zostało udzielone wymagane przepisami niniejszej ustawy pozwolenie na użytkowanie, o czym sprawcy było wiadomo - podlega karze aresztu do 3 miesięcy lub karze grzywny do 4.500 zł albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Kto udaremnia czynności państwowych organów nadzoru budowlanego - podlega karze aresztu do 6 miesięcy lub karze grzywny do 20.000 zł albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1. Kto przystępuje do budowy obiektu budowlanego bez wymaganego przepisami pozwolenia na budowę bądź zgłoszenia albo niezgodnie z warunkami takiego pozwolenia lub zgłoszenia - podlega karze aresztu do 1 roku lub karze grzywny do 50.000 zł albo obu tym karom łącznie. 2. Jeżeli wskutek czynu określonego w ust. 1 zachodzi jedna z okoliczności wymienionych w art. 52 ust. 1, stwierdzona nakazem przymusowej rozbiórki - wymierza się karę aresztu nie mniejszą niż 1 miesiąc, a karę grzywny nie mniejszą niż 4.500 zł."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Jeżeli sprawca czynów określonych w art. 77-80 posiada prawo wykonywania robót budowlanych i rozbiórkowych lub prowadzenia działalności zawodowej w zakresie sporządzania projektów budowlanych oraz wykonywania innych prac projektowych w budownictwie, można w razie skazania na karę pozbawienia wolności orzec ponadto utratę prawa wykonywania robót budowlanych i rozbiórkowych lub prowadzenia działalności zawodowej w zakresie sporządzania projektów budowlanych oraz innych prac projektowych w budownictwie - na czas nie przekraczający pięciu lat."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "1. Kto złośliwie niszczy obiekt budowlany - podlega karze aresztu lub karze grzywny do 100.000 zł albo obu tym karom łącznie. 2. Kto przez niewłaściwe użytkowanie niszczy obiekt budowlany - podlega karze aresztu do roku lub karze grzywny do 50.000 zł albo obu tym karom łącznie. 3. W przypadkach mniejszej wagi sprawca czynu określonego w ust. 1 i 2 - podlega karze aresztu do sześciu miesięcy lub karze grzywny do 20.000 zł albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "1. W urzędach i instytucjach, przedsiębiorstwach i zakładach państwowych oraz w jednostkach spółdzielczych i społecznych odpowiedzialność karną, określoną w art. 77-80 i 82, ponosi jako współsprawca osoba, która wydała decyzję powodującą odpowiedzialność karną lub wbrew obowiązkom uchyliła się od wydania decyzji, co spowodowało odpowiedzialność karną. 2. W przypadkach określonych w ust. 1, a odnoszących się do czynów wymienionych w art. 77-79, nie podlega karze osoba, która wykonała decyzję organu przełożonego albo nadzorczego."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Orzekanie w sprawach wymienionych w art. 77-78 następuje w trybie przepisów o orzecznictwie karno-administracyjnym. 2. Orzekanie w sprawach wymienionych w art. 77-78, dotyczących budownictwa specjalnego w zakresie górnictwa, należy do właściwych urzędów górniczych. Rozdział 11 Odpowiedzialność zawodowa"
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Jeżeli na podstawie art. 77-80 została prawomocnie skazana osoba posiadająca uprawnienia budowlane, o których mowa w art. 17, właściwy naczelny organ państwowego nadzoru budowlanego może zawiesić na okres do lat pięciu prawo wykonywania czynności (funkcji), do których wymagane jest posiadanie uprawnień budowlanych - przy czym może uzależnić przywrócenie prawa do wykonywania tych czynności od odbycia dodatkowej praktyki lub od złożenia egzaminu (art. 21 ust. 3), jeżeli wprowadzony został obowiązek składania egzaminów przez osoby ubiegające się o uzyskanie uprawnień budowlanych."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "1. Niezależnie od pociągnięcia do odpowiedzialności karnej na podstawie art. 77-80, właściwy organ państwowego nadzoru budowlanego może udzielić upomnienia osobie posiadającej uprawnienia budowlane, określone w art. 17, gdy osoba ta przy wykonywaniu swoich obowiązków nie stosuje się do obowiązujących przepisów bądź do zasad wiedzy technicznej. 2. W razie gdy pomimo dwukrotnie udzielonych upomnień osoba, o której mowa w ust. 1, ponownie dopuściła się naruszenia obowiązujących przepisów bądź zasad wiedzy technicznej, albo gdyby wskutek takiego naruszenia, popełnionego chociażby po raz pierwszy, zostało sprowadzone niebezpieczeństwo dla ludzi lub mienia, właściwy naczelny organ państwowego nadzoru budowlanego na wniosek terenowego organu państwowego nadzoru budowlanego może zawiesić na okres do lat 3 prawo wykonywania czynności, do których wymagane jest posiadanie uprawnień budowlanych - przy czym może uzależnić przywrócenie prawa do wykonywania tych czynności od odbycia dodatkowej praktyki lub od złożenia egzaminu (art. 21 ust. 3), jeżeli wprowadzony został obowiązek składania egzaminu przez osoby ubiegające się o uzyskanie uprawnień budowlanych. 3. Decyzje, o których mowa w ust. 1 i 2, będą wydawane po zasięgnięciu opinii właściwych stowarzyszeń społeczno-zawodowych lub wyższych szkół technicznych. Rozdział 12 Przepisy szczególne"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "1. Przewodniczący Komitetu Budownictwa w porozumieniu z zainteresowanymi ministrami może określić w drodze rozporządzenia dodatkowe warunki techniczne oraz zasady, zakres i tryb stosowania odstępstw od ogólnie obowiązujących warunków technicznych projektowania, budowy i utrzymania obiektów budowlanych w stosunku do: 1) budynków przemysłowych, budynków zakładów energetycznych i wodnych oraz budynków zakładów służby zdrowia, 2) zabytkowych obiektów budowlanych nie zaliczonych do budownictwa specjalnego, 3) budynków więzień i innych budynków służących celom wymiaru sprawiedliwości, 4) budynków parterowych, również z mieszkalnym poddaszem, budynków gospodarczych na wsi i innych drobnych obiektów budowlanych, 5) tymczasowych obiektów budowlanych. 2. Właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa i Ministrem Kultury i Sztuki mogą określić dodatkowe warunki techniczne oraz zasady, zakres i tryb stosowania odstępstw od ogólnie obowiązujących warunków technicznych projektowania, budowy i utrzymania obiektów budowlanych w stosunku do zabytkowych obiektów budowlanych budownictwa specjalnego. 3. Przepisy, o których mowa w ust. 2, w odniesieniu do budownictwa specjalnego w zakresie górnictwa wydawane są ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego. Rozdział 13 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Wojewódzkie rady narodowe mogą w drodze uchwały zawieszać na okres do 31 grudnia 1965 r. obowiązek sporządzania projektów budowlanych budynków parterowych, również z poddaszem mieszkalnym, dla inwestorów prywatnych, wznoszonych na terenach, na których do dnia wejścia w życie niniejszej ustawy obowiązek taki nie został wprowadzony."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "1. Naczelne organy państwowego nadzoru budowlanego mogą w razie potrzeby określić na okres do lat 5 od dnia wejścia w życie niniejszej ustawy zasady, zakres i tryb stosowania odstępstw od obowiązku posiadania uprawnień budowlanych, o których mowa w art. 17 ust. 1, w odniesieniu do pracowników podległych organów państwowego nadzoru budowlanego. 2. Przewodniczący Komitetu Budownictwa w zakresie budownictwa powszechnego, a właściwi ministrowie w porozumieniu z Przewodniczącym Komitetu Budownictwa w zakresie budownictwa specjalnego, mogą w razie potrzeby określić na okres do lat 5 od dnia wejścia w życie niniejszej ustawy zasady, zakres i tryb stosowania odstępstw od obowiązku posiadania określonego rodzaju uprawnień budowlanych przez osoby zatrudnione w organizacjach wykonawstwa budowlanego oraz w służbie inwestycyjnej na stanowiskach związanych z wykonywaniem funkcji technicznych kierownika budowy, kierownika robót, majstra budowlanego oraz inspektora nadzoru inwestorskiego. 3. Odstępstwa, o których mowa w ust. 2, mogą obejmować ponadto osoby zatrudnione w państwowych jednostkach projektowania na stanowiskach związanych z wykonywaniem funkcji projektanta w zakresie budownictwa specjalnego oraz na stanowiskach związanych z wykonywaniem funkcji projektanta specjalności instalacji i urządzeń sanitarnych oraz instalacji i urządzeń elektrycznych w zakresie budownictwa powszechnego. 4. Przepisy, o których mowa w ust. 2 i 3, w odniesieniu do budownictwa specjalnego w zakresie górnictwa wydawane są ponadto w porozumieniu z Prezesem Wyższego Urzędu Górniczego."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "1. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały prawo kierowania robotami budowlanymi lub nabyły prawo do kierowania robotami budowlanymi i sporządzania projektów budowlanych tych robót, zachowują te prawa nadal w dotychczasowym zakresie. 2. Osoby, które przed dniem wejścia w życie niniejszej ustawy nabyły prawo do kierowania robotami budowlanymi lub do kierowania robotami budowlanymi i sporządzania projektów budowlanych tych robót na podstawie art. 361-365 i 369-371 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. z 1939 r. Nr 34, poz. 216 z późniejszymi zmianami) , zachowują te prawa nadal."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "1. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały decyzję o dopuszczeniu do egzaminu, przewidzianego w art. 361-364 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. z 1939 r. Nr 34, poz. 216 z późniejszymi zmianami) , mogą w terminie do dnia 31 grudnia 1961 r. uzyskać uprawnienia budowlane wymienione w art. 361-364 tego rozporządzenia, w trybie i na warunkach w nim określonych. 2. Osoby, które nabyły prawo do kierowania robotami budowlanymi lub do kierowania robotami budowlanymi i sporządzania projektów budowlanych tych robót w trybie przewidzianym w ust. 1 albo na podstawie art. 369 ust. 1 i art. 370 ust. 2, 3, 4, 5 i 6 ustawy z dnia 10 marca 1918 r. o prawie budowlanym i zabudowie osiedli dla województwa śląskiego (Dz. U. Śl. Nr 7, poz. 17) - zachowują te prawa nadal."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały na podstawie art. 145 ust. 4 rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowym ( Dz. U. Nr 53, poz. 468 z późniejszymi zmianami) prawo do samoistnego wykonywania rzemiosła wchodzącego w zakres robót budowlanych, wyszczególnionych w art. 333 i 334 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. z 1939 r. Nr 34, poz. 216 z późniejszymi zmianami) , zachowują to prawo w dotychczasowym zakresie. 2. Osoby, które przed dniem wejścia w życie niniejszej ustawy uzyskały na podstawie przepisów ustawy z dnia 1 lipca 1958 r. o zezwoleniach na wykonywanie przemysłu, rzemiosła, handlu i niektórych usług przez jednostki gospodarki nie uspołecznionej ( Dz. U. Nr 45, poz. 224 ) zezwolenie na wykonywanie robót budowlanych, określonych w art. 333 i 334 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. z 1939 r. Nr 34, poz. 216 z późniejszymi zmianami) , zachowują to prawo w dotychczasowym zakresie na okres ustalony w zezwoleniu."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Przepisy niniejszej ustawy nie naruszają uprawnień: 1) urzędów górniczych, wynikających z dekretu z dnia 21 października 1954 r. o urzędach górniczych ( Dz. U. Nr 47, poz. 223 z późniejszymi zmianami) oraz dekretu z dnia 6 maja 1953 r. Prawo górnicze ( Dz. U. z 1955 r. Nr 10, poz. 65 z późniejszymi zmianami) , 2) organów gospodarki mieszkaniowej, wynikających z ustawy z dnia 22 kwietnia 1959 r. o remontach i odbudowie oraz o wykańczaniu budowy i nadbudowie budynków mieszkalnych ( Dz. U. Nr 27, poz. 166 ) , 3) organów technicznej inspekcji pracy, wynikających z dekretu z dnia 10 listopada 1954 r. o przejęciu przez związki zawodowe zadań w dziedzinie wykonywania ustaw o ochronie, bezpieczeństwie i higienie pracy oraz sprawowania inspekcji pracy ( Dz. U. z 1954 r. Nr 52, poz. 260 i z 1960 r. Nr 20, poz. 119 ) ."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "W sprawach zamówień na sporządzanie prac projektowych nie stosuje się przepisów ustawy z dnia 28 grudnia 1957 r. o dostawach, robotach i usługach na rzecz jednostek państwowych ( Dz. U. z 1958 r. Nr 3, poz. 7 ) ."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "W ustawie z dnia 15 grudnia 1951 r. o orzecznictwie karno-administracyjnym ( Dz. U. z 1959 r. Nr 15, poz. 79 i Nr 69, poz. 434 ) w art. 8 ust. 1 pkt 3 lit. a) dodaje się na końcu zdania wyrazy „a także w art. 77 i 78 ustawy z dnia 31 stycznia 1961 r. Prawo budowlane (Dz. U. Nr 7, poz. 46)” ."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Tracą moc: 1) rozporządzenie Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. z 1939 r. Nr 34, poz. 216 z późniejszymi zmianami) , 2) dekret z dnia 13 stycznia 1919 r. o zatwierdzaniu projektów pomników ze stanowiska artystycznego ( Dz. U. z 1919 r. Nr 5, poz. 93 oraz z 1934 r. Nr 33, poz. 298 i Nr 110, poz. 976 ) , 3) ustawa z dnia 15 lutego 1933 r. o kierowaniu robotami budowlanymi i sporządzaniu projektów (planów) tych robót na obszarze m. Gdyni ( Dz. U. Nr 16, poz. 108 ) . 2. Z dniem wejścia w życie rozporządzenia Rady Ministrów przewidzianego w art. 28 ust. 3 tracą moc przepisy ustawy z dnia 1 lipca 1958 r. o pozwoleniach na działalność zawodową w zakresie projektowania w budownictwie ( Dz. U. Nr 44, poz. 217 ) . 3. Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy pozostają w mocy dotychczasowe przepisy."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_1-arti_1-pass_4-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pass_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_2-pass_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_1-arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_2-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_11-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_11-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_11-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_11-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_11-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_11-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_1-arti_11-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_1-arti_11-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_1-arti_11-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - O inwestorze\",\"children\": [{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_12-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_12-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_12-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_13-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_13-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_13-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_13-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_13-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_13-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_13-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_2-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_14-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_14-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - O kwalifikacjach fachowych i obowiązkach osób wykonujących funkcje techniczne w budownictwie\",\"children\": [{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_3-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_18-pass_3\",\"symbol\": "
+    }
+  ],
+  "definitions": [
+    {
+      "term": "o „obiekcie budowlanym”",
+      "definition": "należy przez to rozumieć stałe i tymczasowe budynki, urządzenia budowlane związane z budynkami, obiekty inżynierskie, urządzenia techniczne, instalacje przemysłowe, pomniki, posągi, wodotryski itp. obiekty architektury ogrodowej oraz kapliczki i inne podobne obiekty kultu religijnego, 2) o „budynku” - należy przez to rozumieć każdą budowlę posiadającą ściany lub filary bądź słupy i pokrycie, 3) o „tymczasowych obiektach budowlanych” - należy przez to rozumieć obiekty budowlane przeznaczone do czasowego użytku, które po upływie okresu, oznaczonego w pozwoleniu na budowę, ulegają rozbiórce lub przeniesieniu, oraz obiekty budowlane nie połączone trwale z terenem i przeznaczone do częstej rozbiórki i składania, jak np.: strzelnice, uliczne kioski, pawilony sprzedaży ulicznej i wystawowe, cyrki wędrowne, urządzenia rozrywkowe i trybuny na wolnym powietrzu itp., 4) o „urządzeniach budowlanych związanych z budynkami” - należy przez to rozumieć urządzenia terenowe, które służą do celowego wykorzystania budynków, jak np. dojazdy, przejazdy, przejścia, ogrodzenia, urządzenia terenowe zieleni przydomowej, wszelkie urządzenia instalacyjne, służące do: ogrzewania, wentylacji, łączności, zaopatrzenia w wodę zimną i ciepłą, zaopatrzenia w gaz i energię elektryczną, usuwania ścieków, z wyjątkiem urządzeń dźwigowych i urządzeń kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 5) o „obiekcie inżynierskim” - należy przez to rozumieć wszelkie budowle nadziemne i podziemne, nie objęte określeniami budynku i urządzeń budowlanych związanych z budynkami, jak np. linie i węzły kolejowe, drogi, ulice, place, drogi startowe, lądowiska, rampy, budowle ziemne o stałym technicznym przeznaczeniu (jak nasypy, wykopy, rowy, wały, groble, grodze, kopce), budowle ochronne przeciwśniegowe, przeciwlawinowe i przeciwrumowiskowe, przyczółki, mosty, wiadukty, akwedukty, tunele, galerie, mury oporowe, szyby i korytarze podziemne, urządzenia terenowe zieleni użytku publicznego, promenady, bulwary, parkingi, doki, nadbrzeża portowe i przystani, falochrony, akwatoria portowe, kanały, zimowiska statków, maszty, budowle piętrzące (zapory, tamy, śluzy, jazy), melioracje wodne dla potrzeb rolnictwa, drenaże, stawy, budowle ujęć wody, usuwania ścieków i gromadzenia nieczystości, studnie, zbiorniki wody i cieczy, osadniki ścieków, boiska sportowe, stadiony, tory wyścigowe, lodowiska, skocznie, wieże spadochronowe itp., jak również sieci użytku publicznego: elektroenergetyczne, telekomunikacyjne, cieplne, gazowe, wodociągowe i kanalizacyjne, 6) o „instalacjach przemysłowych” - należy przez to rozumieć wszelkie instalacje służące do celów technologicznych, naukowych i naukowo-badawczych, z wyjątkiem urządzeń instalacyjnych, objętych określeniem urządzeń budowlanych związanych z budynkami, 7) o „urządzeniach technicznych” - należy przez to rozumieć wszelkie urządzenia techniczne, nie objęte określeniem obiektu inżynierskiego i instalacji przemysłowych, a w szczególności urządzenia techniczne, związane z eksploatacją kopalin, służące do utrzymania ruchu i transportu kolejowego, drogowego, miejskiego, lotniczego i wodnego, służące do celów łączności, służące do oczyszczania wód powierzchniowych i podziemnych oraz do oczyszczania i unieszkodliwiania ścieków bądź nieczystości, służące do regulacji i obsługi urządzeń przemysłowych oraz urządzeń zakładów wodnych i zakładów elektrycznych, a także urządzenia dźwigowe, zbiorników pod ciśnieniem oraz urządzenia kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 8) o „budowie” - należy przez to rozumieć również nadbudowę, przebudowę, rozbudowę oraz remonty obiektów budowlanych, 9) o „remoncie” - należy przez to rozumieć wykonywanie robót budowlanych w istniejących obiektach budowlanych, z wyjątkiem robót dotyczących bieżącej konserwacji tych obiektów, polegających na dokonywaniu drobnych napraw, konserwacji i malowania elementów budowlanych oraz instalacyjnych obiektu, nie powodujących zmiany ich konstrukcji, przeznaczenia lub wyglądu zewnętrznego obiektu budowlanego, 10) o „Komitecie Budownictwa” - należy przez to rozumieć Komitet Budownictwa, Urbanistyki i Architektury, a o „Przewodniczącym Komitetu Budownictwa” - Przewodniczącego Komitetu Budownictwa, Urbanistyki i Architektury.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "obiekcie budowlanym",
+      "definition": "należy przez to rozumieć stałe i tymczasowe budynki, urządzenia budowlane związane z budynkami, obiekty inżynierskie, urządzenia techniczne, instalacje przemysłowe, pomniki, posągi, wodotryski itp. obiekty architektury ogrodowej oraz kapliczki i inne podobne obiekty kultu religijnego, 2) o „budynku” - należy przez to rozumieć każdą budowlę posiadającą ściany lub filary bądź słupy i pokrycie, 3) o „tymczasowych obiektach budowlanych” - należy przez to rozumieć obiekty budowlane przeznaczone do czasowego użytku, które po upływie okresu, oznaczonego w pozwoleniu na budowę, ulegają rozbiórce lub przeniesieniu, oraz obiekty budowlane nie połączone trwale z terenem i przeznaczone do częstej rozbiórki i składania, jak np.: strzelnice, uliczne kioski, pawilony sprzedaży ulicznej i wystawowe, cyrki wędrowne, urządzenia rozrywkowe i trybuny na wolnym powietrzu itp., 4) o „urządzeniach budowlanych związanych z budynkami” - należy przez to rozumieć urządzenia terenowe, które służą do celowego wykorzystania budynków, jak np. dojazdy, przejazdy, przejścia, ogrodzenia, urządzenia terenowe zieleni przydomowej, wszelkie urządzenia instalacyjne, służące do: ogrzewania, wentylacji, łączności, zaopatrzenia w wodę zimną i ciepłą, zaopatrzenia w gaz i energię elektryczną, usuwania ścieków, z wyjątkiem urządzeń dźwigowych i urządzeń kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 5) o „obiekcie inżynierskim” - należy przez to rozumieć wszelkie budowle nadziemne i podziemne, nie objęte określeniami budynku i urządzeń budowlanych związanych z budynkami, jak np. linie i węzły kolejowe, drogi, ulice, place, drogi startowe, lądowiska, rampy, budowle ziemne o stałym technicznym przeznaczeniu (jak nasypy, wykopy, rowy, wały, groble, grodze, kopce), budowle ochronne przeciwśniegowe, przeciwlawinowe i przeciwrumowiskowe, przyczółki, mosty, wiadukty, akwedukty, tunele, galerie, mury oporowe, szyby i korytarze podziemne, urządzenia terenowe zieleni użytku publicznego, promenady, bulwary, parkingi, doki, nadbrzeża portowe i przystani, falochrony, akwatoria portowe, kanały, zimowiska statków, maszty, budowle piętrzące (zapory, tamy, śluzy, jazy), melioracje wodne dla potrzeb rolnictwa, drenaże, stawy, budowle ujęć wody, usuwania ścieków i gromadzenia nieczystości, studnie, zbiorniki wody i cieczy, osadniki ścieków, boiska sportowe, stadiony, tory wyścigowe, lodowiska, skocznie, wieże spadochronowe itp., jak również sieci użytku publicznego: elektroenergetyczne, telekomunikacyjne, cieplne, gazowe, wodociągowe i kanalizacyjne, 6) o „instalacjach przemysłowych” - należy przez to rozumieć wszelkie instalacje służące do celów technologicznych, naukowych i naukowo-badawczych, z wyjątkiem urządzeń instalacyjnych, objętych określeniem urządzeń budowlanych związanych z budynkami, 7) o „urządzeniach technicznych” - należy przez to rozumieć wszelkie urządzenia techniczne, nie objęte określeniem obiektu inżynierskiego i instalacji przemysłowych, a w szczególności urządzenia techniczne, związane z eksploatacją kopalin, służące do utrzymania ruchu i transportu kolejowego, drogowego, miejskiego, lotniczego i wodnego, służące do celów łączności, służące do oczyszczania wód powierzchniowych i podziemnych oraz do oczyszczania i unieszkodliwiania ścieków bądź nieczystości, służące do regulacji i obsługi urządzeń przemysłowych oraz urządzeń zakładów wodnych i zakładów elektrycznych, a także urządzenia dźwigowe, zbiorników pod ciśnieniem oraz urządzenia kotłowni z wysokoprężnymi kotłami parowymi i kotłami wodnymi o temperaturze wody przegrzanej powyżej 115°C, 8) o „budowie” - należy przez to rozumieć również nadbudowę, przebudowę, rozbudowę oraz remonty obiektów budowlanych, 9) o „remoncie” - należy przez to rozumieć wykonywanie robót budowlanych w istniejących obiektach budowlanych, z wyjątkiem robót dotyczących bieżącej konserwacji tych obiektów, polegających na dokonywaniu drobnych napraw, konserwacji i malowania elementów budowlanych oraz instalacyjnych obiektu, nie powodujących zmiany ich konstrukcji, przeznaczenia lub wyglądu zewnętrznego obiektu budowlanego, 10) o „Komitecie Budownictwa” - należy przez to rozumieć Komitet Budownictwa, Urbanistyki i Architektury, a o „Przewodniczącym Komitetu Budownictwa” - Przewodniczącego Komitetu Budownictwa, Urbanistyki i Architektury",
+      "source_provision": "art1"
+    }
+  ]
+}

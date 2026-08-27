@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-667",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 października 1920 r. o ratyfikacji umowy o preliminaryjnym pokoju i rozejmie między Rzecząpospolitą Polską a Rosyjską Federacyjną Socjalistyczną Republiką Rad i Ukraińską Socjalistyczną Republiką Rad, podpisanej w Rydze dnia 12 października 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1920-667",
+  "status": "in_force",
+  "issued_date": "1920-10-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/667",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza umowę o preliminaryjnym pokoju i rozejmie między Rzecząpospolitą Polską z jednej, a Rosyjską Federacyjną Socjalistyczną Republiką Rad i Ukraińską Socjalistyczną Republiką Rad z drugiej strony, podpisaną przez Przedstawicieli Rzeczypospolitej Polskiej na Konferencji Pokojowej w Rydze: Jana Dąbskiego oraz Norberta Barlickiego, Stanisława Grabskiego, Witolda Kamienieckiego, Władysława Kiernika, Mieczysława Kulińskiego, Adama Mieczkowskiego, Leona Wasilewskiego, Ludwika Waszkiewicza i Michała Wichlińskiego w dniu 12 października 1920 roku."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia Naczelnika Państwa Józefa Piłsudskiego do podpisania ratyfikacji umowy powyższej w imieniu Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy poleca się Prezydentowi Ministrów i Ministrowi Spraw Zagranicznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

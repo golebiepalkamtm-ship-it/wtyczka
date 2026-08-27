@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2017-191",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy o drogach publicznych oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2017-191",
+  "status": "in_force",
+  "issued_date": "2016-12-15",
+  "in_force_date": "2017-01-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/191",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 marca 1985 r. o drogach publicznych ( Dz. U. z 2016 r. poz. 1440 , 1920 , 1948 i 2255 ) wprowadza się następujące zmiany: 1) w art. 17 dodaje się ust. 3 i 4 w brzmieniu: „ 3. Minister właściwy do spraw transportu może wydawać, rozpowszechniać lub rekomendować wzorce i standardy dotyczące przygotowania inwestycji w zakresie dróg publicznych, budowy, przebudowy, remontu, utrzymania lub ochrony tych dróg, w formie opracowań, które są udostępniane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu. 4. Wzorce i standardy, o których mowa w ust. 3, są stosowane dobrowolnie. ” ; 2) w art. 19 ust. 4 otrzymuje brzmienie: „ 4. Zarządzanie drogami publicznymi może być przekazywane między zarządcami w trybie porozumienia, regulującego w szczególności wzajemne rozliczenia finansowe. Zarządcy dróg mogą zawierać także porozumienia w sprawie finansowania albo dofinansowania zadań z zakresu zarządzania drogami z budżetów jednostek samorządu terytorialnego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego ( Dz. U. poz. 2251 , z 2007 r. poz. 136 oraz z 2009 r. poz. 100 ) w art. 3 dodaje się ust. 6 w brzmieniu: „ 6. Zadania w zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg publicznych mogą być finansowane lub dofinansowane z budżetów jednostek samorządu terytorialnego, zgodnie z porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych . ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych ( Dz. U. z 2016 r. poz. 1870 , 1948 , 1984 i 2260 oraz z 2017 r. poz. 60 ) w art. 216 dodaje się ust. 3 w brzmieniu: „ 3. Wydatki budżetu jednostki samorządu terytorialnego mogą być przeznaczone na realizację zadań wynikających z porozumień, o których mowa w art. 19 ust. 4 ustawy z dnia 21 marca 1985 r. o drogach publicznych ( Dz. U. z 2016 r. poz. 1440 , 1920 , 1948 i 2255 oraz z 2017 r. poz. 191 ) . ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 16 grudnia 2005 r. o finansowaniu infrastruktury transportu lądowego oraz ustawę z dnia 27 sierpnia 2009 r. o finansach publicznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

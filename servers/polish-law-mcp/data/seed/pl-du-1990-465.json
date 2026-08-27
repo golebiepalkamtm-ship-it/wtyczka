@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1990-465",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 1990 r. o zmianie ustawy o wyborze Prezydenta Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-465",
+  "status": "repealed",
+  "issued_date": "1990-10-26",
+  "in_force_date": "1990-11-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/465",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej ( Dz. U. Nr 67, poz. 398 ) w art. 68 w ust. 3 wyrazy „po upływie 14 dni” zastępuje się wyrazami „w czternastym dniu od daty zarządzonych wyborów” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

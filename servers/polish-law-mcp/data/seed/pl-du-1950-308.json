@@ -1,0 +1,572 @@
+{
+  "id": "pl-du-1950-308",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 czerwca 1950 r. Kodeks rodzinny.",
+  "title_en": "",
+  "short_name": "pl-du-1950-308",
+  "status": "repealed",
+  "issued_date": "1950-06-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/308",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1. Małżeństwo zostaje zawarte, gdy mężczyzna i kobieta złożą przed urzędnikiem stanu cywilnego zgodne oświadczenia, że wstępują w związek małżeński. § 2. Jeżeli oświadczenia nie zostały złożone przed urzędnikiem stanu cywilnego, małżeństwo nie jest zawarte."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Małżeństwo powinno być zawarte przed urzędnikiem stanu cywilnego miejsca zamieszkania jednej ze stron. § 2. Z ważnych powodów właściwa władza może zezwolić na zawarcie małżeństwa przed innym urzędnikiem stanu cywilnego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "§ 1. Osoby, które zamierzają zawrzeć małżeństwo, powinny przedstawić właściwemu urzędnikowi stanu cywilnego wypisy aktów urodzenia oraz złożyć zapewnienie, że nie istnieją okoliczności, które według prawa wyłączają zawarcie małżeństwa. § 2. Osoba, która pozostawała w związku małżeńskim, powinna nadto przedstawić dowód ustania lub unieważnienia tego małżeństwa. § 3. Sąd może zwolnić od przedstawienia dokumentu, którego otrzymanie napotyka trudne do przezwyciężenia przeszkody."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Małżeństwo powinno być zawarte w urzędzie stanu cywilnego publicznie i uroczyście w obecności dwóch świadków. Poza urzędem stanu cywilnego wolno je zawrzeć tylko z ważnych powodów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W razie niebezpieczeństwa, zagrażającego bezpośrednio życiu jednej ze stron, wolno zawrzeć małżeństwo przed którymkolwiek urzędnikiem stanu cywilnego i bez przedstawienia przewidzianych prawem dokumentów. Jednakże i w tym przypadku strony obowiązane są złożyć zapewnienie, że nie istnieją okoliczności, które według prawa wyłączają zawarcie małżeństwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "§ 1. Z ważnych powodów sąd może zezwolić, aby oświadczenie o wstąpieniu w związek małżeński zostało złożone przez pełnomocnika. § 2. Pełnomocnictwo powinno być udzielone na piśmie z podpisem urzędowo poświadczonym i wymieniać osobę, z którą małżeństwo ma być zawarte. § 3. Odwołanie pełnomocnictwa jest skuteczne, jeżeli doszło do wiadomości drugiej strony przed złożeniem oświadczenia o zawarciu małżeństwa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "§ 1. Nie może zawrzeć małżeństwa, kto już pozostaje w związku małżeńskim. § 2. Unieważnienia małżeństwa, zawartego przez osobę pozostającą w związku małżeńskim, może żądać prokurator oraz każdy, kto ma w tym interes prawny. § 3. Nie można jednak unieważnić małżeństwa, jeżeli poprzednie małżeństwo ustało lub uległo unieważnieniu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "§ 1. Nie mogą zawrzeć ze sobą małżeństwa krewni w linii prostej, rodzeństwo, powinowaci w linii prostej oraz osoby, pozostające w stosunku przysposobienia, dopóki przysposobienie nie ustanie. Z ważnych powodów sąd może zezwolić na zawarcie małżeństwa między powinowatymi w linii prostej. § 2. Unieważnienia małżeństwa z powodu pokrewieństwa lub przysposobienia może żądać prokurator oraz każdy, kto ma w tym interes prawny, a unieważnienia z powodu powinowactwa - każdy z małżonków."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "§ 1. Nie może zawrzeć małżeństwa osoba, dotknięta chorobą psychiczną albo niedorozwojem psychicznym. Jednakże sąd może zezwolić takiej osobie na zawarcie małżeństwa, jeżeli jej stan zdrowia nie pozostaje w sprzeczności z istotą i celami małżeństwa. § 2. Unieważnienia małżeństwa z powodu choroby psychicznej albo niedorozwoju psychicznego może żądać każdy z małżonków. § 3. Nie można jednak unieważnić małżeństwa z powodu choroby psychicznej po jej ustaniu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "§ 1. Nie może zawrzeć małżeństwa osoba małoletnia. Jednakże z ważnych powodów władza opiekuńcza może zezwolić na zawarcie małżeństwa małoletniemu, który ukończył lat szesnaście. § 2. Unieważnienia małżeństwa z powodu braku przepisanego wieku może żądać prokurator oraz każdy z małżonków. § 3. Nie można unieważnić małżeństwa z powodu braku przepisanego wieku, jeżeli małżonek, który w chwili zawarcia małżeństwa był małoletni, ukończył już lat osiemnaście albo jeżeli małżonka zaszła w ciążę."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "§ 1. Nie można unieważnić małżeństwa po jego ustaniu. Jednakże prokurator i każdy, kto ma w tym interes prawny, może po ustaniu małżeństwa żądać jego unieważnienia z powodu pokrewieństwa lub z tego powodu, iż jeden z małżonków w chwili zawarcia małżeństwa pozostawał już w związku małżeńskim. § 2. Jeżeli jeden z małżonków wytoczył powództwo o unieważnienie małżeństwa, unieważnienie może nastąpić także po śmierci drugiego z małżonków. § 3. W razie śmierci małżonka, który wytoczył powództwo o unieważnienie małżeństwa, unieważnienia mogą dochodzić jego zstępni."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Orzekając unieważnienie małżeństwa, sąd orzeka także, czy i który z małżonków zawarł małżeństwo w złej wierze."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "§ 1. Małżeństwo unieważnione uważane jest za nie zawarte. § 2. Jednakże do skutków unieważnienia małżeństwa w zakresie stosunku małżonków do wspólnych dzieci oraz w zakresie stosunków majątkowych między małżonkami stosuje się odpowiednio przepisy o rozwodzie. Dział II Prawa i obowiązki małżonków"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Mąż i żona mają równe prawa i obowiązki w małżeństwie. Są obowiązani do wspólnego pożycia, wierności, wzajemnej pomocy i współdziałania dla dobra rodziny, którą przez swój związek założyli."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Małżonkowie rozstrzygają wspólnie o istotnych sprawach rodziny; w braku porozumienia każdy z nich może zwrócić się o rozstrzygnięcie do sądu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Żona przybiera nazwisko męża. Może jednak zachować nazwisko, które nosiła przed zawarciem małżeństwa, dodając do niego nazwisko męża, jeżeli w akcie małżeństwa złoży w tej mierze stosowne oświadczenie."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Z małżeństwa wynika powinowactwo między jednym z małżonków a krewnymi drugiego z małżonków; trwa ono mimo ustania małżeństwa."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Oboje małżonkowie są obowiązani, każdy według swych sił oraz odpowiednio do swych możliwości zarobkowych i majątkowych, przyczyniać się do zaspokajania potrzeb rodziny, którą przez swój związek założyli. Zadośćuczynienie temu obowiązkowi może polegać także w całości lub w części na osobistych staraniach o wychowanie dzieci i pracy we wspólnym gospodarstwie."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "W razie przemijającej przeszkody, która dotyczy jednego z małżonków, istnieje domniemanie, że drugi z małżonków jest umocowany do działania za niego w zwykłych sprawach i pobierania przypadających mu należności bieżących."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "§ 1. Za zobowiązania zaciągnięte przez jednego z małżonków w zwykłych sprawach rodziny odpowiedzialni są oboje małżonkowie solidarnie. § 2. Z ważnych powodów uprawnienie do zaciągania zobowiązań z powyższym skutkiem może być, na żądanie drugiego małżonka, odjęte przez sąd. Ograniczenie to może być uchylone w razie zmiany stosunków. § 3. Względem osób trzecich wyłączenie odpowiedzialności solidarnej jest skuteczne, jeżeli było im wiadome."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "§ 1. Przedmioty majątkowe, nabyte przez któregokolwiek z małżonków w czasie trwania małżeństwa i stanowiące jego dorobek, są wspólnym majątkiem obojga małżonków (wspólność ustawowa). § 2. Nie są objęte wspólnością ustawową przedmioty nabyte przez spadek, zapis lub darowiznę, przedmioty osobistego użytku oraz przedmioty potrzebne do wykonywania zawodu."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Każdy z małżonków może wykonywać samodzielnie zwykły zarząd majątkiem, objętym wspólnością ustawową; do dokonywania czynności, przekraczających zakres zwykłego zarządu, potrzebna jest zgoda drugiego małżonka."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "§ 1. Z majątku, objętego wspólnością ustawową, może żądać zaspokojenia także wierzyciel, którego dłużnikiem jest tylko jeden z małżonków. § 2. Jeżeli jednak wierzytelność powstała przed zawarciem małżeństwa przez dłużnika albo dotyczy jego majątku, nie objętego wspólnością ustawową, wierzyciel może żądać zaspokojenia tylko z osobistego majątku dłużnika oraz z jego uposażenia i innych dochodów, osiąganych przez niego osobiście."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "§ 1. Z ważnych powodów każdy z małżonków może żądać zniesienia wspólności ustawowej przez sąd. § 2. W razie ubezwłasnowolnienia jednego z małżonków wspólność ustawowa ustaje z samego prawa."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "§ 1. Od chwili ustania wspólności ustawowej do majątku, który był nią objęty, stosuje się odpowiednio przepisy o współwłasności. § 2. Oboje małżonkowie mają równe udziały w majątku, który był objęty wspólnością ustawową."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Przy podziale majątku, który był objęty wspólnością ustawową, każdy z małżonków powinien zwrócić wydatki i nakłady, poczynione z tego majątku na jego majątek wspólnością nie objęty. Może żądać zwrotu wydatków i nakładów, jakie poczynił na majątek wspólny ze swego majątku, nie objętego wspólnością."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "§ 1. Małżonek, uznany za winnego rozwodu, może być na żądanie drugiego małżonka pozbawiony w całości lub w części udziału w majątku wspólnym, jeżeli do jego powstania nie przyczynił się wcale albo przyczynił się tylko nieznacznie. W razie winy obojga małżonków sąd może na żądanie któregokolwiek z nich ustalić ich udziały we wspólnym majątku w zależności od stopnia, w jakim każdy z nich przyczynił się do jego powstania. § 2. Przy ocenie, w jakim stopniu jeden z małżonków przyczynił się do powstania wspólnego majątku, uwzględnia się także nakład osobistej pracy przy wychowaniu dzieci i we wspólnym gospodarstwie. § 3. Przepisy powyższe stosuje się odpowiednio w razie unieważnienia małżeństwa, jeżeli jeden lub oboje małżonkowie zawarli je w złej wierze."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "§ 1. Małżonkowie mogą przez umowę przyjąć wspólność majątkową w zakresie szerszym lub węższym, niż wspólność ustawowa. Mogą również uregulować zarząd majątku wspólnego inaczej, niż to jest przewidziane przy wspólności ustawowej. § 2. Majątkowa umowa małżeńska powinna być zawarta w formie aktu notarialnego. § 3. Względem osób trzecich małżonkowie mogą powoływać się na majątkową umowę małżeńską tylko wtedy, gdy jej treść była tym osobom wiadoma. Dział III Rozwód"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "§ 1. Jeżeli między małżonkami nastąpił z ważnych powodów zupełny i trwały rozkład pożycia, każdy z małżonków może żądać, aby sąd rozwiązał małżeństwo przez rozwód. § 2. Rozwód nie jest dopuszczalny, gdyby dobro małoletnich dzieci miało wskutek niego ucierpieć."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "§ 1. Rozwód nie może być orzeczony, jeżeli żąda go małżonek wyłącznie winny rozkładu pożycia, chyba że drugi małżonek wyrazi zgodę na rozwód. § 2. Jednakże mimo braku tej zgody sąd, mając na względzie interes społeczny, może orzec rozwód w przypadkach wyjątkowych, jeżeli małżonkowie pozostają w długotrwałym rozłączeniu."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "§ 1. Orzekając rozwód sąd orzeka także, czy i który z małżonków ponosi winę rozwodu. § 2. Jednakże na zgodne żądanie małżonków sąd zaniecha orzekania o winie."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Rozwód nie może być orzeczony bez rozstrzygnięcia o prawach i obowiązkach obojga małżonków względem osób i majątku ich małoletnich dzieci."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "W ciągu trzech miesięcy od orzeczenia rozwodu żona może przez oświadczenie, złożone urzędnikowi stanu cywilnego, powrócić do nazwiska, które nosiła przed zawarciem małżeństwa."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "§ 1. Małżonek, który nie został uznany za winnego rozwodu, może żądać od drugiego małżonka, nawet niewinnego, dostarczania mu środków utrzymania stosownie do jego możliwości zarobkowych i majątkowych, jeżeli nie jest w stanie utrzymać się własnymi siłami. § 2. Jeżeli oboje małżonkowie są winni rozwodu, sąd może przyznać środki utrzymania także małżonkowi winnemu. § 3. Powyższe prawo do środków utrzymania, choćby było sądownie przyznane, wygasa przez śmierć zobowiązanego oraz na skutek zawarcia nowego małżeństwa, a jeśli zobowiązanym jest małżonek niewinny - z upływem lat pięciu od orzeczenia rozwodu. Tytuł II Rodzice i dzieci Dział I Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Rodzice sprawują pieczę nad osobą i majątkiem dziecka. Obowiązani są troszczyć się o fizyczny i duchowy rozwój dzieci; powinni starać się o ich utrzymanie i wychowanie tak, aby były przygotowane należycie do pracy dla dobra społeczeństwa, odpowiednio do swych uzdolnień."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "§ 1. Dziecko nosi nazwisko ojca. Jeżeli ojciec nie jest znany, dziecko nosi nazwisko matki. Jeżeli oboje rodzice nie są znani, nazwisko nadaje dziecku władza opiekuńcza. § 2. Jeżeli ojcostwo dziecka zostało ustalone sądownie, sąd na żądanie dziecka lub matki nadaje dziecku nazwisko ojca w wyroku ustalającym ojcostwo bądź w odrębnym postanowieniu, wydanym w postępowaniu niespornym."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "§ 1. Jeżeli rodzice zawierają małżeństwo po urodzeniu się dziecka, dziecko nosi nazwisko ojca. § 2. Jeżeli małżeństwo zawiera matka dziecka, którego ojciec nie jest znany, małżonkowie mogą złożyć przed urzędnikiem stanu cywilnego oświadczenie, że dziecko będzie nosiło nazwisko męża matki."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Zmiany nazwiska dziecka, przewidziane w artykułach poprzedzających, nie mogą nastąpić, jeżeli dziecko osiągnęło już pełnoletność."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "§ 1. Oboje rodzice ponoszą ciężary związane z utrzymaniem i wychowaniem dziecka. Zadośćuczynienie temu obowiązkowi może polegać także w całości lub w części na osobistych staraniach o wychowanie dziecka. § 2. Obowiązek utrzymywania dziecka ciąży na rodzicach, dopóki dziecko nie będzie w stanie utrzymywać się samodzielnie."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "§ 1. Dziecko, które ma dochody z własnej pracy, powinno w razie potrzeby przyczyniać się do pokrywania kosztów utrzymania rodziny, jeżeli mieszka u rodziców. § 2. Dziecko, które pozostaje na utrzymaniu rodziców i mieszka u nich, jest obowiązane pomagać im we wspólnym gospodarstwie."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Wszelkie układy i orzeczenia, dotyczące utrzymywania i wychowania dzieci, mogą być zmieniane w razie zmiany stosunków. Dział II Ustalenie ojcostwa"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "§ 1. Istnieje domniemanie, że dziecko urodzone w czasie trwania małżeństwa albo przed upływem trzystu dni od jego ustania lub unieważnienia pochodzi od męża matki. § 2. Jeżeli dziecko urodziło się wprawdzie przed upływem trzystu dni od ustania lub unieważnienia małżeństwa, lecz po zawarciu przez matkę drugiego małżeństwa - istnieje domniemanie, że pochodzi ono od drugiego męża."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Poza przypadkami, przewidzianymi w artykule poprzedzającym, ojcem dziecka jest ten, kto je uznał albo czyje ojcostwo zostało ustalone przez sąd."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "§ 1. Do uznania dziecka potrzebna jest zgoda matki, chyba że matka nie żyje, jest ubezwłasnowolniona całkowicie albo porozumienie się z nią napotyka trudne do przezwyciężenia przeszkody. Jednakże w ostatnim przypadku matka może w ciągu sześciu miesięcy od powzięcia wiadomości o uznaniu dziecka żądać unieważnienia uznania, jeżeli mężczyzna, który dziecko uznał, nie jest jego ojcem. § 2. Uznanie dziecka może nastąpić przed urzędnikiem stanu cywilnego albo przed władzą opiekuńczą."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Można uznać dziecko nawet nie urodzone, jeżeli zostało już poczęte."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Unieważnienie uznania z powodu wady oświadczenia woli może nastąpić jedynie w przypadku, gdy mężczyzna, który dziecko uznał, nie jest jego ojcem. Z żądaniem tym można wystąpić tylko w ciągu sześciu miesięcy od daty uznania."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "§ 1. W braku uznania zarówno dziecko jak i matka mogą żądać sądowego ustalenia ojcostwa. § 2. Istnieje domniemanie, że ojcem jest ten, kto obcował z matką dziecka w czasie od trzechsetnego do sto osiemdziesiątego dnia przed jego urodzeniem. § 3. W razie śmierci domniemanego ojca ustalenia ojcostwa dochodzi się przeciwko kuratorowi ustanowionemu przez władzę opiekuńczą."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "§ 1. Mąż matki może zaprzeczyć sądownie ojcostwa w ciągu sześciu miesięcy od dnia, w którym dowiedział się o urodzeniu dziecka przez żonę. § 2. Jeżeli mąż został całkowicie ubezwłasnowolniony z powodu choroby psychicznej, na którą zapadł w ciągu terminu do zaprzeczenia ojcostwa, zaprzeczenia może dokonać jego przedstawiciel ustawowy. Termin do zaprzeczenia wynosi sześć miesięcy od daty ustanowienia przedstawiciela, a jeżeli ten powziął wiadomość o urodzeniu się dziecka dopiero później - sześć miesięcy od dnia, w którym tę wiadomość otrzymał."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "§ 1. Jeżeli dziecko urodziło się w czasie między sto osiemdziesiątym dniem od zawarcia małżeństwa a trzechsetnym dniem od jego ustania lub unieważnienia, zaprzeczenie ojcostwa może nastąpić tylko wtedy, gdy zachodzi niepodobieństwo, żeby mąż matki mógł być ojcem dziecka. § 2. Jeżeli dziecko urodziło się przed sto osiemdziesiątym dniem od zawarcia małżeństwa, do obalenia domniemania ojcostwa wystarcza, gdy mąż w powództwie o zaprzeczenie ojcostwa złoży oświadczenie, że nie jest ojcem dziecka, chyba że obcował z matką dziecka w czasie między trzechsetnym a sto osiemdziesiątym dniem przed jego urodzeniem albo że zawierając małżeństwo wiedział, iż żona była w ciąży."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Mąż matki dziecka winien wystąpić o zaprzeczenie ojcostwa przeciwko dziecku i matce, a gdy matka nie żyje - tylko przeciw dziecku."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Matka może zaprzeczyć ojcostwu swego męża w ciągu sześciu miesięcy od urodzenia się dziecka. Przepis artykułu poprzedzającego stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Zaprzeczenie ojcostwa nie jest dopuszczalne po śmierci dziecka. Dział III Władza rodzicielska"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Dziecko pozostaje aż do pełnoletności pod władzą rodzicielską."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Władza rodzicielska obejmuje w szczególności prawo i obowiązek rodziców kierowania dziećmi, reprezentowania ich i zarządzania ich majątkiem. Powinna być wykonywana tak, jak tego wymaga dobro dziecka i interes społeczeństwa."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Każde z rodziców może zwrócić się o pomoc do organów władzy państwowej, jeżeli wymaga tego należyte wykonywanie władzy rodzicielskiej."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "§ 1. Władza rodzicielska służy obojgu rodzicom. § 2. Jeżeli jedno z rodziców nie żyje lub nie jest znane albo nie ma pełnej zdolności do czynności prawnych, władza rodzicielska służy drugiemu z rodziców. To samo dotyczy przypadku, gdy jedno z rodziców jest pozbawione władzy rodzicielskiej albo gdy jego władza uległa zawieszeniu. § 3. W razie sądowego ustalenia ojcostwa sąd orzeka także, czy ojcu służyć będzie władza rodzicielska."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "§ 1. Każde z rodziców jest przedstawicielem ustawowym dzieci, które pozostają pod ich wspólną władzą rodzicielską. § 2. Jednakże żadne z rodziców nie może reprezentować dzieci, podlegających jego władzy rodzicielskiej, ani przy czynnościach prawnych między nimi, ani przy czynnościach między jednym z dzieci a jednym z rodziców, chyba że czynność polega wyłącznie na bezpłatnym przysporzeniu na rzecz dziecka albo dotyczy należnych dziecku środków utrzymania i wychowania. Przepis ten stosuje się odpowiednio do reprezentowania dziecka w postępowaniu przed sądem lub inną władzą. § 3. W razie gdy żadne z rodziców nie może reprezentować dziecka, reprezentuje je kurator ustanowiony przez władzę opiekuńczą."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "§ 1. Rodzice powinni sprawować zarząd majątku dziecka z należytą starannością. Bez zezwolenia władzy opiekuńczej nie mogą dokonywać czynności, które przekraczają zakres zwykłego zarządu, ani wyrażać zgody na dokonywanie takich czynności przez dziecko. § 2. Czysty dochód z majątku dziecka powinien być przede wszystkim obracany na utrzymanie i wychowanie dziecka i jego rodzeństwa, które wychowuje się z nim razem, a nadwyżka - na inne uzasadnione potrzeby rodziny."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Po osiągnięciu przez dziecko pełnoletności rodzice obowiązani są oddać mu majątek, którym zarządzali. W ciągu roku od oddania majątku dziecko może żądać rachunku. Żądanie to jednak nie może dotyczyć dochodów pobranych w czasie sprawowania władzy rodzicielskiej."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Jeżeli rodzice nie sprawują należycie władzy rodzicielskiej, władza opiekuńcza wyda odpowiednie zarządzenia. W szczególności władza opiekuńcza może poddać jedno lub oboje rodziców ograniczeniom, jakim podlega opiekun; może również powierzyć zarząd majątku dziecka kuratorowi."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "§ 1. W razie przemijającej przeszkody w wykonywaniu władzy rodzicielskiej władza opiekuńcza może orzec jej zawieszenie. § 2. Gdy rodzice nie mogą sprawować władzy rodzicielskiej z powodu trwałej przeszkody albo gdy nadużywają swej władzy lub w sposób rażący zaniedbują swe obowiązki, władza opiekuńcza orzeknie pozbawienie władzy rodzicielskiej."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Jeżeli żadnemu z rodziców władza rodzicielska nie służy albo jeżeli władza rodzicielska obojga rodziców jest zawieszona, ustanawia się dla dziecka opiekę."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Jeżeli wymaga tego dobro dziecka, władza opiekuńcza zakaże rodzicom, pozbawionym władzy rodzicielskiej, osobistej styczności z dzieckiem. Dział IV Przysposobienie"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Przez przysposobienie powstaje między przysposabiającym a przysposobionym taki stosunek, jak między rodzicami a dziećmi."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "§ 1. Przysposobić można jedynie osobę małoletnią i tylko dla jej dobra. Jeżeli małoletni pozostaje pod władzą rodzicielską obojga rodziców, przysposobienie może nastąpić jedynie w przypadkach wyjątkowych. § 2. Między przysposabiającym a przysposobionym powinna istnieć odpowiednia różnica wieku. § 3. Nie może przysposobić ten, kto nie ma pełnej zdolności do czynności prawnych."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "§ 1. Przysposobić wspólnie mogą tylko małżonkowie. § 2. Przysposobienie przez jednego z małżonków nie może nastąpić bez zgody drugiego małżonka, chyba że ten nie ma zdolności do czynności prawnych albo porozumienie się z nim napotyka trudne do przezwyciężenia przeszkody."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "§ 1. Przysposobienie następuje przez orzeczenie władzy opiekuńczej na żądanie przysposabiającego. § 2. Do przysposobienia potrzebna jest zgoda ustawowego przedstawiciela osoby, która ma być przysposobiona, a jeżeli ta ma ukończone lat trzynaście - także jej zgoda."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "§ 1. Przysposobiony otrzymuje nazwisko przysposabiającego, a jeżeli został przysposobiony przez małżonków wspólnie - nazwisko męża. § 2. Przysposobiony może dołączyć swoje dotychczasowe nazwisko do nazwiska, które nabył przez przysposobienie, jeżeli przysposabiający wyrazi na to zgodę."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "§ 1. Przez przysposobienie ustaje dotychczasowa władza rodzicielska lub opieka nad przysposobionym. § 2. Obowiązki alimentacyjne między przysposobionym a jego rodziną istnieją nadal tylko o tyle, o ile inne osoby, zobowiązane do świadczeń alimentacyjnych, nie są w stanie uczynić zadość swemu obowiązkowi."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "§ 1. Z ważnych powodów zarówno przysposobiony, jak i przysposabiający mogą żądać rozwiązania stosunku przysposobienia przez władzę opiekuńczą. § 2. Jeżeli przysposobiony osiągnął już pełnoletność, przysposobienie może ulec rozwiązaniu przez sąd lub przez zgodne oświadczenie przysposabiającego i przysposobionego, złożone w formie aktu notarialnego. § 3. W razie rozwiązania stosunku przysposobienia przysposobiony zachowuje nazwisko, które nabył przez przysposobienie. Z ważnych powodów zarówno przysposabiający jak i przysposobiony mogą żądać powrotu przysposobionego do poprzedniego nazwiska. Dział V Obowiązek alimentacyjny"
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "§ 1. Z pokrewieństwa wynika obowiązek alimentacyjny; obowiązek ten obejmuje dostarczanie środków utrzymania, a gdy zachodzi tego potrzeba - środków wychowania. § 2. Obowiązek alimentacyjny istnieje tylko między krewnymi w linii prostej oraz między rodzeństwem. § 3. Obowiązek alimentacyjny obciąża zstępnych przed wstępnymi, a wstępnych przed rodzeństwem; jeżeli jest kilku zstępnych lub wstępnych - obciąża bliższych stopniem przed dalszymi."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Jeżeli obowiązek alimentacyjny obciąża krewnych w tym samym stopniu, ich odpowiedzialność jest solidarna. Krewny, który uczynił zadość swemu obowiązkowi, może żądać od współodpowiedzialnych zwrotu w częściach, jakie odpowiadają możliwościom zarobkowym i majątkowym każdego z nich."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Roszczenie alimentacyjne służy tylko temu, kto jest w niedostatku. Zastrzeżenie to nie dotyczy jednak roszczenia małoletnich dzieci względem rodziców."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Zakres obowiązku alimentacyjnego zależy od usprawiedliwionych potrzeb uprawnionego oraz od zarobkowych i majątkowych możliwości zobowiązanego."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "W stosunku do rodzeństwa zobowiązany może uchylić się od świadczeń alimentacyjnych, jeżeli są one połączone z nadmiernym uszczerbkiem dla niego lub dla jego najbliższej rodziny."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Jeżeli w ciągu ostatnich lat trzech przed sądowym dochodzeniem świadczeń alimentacyjnych osoba, która była już do tych świadczeń zobowiązana, bez ważnego powodu zrzekła się prawa majątkowego lub w inny sposób dopuściła do jego utraty albo zrzekła się zatrudnienia lub zmieniła je na mniej zyskowne, nie uwzględnia się wynikłej stąd zmiany przy ocenie zdolności tej osoby do świadczeń alimentacyjnych."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "§ 1. Ojciec, nie będący mężem matki dziecka, jest obowiązany przyczynić się w rozmiarze odpowiadającym względom słuszności do pokrycia wydatków związanych z ciążą i porodem oraz kosztów trzymiesięcznego utrzymania matki w okresie porodu. Z ważnych powodów matka może żądać udziału ojca w kosztach swego utrzymania przez czas dłuższy niż trzy miesiące. § 2. Jeżeli wskutek ciąży lub porodu matka poniosła bez swej winy inne konieczne wydatki albo szczególne straty majątkowe, może ona żądać, aby ojciec pokrył odpowiednią część tych wydatków lub strat. § 3. Roszczenia przewidziane w niniejszym artykule przedawniają się z upływem lat trzech od porodu."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "W przypadku, gdy ojcostwo mężczyzny, nie będącego mężem matki dziecka, zostało uwiarygodnione, matka może żądać, aby jeszcze przed urodzeniem się dziecka wyłożył on odpowiednią sumę na koszty utrzymania matki przez trzy miesiące w okresie porodu, jak również utrzymania dziecka przez pierwsze trzy miesiące po urodzeniu. Termin i sposób zapłaty tych sum określa sąd. Tytuł III Opieka"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "§ 1. Opiekę nad małoletnim sprawuje opiekun. Opiekuna ustanawia władza opiekuńcza, skoro tylko poweźmie wiadomość, że zachodzi prawny powód po temu. § 2. Opiekun sprawuje zamiast rodziców pieczę nad osobą i majątkiem małoletniego. Podlega przy tym nadzorowi władzy opiekuńczej."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Nie może być ustanowiony opiekunem, kto nie ma pełnej zdolności do czynności prawnych, albo kto został pozbawiony praw publicznych, obywatelskich praw honorowych, praw rodzicielskich lub praw opiekuńczych , jak również ten, w stosunku do kogo zachodzi prawdopodobieństwo, iż nie wywiąże się należycie z obowiązków opiekuna."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Jeżeli wzgląd na dobro małoletniego nie stoi temu na przeszkodzie, opiekunem powinna być ustanowiona przede wszystkim osoba, wskazana przez ojca lub matkę, jeżeli nie byli pozbawieni władzy rodzicielskiej; w braku takiej osoby opiekun winien być ustanowiony spośród krewnych lub innych osób bliskich małoletniego albo jego rodziny."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Objęcie opieki jest obowiązkiem obywatelskim. Można się od niego uchylić jedynie z ważnych powodów."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Opiekun składa przed władzą opiekuńczą przepisane prawem przyrzeczenie. Powinien on objąć swe obowiązki niezwłocznie i sprawować je aż do ustania opieki lub swego zwolnienia."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Do sprawowania opieki stosuje się odpowiednio przepisy o władzy rodzicielskiej z zachowaniem przepisów zawartych w artykułach poniższych."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Opiekun powinien uzyskiwać zezwolenie władzy opiekuńczej we wszelkich ważniejszych sprawach, które dotyczą osoby lub majątku małoletniego."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Opiekun nie może reprezentować osób, będących pod jego opieką, przy czynnościach prawnych między nimi ani przy czynnościach prawnych między jedną z tych osób a sobą samym albo swymi wstępnymi, zstępnymi, małżonkiem lub rodzeństwem, chyba że czynność polega wyłącznie na bezpłatnym przysporzeniu na rzecz osoby będącej pod opieką. To samo dotyczy postępowania przed sądem lub inną władzą."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Opiekun powinien składać władzy opiekuńczej sprawozdania, dotyczące osoby małoletniego oraz rachunki z zarządu jego majątkiem. Jeżeli dochody z tego majątku nie przekraczają prawdopodobnych kosztów utrzymania i wychowania małoletniego, władza opiekuńcza może zwolnić opiekuna od obowiązku przedstawiania szczegółowych rachunków z zarządu."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Jeżeli z opieką związany jest zarząd majątkiem, wymagający znacznego nakładu pracy, władza opiekuńcza może na żądanie opiekuna przyznać mu stosowne wynagrodzenie okresowe albo wynagrodzenie jednorazowe przy ustaniu opieki lub zwolnieniu opiekuna."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Roszczenie małoletniego przeciwko opiekunowi o naprawienie szkody, wyrządzonej nienależytym sprawowaniem opieki, przedawnia się z upływem lat trzech od ustania opieki lub zwolnienia opiekuna. W tym samym terminie przedawnia się roszczenie opiekuna o zwrot wydatków i nakładów związanych ze sprawowaniem opieki."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "§ 1. Władza opiekuńcza z ważnych powodów może zwolnić opiekuna na jego żądanie. § 2. Władza opiekuńcza zwolni opiekuna, jeżeli z powodu przeszkód faktycznych lub prawnych jest on niezdolny do sprawowania opieki albo narusza swoje obowiązki."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "W razie ustania opieki lub zwolnienia z niej opiekun powinien w ciągu trzech miesięcy złożyć rachunek z zarządu majątkiem małoletniego. Władza opiekuńcza może zwolnić opiekuna z tego obowiązku. Tytuł IV Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "Wykonanie ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 1950 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"titl_I\",\"symbol\": \"titl_I\",\"type\": \"titl\",\"name\": \"I\",\"title\": \"Tytuł I - Małżeństwo\",\"children\": [{\"id\": \"titl_I-bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Zawarcie małżeństwa\",\"children\": [{\"id\": \"titl_I-bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_1-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_1-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_3-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_3-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_3-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"titl_I-bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"titl_I-bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_6-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_6-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_6-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_7-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_7-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_7-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_8-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_8-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_9-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_9-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_9-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_10-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_10-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_10-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_11-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_11-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_I-arti_11-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"titl_I-bran_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"titl_I-bran_I-arti_13-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_I-arti_13-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"titl_I-bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Prawa i obowiązki małżonków\",\"children\": [{\"id\": \"titl_I-bran_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"titl_I-bran_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"titl_I-bran_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"titl_I-bran_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"titl_I-bran_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"titl_I-bran_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"titl_I-bran_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_20-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_20-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_II-arti_20-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_II-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_21-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_21-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"titl_I-bran_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_23-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_23-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_24-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_24-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_25-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_25-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_II-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"titl_I-bran_II-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_27-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_27-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_II-arti_27-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"titl_I-bran_II-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"titl_I-bran_II-arti_28-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_II-arti_28-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_II-arti_28-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]}]},{\"id\": \"titl_I-bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III - Rozwód\",\"children\": [{\"id\": \"titl_I-bran_III-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"titl_I-bran_III-arti_29-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_III-arti_29-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_III-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"titl_I-bran_III-arti_30-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_III-arti_30-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_III-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"titl_I-bran_III-arti_31-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_III-arti_31-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_I-bran_III-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"titl_I-bran_III-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"titl_I-bran_III-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"titl_I-bran_III-arti_34-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_I-bran_III-arti_34-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"titl_I-bran_III-arti_34-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]}]}]},{\"id\": \"titl_II\",\"symbol\": \"titl_II\",\"type\": \"titl\",\"name\": \"II\",\"title\": \"Tytuł II - Rodzice i dzieci\",\"children\": [{\"id\": \"titl_II-bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy ogólne\",\"children\": [{\"id\": \"titl_II-bran_I-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"titl_II-bran_I-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\",\"children\": [{\"id\": \"titl_II-bran_I-arti_36-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_II-bran_I-arti_36-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_II-bran_I-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\",\"children\": [{\"id\": \"titl_II-bran_I-arti_37-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_II-bran_I-arti_37-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_II-bran_I-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"titl_II-bran_I-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\",\"children\": [{\"id\": \"titl_II-bran_I-arti_39-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_II-bran_I-arti_39-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_II-bran_I-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\",\"children\": [{\"id\": \"titl_II-bran_I-arti_40-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_II-bran_I-arti_40-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_II-bran_I-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"}]},{\"id\": \"titl_II-bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Ustalenie ojcostwa\",\"children\": [{\"id\": \"titl_II-bran_II-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\",\"children\": [{\"id\": \"titl_II-bran_II-arti_42-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"titl_II-bran_II-arti_42-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"titl_II-bran_II-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"t"
+    }
+  ],
+  "definitions": []
+}

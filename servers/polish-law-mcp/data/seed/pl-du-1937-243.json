@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1937-243",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 kwietnia 1937 r. o skracaniu czasu pracy w górnictwie węglowym.",
+  "title_en": "",
+  "short_name": "pl-du-1937-243",
+  "status": "repealed",
+  "issued_date": "1937-04-14",
+  "in_force_date": "1937-04-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/243",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rada Ministrów może w drodze rozporządzeń, wydawanych na wniosek Ministra Opieki Społecznej, zgłoszony po zasięgnięciu opinii izb przemysłowo-handlowych oraz organizacji zawodowych pracowników i pracodawców, nakazać skracanie czasu pracy w górnictwie węglowym w dniu lub w tygodniu w Stosunku do norm, ustalonych w przepisach o czasie pracy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rozporządzenia, wymienione w art. 1, będą wydawane na określony przeciąg czasu i mogą dotyczyć wszystkich lub niektórych kategorii pracowników, zatrudnionych w górnictwie węglowym, oraz rozciągać się na obszar całego Państwa lub na obszary poszczególnych okręgów administracyjnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Winny przekroczenia przepisów rozporządzeń, wydanych na podstawie art. 1, będzie karany za pierwszym razem grzywną od 200 zł do 1000 zł lub aresztem do 3 miesięcy, w razie zaś powtórzenia przekroczenia - aresztem na czas od 2 tygodni do 3 miesięcy. (2) Do orzekania o czynach, przewidzianych w ust. (1), powołany jest właściwy inspektor pracy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) W przypadku, gdy zakładem pracy nie zarządza osobiście właściciel, za przekroczenie przepisów rozporządzeń, wydanych na podstawie art. 1, odpowiedzialny jest kierownik zakładu pracy. (2) Właściciel jest odpowiedzialny na równi z kierownikiem, jeżeli przekroczenie przepisów rozporządzeń, wydanych na podstawie art. 1, popełniono za jego wiedzą, bądź gdy właściciel nie dobrał odpowiedniego kierownika. (3) W przypadku, gdy właściciel zakładu pracy nie wyznaczył kierownika zakładu pracy, odpowiedzialny jest właściciel zakładu pracy. (4) Jeżeli właścicielem zakładu pracy jest osoba prawna, odpowiedzialne są osoby, powołane do zawiadywania interesami osoby prawnej. (5) Przepisy artykułu niniejszego nie uchylają postanowień, dotyczących udziału (współwiny) w przekroczeniu przepisów rozporządzeń, wydanych na podstawie art. 1."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Opieki Społecznej w porozumieniu z Ministrem Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia, na obszarze zaś województwa śląskiego - po wyrażeniu zgody przez sejm śląski. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_4-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_4-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_4-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

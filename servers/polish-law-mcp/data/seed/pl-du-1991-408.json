@@ -1,0 +1,482 @@
+{
+  "id": "pl-du-1991-408",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej.",
+  "title_en": "",
+  "short_name": "pl-du-1991-408",
+  "status": "repealed",
+  "issued_date": "1991-08-30",
+  "in_force_date": "1991-10-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/408",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Zakładem opieki zdrowotnej jest wyodrębniony organizacyjnie zespół osób i środków majątkowych, utworzony i utrzymywany w celu udzielania świadczeń zdrowotnych, zapobiegania powstawaniu chorób i urazów, szerzenia oświaty zdrowotnej, a w miarę możliwości również kształcenia osób wykonujących zawody medyczne. 2. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej może, w drodze rozporządzenia, uznać za zakłady opieki zdrowotnej zakłady tworzone wyłącznie w celu zapobiegania powstawaniu chorób i urazów oraz szerzenia oświaty zdrowotnej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zakładami opieki zdrowotnej są w szczególności: 1) szpitale i inne zakłady przeznaczone dla osób potrzebujących całodobowych lub całodziennych świadczeń zdrowotnych w odpowiednim, stałym pomieszczeniu, 2) przychodnie lekarskie (ośrodki zdrowia), 3) zakłady pomocy doraźnej (pogotowie ratunkowe), 4) pracownie diagnostyczne, 5) pracownie protetyki stomatologicznej i ortodoncji, 6) zakłady rehabilitacji leczniczej, 7) poradnie ekologiczne. 2. Zakładami opieki zdrowotnej są również zespoły zakładów, o których mowa w ust. 1. Zakład wchodzący w skład zespołu zakładów staje się jednostką organizacyjną zespołu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Świadczeniem zdrowotnym w rozumieniu ustawy jest każde, wykonywane zawodowo, postępowanie służące zachowaniu, przywracaniu lub poprawie zdrowia, a w szczególności: 1) badanie i porada lekarska, 2) leczenie, 3) badanie i terapia psychologiczna, 4) rehabilitacja lecznicza, 5) opieka nad kobietą ciężarną, jej porodem i połogiem oraz nad noworodkiem, 6) szczepienia ochronne i inne działania zapobiegawcze, 7) działania diagnostyczne i analityki medycznej, 8) pielęgnacja chorych, 9) pielęgnacja i opieka nad niepełnosprawnymi, 10) czynności techniczne z zakresu protetyki stomatologicznej i ortodoncji, 11) czynności z zakresu zaopatrzenia ortopedycznego, 12) orzekanie o stanie zdrowia, 13) prowadzenie działalności profilaktycznej i oświatowo-wychowawczej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Świadczenia zdrowotne mogą być udzielane przez zakłady opieki zdrowotnej lub przez osoby fizyczne o odpowiednich kwalifikacjach zawodowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Zakład opieki zdrowotnej może być przeznaczony do udzielania świadczeń zdrowotnych ogółowi ludności, ludności określonego obszaru lub określonym grupom ludności."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Zakład opieki zdrowotnej udziela świadczeń bezpłatnie lub odpłatnie na zasadach określonych w ustawie lub w przepisach szczególnych. 2. Osobie uprawnionej z tytułu ubezpieczenia społecznego lub na podstawie innych przepisów o bezpłatnej pomocy leczniczej przysługuje zwrot kosztów przejazdu najtańszym środkiem komunikacji publicznej, jeżeli w wyniku zlecenia publicznego zakładu opieki zdrowotnej lub lekarza określonego w art. 35 ust. 1 niezbędne było korzystanie ze świadczeń innego zakładu lub lekarza odległego ponad 60 km od miejsca zamieszkania lub przebywania tej osoby. 3. Bezpłatny transport specjalnym środkiem transportu sanitarnego przysługuje osobie uprawnionej, o której mowa w ust. 2, tylko wówczas, gdy uzasadnia to stan zdrowia tej osoby. 4. Za świadczenia udzielone osobie znajdującej się w stanie nietrzeźwości zakład opieki zdrowotnej pobiera opłatę niezależnie od uprawnień do bezpłatnych świadczeń zdrowotnych, jeżeli jedyną przyczyną udzielonego świadczenia były następstwa zdarzeń spowodowanych stanem nietrzeźwości tej osoby. 5. W celu stwierdzenia stanu nietrzeźwości lekarz kieruje osobę określoną w ust. 4 na badanie krwi dla ustalenia w niej zawartości alkoholu. Odmowa poddania się takiemu badaniu stanowi okoliczność braną pod uwagę przy ocenie ustalania opłat za udzielenie świadczenia, z uwzględnieniem wszystkich okoliczności sprawy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Okoliczności wymienione w art. 5 i art. 6 ust. 4 ani żadne inne okoliczności nie mogą stanowić podstawy do odmowy udzielenia świadczenia, jeżeli osoba zgłaszająca się do zakładu opieki zdrowotnej potrzebuje natychmiastowego udzielenia świadczeń zdrowotnych ze względu na zagrożenie życia lub zdrowia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Zakłady opieki zdrowotnej mogą być tworzone i utrzymywane przez: 1) naczelne i centralne organy administracji państwowej, 2) wojewodów, 3) gminy i związki międzygminne (związki komunalne), 4) kościoły i związki wyznaniowe, 5) instytucje ubezpieczeniowe, zakłady pracy, stowarzyszenia, 6) fundacje i inne osoby prawne, 7) podmioty zagraniczne, 8) osoby fizyczne."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Pomieszczenia i urządzenia zakładu opieki zdrowotnej powinny odpowiadać wymaganiom umożliwiającym udzielanie świadczeń zdrowotnych. 2. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej określa, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać pod względem fachowym i sanitarnym pomieszczenia i urządzenia zakładu opieki zdrowotnej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Kierownik zakładu opieki zdrowotnej jest odpowiedzialny za zapewnienie udzielania świadczeń zdrowotnych wyłącznie przez osoby o odpowiednich uprawnieniach i kwalifikacjach zawodowych oraz wymaganiach zdrowotnych, określonych w odrębnych przepisach. 2. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, wymagania, jakim powinny odpowiadać osoby na stanowiskach kierowniczych w zakładach opieki zdrowotnej określonego rodzaju."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Ustrój zakładu opieki zdrowotnej oraz inne sprawy dotyczące jego funkcjonowania, nie uregulowane w ustawie, określa statut. 2. Statut zakładu powinien określać w szczególności: cele, zadania i obszar działania, rodzaje i zakres udzielanych świadczeń zdrowotnych, organizację wewnętrzną, organy zakładu oraz zasady gospodarki finansowej. 3. Podmiot, który utworzył zakład, nadaje statut, chyba że przepisy ustawy stanowią inaczej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Zakład opieki zdrowotnej może rozpocząć działalność dopiero po uzyskaniu wpisu do rejestru. 2. Rejestr jest jawny i dostępny do wglądu dla osób trzecich. 3. Rejestr zakładów opieki zdrowotnej mających siedzibę na obszarze województwa prowadzi wojewoda."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Podstawą wpisu do rejestru jest stwierdzenie przez organ prowadzący rejestr, że zakład opieki zdrowotnej spełnia wymagania określone w art. 9-11. 2. Wpis do rejestru, odmowa wpisu lub skreślenie z rejestru następuje w formie decyzji administracyjnej."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Zakład opieki zdrowotnej jest obowiązany zgłosić organowi prowadzącemu rejestr, w terminie 14 dni od dokonania zmiany, zmianę profilu działania mającą istotne znaczenie dla zaspokajania potrzeb zdrowotnych ludności objętej świadczeniami zdrowotnymi zakładu. 2. Przepisy art. 12 i 13 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Jeżeli zakład opieki zdrowotnej w całym zakresie swej działalności lub w części przestał odpowiadać wymogom określonym w art. 9-11 lub narusza inne przepisy o prowadzeniu zakładu określone w ustawie albo w sposób rażący narusza statut zakładu, wojewoda wyznacza termin dla usunięcia uchybień, a po jego upływie może podjąć decyzję o wykreśleniu zakładu z rejestru w całości lub w części nie odpowiadającej wymaganiom ustawy lub statutu. 2. Wpis do rejestru podlega wykreśleniu także wtedy, gdy organ prowadzący rejestr dokonał go z naruszeniem prawa; w tym przypadku stosuje się odpowiednio przepisy dotyczące wznowienia postępowania administracyjnego lub stwierdzenia nieważności decyzji."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Przepisów art. 13-15 nie stosuje się do zakładów tworzonych i utrzymywanych przez naczelne i centralne organy administracji państwowej i do zakładów, o których mowa w art. 63 i 69. 2. Wpis do rejestru zakładów tworzonych przez naczelne i centralne organy administracji państwowej następuje na podstawie zarządzenia właściwego ministra."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, dane objęte wpisem do rejestru, wzór rejestru i tryb dokonywania wpisów i zmian w rejestrze oraz wykreśleń z rejestru."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Zakład opieki zdrowotnej jest obowiązany prowadzić dokumentację medyczną osób korzystających ze świadczeń zakładu. 2. Zakład opieki zdrowotnej zapewnia ochronę danych dotyczących stanu zdrowia i sposobu leczenia pacjenta. 3. Zakład udostępnia dokumentację, o której mowa w ust. 1: 1) pacjentowi lub jego przedstawicielowi ustawowemu bądź osobie upoważnionej przez pacjenta, za pośrednictwem lekarza prowadzącego, 2) jednostkom organizacyjnym opieki zdrowotnej i osobom wykonującym zawód medyczny, jeżeli dokumentacja ta jest niezbędna do zapewnienia dalszego leczenia, 3) właściwym do spraw zdrowia organom państwowym oraz organom samorządu lekarskiego w zakresie niezbędnym do wykonywania kontroli i nadzoru, 4) sądom i prokuratorom oraz sądom i rzecznikom odpowiedzialności zawodowej, w związku z prowadzonym postępowaniem, 5) uprawnionym na mocy odrębnych ustaw organom i instytucjom, jeżeli badanie zostało przeprowadzone na ich wniosek, 6) organom rentowym lub zakładom ubezpieczeniowym, w związku z prowadzonym przez nie postępowaniem. 4. Dokumentacja medyczna może być udostępniona także szkole wyższej lub jednostce badawczo-rozwojowej do wykorzystania dla celów naukowych, bez ujawniania nazwiska i innych danych umożliwiających identyfikację osoby, której dokumentacja dotyczy. 5. W razie umyślnego ujawnienia danych podlegających ochronie przez osoby zatrudnione w zakładzie, działające na jego zlecenie lub dokonujące czynności kontrolnych, sąd może przyznać poszkodowanemu odpowiednią sumę pieniężną tytułem zadośćuczynienia za doznaną krzywdę. 6. Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej określi, w drodze rozporządzenia, rodzaje dokumentacji medycznej i sposób jej prowadzenia oraz szczegółowe warunki jej udostępniania. 7. Rodzaje dokumentacji medycznej i sposób prowadzenia oraz szczegółowe warunki udostępniania tej dokumentacji w jednostkach podległych Ministrom: Obrony Narodowej, Spraw Wewnętrznych, Sprawiedliwości oraz Transportu i Gospodarki Morskiej określają, w drodze rozporządzenia, właściwi ministrowie w porozumieniu z Ministrem Zdrowia i Opieki Społecznej oraz po zasięgnięciu opinii Naczelnej Rady Lekarskiej."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Pacjent ma prawo do: 1) świadczeń zdrowotnych odpowiadających wymaganiom wiedzy medycznej, 2) wyrażania zgody lub odmowy jej udzielenia na określone świadczenia - po uzyskaniu odpowiedniej informacji, 3) uzyskania informacji o swoim stanie zdrowia, 4) poszanowania jego intymności i godności w czasie udzielania mu świadczeń zdrowotnych, 5) umierania w spokoju i godności. Rozdział 2 Przepisy szczególne o szpitalach"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Szpital, stosownie do określonego w statucie zakresu działania, zapewnia przyjętemu do szpitala: 1) świadczenia zdrowotne, 2) leki i artykuły sanitarne, 3) pomieszczenia i wyżywienie odpowiednie do stanu zdrowia. 2. Osoba przebywająca w szpitalu ma prawo do: 1) opieki pielęgnacyjnej przez osobę bliską lub przez inną wskazaną osobę, 2) kontaktu osobistego, telefonicznego i korespondencyjnego z osobami z zewnątrz, 3) opieki duszpasterskiej. 3. Koszty realizacji uprawnień wymienionych w ust. 2 pkt 1 i 2 nie mogą obciążać zakładu opieki zdrowotnej. 4. W drodze decyzji kierownika, wydanej na podstawie przepisów regulaminu porządkowego, można ograniczyć uprawnienia, o których mowa w ust. 2 pkt 1, oraz prawo do kontaktu osobistego z osobami z zewnątrz ze względów epidemicznych lub ze względu na warunki przebywania innych osób chorych w szpitalu. 5. W razie pogorszenia się stanu zdrowia chorego powodującego zagrożenie życia lub w razie jego śmierci - szpital jest obowiązany niezwłocznie zawiadomić wskazaną przez chorego osobę lub instytucję, przedstawiciela ustawowego lub opiekuna faktycznego. 6. Szpital jest zobowiązany do zapewnienia pacjentowi warunków do umierania w spokoju i godności."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. O przyjęciu do szpitala osoby zgłaszającej się lub skierowanej przez lekarza albo uprawnioną instytucję orzeka lekarz wyznaczony do tych czynności, po zapoznaniu się ze stanem zdrowia i uzyskaniu zgody tej osoby lub przedstawiciela ustawowego albo opiekuna faktycznego, chyba że na mocy odrębnych przepisów możliwe jest przyjęcie do szpitala bez wyrażenia zgody. 2. Jeżeli lekarz, o którym mowa w ust. 1, stwierdzi potrzebę niezwłocznego umieszczenia pacjenta w szpitalu, a brak miejsc, zakres świadczeń udzielanych przez szpital lub względy epidemiczne nie pozwalają na przyjęcie, szpital po udzieleniu pierwszej pomocy zapewnia w razie potrzeby przewiezienie pacjenta do innego szpitala, po uprzednim porozumieniu się z tym szpitalem. O dokonanym rozpoznaniu stanu zdrowia i o podjętych czynnościach lekarz dokonuje odpowiedniego wpisu do dokumentacji medycznej."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Wypisanie ze szpitala, jeżeli przepisy szczegółowe nie stanowią inaczej, następuje: 1) gdy stan zdrowia nie wymaga dalszego leczenia w szpitalu, 2) na żądanie osoby przebywającej w szpitalu lub jej przedstawiciela ustawowego, 3) gdy osoba przebywająca w szpitalu w sposób rażący narusza regulamin, a nie zachodzi obawa, że odmowa lub zaprzestanie udzielania świadczeń może spowodować bezpośrednie niebezpieczeństwo dla jej życia lub zdrowia albo życia lub zdrowia innych osób. 2. Jeżeli przedstawiciel ustawowy żąda wypisania ze szpitala osoby, której stan zdrowia wymaga leczenia w szpitalu, kierownik szpitala lub lekarz przez niego upoważniony może odmówić wypisania do czasu wydania w tej sprawie orzeczenia przez właściwy ze względu na siedzibę zakładu sąd opiekuńczy, który należy niezwłocznie zawiadomić o odmowie wypisania i przyczynach odmowy. 3. Osoba wypisywana ze szpitala na własne żądanie jest obowiązana złożyć oświadczenie na piśmie lub ustne w obecności dwóch świadków, że została uprzedzona o możliwych następstwach zaprzestania leczenia w szpitalu. O odmowie złożenia takiego oświadczenia należy sporządzić odpowiednią adnotację w dokumentacji medycznej."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Jeżeli przedstawiciel ustawowy lub opiekun faktyczny nie zabiera małoletniego lub osoby niezdolnej do samodzielnej egzystencji ze szpitala w wyznaczonym przez szpital terminie, szpital zawiadamia o tym niezwłocznie gminę właściwą ze względu na miejsce zamieszkania lub pobytu tej osoby oraz organizuje, na jej koszt, przewiezienie do miejsca zamieszkania. 2. Pacjent, którego stan zdrowia nie wymaga dalszego leczenia szpitalnego, ponosi koszty pobytu w szpitalu począwszy od terminu określonego przez kierownika szpitala, niezależnie od uprawnień do bezpłatnych świadczeń określonych w przepisach odrębnych."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Zwłoki osób, które zmarły w szpitalu, mogą być poddane sekcji. 2. Dopuszcza się pobranie ze zwłok narządów lub tkanek dla celów leczniczych, jeżeli osoba zmarła nie wyraziła za życia sprzeciwu. 3. O dokonaniu lub zaniechaniu sekcji należy sporządzić adnotację w dokumentacji medycznej z odpowiednim uzasadnieniem. 4. Przepis ust. 1 nie dotyczy dokonywania sekcji w przypadkach określonych w Kodeksie postępowania karnego."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Dokonanie sekcji zwłok nie może nastąpić wcześniej niż po upływie 12 godzin od stwierdzenia zgonu. 2. Kierownik zakładu, a jeżeli kierownik zakładu nie jest lekarzem, to upoważniony przez niego lekarz, może zadecydować o dokonaniu sekcji zwłok przed upływem 12 godzin od stwierdzenia zgonu, gdy zachodzi potrzeba pobrania ze zwłok narządów lub tkanek dla celów leczniczych. 3. W przypadku określonym w ust. 2 zgon powinien być stwierdzony przez trzech lekarzy, w tym lekarza upoważnionego przez najbliższy zakład medycyny sądowej. Lekarze stwierdzający zgon nie mogą brać udziału w zabiegu przeszczepiania tkanek i narządów."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Przepisy o szpitalach stosuje się odpowiednio do innych zakładów opieki zdrowotnej, o których mowa w art. 2 ust. 1 pkt 1. Rozdział 3 Przepisy szczegółowe o przychodniach i innych zakładach opieki zdrowotnej"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Świadczenia przychodni lekarskiej (ośrodka zdrowia) muszą obejmować co najmniej badanie i poradę lekarską. 2. Świadczenia przychodni lekarskiej (ośrodka zdrowia) mogą być udzielane poza siedzibą przychodni (ośrodka zdrowia) w miejscu przebywania osoby potrzebującej takich świadczeń."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Świadczenia zakładu pomocy doraźnej (pogotowia ratunkowego) obejmują świadczenia zdrowotne udzielane w razie wypadku, urazu, nagłego zachorowania lub nagłego pogorszenia stanu zdrowia z zagrożeniem życia."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Świadczenia pracowni diagnostycznych obejmują analizy i inne badania mające na celu rozpoznanie stanu zdrowia. 2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Naczelną Radą Lekarską może określić, w drodze rozporządzenia, rodzaje badań, które mogą być wykonywane jedynie ze wskazań lekarza lub lekarza dentysty."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Świadczenia pracowni protetyki dentystycznej obejmują wykonywanie i naprawę protez i innych przedmiotów protetycznych oraz ortodontycznych, zlecone przez lekarza lub lekarza dentystę."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Świadczenia poradni ekologicznej obejmują w szczególności: promowanie zdrowia, działanie profilaktyczne i prozdrowotne."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Świadczenia zakładów rehabilitacji leczniczej obejmują świadczenia usprawniające, wykonywane na zlecenie lekarza. Dział II Publiczne zakłady opieki zdrowotnej Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Publicznymi zakładami opieki zdrowotnej są zakłady opieki zdrowotnej, o których mowa w art. 1 i 2, tworzone i utrzymywane ze środków publicznych przez organy wymienione w art. 8 pkt 1-3, a także przez Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe”, przeznaczone do wykonywania obowiązków udzielania świadczeń zdrowotnych osobom ubezpieczonym i innym osobom uprawnionym na podstawie odrębnych przepisów. 2. Przepisy odrębne określają w szczególności osoby uprawnione do świadczeń, rodzaje świadczeń przysługujących bezpłatnie, za częściową odpłatnością lub całkowitą odpłatnością, tryb wydawania skierowań i inne warunki ich udzielania."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Publiczny zakład opieki zdrowotnej może udzielać świadczeń zdrowotnych odpłatnie osobom nieuprawnionym w rozumieniu przepisów, o których mowa w art. 33 ust. 2. 2. Sposób ustalania odpłatności za świadczenia określi, w drodze rozporządzenia, Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Przepisy niniejszego działu stosuje się odpowiednio do zakładów opieki zdrowotnej utrzymywanych przez instytucje i osoby wymienione w art. 8 pkt 4-8, a także do prywatnie praktykujących lekarzy i innych osób wykonujących zawód medyczny, które na podstawie umowy zawartej z naczelnym organem administracji państwowej, wojewodą, właściwym organem gminy lub związku międzygminnego (związku komunalnego) zobowiązały się do wykonywania obowiązków określonych w art. 33 ust. 1 i korzystają dla ich realizacji ze środków publicznych. 2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Finansów określa, w drodze rozporządzenia, ogólne warunki, tryb zawierania i rozwiązywania umów, o których mowa w ust. 1, przez naczelne organy administracji państwowej, wojewodów oraz przez organy gminy w zakresie zadań zleconych oraz sposób ustalania należności za udzielane świadczenia i dokonywania rozliczeń. Rozdział 2 Tworzenie, statut, przekształcanie i likwidacja publicznego zakładu opieki zdrowotnej"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Tworzenie, przekształcenie i likwidacja publicznego zakładu opieki zdrowotnej następuje w drodze zarządzenia właściwego ministra lub wojewody albo w drodze uchwały organu gminy lub uchwały zgromadzenia związku gmin."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Tworzenie nowych publicznych zakładów opieki zdrowotnej powinno być zgodne z planem ich rozmieszczenia. 2. Plan rozmieszczenia publicznych zakładów opieki zdrowotnej o obszarze działania ogólnokrajowym, ponadwojewódzkim oraz szpitali będących publicznymi zakładami opieki zdrowotnej ustala Minister Zdrowia i Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej. 3. Plan rozmieszczenia pozostałych publicznych zakładów opieki zdrowotnej o obszarze działania wojewódzkim lub międzygminnym ustala wojewoda po zasięgnięciu opinii sejmiku samorządowego."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Zarządzenie lub uchwała o utworzeniu publicznego zakładu opieki zdrowotnej określa nazwę zakładu, siedzibę, podstawowe kierunki działalności, obszar działania oraz organ sprawujący nadzór nad zakładem. 2. Obszar działania publicznego zakładu opieki zdrowotnej w odniesieniu do szpitali tworzy obwód szpitalny, a dla pozostałych zakładów - obwód lub rejon. 3. Przepis ust. 2 nie może naruszać prawa wyboru lekarza lub zakładu przez osobę uprawnioną do świadczeń publicznych zakładów opieki zdrowotnej, jeżeli prawo takie przysługuje na podstawie przepisów, o których mowa w art. 33 ust. 2. 4. Osobom zamieszkałym w obwodzie szpitalnym, obwodzie lub rejonie przysługuje, z zastrzeżeniem art. 7, pierwszeństwo uzyskania świadczenia przed innymi osobami. Przepisy art. 5 i 6 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Statut publicznego zakładu opieki zdrowotnej, oprócz postanowień, o których mowa w art. 11, może ponadto określać sposób uczestnictwa zakładu w zapobieganiu powstawania chorób i urazów oraz w kształceniu osób wykonujących zawody medyczne. 2. Statut publicznego zakładu opieki zdrowotnej uchwala rada nadzorcza zakładu i przedkłada do zatwierdzenia organowi, który utworzył zakład. 3. Przepis ust. 2 stosuje się odpowiednio przy dokonywaniu zmian w statucie."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, dla publicznych zakładów opieki zdrowotnej: 1) kwalifikacje wymagane od pracowników na poszczególnych rodzajach stanowisk pracy, 2) rodzaje stanowisk, których obsadzanie następuje w drodze konkursu, oraz tryb przeprowadzania konkursu. 2. Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej określa, w drodze rozporządzenia, zasady wynagradzania pracowników publicznych zakładów opieki zdrowotnej, prowadzonych w formie wymienionej w art. 49 pkt 1. 3. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, minimalne normy obsady osobowej w zawodach medycznych poszczególnych wewnętrznych komórek organizacyjnych publicznego zakładu opieki zdrowotnej i stanowisk pracy, z wyjątkiem obsługi administracyjnej."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, zasady atestowania aparatury i sprzętu medycznego nabywanego przez publiczne zakłady opieki zdrowotnej. 2. Minister Zdrowia i Opieki Społecznej może określić, w drodze rozporządzenia, minimalne normy wyposażenia publicznego zakładu opieki zdrowotnej w sprzęt i aparaturę medyczną oraz standardy tego wyposażenia."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Zakup lub przyjęcie darowizny nowego sprzętu i aparatury medycznej o określonym przeznaczeniu lub standardzie przez publiczny zakład opieki zdrowotnej wymaga zgody organu, który utworzył i utrzymuje ten zakład."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Zarządzenie lub uchwała o likwidacji publicznego zakładu opieki zdrowotnej powinny określać sposób i formę zapewnienia osobom korzystającym z oznaczonych rodzajowo świadczeń zdrowotnych likwidowanego zakładu dalsze, nieprzerwane udzielanie takich świadczeń, bez istotnego ograniczenia ich dostępności, warunków udzielania i jakości oraz termin zakończenia działalności, nie wcześniej niż 3 miesiące od daty wydania zarządzenia lub podjęcia uchwały o likwidacji. 2. Projekt zarządzenia lub uchwały o likwidacji publicznego zakładu opieki zdrowotnej wymaga opinii wojewody, a jeżeli organem zamierzającym zlikwidować zakład jest wojewoda - opinii właściwych organów gminy, której ludności zakład udziela świadczeń zdrowotnych, oraz sejmiku samorządowego, jeśli zasięg działania zakładu obejmuje województwo lub jego znaczną część. 3. Przepisy ust. 1 i 2 stosuje się odpowiednio przy wydawaniu zarządzenia i podejmowaniu uchwały o przekształceniu zakładu, jeżeli w wyniku przekształcenia ma nastąpić likwidacja lub istotne ograniczenie poszczególnych rodzajów działalności zakładu i udzielanych świadczeń zdrowotnych. 4. Zarządzenie lub uchwała o likwidacji publicznego zakładu opieki zdrowotnej stanowi, po upływie terminu określonego w ust. 1, podstawę do skreślenia zakładu z dniem zakończenia jego działalności z rejestru zakładów opieki zdrowotnej, o którym mowa w art. 12. Rozdział 3 Zarządzanie publicznym zakładem opieki zdrowotnej"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Odpowiedzialność za zarządzanie publicznym zakładem opieki zdrowotnej ponosi kierownik zakładu. 2. Kierownik kieruje działalnością zakładu i reprezentuje go na zewnątrz. Kierownik jest przełożonym pracowników zakładu. 3. Kierownik, z zastrzeżeniem przepisów art. 47, podejmuje decyzje dotyczące funkcjonowania zakładu samodzielnie i ponosi za nie odpowiedzialność. 4. Kierownika publicznego zakładu opieki zdrowotnej powołuje organ, który utworzył zakład."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. W skład rady nadzorczej publicznego zakładu opieki zdrowotnej wchodzą: 1) jako przewodniczący: a) przedstawiciel naczelnego lub centralnego organu administracji państwowej - w zakładach utrzymywanych przez te organy, b) przedstawiciel wojewody - w zakładach utrzymywanych przez ten organ, c) wójt (burmistrz) lub osoba przez niego wyznaczona - w zakładach utrzymywanych przez gminę, d) przedstawiciel zarządu związku gmin lub osoba przez niego wyznaczona - w zakładach utrzymywanych przez związki, 2) jako członkowie: a) przedstawiciel wojewody - w zakładach utrzymywanych przez gminę bądź związki gmin, b) z zastrzeżeniem przepisów lit. c) i d) przedstawiciele wyłonieni przez radę lub rady gmin - w liczbie określonej przez organ, który utworzył zakład, c) przedstawiciele wyłonieni przez sejmik samorządowy - w zakładach o obszarze działania województwa - w liczbie nie przekraczającej 15 osób, d) osoby powołane przez organ tworzący zakład o zasięgu ogólnokrajowym - w liczbie nie przekraczającej 15 osób, e) przedstawiciele zakładów pracy, dla których został utworzony zakład opieki zdrowotnej - w liczbie określonej przez organ, który utworzył zakład, f) przedstawiciel rektora akademickiej uczelni medycznej - w zakładach, w których oddziały szpitalne są użytkowane na cele klinik tej uczelni. 2. W posiedzeniach plenarnych rady nadzorczej uczestniczy, z głosem doradczym, kierownik publicznego zakładu opieki zdrowotnej. 3. W posiedzeniach rady nadzorczej mają prawo uczestniczyć, z głosem doradczym, przedstawiciele samorządów zawodów medycznych. 4. Radę nadzorczą powołuje organ, który utworzył zakład, na wniosek organów i osób wymienionych w ust. 1 pkt 1."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Rada nadzorcza: 1) wnioskuje lub opiniuje: a) zmianę lub rozwiązanie umowy o korzystaniu ze środków publicznych, b) plan inwestycyjny, rzeczowo-finansowy lub projekt budżetu, c) zakup lub przyjęcie darowizny nowego sprzętu, d) roczne sprawozdanie z realizacji planu lub budżetu, e) w sprawach związanych z przekształceniem lub likwidacją zakładu, jego przebudową, rozszerzeniem lub ograniczeniem działalności, f) wniosek o kredyty bankowe lub dotację, g) podział nadwyżki finansowej, h) przyznawanie kierownikowi nagród, jeżeli nagrody przewidują przepisy, o których mowa w art. 40 ust. 2, i) odwołanie kierownika zakładu, 2) uchwala statut i zmiany w statucie zakładu, 3) zatwierdza regulamin porządkowy zakładu określający prawa i obowiązki pacjenta przebywającego w zakładzie, 4) dokonuje okresowych analiz skarg i wniosków użytkowników zakładu, z wyłączeniem spraw podlegających nadzorowi medycznemu, 5) przedstawia wnioski organowi, który finansuje określony zakres działalności, w którego imieniu rada nadzorcza występuje, 6) wykonuje inne zadania określone w statucie zakładu."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Skład rady nadzorczej, jej kadencję, sposób zwoływania posiedzeń, tryb pracy i podejmowania uchwał określa statut zakładu. 2. Statut zakładu określa również tryb rozstrzygania sporów pomiędzy kierownictwem a radą nadzorczą, z tym że ostateczne rozstrzygnięcie należy do organu, który utworzył zakład."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Właściwy organ może uzależnić zawarcie umowy, o której mowa w art. 35 ust. 1, od ustanowienia przez prowadzącego zakład opieki zdrowotnej rady nadzorczej, do której stosuje się odpowiednio art. 45 ust. 1, art. 46 pkt 1 lit. e) oraz pkt 2, 3 i 4, z tym że wnioski, o których mowa w art. 46 pkt 4, rada nadzorcza przedstawia organowi, który zawarł umowę. Rozdział 4 Gospodarka finansowa"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Gospodarka finansowa publicznych zakładów opieki zdrowotnej może być prowadzona w formie: 1) jednostki budżetowej lub zakładu budżetowego na zasadach określonych w prawie budżetowym, z zastrzeżeniem przepisu art. 50, 2) samodzielnego zakładu pokrywającego, z posiadanych środków i uzyskiwanych przychodów, koszty działalności i zobowiązania, na zasadach określonych w art. 51-62."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Publiczny zakład opieki zdrowotnej pozostawia w swojej dyspozycji: 1) 70% środków budżetowych nie wykorzystanych w danym roku, jeżeli jest prowadzony w formie jednostki budżetowej, 2) 70% wpłaty przeznaczonej dla budżetu, jeżeli jest prowadzony w formie zakładu budżetowego lub w innej formie gospodarki pozabudżetowej."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Decyzję o prowadzeniu publicznego zakładu opieki zdrowotnej na zasadach określonych w art. 49 pkt 1 lub 2 podejmuje organ założycielski, jeżeli: 1) przeprowadzi analizę zakresu i charakteru działalności zakładu w odniesieniu do potrzeb zdrowotnych określonego obszaru lub określonej grupy ludności, 2) przeprowadzi analizę możliwości pozyskiwania dodatkowych środków finansowych przez zakład, 3) stwierdzi, że pozyskiwanie dodatkowych środków nie ograniczy praw ludności do bezpłatnych świadczeń, określonych w odrębnych ustawach, 4) zapewni sobie możliwość zewnętrznego nadzoru nad gospodarką finansową, w tym szczególnie w zakresie kontroli kosztów, 5) zapewni sobie istnienie systemu nadzoru nad jakością świadczonych usług."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. Samodzielny publiczny zakład opieki zdrowotnej uzyskuje osobowość prawną z chwilą wpisania do rejestru publicznych zakładów opieki zdrowotnej, prowadzonego przez sąd rejestrowy. 2. Sądem rejestrowym jest sąd rejonowy właściwy według siedziby publicznego zakładu opieki zdrowotnej. 3. Do postępowania w sprawach rozpatrywanych przez sąd rejestrowy stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. 4. Rejestr jest jawny i dostępny do wglądu dla osób trzecich. 5. Minister Sprawiedliwości określa, w drodze rozporządzenia, wzór i sposób prowadzenia rejestru."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Mienie publicznego zakładu opieki zdrowotnej obejmuje własność i inne prawa majątkowe, wydzielone z mienia państwowego lub komunalnego."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Publiczny zakład opieki zdrowotnej może uzyskiwać środki finansowe: 1) z odpłatnych świadczeń zdrowotnych udzielanych w szczególności na zlecenie: a) organu, który utworzył zakład, lub innych organów uprawnionych na podstawie odrębnych przepisów, b) osób objętych ubezpieczeniem innym niż ubezpieczenie społeczne, c) instytucji ubezpieczeniowych, d) zakładów pracy, organizacji społecznych i innych instytucji, e) innych zakładów opieki zdrowotnej, f) osób fizycznych nie objętych ubezpieczeniem lub za świadczenie nie przysługujące w ramach ubezpieczenia, 2) na realizację zadań i programów zdrowotnych, 3) z wydzielonej działalności gospodarczej innej niż wymieniona w pkt 1, jeżeli statut zakładu przewiduje prowadzenie takiej działalności, 4) z darowizn, zapisów, spadków oraz ofiarności publicznej, także pochodzenia zagranicznego, z zastrzeżeniem wynikającym z art. 42. 2. Warunki, na jakich następuje przekazanie środków publicznych, oraz sposób kontroli ich wykorzystania określa Minister Zdrowia i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. Publiczny zakład opieki zdrowotnej może otrzymywać dotacje budżetowe na: 1) realizację zadań w zakresie zapobiegania chorób i urazów oraz szerzenia oświaty zdrowotnej, 2) pokrycie kosztów uczestniczenia w kształceniu i podnoszeniu kwalifikacji osób wykonujących zawody medyczne, 3) wykonywanie określonych programów zdrowotnych, 4) inwestycje, w tym zakup wysoko specjalistycznego sprzętu i aparatury medycznej, 5) cele szczególne, przyznawane na podstawie odrębnych przepisów. 2. Dotacje, o których mowa w ust. 1, przyznaje organ, który utworzył zakład."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Wartość majątku publicznego zakładu opieki zdrowotnej określają: 1) fundusz założycielski, 2) fundusz zakładu. 2. Fundusz założycielski zakładu stanowi wartość wydzielonej zakładowi części mienia państwowego lub komunalnego. 3. Fundusz zakładu stanowi wartość majątku zakładu po odliczeniu funduszu założycielskiego."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Fundusz założycielski zwiększają, przekazane z budżetu państwa, dotacje na inwestycje i zakup wysoko specjalistycznego sprzętu i aparatury, dotacje z budżetów gmin na cele rozwojowe zakładu oraz dary mające charakter majątku trwałego lub przeznaczone na cele rozwojowe."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Fundusz zakładu zwiększa się o: 1) nadwyżkę stanowiącą różnicę między przychodem a kosztami własnymi działalności, 2) amortyzację majątku trwałego, 3) dotacje budżetowe, 4) środki z innych źródeł. 2. Fundusz zakładu zmniejsza się o: 1) straty bilansowe, 2) umorzenie majątku trwałego, 3) kwoty zmniejszenia wartości majątku trwałego, będącego skutkiem ustawowego przeszacowania tego majątku. 3. Do amortyzacji majątku trwałego stosuje się ogólne zasady określone w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Publiczny zakład opieki zdrowotnej samodzielnie decyduje o podziale nadwyżki finansowej uzyskanej w wyniku gospodarnego wykorzystania środków publicznych, po zasięgnięciu opinii rady nadzorczej."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "1. Niedobór finansowy publiczny zakład opieki zdrowotnej pokrywa we własnym zakresie lub z kredytu bankowego. 2. Niedobór finansowy zakładu nie może być podstawą do zaprzestania działalności, jeżeli jego dalsze istnienie uzasadnione jest celami i zadaniami, do których realizacji został utworzony, a realizacji tych zadań nie może przejąć inny zakład w sposób zapewniający nieprzerwane sprawowanie opieki zdrowotnej nad ludnością. 3. Jeżeli niedobór finansowy nie może być pokryty we własnym zakresie lub z kredytu bankowego, a rada nadzorcza nie wskaże innego sposobu pokrycia niedoboru, organ, który utworzył zakład, wydaje zarządzenie lub podejmuje uchwałę o likwidacji zakładu jako samodzielnej jednostki organizacyjnej. 4. Organ, który utworzył zakład, z zachowaniem ust. 2, pokrywa niedobór zakładu ze środków publicznych i określa formę dalszego finansowania zakładu, na zasadach określonych w art. 49 pkt 1. 5. Zarządzenie lub uchwała o likwidacji zakładu, w rozumieniu ust. 3, stanowi podstawę do wykreślenia zakładu z rejestru publicznych zakładów opieki zdrowotnej. 6. Zobowiązania i należności samodzielnego publicznego zakładu opieki zdrowotnej po jego likwidacji stają się zobowiązaniami i należnościami Skarbu Państwa lub gminy."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Publiczny zakład opieki zdrowotnej prowadzi rachunkowość na zasadach określonych w odrębnych przepisach. 2. Roczny bilans publicznego zakładu opieki zdrowotnej podlega weryfikacji sprawdzającej jego rzetelność i prawidłowość. 3. Sposób i tryb weryfikacji rocznego bilansu zakładu określają odrębne przepisy."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Minister Zdrowia i Opieki Społecznej określa szczegółowe zasady ewidencji dochodów i kosztów w publicznych zakładach opieki zdrowotnej. Rozdział 5 Przepisy szczególne o szpitalach klinicznych i klinikach"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Szpitale kliniczne w rozumieniu ustawy są publicznymi zakładami opieki zdrowotnej udzielającymi świadczeń zdrowotnych w powiązaniu z realizacją celów naukowych i dydaktycznych. 2. Minister Zdrowia i Opieki Społecznej określa sposób tworzenia i organizację szpitali klinicznych, z zachowaniem przepisów o szkolnictwie wyższym i o jednostkach badawczo-rozwojowych."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Szpitale będące publicznymi zakładami opieki zdrowotnej, o których mowa w art. 33 ust. 1, udostępniają akademickim uczelniom medycznym, na podstawie zawieranych umów, oddziały szpitalne na potrzeby klinik. 2. Udostępnienie oddziału szpitalnego na potrzeby klinik nie może ograniczyć rodzaju, zakresu i dostępności świadczeń zdrowotnych, określonych w statucie szpitala. 3. W przypadku nieosiągnięcia przez strony porozumienia w sprawie, o której mowa w ust. 1, orzeka komisja pojednawcza złożona z przedstawicieli stron i osoby wyznaczonej przez Ministra Zdrowia i Opieki Społecznej. 4. Zasady działania i tryb powołania komisji, o której mowa w ust. 3, określa Minister Zdrowia i Opieki Społecznej w drodze rozporządzenia. Dział III Przepisy o kontroli zakładów"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. Ministrowi Zdrowia i Opieki Społecznej w stosunku do zakładów opieki zdrowotnej i organów prowadzących takie zakłady oraz wojewodzie w stosunku do zakładów mających siedzibę na obszarze województwa służy prawo: 1) przeprowadzania czynności kontrolnych, a w szczególności: a) wizytacji pomieszczeń zakładu, b) obserwowania czynności związanych z udzielaniem świadczeń zdrowotnych, z zastrzeżeniem art. 19 pkt 4, c) żądania informacji i udostępniania dokumentacji, w tym również dokumentacji medycznej, z zastrzeżeniem przepisu art. 18, 2) wydawania zaleceń pokontrolnych mających na celu usunięcie stwierdzonych braków i wadliwości, 3) wydawania w miarę potrzeby decyzji administracyjnych nakazujących usunięcie stwierdzonych braków i wadliwości. 2. Czynności wymienione w ust. 1 pkt 1 lit. b) mogą być wykonywane wyłącznie przez pracownika służby zdrowia wykonującego zawód medyczny."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Minister Zdrowia i Opieki Społecznej lub wojewoda mogą zlecić, jednorazowo lub w sposób ciągły, przeprowadzenie kontroli zakładu opieki zdrowotnej pod względem medycznym: organom samorządów zawodów medycznych, medycznym towarzystwom naukowym, zakładom opieki zdrowotnej, akademickim uczelniom medycznym, medycznym jednostkom badawczo-rozwojowym oraz specjalistom z poszczególnych dziedzin medycyny - za ich zgodą. 2. Osobie przeprowadzającej kontrolę przysługują uprawnienia określone w art. 65 ust. 1 pkt 1. 3. Osoba przeprowadzająca kontrolę przedstawia poczynione spostrzeżenia kierownikowi zakładu, a opinie i wnioski - organowi zlecającemu kontrolę. 4. Minister Zdrowia i Opieki Społecznej określa, w drodze rozporządzenia, sposób zlecania kontroli, jej organizację i zasady finansowania, tryb postępowania przy wykonywaniu czynności kontrolnych oraz zasady wynagradzania za te czynności."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Organ, który utworzył zakład, dokonuje okresowych kontroli i ocen działalności zakładu oraz pracy jego kierownika. 2. Kontrola i ocena obejmują w szczególności: 1) realizację zadań statutowych, dostępność i poziom udzielanych świadczeń, 2) prawidłowość gospodarki mieniem, 3) wyniki finansowe. Dział IV Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "W Kodeksie wykroczeń po art. 147 dodaje się art. 147a w brzmieniu: „ Art. 147a. Kto prowadzi zakład opieki zdrowotnej bez wymaganego wpisu do rejestru, podlega karze grzywny. ”"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1. Do zakładów opieki zdrowotnej tworzonych i utrzymywanych przez Ministrów: Obrony Narodowej, Spraw Wewnętrznych i Sprawiedliwości oraz przez Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe” stosuje się przepisy ustawy, z wyjątkiem przepisów o tworzeniu, organizacji i kontroli nad tymi zakładami; wyjątek nie dotyczy kontroli, o której mowa w art. 66. 2. Przepisy o tworzeniu, organizacji i kontroli nad tymi zakładami określają, w drodze rozporządzenia, ministrowie wymienieni w ust. 1, a w odniesieniu do Przedsiębiorstwa Państwowego „Polskie Koleje Państwowe” - Minister Transportu i Gospodarki Morskiej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Zakłady opieki zdrowotnej tworzone i utrzymywane przez Ministrów Obrony Narodowej i Spraw Wewnętrznych oraz przez Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe” współdziałają z innymi publicznymi zakładami opieki zdrowotnej w udzielaniu świadczeń zdrowotnych. 2. Do zakładów opieki zdrowotnej tworzonych i utrzymywanych przez Ministra Sprawiedliwości dla osób pozbawionych wolności przepisy ustawy stosuje się odpowiednio, przy uwzględnieniu Kodeksu karnego wykonawczego i wydanych na jego podstawie przepisów. 3. Rada Ministrów, w drodze rozporządzenia, określa sposób udzielania świadczeń zdrowotnych przez zakłady tworzone i utrzymywane przez Ministrów Obrony Narodowej i Spraw Wewnętrznych oraz Przedsiębiorstwo Państwowe „Polskie Koleje Państwowe” osobom nie posiadającym uprawnień do świadczeń tych zakładów oraz określa zasady udzielania świadczeń osobom posiadającym takie uprawnienia do korzystania ze świadczeń w innych publicznych zakładach opieki zdrowotnej."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Ilekroć w obowiązujących przepisach jest mowa o zakładzie leczniczym, rozumie się przez to zakład opieki zdrowotnej w rozumieniu ustawy. 2. Ilekroć w obowiązujących przepisach jest mowa o zakładzie społecznym służby zdrowia lub o zakładzie społecznej służby zdrowia, rozumie się przez to publiczny zakład opieki zdrowotnej w rozumieniu ustawy."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Zakłady lecznicze, zaliczone na podstawie dotychczasowych przepisów do zakładów społecznej służby zdrowia, stają się publicznymi zakładami opieki zdrowotnej w rozumieniu ustawy, jeżeli w terminie 6 miesięcy od dnia wejścia w życie ustawy utrzymujący zakład złoży oświadczenie o przyjęciu obowiązków, o których mowa w art. 33 ust. 1."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Osoby, które na podstawie art. 17 ust. 1 ustawy z dnia 28 października 1948 r. o zakładach społecznych służby zdrowia i planowej gospodarce w służbie zdrowia ( Dz. U. Nr 55, poz. 434 , z 1950 r. Nr 36, poz. 327 i 334 , z 1951 r. Nr 1, poz. 2 , z 1955 r. Nr 11, poz. 67 , z 1975 r. Nr 17, poz. 94 , z 1989 r. Nr 29, poz. 154 i Nr 35, poz. 192 oraz z 1990 r. Nr 34, poz. 198 ) nabyły uprawnienia do świadczeń zakładów społecznych służby zdrowia, zachowują te uprawnienia na dotychczasowych warunkach."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Przepisy ustawy nie naruszają uprawnień do bezpłatnych świadczeń leczniczych i innych świadczeń z zakresu opieki zdrowotnej, przysługujących na podstawie przepisów obowiązujących w dniu wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Podmioty, które utworzyły zakłady opieki zdrowotnej, w terminie 6 miesięcy od dnia wejścia w życie ustawy: 1) dostosują statuty i regulaminy zakładów do wymagań określonych w ustawie, 2) dokonają wpisu zakładu do rejestru, o którym mowa w art. 12, 3) powołają rady nadzorcze tych zakładów."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Tracą moc: 1) rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o zakładach leczniczych ( Dz. U. Nr 38, poz. 382 , z 1934 r. Nr 110, poz. 976 , z 1939 r. Nr 30, poz. 200 , z 1948 r. Nr 55, poz. 434 , z 1949 r. Nr 25, poz. 174 i Nr 65, poz. 530 oraz z 1988 r. Nr 41, poz. 324 ) , 2) ustawa z dnia 28 października 1948 r. o zakładach społecznych służby zdrowia i planowej gospodarce w służbie zdrowia ( Dz. U. Nr 55, poz. 434 , z 1950 r. Nr 36, poz. 327 i 334 , z 1951 r. Nr 1, poz. 2 , z 1955 r. Nr 11, poz. 67 , z 1975 r. Nr 17, poz. 94 , z 1989 r. Nr 29, poz. 154 i Nr 35, poz. 192 oraz z 1990 r. Nr 34, poz. 198 ) ."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Do zakładów opieki zdrowotnej nie stosuje się przepisów ustawy z dnia 23 grudnia 1988 r. o działalności gospodarczej ( Dz. U. Nr 41, poz. 324 , z 1990 r. Nr 26, poz. 149 , Nr 34, poz. 198 i Nr 86, poz. 504 oraz z 1991 r. Nr 31, poz. 128 , Nr 41, poz. 179 i Nr 73, poz. 321 ) ."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy wspólne\",\"children\": [{\"id\": \"bran_I-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-chpt_1-arti_2-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"bran_I-chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"bran_I-chpt_1-arti_3-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"bran_I-chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_I-chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_I-chpt_1-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_I-chpt_1-arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_I-chpt_1-arti_6-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"bran_I-chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_8-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_I-chpt_1-arti_8-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"bran_I-chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_I-chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_I-chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_I-chpt_1-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_I-chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_1-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"bran_I-chpt_1-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"bran_I-chpt_1-arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"bran_I-chpt_1-arti_18-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"bran_I-chpt_1-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_19-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_19-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"bran_I-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Przepisy szczególne o szpitalach\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_20-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_20-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-chpt_2-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"bran_I-chpt_2-arti_20-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"bran_I-chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_2-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_22-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1924-427",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 1924 r. w przedmiocie skrócenia czasu aplikacji wymaganej do uzyskania uzdolnienia do urzędu sędziowskiego w okręgach sądów apelacyjnych w Poznaniu i Toruniu oraz górnośląskiej części okręgu sądu apelacyjnego w Katowicach.",
+  "title_en": "",
+  "short_name": "pl-du-1924-427",
+  "status": "repealed",
+  "issued_date": "1924-04-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/427",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Aplikanci sądowi, którzy oświadczą, iż zamierzają pozostać na stałe w służbie sądowej, mogą być dopuszczeni do egzaminu sądowego po dwuletniej aplikacji sądowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sposób i policzenie aplikacji przy skróconej aplikacji określi Minister Sprawiedliwości w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wcześniejszy egzamin sądowy w myśl art. 1 nadaje dla przejścia do adwokatury uprawnienie egzaminu sądowego dopiero po upływie czasu, o który skrócono aplikację, oraz dodatkowych sześciu miesięcy. Na czas ten zalicza się tylko czas, spędzony w służbie sędziowskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje w okręgach sądów apelacyjnych w Poznaniu i w Toruniu oraz w górnośląskiej części sądu apelacyjnego w Katowicach i wchodzi w życie z dniem ogłoszenia. Art. 1 tej ustawy traci moc obowiązującą z dniem 31 grudnia 1926 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

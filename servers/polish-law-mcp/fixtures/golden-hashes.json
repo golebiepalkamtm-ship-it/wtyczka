@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Polish Law MCP",
+  "jurisdiction": "PL",
+  "provisions": [
+    {
+      "id": "pl-hash-001",
+      "description": "Constitution Art. 47 -- right to legal protection of private life, family life, honor, and good name",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483&art=47",
+      "selector_hint": "Art. 47 - Ochrona zycia prywatnego",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "prywatnego"
+    },
+    {
+      "id": "pl-hash-002",
+      "description": "DPA 2018 (Ustawa o ochronie danych osobowych) Art. 1 -- scope and purpose of the GDPR implementing provisions",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001000&art=1",
+      "selector_hint": "Art. 1 - Zakres regulacji",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "ochrona danych osobowych"
+    },
+    {
+      "id": "pl-hash-003",
+      "description": "KSC (Ustawa o krajowym systemie cyberbezpieczenstwa) Art. 1 -- scope of the National Cybersecurity System Act",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001560&art=1",
+      "selector_hint": "Art. 1 - Przedmiot ustawy",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "cyberbezpieczenstwo"
+    },
+    {
+      "id": "pl-hash-004",
+      "description": "KSH (Kodeks spolek handlowych) Art. 1 -- scope of the Commercial Companies Code",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000940037&art=1",
+      "selector_hint": "Art. 1 - Zakres regulacji",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "spolki handlowe"
+    },
+    {
+      "id": "pl-hash-005",
+      "description": "Kodeks karny Art. 267 -- unauthorized access to information and computer systems",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970880553&art=267",
+      "selector_hint": "Art. 267 - Nielegalne uzyskanie informacji",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "informacji"
+    },
+    {
+      "id": "pl-hash-006",
+      "description": "Ustawa o swiadczeniu uslug droga elektroniczna (e-Services Act) Art. 1 -- scope of the electronic services law",
+      "upstream_url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204&art=1",
+      "selector_hint": "Art. 1 - Zakres regulacji",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "uslug"
+    }
+  ]
+}

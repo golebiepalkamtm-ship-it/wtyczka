@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-440",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 kwietnia 1999 r. o ratyfikacji Konwencji o jurysdykcji i wykonywaniu orzeczeń sądowych w sprawach cywilnych i handlowych.",
+  "title_en": "",
+  "short_name": "pl-du-1999-440",
+  "status": "in_force",
+  "issued_date": "1999-04-10",
+  "in_force_date": "1999-05-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/440",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Konwencji o jurysdykcji i wykonywaniu orzeczeń sądowych w sprawach cywilnych i handlowych, podpisanej w Lugano dnia 16 września 1988 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

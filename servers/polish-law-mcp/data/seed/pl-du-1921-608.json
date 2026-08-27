@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1921-608",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 października 1921 r. zmieniająca art. 36 Ustawy Konstytucyjnej z dnia 15 lipca 1920 r. zawierającej statut organiczny Województwa Śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1921-608",
+  "status": "repealed",
+  "issued_date": "1921-10-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/608",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp 1 art. 36 Ustawy Konstytucyjnej z dnia 15 lipca 1920 r. (Dz. Ust. Rz. P. № 73, poz. 497) otrzymuje brzmienie następujące: „ Minister Sprawiedliwości w porozumieniu z Radą Wojewódzką utworzy sąd apelacyjny dla Województwa Śląskiego, oznaczy jego siedzibę i wprowadzi rozporządzeniami nieodzowne zmiany w ustroju sądownictwa, adwokatury i notarjatu oraz w ustawach postępowania sądowego. To upoważnienie Ministra Sprawiedliwości, ustaje po upływie sześciu miesięcy od dnia objęcia władzy na Górnym Śląsku przez Rzeczpospolitą Polską. Wydane przez Ministra Sprawiedliwości rozporządzenia z mocą ustaw będą bezzwłocznie przedstawione Sejmowi Rzeczypospolitej, który może je zmienić lub uchylić ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

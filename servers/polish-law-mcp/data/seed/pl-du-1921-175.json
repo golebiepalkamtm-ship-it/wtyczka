@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1921-175",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1921 r. o zmianie niektórych postanowień ustawy z dnia 13 lipca 1920 r. o uposażeniu nauczycieli i dyrektorów państwowych szkół średnich ogólnokształcących, seminarjów nauczycielskich i preparand, oraz wizytatorów szkół.",
+  "title_en": "",
+  "short_name": "pl-du-1921-175",
+  "status": "in_force",
+  "issued_date": "1921-03-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/175",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 10 rzeczonej ustawy, zdanie trzecie (po drugiej kropce) ustępu pierwszego otrzymuje brzmienie następujące: „Wysokość wynagrodzenia za godziny nadliczbowe wypłacana będzie z dołu za czas rzeczywistego zatrudnienia w godzinach nadliczbowych, a przy zatrudnieniu całorocznem za 10 miesięcy, wynosić zaś ma miesięcznie: dla grupy I przedmiotów, według określeniu art. 8 - 1 / 28 , dla grupy II - 1 / 24 dla grupy III - 1 / 23 całkowitego miesięcznego uposażenia danego nauczyciela, według określenia art. 1 - za 1 godzinę tygodniowo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 11, zamiast słów od „Za każdy oddział” aż do słów, 300 marek polskich miesięcznie”, - wstawia się co następuje: „Za każdy oddział równoległy dyrektor (przełożona) lub kierownik otrzymuje wynagrodzenie miesięczne, równające się każdoczesnemu wynagrodzeniu za 1 godzinę nadliczbową grupy II, a gdy przy szkole jest internat - wynagrodzenie dodatkowe osobne, w wysokości każdoczesnego wynagrodzenia za czynności opiekuna jednej klasy, według ustępu 2 artykułu 9”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Po art. 11 wstawić artykuł nowy, 11A, w brzmieniu następującem: „Dopóki pracownicy państwowi pobierać będą dodatek drożyźniany, dyrektor (przełożona) i kierownik będą pobierali uzupełnienie drożyżniane dodatku dyrektorskiego (za kierownictwo), równające się miesięcznie kwocie marek, w liczbie, odpowiadającej iloczynowi każdoczesnego mnożnika drożyźnianego w poszczególnych klasach miejscowości: a) - przez 12 dla dyrektora (przełożonej) szkoły średniej ogólnokształcącej i seminarjum nauczycielskiego; b) - przez 3 dla kierownika preparanoy, lub szkoły ćwiczeń”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do art. 12 dodaje się ustęp 2 w brzmieniu następującem: „Dopóki pracownicy państwowi pobierać będą dodatek drożyźniany, wizytator szkół pobierać będzie uzupełnienie drożyżniane dodatku powyższego według artykułu 11 A, przyczem mnożnik drożyźniany będzie wzięty 16-krotnie”."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W artykule 14, w wierszu 5, wyrazy „na ziemiach polskich” ulegają skreśleniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie od 1 kwietnia 1921 roku, a wykonanie jej poleca się Ministrowi Wyznań Religijnych i Oświecenia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

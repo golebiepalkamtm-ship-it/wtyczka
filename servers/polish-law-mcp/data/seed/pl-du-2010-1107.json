@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2010-1107",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 sierpnia 2010 r. o zmianie ustawy o transporcie drogowym",
+  "title_en": "",
+  "short_name": "pl-du-2010-1107",
+  "status": "amended",
+  "issued_date": "2010-08-05",
+  "in_force_date": "2010-09-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1107",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 września 2001 r. o transporcie drogowym ( Dz. U. z 2007 r. Nr 125, poz. 874 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817 oraz z 2010 r. Nr 43, poz. 246. ) po art. 50a dodaje się art. 50b w brzmieniu: „ Art. 50b. Konserwacja, naprawa i bieżące utrzymanie urządzeń technicznych do ważenia pojazdów jest finansowane ze środków budżetu państwa ujmowanych w części, której dysponentem jest minister właściwy do spraw transportu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W terminie 3 miesięcy od dnia wejścia w życie ustawy wojewodowie przekażą a Główny Inspektor Transportu Drogowego przejmie na własność urządzenia techniczne do ważenia pojazdów. 2. Przekazanie urządzeń, o których mowa w ust. 1, nastąpi w drodze protokołów zdawczo-odbiorczych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 176, poz. 1238 i Nr 192, poz. 1381, z 2008 r. Nr 218, poz. 1391, Nr 227, poz. 1505 i Nr 234, poz. 1574, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 86, poz. 720 i Nr 98, poz. 817 oraz z 2010 r. Nr 43, poz. 246. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

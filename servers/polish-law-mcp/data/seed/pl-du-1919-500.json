@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1919-500",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 listopada 1919 r. w przedmiocie zmiany punktu 2 art. 19 Ustawy z dnia 1 sierpnia 1919 r. o orderze wojskowym \"Virtuti Militari\".",
+  "title_en": "",
+  "short_name": "pl-du-1919-500",
+  "status": "repealed",
+  "issued_date": "1919-11-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/500",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 19 p. 2 otrzymuje brzmienie następujące: Przewodnictwo w tymczasowej Kapitule z urzędu obejmuje Wódz Naczelny, a w jego zastępstwie najstarszy stopniem członek tymczasowej Kapituły. Członkom Kapituły tymczasowej, z przewodniczącym w pierwszym rzędzie, przysługuje order „Virtuti Militari” klasy V, nadany przez Wodza Naczelnego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Spraw Wojskowych. Ustawa wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

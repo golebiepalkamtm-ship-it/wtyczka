@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-686",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1997 r. o zmianie ustawy o samorządzie terytorialnym.",
+  "title_en": "",
+  "short_name": "pl-du-1997-686",
+  "status": "amended",
+  "issued_date": "1997-07-31",
+  "in_force_date": "1997-09-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/686",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym ( Dz. U. z 1996 r. Nr 13, poz. 74 , Nr 58, poz. 261 , Nr 106, poz. 596 i Nr 132, poz. 622 oraz z 1997 r. Nr 9, poz. 43 i Nr 106, poz. 679 ) wprowadza się następujące zmiany: 1) w art. 28a dodaje się ust. 7 i 8 w brzmieniu: „ 7. Organy gminy ulegają rozwiązaniu z mocy prawa również w przypadkach określonych w art. 114 ust. 1 pkt 1 i 4 oraz ust. 4 ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ( Dz. U. z 1996 r. Nr 84, poz. 387 ) . 8. Do okoliczności określonej w ust. 7 stosuje się odpowiednio przepisy ust. 2-6, z uwzględnieniem zasady, że osobę, która w tym okresie pełni funkcję organów gminy wyznacza się dla każdej z gmin powstałych w wyniku zmian w podziale terytorialnym państwa. ” ; 2) w art. 37b dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Rada gminy może ustanowić zasady, na jakich członkom organu wykonawczego jednostki pomocniczej oraz członkom rady dzielnicy (osiedla), rady sołeckiej, będzie przysługiwała dieta lub zwrot kosztów podróży służbowej. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

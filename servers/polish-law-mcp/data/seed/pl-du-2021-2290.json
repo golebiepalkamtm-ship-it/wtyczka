@@ -1,0 +1,83 @@
+{
+  "id": "pl-du-2021-2290",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników",
+  "title_en": "",
+  "short_name": "pl-du-2021-2290",
+  "status": "in_force",
+  "issued_date": "2021-10-29",
+  "in_force_date": "2021-12-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/2290",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa ułatwienia w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Użyte w ustawie określenia oznaczają: 1) rolnik - rolnika w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ( Dz. U. z 2021 r. poz. 266 , 1535 i 1621 ) ; 2) domownik - osobę bliską rolnikowi, która: a) ukończyła 15 lat, b) pozostaje z rolnikiem we wspólnym gospodarstwie domowym lub zamieszkuje na terenie jego gospodarstwa rolnego albo w bliskim sąsiedztwie, c) stale pracuje w tym gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy; 3) produkty rolne lub spożywcze - produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runo leśne i dziczyznę, a także produkty przetworzone z przeznaczeniem do spożycia z wykorzystaniem produktów wymienionych w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runa leśnego lub dziczyzny; 4) handel - proces sprzedaży polegający na wymianie produktów rolnych lub spożywczych oraz wyrobów rękodzieła wytworzonych w gospodarstwie rolnym na środki pieniężne."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Miejsce do prowadzenia handlu w piątki i soboty przez rolników i ich domowników wyznacza rada gminy w drodze uchwały. 2. Wyznaczając miejsce, o którym mowa w ust. 1, rada gminy bierze pod uwagę w szczególności dogodną komunikację, bliską lokalizację z centrum danej gminy lub miasta lub bliską lokalizację miejsc atrakcyjnych turystycznie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przedmiotem handlu na wyznaczonych miejscach, o których mowa w art. 3 ust. 1, mogą być tylko produkty rolne lub spożywcze oraz wyroby rękodzieła wytworzone w gospodarstwie rolnym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada gminy uchwala regulamin określający zasady prowadzenia handlu w piątki i soboty przez rolników i ich domowników na wyznaczonych miejscach, o których mowa w art. 3 ust. 1."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wyznaczenie miejsca, o którym mowa w art. 3 ust. 1, należy do zadań własnych gminy o charakterze obowiązkowym."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ( Dz. U. z 2019 r. poz. 1170 oraz z 2021 r. poz. 401 , 1558 i 2192 ) art. 16 otrzymuje brzmienie: „ Art. 16. Zwalnia się od opłaty targowej: 1) osoby i jednostki wymienione w art. 15 ust. 1, które są podatnikami podatku od nieruchomości w związku z przedmiotami opodatkowania położonymi na targowiskach; 2) rolników i ich domowników prowadzących w piątki i soboty handel w rozumieniu art. 2 pkt 4 ustawy z dnia 29 października 2021 r. o ułatwieniach w prowadzeniu handlu w piątki i soboty przez rolników i ich domowników ( Dz. U. poz. 2290 ) . ” ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2022 r. 1) Niniejszą ustawą zmienia się ustawę z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "rolnik",
+      "definition": "rolnika w rozumieniu art. 6 pkt 1 ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ( Dz. U. z 2021 r. poz. 266 , 1535 i 1621 )",
+      "source_provision": "art2"
+    },
+    {
+      "term": "domownik",
+      "definition": "osobę bliską rolnikowi, która: a) ukończyła 15 lat, b) pozostaje z rolnikiem we wspólnym gospodarstwie domowym lub zamieszkuje na terenie jego gospodarstwa rolnego albo w bliskim sąsiedztwie, c) stale pracuje w tym gospodarstwie rolnym i nie jest związana z rolnikiem stosunkiem pracy",
+      "source_provision": "art2"
+    },
+    {
+      "term": "produkty rolne lub spożywcze",
+      "definition": "produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runo leśne i dziczyznę, a także produkty przetworzone z przeznaczeniem do spożycia z wykorzystaniem produktów wymienionych w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, runa leśnego lub dziczyzny",
+      "source_provision": "art2"
+    },
+    {
+      "term": "handel",
+      "definition": "proces sprzedaży polegający na wymianie produktów rolnych lub spożywczych oraz wyrobów rękodzieła wytworzonych w gospodarstwie rolnym na środki pieniężne.",
+      "source_provision": "art2"
+    }
+  ]
+}

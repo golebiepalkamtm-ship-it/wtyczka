@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1932-79",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1932 r. w sprawie wykonania konwencji, dotyczącej procedury cywilnej, podpisanej w Hadze dnia 17 lipca 1905 r.",
+  "title_en": "",
+  "short_name": "pl-du-1932-79",
+  "status": "in_force",
+  "issued_date": "1932-01-21",
+  "in_force_date": "1932-02-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/79",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Orzeczenia zagraniczne o kosztach, wymienione w art. 18 konwencji, dotyczącej procedury cywilnej, podpisanej w Hadze dnia 17 lipca 1905 r. (Dz. U. R. P. z 1926 r. Nr 126, poz. 735), będą w Polsce na obszarze, na którym obowiązuje procedura cywilna z 30 stycznia 1877 r., wykonywane przy zastosowaniu postanowień ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1) Uznanie zagranicznego orzeczenia o kosztach za wykonalne w Polsce następuje w drodze uchwały. 2) Do wydania takiej uchwały właściwy jest sąd grodzki, w którego okręgu zobowiązany do zwrotu kosztów ma miejsce zamieszkania lub siedzibę, a w braku takiego sądu sąd grodzki, w którego okręgu znajduje się majątek zobowiązanego, albo w którego okręgu czynność egzekucyjna ma być wykonana."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1) Jeżeli wniosek o uznanie wykonalności przedstawiono w drodze dyplomatycznej, sąd grodzki winien wypis swej uchwały, wydanej na ten wniosek, przesłać z urzędu Ministerstwu Sprawiedliwości; jeżeli wniosek uwzględniono, należy wypis uchwały zaopatrzyć w klauzulę wykonawczą. 2) W przypadkach, wspomnianych w art. 18 ust. 3 konwencji, należy uchwałę z urzędu doręczyć obu stronom."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1) Na uchwały, odmawiające uznania orzeczenia zagranicznego za wykonalne, służy zażalenie według §§ 568 do 571, 573 do 575 proc. cyw. Zażalenie takie przysługuje, jeżeli wniosek przedstawiony był w drodze dyplomatycznej, prokuratorowi, a w przypadku, wspomnianym w art. 18 ust. 3 konwencji, wnioskodawcy. 2) Na uchwały, uwzględniające wniosek o uznanie orzeczenia zagranicznego za wykonalne, służy zobowiązanemu do zwrotu kosztów natychmiastowe zażalenie według §§ 568 do 575 i 577 proc. cyw."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Orzeczenia zagraniczne o kosztach, uznane za wykonalne w Polsce, ulegają wykonaniu na zasadzie przepisów procedury cywilnej; przepis § 798 proc. cyw. ma odpowiednie zastosowanie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1) Do wydawania w myśl art. 18 ust. 2 konwencji decyzyj, ustalających wysokość kosztów sądowych, które mają być zagranicą uznane za wykonalne, właściwy jest sąd, w którego postępowaniu wynikły koszty. Decyzje te zapadają na wniosek władzy właściwej do ściągania kosztów sądowych. 2) Na takie decyzje służy natychmiastowe zażalenie według §§ 568 do 575 i 577 proc. cyw. Do zażalenia tego ma zastosowanie § 4 ust. 3 ustawy o kosztach sądowych z dnia 18 czerwca 1878 r. Na decyzje, ustalające wysokość kosztów sądowych, wydane przez sąd apelacyjny, nie służy zażalenie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Minister Sprawiedliwości mocen jest w drodze rozporządzenia rozciągnąć zastosowanie niniejszej ustawy do umów i porozumień międzynarodowych, dotyczących wzajemnego wykonywania sądowych orzeczeń o kosztach."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

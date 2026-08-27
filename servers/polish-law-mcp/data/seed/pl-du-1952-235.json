@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1952-235",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 lipca 1952 r. o zmianie organizacji władz i instytucji w dziedzinie budownictwa.",
+  "title_en": "",
+  "short_name": "pl-du-1952-235",
+  "status": "repealed",
+  "issued_date": "1952-07-10",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1952/235",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 grudnia 1950 r. o organizacji władz i instytucji w dziedzinie budownictwa ( Dz. U. Nr 58, poz. 523 ) wprowadza się następujące zmiany: 1) w art. 4 skreśla się: a) w ust. 1 w pkt 3 wyrazy „ogólnego planowania”, b) pkt 5 i 6, c) ust. 2; 2) w art. 5: a) ust. 2 otrzymuje brzmienie: „ 2. Do zakresu działania Komitetu należą sprawy: 1) naczelnego nadzoru w sprawach urbanistyki i architektury, 2) normatywów urbanistycznych, 3) projektowania architektonicznego, 4) planowania zabudowy miast i osiedli, ośrodków przemysłowych oraz nadzoru nad ich planową zabudową, 5) współpracy z właściwymi władzami przy ustalaniu wytycznych i opracowywaniu normatywów projektowania, standardów budowlanych oraz projektów typowych z punktu widzenia architektoniczno-urbanistycznego, 6) nadzoru inspekcyjno-budowlanego nad realizacją budownictwa mieszkaniowego i ogólnego, 7) ochrony i konserwacji zabytków urbanistycznych, architektonicznych oraz malarstwa i rzeźby z nimi związanych. ” ; b) dodaje się ust. 3 w brzmieniu: „ 3. Rada Ministrów określi w drodze rozporządzenia szczegółowy zakres działania Komitetu. ” ; 3) w art. 6 dodaje się ust. 3 w brzmieniu: „ 3. Rada Ministrów nada Komitetowi statut, który określi wewnętrzną organizację Komitetu. ” ; 4) art. 7 otrzymuje brzmienie: „ Art. 7. 1. Przy Prezesie Komitetu działa Rada Urbanistyki i Architektury jako organ opiniodawczy. 2. Prezes Rady Ministrów ustali zakres i tryb działania Rady Urbanistyki i Architektury oraz skład i sposób powołania jej członków ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sprawy nadzoru budowlanego nad utrzymaniem budynków, zastrzeżone dotychczas właściwości Ministra Budownictwa Miast i Osiedli, przechodzą do zakresu działania Ministra Gospodarki Komunalnej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rada Ministrów określa terminy, w których sprawy, wymienione w przepisach ustalających szczegółowy zakres działania Komitetu do Spraw Urbanistyki i Architektury, przejdą do właściwości Komitetu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Pracownicy, zatrudnieni dotychczas w działach służby przekazywanych właściwości Komitetu do Spraw Urbanistyki i Architektury oraz Ministra Gospodarki Komunalnej, przechodzą do służby w tych działach zarządu państwowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów i wszystkim ministrom."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

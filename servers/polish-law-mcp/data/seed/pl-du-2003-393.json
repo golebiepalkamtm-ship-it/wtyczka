@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2003-393",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 lutego 2003 r. o zmianie ustawy o ustanowieniu programu wieloletniego \"Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe\" i zapewnieniu warunków jego realizacji",
+  "title_en": "",
+  "short_name": "pl-du-2003-393",
+  "status": "in_force",
+  "issued_date": "2003-02-27",
+  "in_force_date": "2003-03-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/393",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego „Wyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej w samoloty wielozadaniowe” i zapewnieniu warunków jego realizacji ( Dz. U. Nr 89, poz. 972 oraz z 2002 r. Nr 37, poz. 332 ) w art. 3 dodaje się ust. 5 i 6 w brzmieniu: „ 5. Niezależnie od wydatków, o których mowa w ust. 2, na sfinansowanie realizacji programu mogą być zaciągane, w imieniu Skarbu Państwa, zobowiązania finansowe, z wyłączeniem ograniczeń wynikających z art. 43 ust. 1 ustawy, o której mowa w art. 1 ust. 2. 6. Przyrost państwowego długu publicznego z tytułu zobowiązań, o których mowa w ust. 5, w żadnym roku wykonywania programu nie może przekroczyć równowartości 3,8 mld USD. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

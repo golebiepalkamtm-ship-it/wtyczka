@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-1631",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 października 2016 r. o ratyfikacji Porozumienia paryskiego do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 19 maja 1992 r., przyjętego w Paryżu w dniu 12 grudnia 2015 r.",
+  "title_en": "",
+  "short_name": "pl-du-2016-1631",
+  "status": "in_force",
+  "issued_date": "2016-10-06",
+  "in_force_date": "2016-10-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1631",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Porozumienia paryskiego do Ramowej konwencji Narodów Zjednoczonych w sprawie zmian klimatu, sporządzonej w Nowym Jorku dnia 19 maja 1992 r., przyjętego w Paryżu w dniu 12 grudnia 2015 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,200 @@
+{
+  "id": "pl-du-1993-250",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 kwietnia 1993 r. o badaniach i certyfikacji.",
+  "title_en": "",
+  "short_name": "pl-du-1993-250",
+  "status": "repealed",
+  "issued_date": "1993-04-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa określa funkcjonowanie krajowego systemu badań i certyfikacji, uprawnienia krajowej organizacji badań i certyfikacji oraz jednostek dokonujących badań i certyfikacji wyrobów i usług. 2. Ustawa ma służyć likwidowaniu barier technicznych w handlu, zwiększaniu konkurencyjności wyrobów i usług, a także ułatwianiu krajowego i międzynarodowego obrotu towarowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia, zakres i tryb stosowania przepisów ustawy do wyrobów produkowanych w kraju i importowanych wyłącznie na potrzeby obronności i bezpieczeństwa państwa, a także właściwość organów w tych sprawach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Użyte w ustawie określenia oznaczają: 1) badania - działanie techniczne, które polega na określeniu jednej lub wielu cech danego wyrobu, procesu lub usługi, zgodnie z ustaloną procedurą, 2) certyfikacja zgodności - działanie trzeciej strony (jednostki niezależnej od dostawcy i odbiorcy) wykazujące, że zapewniono odpowiedni stopień zaufania, iż należycie zidentyfikowany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 3) system certyfikacji - system o własnych zasadach postępowania i zarządzania, dotyczących przeprowadzania certyfikacji zgodności, 4) jednostka certyfikująca - jednostkę prowadzącą certyfikację zgodności, 5) akredytacja - formalne uznanie kompetencji laboratorium badawczego lub jednostki certyfikującej, 6) laboratorium badawcze - laboratorium wykonujące badania, 7) wyrób - również jego części, podzespoły, zespoły, surowce, materiały, paliwa, produkty rolnictwa, leśnictwa i morskie, środki spożywcze i używki, substancje dodatkowe, przedmioty użytku i opakowania, 8) dostawca - stronę odpowiedzialną za wyrób, proces lub usługę i zdolną do zagwarantowania, że stosuje zapewnienie jakości; określenie to może dotyczyć producentów, dystrybutorów, importerów, montujących, świadczących usługi itp., 9) odbiorca - konsumenta, użytkownika, klienta, beneficjenta lub drugą stronę, 10) usługa - działalność dostawcy polegającą na wykonaniu czynności służących spełnianiu potrzeb odbiorcy, 11) system jakości - strukturę organizacyjną, podział odpowiedzialności, procedury, procesy i zasoby umożliwiające wdrożenie zarządzania jakością, 12) znak bezpieczeństwa - zastrzeżony znak przyznawany zgodnie z zasadami systemu certyfikacji, potwierdzający, że dany wyrób, używany zgodnie z zasadami określonymi przez producenta, nie stanowi zagrożenia dla życia, zdrowia, mienia i środowiska, 13) certyfikat zgodności - dokument wydany zgodnie z zasadami systemu certyfikacji, wykazujący, że zapewniono odpowiedni stopień zaufania, iż należycie zidentyfikowany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 14) znak zgodności (dotyczy certyfikacji) - zastrzeżony znak, nadawany lub stosowany zgodnie z zasadami systemu certyfikacji, wskazujący, że zapewniono odpowiedni stopień zaufania, iż dany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 15) podmiot gospodarczy - podmiot prowadzący działalność gospodarczą na podstawie odrębnych przepisów, 16) auditor - osobę mającą kwalifikacje do dokonywania oceny systemu jakości, 17) certyfikacja auditorów - czynność jednostki niezależnej, potwierdzającą, że dana osoba spełnia określone wymagania i jest kompetentna do dokonywania oceny systemu jakości. Rozdział 2 Polskie Centrum Badań i Certyfikacji"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Tworzy się państwową jednostkę organizacyjną pod nazwą „Polskie Centrum Badań i Certyfikacji”, zwaną dalej „Centrum”. 2. Centrum podlega Prezesowi Rady Ministrów. 3. Organizację Centrum określa statut nadany przez Prezesa Rady Ministrów na wniosek Dyrektora Centrum, zaopiniowany przez Radę do Spraw Badań i Certyfikacji. 4. Centrum posiada osobowość prawną."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Centrum prowadzi gospodarkę finansową na zasadach określonych w prawie budżetowym dla zakładów budżetowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przychodami Centrum są: 1) wpływy z działalności Centrum, 2) wpływy z innych tytułów, 3) dotacje budżetowe ustalane corocznie w ustawie budżetowej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Centrum jest krajową organizacją badań i certyfikacji. 2. Do zadań Centrum należy w szczególności: 1) organizowanie i nadzorowanie systemu badań i certyfikacji, 2) akredytowanie laboratoriów badawczych, 3) akredytowanie jednostek certyfikujących, 4) certyfikowanie systemów jakości u dostawców, 5) certyfikowanie auditorów, 6) kontrolowanie: a) akredytowanych laboratoriów badawczych w zakresie ich działalności wynikającej z akredytacji, b) akredytowanych jednostek certyfikujących w zakresie ich działalności wynikającej z akredytacji, c) certyfikowanych systemów jakości u dostawców w zakresie stawianych im wymagań, 7) organizowanie szkoleń i doskonalenie kadr na potrzeby badań i certyfikacji."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Centrum uczestniczy w międzynarodowych i regionalnych organizacjach prowadzących działalność tego rodzaju co działalność Centrum. 2. Centrum może uznawać, zwłaszcza na zasadzie wzajemności, raporty z badań i certyfikaty zgodności członków organizacji, o których mowa w ust. 1, oraz zawierać umowy z innymi organizacjami zagranicznymi o wzajemnym uznawaniu raportów z badań i certyfikatów zgodności. 3. Centrum może upoważnić krajowe jednostki certyfikujące do uznawania, zwłaszcza na zasadzie wzajemności, raportów z badań oraz certyfikatów zgodności organizacji zagranicznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Centrum kieruje Dyrektor, powoływany i odwoływany przez Prezesa Rady Ministrów, po zasięgnięciu opinii Rady do Spraw Badań i Certyfikacji. 2. Dyrektor Centrum jest organem wykonawczym i zarządzającym Centrum."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Prezes Rady Ministrów ustala wynagrodzenie Dyrektora Centrum. 2. Minister Pracy i Polityki Socjalnej określi zasady wynagradzania pracowników Centrum."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Przy Centrum działa Rada do Spraw Badań i Certyfikacji, zwana dalej „Radą”. Jest ona organem stanowiącym w zakresie tworzenia i nadzorowania realizacji polityki badań i certyfikacji. 2. W skład Rady wchodzą proporcjonalnie, w liczbie zapewniającej brak dominacji którejkolwiek ze stron, przedstawiciele naczelnych i centralnych organów administracji państwowej, organizacji przemysłowych, podmiotów gospodarczych, organizacji konsumenckich, stowarzyszeń naukowo-technicznych, towarzystw ubezpieczeniowych, związków zawodowych, Polskiego Komitetu Normalizacyjnego, komitetów technicznych i klubów działających przy Centrum. 3. Przedstawicieli, o których mowa w ust. 2, powołuje i odwołuje Prezes Rady Ministrów na wniosek zainteresowanych ministrów i właściwych organów zainteresowanych organizacji. 4. Liczbę członków Rady oraz regulamin działania Rady określa Prezes Rady Ministrów. 5. Przewodniczącego, zastępców i sekretarza Rady wybiera Rada ze swego składu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Do zakresu działania Rady należy w szczególności: 1) określanie stanu i kierunków rozwoju badań i certyfikacji, 2) zatwierdzanie planów i programów prac Centrum, 3) ocena działalności merytorycznej i finansowej Centrum. 2. Rada podejmuje uchwały i postanowienia na posiedzeniach plenarnych. Rozdział 3 Zakres certyfikacji"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Wyroby krajowe i importowane, mogące stwarzać zagrożenie lub które służą ratowaniu życia, zdrowia i środowiska, podlegają obowiązkowi zgłaszania do certyfikacji na zastrzeżony przez Centrum znak bezpieczeństwa i oznaczania tym znakiem. 2. Usługi, mogące stwarzać zagrożenie lub które służą ratowaniu życia, zdrowia i środowiska, podlegają obowiązkowi certyfikacji na certyfikat systemu jakości. 3. Podstawą oceny wyrobów i usług, o których mowa w ust. 1 i 2, są Polskie Normy wprowadzone do obowiązkowego stosowania oraz właściwe przepisy prawne. 4. Obowiązek, o którym mowa w ust. 1, nie dotyczy wyrobów wykonywanych jednostkowo na indywidualne zamówienia użytkowników, pod warunkiem że zostaną spełnione wymagania dotyczące bezpieczeństwa pracy i użytkowania oraz ochrony życia, zdrowia i środowiska. 5. Obowiązek, o którym mowa w ust. 1 i 2, nie dotyczy: 1) urządzeń technicznych podlegających dozorowi technicznemu na mocy przepisów o tym dozorze, 2) sprzętu lotnictwa cywilnego, 3) statków i innych obiektów pływających wraz z wyposażeniem, z ważnymi certyfikatami Polskiego Rejestru Statków, 4) środków farmaceutycznych i materiałów medycznych w rozumieniu przepisów o tych środkach i materiałach, 5) usług leczniczych stanowiących świadczenia zdrowotne w rozumieniu odrębnych przepisów."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Inne wyroby niż określone w art. 13 ust. 1 mogą być zgłaszane: 1) do badań w akredytowanych laboratoriach badawczych, 2) do certyfikacji przez akredytowane jednostki certyfikujące."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Systemy jakości u dostawców mogą być zgłaszane do certyfikacji w: 1) Centrum, 2) akredytowanych jednostkach certyfikujących."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Badań wyrobów, o których mowa w art. 13 ust. 1, art. 18 i 19, dokonują akredytowane laboratoria badawcze. 2. Zasady działania laboratoriów badawczych oraz zasady ich akredytacji są określone w Polskich Normach. 3. Rada określi, na wniosek Dyrektora Centrum, szczegółowy tryb akredytacji laboratoriów badawczych."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Wykazy wyrobów i usług z zakresu, o którym mowa w art. 13 ust. 1 i 2, ustala Dyrektor Centrum w porozumieniu z właściwymi naczelnymi i centralnymi organami administracji państwowej oraz innymi jednostkami, do których zakresu działania należą sprawy bezpieczeństwa pracy oraz ochrony życia, zdrowia, mienia i środowiska, po zaopiniowaniu przez Radę. 2. Wykazy, o których mowa w ust. 1, będą publikowane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Właściwe organy administracji państwowej mogą ustalać, w drodze rozporządzenia, na wniosek Dyrektora Centrum lub po zasięgnięciu jego opinii, wyroby i usługi, które nie mogą być nabywane przez podległe im lub nadzorowane przez nie jednostki organizacyjne, jeżeli dostawca nie przedstawi odpowiedniego certyfikatu."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Wyroby produkowane zgodnie z wymaganiami norm krajowych oraz norm i dyrektyw organizacji międzynarodowych lub regionalnych mogą być zgłaszane do certyfikacji w celu uzyskania certyfikatu zgodności albo certyfikatu zgodności upoważniającego do oznaczania wyrobu znakiem zgodności."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Przepisów ustawy nie stosuje się do kontroli metrologicznej przyrządów pomiarowych w rozumieniu ustawy - Prawo o miarach. Rozdział 4 Działalność jednostek certyfikujących"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Certyfikacji wyrobów, o której mowa w art. 13 ust. 1, art. 18 i art. 19, dokonują akredytowane jednostki certyfikujące. 2. Zasady działania jednostek certyfikujących wyroby oraz zasady ich akredytacji są określone w Polskich Normach. 3. Rada określi, na wniosek Dyrektora Centrum, szczegółowy tryb certyfikacji wyrobów oraz akredytacji jednostek certyfikujących wyroby."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Certyfikacji usług, o których mowa w art. 13 ust. 2 i art. 18, dokonują Centrum i akredytowane jednostki certyfikujące. 2. Zasady działania Centrum jako jednostki certyfikującej systemy jakości u dostawców oraz zasady działania jednostek certyfikujących określone są w Polskich Normach. 3. Rada określi, na wniosek Dyrektora Centrum, szczegółowy tryb certyfikacji systemów jakości."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Certyfikacji auditorów, o której mowa w art. 7 ust. 2 pkt 5, dokonuje Centrum. 2. Zasady działania Centrum, jako jednostki certyfikującej auditorów, są określone w Polskich Normach. 3. Rada określi, na wniosek Dyrektora Centrum, szczegółowy tryb certyfikacji auditorów."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Przy Centrum działa Komitet Odwoławczy, do którego zadań należy rozpatrywanie odwołań i skarg w sprawach dotyczących zakresu działania Centrum. 2. Rada powołuje Komitet Odwoławczy oraz określa zasady jego działania. Rozdział 5 Opłaty"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Opłaty za badania i certyfikację uiszcza wnioskodawca. 2. Opłaty za akredytację laboratorium badawczego oraz jednostki certyfikującej uiszcza jednostka ubiegająca się o akredytację. 3. Zasady ustalania opłat za czynności związane z badaniami i certyfikacją oraz ich maksymalne wysokości określa na wniosek Rady Dyrektor Centrum w porozumieniu z Ministrem Finansów. Rozdział 6 Sankcje ekonomiczne"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Podmiot gospodarczy, który wprowadził do obrotu wyroby podlegające oznaczaniu znakiem bezpieczeństwa, a nie oznaczone tym znakiem lub wyprodukowane niezgodnie z wymaganiami stanowiącymi podstawę przyznania prawa stosowania tego znaku, jest obowiązany wpłacić do budżetu państwa kwotę stanowiącą 100% sumy uzyskanej ze sprzedaży zakwestionowanych wyrobów. 2. Podmiot gospodarczy, który wykonał usługę nie posiadając wymaganego certyfikatu na system jakości lub wykonał usługę niezgodnie z wymaganiami stanowiącymi podstawę wydania takiego certyfikatu, jest obowiązany wpłacić do budżetu państwa kwotę stanowiącą 100% sumy uzyskanej ze sprzedaży zakwestionowanej usługi."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Organ kontroli upoważniony do kontrolowania działalności podmiotów gospodarczych zawiadamia właściwy urząd skarbowy o stwierdzeniu uchybień, o których mowa w art. 26, oraz określa ilość i wartość wyrobów lub usług, których te uchybienia dotyczą. 2. Jednostka certyfikująca, która w trakcie swoich działań stwierdzi uchybienia, o których mowa w art. 26, zawiadamia odpowiedni organ kontroli, który wykona czynności przewidziane w ust. 1."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Wpłaty z tytułu należności, o których mowa w art. 26, obciążają dochód po opodatkowaniu i są dokonywane we właściwym urzędzie skarbowym, w terminach określonych dla wpłat zaliczek podatku dochodowego lub zryczałtowanych podatków obrotowego i dochodowego. 2. W razie niewpłacenia należności pieniężnej, o której mowa w art. 26, właściwy urząd skarbowy zawiadamia o tym organ kontroli w celu wystawienia tytułu wykonawczego stanowiącego podstawę do przymusowego ściągnięcia tej należności w trybie przepisów o postępowaniu egzekucyjnym w administracji. Rozdział 7 Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Traci moc ustawa z dnia 8 lutego 1979 r. o jakości wyrobów, usług, robót i obiektów budowlanych ( Dz. U. Nr 2, poz. 7 , z 1987 r. Nr 33, poz. 181 i z 1990 r. Nr 34, poz. 198 ) ."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1994 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_1-arti_3-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_1-arti_3-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"chpt_1-arti_3-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"chpt_1-arti_3-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"chpt_1-arti_3-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"chpt_1-arti_3-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"chpt_1-arti_3-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"chpt_1-arti_3-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\"},{\"id\": \"chpt_1-arti_3-pint_17\",\"symbol\": \"pint_17\",\"type\": \"pint\",\"name\": \"17\",\"title\": \"17)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Polskie Centrum Badań i Certyfikacji\",\"children\": [{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_2-pint_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_2-arti_7-pass_2-pint_6-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_2-arti_7-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_11-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_12-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_12-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Zakres certyfikacji\",\"children\": [{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_3-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_3-arti_13-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_13-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_13-pass_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_13-pass_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_13-pass_5-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_15-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_3-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_3-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Działalność jednostek certyfikujących\",\"children\": [{\"id\": \"chpt_4-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_4-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_4-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_23-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_4-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Opłaty\",\"children\": [{\"id\": \"chpt_5-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_5-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_5-arti_25-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_6\",\"symbol\": \"chpt_6\",\"type\": \"chpt\",\"name\": \"6\",\"title\": \"Rozdział 6 - Sankcje ekonomiczne\",\"children\": [{\"id\": \"chpt_6-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_6-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_6-arti_26-pass_2\","
+    }
+  ],
+  "definitions": [
+    {
+      "term": "badania",
+      "definition": "działanie techniczne, które polega na określeniu jednej lub wielu cech danego wyrobu, procesu lub usługi, zgodnie z ustaloną procedurą, 2) certyfikacja zgodności - działanie trzeciej strony (jednostki niezależnej od dostawcy i odbiorcy) wykazujące, że zapewniono odpowiedni stopień zaufania, iż należycie zidentyfikowany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 3) system certyfikacji - system o własnych zasadach postępowania i zarządzania, dotyczących przeprowadzania certyfikacji zgodności, 4) jednostka certyfikująca - jednostkę prowadzącą certyfikację zgodności, 5) akredytacja - formalne uznanie kompetencji laboratorium badawczego lub jednostki certyfikującej, 6) laboratorium badawcze - laboratorium wykonujące badania, 7) wyrób - również jego części, podzespoły, zespoły, surowce, materiały, paliwa, produkty rolnictwa, leśnictwa i morskie, środki spożywcze i używki, substancje dodatkowe, przedmioty użytku i opakowania, 8) dostawca - stronę odpowiedzialną za wyrób, proces lub usługę i zdolną do zagwarantowania, że stosuje zapewnienie jakości; określenie to może dotyczyć producentów, dystrybutorów, importerów, montujących, świadczących usługi itp., 9) odbiorca - konsumenta, użytkownika, klienta, beneficjenta lub drugą stronę, 10) usługa - działalność dostawcy polegającą na wykonaniu czynności służących spełnianiu potrzeb odbiorcy, 11) system jakości - strukturę organizacyjną, podział odpowiedzialności, procedury, procesy i zasoby umożliwiające wdrożenie zarządzania jakością, 12) znak bezpieczeństwa - zastrzeżony znak przyznawany zgodnie z zasadami systemu certyfikacji, potwierdzający, że dany wyrób, używany zgodnie z zasadami określonymi przez producenta, nie stanowi zagrożenia dla życia, zdrowia, mienia i środowiska, 13) certyfikat zgodności - dokument wydany zgodnie z zasadami systemu certyfikacji, wykazujący, że zapewniono odpowiedni stopień zaufania, iż należycie zidentyfikowany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 14) znak zgodności (dotyczy certyfikacji) - zastrzeżony znak, nadawany lub stosowany zgodnie z zasadami systemu certyfikacji, wskazujący, że zapewniono odpowiedni stopień zaufania, iż dany wyrób, proces lub usługa są zgodne z określoną normą lub z właściwymi przepisami prawnymi, 15) podmiot gospodarczy - podmiot prowadzący działalność gospodarczą na podstawie odrębnych przepisów, 16) auditor - osobę mającą kwalifikacje do dokonywania oceny systemu jakości, 17) certyfikacja auditorów - czynność jednostki niezależnej, potwierdzającą, że dana osoba spełnia określone wymagania i jest kompetentna do dokonywania oceny systemu jakości. Rozdział 2 Polskie Centrum Badań i Certyfikacji",
+      "source_provision": "art3"
+    }
+  ]
+}

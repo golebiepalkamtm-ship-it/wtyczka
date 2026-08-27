@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1919-296",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 maja 1919 r. w przedmiocie wymiany znaków obiegowych, znajdujących się na ziemiach polskich.",
+  "title_en": "",
+  "short_name": "pl-du-1919-296",
+  "status": "repealed",
+  "issued_date": "1919-05-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/296",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Natychmiast po dostarczeniu z drukarni dostatecznej ilości biletów Banku Polskiego, opiewających na złote, jako przyszłą jednostką pieniężną polską, marki polskie i niemieckie, korony austrjacko - węgierskie i ruble rosyjskie carskie mają być zamieniane na złote i na Rentę Polską 4%-ową w stosunku, który zostanie określony w oddzielnej ustawie jednocześnie z ustaleniem kursów wymiennych. Posiadacz pierwszej pożyczki państwowej (asygnaty 1918 r.), nabytej przed 1 lipca 1919 r., przy wymianie posiadanej jeszcze gotowizny, w rozmiarach nie przewyższających sumy przedstawionych jednocześnie asygnat w takiej samej walucie, otrzyma w złotych więcej, niż ten, który przedstawia pieniądze do wymiany bez jednoczesnego przedstawienia asygnat."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Określenie maksymalnej sumy znaków pieniężnych, które będą wymieniane w całości, oraz oznaczenie Kursów wymiennych, zarówno dla gotowizny jak i dla zobowiązań, nastąpi drogą oddzielnej ustawy, która zostanie wydana przed rozpoczęciem wymiany. Ustalenie czasu i porządku, w jakim ma się odbywać wymiana, oraz prawo całkowitego lub częściowego wyłączenia z wymiany pieniędzy przywiezionych z zagranicy wbrew ustawie z dn. 11 marca 1919 r., pozostawia się Ministrowi Skarbu, który na mocy niniejszej ustawy może aż do chwili zakończenia czynności wymiennych zawieszać działalność banków, domów bankowych, kantorów wymiany i giełd, a także wydawać rozporządzenia czasowe, dotyczące przyjmowania i zwrotu wkładów bankowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Ministra Skarbu do przygotowania świadectw 4% Renty Polskiej w wysokości potrzebnej do wymiany na podstawie niniejszej ustawy, w odcinkach według jego uznania, z kuponami półrocznemi, z których najbliższy ma być płatny 1 lipca 1920 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kupony od 4% Renty Polskiej, wydanej na podstawie niniejszej ustawy, wolne będą od opodatkowania. Rencie Polskiej przyznane zostają wszelkie prawa papierów pupilarnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa z dnia 26 marca 1919 r. (o ostemplowaniu papierowych znaków pieniężnych) w przedmiocie częściowej wymiany papierowych znaków pieniężnych na asygnaty pożyczki państwowej traci, równocześnie z uchwaleniem niniejszej ustawy, moc obowiązującą, zaś w przedmiocie obowiązkowego stemplowania papierowych znaków obiegowych ulega zawieszeniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

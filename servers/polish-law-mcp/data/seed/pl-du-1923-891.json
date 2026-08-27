@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1923-891",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 1923 r. w przedmiocie podwyższenia kar za zwłokę.",
+  "title_en": "",
+  "short_name": "pl-du-1923-891",
+  "status": "repealed",
+  "issued_date": "1923-10-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/891",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Normą 10%, określoną w art. 2 ustawy z dn. 9 marca 1923 r. o karach za zwłoką oraz o kosztach egzekucyjnych (Dz. U. R. P. № 31 paz. 189), w art. 5 ustawy z dnia 1 maja 1923 r. w przedmiocie zmiany niektórych postanowień ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 76 poz. 517) o podatku od kapitałów i rent (Dz. U. R. P. № 51 poz. 376), w art. 2 i 3 ustawy z dn. 1 maja 1923 r. w przedmiocie zmiqn niektórych postanowień ustawy z dn. 8 czerwca 1920 r. (Dz. U. R. P. № 50 poz. 305) o podatku od skrzynek depozytowych - safes - (Dz. U. R. P. № 51 poz. 377), w art. 19 ustawy z dnia 15 czerwca 1923 r. (Dz. U. R. P. № 67 poz. 521) w przedmiocie niektórych zmian w przepisach o państwowym podatku dochodowym, obowiązującym w b. dzielnicy pruskiej na mocy pruskiej ustawy dnia 19 czerwca 1906 r. (Zb. Pr. prusk. str. 259), ustawy z dn. 19 grudnia 1919 r. (Dz. U. R. P. № 98 poz. 520), oraz ustawy z dn. 6 kwietnia 1922 r. (Dz. U. R. P. № 33 poz. 266), w art. 90 ustawy o państwowym podatku dochodowym (Dz. U. R. P. z 1923 r. № 77, poz. 607) i w art. 56 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P. № 94, poz. 747), tudzież normę 2%, określoną w art. 115 wspomnianej ustawy o państwowym podatku dochodowym - podwyższa się do 5% za każdy dzień. Powyższa kara stosuje się do kwot podatków już zaległych oraz płatnych do końca r. 1923 i w roku 1924."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Normę kar za zwłokę w wysokości 5% w stosunku dziennym stosuje się również do zaległości z tytułu zaliczek na podatek majątkowy określonych w ostatniej części art. 32 ustawy z dnia 11 sierpnia 1923 r. o podatku majątkowym (Dz. U. R. P. № 94, poz. 746)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązują od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

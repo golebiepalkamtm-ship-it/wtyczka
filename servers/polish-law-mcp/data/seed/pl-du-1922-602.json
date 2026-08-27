@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-602",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1922 r. w przedmiocie zbycia lub zamiany nieruchomych majątków, które przeszły lub przejdą na rzecz Państwa w myśl ustawy z dnia 15 lipca 1920 r. o likwidacji majątków prywatnych w wykonaniu traktatu pokoju, podpisanego w Wersalu dnia 28 czerwca 1919 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-602",
+  "status": "in_force",
+  "issued_date": "1922-07-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/602",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na podstawie art. 6 ustawy z dnia 17 marca 1921 r. „Konstytucja Rzeczypospolitej Polskiej” (Dz. U. R. P. № 44, poz. 267) upoważnia się Prezesa Głównego Urzędu Likwidacyjnego w porozumieniu z Ministrami: Skarbu, Spraw Wojskowych, Rolnictwa i Dóbr Państwowych, oraz Prezesa Głównego Urzędu Ziemskiego do zbycia lub zamiany nieruchomych majątków, które przeszły lub przejdą na rzecz Państwa przez zatrzymanie ich w myśl punktu b) art. 2 i art. 10 ustawy, z dnia 15 lipca 1920 r. o likwidacji majątków prywatnych w wykonaniu traktatu pokoju, podpisanego w Wersalu dnia 28 czerwca 1919 r. (Dz. U. R. P. z 1920 r. № 70, poz. 467). Wszelka zamiana nieruchomości winna uzyskać zgodę Rady Ministrów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Kontrakty sprzedaży lub zamiany majątków państwowych, w art. 1 wymienionych, zawarte przez władze i urzędy państwowe imieniem Skarbu Państwa, a zatwierdzone przez Prezesa Głównego urzędu Likwidacyjnego i Ministra Skarbu, stanowią na mocy niniejszej ustawy tytuł do przelewu prawa własności."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy poleca się Prezesowi Głównego Urzędu Likwidacyjnego w porozumieniu z Ministrami: Skarbu, Spraw Wojskowych, Rolnictwa i Dóbr Państwowych oraz Prezesem Głównego Urzędu Ziemskiego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

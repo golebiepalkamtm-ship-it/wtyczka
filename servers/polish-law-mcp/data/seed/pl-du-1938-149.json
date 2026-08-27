@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1938-149",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 marca 1938 r. o wytwarzaniu i handlu dewocjonaliami i przedmiotami kultu religijnego.",
+  "title_en": "",
+  "short_name": "pl-du-1938-149",
+  "status": "in_force",
+  "issued_date": "1938-03-25",
+  "in_force_date": "1938-03-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/149",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Wytwarzaniem i handlem dewocjonaliami oraz przedmiotami kultu religij: chrześcijańskiej, mojżeszowej i muzułmańskiej mogą się zajmować osoby fizyczne wyłącznie tej religii, której dane wytwory dotyczą, jak również osoby prawne, w których zarząd, rada nadzorcza oraz wszystkie inne władze sprawowane są przez osoby danej religii. (2) O zaliczeniu do religii decyduje stan, ujawniony w księgach stanu cywilnego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osoby wyłącznie odnośnej religii mogą być zatrudnione przy wytwarzaniu i handlu dewocjonaliami oraz przedmiotami kultu religijnego. Zatrudnienie innych osób jest zabronione."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Do dewocjonaliów i przedmiotów kultu religijnego w rozumieniu niniejszej ustawy zalicza się wytwory i przedmioty, używane przez świątynie, duchownych i wiernych przy wykonywaniu praktyk religijnych. (2) Szczegółową listę dewocjonaliów i przedmiotów kultu religijnego ustali rozporządzenie Ministra Przemysłu i Handlu w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wytwórnie i zakłady sprzedaży dewocjonaliów oraz przedmiotów kultu religijnego, działające na zasadach, sprzecznych z art. 1 i art. 2 niniejszej ustawy, ulegną likwidacji w ciągu 2 lat od wejścia w życie niniejszej ustawy, o ile się nie dostosują do wymogów art. 1 i art. 2."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prowadzący przemysł z naruszeniem przepisów ustawy niniejszej, tudzież przepisów, wydanych w wykonaniu tejże ustawy, o ile czyn nie jest zagrożony karą w powszechnych ustawach karnych - podlegają karze aresztu do trzech miesięcy i grzywny do 3.000 zł lub jednej z tych kar."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przedmioty, pochodzące z wykroczeń z art. 6, ulegają konfiskacie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Do orzekania w sprawach o wykroczenia, określonych w niniejszej ustawie, powołane są władze administracji ogólnej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

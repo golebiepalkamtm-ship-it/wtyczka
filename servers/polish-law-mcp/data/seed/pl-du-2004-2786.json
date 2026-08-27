@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-2786",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego",
+  "title_en": "",
+  "short_name": "pl-du-2004-2786",
+  "status": "amended",
+  "issued_date": "2004-12-22",
+  "in_force_date": "2004-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/2786",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego ( Dz. U. Nr 71, poz. 733 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203 i Nr 281, poz. 2783. ) w art. 9 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Przepis ust. 1 stosuje się także w przypadku podwyższania czynszu lub innych opłat za używanie lokalu, z wyjątkiem opłat niezależnych od właściciela, jeżeli poziom rocznego czynszu lub innych opłat za używanie lokalu, z wyłączeniem opłat niezależnych od właściciela, po podwyżce miałby przekroczyć 3% wartości odtworzeniowej lokalu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2005 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 113, poz. 984 i Nr 168, poz. 1383, z 2003 r. Nr 113, poz. 1069 oraz z 2004 r. Nr 116, poz. 1203 i Nr 281, poz. 2783. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

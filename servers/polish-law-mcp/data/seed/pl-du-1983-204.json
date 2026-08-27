@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1983-204",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1983 r. o zmianie ustawy o kontroli publikacji i widowisk.",
+  "title_en": "",
+  "short_name": "pl-du-1983-204",
+  "status": "repealed",
+  "issued_date": "1983-07-28",
+  "in_force_date": "1983-08-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1983/204",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o kontroli publikacji i widowisk ( Dz. U. Nr 20, poz. 99 ) wprowadza się następujące zmiany: 1) w art. 2: - w pkt 1 dodaje się wyrazy „albo zagrażać bezpieczeństwu państwa” , - w pkt 5 dodaje się wyrazy „albo w inny sposób zagrażać obronności państwa” , - w pkt 6 dodaje się wyrazy „a także rozpowszechniać treści oczywiście stanowiące przestępstwo” ; 2) w art. 4 w ust. 1: - w pkt 8 przecinek na końcu zastępuje się średnikiem i dodaje się wyrazy „wymienione publikacje podlegają jednak kontroli wstępnej w celu zapobieżenia ujawnieniu wiadomości, o których mowa w art. 2 pkt 5” , - w pkt 11 skreśla się wyrazy „biuletyny zawierające informacje, w tym i opinie w sprawach dotyczących statutowej działalności oraz” , - pkt 13 otrzymuje brzmienie: „ 13) wznowienia publikacji naukowych i dydaktycznych, o których mowa w pkt 8 i które już uprzednio uzyskały zezwolenie na druk, ” - pkt 16 skreśla się, - pkt 20 otrzymuje brzmienie: „ 20) dane bibliograficzne w publikacjach naukowych i dydaktycznych, o których mowa w pkt 8, ” ; 3) w art. 16: a) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Prezes Głównego Urzędu, Minister Nauki, Szkolnictwa Wyższego i Techniki, Minister Kultury i Sztuki oraz Sekretarz Naukowy Polskiej Akademii Nauk ustalają wykaz bibliotek, o których mowa w ust. 3, a Minister Nauki, Szkolnictwa Wyższego i Techniki, Minister Kultury i Sztuki oraz Sekretarz Naukowy Polskiej Akademii Nauk określają zasady przechowywania i udostępniania publikacji zagranicznych objętych zakazem rozpowszechniania. ” , b) ust. 4 otrzymuje brzmienie: „ 4. Główny Urząd lub Główny Urząd Ceł może wyrazić zgodę innym instytucjom i osobom na sprowadzanie publikacji zagranicznych, o których mowa w ust. 3, dla celów zawodowych, naukowych lub innych uzasadnionych celów. ” ; 4) w art. 17: a) dotychczasowa treść otrzymuje oznaczenie ust. 1, b) dodaje się ust. 2 w brzmieniu: „ 2. W razie popełnienia wykroczenia można orzec przepadek publikacji stanowiących przedmiot wykroczenia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

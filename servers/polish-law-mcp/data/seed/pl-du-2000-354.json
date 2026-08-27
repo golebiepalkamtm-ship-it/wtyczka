@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2000-354",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 lutego 2000 r. o zmianie ustawy - Prawo budowlane.",
+  "title_en": "",
+  "short_name": "pl-du-2000-354",
+  "status": "amended",
+  "issued_date": "2000-02-17",
+  "in_force_date": "2000-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/354",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane ( Dz. U. Nr 89, poz. 414 , z 1996 r. Nr 100, poz. 465 , Nr 106, poz. 496 i Nr 146, poz. 680 , z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726 , z 1998 r. Nr 22, poz. 118 i Nr 106, poz. 668 , z 1999 r. Nr 41, poz. 412 , Nr 49, poz. 483 i Nr 62, poz. 682 oraz z 2000 r. Nr 12, poz. 136 ) wprowadza się następujące zmiany: 1) użyte w art. 7 w ust. 2 i 3, w art. 10 w ust. 4 i 5, w art. 16, w art. 43 w ust. 4 i w art. 72 w różnych przypadkach wyrazy „Minister Spraw Wewnętrznych i Administracji” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw architektury i budownictwa” ; 2) użyte w art. 84b w ust. 4 i w art. 89 w ust. 4 w różnych przypadkach wyrazy „minister właściwy do spraw administracji publicznej” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw architektury i budownictwa” ; 3) w art. 88: a) ust. 3 otrzymuje brzmienie: „ 3. Główny Inspektor Nadzoru Budowlanego jest powoływany i odwoływany przez Prezesa Rady Ministrów na wniosek ministra właściwego do spraw architektury i budownictwa. ” , b) ust. 9 otrzymuje brzmienie: „ 9. Zastępcy Głównego Inspektora Nadzoru Budowlanego są powoływani i odwoływani przez ministra właściwego do spraw architektury i budownictwa na wniosek Głównego Inspektora Nadzoru Budowlanego. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

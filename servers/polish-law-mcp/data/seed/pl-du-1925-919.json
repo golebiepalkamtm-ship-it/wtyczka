@@ -1,0 +1,104 @@
+{
+  "id": "pl-du-1925-919",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 grudnia 1925 r. w sprawie wypuszczenia serji II premjowej pożyczki dolarowej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-919",
+  "status": "in_force",
+  "issued_date": "1925-12-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/919",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia serji II premjowej pożyczki dolarowej do sumy 5.000.000 dolarów Stanów Zjednoczonych Ameryki Północnej z terminem płatności nie dłuższym nad pięć lat od daty emisji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Serja II premjowej pożyczki dolarowej podlega oprocentowaniu w wysokości 5% rocznie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dla obligacyj serji II premjowej pożyczki dolarowej ustanawia się premje, wygrywane w drodze losowania numerów obligacyj. Ogólna kwota, przeznaczona do rocznego wylosowania premij, nie może przekraczać 500.000 dolarów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Obligacje serji II premjowej pożyczki dolarowej będą sprzedawane za waluty zagraniczne, które zostaną wyszczególnione przez Ministra Skarbu, oraz za zgodą Ministra Skarbu za złote według kursu, oznaczanego w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Obligacje serji II premjowej pożyczki dolarowej w terminie ich płatności oraz premje wygrane wypłacane będą w dolarach Stanów Zjednoczonych Ameryki Północnej. Wypłata powyższa będzie mogła być uskuteczniana na żądanie posiadaczy obligacyj w złotych według kursu, oznaczonego w drodze rozporządzenia zgodnie z art. 4."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przed terminem płatności obligacje serji II premjowej pożyczki dolarowej na żądanie posiadaczy wykupywane będą w złotych według kursu, oznaczanego w drodze rozporządzenia zgodnie z art. 4."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Cena emisyjna winna mieścić się w granicach od 95 do 105% wartości imiennej. Cena, po której dokonywany będzie przedterminowy wykup, winna mieścić się w granicach od 90 do 100% wartości imiennej. Cenę emisyjną oraz przedterminowego wykupu ustalać będzie Minister Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Serja II premjowej pożyczki dolarowej wolna jest od podatku od kapitałów i rent."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Obligacje serji II premjowej pożyczki dolarowej ulegają przedawnieniu po upływie lat dziesięciu od daty ich płatności, wygrane zaś premje w ciągu lat pięciu od daty dokonania losowania."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Obligacje serji II premjowej pożyczki dolarowej mają wszelkie prawa papierów, posiadających bezpieczeństwo pupilarne, i mogą być używane do lokowania kapitałów osób, pozostających pod opieką i kuratelą, jako też kapitałów fundacyjnych, kościelnych, korporacyj publicznych, kaucyj cywilnych i wojskowych oraz depozytów.,"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Obligacje serji II premjowej pożyczki dolarowej zaliczają się do tytułów na okaziciela, wypuszczanych przez Państwo, które nie podlegają działaniu ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. № 67 poz. 406) zgodnie z punktem 2 art. 13 tejże ustawy w brzmieniu ustawy z dnia 18 października 1921 r. (Dz. U. R. P. № 87 poz. 637)."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Termin otwarcia emisji, miejsce i sposób sprzedaży obligacyj, wysokość odcinków, ustalenie planu losowania, przepisy dotyczące podziału premij, miejsce wykupu obligacyj oraz wypłaty wygranych premij od obligacyj serji II premjowej pożyczki dolarowej ustali Minister Skarbu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Obligacje tej pożyczki mogą być za zgodą posiadacza użyte na wykup obligacyj serji I, zresztą zaś wpływy, uzyskane z pożyczki serji II, mają być obrócone na zasilenie zapasów kasowych celem wycofania części biletów zdawkowych."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

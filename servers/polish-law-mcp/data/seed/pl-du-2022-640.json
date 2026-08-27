@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2022-640",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej",
+  "title_en": "",
+  "short_name": "pl-du-2022-640",
+  "status": "amended",
+  "issued_date": "2022-02-24",
+  "in_force_date": "2022-03-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/640",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej ( Dz. U. z 2021 r. poz. 717 , 802 i 2165 ) wprowadza się następujące zmiany: 1) użyte w art. 21 oraz w art. 30a ust. 2 wyrazy „31 grudnia 2022 r.” zastępuje się wyrazami „31 grudnia 2023 r.” ; 2) w art. 28: a) w ust. 1 wyrazy „Na dzień 31 sierpnia danego roku” zastępuje się wyrazami „Na wniosek dysponenta Funduszu” , b) w ust. 2 wyrazy „do dnia 7 września danego roku” zastępuje się wyrazami „w terminie wskazanym przez dysponenta Funduszu” , c) ust. 3-6 otrzymują brzmienie: „ 3. Dysponent Funduszu zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw transportu informację o sumie środków, o których mowa w ust. 2, które mogą być przeznaczone na dofinansowanie realizacji zadań własnych organizatorów dotyczących zapewnienia funkcjonowania publicznego transportu zbiorowego w zakresie przewozów autobusowych o charakterze użyteczności publicznej. 4. W terminie 10 dni roboczych od dnia zamieszczenia informacji, o której mowa w ust. 3, wojewoda może złożyć do dysponenta Funduszu wniosek o przekazanie ze środków, o których mowa w ust. 2, środków na objęcie dopłatą wniosków, które nie zostały objęte dopłatą ze względu na wyczerpanie się kwoty środków Funduszu przewidzianych na województwo, o której mowa w art. 24 ust. 4. 5. Wnioski o przekazanie środków, o których mowa w ust. 2, są realizowane według kolejności wpływu do dysponenta Funduszu aż do wyczerpania się tych środków, przy czym wniosek na kwotę przekraczającą te środki jest realizowany w części, do wyczerpania środków, o których mowa w ust. 2. 6. Środki, o których mowa w ust. 2, które nie zostały przekazane wojewodom zgodnie z ust. 5, podlegają podziałowi zgodnie z art. 24 ust. 2. ” , d) uchyla się ust. 7 i 8."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 28 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się począwszy od naboru wniosków o objęcie w 2022 r. dopłatą z Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

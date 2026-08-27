@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1952-18",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 grudnia 1951 r. w sprawie zmiany dekretu o zmianie i ustalaniu imion i nazwisk.",
+  "title_en": "",
+  "short_name": "pl-du-1952-18",
+  "status": "repealed",
+  "issued_date": "1951-12-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1952/18",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 11 ust. 1 dekretu z dnia 10 listopada 1945 r. o zmianie i ustalaniu imion i nazwisk ( Dz. U. R. P. z 1945 r. Nr 56, poz. 310 i z 1949 r. Nr 4, poz. 21 ) otrzymuje brzmienie: „ 1. Osoby, względem których zachodzą przyczyny, wymienione w art. 3 ust. 2 pkt 2-4, mogą złożyć prośbę o zmianę nazwiska bądź imienia i nazwiska do dnia 31 grudnia 1952 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów i Ministrowi Sprawiedliwości w porozumieniu z Ministrami: Obrony Narodowej, Bezpieczeństwa Publicznego i Finansów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

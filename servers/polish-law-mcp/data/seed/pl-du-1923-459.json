@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1923-459",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 czerwca 1923 r. zmieniająca niektóre przepisy ustawy z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami.",
+  "title_en": "",
+  "short_name": "pl-du-1923-459",
+  "status": "in_force",
+  "issued_date": "1923-06-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/459",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami (Dz. U. R. P. № 25 poz. 154) ulega następującym zmianom: 1. Ustęp pierwszy art. 4 otrzymuje brzmienie następujące: „ Osoby, wykraczające przeciw postanowieniom, zawartym w rozporządzeniach Ministra Skarbu, wydanych na podstawie niniejszej ustawy, ulegają karze za występek: a) na obszarze mocy obowiązującej austrjackiej powszechnej ustawy karnej z roku 1852 - aresztu ścisłego do 5 lat i grzywny do 100,000.000 mkp., b) na reszcie obszaru Rzeczypospolitej Polskiej - więzienia do lat 5 i grzywny do 100.000.000 mkp. ” 2. Art. 8, I. 3 otrzymuje brzmienie następujące: „ 3) w górnośląskiej części Województwa Śląskiego sąd nie może odmówić wnioskowi o wyznaczenie terminu do rozprawy głównej ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

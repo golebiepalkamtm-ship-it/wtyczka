@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-20",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 grudnia 2017 r. o zmianie ustawy - Kodeks karny",
+  "title_en": "",
+  "short_name": "pl-du-2018-20",
+  "status": "amended",
+  "issued_date": "2017-12-08",
+  "in_force_date": "2018-01-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/20",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ( Dz. U. z 2017 r. poz. 2204 ) w art. 25 po § 2 dodaje się § 2a w brzmieniu: „ § 2a. Nie podlega karze, kto przekracza granice obrony koniecznej, odpierając zamach polegający na wdarciu się do mieszkania, lokalu, domu albo na przylegający do nich ogrodzony teren lub odpierając zamach poprzedzony wdarciem się do tych miejsc, chyba że przekroczenie granic obrony koniecznej było rażące. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

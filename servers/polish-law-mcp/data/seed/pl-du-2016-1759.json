@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-1759",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 października 2016 r. o zmianie ustawy budżetowej na rok 2016",
+  "title_en": "",
+  "short_name": "pl-du-2016-1759",
+  "status": "repealed",
+  "issued_date": "2016-10-20",
+  "in_force_date": "2016-10-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1759",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie budżetowej na rok 2016 z dnia 25 lutego 2016 r. ( Dz. U. poz. 278 ) wprowadza się następujące zmiany: 1) w art. 2: a) ust. 1 otrzymuje brzmienie: „ 1. Ustala się, zgodnie z załącznikiem nr 3, łączną kwotę prognozowanych dochodów budżetu środków europejskich w wysokości 53 429 147 tys. zł. ” , b) ust. 3 otrzymuje brzmienie: „ 3. Wynik budżetu środków europejskich ustala się na kwotę −18 211 381 tys. zł. ” ; 2) art. 3 otrzymuje brzmienie: „ Art. 3. 1. Ustala się łączną kwotę planowanych przychodów budżetu państwa w wysokości 338 099 330 tys. zł oraz łączną kwotę planowanych rozchodów budżetu państwa w wysokości 265 147 949 tys. zł - z tytułów wymienionych w załączniku nr 5. 2. Planowane saldo przychodów i rozchodów budżetu państwa ustala się na kwotę 72 951 381 tys. zł. ” ; 3) w załączniku nr 3 do ustawy „Dochody budżetu środków europejskich w 2016 r.”: a) w poz. Wspólna Polityka Rolna w kolumnie „Dochody budżetu środków europejskich (część 87)” kwotę „26 595 458” zastępuje się kwotą „17 624 458” , b) w poz. Ogółem Programy w kolumnie „Dochody budżetu środków europejskich (część 87)” kwotę „62 400 147” zastępuje się kwotą „53 429 147” ; 4) załącznik nr 5 do ustawy „Plan przychodów i rozchodów budżetu państwa”, w części dotyczącej planu na rok 2016, otrzymuje brzmienie określone w załączniku do niniejszej ustawy; 5) w załączniku nr 15 do ustawy „Planowane dochody i wydatki budżetu środków europejskich oraz budżetu państwa w latach 2016-2018 w zakresie Narodowej Strategii Spójności w latach 2007-2013, Programu Operacyjnego Zrównoważony Rozwój Sektora Rybołówstwa i Nadbrzeżnych Obszarów Rybackich, Wspólnej Polityki Rolnej, Perspektywy Finansowej 2014-2020 oraz programów realizowanych z udziałem państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA)” w Tabeli 1: a) w poz. Wspólna Polityka Rolna w kolumnie „Dochody”, „Plan na rok 2016”, „Dochody budżetu środków europejskich - cz. 87” kwotę „26 595 458” zastępuje się kwotą „17 624 458” , b) w poz. Ogółem programy w kolumnie „Dochody”, „Plan na rok 2016”, „Dochody budżetu środków europejskich - cz. 87” kwotę „62 400 147” zastępuje się kwotą „53 429 147” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Załącznik - Tekst załącznika patrz oryginał Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tekst załącznika\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

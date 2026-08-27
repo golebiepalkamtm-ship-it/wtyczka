@@ -1,0 +1,734 @@
+{
+  "id": "pl-du-1985-138",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 czerwca 1985 r. o prokuraturze",
+  "title_en": "",
+  "short_name": "pl-du-1985-138",
+  "status": "repealed",
+  "issued_date": "1985-06-20",
+  "in_force_date": "1985-07-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1985/138",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Prokuraturę Polskiej Rzeczypospolitej Ludowej stanowią: Prokurator Generalny Polskiej Rzeczypospolitej Ludowej, zwany dalej „Prokuratorem Generalnym”, oraz podlegli mu prokuratorzy powszechnych i wojskowych jednostek organizacyjnych prokuratury."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Działalność prokuratury ma na celu ochronę i umacnianie ustroju politycznego i społeczno-gospodarczego Polskiej Rzeczypospolitej Ludowej oraz ochronę własności społecznej i zapewnienie poszanowania praw obywateli. 2. Prokuratura powinna w swojej działalności wpływać na kształtowanie świadomości obywateli w duchu szacunku dla prawa i przestrzegania dyscypliny społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zadaniem Prokuratora Generalnego i podległych mu prokuratorów jest strzeżenie praworządności ludowej w działaniach organów państwowych, innych państwowych jednostek organizacyjnych, spółdzielni i ich związków, organizacji zawodowych, samorządowych i społecznych, a także w postępowaniu obywateli."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Zadania określone w art. 3 Prokurator Generalny i podlegli mu prokuratorzy wykonują przez: 1) prowadzenie lub nadzorowanie postępowania przygotowawczego w sprawach karnych oraz sprawowanie funkcji oskarżyciela publicznego przed sądami, 2) wytaczanie powództw w sprawach karnych i cywilnych oraz składanie wniosków i udział w postępowaniu sądowym w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych, jeżeli tego wymaga ochrona praworządności, interesu społecznego, własności społecznej lub praw obywateli, 3) podejmowanie środków przewidzianych prawem, zmierzających do zapewnienia prawidłowego i jednolitego stosowania prawa w postępowaniu sądowym, administracyjnym, arbitrażowym, w sprawach o wykroczenia oraz w innych rodzajach postępowania, 4) sprawowanie nadzoru nad wykonaniem wyroków w sprawach karnych, postanowień o tymczasowym aresztowaniu oraz innych decyzji o pozbawieniu wolności, 5) prowadzenie badań w zakresie problematyki przestępczości oraz jej zwalczania i zapobiegania, 6) sprawowanie prokuratorskiej kontroli przestrzegania prawa na zasadach określonych w ustawie i w przepisach szczególnych, 7) zaskarżanie do sądu niezgodnych z prawem decyzji administracyjnych oraz udział w postępowaniu sądowym w sprawach zgodności z prawem takich decyzji, 8) współdziałanie z radami narodowymi w zakresie czuwania przez nie nad przestrzeganiem praworządności ludowej, ochroną własności społecznej i poszanowaniem praw obywateli, 9) koordynowanie działalności w zakresie ścigania przestępstw, prowadzonej przez inne organy państwowe, 10) współdziałanie z organami państwowymi, państwowymi jednostkami organizacyjnymi i organizacjami społecznymi w zapobieganiu przestępczości i innym naruszeniom prawa, 11) opiniowanie projektów aktów normatywnych, 12) podejmowanie innych przewidzianych prawem czynności niezbędnych dla umacniania praworządności ludowej i zapobiegania przestępczości. 2. W sprawach należących do zakresu działania sądów wojskowych oraz innych organów wojskowych czynności, o których mowa w ust. 1, wykonują prokuratorzy wojskowych jednostek organizacyjnych prokuratury."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prokurator Generalny może zwracać się do Rady Państwa lub Rady Ministrów z wnioskami o podjęcie inicjatywy ustawodawczej, jak również występować do Rady Państwa o ustalenie powszechnie obowiązującej wykładni ustaw."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Prokurator Generalny może występować do Trybunału Konstytucyjnego z wnioskami o stwierdzenie zgodności aktu ustawodawczego z Konstytucją albo innego aktu normatywnego z Konstytucją lub aktem ustawodawczym i uczestniczy w postępowaniu przed Trybunałem Konstytucyjnym w zakresie i trybie ustalonym odrębną ustawą. 2. Prokurator Generalny rozpatruje kierowane do niego przez obywateli, organy, instytucje oraz organizacje społeczne wnioski w sprawach określonych w ust. 1."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Prokurator Generalny jest naczelnym organem prokuratury. 2. Prokuratora Generalnego powołuje i odwołuje Rada Państwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Prokurator Generalny podlega Radzie Państwa i działa zgodnie z jej wytycznymi. 2. Prokurator Generalny zdaje sprawę Radzie Państwa z działalności prokuratury."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Prokuratorami powszechnych jednostek organizacyjnych prokuratury są: zastępcy Prokuratora Generalnego, prokuratorzy wojewódzcy, prokuratorzy rejonowi oraz prokuratorzy i wiceprokuratorzy odpowiednich jednostek organizacyjnych prokuratury. 2. Prokuratorami wojskowych jednostek organizacyjnych prokuratury są: Naczelny Prokurator Wojskowy, zastępcy Naczelnego Prokuratora Wojskowego, prokuratorzy okręgów wojskowych, prokuratorzy rodzajów sił zbrojnych, wojskowi prokuratorzy garnizonowi, zastępcy prokuratorów oraz prokuratorzy i wiceprokuratorzy odpowiednich jednostek organizacyjnych prokuratury."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Prokuratorzy w sprawowaniu swych funkcji są niezależni i podlegają jedynie prokuratorom przełożonym."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Prokurator jest obowiązany do podejmowania odpowiednich działań w wypadku naruszenia prawa oraz do kierowania się zasadą bezstronności i równego traktowania wszystkich obywateli."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Rady narodowe oraz organy administracji państwowej, a także inne państwowe jednostki organizacyjne, spółdzielnie i ich związki, organizacje zawodowe, samorządowe i inne organizacje społeczne udzielają Prokuratorowi Generalnemu i podległym mu prokuratorom pomocy w realizacji ich zadań. 2. Prokurator wojewódzki lub rejonowy, z własnej inicjatywy bądź na wniosek właściwej rady narodowej, prezydium rady albo właściwego terenowego organu administracji państwowej o właściwości ogólnej, przedkłada im informację o ważniejszych wynikach prokuratorskiej kontroli przestrzegania prawa oraz o stanie przestępczości i jej zwalczaniu w województwie, mieście, dzielnicy lub gminie. Rozdział 2 Organizacja prokuratury"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Prokurator Generalny kieruje działalnością prokuratury i wydaje w tym zakresie zarządzenia, wytyczne i polecenia. 2. Prokurator Generalny może przedsiębrać wszelkie czynności należące do zakresu działania prokuratury lub zlecać ich wykonanie podległym mu prokuratorom, chyba że ustawa zastrzega określoną czynność wyłącznie jego właściwości. 3. Prokurator przełożony może zlecać podległym prokuratorom wykonanie czynności należących do jego zakresu działania, chyba że ustawa zastrzega określoną czynność wyłącznie jego właściwości, oraz przejmować czynności prokuratorów podległych."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Zastępców Prokuratora Generalnego powołuje i odwołuje Rada Państwa na wniosek Prokuratora Generalnego. 2. Jednym z zastępców Prokuratora Generalnego jest Naczelny Prokurator Wojskowy, którego powołuje i odwołuje Rada Państwa na wspólny wniosek Prokuratora Generalnego i Ministra Obrony Narodowej. Naczelny Prokurator Wojskowy kieruje w zastępstwie Prokuratora Generalnego działalnością wojskowych jednostek organizacyjnych prokuratury."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Prokuratorów Prokuratury Generalnej i prokuratorów wojewódzkich mianuje i zwalnia Rada Państwa na wniosek Prokuratora Generalnego. Nie dotyczy to zwolnień określonych w art. 19 ust. 1 pkt 1 i 3. 2. Zastępców Naczelnego Prokuratora Wojskowego, prokuratorów Naczelnej Prokuratury Wojskowej, prokuratorów okręgów wojskowych i prokuratorów rodzajów sił zbrojnych mianuje i zwalnia Rada Państwa na wspólny wniosek Prokuratora Generalnego i Ministra Obrony Narodowej. 3. Pozostałych prokuratorów mianuje i zwalnia Prokurator Generalny. Mianowanie i zwolnienie prokuratora wojskowej jednostki organizacyjnej prokuratury następuje w porozumieniu z Ministrem Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Na stanowisko prokuratora może być mianowany obywatel polski, który: 1) daje rękojmię należytego wykonywania obowiązków prokuratora w Polskiej Rzeczypospolitej Ludowej, 2) korzysta z pełni praw obywatelskich i cywilnych, 3) posiada odpowiednie kwalifikacje moralne, 4) ukończył uniwersyteckie studia prawnicze, 5) odbył aplikację prokuratorską i złożył egzamin prokuratorski, 6) posiada odpowiedni okres zatrudnienia: w powszechnych jednostkach organizacyjnych prokuratury - jeden rok pracy na stanowisku asesora, w wojskowych jednostkach organizacyjnych prokuratury - okres służby przewidziany w przepisach o służbie wojskowej żołnierzy zawodowych, 7) ukończył 25 lat. 2. Na stanowisko prokuratora w wojskowych jednostkach organizacyjnych prokuratury może być mianowany tylko oficer zawodowy lub oficer służby okresowej. 3. Na stanowisko prokuratora może być mianowany również ten, kto odpowiada wymaganiom ustawowym do powołania na stanowisko sędziego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Prokuratorem nie może być osoba, której małżonek wykonuje zawód adwokata."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Prokurator Generalny może w wyjątkowych wypadkach zwolnić określoną osobę od odbycia aplikacji i złożenia egzaminu prokuratorskiego oraz od wymaganego okresu zatrudnienia lub służby wojskowej, jeżeli osoba ta posiada przygotowanie konieczne do wykonywania obowiązków na stanowisku prokuratora."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Zwolnienie prokuratora powszechnej jednostki organizacyjnej prokuratury następuje: 1) na mocy prawomocnego orzeczenia komisji dyscyplinarnej o wydaleniu prokuratora ze służby oraz w razie porzucenia służby, 2) w razie stwierdzenia, że nie daje on rękojmi należytego wykonywania obowiązków prokuratora, przy czym przed powzięciem decyzji umożliwia się zainteresowanemu złożenie w tym przedmiocie wyjaśnień, 3) w razie rezygnacji prokuratora ze służby; rezygnacja ze służby złożona w okresie pomiędzy wszczęciem a zakończeniem postępowania, o którym mowa w pkt 2, oraz postępowania dyscyplinarnego może być nieuwzględniona. 2. Zwolnienie prokuratora powszechnej jednostki organizacyjnej prokuratury następuje również: 1) w razie orzeczenia przez właściwą komisję lekarską trwałej niezdolności do pełnienia obowiązków prokuratora; nieuzasadniona odmowa prokuratora poddania się badaniu lekarskiemu może być powodem zwolnienia ze służby, 2) w razie otrzymania dwukrotnie w odstępie jednego roku ujemnej oceny kwalifikacyjnej, 3) w razie zawarcia związku małżeńskiego z osobą, która wykonuje zawód adwokata i nie zaprzestała go wykonywać w terminie trzech miesięcy od zawarcia związku małżeńskiego. 3. W powszechnych jednostkach organizacyjnych prokuratury zwolnienie następuje również, gdy prokurator nabył uprawnienia emerytalne, chyba że Prokurator Generalny, na wniosek zainteresowanego albo w porozumieniu z nim z własnej inicjatywy - wyrazi zgodę na dalsze zajmowanie stanowiska, nie dłużej jednak niż do ukończenia lat siedemdziesięciu. 4. Zwolnienie prokuratora powszechnej jednostki organizacyjnej prokuratury może nastąpić również: 1) na wniosek właściwych organów państwowych albo władz organizacji politycznych lub społecznych, w związku z zamierzonym przejściem do innej pracy, 2) w razie czasowej niezdolności do pracy spowodowanej jego chorobą, jeżeli okres tej choroby przekracza rok. 5. W wypadkach wskazanych w ust. 1 pkt 2 i 3 oraz w ust. 2 i 3 stosunek służbowy prokuratora powszechnej jednostki organizacyjnej prokuratury rozwiązuje się po upływie trzech miesięcy od daty zawiadomienia o zwolnieniu, chyba że na wniosek prokuratora określono krótszy termin; w okresie tym prokurator może być zwolniony z pełnienia obowiązków z zachowaniem prawa do wynagrodzenia."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Powszechnymi jednostkami organizacyjnymi prokuratury są: Prokuratura Generalna oraz prokuratury wojewódzkie i rejonowe. 2. Prokuraturę wojewódzką tworzy się dla jednego lub więcej województw. 3. Prokuraturę rejonową tworzy się dla jednej lub więcej jednostek podziału terytorialnego stopnia podstawowego w obrębie jednego województwa. 4. Prokurator Generalny może poza siedzibą prokuratury tworzyć ośrodki zamiejscowe prokuratur wojewódzkich lub rejonowych. 5. Wojskowymi jednostkami organizacyjnymi prokuratury są: Naczelna Prokuratura Wojskowa, prokuratury okręgów wojskowych, prokuratury rodzajów sił zbrojnych oraz wojskowe prokuratury garnizonowe. 6. W miarę potrzeby mogą być tworzone inne rodzaje powszechnych lub wojskowych jednostek organizacyjnych prokuratury. 7. Prokurator Generalny, w porozumieniu z Ministrem Administracji i Gospodarki Przestrzennej, tworzy i znosi w drodze zarządzenia powszechne jednostki organizacyjne prokuratury oraz ustala ich siedziby i terytorialny zakres działania. 8. Zarządzenia, o których mowa w ust. 7, podlegają ogłoszeniu w Dzienniku Ustaw Polskiej Rzeczypospolitej Ludowej. 9. Minister Obrony Narodowej, w porozumieniu z Prokuratorem Generalnym, tworzy i znosi wojskowe jednostki organizacyjne prokuratury oraz ustala ich siedziby i terytorialny zakres działania."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. W Prokuraturze Generalnej działa Kolegium Prokuratury Polskiej Rzeczypospolitej Ludowej. Kolegium jako organ doradczy Prokuratora Generalnego wyraża opinie w węzłowych zagadnieniach związanych z działalnością prokuratury. 2. Członków Kolegium powołuje i odwołuje Rada Państwa na wniosek Prokuratora Generalnego. Prokurator Generalny i jego zastępcy wchodzą w skład Kolegium z urzędu. 3. W posiedzeniach kolegium mogą brać udział zaproszeni przedstawiciele organów, których działalność jest przedmiotem obrad w związku z wykonywaniem funkcji z zakresu prokuratorskiej kontroli przestrzegania prawa lub nadzoru nad postępowaniem przygotowawczym. 4. Kolegium przewodniczy Prokurator Generalny lub z jego upoważnienia jeden z jego zastępców."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Wewnętrzną organizację powszechnych jednostek organizacyjnych prokuratury oraz organizację, zakres i tryb działania Kolegium Prokuratury Polskiej Rzeczypospolitej Ludowej określa statut nadany przez Radę Państwa na wniosek Prokuratora Generalnego. 2. Wewnętrzną organizację wojskowych jednostek organizacyjnych prokuratury określa statut nadany przez Radę Państwa na wniosek Ministra Obrony Narodowej przedstawiony w porozumieniu z Prokuratorem Generalnym. Rozdział 3 Działalność prokuratury Postępowanie przygotowawcze"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Prokurator, stosownie do przepisów ustaw, wszczyna i prowadzi postępowanie przygotowawcze albo zleca wszczęcie lub prowadzenie takiego postępowania Milicji Obywatelskiej, Służbie Bezpieczeństwa lub innemu uprawnionemu organowi. 2. W toku postępowania przygotowawczego prokurator stosuje, w wypadkach przewidzianych w ustawach, środki zapobiegawcze wobec osób podejrzanych. 3. Tymczasowe aresztowanie lub poręczenie majątkowe mogą być zastosowane tylko po uprzednim przesłuchaniu przez prokuratora osoby podejrzanej, chyba że osoba ta ukrywa się."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Prokurator sprawuje nadzór nad postępowaniem przygotowawczym prowadzonym przez uprawniony do tego inny organ. Zarządzenia prokuratora w postępowaniu przygotowawczym są wiążące. 2. W razie niewykonania zarządzenia, o którym mowa w ust. 1, na żądanie prokuratora, przełożony winnego funkcjonariusza wszczyna przeciwko niemu postępowanie służbowe lub dyscyplinarne."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. W razie gdy postępowanie przygotowawcze ujawni istnienie okoliczności sprzyjających popełnianiu przestępstw lub utrudniających ich ujawnianie, prokurator kieruje wystąpienie do odpowiedniego organu. 2. W wystąpieniu prokurator może żądać również przeprowadzenia kontroli, a także wszczęcia przeciwko winnym postępowania w przedmiocie odpowiedzialności dyscyplinarnej, służbowej, materialnej lub innej przewidzianej w przepisach dotyczących stosunków pracy. 3. Do wystąpienia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 53 ust. 2 oraz art. 54."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. W razie umorzenia postępowania przygotowawczego prokurator może, stosownie do okoliczności, przesłać sprawę właściwemu organowi w celu wszczęcia postępowania służbowego, dyscyplinarnego lub o wykroczenie albo w celu rozpatrzenia sprawy przez właściwą organizację społeczną lub zawodową. 2. Przepis ust. 1 stosuje się odpowiednio w razie odmowy wszczęcia postępowania przygotowawczego, a także w razie skierowania sprawy do sądu z aktem oskarżenia."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Wytyczne Prokuratora Generalnego w zakresie postępowania przygotowawczego są wiążące dla wszystkich organów uprawnionych do prowadzenia postępowania przygotowawczego. 2. Wydawane przez ministrów akty normatywne dotyczące postępowania przygotowawczego wymagają uprzednio uzgodnienia z Prokuratorem Generalnym, a wydawane przez organy administracji państwowej o terenowym zakresie działania - uprzednio uzgodnienia z prokuratorem wojewódzkim. 3. Ministrowie nadzorujący organy uprawnione do prowadzenia postępowania przygotowawczego, z wyjątkiem Wojskowej Służby Wewnętrznej, Wojsk Ochrony Pogranicza, Milicji Obywatelskiej i Służby Bezpieczeństwa, obowiązani są do przedstawiania Prokuratorowi Generalnemu corocznych informacji o działalności tych organów w zakresie postępowania przygotowawczego. 4. Minister Spraw Wewnętrznych obowiązany jest do przedstawiania Prokuratorowi Generalnemu corocznych informacji, o których mowa w ust. 3, w zakresie spraw nie objętych nadzorem prokuratora. 5. Organy administracji państwowej o terenowym zakresie działania są obowiązane do składania informacji, o których mowa w ust. 3 i 4, właściwym prokuratorom wojewódzkim. 6. Informacje, o których mowa w ust. 3-5, składane są do końca stycznia roku następnego."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Prokurator Generalny może występować do naczelnych i centralnych organów administracji państwowej o podjęcie środków w celu usprawnienia działalności podległych im organów w zakresie postępowania przygotowawczego. 2. Uprawnienia określone w ust. 1 przysługują odpowiednio prokuratorom wojewódzkim i rejonowym w stosunku do organów państwowych o terenowym zakresie działania. 3. Organ, do którego zwrócił się prokurator, jest obowiązany w terminie trzydziestu dni od daty otrzymania wystąpienia zawiadomić prokuratora o podjętych środkach, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "W sprawach należących do zakresu działania sądów wojskowych uprawnienia przewidziane w art. 27 ust. 1 i 2 i art. 28 przysługują również Naczelnemu Prokuratorowi Wojskowemu oraz odpowiednio podległym mu prokuratorom wojskowym. Udział prokuratora w postępowaniu sądowym"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Prokurator wykonuje czynności oskarżyciela publicznego przed wszystkimi sądami. Może również wykonywać te czynności w sprawach wniesionych do sądu przez innych oskarżycieli. 2. W razie gdy wyniki postępowania sądowego nie potwierdzają zarzutów oskarżenia, prokurator odstępuje od oskarżenia. 3. Prokurator wnosi, w wypadkach przewidzianych w ustawach, środki zaskarżenia od orzeczeń sądowych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Uznając, że tego wymaga ochrona praworządności, interesu społecznego, własności społecznej lub praw obywateli, prokurator wytacza lub popiera powództwo cywilne w sprawach karnych oraz - z zastrzeżeniem przewidzianych w ustawie wyjątków - wytacza powództwo lub składa wniosek w postępowaniu w sprawach cywilnych, ze stosunku pracy i ubezpieczeń społecznych, a także może brać udział w każdym stadium postępowania toczącego się przed sądem z czyjegokolwiek powództwa lub wniosku."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Prokurator Generalny, w wypadkach przewidzianych w ustawach, wnosi do Sądu Najwyższego nadzwyczajne środki zaskarżenia od prawomocnych orzeczeń. W sprawach należących do zakresu działania sądów wojskowych uprawnienia te przysługują również Naczelnemu Prokuratorowi Wojskowemu."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Prokurator Generalny zgłasza Sądowi Najwyższemu wnioski w zakresie sprawowanego przez Sąd Najwyższy nadzoru nad orzecznictwem sądów powszechnych i szczególnych. 2. W szczególności Prokurator Generalny zgłasza wnioski o podjęcie uchwał: 1) zawierających wytyczne w zakresie wykładni prawa i praktyki sądowej w celu ujednolicenia orzecznictwa wszystkich sądów oraz innych organów, których orzecznictwo jest poddane nadzorowi Sądu Najwyższego, 2) mających na celu wyjaśnienie przepisów prawnych budzących wątpliwości lub których stosowanie wywołało rozbieżność w orzecznictwie. 3. Prokurator Generalny zgłasza również swoje stanowisko w odniesieniu do wniosków o podjęcie uchwał, o których mowa w ust. 2 pkt 1 i 2, złożonych przez inne uprawnione organy. Nadzór nad wykonywaniem wyroków w sprawach karnych oraz orzeczeń i decyzji o pozbawianiu wolności"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Prokurator sprawuje, w granicach przewidzianych ustawami, nadzór nad wykonywaniem wyroków w sprawach karnych, postanowień o tymczasowym aresztowaniu oraz innych orzeczeń i decyzji o pozbawieniu wolności."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Nadzór penitencjarny prokuratora nad zakładami, w których przebywają osoby pozbawione wolności, obejmuje przede wszystkim kontrolę legalności osadzenia w nich tych osób oraz kontrolę legalności wykonywania kary pozbawienia wolności, jak również wszystkich orzeczeń i decyzji o pozbawieniu wolności. 2. Prokurator Generalny, w porozumieniu z Ministrem Sprawiedliwości, a w razie potrzeby również z innymi właściwymi ministrami, określa szczegółowo zakres prokuratorskiego nadzoru penitencjarnego oraz tryb jego wykonywania."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Prokuratorowi przysługuje prawo wstępu w każdym czasie do pomieszczeń zakładu, w którym przebywają osoby pozbawione wolności, jak również przeglądania dokumentów i żądania wyjaśnień od administracji zakładu, przeprowadzenia rozmów z osobami osadzonymi w zakładzie oraz badania ich skarg i wniosków."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. W razie stwierdzenia niezgodnego z prawem pozbawienia wolności, prokurator zarządza natychmiastowe zwolnienie. 2. Prokurator może wstrzymać wykonanie każdej decyzji administracji zakładu, w którym przebywają osoby pozbawione wolności, jeżeli decyzja ta dotyczy osoby pozbawionej wolności i jest sprzeczna z prawem. O wstrzymaniu wykonania decyzji prokurator zawiadamia niezwłocznie organ nadrzędny nad administracją zakładu."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Prokurator Generalny przedstawia Radzie Państwa wnioski w przedmiocie ułaskawienia osób skazanych przez sądy. 2. W odniesieniu do wniosków w przedmiocie ułaskawienia osób skazanych przez sądy wojskowe uprawnienie określone w ust. 1 przysługuje również Naczelnemu Prokuratorowi Wojskowemu. Badanie problematyki przestępczości oraz działań służących jej zwalczaniu i zapobieganiu"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Badania problematyki przestępczości oraz działań służących jej zwalczaniu i zapobieganiu, a także organizacji i działalności prokuratury, prowadzą: powołany na podstawie odrębnych przepisów instytut naukowo-badawczy nadzorowany przez Prokuratora Generalnego oraz wyznaczeni prokuratorzy."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Jeżeli wyniki badań to uzasadniają, Prokurator Generalny występuje z wnioskiem do właściwego organu o podjęcie odpowiednich środków, w tym również o wydanie lub zmianę określonych przepisów, w celu przeciwdziałania przestępczości. 2. Zadania określone w ust. 1 wykonują również prokuratorzy wojewódzcy i rejonowi w stosunku do terenowych organów administracji państwowej oraz innych o terenowym zakresie działania. 3. Organ, do którego zwrócił się prokurator, jest obowiązany, w terminie trzydziestu dni od daty otrzymania wniosku, zawiadomić prokuratora o podjętych środkach, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. W odniesieniu do przestępstw należących do zakresu działania sądów wojskowych czynności określone w art. 39 i 40 ust. 1 może również podejmować Naczelny Prokurator Wojskowy. 2. Czynności określone w art. 40 mogą podejmować, w zakresie swego działania, również prokuratorzy okręgów wojskowych, prokuratorzy rodzajów sił zbrojnych i wojskowi prokuratorzy garnizonowi. Prokuratorska kontrola przestrzegania prawa"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Prokurator kontroluje przestrzeganie prawa przez organy państwowe i inne państwowe jednostki organizacyjne, z wyłączeniem naczelnych i centralnych organów państwowych, terenowych organów władzy państwowej oraz sądów, a także kontroluje przestrzeganie prawa przez organizacje zawodowe, spółdzielcze, samorządowe i inne organizacje społeczne."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Prokurator Generalny informuje Przewodniczącego Rady Państwa, Prezesa Rady Ministrów i zainteresowanych ministrów o ważniejszych wynikach prokuratorskiej kontroli przestrzegania prawa. 2. W uzasadnionych wypadkach Prokurator Generalny zgłasza Prezesowi Rady Ministrów i zainteresowanym ministrom propozycje i wnioski, zmierzające do usunięcia stwierdzonych uchybień lub do usprawnienia działalności administracji i gospodarki. 3. W wypadku gdy zwróci się o to Prezes Rady Ministrów, Prokurator Generalny zarządza przeprowadzenie kontroli przestrzegania prawa przez określone organy albo w określonych zagadnieniach. 4. Na wniosek zainteresowanego ministra Prokurator Generalny może zarządzić przeprowadzenie kontroli przestrzegania prawa przez określone organy albo w określonych zagadnieniach."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. W uzasadnionych wypadkach prokuratorzy wojewódzcy i rejonowi zgłaszają terenowym organom administracji państwowej o właściwości ogólnej i szczególnej odpowiedniego stopnia propozycje i wnioski zmierzające do usunięcia stwierdzonych uchybień lub do usprawnienia działalności administracji i gospodarki. 2. Prokurator wojewódzki lub rejonowy, zarządzając przeprowadzenie kontroli przestrzegania prawa przez określone organy albo w określonych zagadnieniach, bierze pod uwagę wnioski i propozycje zgłoszone przez właściwą radę narodową, prezydium rady lub terenowy organ administracji państwowej o właściwości ogólnej."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Prokurator czuwa nad stosowaniem prawa w postępowaniu administracyjnym, arbitrażowym oraz w innych postępowaniach, o których stanowią ustawy. 2. Prokurator może domagać się wszczęcia postępowania określonego w ust. 1, a także brać udział w takim postępowaniu w każdym jego stadium. Prokuratorowi przysługują wówczas prawa strony, a ponadto prawo wnoszenia sprzeciwu i innych przewidzianych w przepisach szczególnych środków zaskarżenia od ostatecznych lub prawomocnych decyzji, orzeczeń oraz innych rozstrzygnięć. 3. Do udziału prokuratora w postępowaniu unormowanym w Kodeksie postępowania administracyjnego stosuje się przepisy tego Kodeksu."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Powziąwszy wiadomość o naruszeniu prawa przez podmioty poddane kontroli na podstawie art. 42, prokurator podejmuje stosowne czynności, zmierzające do wyjaśnienia sprawy, chyba że strona nie wyczerpała zwykłych środków prawnych przysługujących jej w postępowaniu przed właściwymi organami lub wkroczył właściwy organ nadzoru. Prokurator podejmuje jednak czynności w celu wyjaśnienia sprawy, jeżeli potrzebę taką uzasadnia szczególny interes strony lub interes społeczny. 2. Prokurator wojskowy działa również w razie powzięcia wiadomości o naruszeniu przez organ wojskowy prawa, rozkazów lub zarządzeń Ministra Obrony Narodowej o charakterze ogólnym. 3. Prokurator przeprowadza kontrole przestrzegania prawa o charakterze problemowym lub kompleksowym, jeżeli uzasadnia to interes społeczny."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Prokurator wnosi sprzeciw przeciwko niezgodnym z prawem aktom normatywnym oraz innym o charakterze ogólnym, wydanym przez podmioty poddane kontroli na podstawie art. 42. 2. Prokurator wojskowy wnosi ponadto sprzeciw przeciwko wydanym przez organy wojskowe rozkazom lub zarządzeniom niezgodnym z rozkazami lub zarządzeniami Ministra Obrony Narodowej o charakterze ogólnym."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. Prokurator wnosi również sprzeciw przeciwko niezgodnym z prawem ostatecznym lub prawomocnym decyzjom i innym rozstrzygnięciom w indywidualnych sprawach, wydanym przez podmioty poddane kontroli na podstawie art. 42, jeżeli rozstrzygnięcia te mogą być zmienione lub uchylone albo gdy może być stwierdzona ich nieważność na podstawie przepisów prawa lub zachodzą podstawy do wznowienia postępowania. 2. Prokurator, wnosząc sprzeciw, może w uzasadnionych wypadkach złożyć wniosek o wstrzymanie wykonania decyzji lub innego rozstrzygnięcia w indywidualnej sprawie."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Prokurator odpowiedniego stopnia wnosi sprzeciw do właściwego organu nadrzędnego albo do organu, jednostki organizacyjnej lub organizacji, które wydały akt normatywny oraz inny o charakterze ogólnym, decyzję lub inne rozstrzygnięcie w indywidualnej sprawie, o ile są one uprawnione do ich zmiany lub uchylenia, stwierdzenia ich nieważności albo wznowienia postępowania. 2. Organ, który otrzymał sprzeciw prokuratora w sprawie indywidualnej, wszczyna postępowanie, zawiadamiając o tym strony."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Sprzeciw powinien być załatwiony w terminie trzydziestu dni od daty jego wniesienia. Jeżeli sprzeciw zawiera wniosek o wstrzymanie wykonania decyzji lub innego rozstrzygnięcia w indywidualnej sprawie, wniosek ten powinien być rozpoznany niezwłocznie. 2. Jeżeli do załatwienia sprzeciwu właściwy jest organ kolegialny, termin określony w ust. 1 może być przedłużony do dnia najbliższego posiedzenia organu; termin ten nie może jednak przekroczyć łącznie dwóch miesięcy. 3. Prokurator może być obecny przy rozpatrywaniu sprzeciwu przez organ kolegialny. O terminie posiedzenia organ zawiadamia prokuratora."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. O sposobie załatwienia sprzeciwu zawiadamia się niezwłocznie prokuratora, który wniósł sprzeciw. 2. Jeżeli właściwy organ uzna sprzeciw za uzasadniony, powinien zmienić lub uchylić akt normatywny oraz inny o charakterze ogólnym, decyzję lub inne rozstrzygnięcie w indywidualnej sprawie albo spowodować ich zmianę, uchylenie lub wznowienie postępowania."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "W sprawach unormowanych w Kodeksie postępowania administracyjnego do sprzeciwu stosuje się przepisy tego Kodeksu."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Prokurator kieruje wystąpienie w wypadku: 1) gdy naruszenie prawa w akcie normatywnym oraz innym o charakterze ogólnym albo decyzji lub innym rozstrzygnięciu w indywidualnej sprawie nie daje podstaw do ich zmiany lub uchylenia, 2) gdy zmiana lub uchylenie wadliwej decyzji lub innego rozstrzygnięcia w indywidualnej sprawie nie są możliwe w myśl obowiązujących przepisów albo gdy wniesienie sprzeciwu lub innego przewidzianego w przepisach szczególnych środka zaskarżenia byłoby bezprzedmiotowe, 3) gdy naruszenie prawa polega na bezczynności organu, 4) gdy zachodzi potrzeba zaprzestania działalności niezgodnej z prawem, 5) gdy zachodzi potrzeba podjęcia przez organ nadzoru lub kontroli czynności mających na celu zapobieganie naruszeniom prawa lub potrzeba zwrócenia uwagi na okoliczności wpływające ujemnie na przestrzeganie prawa. 2. Prokurator kieruje wystąpienie do organu, jednostki organizacyjnej lub organizacji, których działalności wystąpienie dotyczy, lub do ich organu nadrzędnego. 3. W wystąpieniu prokurator może również żądać przeprowadzenia kontroli, a także wszczęcia przeciwko winnym postępowania w przedmiocie odpowiedzialności dyscyplinarnej, służbowej, materialnej lub innej przewidzianej w przepisach dotyczących stosunków pracy. 4. Prokurator wojskowy kieruje ponadto wystąpienie w wypadku, gdy zachodzi potrzeba zwrócenia uwagi na okoliczności wpływające ujemnie na stan dyscypliny wojskowej i porządku wojskowego."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Organ, do którego skierowano wystąpienie, obowiązany jest w terminie trzydziestu dni od daty otrzymania wystąpienia zawiadomić prokuratora o powziętej decyzji lub zajętym stanowisku. 2. Do rozpatrywania wystąpień stosuje się odpowiednio przepisy art. 50 ust. 2 i 3."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. W toku wykonywania prokuratorskiej kontroli przestrzegania prawa prokurator może: 1) żądać nadesłania lub przedstawienia akt oraz wszelkich niezbędnych dokumentów i pisemnych wyjaśnień, 2) żądać złożenia wyjaśnień i przesłuchiwać świadków, 3) zasięgać opinii biegłych, 4) zbierać inne niezbędne materiały, 5) dokonywać czynności w siedzibach kontrolowanych organów, jednostek organizacyjnych lub organizacji. 2. Prokurator wojskowy może ponadto: 1) zaznajamiać się w zakresie niezbędnym dla danego wypadku z poszczególnymi zagadnieniami wojskowymi, 2) zwracać się do właściwych dowódców (szefów) o przeprowadzenie badań lub szczegółowej kontroli działalności organów wojskowych. 3. Do czynności przewidzianych w ust. 1 stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego , dotyczące doręczania wezwań, terminów, prawa odmowy zeznań i odmowy odpowiedzi na pytania, uprzedzenia o odpowiedzialności za złożenie fałszywych zeznań oraz skutków niezastosowania się do żądań organu."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Jeżeli właściwy prokurator stwierdzi, że uchwała rady narodowej jest niezgodna z prawem, zwraca się o uchylenie lub zmianę uchwały do rady narodowej, która tę uchwałę podjęła, lub kieruje wniosek o uchylenie tej uchwały do organu właściwego w myśl przepisów o systemie rad narodowych i samorządu terytorialnego. 2. Wniosek o uchylenie niezgodnej z prawem uchwały wojewódzkiej rady narodowej Prokurator Generalny kieruje do Rady Państwa. 3. Przepis art. 55 ust. 1 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Prokurator Generalny, uznając rozstrzygnięcie ministra w indywidualnej sprawie za niezgodne z prawem, wnosi sprzeciw do tegoż ministra, jeżeli jest on uprawniony do zmiany, uchylenia bądź stwierdzenia nieważności tego rozstrzygnięcia lub wznowienia postępowania. 2. Prokurator Generalny, uznając wydany przez ministra akt normatywny oraz inny o charakterze ogólnym za niezgodny z prawem, występuje do ministra o zmianę lub uchylenie tego aktu. 3. Przepis ust. 2 nie dotyczy rozporządzeń i zarządzeń, a w siłach zbrojnych także rozkazów, regulaminów i innych przepisów, wydanych przez ministrów na podstawie ustaw i w celu ich wykonania albo też w wykonaniu uchwał Rady Ministrów. 4. W sprawach określonych w ust. 1 i 2 stosuje się odpowiednio art. 50 ust. 1 oraz art. 54 ust. 1. Rozdział 4 Prokuratorzy Obowiązki i prawa"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Prokurator jest obowiązany wiernie służyć Polskiej Rzeczypospolitej Ludowej, sumiennie wypełniać obowiązki wynikające ze ślubowania oraz stale podnosić poziom swej świadomości społecznej i wiedzy zawodowej. 2. Prokurator powinien w służbie i poza służbą strzec powagi sprawowanego urzędu i unikać wszystkiego, co mogłoby przynieść ujmę godności prokuratora. Nie wolno mu brać udziału w takich wystąpieniach, które mogłyby osłabić zaufanie do jego bezstronności lub wierności Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Stosunek służbowy prokuratora nawiązuje się z chwilą doręczenia zawiadomienia o mianowaniu. 2. Prokurator powinien zgłosić się w celu objęcia stanowiska w ciągu czternastu dni od otrzymania zawiadomienia o mianowaniu, jeżeli nie oznaczono innego terminu. 3. W razie nie usprawiedliwionego nieobjęcia stanowiska w terminie określonym w ust. 2, mianowanie traci moc; okoliczność tę stwierdza Prokurator Generalny. 4. Prokurator obejmujący służbę składa ślubowanie następującej treści: „ Ślubuję uroczyście na powierzonym mi stanowisku prokuratora przyczyniać się w moim zakresie działania ze wszystkich sił do ugruntowania wolności, niepodległości i wszechstronnego rozwoju Polskiej Rzeczypospolitej Ludowej, której wierności zawsze dochowam; stać na straży jej politycznego, społecznego i gospodarczego ustroju, ochraniać zdobycze ludu pracującego, własność społeczną oraz prawa i prawem chronione interesy obywateli; strzec praworządności ludowej i wpływać na kształtowanie świadomości obywateli w duchu szacunku dla prawa i przestrzegania dyscypliny społecznej; powierzone mi zadania wykonywać sumiennie i starannie z zachowaniem prawa i zasad sprawiedliwości społecznej, wykazywać poszanowanie, bezstronność i zrozumienie dla interesów wszystkich obywateli, przestrzegać tajemnicy państwowej i służbowej oraz zachowywać się godnie w służbie i poza służbą ” ."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Czas pracy prokuratora jest określony wymiarem jego zadań."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. W sprawach o roszczenia wynikające ze stosunku służbowego prokuratorów właściwa jest droga służbowa. W sprawach o roszczenia ze stosunku służbowego prokuratorowi nie przysługuje droga sądowa. 2. Prokurator, wnosząc - w związku ze służbą - przedstawienie lub skargę, jest obowiązany do zachowania drogi służbowej, przy czym nie wolno mu podawać podjętego działania do wiadomości publicznej. 3. Prokurator powinien niezwłocznie zawiadomić przełożonego o toczącym się postępowaniu sądowym, w którym występuje w charakterze strony lub uczestnika."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Prokurator jest obowiązany zachować w tajemnicy okoliczności sprawy, o których w postępowaniu przygotowawczym, a także poza jawną rozprawą sądową, powziął wiadomość ze względu na swoje stanowisko prokuratora. 2. Obowiązek zachowania tajemnicy trwa także po ustaniu stosunku służbowego. 3. Obowiązek zachowania tajemnicy ustaje, gdy prokurator składa zeznania jako świadek w postępowaniu przygotowawczym lub przed sądem, chyba że ujawnienie tajemnicy zagraża dobru Państwa albo takiemu ważnemu interesowi prywatnemu, który nie jest sprzeczny z celami wymiaru sprawiedliwości. W takich wypadkach od obowiązku zachowania tajemnicy może zwolnić prokuratora Prokurator Generalny."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Prokuratorowi nie wolno obok piastowanego stanowiska zajmować żadnego innego, z wyjątkiem stanowiska pracownika naukowo-dydaktycznego, dydaktycznego lub naukowego, jeżeli zajmowanie takiego stanowiska nie przeszkadza w pełnieniu obowiązków prokuratora. 2. Prokuratorowi nie wolno wykonywać zajęć, które by przeszkadzały mu w pełnieniu obowiązków prokuratora albo mogły uchybiać godności jego urzędu lub podważać zaufanie do jego bezstronności. 3. Prokurator Generalny - w stosunku do prokuratorów pełniących służbę w Prokuraturze Generalnej oraz prokuratorów wojewódzkich, a prokurator wojewódzki - w stosunku do prokuratorów podległych mu powszechnych jednostek organizacyjnych prokuratury, udziela zezwolenia na wykonywanie innych zajęć niż określone w ust. 2, jak również decyduje o tym, czy zajmowanie stanowiska naukowo-dydaktycznego, dydaktycznego lub naukowego nie przeszkadza w pełnieniu obowiązków prokuratora."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Jeżeli dobro służby tego wymaga, Prokurator Generalny może delegować prokuratora do innej jednostki organizacyjnej prokuratury albo do jednostki organizacyjnej przez siebie nadzorowanej. Delegowanie na okres dłuższy niż sześć miesięcy w ciągu roku może nastąpić tylko za zgodą prokuratora. 2. Delegowanie na okres do dwóch miesięcy w ciągu roku może zarządzić również prokurator wojewódzki."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. W okresie niewykonywania czynności z powodu choroby prokurator otrzymuje wynagrodzenie, nie dłużej jednak niż przez okres roku. W razie niemożności wykonywania czynności z innych powodów określonych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego prokuratorowi przysługują świadczenia przewidziane w tych przepisach. 2. Za usprawiedliwione niewykonywanie czynności prokuratorowi przysługuje wynagrodzenie."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Prokuratorowi przysługuje corocznie urlop dodatkowy w wymiarze: 1) 6 dni roboczych - po 10 latach pracy, 2) 12 dni roboczych - po 15 latach pracy. 2. Do okresu pracy, od którego zależy wymiar urlopu dodatkowego, wlicza się wszystkie okresy zatrudnienia w prokuraturze lub sądzie na stanowiskach: aplikantów, asesorów, prokuratorów i sędziów, a także inne okresy pracy, jeżeli z tytułu tego zatrudnienia przysługiwał zwiększony wymiar urlopu."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Prokuratorowi można udzielić płatnego urlopu dla poratowania zdrowia, załatwienia ważnych spraw rodzinnych lub osobistych. 2. Urlop dla poratowania zdrowia nie może przekraczać sześciu miesięcy, a z innych przyczyn - jednego miesiąca w ciągu roku kalendarzowego. 3. Urlopu dla poratowania zdrowia nie można udzielić, jeżeli prokurator z powodu choroby nie wykonywał czynności w okresie roku. 4. Urlopu dla poratowania zdrowia udziela Prokurator Generalny, a urlopu dla załatwienia ważnych spraw osobistych i rodzinnych - prokurator wojewódzki w stosunku do podległych mu prokuratorów prokuratur rejonowych i prokuratury wojewódzkiej, a Prokurator Generalny - w stosunku do prokuratorów wojewódzkich i prokuratorów pełniących służbę w Prokuraturze Generalnej."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1. Prokurator nie może być pociągnięty do odpowiedzialności karnej sądowej lub administracyjnej bez zezwolenia właściwej komisji dyscyplinarnej ani zatrzymany bez zgody przełożonego dyscyplinarnego. Nie dotyczy to zatrzymania na gorącym uczynku popełnienia przestępstwa. Do wydania zezwolenia na pociągnięcie prokuratora do odpowiedzialności karnej wolno przedsięwziąć tylko czynności nie cierpiące zwłoki, zawiadamiając o tym niezwłocznie prokuratora przełożonego. 2. Do czasu rozstrzygnięcia wniosku o zezwolenie na pociągnięcie prokuratora do odpowiedzialności karnej komisja dyscyplinarna może polecić niezwłoczne zwolnienie prokuratora zatrzymanego na gorącym uczynku. 3. Od orzeczenia komisji dyscyplinarnej odmawiającego zezwolenia na pociągnięcie prokuratora do odpowiedzialności karnej przysługuje organowi lub osobie, która wnosiła o zezwolenie, oraz rzecznikowi dyscyplinarnemu odwołanie w terminie siedmiu dni do odwoławczej komisji dyscyplinarnej. 4. Za wykroczenie prokurator odpowiada tylko dyscyplinarnie."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Postępowanie przygotowawcze przeciwko prokuratorowi wszczyna i prowadzi wyłącznie prokurator."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Prokurator powinien zamieszkiwać w miejscowości będącej siedzibą jednostki organizacyjnej prokuratury, w której pełni służbę. Przełożony może wyrazić zgodę na zamieszkiwanie w innej miejscowości."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Prokuratorzy mają prawo do dodatkowej powierzchni mieszkalnej w postaci oddzielnej izby i zachowują je również po przejściu na emeryturę lub rentę. 2. O ile obowiązujące przepisy przewidują dodatkowe opłaty z tytułu korzystania z oddzielnej izby, prokurator jest zwolniony od płacenia tej dodatkowej opłaty w okresie zajmowania stanowiska prokuratora."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1. Tworzy się fundusz budowy mieszkań dla prokuratorów. 2. Zasady oraz tryb tworzenia i wykorzystania funduszu określa Rada Państwa."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "1. Prokuratorom, którzy wykazują w pracy inicjatywę, wzorowo i sumiennie wypełniają obowiązki oraz szczególnie przyczyniają się do wykonywania zadań służbowych, mogą być przyznawane nagrody i wyróżnienia. 2. Rodzaje wyróżnień i nagród oraz tryb ich przyznawania ustala Prokurator Generalny; nagrodą może być również awans w terminie wcześniejszym, niż przewidują to przepisy o wynagrodzeniu lub przepisy szczególne."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Prokurator, któremu przyznano zaopatrzenie emerytalne (rentowe), może używać dotychczasowego tytułu, poprzedzając go wyrazem „emerytowany”."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Strój urzędowy prokuratorów biorących udział w rozprawach sądowych określa Prokurator Generalny w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Wynagrodzenie prokuratorów powszechnych jednostek organizacyjnych prokuratury ustala Rada Państwa po uzgodnieniu z Radą Ministrów. 2. Wynagrodzenie prokuratorów i związane z tym środki finansowe ulegają zmianie w taki sposób, aby ich poziom wzrastał w stopniu nie mniejszym niż poziom przeciętnego wynagrodzenia pracowników zatrudnionych w jednostkach gospodarki uspołecznionej. 3. Rada Ministrów, po uzgodnieniu z Radą Państwa, zapewnia corocznie środki finansowe na wzrost wynagrodzeń dla prokuratorów."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "1. Najbardziej zasłużonym prokuratorom oraz innym pracownikom prokuratury za osiągnięcia w wieloletniej wyróżniającej się służbie w prokuraturze może być nadany tytuł honorowy „Zasłużony dla Wymiaru Sprawiedliwości Polskiej Rzeczypospolitej Ludowej”. 2. Tytuł honorowy, o którym mowa w ust. 1, nadawany jest na zasadach i w trybie określonych w Prawie o ustroju sądów powszechnych ."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Przepisów art. 59 ust. 1-3, art. 60, 61, 63-73 i 75 nie stosuje się do prokuratorów wojskowych jednostek organizacyjnych prokuratury. Odpowiedzialność dyscyplinarna"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Za przewinienia służbowe i uchybienia godności urzędu (przewinienia dyscyplinarne) oraz za nadużycie wolności słowa przy wykonywaniu obowiązków służbowych, stanowiące ściganą z oskarżenia prywatnego obrazę lub zniesławienie strony, jej pełnomocnika lub obrońcy, świadka lub biegłego, prokuratorzy odpowiadają dyscyplinarnie na zasadach przewidzianych w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "W powszechnych jednostkach organizacyjnych prokuratury karami dyscyplinarnymi są: 1) nagana, 2) surowa nagana, 3) dyscyplinarne przeniesienie do innej miejscowości na równorzędne stanowisko służbowe, 4) obniżenie wynagrodzenia zasadniczego o jedną grupę, 5) przeniesienie w tej samej lub do innej miejscowości na niższe stanowisko służbowe z odpowiednim obniżeniem wynagrodzenia, 6) wydalenie ze służby."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Odpowiedzialność za przewinienie ustaje, jeżeli od jego popełnienia upłynął rok. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego ."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Przełożonym dyscyplinarnym w powszechnych jednostkach organizacyjnych prokuratury jest Prokurator Generalny w stosunku do wszystkich prokuratorów oraz prokurator wojewódzki w stosunku do podległych mu prokuratorów."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "1. W sprawach dyscyplinarnych orzekają: 1) w powszechnych jednostkach organizacyjnych prokuratury: a) w pierwszej instancji - Komisja Dyscyplinarna w Prokuraturze Generalnej oraz komisje dyscyplinarne w prokuraturach wojewódzkich, b) w drugiej instancji - Odwoławcza Komisja Dyscyplinarna działająca przy Prokuratorze Generalnym; 2) w wojskowych jednostkach organizacyjnych prokuratury - Komisja Dyscyplinarna w Naczelnej Prokuraturze Wojskowej. 2. Przewodniczących i członków Komisji Dyscyplinarnej i Odwoławczej Komisji Dyscyplinarnej w Prokuraturze Generalnej oraz przewodniczących komisji dyscyplinarnych w prokuraturach wojewódzkich powołuje na okres dwóch lat Prokurator Generalny, po wysłuchaniu opinii Kolegium Prokuratury Polskiej Rzeczypospolitej Ludowej. Członków komisji dyscyplinarnej w prokuraturze wojewódzkiej powołuje na okres dwóch lat prokurator wojewódzki. 3. Przewodniczącego i członków Komisji Dyscyplinarnej w Naczelnej Prokuraturze Wojskowej powołuje na okres dwóch lat Minister Obrony Narodowej w porozumieniu z Prokuratorem Generalnym. 4. Członkowie komisji dyscyplinarnych są w zakresie orzekania niezawiśli i podlegają tylko ustawom."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Prokurator może być zawieszony w czynnościach, jeżeli z uwagi na charakter przewinienia konieczne jest natychmiastowe odsunięcie go od wykonywania obowiązków. 2. Prawo zawieszenia w czynnościach przysługuje: w powszechnych jednostkach organizacyjnych prokuratury - przełożonym dyscyplinarnym, a w wojskowych jednostkach organizacyjnych prokuratury - Naczelnemu Prokuratorowi Wojskowemu. 3. Zawieszenie w czynnościach ustaje z mocy prawa, jeżeli w ciągu trzech miesięcy od dnia zawieszenia nie wszczęto przeciwko prokuratorowi postępowania dyscyplinarnego, a także z chwilą prawomocnego zakończenia tego postępowania, chyba że komisja dyscyplinarna uchyliła je wcześniej."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "1. Za przewinienie dyscyplinarne mniejszej wagi, nie uzasadniające wszczęcia postępowania dyscyplinarnego, przełożeni prokuratorzy wymierzają podległym prokuratorom kary porządkowe upomnienia. 2. Od kary porządkowej upomnienia przysługuje ukaranemu odwołanie do prokuratora nadrzędnego. 3. W wypadkach mniejszej wagi również komisja dyscyplinarna może wymierzyć karę porządkową upomnienia zamiast kary określonej w art. 80 lub 108."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "1. Szczegółowe zasady odpowiedzialności dyscyplinarnej, sposób powoływania i organizację komisji dyscyplinarnych, sposób powoływania rzeczników dyscyplinarnych oraz tryb postępowania dyscyplinarnego określa regulamin dyscyplinarny prokuratorów. 2. Regulamin ustala Rada Państwa: dla powszechnych jednostek organizacyjnych prokuratury - na wniosek Prokuratora Generalnego, a dla wojskowych jednostek organizacyjnych prokuratury - na wniosek Ministra Obrony Narodowej przedstawiony w porozumieniu z Prokuratorem Generalnym. Rozdział 5 Aplikanci i asesorzy prokuratury"
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Aplikacja prokuratorska polega na przygotowaniu aplikanta do należytego wykonywania obowiązków prokuratora i trwa dwa lata. W uzasadnionych wypadkach Prokurator Generalny może wyrazić zgodę na skrócenie aplikacji, nie więcej jednak niż o rok."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "1. Aplikantem prokuratury może być mianowana osoba spełniająca wymogi określone w art. 16 ust. 1 pkt 1-4. 2. Aplikantem wojskowej jednostki organizacyjnej prokuratury może być mianowany tylko oficer zawodowy albo oficer służby okresowej. 3. Aplikanta prokuratury mianuje i zwalnia: w powszechnych jednostkach organizacyjnych prokuratury - prokurator wojewódzki, a w wojskowych jednostkach organizacyjnych prokuratury - Naczelny Prokurator Wojskowy."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Przed objęciem stanowiska aplikant powszechnej jednostki organizacyjnej prokuratury składa wobec prokuratora wojewódzkiego ślubowanie pisemne według roty przepisanej dla pracowników urzędów państwowych."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "Aplikant może występować przed sądem rejonowym w charakterze oskarżyciela publicznego w sprawach w postępowaniu uproszczonym."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "1. Po ukończeniu aplikacji obowiązuje aplikanta złożenie egzaminu przed komisją powołaną przez Prokuratora Generalnego. W razie niedostatecznego wyniku, aplikant może przystąpić do egzaminu w drugim terminie, nie później jednak niż w ciągu sześciu miesięcy. 2. Prokurator wojewódzki - w stosunku do aplikantów powszechnych jednostek organizacyjnych prokuratury, a prokurator okręgu wojskowego lub rodzaju sił zbrojnych - w stosunku do aplikantów wojskowych jednostek organizacyjnych prokuratury, mogą udzielić zezwolenia na przystąpienie do egzaminu w terminie późniejszym od terminu przewidzianego w ust. 1, nie później jednak niż w ciągu trzech miesięcy. 3. Zgoda na przystąpienie aplikantów wojskowych jednostek organizacyjnych prokuratury do ponownego egzaminu nie skutkuje przedłużenia służby wojskowej. 4. Po złożeniu egzaminu prokuratorskiego aplikant może być mianowany na stanowisko asesora prokuratury. 5. W wypadku nieprzystąpienia do egzaminu, niedostatecznego wyniku egzaminu końcowego lub niemianowania asesorem z uwagi na brak możliwości uzyskania kwalifikacji do wykonywania zadań na tym stanowisku: 1) stosunek służbowy aplikanta powszechnej jednostki organizacyjnej prokuratury rozwiązuje się po upływie trzech miesięcy od daty zawiadomienia o zwolnieniu, chyba że na wniosek aplikanta określono krótszy termin, 2) aplikant wojskowej jednostki organizacyjnej prokuratury skierowany zostaje do innej służby w siłach zbrojnych, chyba że w myśl przepisów ustawy lub przepisów o służbie wojskowej podlega zwolnieniu z zawodowej albo okresowej służby wojskowej."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "Do aplikantów powszechnych jednostek organizacyjnych prokuratury stosuje się odpowiednio przepisy art. 19 ust. 1-5, art. 61-63, 73 i 76."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "1. Za przewinienia służbowe i uchybienia godności urzędu aplikanci powszechnych jednostek organizacyjnych prokuratury ponoszą odpowiedzialność dyscyplinarną. 2. Za przewinienia dyscyplinarne mniejszej wagi prokurator wojewódzki może wymierzyć aplikantowi prokuratury karę porządkową upomnienia. 3. Karami dyscyplinarnymi w stosunku do aplikantów są: 1) nagana, 2) nagana z ostrzeżeniem, 3) wydalenie ze służby. 4. Do odpowiedzialności dyscyplinarnej aplikantów stosuje się odpowiednio przepisy o postępowaniu dyscyplinarnym prokuratorów."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Zasady i szczegółowe przepisy o przebiegu aplikacji prokuratorskiej oraz o egzaminie prokuratorskim wydaje dla powszechnych jednostek organizacyjnych prokuratury Prokurator Generalny, a dla wojskowych jednostek organizacyjnych prokuratury - Minister Obrony Narodowej w porozumieniu z Prokuratorem Generalnym."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "Asesorów powszechnych jednostek organizacyjnych prokuratury mianuje i zwalnia Prokurator Generalny, a asesorów wojskowych jednostek organizacyjnych prokuratury - Naczelny Prokurator Wojskowy."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Prokurator Generalny może powierzyć asesorowi powszechnej jednostki organizacyjnej prokuratury, a Naczelny Prokurator Wojskowy - asesorowi wojskowej jednostki organizacyjnej prokuratury na czas określony, nie przekraczający dwóch lat, pełnienie czynności prokuratorskich, jednakże bez prawa: 1) udziału w postępowaniu przed sądem wojewódzkim, 2) sporządzania środków zaskarżania i wniosków do Sądu Najwyższego oraz występowania przed tym Sądem, 3) stosowania tymczasowego aresztowania. 2. Asesor prokuratury nie posiadający uprawnień do pełnienia czynności prokuratorskich może występować w charakterze oskarżyciela publicznego w sprawach w postępowaniu uproszczonym."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "Do asesorów powszechnych jednostek organizacyjnych prokuratury stosuje się przepisy art. 16 ust. 1 pkt 1-5, art. 17, 19, 58-64, 68-70, 73, 76 i 79-86, z tym że Prokurator Generalny może, z zachowaniem trzymiesięcznego okresu wypowiedzenia, zwolnić asesora ze służby, jeżeli osiągane wyniki nie wskazują na uzyskanie kwalifikacji potrzebnych do samodzielnego wykonywania funkcji prokuratora, a do asesorów wojskowych jednostek organizacyjnych prokuratury - przepisy art. 16 ust. 1 pkt 1-5, art. 17, 58, 59 ust. 4, art. 62, 79, 81 i 83-86."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Asesorzy i aplikanci prokuratury zachowują prawo do wynagrodzenia za czas usprawiedliwionej nieobecności w pracy z innych przyczyn niż określone w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa - przez okres jednego miesiąca w ciągu roku kalendarzowego."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "1. Tworzy się fundusz stypendialny dla osób podejmujących uniwersyteckie studia prawnicze i zobowiązujących się do pracy w prokuraturze. 2. Zasady oraz tryb tworzenia i wykorzystania funduszu, a także warunki przyznawania stypendiów z tego funduszu określa Rada Państwa. Rozdział 6 Pracownicy administracyjni i obsługi"
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "1. W powszechnych jednostkach organizacyjnych prokuratury zatrudnieni są pracownicy administracyjni i pracownicy obsługi. 2. Obowiązki i prawa pracowników, o których mowa w ust. 1, określają przepisy o pracownikach urzędów państwowych. Rozdział 7 Rada pracownicza"
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "W powszechnych jednostkach organizacyjnych prokuratury prokuratorzy, asesorzy, aplikanci, pracownicy administracyjni i obsługi nie zrzeszeni w związkach zawodowych wybierają rady pracownicze."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "Zadaniem rady pracowniczej jest ochrona i reprezentowanie interesów zawodowych i socjalnych, a także rozwijanie innej działalności zmierzającej do poprawy warunków bytowych, socjalnych i kulturalnych. Rozdział 8 Przepisy szczególne dotyczące prokuratorów wojskowych i wojskowych jednostek organizacyjnych prokuratury"
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "1. Wojskowe jednostki organizacyjne prokuratury wchodzą w skład sił zbrojnych Polskiej Rzeczypospolitej Ludowej. 2. W zakresie służby wojskowej Naczelny Prokurator Wojskowy podlega Ministrowi Obrony Narodowej, a inni prokuratorzy wojskowi - właściwym dowódcom."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "1. Naczelny Prokurator Wojskowy składa Prokuratorowi Generalnemu i Ministrowi Obrony Narodowej sprawozdania z działalności prokuratorów wojskowych oraz informuje ich bieżąco o pracy wojskowych jednostek organizacyjnych prokuratury. 2. Minister Obrony Narodowej może określać zadania prokuratorów wojskowych w zakresie zapobiegania przestępczości oraz umacniania dyscypliny i porządku w wojsku."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "1. Zwolnienie prokuratora, asesora lub aplikanta ze służby w wojskowych jednostkach organizacyjnych prokuratury następuje z przyczyn określonych w art. 19 ust. 1 pkt 2 oraz w innych wypadkach, gdy przepisy o służbie wojskowej przewidują zwolnienie z zawodowej lub okresowej służby wojskowej. 2. Jeżeli prokurator, asesor lub aplikant zwolniony ze służby w wojskowej jednostce organizacyjnej prokuratury z przyczyn określonych w art. 19 ust. 1 pkt 2 nie został wyznaczony na inne stanowisko służbowe w siłach zbrojnych, zwalnia się go z zawodowej lub okresowej służby wojskowej, z zachowaniem wszelkich uprawnień przysługujących oficerom zwolnionym ze służby z przyczyn, które nie powodują pozbawienia uprawnień. 3. Prokuratora wojskowego i asesora nie można zwolnić z zawodowej służby wojskowej przed zwolnieniem go ze stanowiska prokuratora lub asesora."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "1. Prokuratorów wojskowych jednostek organizacyjnych prokuratury wyznacza, przenosi i zwalnia ze stanowisk służbowych Minister Obrony Narodowej na wniosek Naczelnego Prokuratora Wojskowego, w trybie określonym w przepisach o służbie wojskowej żołnierzy zawodowych. Asesorów wojskowych jednostek organizacyjnych prokuratury wyznacza, przenosi i zwalnia ze stanowisk Naczelny Prokurator Wojskowy. 2. Naczelny Prokurator Wojskowy może powierzyć czasowo pełnienie funkcji prokuratora wojskowego lub asesora oficerowi rezerwy zaliczonemu do korpusu osobowego sprawiedliwości i odbywającemu ćwiczenia wojskowe lub służbę okresową. 3. Zasady wyznaczania oficerów i chorążych zawodowych, podoficerów zawodowych oraz mianowania pracowników cywilnych na stanowiska nieprokuratorskie w wojskowych jednostkach organizacyjnych prokuratury oraz kwalifikacje wymagane do objęcia tych stanowisk określają odrębne przepisy."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "1. Prokurator lub asesor wojskowej jednostki organizacyjnej prokuratury nie może być pociągnięty do odpowiedzialności karnej sądowej bez zezwolenia Komisji Dyscyplinarnej w Naczelnej Prokuraturze Wojskowej ani zatrzymany bez zgody Naczelnego Prokuratora Wojskowego. Przepisy art. 68 ust. 2 i 3 oraz art. 69 stosuje się odpowiednio, z tym że odwołanie od orzeczenia Komisji Dyscyplinarnej przysługuje do Naczelnego Prokuratora Wojskowego. 2. W odniesieniu do prokuratorów wojskowych i asesorów przepis art. 79 dotyczy tylko takich przewinień dyscyplinarnych oraz czynów naruszających honor i godność żołnierską, które popełnione zostały podczas lub w związku z wykonywaniem funkcji prokuratora albo asesora. 3. Za inne przewinienia dyscyplinarne oraz czyny naruszające honor i godność żołnierską prokuratorzy i asesorzy wojskowych jednostek organizacyjnych prokuratury odpowiadają na zasadach ogólnych, określonych w przepisach o odpowiedzialności dyscyplinarnej żołnierzy, z tym że prawo karania ich za przewinienia dyscyplinarne przysługuje jedynie przełożonym prokuratorom oraz Ministrowi Obrony Narodowej. 4. Za przewinienia dyscyplinarne oraz czyny naruszające honor i godność żołnierską aplikanci wojskowych jednostek organizacyjnych prokuratury odpowiadają na podstawie przepisów o odpowiedzialności dyscyplinarnej żołnierzy."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "W wojskowych jednostkach organizacyjnych prokuratury karami dyscyplinarnymi są: 1) nagana, 2) surowa nagana, 3) ostrzeżenie o niepełnej przydatności na zajmowanym stanowisku, 4) przeniesienie na niższe stanowisko, 5) ostrzeżenie o niepełnej przydatności w służbie prokuratorskiej (w wykonywaniu funkcji asesora), 6) wydalenie ze służby prokuratorskiej (pozbawienie funkcji asesora)."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1. Komisja dyscyplinarna wymierzając karę wydalenia ze służby może wystąpić z wnioskiem do Ministra Obrony Narodowej o zwolnienie ukaranego z zawodowej służby wojskowej lub o pozbawienie go stopnia oficerskiego. W rozumieniu ustawy o służbie wojskowej żołnierzy zawodowych zwolnienie takie równoznaczne jest ze zwolnieniem z powodu ukarania karą dyscyplinarną usunięcia z zawodowej służby wojskowej, wniosek zaś o pozbawienie stopnia oficerskiego jest równoznaczny z wnioskiem oficerskiego sądu honorowego w tym przedmiocie. 2. Przewidziane w art. 84 zawieszenie w czynnościach służbowych prokuratorów wojskowych i asesorów pociąga za sobą skutki zawieszenia na podstawie wojskowych przepisów dyscyplinarnych."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "Do prokuratorów, asesorów i aplikantów wojskowych jednostek organizacyjnych prokuratury stosuje się w sprawach nie uregulowanych niniejszą ustawą przepisy dotyczące żołnierzy zawodowych lub służby okresowej. Rozdział 9 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "W ustawie z dnia 21 maja 1963 r. o dyscyplinie wojskowej oraz o odpowiedzialności żołnierzy za przewinienia dyscyplinarne i za naruszenia honoru i godności żołnierskiej ( Dz. U. z 1977 r. Nr 23, poz. 101 ) w art. 48 wyrazy „oficerowie śledczy” zastępuje się wyrazem „asesorzy” , a wyrazy „oficera śledczego” - wyrazem „asesora” ."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "W Kodeksie postępowania karnego wprowadza się następujące zmiany: 1) w art. 578 w § 1 wyrazy „oficer śledczy prokuratury” zastępuje się wyrazami „asesor wojskowej jednostki organizacyjnej prokuratury” , 2) w art. 587 w § 1 wyrazy „oficerowi śledczemu” zastępuje się wyrazem „asesorowi” ."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "W Kodeksie karnym wykonawczym w art. 30 wyrazy „i prokuratora” skreśla się."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "W dekrecie z dnia 12 grudnia 1981 r. o przekazaniu do właściwości sądów wojskowych spraw o niektóre przestępstwa oraz o zmianie ustroju sądów wojskowych i wojskowych jednostek organizacyjnych Prokuratury Polskiej Rzeczypospolitej Ludowej w czasie obowiązywania stanu wojennego ( Dz. U. Nr 29, poz. 157 ) w art. 8 w ust. 1 oraz w art. 9 w ust. 2 wyrazy „oficerów śledczych” zastępuje się wyrazem „asesorów” ."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "1. Osoby zajmujące stanowiska podprokuratorów powszechnych lub wojskowych jednostek organizacyjnych prokuratury z dniem wejścia w życie ustawy podlegają mianowaniu na stanowiska wiceprokuratorów właściwych jednostek organizacyjnych prokuratury. 2. Osoby zajmujące stanowiska oficerów śledczych wojskowych jednostek organizacyjnych prokuratury z dniem wejścia w życie ustawy podlegają mianowaniu na stanowiska asesorów wojskowych jednostek organizacyjnych prokuratury."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Art. 116",
+      "content": "Przepisy art. 71 i 74 stosuje się także do prokuratorów, którzy przeszli na emeryturę lub rentę przed dniem wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Art. 117",
+      "content": "W sprawach nie uregulowanych w niniejszej ustawie lub w przepisach szczególnych do prokuratorów powszechnych jednostek organizacyjnych prokuratury stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ( Dz. U. Nr 31, poz. 214 i z 1984 r. Nr 35, poz. 187 ) , a w sprawach nie uregulowanych także w przepisach tej ustawy - przepisy Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Art. 118",
+      "content": "Ilekroć w ustawie jest mowa o ministrach, rozumie się przez to również przewodniczących komisji i komitetów sprawujących funkcje naczelnych organów administracji państwowej oraz kierowników urzędów centralnych."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Art. 119",
+      "content": "1. Traci moc ustawa z dnia 14 kwietnia 1967 r. o Prokuraturze Polskiej Rzeczypospolitej Ludowej ( Dz. U. z 1980 r. Nr 10, poz. 30 i z 1982 r. Nr 31, poz. 214 ) . 2. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie zachowują moc przepisy dotychczasowe, jeżeli nie są z nią sprzeczne."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Art. 120",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1985 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"}]},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_1-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_1-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Organizacja prokuratury\",\"children\": [{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_16-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_2-arti_16-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"chpt_2-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_19-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_19-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_19-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_19-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_19-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_19-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_19-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_19-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_20-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_20-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_20-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_20-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_2-arti_20-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"},{\"id\": \"chpt_2-arti_20-pass_9\",\"symbol\": \"pass_9\",\"type\": \"pass\",\"name\": \"9\",\"title\": \"9.\"}]},{\"id\": \"chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_2-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_2-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Działalność prokuratury\",\"children\": [{\"id\": \"chpt_3-none_\",\"symbol\": \"none_\",\"type\": \"none\",\"name\": \"\",\"title\": \" - Postępowanie przygotowawcze\",\"children\": [{\"id\": \"chpt_3-none_-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_3-none_-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-none_-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-none_-arti_23-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-none_-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_3-none_-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-none_-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-none_-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_3-none_-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-none_-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-none_-arti_25-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-none_-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_3-none_-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-none_-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-none_-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_3-none_-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-none_-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-none_-arti_27-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-none_-arti_27-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_3-none_-arti_27-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_3-none_-arti_27-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_3-none_-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\":"
+    }
+  ],
+  "definitions": []
+}

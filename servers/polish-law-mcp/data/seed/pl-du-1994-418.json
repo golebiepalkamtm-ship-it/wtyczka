@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1994-418",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 czerwca 1994 r. o zmianie ustawy - Prawo atomowe.",
+  "title_en": "",
+  "short_name": "pl-du-1994-418",
+  "status": "repealed",
+  "issued_date": "1994-06-24",
+  "in_force_date": "1994-08-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/418",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 kwietnia 1986 r. - Prawo atomowe ( Dz. U. Nr 12, poz. 70 , z 1987 r. Nr 33, poz. 180 i z 1991 r. Nr 8, poz. 28 ) wprowadza się następujące zmiany: 1) w art. 6 w ust. 1 wyrazy „Polskiej Rzeczypospolitej Ludowej” zastępuje się wyrazami „Rzeczypospolitej Polskiej” , a wyrazy „Komunikacji oraz Handlu Zagranicznego” zastępuje się wyrazami „Transportu i Gospodarki Morskiej oraz Współpracy Gospodarczej z Zagranicą” ; 2) po art. 13 dodaje się art. 13a w brzmieniu: „ Art. 13a 1. Działalność związana z bezpiecznym wykorzystywaniem energii atomowej może być dofinansowywana z budżetu państwa. 2. Rada Ministrów, w drodze rozporządzenia, określi rodzaje i zakres działalności, o której mowa w ust. 1, oraz szczegółowe zasady i tryb jej dofinansowywania. ” ; 3) w art. 18 w ust. 2 wyrazy „Budownictwa, Gospodarki Przestrzennej i Komunalnej oraz Ochrony Środowiska i Zasobów Naturalnych” zastępuje się wyrazami „Gospodarki Przestrzennej i Budownictwa oraz Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa” ; 4) w art. 21 w ust. 2 wyrazy „Gospodarki Materiałowej i Paliwowej” zastępuje się wyrazami „Przemysłu i Handlu” , a wyraz „Komunikacji” zastępuje się wyrazami „Transportu i Gospodarki Morskiej” ; 5) po art. 27 dodaje się art. 27a i 27b w brzmieniu: „ Art. 27a 1. Krajowym Składowiskiem Odpadów Promieniotwórczych jest składowisko przeznaczone do przyjmowania i stałego składowania odpadów promieniotwórczych, pochodzących z terenu całego kraju. 2. Prezes Państwowej Agencji Atomistyki określa, w drodze zarządzenia, które ze składowisk zbudowanych i eksploatowanych zgodnie z art. 27, jest Krajowym Składowiskiem Odpadów Promieniotwórczych. Art. 27b 1. Gminie, na której terenie znajduje się Krajowe Składowisko Odpadów Promieniotwórczych, przysługuje coroczna opłata z tytułu eksploatacji składowiska, zwana dalej „opłatą”, wypłacana z budżetu Państwowej Agencji Atomistyki. 2. Opłatę ustala się w wysokości 200% dochodów gminy z tytułu podatku od nieruchomości uzyskanych w roku poprzednim, powiększonych w stopniu odpowiadającym wskaźnikowi wzrostu cen towarów i usług konsumpcyjnych, ogłoszonemu przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 ust. 3 ustawy z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych ( Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444 oraz z 1992 r. Nr 21, poz. 86 ) . 3. Opłata, o której mowa w ust. 1, przekazywana jest gminie w równych ratach kwartalnych w terminie do 15 dnia ostatniego miesiąca każdego kwartału. ” ; 6) w art. 47 w pkt 13 wyrazy „Polskiej Rzeczypospolitej Ludowej” zastępuje się wyrazami „Rzeczypospolitej Polskiej” ; 7) w art. 48 ust. 1 otrzymuje brzmienie: „ 1. W Agencji działa Zarząd Agencji, zwany dalej „Zarządem”, w którego skład wchodzą wiceprezesi Agencji, Główny Inspektor Dozoru Jądrowego, przedstawiciele Ministrów Przemysłu i Handlu, Edukacji Narodowej, Obrony Narodowej, Spraw Wewnętrznych, Spraw Zagranicznych, Zdrowia i Opieki Społecznej, Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa oraz przedstawiciel Polskiej Akademii Nauk. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

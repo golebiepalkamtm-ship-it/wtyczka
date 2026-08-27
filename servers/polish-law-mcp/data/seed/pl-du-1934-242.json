@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1934-242",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 1934 r. o wynagrodzeniu za grunty, wywłaszczane na rzecz gminy.",
+  "title_en": "",
+  "short_name": "pl-du-1934-242",
+  "status": "in_force",
+  "issued_date": "1934-03-15",
+  "in_force_date": "1934-04-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/242",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Cena wykupu prywatnych gruntów, wywłaszczanych w granicach osiedli na rzecz gminy, a przeznaczonych na ulice i drogi gminne wraz z gruntami pomocniczemi, wynosi jedną dziesiątą ich ceny szacunkowej. Przepisu tego nie stosuje się do tych części ulic i dróg, które położone są poza pasem o szerokości 20 m, biegnącym przez środek ulicy lub drogi, przewidzianej w planie zabudowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Cena wykupu prywatnych placów, targowisk i skwerów, użytkowanych na cele publiczne, a wywłaszczanych w granicach osiedli na rzecz gminy, wynosi połowę ceny szacunkowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy artykułów 1 i 2 odnoszą się tylko do gruntów, które odpowiadają wszystkim niżej podanym warunkom: a) grunty te do dnia wejścia w życie niniejszej ustawy stale były użytkowane na cele publiczne; b) grunty te zostały przeznaczone prawomocnym planem zabudowy danego osiedla na ulice, drogi, place, targowiska lub skwery; c) właścicielami gruntów tych są jeszcze te same osoby lub ich spadkobiercy, które były ich właścicielami w dniu oddania gruntów na powyższe cele; d) właściciele powyższych gruntów lub ich spadkodawcy byli w dniu oddania gruntów na powyższe cele albo przed tym dniem właścicielami terenów, przylegających do wymienionych gruntów; e) na gruntach tych niema innych budowli, niż stanowiących własność gminy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_3-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

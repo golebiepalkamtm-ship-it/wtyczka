@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-188",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1937 r. o dodatkowych kredytach na rok 1936/37.",
+  "title_en": "",
+  "short_name": "pl-du-1937-188",
+  "status": "in_force",
+  "issued_date": "1937-03-29",
+  "in_force_date": "1937-04-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/188",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki zwyczajne, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 (Dz. U. R. P. Nr 23, poz. 185), zwiększa się w grupie A. Administracja o następujące kwoty: 1) w części 7 Ministerstwo opraw Wewnętrznych: w dziale 1 „Zarząd centralny” w § 1 „Płace” o 14.050 zł w dziale 2 „Województwa i starostwa” w § 1 „Płace” o 421.950 zł w dziale 4 „Policja Państwowa w § 1 „Płace” o 2.448.420 zł w § 2 „Różne świadczenia osobowe” o 132.120 zł w § 3 „Podróże służbowe i przesiedlenia” o 400.000 zł w § 4 „Środki lokomocji” o 150.000 zł w § 5 „Pomieszczenie” o 174.360 zł w § 6 „Wydatki biurowe” o 270.622 zł w § 10 „Umundurowanie” o 97.500 zł w § 11 „Wyszkolenie” o 90.000 zł 2) w części 8 Ministerstwo Skarbu: w dziale 1 „Zarząd centralny” w rozdziale 1 „Zarząd centralny Ministerstwa Skarbu” w § 3 „Podróże służbowe i przesiedlenia” o 50.000 zł w § 6 „Wydatki biurowe” o 32.000 zł w dziale 2 „Władze i urzędy skarbowe” w § 3 „Podróże służbowe i przesiedlenia” o 1.000.000 zł w dziale 5 „Ogólny zarząd skarbowy” w § 11 „Różne wydatki” o 800.000 zł 3) w części 13 Ministerstwo Wyznań Religijnych i Oświecenia Publicznego: w dziale 1 „Administracja szkolna” w § 1 „Płace” o 85.300 zł w dziale 2 „Wyznania religijne” w § 12 „Wyznanie prawosławne” o 22.900 zł w dziale 6 „Nauka i szkolnictwo wyższe” w § 1 „Płace” o 60.000 zł w dziale 8 „Archiwa” w § 1 „Płace” o 2.800 zł 4) w części 14 Ministerstwo Opieki Społecznej: w dziale 9 „Świadczenia socjalne” w rozdziale 3 „Zatrudnienie i migracja” w § 23 „Dopłaty do zabezpieczenia na wypadek bezrobocia oraz pomoc dla bezrobotnych” o"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 r. (Dz. U. R. P. Nr 23, poz. 185): a) zmniejsza się w grupie A. Administracja - wydatki zwyczajne o następujące kwoty: w części 13 - Ministerstwo Wyznań Religijnych i Oświecenia Publicznego; w dziale 4 „Szkolnictwo ogólnokształcące” w § 1 „Płace” o 85.300 zł w dziale 6 „Nauka i szkolnictwo wyższe” w § 5 „Pomieszczenie” o 60.000 zł w dziale 7 „Sztuka” w § 1 „Płace” o 22.900 zł w dziale 8 „Archiwa” w § 5 „Pomieszczenie” o 2.800 zł b) zwiększa się wpłatę do Skarbu Państwa w grupie C Monopole, w części 8 - Ministerstwo Skarbu w dziale 16 „Monopol spirytusowy” o sumę 7.881.022 zł"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia 1 kwietnia 1936 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

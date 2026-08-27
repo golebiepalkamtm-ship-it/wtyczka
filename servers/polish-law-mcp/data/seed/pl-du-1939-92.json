@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1939-92",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lutego 1939 r. o dodatkowych kredytach na rok 1938/39.",
+  "title_en": "",
+  "short_name": "pl-du-1939-92",
+  "status": "repealed",
+  "issued_date": "1939-02-23",
+  "in_force_date": "1939-03-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/92",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się w grupie A. „Administracja” o następujące kwoty: 1) w części 5 „Ministerstwo Spraw Zagranicznych” a) w wydatkach zwyczajnych: w dziale 1 „Zarząd centralny” w § 6a „Opłaty pocztowe, telegraficzne i telefoniczne” o 175.000 zł w dziale 3 „Urzędy zagraniczne” w § 10 „Urzędy dyplomatyczno-konsularne” o 390.000 zł b) w wydatkach nadzwyczajnych: w dziale 3 „Urzędy zagraniczne” w § 9 „Nieruchomości” o 180.000 zł 2) w części 6 „Ministerstwo Spraw Wojskowych” w wydatkach zwyczajnych: w dziale 1 „Wydatki stale” w § 2 „Wyposażenie” o 4.500.000 zł w § 3 „Zaopatrzenie i konserwacja” o 4.860.000 zł w § 4 „Fundusz dyspozycyjny” o 700.000 zł w dziale 2 „Wydatki niestałe” w § 2 „Wydatki polowe” o 4.750.000 zł 3) w części 7 „Ministerstwo Spraw Wewnętrznych” w wydatkach zwyczajnych: w dziale 1 „Zarząd centralny” w § 12 „Fundusz dyspozycyjny” o 1.000.000 zł w dziale 2 „Województwa i starostwa” w § 11 „Koszty i świadczenia, wynikające z wykonania ustawy o powszechnym obowiązku wojskowym ” o 400.000 zł w dziale 5 „Korpus Ochrony Pogranicza” w § 2 „Utrzymanie” o 1.500.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się: a) dochody zwyczajne w grupie A. „Administracja” w części 8 „Ministerstwo Skarbu”, w dziale 6 „Daniny publiczne”, w rozdziale 1 „Podatki bezpośrednie”, w § 4 „Podatek dochodowy” o 1.500.000 zł; b) wpłatę do Skarbu Państwa w grupie C. „Monopole”, w części 8 „Ministerstwo Skarbu”, w dziale 16 „Monopol Spirytusowy” o... 16.955.000 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ilość etatów osobowych administracji cywilnej, ustaloną w wykazie, załączonym do art. 7 ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się w części 5 „Ministerstwo Spraw Zagranicznych”: 1) w rubryce „Urzędnicy” w następujących grupach uposażenia: IV - o 1 etat, VI - o 3 etaty, VII - o 1 etat, VIII - o 1 etat, „ryczałt” - o 6 etatów, razem o 12 etatów; 2) w rubryce „Funkcjonariusze niżsi”, w grupie uposażenia „ryczałt” - o 5 etatów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 kwietnia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

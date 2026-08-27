@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1937-221",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 kwietnia 1937 r. o dobrach skonfiskowanych przez byłe rządy uczestnikom walk o niepodległość i będących w posiadaniu związków samorządowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-221",
+  "status": "in_force",
+  "issued_date": "1937-04-14",
+  "in_force_date": "1937-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/221",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Przepisy ustawy z dnia 18 marca 1932 r. o dobrach skonfiskowanych przez byłe rządy zaborcze uczestnikom walk o niepodległość (Dz. U. R. P. Nr 24, poz. 189) ze zmianami, wprowadzonymi do tej ustawy rozporządzeniem Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. (Dz. U. R. P. Nr 91, poz. 771), mają odpowiednie zastosowanie także do dóbr skonfiskowanych przez byłe rządy zaborcze uczestnikom walk o niepodległość i będących w posiadaniu związków samorządowych, jeżeli ustawa niniejsza nie stanowi inaczej. (2) Ustawę niniejszą stosuje się również, choćby dobra, wymienione w ustępie poprzedzającym, były w posiadaniu i użytkowaniu innych osób na zasadzie umów wieczysto - czynszowych, wieczysto - dzierżawnych, emfiteutycznych i tym podobnych. (3) Ustawa niniejsza w niczym nie ogranicza Kościoła Rzymskokatolickiego w jego prawach do majątków skonfiskowanych Kościołowi przez b. rządy zaborcze i znajdujących się w posiadaniu związków samorządowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Związek samorządowy nie jest obowiązany do wydania mienia, określonego w art. 1, jeżeli osoba, której to mienie zostało skonfiskowane przez byłe rządy zaborcze, bądź jej następcy prawni zawarli co do mienia skonfiskowanego układ z władzami zaborczymi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Jeżeli przedmiot konfiskaty fest obecnie nieruchomością miejską, uprawnieni otrzymują według wyboru związku samorządowego bądź nieruchomość, bądź jej wartość. (2) Jeżeli na gruncie skonfiskowanym wzniesiono po konfiskacie zabudowania, uprawnieni nie otrzymują ich wartości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przewidziany w art. 2 ustawy z dnia 18 marca 1932 r. termin 9 marca 1932 r. zastępuje się, o ile chodzi o dobra, określone w art. 1, terminem wejścia w życie ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przewidziane w art. 4 ustawy z dnia 18 marca 1932 r. (Dz. U. R. P. Nr 24, poz. 189) roszczenie osoby uprawnionej winno być w celu urzeczywistnienia jej prawa zgłoszone w ciągu trzech miesięcy od dnia wejścia w życie niniejszej ustawy do związku samorządowego, będącego w posiadaniu dóbr skonfiskowanych. Niedotrzymanie tego terminu pociąga za sobą utratę uprawnień w stosunku do interesowanego związku samorządowego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "O przyznaniu dóbr uprawnionemu decyduje organ stanowiący związku samorządowego. Uchwała, postanawiająca zwrot dóbr skonfiskowanych, wymaga zatwierdzenia Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W razie niepowzięcia uchwały, o której mowa w art. 6, lub niezatwierdzenia jej w ciągu roku od daty zgłoszenia roszczenia, jak również w razie odmownej uchwały lub odmownej decyzji Ministra Spraw Wewnętrznych w całości lub w części, zgłaszający roszczenie mocen jest podjąć na nowo zawieszone postępowanie i popierać je dalej, Wznowienie powództwa winno jednak nastąpić pod skutkiem utraty uprawnienia w ciągu sześciu miesięcy od daty powstania prawa do dalszego popierania powództwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przewidziany w art. 9 ustawy z 18 marca 1932 r. podatek przypada na rzecz właściwego związku samorządowego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Spraw Wewnętrznych, Sprawiedliwości i Skarbu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

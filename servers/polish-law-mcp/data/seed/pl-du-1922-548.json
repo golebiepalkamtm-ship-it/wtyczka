@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-548",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 stycznia 1922 r. o ratyfikacji konwencji między Niemcami a Polską i Wolnem Miastem Gdańskiem w sprawie wolności tranzytu pomiędzy Prusami Wschodniemi a resztą Niemiec, podpisanej w Paryżu dnia 21 kwietnia 1921 roku.",
+  "title_en": "",
+  "short_name": "pl-du-1922-548",
+  "status": "in_force",
+  "issued_date": "1922-01-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/548",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza konwencję między Niemcami a Polską i Wolnem Miastem Gdańskiem w sprawie wolności tranzytu pomiędzy Prusami Wschodniemi a resztą Niemiec, podpisaną w Paryżu dnia 21 kwietnia 1921 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia naczelnika Państwa do podpisania ratyfikacji powyższej konwencji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy zleca się Ministrowi Spraw Zagranicznych, wykonanie zaś postanowień konwencji - Ministrowi Kolei Żelaznych i Ministrowi Poczt i Telegrafów, w porozumieniu z innymi zainteresowanymi ministrami. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

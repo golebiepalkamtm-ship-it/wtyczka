@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-145",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 marca 1921 r. zmieniająca art. 1 ustawy z dnia 19 grudnia 1919 r. w przedmiocie darowania odszkodowań i nawiązek za przestępstwa leśne.",
+  "title_en": "",
+  "short_name": "pl-du-1921-145",
+  "status": "in_force",
+  "issued_date": "1921-03-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/145",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 1 ustawy z dnia 19 grudnia 1919 r. w przedmiocie darowania odszkodowań i nawiązek za przestępstwa leśne (Dz. Ust. z 1920 r. № 2, poz. 10) otrzymuje brzmienie następujące: „ Nawiązki w sumie podwójnej wartości samowolnie wyciętego, uszkodzonego lub zabranego drzewa, lub materjałów leśnych, jako też bezprawnie przygotowanych materjałów drzewnych, które zostały użyte na odbudowę zagród, zniszczonych przez wojnę (art. 627 cz. i k. k.), tudzież przewidziane w art. 627 cz. II k. k. pojedyncza wartość tychże, są darowane i drzewo nie ulega odebraniu i zwróceniu Skarbowi Państwa, o ile przestępstwo popełniono w lasach państwowych przed dniem 8 lutego 1919 r. zaś w powiatach augustowskim, suwalskim, sejneńskim, sokólskim, białostockim oraz na kresach wschodnich przed dniem 1 listopada 1919 r., nawet w tych wypadkach, gdyby prawomocne wyroki nie zostały wykonane ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza obowiązuje z chwilą jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie tej ustawy powierza się Ministrom: Sprawiedliwości Rolnictwa i Dóbr Państwowych tudzież Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

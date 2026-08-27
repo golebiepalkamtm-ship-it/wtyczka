@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1924-1012",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 grudnia 1924 r. w przedmiocie zmiany niektórych postanowień o pracowniczych związkach zawodowych, względnie o stowarzyszeniach i związkach, a mianowicie postanowień, dotyczących zrzeszania się pracowników państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1924-1012",
+  "status": "in_force",
+  "issued_date": "1924-12-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/1012",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 19 dekretu z dnia 8 lutego 1919 r. w przedmiocie tymczasowych przepisów o pracowniczych związkach zawodowych (Dz. P. P. P. № 15, poz. 209) otrzymuje następujące brzmienie: „ Zrzeszenia pracowników państwowych nie podlegają powyższym postanowieniom, lecz przepisom dekretu z dnia 3 stycznia 1919 r. o stowarzyszeniach (Dz. P. P. P. № 3 poz. 88), względnie rozporządzenia Komisarza Generalnego Ziem Wschodnich z dnia 25 września 1919 r. o stowarzyszeniach i związkach (Dz. Urz. Zarz. Cyw. Ziem. Wschodnich № 25, poz. 255) ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uchyla się postanowienia art. 9, 10, 11 i 12 przepisów tymczasowych o stowarzyszeniach i związkach z dnia 4/17 marca 1906 r., wprowadzonych dekretem z dnia 3 stycznia 1919 r. o stowarzyszeniach (Dz. P. P. P. № 3, poz. 88), oraz art. 8, 9 i 10 rozporządzenia Komisarza Generalnego Ziem Wschodnich o stowarzyszeniach i związkach z dnia 25 września 1919 r. - Dz. Urz. Zarz. Cyw. Ziem Wschodnich № 25, poz. 255)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

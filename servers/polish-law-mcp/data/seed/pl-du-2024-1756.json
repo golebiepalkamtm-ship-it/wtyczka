@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2024-1756",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2024-1756",
+  "status": "in_force",
+  "issued_date": "2024-11-08",
+  "in_force_date": "2024-11-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1756",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych ( Dz. U. z 2024 r. poz. 1530 , 1572 i 1717 ) wprowadza się następujące zmiany: 1) w art. 243 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Przy obliczaniu relacji, o których mowa w ust. 1, do dochodów bieżących budżetu pomniejszonych o wydatki bieżące dodaje się wykonane dochody ze sprzedaży majątku wynikające ze sprawozdań, o których mowa w ust. 2 pkt 4. ” ; 2) po dziale VI dodaje się dział VIa w brzmieniu: „ Dział VIa Przepisy epizodyczne Art. 296a. 1. Do ustalenia na lata 2026-2029 relacji, o której mowa w art. 242 ust. 1 i 2, dochody bieżące jednostki samorządu terytorialnego mogą być powiększone także o przychody, o których mowa w art. 217 ust. 2 pkt 6. 2. W latach 2024-2029 jednostka samorządu terytorialnego może w danym roku budżetowym przekroczyć relację, o której mowa w art. 242 ust. 1 i 2, jeżeli w latach 2022-2029 suma przekroczeń tej relacji w poszczególnych latach nie będzie wyższa od sumy nadwyżek wynikających z tej relacji w poszczególnych latach. Art. 296b. Do ustalenia na lata 2026-2029 relacji, o której mowa w art. 243 ust. 1, nie stosuje się przepisów art. 243 ust. 1 pkt 4 oraz ust. 3 pkt 2. Art. 296c. 1. W latach 2024-2029 relacja, o której mowa w art. 243 ust. 1, może nie być zachowana, jeżeli prognozowana łączna kwota długu jednostki samorządu terytorialnego na koniec danego roku nie przekroczy 100 % planowanych dochodów ogółem tej jednostki w tym roku budżetowym, pomniejszonych o planowane kwoty dotacji i środków o podobnym charakterze oraz powiększonych o przychody z tytułów określonych w art. 217 ust. 2 pkt 4-8 nieprzeznaczone na sfinansowanie deficytu budżetowego. 2. W latach 2024-2029 łączna kwota długu jednostki samorządu terytorialnego, która prognozowała na koniec danego roku niezachowanie relacji, o której mowa w art. 243 ust. 1, nie może przekraczać 100 % wykonanych w tym roku budżetowym dochodów ogółem tej jednostki, pomniejszonych o kwoty wykonanych dotacji i środków o podobnym charakterze oraz powiększonych o przychody z tytułów określonych w art. 217 ust. 2 pkt 4-8 nieprzeznaczone na sfinansowanie deficytu budżetowego. 3. Niezachowanie w latach 2024-2029 relacji, o której mowa w art. 243 ust. 1, nie może zagrażać realizacji zadań publicznych przez jednostkę samorządu terytorialnego w roku budżetowym i latach następnych. Regionalna izba obrachunkowa, wydając opinie, o których mowa w art. 91 ust. 2, art. 230 ust. 3 i 4 oraz art. 246, ocenia również wpływ niezachowania tej relacji na realizację zadań publicznych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw ( Dz. U. poz. 1927 i 2427 ) w art. 9 w ust. 2 wyrazy „W latach 2022-2025” zastępuje się wyrazami „W latach 2022 i 2023” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw ( Dz. U. poz. 1964 ) w art. 7: 1) w ust. 1 wyrazy „w latach 2023-2025” zastępuje się wyrazami „w roku 2023” ; 2) w ust. 2 wyrazy „W latach 2023-2025” zastępuje się wyrazami „W roku 2023” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Przepis art. 243 ust. 2a ustawy zmienianej w art. 1 stosuje się po raz pierwszy do ustalenia relacji, o których mowa w art. 243 ust. 1 ustawy zmienianej w art. 1, na rok 2026. 2. Przepis ust. 1 stosuje się po raz pierwszy do opracowania budżetu i wieloletniej prognozy finansowej jednostki samorządu terytorialnego na rok 2025."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 14 października 2021 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw oraz ustawę z dnia 15 września 2022 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego oraz niektórych innych ustaw. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

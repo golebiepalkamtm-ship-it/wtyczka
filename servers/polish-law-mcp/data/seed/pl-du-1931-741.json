@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-741",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 października 1931 r. w sprawie zmiany ustawy z dnia 21 października 1919 r. o organizacji statystyki administracyjnej.",
+  "title_en": "",
+  "short_name": "pl-du-1931-741",
+  "status": "repealed",
+  "issued_date": "1931-10-14",
+  "in_force_date": "1931-11-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/741",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp pierwszy art. 6 ustawy z dnia 21 października 1919 r. o organizacji statystyki administracyjnej (Dz. U. R. P. Nr 85, poz. 464) w brzmieniu, ustalonem ustawą z dnia 13 maja 1921 r. (Dz. U. R. P. Nr 43, poz. 262). poczynając od słów: „następny w dniu 31 grudnia 1930 r. otrzymuje brzmienie następujące: „drugi powszechny spis ludności odbędzie się dnia 9 grudnia 1931 r., następne zaś co lat dziesięć w dniu, ustalonym każdorazowo przez Radę Ministrów”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

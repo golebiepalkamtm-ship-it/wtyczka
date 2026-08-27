@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-1091",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 czerwca 2014 r. o zmianie ustawy - Kodeks postępowania cywilnego",
+  "title_en": "",
+  "short_name": "pl-du-2014-1091",
+  "status": "amended",
+  "issued_date": "2014-06-26",
+  "in_force_date": "2014-08-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1091",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ( Dz. U. z 2014 r. poz. 101 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616 i 945. ) w art. 829 w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „ 9) przedmioty niezbędne ze względu na niepełnosprawność dłużnika lub członków jego rodziny. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 293, 379, 435, 567, 616 i 945. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

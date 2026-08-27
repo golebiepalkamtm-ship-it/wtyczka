@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1921-594",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 października 1921 r. w przedmiocie obciążeń hipotecznych w walucie zagranicznej polskich statków handlowych morskich.",
+  "title_en": "",
+  "short_name": "pl-du-1921-594",
+  "status": "in_force",
+  "issued_date": "1921-10-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/594",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu zapoczątkowania i spotęgowania rozwoju ojczystej marynarki handlowej, jakoteż w celu ułatwienia obywatelom polskim nabywania statków handlowych morskich upoważnia się Rząd do udzielania osobom fizycznym i prawnym zezwolenia na obciążenie hipoteczne należących do nich polskich statków handlowych morskich w walucie zagranicznej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zobowiązania te mogą być zaciągane na przeciąg czasu nie dłuższy niż lat 15."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zezwolenia udziela Ministerstwo Skarbu w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zobowiązania, zaciągnięte na mocy niniejszej ustawy w walucie zagranicznej, jakoteż ich wszystkie przynależytości nie podlegają przymusowemu przerachowaniu na obecną lub przyszłą walutę polską."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W wypadkach, powodujących utratą praw polskiego statku handlowego morskiego, zobowiązania hipoteczne w walucie zagranicznej winny być pokryte przez właścicieli statku niezwłocznie, o czem przy zaciągnięciu zobowiązania wnieść należy odpowiednie zastrzeżenie w księdze rejestru polskich statków morskich."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Spraw Wojskowych oraz z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia; jednocześnie tracą moc obowiązującą przepisy sprzeczne z jej postanowieniami. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

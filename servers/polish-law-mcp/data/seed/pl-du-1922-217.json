@@ -1,0 +1,170 @@
+{
+  "id": "pl-du-1922-217",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 1922 r. o Państwowym Banku Odbudowy.",
+  "title_en": "",
+  "short_name": "pl-du-1922-217",
+  "status": "in_force",
+  "issued_date": "1922-03-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/217",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zgodnie z ustawą z dnia 18-go lipca 1919 r. (Dz. P. P. P. № 63, poz. 368) powołuje się do życia „Państwowy Bank Odbudowy” dla udzielania kredytu na odbudowę i uruchomienie gospodarstw, skutkiem wojny zniszczonych lub uszkodzonych. Państwowy Bank Odbudowy jest osobą prawną, posiada własny majątek i używa w pieczęci swojej godła państwowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Siedzibą Państwowego Banku Odbudowy jest stołeczne miasto Warszawa. Bank może za zezwoleniem Ministra Skarbu zakładać oddziały i w innych miastach Państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Majątek Państwowego Banku Odbudowy składa się z kapitału zakładowego sześciu miljardów marek, na którą to kwotę składają się: 1) aktywa i pasywa Zakładu Kredytowego dla odbudowy (dawniejszego Galicyjskiego Wojennego Zakładu Kredytowego), 2) nowe dotacje Skarbu Rzeczypospolitej Polskiej, uzupełniające powyższy majątek do sumy sześciu miljardów marek w ten sposób, że w 1922 r. wstawiona będzie do budżetu na ten cel kwota, uzupełniająca wyżej wspomniany majątek do sumy trzech miljardów marek, a w budżetach na rok 1923 kwota półtora miljarda marek, na rok 1924 jeden miljard marek, na rok 1925 trzysta miljonów marek i na rok 1926 dwieście miljonów marek, 3) ewentualne zyski banku. Dotychczasowy udział Polskiego Banku Krajowego w kapitale zakładowym Galicyjskiego Wojennego Zakładu Kredytowego w postaci wkładki jednego miljona koron będzie spłacony. Powiększenie kapitału nakładowego może nastąpić tylko w drodze ustawodawczej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wszelka pomoc państwowa w formie kredytu na odbudowę gospodarstw, zniszczonych lub uszkodzonych skutkiem wojny, może być udzielana tylko przez Państwowy Bank Odbudowy, o ile specjalne ustawy inaczej nie ustanowią. Państwowy Bank Odbudowy udziela kredytu na zasadach bankowych, a więc za odpowiedniem zabezpieczeniem - właścicielom gospodarstw, dotkniętych bezpośrednio przez wojnę."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W szczególności zakres działania Państwowego Banku Odbudowy obejmuje w myśl art. 4 ustawy z dnia 18-go lipca 1919 r. (Dz. P. P. P. № 63, poz. 368) udzielanie kredytów zarówno długo, jak i krótkoterminowych: 1) rolnikom, kupcom, przemysłowcom i rękodzielnikom w celu odbudowy i uruchomienia lub dalszego prowadzenia ich przez wypadki wojenne zniszczonych lub uszkodzonych warsztatów pracy, łącznie z niezbędnemi urządzeniami, inwentarzem, surowcami, towarami i materjałami; 2) właścicielom domów na odbudowę budynków, zniszczonych lub uszkodzonych przez wypadki wojenne, a także tym powołanym do wojska lub ewakuowanym, których budynki się spaliły skutkiem innych wypadków podczas ich nieobecności (art. 3 powołanej ustawy); 3) gminom, związkom samorządowym, parafjom i instytucjom społecznym na odbudowę zniszczonych przez wojnę szkół, kościołów i budynków użyteczności publicznej; 4) osobom wolnych zawodów, poszkodowanym bezpośrednio przez wojnę, na cele ponownego nabycia urządzenia zawodowego; 5) osobom, poszkodowanym przez wypadki wojenne w urządzeniu domowem i odzieży, na zakupno mebli, sprzętów domowych, odzieży i bielizny; 6) pożyczek zbiorowych gminom i innym związkom samorządowym oraz związkom poszkodowanych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Celem uzyskania funduszów obrotowych Państwowy Bank Odbudowy ma prawo: a) przyjmować wkładki oszczędności; b) składane przez dłużników weksle podawać do redyskonta; c) korzystać z kredytu w rachunku bieżącym w innych instytucjach finansowych; d) wydawać listy zastawne, mające pupilarne bezpieczeństwo, zabezpieczone na wierzytelnościach zahipotekowanych. Wnioski, dotyczące emisji takich listów zastawnych, uchwala Rada Nadzorcza Państwowego Banku Odbudowy, a zatwierdza Minister Skarbu, który również oznaczy warunki każdej emisji."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Za podstawę do określenia wysokości poniesionych szkód służyć mają w zasadzie opinje i orzeczenia komisji zapomogowych i szacunkowych (ustawa z dnia 10 maja 1919 r. Dz. P. P. P. № 41, poz. 298 i z dnia 18 lipca 1919 r. Dz. P. P. P. № 63, poz. 368), wyjątkowo także niezależnie od brzmienia art. 7 ustawy z dnia 18 lipca 1919 r. (Dz. P. P. P. № 63, poz. 368) wykazy szkód, potwierdzone przez władzę administracyjną, przyczem jednak kosztorysy budynków i objektów przemysłowych, jak również urządzeń przemysłowych winny być sporządzone przy udziale znawców. Przy wymiarze pożyczek potrącone będzie to, co dane gospodarstwo już przedtem otrzymało w naturze lub w gotówce ze źródeł Państwa Polskiego, względnie państwa zaborczego, jak również ze źródeł samorządowych i społecznych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Państwowy Bank Odbudowy przedewszystkiem udzielać będzie kredytu (art. 7 ustawy z dnia 18 lipca 1919 r.) w tych wypadkach, w których według jego uznania gospodarstwo na pomoc taką zasługuje lub faktycznie takiej pomocy wymaga."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Osobom, wymienionym w art. 5, kredyty mogą być udzielane tylko pod warunkiem, że sumę pożyczkową użyją wyłącznie na cel, na który została przyznana. Państwowy Bank Odbudowy ma obowiązek i prawo stosowania wszelkich środków kontroli nad celowem użyciem przyznanego kredytu, a to pod rygorami, przewidzianemi w art. 14 ustawy z dnia 18 lipca 1919 r."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Pożyczki muszą być odpowiednio zabezpieczone przez hipotekę, zastaw ruchomości, papierów wartościowych, polis asekuracyjnych lub poręczenia. Wysokość udzielonej pożyczki nie może przenosić przy zabezpieczeniu hipotecznem: 1) na gospodarstwie rolnem - 3/4 wartości szacunkowej gruntu wraz z budynkami mieszkalnemi i gospodarczemi, 2) na domach mieszkalnych w miastach - 2/3 wartości szacunkowej budynku włącznie z ogrodem lub placem budowlanym, 3) na budynkach i maszynach fabrycznych - 1/2 wartości szacunkowej gruntu, budynków i urządzeń, wliczając również siłę wodną, o ile należy do przedsiębiorstwa. Jeżeli objekt, na którym ma być zabezpieczona pożyczka, nie ma własnej hipoteki, ma ona być zabezpieczona aż do chwili zaprowadzenia hipoteki zakazem sprzedaży odnośnych nieruchomości, wynikającym z aktu notarjalnego, opatrzonego rygorem natychmiastowego wykonania. Wypis takiego aktu należy z urzędu przesłać właściwemu sędziemu celem zastrzeżenia w hipotece, względnie starszemu notarjuszowi. Jeżeli pod zabezpieczenie pożyczki oddane są łącznie z nieruchomościami maszyny, warsztaty i wogóle urządzenia przemysłowe, mające charakter nieruchomości z przeznaczenia, zaciągający pożyczkę winien przedstawić Państwowemu Bankowi Odbudowy spis tych przedmiotów i odnośnie do tych przedmiotów służą Państwowemu Bankowi Odbudowy dla udzielonych pożyczek uprawnienia, wynikające z ort. 8 ustawy z dnia 23 listopada 1920 r. (Dz. U. R. P. № 112, poz. 737). Państwowy Bank Odbudowy ma prawo udzielać również pożyczek, zabezpieczonych zastawem maszyn, narzędzi wytwórczych i innych przedmiotów, nie będących nieruchomościami, a pozostających w posiadaniu i użytkowaniu dłużnika pod jego opieką i odpowiedzialnością, pożyczki takie nie mogą przenosić 1/2 szacunku tych przedmiotów, Państwowy Bank Odbudowy nabywa, mimo odmiennych postanowień ustaw ogólnych, prawo zastawu na danych przedmiotach. Wyzbycie się lup brak zastawionych przedmiotów pociąga za sobą odpowiedzialność karną, Przy zastawie papierów wartościowych mają być przestrzegane przepisy, dotyczące lombardu w Polskiej Krajowej Kasie Pożyczkowej. Jeżeli zdolność gospodarcza i ogólna siła kredytowa ubiegających się o pożyczkę będą przez Dyrekcję Państwowego Banku Odbudowy uznane za wystarczającą gwarancje, to może być udzielana pożyczka i bez specjalnego zabezpieczenia, wymaganego w myśl powyższego, jednak tylko do wysokości 100.000 mk. Pożyczki wyższe mogą być w takich wypadkach udzielane tylko za zgodą Rady Nadzorczej Banku."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "O ile starający się o pożyczkę nie jest w możności potrzebnej mu pożyczki w sposób, w art. 10 wskazany, zabezpieczyć, kredytu jednak dla podtrzymania zagrożonej wskutek zniszczenia wojennego egzystencji' gospodarczej nieodzownie potrzebuje, może być mu wyjątkowo udzielona pożyczka na mocy uchwały Dyrekcji Banku, zatwierdzonej przez Radę Nadzorczą. Łączna kwota tego rodzaju pożyczek nie może przekraczać 3% kapitału zakładowego Banku."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Udzielane przez Państwowy Bank Odbudowy pożyczki z wyjątkiem obrotowych wolne są od opłaty procentów na przeciąg pięciu lat od daty zeznania skryptu dłużnego. Po upływie tego czasu pożyczki będą oprocentowane według stopy, jaką ustali Minister Skarbu na wniosek Rady Nadzorczej, jednak nie wyżej niż jeden procent poniżej stopy dyskontowej Polskiej Krajowej Kasy Pożyczkowej. Spłata tych pożyczek rozpoczyna się najpóźniej w lat pięć od daty zeznania skryptu dłużnego i nastąpić ma w ratach półrocznych lub rocznych w ciągu najwyżej trzydziestu lat. Spłata kredytów, udzielanych bez specjalnego zabezpieczenia (ostatni ustęp art. 10) ma się zaczynać najpóźniej w dwa lata po podjęciu pozycji i być rozłożona na dwadzieścia rat półrocznych. Stopa procentowa od pożyczek na kapitał obrotowy powyżej 100.000 marek oraz od pożyczek, udzielanych spółkom, jest wyższa i wynosi z reguły jaden procent ponad każdorazową stopę dyskontową Polskiej Krajowej Kasy Pożyczkowej. Pożyczka na odbudowę nie może być zajęta (art. 11 ust. z dn. 18 lipca 1919 r. Dz. P. P. P. № 63, poz. 368) na zaspokojenie jakichkolwiekbądź pretensji prywatnych lub publicznych, przypadających od poszkodowanego, nie wyłączając hipotecznych."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Zakres działania Państwowego Banku Odbudowy rozciąga się na cały obszar Państwa Polskiego. Z kredytu w Państwowym Banku Odbudowy korzystać mogą w zasadzie tylko gospodarstwa obywateli Rzeczypospolitej Polskiej. Obcokrajowcy mogą korzystać z kredytu w Państwowym Banku Odbudowy jedynie wyjątkowo, o ile to będzie przewidziane osobną z danem państwem umową (art. 2 ustawy z dnia 18 lipca 1919 r.)."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W razie uzyskania przez dłużnika Państwowego Banku Odbudowy wynagrodzenia za poniesione szkody wojenne, zastanie waluta tego odszkodowania użyta na całkowitą lub częściową spłatę udzielonych przez Państwowy Bank Odbudowy pożyczek, nad czem czuwać będzie Ministerstwo Skarbu (art. 5 ustawy z dn. 18 lipca 1919 r.)."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Po upływie pięciu lat od dnia ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej niniejszej ustawy nowe kredyty nie mogą być udzielane przez Państwowy Bank Odbudowy, a działalność jego od tej chwili ogranicza się do likwidacji kredytów udzielonych. Wolno jednak będzie Ministrowi Skarbu po porozumieniu się z Ministrem Robót Publicznych, z Ministrem Rolnictwa i Dóbr Państwowych oraz z Ministrem Przemysłu i Handlu przedłużyć czas trwania normalnej działalności Państwowego Banku Odbudowy."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Koszty założenia i administracyjne pokrywane będą w ciągu pierwszych pięciu lat z opłat na koszty administracji, pobieranych przy realizacji kredytów i procentów od pożyczek, nie korzystających z wolnych lat (obrotowe pożyczki oraz pożyczki, udzielane spółkom lub stowarzyszeniom i ewentualnie obcokrajowcom), reszta zaś z kapitału zakładowego. po upływie pięciu lat z dochodów, a pozostały czysty zysk użyty będzie na uzupełnienie, względnie powiększenie kapitału zakładowego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Państwowy Bank Odbudowy wolny jest od wszelkich podatków bezpośrednich. Wszystkie w przedmiocie udzielania i zabezpieczenia przez Państwowy Bank Odbudowy pożyczek wnoszone podania, wystawione dokumenty dłużne z wyjątkiem weksli, jak również pokwitowania i deklaracje ekstabulacyjne wolne są od opłat stemplowych i bezpośrednich, wpisy hipoteczne celem zabezpieczenia pożyczek Państwowego Banku Odbudowy nie podlegają opłacie wpisowej. Zwolnienie powyższe od opłat nie dotyczy zwolnienia od opłat taksy i wynagrodzenia funkcjonarjuszów urzędów (pisarzy hipotecznych, notarjuszów i t. p.). Podania hipoteczne, dotyczące pożyczek Państwowego Banku Odbudowy, nie podlegają opłatom stemplowym. Wszystkie księgi Państwowego Banku Odbudowy, jako też dokumenty, przez Państwowy Bank Odbudowy wystawiane, wolne są od opłat stemplowych i bezpośrednich."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Organami zarządzającemi Państwowego Banku Odbudowy są: a) Rada Nadzorcza, b) Dyrekcja."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Rada Nadzorcza składa się z 14 członków i 4 zastępców, mianowanych przez Ministra Skarbu. Sześciu członków Rady delegują po jednym: Minister Spraw Wewnętrznych, Minister Robót Publicznych, Minister Rolnictwa i Dóbr Państwowych, Minister Przemysłu i Handlu oraz Prezes Głównego Urzędu Likwidacyjnego, a pozostałych ośmiu członków i czterech zastępców mianuje Minister Skarbu ze sfer społecznych, t. j. rolniczych, handlowych, przemysłowych i finansowych. Przewodniczy w Radzie delegat Ministra Skarbu. Do kompetencji Rady należą: 1) uchwalenie regulaminu dla Rady i dla Dyrekcji, który ma być przedłożony Ministrowi Skarbu do zatwierdzenia; 2) ułożenie szczegółowych warunków w ramach tej ustawy co do udzielania kredytów; 3) uchwały co do korzystania z kredytu w redyskoncie i w rachunku bieżącym; 4) uchwały co do oprocentowania wkładek; 5) uchwały co do udzielania kredytów, które łącznie z ewentualnie przedtem udzielonemi kredytami przekraczają pól miljona marek; 6) uchwały, potrzebne w myśl ostatniego ustępu art. 10 i art. 11 niniejszego statutu; 7) zatwierdzenie rocznych bilansów Państwowego Banku Odbudowy i przedstawienie sprawozdań Ministrowi Skarbu; 8) przedstawienie Ministrowi Skarbu wniosków na zakładanie oddziałów Banku; 9) decyzje w sprawach wniosków Dyrekcji i poszczególnych członków Rady."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Dyrekcja Państwowego Banku Odbudowy składa się z Dyrektora Naczelnego, dwóch lub więcej dyrektorów i ich zastępców, mianowanych w miarę potrzeby przez Ministra Skarbu. Do Dyrekcji należy kierownictwo bieżących spraw banku przy ścisłem stosowaniu się do przepisów niniejszego statutu. W szczególności należy do kompetencji Dyrekcji: 1) czuwanie nad należytem prowadzeniem ksiąg bankowych, kasy i biurowości; 2) uchwalanie kredytów w myśl niniejszego statutu; 3) układa nie bilansów rocznych wedle zasad bankowych i przedstawianie ich Radzie Nadzorczej; 4) przedstawianie Radzie Nadzorczej i Ministrowi Skarbu miesięcznych wykazów statystycznych, miesięcznych zamknięć rachunkowych i bilansów rocznych."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Naczelny nadzór nad Państwowym Bankiem Odbudowy wykonywa w myśl postanowień niniejszego statutu Minister Skarbu. Minister Skarbu winien składać Sejmowi i Senatowi każdego roku sprawozdanie o działalności i stanie Państwowego Banku Odbudowy."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Likwidacja Państwowego Banku Odbudowy nastąpić może jedynie w drodze ustawodawczej i w tym wypadku czysty majątek tego Banku przelany zostanie do Skarbu Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Zgodnie z art. 3 niniejszego statutu obejmuje Państwowy Bank Odbudowy aktywa i pasywa Zakładu Kredytowego dla Odbudowy (dawniej Galicyjskiego Wojennego Zakładu Kredytowego), jak również likwidację pożyczek, udzielonych przez Ministerstwo Robót Publicznych do czasu otwarcia Państwowego Banku Odbudowy. Do czasu ukonstytuowania się Rady Nadzorczej i zamianowania Dyrekcji, zarząd Państwowego Banku Odbudowy sprawować będzie tymczasowo obecna Dyrekcja i Rada Administracyjna Zakładu Kredytowego dla Odbudowy (dawniej Galicyjskiego Wojennego Zakładu Kredytowego) pod nadzorem Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Na razie pozostaje Państwowy Bank Odbudowy we Lwowie, a jego Oddział w Warszawie. O terminie przeniesienia Państwowego Banku Odbudowy ze Lwowa do Warszawy i w tym wypadku pozostawienia oddziału tego Banku we Lwowie zadecyduje Minister Skarbu."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_5-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_5-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_6-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_6-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_19-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_19-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_19-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_19-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_19-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_19-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"arti_20-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_20-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_20-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_20-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

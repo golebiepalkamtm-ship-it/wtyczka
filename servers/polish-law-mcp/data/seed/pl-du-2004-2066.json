@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-2066",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 lipca 2004 r. o wypowiedzeniu Konwencji o przyszłej wielostronnej współpracy w rybołówstwie na Północno-Wschodnim Atlantyku, sporządzonej w Londynie dnia 18 listopada 1980 r.",
+  "title_en": "",
+  "short_name": "pl-du-2004-2066",
+  "status": "in_force",
+  "issued_date": "2004-07-30",
+  "in_force_date": "2004-09-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/2066",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej wypowiedzenia Konwencji o przyszłej wielostronnej współpracy w rybołówstwie na Północno-Wschodnim Atlantyku, sporządzonej w Londynie dnia 18 listopada 1980 r., ratyfikowanej przez Radę Państwa Polskiej Rzeczypospolitej Ludowej dnia 28 października 1984 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

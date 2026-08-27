@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1923-91",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1923 r. zmieniająca art. 1, 7 i 11 ustawy z dnia 4 kwietnia 1922 r. o obowiązku zarządów gmin miejskich dostarczania pomieszczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1923-91",
+  "status": "in_force",
+  "issued_date": "1923-01-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/91",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Niżej przytoczone ustępy artykułów ustawy z dnia 4 kwietnia 1922 r. o obowiązku zarządów gmin miejskich dostarczania pomieszczeń otrzymują brzmienie następujące: 1) p. 2 art. 1: „posłów na Sejm i senatorów w miejscu obradowania Sejmu i Senatu;” 2) p. 1 art. 7: „przedstawicieli Rządów państw obcych, akredytowanych przy Rządzie Rzeczypospolitej Polskiej, cywilnych i wojskowych misji tych państw, oraz posłów na Sejm i senatorów w miejscu obradowania Sejmu i Senatu;” 3) p. 1 art. 11: „prawo pierwszeństwa do otrzymania przydzielonych lokali zależy od kolejności zgłoszeń o przydzielenie, z wyjątkiem uprawnionych z p. 1 i 2 art. 1, oraz - w wypadkach ważnego interesu państwowego - z pp. 3 i 4 tegoż artykułu, którym przysługuje, a przedewszystkiem posłom i senatorom, prawo pierwszeństwa przed innymi petentami;” 4) p. 4 art. 11: „posiadacz lokalu, zakwalifikowanego do zajęcia, ma prawo odrzucić przysłanego przez zarząd gminy kandydata z wyjątkiem posłów i senatorów, lecz w takim razie obowiązany jest do dni 4 wybrać lokatora z pośród osób, zamieszczonych na listach uprawnionych do otrzymania mieszkań petentów. O ile tego obowiązku nie spełni, nastąpi niezwłoczny przydział lokatora przez zarząd gminy, przyczem uwzględniony być winien stan rodzinny posiadacza mieszkania i lokatora. Wyznaczenie podlegającej przydzieleniu części mieszkania należy w tym wypadku do zarządu gminy, posiadaczowi lokalu zaś prawo zażalenia przysługiwać nie będzie”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

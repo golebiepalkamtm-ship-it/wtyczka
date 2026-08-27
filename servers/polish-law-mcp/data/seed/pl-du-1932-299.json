@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-299",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o sprzedaży niektórych gruntów państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-299",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/299",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż niżej wymienionych gruntów państwowych, będących w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe”: a) gruntu o powierzchni 17 m 2 z parceli Nr 74747 etc, położonej w gminie Pelplin, w powiecie tczewskim, w województwie pomorskiem i zapisanej w księdze gruntowej Pelplin, tom III, karta 74; b) gruntu o powierzchni 2418 nr z parceli 1. kat. 7925/1, położonej w gminie katastralnej Lwów, objętej wykazem hipotecznym Nr 2 księgi kolejowej Lwowsko-Czerniowiecko-Jasskiej (K. K. priv. Lemberg - Czernowitz -Jassy Eisenbahn) linji kolejowej Lwów - Czerniowce."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia, Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

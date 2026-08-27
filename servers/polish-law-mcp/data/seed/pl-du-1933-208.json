@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-208",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1933 r. o przedłużeniu terminów składania niektórych egzaminów w szkołach akademickich.",
+  "title_en": "",
+  "short_name": "pl-du-1933-208",
+  "status": "in_force",
+  "issued_date": "1933-03-18",
+  "in_force_date": "1933-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/208",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Studenci wydziałów filozoficznych (matematyczno-przyrodniczych i humanistycznych) szkół akademickich, którzy rozpoczęli studja w roku akademickim 1925/26 lub wcześniej, a którzy do dnia 31 grudnia 1932 r. złożyli rozprawę doktorską, mogą do dnia 31 grudnia 1933 r. składać egzaminy końcowe według przepisów, które obowiązywały przed dniem wejścia w życie ustawy z dnia 13 lipca 1920 r. o szkołach akademickich (Dz. U. R. P. Nr. 72, poz. 494)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

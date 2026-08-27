@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1962-172",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 czerwca 1962 r. o zmianie przepisów o paszportach.",
+  "title_en": "",
+  "short_name": "pl-du-1962-172",
+  "status": "repealed",
+  "issued_date": "1962-06-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1962/172",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 czerwca 1959 r. o paszportach ( Dz. U. Nr 36, poz. 224 ) wprowadza się następujące zmiany: 1) w art. 9 ust. 1 i 2 otrzymują brzmienie: „ 1. Paszport wydaje się na okres do jednego roku, a w przypadkach określonych w art. 8 ust. 2 - na okres do dwóch lat. 2. Ważność paszportu można wznawiać na okresy do jednego roku, a w przypadkach określonych w art. 8 ust. 2 - na okresy do dwóch lat, jednak łączny okres ważności paszportu nie może przekraczać pięciu lat od daty jego wystawienia. ” ; 2) w art. 20 ust. 1 otrzymuje brzmienie: „ 1. Posiadacz paszportu, wkładki paszportowej do dowodu osobistego lub dokumentu podróży obowiązany jest złożyć wymieniony dokument upoważnionemu do wydawania paszportów w kraju organowi, który go wydał lub który jest właściwy ze względu na miejsce zamieszkania posiadacza wymienionego dokumentu. Dokument należy złożyć w ciągu tygodnia po przybyciu z zagranicy, a jeżeli wyjazd nie nastąpił - w ciągu tygodnia od dnia upływu terminu jego ważności. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

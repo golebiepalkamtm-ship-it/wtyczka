@@ -1,0 +1,344 @@
+{
+  "id": "pl-du-1980-111",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych.",
+  "title_en": "",
+  "short_name": "pl-du-1980-111",
+  "status": "repealed",
+  "issued_date": "1980-12-19",
+  "in_force_date": "1980-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1980/111",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa reguluje ogólne zasady powstawania, wykonywania i wygasania zobowiązań podatkowych jednostek gospodarki uspołecznionej, osób fizycznych oraz nie będących jednostkami gospodarki uspołecznionej osób prawnych i innych jednostek organizacyjnych nie posiadających osobowości prawnej. 2. Egzekucję zobowiązań podatkowych regulują odrębne przepisy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zobowiązaniem podatkowym jest wynikające z obowiązku podatkowego zobowiązanie do uiszczenia na rzecz Skarbu Państwa świadczenia pieniężnego, zwanego dalej „podatkiem”. 2. Obowiązek podatkowy określają ustawy. 3. Rada Ministrów w drodze rozporządzenia może rozciągnąć przepisy ustawy w całości lub w części na inne rodzaje świadczeń pieniężnych, z wyjątkiem świadczeń wynikających ze stosunków cywilnoprawnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Organami podatkowymi są: terenowe organy administracji państwowej, okręgowe zarządy dochodów państwa i kontroli finansowej oraz, w zakresie określonym ustawami, także inne organy. 2. Z terenowymi organami administracji państwowej, jako organami podatkowymi, współdziałają organizacje samorządu społeczno-zawodowego i gospodarczego podatników na zasadach przewidzianych w przepisach postępowania administracyjnego. 3. Podatnikiem jest jednostka gospodarki uspołecznionej, osoba fizyczna oraz nie będąca jednostką gospodarki uspołecznionej osoba prawna i inna jednostka organizacyjna nie posiadająca osobowości prawnej, obowiązana do uiszczania podatku z tytułu ciążącego na niej obowiązku podatkowego. 4. Płatnikiem jest osoba obowiązana do obliczenia i pobrania od podatnika podatku i do wpłacenia go na właściwy rachunek. 5. Inkasentem jest osoba obowiązana do pobrania podatku i do wpłacenia go na właściwy rachunek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Finansów sprawuje ogólny nadzór w sprawach zobowiązań podatkowych i w ramach tego nadzoru zapewnia jednolitość stosowania przepisów podatkowych przez organy podatkowe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Zobowiązanie podatkowe powstaje z chwilą doręczenia decyzji ustalającej wysokość tego zobowiązania. 2. Jeżeli z przepisów prawa wynika obowiązek wykonania zobowiązania podatkowego bez uprzedniego doręczenia decyzji, zobowiązanie podatkowe powstaje z chwilą zaistnienia okoliczności, z którymi przepisy prawa łączą powstanie takiego zobowiązania. 3. W razie niewykonania przez podatnika zobowiązania podatkowego mimo zaistnienia okoliczności, o których mowa w ust. 2, organ podatkowy wydaje decyzję, w której określa wysokość tego zobowiązania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Rokiem podatkowym jest rok kalendarzowy, chyba że przepisy szczególne stanowią inaczej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Nie można wydać decyzji w sprawie ustalenia wysokości zobowiązania podatkowego, jeżeli od końca roku podatkowego, w którym powstał obowiązek podatkowy, upłynęły 3 lata, a w wypadku gdy podatnik nie zgłosił obowiązku podatkowego lub nie złożył zeznania, mimo że był do tego zobowiązany, albo biorąc udział w postępowaniu nie ujawnił wszystkich źródeł przychodów lub całego majątku niezbędnych do ustalenia wysokości danego zobowiązania podatkowego, a także gdy następuje opodatkowanie dochodu nie znajdującego pokrycia w ujawnionych źródłach przychodów - 5 lat. 2. Jeżeli ustalenie podstawy opodatkowania i wysokości podatku związane jest z rozstrzygnięciem zagadnienia wstępnego przez inny organ lub sąd, bieg terminu przedawnienia ulega zawieszeniu do dnia, w którym decyzja tego organu stała się ostateczna, a gdy chodzi o orzeczenie sądu - do dnia uprawomocnienia się tego orzeczenia, nie dłużej jednak niż przez 12 miesięcy. 3. Jeżeli decyzja ustalająca wysokość zobowiązania podatkowego, dotycząca podatku, co do którego istnieje obowiązek wpłacania przez podatników zaliczek lub poboru przez płatników przedpłat, nie zostanie wydana w terminie określonym w ustępach poprzedzających, za roczną kwotę zobowiązania podatkowego uważa się sumę należnych zaliczek lub pobranych przedpłat za ten rok, nie przekraczającą jednak wysokości zobowiązania podatkowego, które powinno być ustalone. Organ podatkowy wydaje decyzję w przedmiocie ustalenia wysokości nadpłaty. 4. Przedawnienie, o którym mowa w ust. 1 i 2, w zakresie decyzji dotyczących opłaty skarbowej od czynności cywilnoprawnych nie biegnie w czasie trwania umowy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Minister Finansów może zarządzić zaniechanie w całości lub w części ustalania zobowiązań podatkowych i poboru podatków w wypadkach gospodarczo lub społecznie uzasadnionych, a także gdy wymagają tego inne szczególne okoliczności. 2. Organy podatkowe mogą zaniechać w całości lub w części ustalania zobowiązań podatkowych i poboru podatków w wypadkach, o których mowa w ust. 1, w stosunku do poszczególnych podatników, zwłaszcza gdy pobranie podatku mogłoby zagrozić zdolności gospodarczej zakładu lub egzystencji podatnika w granicach określonych przez Ministra Finansów w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Minister Finansów w drodze rozporządzenia może: 1) zryczałtować lub scalać podatki oraz określać zasady i warunki zryczałtowania lub scalana, 2) zarządzać obliczanie i pobór niektórych podatków za pośrednictwem płatników i określać zasady przyznawania płatnikom wynagrodzenia za te czynności, 3) zarządzać pobór w drodze inkasa niektórych podatków i określać inkasentów oraz w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych ustalać zasady przyznawania im wynagrodzenia za te czynności, 4) wprowadzać obowiązek wpłacania zaliczek i poboru przedpłat na poczet podatków oraz określać zasady obliczania tych zaliczek, przedpłat i ich wysokość, 5) określać zasady zaokrąglania podstawy obliczania i kwoty podatków."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Podatek obliczany według skali progresywnej ustala się tak, aby z podstawy opodatkowania po potrąceniu podatku nie pozostało mniej niż pozostaje z najwyższej podstawy opodatkowania bezpośrednio niższego stopnia skali po potrąceniu podatku przypadającego od tej podstawy. 2. Jeżeli po potrąceniu podatku pozostaje z podstawy opodatkowania mniej niż wynosi najwyższa podstawa opodatkowania wolna od podatku, podatek ustala się tylko w wysokości nadwyżki ponad kwotę najwyższej podstawy opodatkowania wolnej od podatku."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Organ podatkowy ustala podstawę obliczenia podatku w drodze szacunkowej, jeżeli brak jest danych niezbędnych do ustalenia tej podstawy. 2. Minister Finansów, po zasięgnięciu opinii zainteresowanych organizacji samorządu społeczno-zawodowego i gospodarczego podatników, określa normy ustalania podstaw obliczania podatków w drodze szacunkowej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Minister Finansów w drodze rozporządzenia może wprowadzić szczególny nadzór podatkowy nad wytwarzaniem, przerobem, zużywaniem, magazynowaniem, przewozem i obrotem niektórymi towarami i półwyrobami i w ramach tego nadzoru: 1) określać szczególne zasady ewidencji i księgowości, 2) nakładać na podatników będących jednostkami gospodarki uspołecznionej szczególne obowiązki i ograniczenia niezbędne dla zagwarantowania skuteczności tego nadzoru, jak również obowiązek ponoszenia niektórych kosztów związanych z tym nadzorem."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Minister Finansów może ze względu na szczególne okoliczności przedłużać dla grup podatników terminy przewidziane w przepisach podatkowych, z wyjątkiem terminów określonych w art. 7. 2. Uprawnienia, o których mowa w ust. 1, przysługują również terenowym organom administracji państwowej stopnia wojewódzkiego, z tym że przedłużenie terminu nie może przekraczać 3 miesięcy. 3. Organ podatkowy może na wniosek podatnika odraczać terminy, przewidziane w przepisach podatkowych."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Podatnik odpowiada całym swoim majątkiem za ciążące na nim podatki, chyba że obowiązek wpłacenia należności ciąży na płatniku. 2. Płatnik odpowiada całym swoim majątkiem za podatek nie pobrany od podatnika lub pobrany w kwocie niższej od należnej, chyba że nastąpiło to z winy podatnika. Płatnik odpowiada również za niewpłacenie w terminie pobranego podatku. 3. Inkasent odpowiada całym swoim majątkiem za podatki pobrane i nie wpłacone na właściwy rachunek."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "W razie niedopełnienia przez płatnika lub inkasenta obowiązków określonych w ustawie organ podatkowy wydaje decyzję, w której określa wysokość podatku nie pobranego lub nie wpłaconego przez płatnika albo podatku pobranego i nie wpłaconego przez inkasenta."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Jednostki gospodarki uspołecznionej oraz osoby prawne nie będące jednostkami gospodarki uspołecznionej, jeżeli są płatnikami lub inkasentami podatków przypadających od osób fizycznych i osób prawnych nie będących jednostkami gospodarki uspołecznionej, są obowiązane wyznaczyć osoby, do których obowiązków należy obliczanie i pobieranie tych podatków oraz terminowe wpłacanie pobranych kwot na właściwy rachunek, i zgłosić właściwemu organowi podatkowemu imiona, nazwiska i adresy tych osób. Zgłoszenia należy dokonać w terminie określonym dla dokonania pierwszej wpłaty, a w razie zmiany osoby wyznaczonej - w terminie czternastu dni od daty tej zmiany."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Płatnicy i inkasenci obowiązani są przechowywać dokumenty związane z poborem lub inkasem podatków przez okres 5 lat po upływie roku podatkowego, którego dotyczą."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Termin płatności podatku wynosi czternaście dni od dnia doręczenia decyzji ustalającej wysokość zobowiązania podatkowego. 2. Jeżeli podatnik jest obowiązany sam obliczyć i wpłacić podatek, za termin płatności uważa się ostatni dzień, w którym zgodnie z przepisami wpłata powinna nastąpić. 3. Minister Finansów może określać kalendarzowo terminy płatności poszczególnych rodzajów podatków; określenie terminów płatności dla osób fizycznych oraz nie będących jednostkami gospodarki uspołecznionej osób prawnych i innych jednostek organizacyjnych nie posiadających osobowości prawnej następuje w drodze rozporządzenia. 4. Jeżeli przepisy określają terminy płatności podatku kalendarzowo, a decyzja ustalająca wysokość zobowiązania podatkowego nie została doręczona co najmniej na czternaście dni przed terminem płatności podatku, obowiązuje termin określony w ust. 1."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Podatek nie uiszczony w terminie płatności jest zaległością podatkową. 2. Za zaległość podatkową uważa się także nie wpłaconą w terminie zaliczkę lub nie pobraną przedpłatę."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Od zaległości podatkowych pobiera się odsetki za zwłokę. 2. Minister Finansów w drodze rozporządzenia określa stawki odsetek za zwłokę oraz zasady ich obliczania. Stawki te nie mogą być jednak wyższe niż 21% w stosunku rocznym zaległości podatkowych jednostek gospodarki uspołecznionej i 25% kwoty zaległości podatkowych pozostałych podatników za cały okres zwłoki."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Zobowiązanie podatkowe może być zabezpieczone na majątku podatnika przed terminem płatności podatku, jeżeli zachodzi uzasadniona obawa, że nie zostanie ono wykonane. 2. Zabezpieczenia można dokonać również przed wydaniem decyzji ustalającej wysokość zobowiązania podatkowego, jeżeli zachodzi uzasadniona obawa uchylenia się podatnika od wykonania obowiązku podatkowego. 3. Przepisy ust. 1 i 2 nie mają zastosowania do zobowiązań podatkowych państwowych jednostek organizacyjnych. 4. Jeżeli zabezpieczenie następuje przed wydaniem decyzji ustalającej wysokość zobowiązania podatkowego, organ podatkowy określa w decyzji o zabezpieczeniu przybliżoną kwotę zobowiązania podatkowego na podstawie posiadanych danych co do podstawy zobowiązania podatkowego, zabezpieczenie jest skuteczne do czasu wydania decyzji ustalającej wysokość zobowiązania podatkowego. 5. Zabezpieczenie następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Na wniosek podatnika termin płatności podatku może być odroczony lub płatność podatku rozłożona na raty. 2. Minister Finansów w drodze rozporządzenia określa właściwość organów podatkowych w zakresie odraczania terminu płatności podatku i rozkładania płatności na raty."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Skarbowi Państwa z tytułu zobowiązań podatkowych przysługuje ustawowe prawo zastawu na ruchomościach i prawach zbywalnych osoby zobowiązanej do uiszczenia podatku oraz pierwszeństwo zaspokojenia przed innymi wierzytelnościami, z wyjątkiem: kosztów egzekucyjnych, należności za pracę, należności alimentacyjnych oraz rent z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci, jak również kosztów ostatniej choroby i kosztów pogrzebu dłużnika w wysokości odpowiadającej zwyczajom przyjętym w danym środowisku. 2. Przepisu ust. 1 nie stosuje się do mienia państwowych jednostek organizacyjnych."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Skarbowi Państwa z tytułu ustalonych w decyzji zobowiązań podatkowych przypadających od właściciela i samoistnego posiadacza nieruchomości przysługuje hipoteka ustawowa na tej nieruchomości, chociażby zobowiązania te nie zostały ujawnione w księdze wieczystej. Skarb Państwa może dochodzić zaspokojenia wierzytelności podatkowych z nieruchomości, bez względu na to, czyją stała się własnością. 2. Przepisu ust. 1 nie stosuje się do nieruchomości, której posiadanie samoistny posiadacz uzyskał w złej wierze."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Właściciel nieruchomości jest obowiązany okazać notariuszowi przy sporządzaniu aktu przeniesienia własności nieruchomości lub jej części zaświadczenie właściwego organu podatkowego o niezaleganiu w podatkach lub w innych należnościach, do których stosuje się przepisy ustawy, lub zgodę tego organu na niepobranie zaległości podatkowej przy sporządzaniu aktu przeniesienia własności. 2. Jeżeli na nieruchomości, o której mowa w ust. 1, ciąży zaległość podatkowa, notariusz może sporządzić akt przeniesienia własności nieruchomości w wypadku, gdy właściciel okaże mu zgodę organu podatkowego na niepobranie tej zaległości lub nabywca złoży oświadczenie na piśmie, że wyraża zgodę na zapłacenie zaległości w terminie określonym przez organ podatkowy. 3. Przepisów ust. 1 i 2 nie stosuje się w razie darowizny na rzecz Skarbu Państwa lub państwowej jednostki organizacyjnej."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Zobowiązanie podatkowe wygasa przez zapłatę podatku, przedawnienie lub umorzenie. 2. Szczególnymi sposobami zapłaty podatku są potrącenia i przejęcie majątku na własność Skarbu Państwa. 3. Minister Finansów w drodze rozporządzenia może dopuścić lub wprowadzić zapłatę określonych rodzajów podatków papierami wartościowymi lub znakami opłaty skarbowej oraz określić wzory tych znaków i zasady ich stosowania."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Jeżeli na podatniku ciążą zobowiązania podatkowe z różnych tytułów, dokonaną wpłatę zalicza się na pokrycie zobowiązania podatkowego w kolejności od zobowiązania o najwcześniejszym terminie płatności, chyba że podatnik wskaże, na poczet którego zobowiązania dokonuje wpłaty. Jeżeli wpłata dotyczy zaległości podatkowej, z wpłaconej kwoty pokrywa się również odsetki za zwłokę należne od zapłaconej kwoty zaległości."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Zobowiązanie podatkowe podlega, na wniosek podatnika, a także z urzędu, potrąceniu z wzajemnej bezspornej i wymagalnej wierzytelności podatnika wobec Skarbu Państwa. O dokonaniu potrącenia organ podatkowy zawiadamia podatnika."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Kwoty nadpłaconych i nienależnie uiszczonych podatków (nadpłaty) podlegają z urzędu zaliczeniu na zaległe i bieżące zobowiązania podatkowe, a w razie braku takich zobowiązań - podlegają z urzędu zwrotowi w ciągu miesiąca od dnia powstania nadpłaty, chyba że podatnik zgłosi wniosek o zaliczenie nadpłaty na poczet przyszłych zobowiązań. Nadpłatę wynikłą z decyzji dotyczącej zaliczki lub przedpłaty zwraca się dopiero po ostatecznym ustaleniu wysokości zobowiązania podatkowego za dany rok. 2. Nadpłaty osób fizycznych oraz nie będących jednostkami gospodarki uspołecznionej osób prawnych i innych jednostek organizacyjnych nie posiadających osobowości prawnej, wynikłe w związku z uchyleniem lub zmianą decyzji ustalającej wysokość zobowiązania podatkowego, podlegają od dnia dokonania zapłaty oprocentowaniu w wysokości przewidzianej dla wkładów oszczędnościowych płatnych na każde żądanie. 3. Nadpłata nie podlega zwrotowi po upływie lat 3 licząc od końca roku, w którym powstała, jeżeli nie można ustalić w tym czasie osoby uprawnionej do jej odbioru."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Zaległości podatkowe jednostek gospodarki uspołecznionej przedawniają się z upływem 3 lat, a pozostałych podatników z upływem 5 lat - licząc od końca roku, w którym upłynął termin płatności podatku. 2. Bieg przedawnienia przerywa się przez odroczenie terminu płatności, rozłożenie zaległości na raty oraz przez czynność egzekucyjną, o której zobowiązany został zawiadomiony. 3. Po każdym przerwaniu przedawnienia biegnie ono na nowo. Jednakże w razie odroczenia terminu płatności podatku lub rozłożenia zaległości na raty przedawnienie biegnie na nowo od terminu, do którego odroczono płatność podatku, lub od terminu płatności ostatniej nie wpłaconej raty. Przedłużenie terminu przedawnienia nie może być większe niż dalsze 5 lat. 4. Nie ulegają przedawnieniu zaległości podatkowe zabezpieczone na nieruchomości. Jednakże po upływie terminu określonego w ust. 1 zaległości te mogą być egzekwowane tylko z tej nieruchomości."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. W wypadkach gospodarczo lub społecznie uzasadnionych zaległości podatkowe lub odsetki za zwłokę mogą być umorzone w całości lub w części przez Ministra Finansów lub organy podatkowe. 2. Umorzenie zaległości podatkowej powoduje również umorzenie odsetek za zwłokę w całości lub takiej części, jaka część zaległości podatkowej została umorzona. 3. Rada Ministrów w drodze rozporządzenia określa właściwość organów podatkowych w sprawach umarzania zaległości podatkowych."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Organy podatkowe są uprawnione do przeprowadzania kontroli działalności jednostek gospodarki uspołecznionej, nie będących jednostkami gospodarki uspołecznionej osób prawnych i innych jednostek organizacyjnych nie posiadających osobowości prawnej, a także działalności zarobkowej osób fizycznych oraz posiadanych przez nie nieruchomości - jeżeli przeprowadzenie kontroli jest niezbędne do ustalenia zobowiązań podatkowych. 2. Pracownicy organu podatkowego upoważnieni do dokonania czynności kontrolnych są uprawnieni do przeprowadzania oględzin gruntów, budynków, lokali i innych pomieszczeń oraz przedmiotów związanych z wykonywaną działalnością zarobkową, wglądu do wszelkiego rodzaju akt, dokumentów i ksiąg dotyczących tej działalności, a także do sporządzania z nich notatek, odpisów lub wyciągów. 3. Oględziny lokali mieszkalnych mogą być dokonywane za zgodą posiadacza lokalu, z zastrzeżeniem wyjątków określonych w art. 33. 4. Jednostki i osoby określone w ust. 1 są obowiązane umożliwić pracownikom organu podatkowego dokonania czynności kontrolnych, a na żądanie pracownika dokonującego tych czynności okazać posiadane akta, księgi i inne dokumenty wiążące się z prowadzoną przez nie działalnością, a także przedmioty związane z tą działalnością, oraz udzielać wyjaśnień dotyczących ustalenia zobowiązania podatkowego. 5. Przeglądanie akt postępowania przygotowawczego i sądowego i akt spraw sądowych, a także dokumentów stanowiących tajemnicę państwową, oraz sporządzanie z nich odpisów i notatek następuje z zachowaniem właściwych przepisów. 6. Minister Finansów określi szczegółowo sposób przeprowadzenia kontroli wykonywania obowiązku podatkowego przez jednostki gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. W razie powzięcia przez organ podatkowy wiarygodnych wiadomości, że w lokalu mieszkalnym jest prowadzona nie zgłoszona do opodatkowania działalność zarobkowa albo że są przechowywane przedmioty lub dokumenty mogące mieć wpływ na ustalenie zobowiązania podatkowego, prokurator rejonowy, na wniosek organu podatkowego, może udzielić zgody temu organowi na przeprowadzenie oględzin tego lokalu przez upoważnionych pracowników, w celu ustalenia istnienia obowiązku podatkowego. 2. Postanowienie dotyczące przeprowadzenia oględzin powinno być doręczone posiadaczowi mieszkania przed przystąpieniem do dokonania oględzin. 3. Przepisy art. 32 ust. 2 i 4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Jednostki gospodarki uspołecznionej oraz osoby prawne nie będące jednostkami gospodarki uspołecznionej są obowiązane sporządzać i udzielać organom podatkowym informacji o zdarzeniach mających wpływ na ustalanie zobowiązań podatkowych innych osób. 2. Osoby fizyczne prowadzące działalność zarobkową obowiązane są, na pisemne żądanie organu podatkowego, do sporządzania i przesyłania temu organowi informacji o transakcjach mających wpływ na ustalenie zobowiązań podatkowych innych osób z tytułu wykonywania przez nie działalności zarobkowej. 3. Minister Finansów w drodze rozporządzenia określa rodzaje zdarzeń będących przedmiotem informacji podatkowych oraz zasady sporządzania i udzielania informacji."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Minister Finansów, w porozumieniu z Ministrami Obrony Narodowej, Spraw Wewnętrznych oraz Sprawiedliwości określa organy, zakres i tryb dokonywania czynności, o których mowa w art. 32 i 34, w jednostkach podległych tym ministrom."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Sądy i państwowe biura notarialne są obowiązane przesyłać właściwym organom podatkowym informacje podatkowe o zdarzeniach prawnych, które mogą spowodować powstanie zobowiązania podatkowego. 2. Minister Sprawiedliwości w porozumieniu z Ministrem Finansów, w drodze rozporządzenia, określa obowiązki sądów i państwowych biur notarialnych co do sporządzania i przesyłania informacji podatkowych. Rozdział 2 Zobowiązania podatkowe osób fizycznych, osób prawnych nie będących jednostkami gospodarki uspołecznionej i innych jednostek organizacyjnych nie posiadających osobowości prawnej"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Osoby wykonujące usługi lub dokonujące sprzedaży towarów są obowiązane na żądanie odbiorcy usługi lub kupującego wystawiać rachunki stwierdzające wykonanie usługi lub dokonanie sprzedaży. 2. Przepis ust. 1 nie dotyczy rolników sprzedających produkty roślinne i zwierzęce pochodzące z własnej uprawy lub hodowli, nie przerobione sposobem przemysłowym, chyba że sprzedaż jest dokonywana w ich odrębnych stałych miejscach sprzedaży poza obrębem uprawy lub hodowli. 3. Osoba przewożąca zakupione towary i półwyroby przeznaczone do odprzedaży lub przerobu w celu dalszej odprzedaży jest obowiązana posiadać dokument wydania towaru lub jego kopię, zaopatrzone w pieczątkę firmową i podpis wydającego, chyba że przewozi produkty rolne nabyte u rolników, o których mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Minister Finansów w drodze rozporządzenia może: 1) zobowiązywać niektóre grupy podatników do zgłaszania obowiązku podatkowego oraz określać zasady zgłaszania tego obowiązku i ustalać wysokość pobieranych z tego tytułu opłat, 2) nakładać na określone grupy podatników obowiązek składania zeznań, wykazów i deklaracji oraz ustalać terminy ich składania i rodzaje dokumentów, które powinny być do nich dołączone, 3) wprowadzać obowiązek prowadzenia ksiąg przez określone grupy podatników oraz określać rodzaje ksiąg, sposób ich prowadzenia, szczegółowe warunki, jakim te księgi powinny odpowiadać, aby stanowiły dowód do ustalenia zobowiązań podatkowych, jak również obowiązki osób zobowiązanych do prowadzenia ksiąg, 4) wprowadzać obowiązek dokumentowania zakupu surowców, materiałów, półwyrobów i towarów lub sprzedaży towarów i usług oraz prowadzenia ewidencji tych dokumentów przez niektóre grupy osób prowadzących działalność zarobkową, nie obowiązanych do prowadzenia ksiąg, 5) określać wymogi, jakim powinny odpowiadać rachunki."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Osoby fizyczne, osoby prawne nie będące jednostkami gospodarki uspołecznionej oraz inne jednostki organizacyjne nie posiadające osobowości prawnej, zobowiązane do prowadzenia ksiąg, obowiązane są przechowywać księgi i związane z ich prowadzeniem dokumenty przez okres 5 lat, jeżeli nie są one składane łącznie z zeznaniem podatkowym do właściwego organu podatkowego."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Za zaległości podatkowe podatnika odpowiadają również osoby trzecie, jeżeli zachodzą przewidziane w ustawie okoliczności. O odpowiedzialności tych osób orzeka organ podatkowy w odrębnej decyzji. 2. Organ podatkowy odstąpi od orzeczenia odpowiedzialności podatkowej ze względu na zasady współżycia społecznego lub inne ważne względy społeczno-gospodarcze. 3. Odpowiedzialność osoby trzeciej nie obejmuje kosztów egzekucyjnych i odsetek za zwłokę powstałych przed terminem płatności, określonym w decyzji o odpowiedzialności podatkowej tej osoby. 4. W razie wydania decyzji o odpowiedzialności podatkowej art. 22 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Małżonek podatnika odpowiada solidarnie z podatnikiem za jego zaległości podatkowe powstałe w czasie trwania małżeństwa. Zaległości podatkowe podlegają zaspokojeniu z majątku wspólnego małżonków."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Członek rodziny nie będący małżonkiem podatnika odpowiada całym swoim majątkiem solidarnie z podatnikiem za jego zaległości podatkowe należne za okres, w którym stale współdziałał z podatnikiem w wykonywaniu przez niego działalności zarobkowej, z której został on opodatkowany i czerpał korzyści z tej działalności. 2. Odpowiedzialność, o której mowa w ust. 1, nie obejmuje osób, które w okresie powstania zobowiązań podatkowych były małoletnimi albo które w tym okresie czerpały korzyści z działalności zarobkowej podatnika w związku z wykonywaniem przez podatnika obowiązku alimentacyjnego. 3. Za członka rodziny podatnika uważa się wstępnych, zstępnych, rodzeństwo, małżonków zstępnych, osobę pozostającą w stosunku przysposobienia z podatnikiem oraz osobę pozostającą z podatnikiem w faktycznym pożyciu. 4. Organ podatkowy, na wniosek członka rodziny, o którym mowa w ust. 1, ograniczy lub wyłączy jego odpowiedzialność za zaległości podatkowe wymienione w tym przepisie, jeżeli stałoby to w sprzeczności z zasadami współżycia społecznego."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Rozwiedziony małżonek podatnika odpowiada całym swoim majątkiem solidarnie z podatnikiem za jego zaległości podatkowe powstałe w czasie trwania małżeństwa, jednakże tylko do wysokości wartości przypadającego mu udziału w majątku wspólnym. Przepis art. 42 ust. 4 stosuje się odpowiednio. 2. Nie można wydać decyzji o odpowiedzialności małżonka rozwiedzionego, jeżeli od orzeczenia rozwodu upłynęły 3 lata."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Spadkobiercy podatnika odpowiadają za zobowiązania podatkowe spadkodawcy na zasadach określonych w przepisach kodeksu cywilnego o odpowiedzialności za długi spadkowe. 2. Zapisobierca, który otrzymał należny mu zapis, odpowiada za zobowiązania podatkowe spadkodawcy do wysokości wartości otrzymanego zapisu. 3. W stosunku do osób wymienionych w ust. 1 i 2 przepis art. 42 ust. 4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Nabywca całości lub części majątku podatnika odpowiada całym swoim majątkiem solidarnie z podatnikiem za jego zaległości podatkowe powstałe przed nabyciem majątku podatnika, jeżeli ten majątek albo obrót, przychód lub dochód z niego został przyjęty do podstawy ustalenia zobowiązań podatkowych. Zakres odpowiedzialności nabywcy określa się w takim stosunku do zobowiązań podatkowych podatnika, w jakim nabyty majątek albo obrót, przychód lub dochód został przyjęty do podstawy ustalenia zobowiązań podatkowych, jednakże tylko do wysokości wartości nabytego majątku podatnika. 2. Jeżeli nabywcą majątku podatnika jest członek rodziny podatnika, odpowiada on za zaległości podatkowe podatnika do wysokości wartości nabytego majątku bez względu na to, czy nabyty majątek albo obrót, przychód lub dochód z niego został przyjęty do podstawy ustalenia zobowiązań podatkowych. 3. Przepisów ust. 1 i 2 nie stosuje się w razie nabycia towarów w wyniku czynności handlowych objętych działalnością podatnika oraz nabycia majątku podatnika w trybie postępowania egzekucyjnego."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Dzierżawca nieruchomości odpowiada całym swoim majątkiem solidarnie z podatnikiem za zobowiązania podatkowe związane z nieruchomością za czas trwania dzierżawy. Zakres odpowiedzialności dzierżawcy określa się w takim stosunku, w jakim wartość, przychód lub dochód z dzierżawionej nieruchomości był przyjęty do podstawy ustalenia zobowiązań podatkowych."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Wspólnik spółki jawnej, spółki z ograniczoną odpowiedzialnością oraz spółki cywilnej odpowiada całym swoim majątkiem solidarnie ze spółką i pozostałymi wspólnikami za wszystkie zobowiązania podatkowe spółki i wspólników związane z działalnością spółki. Spółka z ograniczoną odpowiedzialnością odpowiada także solidarnie ze wspólnikami całym swoim majątkiem za wszelkie zobowiązania podatkowe wspólników powstałe w związku z uczestnictwem w spółce."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Jeżeli w działalności zarobkowej prowadzonej na własny rachunek podatnik posługiwał się nazwiskiem lub firmą innej osoby, za jej zgodą, albo gdy osoba ta posługiwała się nazwiskiem lub firmą podatnika, za jego zgodą, w prowadzeniu na własny rachunek działalności podlegającej opodatkowaniu, za zobowiązania podatkowe związane z tą działalnością odpowiadają solidarnie podatnik i ta osoba."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Skarbowi Państwa z tytułu zobowiązań podatkowych przysługuje ustawowe prawo zastawu na wszystkich przedmiotach służących podatnikowi do wykonywania działalności zarobkowej, niezależnie od tego, czyją własność przedmioty te stanowią, jeżeli zostały one zajęte w zakładzie podatnika. Rozdział 3 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "W art. 8 ustawy z dnia 16 grudnia 1972 r. o podatku dochodowym ( Dz. U. z 1972 r. Nr 53, poz. 339 i z 1976 r. Nr 40, poz. 231 ) dodaje się ust. 9 w brzmieniu: „ 9. Wysokość przychodu nie znajdującego pokrycia w ujawnionych źródłach, o których mowa w ust. 8, ustala się przyjmując za podstawę sumę wydatków dokonanych w roku podatkowym, nie znajdujących pokrycia w już opodatkowanych lub wolnych od opodatkowania źródłach przychodów i zasobach majątkowych, posiadanych przed poniesieniem tych wydatków. ”"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ( Dz. U. z 1980 r. Nr 9, poz. 26 ) przepis § 5 w art. 107 otrzymuje brzmienie: „ § 5. Organ może odstąpić od uzasadnienia decyzji również w przypadkach, w których z dotychczasowych przepisów ustawowych wynikała możliwość zaniechania lub ograniczenia uzasadnienia ze względu na interes bezpieczeństwa Państwa lub porządek publiczny. ”"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. Wymienione w art. 1 pkt 2 dekretu z dnia 25 sierpnia 1980 r. zmieniającego ustawę o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego ( Dz. U. Nr 19, poz. 68 ) przepisy: 1) art. 11 pkt 85 - w zakresie dotyczącym postępowania w sprawach zobowiązań podatkowych, 2) art. 11 pkt 90 - w zakresie zobowiązań podatkowych i innych świadczeń pieniężnych, do których mają zastosowanie przepisy o podatkach, 3) art. 16 ust. 1 ustawy z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego ( Dz. U. Nr 4, poz. 8 oraz Nr 19, poz. 68 ) wchodzą w życie z dniem wejścia w życie niniejszej ustawy. 2. Postępowanie w sprawach zobowiązań podatkowych wszczęte przed dniem wejścia w życie niniejszej ustawy i nie zakończone do tego dnia toczy się do zakończenia w danej instancji według przepisów dotychczasowych. 3. Roszczenie o odszkodowanie przewidziane w art. 160 i 215 Kodeksu postępowania administracyjnego służy w przypadkach, gdy uchylenie lub stwierdzenie nieważności decyzji dotyczącej zobowiązania podatkowego bądź stwierdzanie, że decyzja taka wydana została z naruszeniem przepisu art. 156 § 1, nastąpiło po wejściu w życie niniejszej ustawy. 4. Przepisy Kodeksu postępowania administracyjnego o zaskarżaniu do sądu decyzji administracyjnych z powodu ich niezgodności z prawem w odniesieniu do decyzji w sprawach zobowiązań podatkowych stosuje się do decyzji wydanych w sprawach, w których postępowanie wszczęte zostało po wejściu w życie ustawy z dnia 31 stycznia 1980 r. o Naczelnym Sądzie Administracyjnym oraz o zmianie ustawy - Kodeks postępowania administracyjnego ( Dz. U. Nr 4, poz. 8 ) . Termin do wniesienia skargi do sądu na decyzje, które stały się ostateczne przed wejściem w życie niniejszej ustawy, biegnie od dnia wejścia jej w życie."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Traci moc dekret z dnia 26 października 1950 r. o zobowiązaniach podatkowych ( Dz. U. z 1950 r. Nr 49, poz. 452 , z 1959 r. Nr 11, poz. 61 , z 1960 r. Nr 51, poz. 300 , z 1961 r. Nr 33, poz. 166 i z 1966 r. Nr 24, poz. 151 ) . 2. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień zawartych w niniejszej ustawie pozostają w mocy, nie dłużej niż przez okres jednego roku od dnia wejścia w życie niniejszej ustawy, przepisy wykonawcze w tych sprawach wydane na podstawie dekretu wymienionego w ust. 1. 3. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie upoważnień zawartych w art. 9 i w art. 12 niniejszej ustawy pozostają w mocy, nie dłużej niż przez okres jednego roku od dnia wejścia w życie niniejszej ustawy, przepisy wykonawcze w tych sprawach wydane na podstawie dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym ( Dz. U. z 1963 r. Nr 11, poz. 60 i z 1972 r. Nr 53, poz. 338 ) ."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Zaległości podatkowe powstałe przed dniem wejścia w życie ustawy przedawniają się w terminach określonych w art. 30 licząc od końca roku 1980, chyba że na podstawie przepisów dotychczasowych ulegną one wcześniejszemu przedawnieniu."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1981 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_3-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_1-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_9-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_9-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_1-arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_1-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_1-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_1-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_1-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_1-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_1-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_1-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_1-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_21-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_1-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_1-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_1-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_1-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_25-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_1-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_1-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_1-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_1-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_29-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_1-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_30-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_30-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_30-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"chpt_1-arti_31-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_31-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_31-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"chpt_1-arti_32-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_32-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_32-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_32-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_32-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_1-arti_32-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_1-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"chpt_1-arti_33-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_33-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_33-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"chpt_1-arti_34-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_34-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_34-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"chpt_1-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\",\"children\": [{\"id\": \"chpt_1-arti_36-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_36-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Zobowiązania podatkowe osób fizycznych, osób prawnych nie będących jednostkami gospodarki uspołecznionej i innych jednostek o"
+    }
+  ],
+  "definitions": []
+}

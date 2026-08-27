@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1922-804",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 września 1922 r. w przedmiocie zmiany ustawy niemieckiej z dnia 20 grudnia 1911 r. o ubezpieczeniu urzędników prywatnych.",
+  "title_en": "",
+  "short_name": "pl-du-1922-804",
+  "status": "in_force",
+  "issued_date": "1922-09-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/804",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby, wymienione w ustępie pierwszym § 1 ustawy z dnia 20 grudnia 1911 r. o ubezpieczeniu urzędników prywatnych (Dz. U. Rzeszy Niemieckiej str. 989;, podlegają obowiązkowi ubezpieczenia niezależnie od wysokości ich zarobku rocznego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wysokość kwot, wymienionych w §§ 17 i 172 powołanej ustawy, jak również wysokość grzywien pieniężnych, przewidzianych w ustawie powołanej w art. 1, może być zmieniana drogą rozporządzenia Rady Ministrów na wniosek Ministra Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "§ 177 powołanej ustawy otrzymuje brzmienie następujące: „ Gdy zajęcie ubezpieczonego u jednego pracodawcy trwa krócej niż miesiąc, wówczas za czas pracy krótszy niż 2 tygodnie należy uiścić połowę składki, odpowiadającej klasie poborów ubezpieczonego, a za czas ponad 2 tygodnie pełną składkę miesięczną (§ 172). O ile ubezpieczony zajęty jest w ciągu miesiąca u kilku pracodawców, a suma wpłaconych składek przewyższa składkę najwyższej klasy poborów, nadwyżkę należy przypisać na dobro ubezpieczonego, celem pokrycia następnych składek miesięcznych ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ministrowi Pracy i Opieki Społecznej przysługuje prawo drogą rozporządzeń ustanawiać, podwyższać, zniżać a także znosić dodatki drożyźniane oraz oznaczać sposób pokrycia tych dodatków. Pracodawcy i ubezpieczeni mogą być pociągnięci do ponoszenia kosztów pokrycia tych dodatków w stosunku do premji stałych i w sposób, przewidziany w ustawie dla premji stałych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Ministrów na wniosek Ministra Pracy i Opieki Społecznej może drogą rozporządzeń zmieniać przepisy ustawy, powołanej w art. 1, dotyczące organizacji ubezpieczenia (§§ 96-169), nie naruszając jednak samorządu instytucji ubezpieczeniowych, a także wydawać przepisy odmienne od ustawowych, a dotyczące wymierzania, ściągania składek za ubezpieczenie oraz lokacji funduszów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przy wypłacie świadczeń, przewidzianych ustawą, wymienioną w art. 1, nie uwzględnia się kwot, nieprzekraczających 50 f., kwoty zaś wyższe liczy się za całą markę."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Kompetencje Kanclerza Rzeszy oraz najwyższych władz administracyjnych, przewidziane w ustawie o ubezpieczeniu urzędników prywatnych, powołanej w art. 1, przysługują Ministrowi Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Pracy i Opieki Społecznej wyda przepisy, dotyczące sposobu ubezpieczenia osób, które na skutek zmiany miejsca pracy, nabywszy uprawnienia na podstawie ustawy o ubezpieczeniu urzędników prywatnych (Dz. U. Rzeszy N. str. 939), byłyby obowiązane do ubezpieczenia w myśl przepisów ustawy o ubezpieczeniu pensyjnem funkcjonarjuszy w służbie prywatnej i niektórych funkcjonariuszy w służbie publicznej (Austr. Dz. U. z r. 1907 № 1) w brzmieniu, ustalonem rozporządzeniem cesarskiem z dnia 25 czerwca 1914 r. (Austr. Dz. U. № 138) i ustawą z dnia 10 czerwca 1921 r. (Dz. U. R. P. № 59 poz. 370), bądź osób, które, nabywszy uprawnienia na podstawie ostatnio wymienionej ustawy, byłyby obowiązane do ubezpieczenia w myśl ustawy o ubezpieczeniu urzędników prywatnych (Dz. U. Rzeszy N. str. 989)."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 tego miesiąca, w którym nastąpi jej ogłoszenie. Z chwilą wejścia w życie niniejszej ustawy tracą moc obowiązującą dotychczasowe postanowienia sprzeczne z ustawą niniejszą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

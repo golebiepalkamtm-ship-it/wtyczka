@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-844",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. w sprawie zmiany ustawy z dnia 27 marca 1920 r. o kolejach w czasie wojny.",
+  "title_en": "",
+  "short_name": "pl-du-1931-844",
+  "status": "repealed",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-12-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/844",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 27 marca 1920 r. o kolejach w czasie wojny (Dz. U. R. P. Nr 27, poz. 160) ulega następującym zmianom: 1) Tytułowi ustawy nadaje się brzmienie „Ustawa z dnia 27 marca 1920 r. o kolejach w czasie wojny lub grożącego Państwu niebezpieczeństwa”. 2) Art. 1 otrzymuje brzmienie: „ Z chwilą wybuchu wojny lub z chwilą zarządzenia bądź ogólnej, bądź częściowej mobilizacji, albo gdy tego wymaga interes obrony Państwa, stwierdzony uchwałą Rady Ministrów, powziętą na wniosek Ministra Spraw Wojskowych, podporządkowuje się wszystkie koleje żelazne interesom obrony Państwa ” . 3) Ust. 2 art. 2 otrzymuje brzmienie: „ W warunkach, przewidzianych w art. 1, przechodzą prywatne przedsiębiorstwa kolei żelaznych pod zarząd Ministra Komunikacji i ich władze kolejowe stają się organami wykonawczemi Ministra Komunikacji. W przypadku tym Minister Komunikacji w porozumieniu z Ministrem Spraw Wojskowych może w drodze rozporządzenia przekazać przedsiębiorstwu „Polskie Koleje Państwowe” zarząd wszystkich lub niektórych kolei prywatnych ” . 4) W art. 3 słowa: „są w czasie wojny zobowiązane” zastępuje się słowami: „obowiązane są w warunkach, przewidzianych w art. 1”, słowa: „związanych z celami wojennemi” zastępuje się słowami: „związanych z kolejnictwem”, słowo „Ministerstwa” zastępuje się słowem „Ministra”. 5) W art. 5 słowa: „wymagań wojennych” zastępuje się słowami: „żądań Ministra Spraw Wojskowych lub innej powołanej do tego władzy wojskowej”. 6) Art. 6 otrzymuje brzmienie: „ Funkcjonarjusz kolei żelaznej, który w warunkach, przewidzianych w art. 1, porzuca samowolnie służbę, albo umyślnie narusza lub zaniedbuje obowiązki służbowe, albo też dopuszcza się umyślnie innego działania lub zaniechania, obniżającego sprawność kolei żelaznej lub zagrażającego ruchowi kolejowemu, ulega karze więzienia do lat pięciu, o ile w czynie tym nie mieszczą się znamiona przestępstwa, zagrożonego karą surowszą. W warunkach, przewidzianych w art. 1, może Prezydent Rzeczypospolitej drogą rozporządzenia, wydanego na wniosek Ministra Spraw Wojskowych, poddać funkcjonarjuszów kolei żelaznych właściwości sądów Wojskowych za przestępstwa, polegające na czynach, wymienionych w ust. 1 ” . 7) Art. 7 otrzymuje brzmienie: „ W warunkach, przewidzianych w art. 1, każdy funkcjonarjusz kolei żelaznej aż do 60 roku życia włącznie, o ile w myśl obowiązujących ustaw nie podlega obowiązkowi wojskowej służby czynnej, służby w rezerwie i w pospolitem ruszeniu, może być odpowiednio do swych kwalifikacyj i specjalności powołany do wojskowej służby kolejowej. Ponadto mogą być wówczas powołani do wojskowej służby kolejowej i ci obywatele Państwa Polskiego aż do 60 roku życia włącznie, którzy: a) byli pracownikami kolejowymi, albo b) pozostawali, choćby tylko czasowo, w wojskowej służbie kolejowej w czasie wojny w jakiemkolwiek państwie, albo c) mają fachowe wykształcenie lub fachową praktykę w powyższej dziedzinie, - o ile w myśl obowiązujących ustaw nie podlegają obowiązkowi wojskowej służby czynnej, służby w rezerwie i pospolitem ruszeniu ” . 8) Art. 8 otrzymuje brzmienie: „ Ilość i kategorje osób, które mają być powołane na podstawie art. 7, ustali Minister Spraw Wojskowych w porozumieniu z właściwymi ministrami. Uposażenie, względnie wynagrodzenie funkcjonarjuszów państwowych i funkcjonarjuszów przedsiębiorstwa „Polskie Koleje Państwowe” na wypadek powołania do służby wojskowej normują osobne przepisy. Uposażenie innych osób, powołanych na podstawie art. 7, ustali Minister Spraw Wojskowych w porozumieniu z właściwymi ministrami ” . 9) Art. 9 otrzymuje brzmienie: „ Osoby, powołane w myśl art. 7 do wojskowej służby kolejowej, stają się osobami wojskowemi, podlegającemi narówni z innemi osobami wojskowemi władzom, ustawom i sądom wojskowym i jako takie składają przysięgę wojskową ” . 10) W art. 11 słowa: „Ministerstwem Kolei Żelaznych” zastępuje się słowami: „Ministrem Komunikacji”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Komunikacji i innymi zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

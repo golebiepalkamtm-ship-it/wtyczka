@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-333",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o sprzedaży, zamianie, odstąpieniu i obciążeniu niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-333",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/333",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się: A) na sprzedaż nieruchomości, stanowiących własność Skarbu Państwa: 1) Gminie żydowskiej wyznaniowej w m. Kielcach, na cele cmentarza, gruntu o powierzchni 2 ha 17 a 25,8 m 2 , wchodzącego w skład t. zw. uroczyska „Biesiak”, położonego w m. Kielcach, nie oznaczonego numerem hipotecznym, graniczącego od zachodu z drogą, prowadzącą do wsi Cegielni, od północy ze starym cmentarzem izraelickim, od wschodu i południa z terenami, znajdującemi się w zarządzie Nadleśnictwa w Kielcach - za cenę nie mniejszą niż 21,726 zł. 2) Powiatowej kasie chorych w Baranowiczach placu na „Kolonji Urzędniczej” w Baranowiczach, dzierżawionego przez tę kasę, nie oznaczonego numerem hipotecznym, o powierzchni 2580 nr, przylegającego od strony zachodniej do zaprojektowanej ulicy Nr. 9, a graniczącego od północy, wschodu i południa z placami państwowemi, a mianowicie od północy na długości 54 m, od wschodu na długości 35,52 m i południa na długości 51,55 m - za cenę nie mniejszą niż 6,450 zł. 3) Stowarzyszeniu pod nazwą „Kuratorjum nad ociemniałymi w Wilnie”, na cele prowadzenia zakładu dla ociemniałych, nieruchomości przy ul. Wielka i Mała Pohulanka Nr. 21 20, uregulowanej w księdze wieczystej Nr. hip. 11368, prowadzonej przy sądzie okręgowym w Wilnie, o powierzchni 3798,30 m 2 , wraz z położonemi na niej budynkami - za cenę nie mniejszą niż 19,631 zł 57 gr. B) na zamianę nieruchomości, stanowiących własność Skarbu Państwa: 1) parcel gruntowych, oznaczonych lk. 282/2 i lk. 485,12, tę ostatnią, wydzieloną z parceli lk. 485/2, objętych lwh. 302 ks. gr. gm. kat. Piaski o łącznej powierzchni 3 ha 92 a 22 m 2 - na parcele, będące własnością gminy m. Krakowa, mianowicie na parcelę, oznaczoną lk. 8 103, wydzieloną z parceli lk. 8,1, lwh. 492 ks. gr. gm. kat. Kraków XV Nowawieś, na parcelę, oznaczoną lk. 8 104, wydzieloną z parceli lk. 8/5, lwh. 2 ks. gr. gm. kat. Kraków XV Nowawieś, o łącznej powierzchni 47 a 10 m 2 , oraz na parcele gruntowe, oznaczone lk. 355,3 i 355 5, wydzielone z parceli lk. 355 2, lwh. 52 ks. gr. gm. kat. Piaski, o łącznej powierzchni 4 a 34 m 2 ; 2) gruntu, położonego w gminie m. Podgórz w powiecie toruńskim, wydzielić się mającego z parceli Nr. 1061/338ks. grunt. gm. Podgórz, tom V, karta 139 i z parceli Nr. ks. grunt. gm. Podgórz, tom I karla 15, o łącznej powierzchni 1 ha 24 a 60 m 2 - na grunt gminy m. Podgórz, wydzielić się mający z parceli Nr. 1062/338 ks. grunt. gm. Podgórz, tom IV, karta 81 o powierzchni 1 ha 25 a 32 m 2 . C) na bezpłatne odstąpienie na własność parafji obrządku łacińskiego św. Marji Magdaleny w Poznaniu, parceli państwowej Nr. 654/324 (dawniej część parceli Nr. 642/324)bez księgi gruntowej, o powierzchni 151 m 2 , położonej w Poznaniu, przy ul. Gołębiej, z zastrzeżeniem dla Skarbu Państwa prawa przejazdu i przechodu na tej parceli, oraz na obciążenie sąsiedniej parceli państwowej Nr. 653/324 (dawniej część parceli Nr. 642/324) bez księgi gruntowej, o powierzchni 37 m 2 i przylegającej do niej bramy gmachu na parceli państwowej Nr. 645/324 prawem przechodu i przejazdu na rzecz parafji, zgodnie z umową, zawartą w Poznaniu dnia 22 kwietnia 1927 r. D) Na bezpłatne odstąpienie na własność gminie wyznaniowej żydowskiej w Wilnie, nieruchomości, stanowiącej własność Skarbu Państwa, położonej w Wilnie przy ulicy Orzeszkowej Nr, 7 i Mostowej Nr. 14, zapisanej w ks. wiecz. Nr. hip. 9486."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu, o ile chodzi o art. 1 ust. A) punkt 1, z Ministrem Skarbu, o ile zaś chodzi o art. 1 ust. A) pkt. 3, także w porozumieniu z Ministrem Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_A\",\"symbol\": \"lett_A\",\"type\": \"lett\",\"name\": \"A\",\"title\": \"A)\",\"children\": [{\"id\": \"arti_1-lett_A-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-lett_A-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-lett_A-none_3\",\"symbol\": \"none_3\",\"type\": \"none\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_1-lett_B\",\"symbol\": \"lett_B\",\"type\": \"lett\",\"name\": \"B\",\"title\": \"B)\",\"children\": [{\"id\": \"arti_1-lett_B-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-lett_B-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-lett_C\",\"symbol\": \"lett_C\",\"type\": \"lett\",\"name\": \"C\",\"title\": \"C)\"},{\"id\": \"arti_1-lett_D\",\"symbol\": \"lett_D\",\"type\": \"lett\",\"name\": \"D\",\"title\": \"D)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

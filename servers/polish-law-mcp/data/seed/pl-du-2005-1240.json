@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-1240",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 czerwca 2005 r. o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej",
+  "title_en": "",
+  "short_name": "pl-du-2005-1240",
+  "status": "amended",
+  "issued_date": "2005-06-17",
+  "in_force_date": "2005-08-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1240",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej ( Dz. U. Nr 126, poz. 1069 oraz z 2004 r. Nr 96, poz. 959 ) wprowadza się następujące zmiany: 1) uchyla się art. 12; 2) po art. 20 dodaje się art. 20a w brzmieniu: „ Art. 20a. Prawnik spoza Unii Europejskiej jest obowiązany przedstawić co roku organowi prowadzącemu listę, na którą jest wpisany, zaświadczenie wystawione przez właściwy organ państwa macierzystego stwierdzające, że jest on zarejestrowany w tym państwie jako osoba uprawniona do wykonywania zawodu przy użyciu jednego z tytułów, o których mowa w art. 2 pkt 3. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

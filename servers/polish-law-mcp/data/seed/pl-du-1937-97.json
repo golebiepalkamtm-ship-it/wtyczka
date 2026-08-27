@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1937-97",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 1937 r. o dotacjach na rzecz Funduszu Obrony Narodowej.",
+  "title_en": "",
+  "short_name": "pl-du-1937-97",
+  "status": "repealed",
+  "issued_date": "1937-02-24",
+  "in_force_date": "1937-03-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/97",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ciągu lat 1937 - 1940 będzie przekazywana na rzecz Funduszu Obrony Narodowej, utworzonego dekretem Prezydenta Rzeczypospolitej z dnia 9 kwietnia 1936 r. (Dz. U. R. P. Nr 28, poz. 225), dotacja Skarbu Państwa do łącznej wysokości 1.000.000.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie dotacji, ustalonej w art. 1, służą w miarę ich uzyskania: 1) wpływy z pożyczek i z kredytu, zaciągniętych na podstawie ustawy z dnia 12 stycznia 1937 r. o upoważnieniu Ministra Skarbu do zaciągnięcia pożyczek zagranicznych i kredytu zagranicznego we frankach francuskich na cele obrony Państwa (Dz. U. R. P. Nr 3, poz. 22), 2) wpływy ze źródeł, wymienionych w art. 3."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Upoważnia się Ministra Skarbu do zaciągnięcia w kraju lub za granicą w ciągu lat 1937 - 1940 pożyczek do łącznej wysokości 400.000.000 zł oraz kredytów do łącznej wysokości 100.000.000 zł na zakup towarów i wykonanie prac, instalacji oraz urządzeń. (2) Wysokość pożyczek i kredytu w poszczególnych latach kalendarzowych ustala Minister Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Warunki zaciągnięcia pożyczek i kredytu, wymienionych w art. 3, w szczególności terminy i sposób spłaty oraz wysokość oprocentowania, ustala Minister Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Upoważnia się Ministra Skarbu do emitowania obligacyj i wystawiania innych zobowiązań Skarbu Państwa, jakie będą potrzebne w celu realizowania pożyczek i korzystania z kredytów, przewidzianych w art. 3."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Sprawozdanie z wysokości wpływów, uzyskanych w ciągu poszczególnych lat z pożyczek i kredytu, wymienionych w art. 2, oraz wyszczególnienie warunków pożyczek i kredytu, wymienionych w art. 3, będzie dołączane w osobnych załącznikach do ogólnego zamknięcia rachunków za odnośny okres budżetowy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu w porozumienia z Ministrem Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

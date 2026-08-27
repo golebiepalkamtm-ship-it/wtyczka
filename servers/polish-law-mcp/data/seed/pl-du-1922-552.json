@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-552",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 1922 r. w przedmiocie nadania mocy prawnej kontraktom pozbycia nieruchomości, zawieranym w czasie od 11 listopada 1918 r. do końca kwietnia 1922 r. w okręgu sądu powiatowego w Czersku na Pomorzu, z pominięciem przepisów o przewłaszczeniu.",
+  "title_en": "",
+  "short_name": "pl-du-1922-552",
+  "status": "in_force",
+  "issued_date": "1922-07-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/552",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dokonane już sądowe uwierzytelnienie podpisów stron na kontraktach pozbycia nieruchomości, zawieranych prywatnie w czasie od 11 listopada 1918 r. do dnia 30 kwietnia 1922 r. włącznie, w okręgu sądu powiatowego w Czersku u prywatnego pisarza Gaczkowskiego, ma ten sam skutek prawny, co przepisane §§ 313, 873 i 925 niemieckiej ustawy cywilnej z dnia 18 sierpnia 1896 r. (Dz. Ust. Rzeszy niem. z 1896 roku str. 195) sądowe udokumentowanie i przewłaszczenie (powzdanie)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wszelkie spory, wszczęte przez byłych właścicieli przeciw nabywcom, zmierzające do unieważnienia tych kontraktów, mają być na wniosek stron albo z urzędu umorzone, o ile przyczyną unieważnienia jest jedynie brak formalności, w §§ 313, 873 i 925 niemieckiej ustawy cywilnej przepisanych, Wydane w związku z temi sporami zarządzenia tymczasowe mają być z urzędu albo na wniosek stron cofnięte, zaś nabywcy, usunięci z posiadania, na powrót w posiadanie nabytych temi kontraktami nieruchomości wprowadzeni."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Z uprawnień, nadanych nabywcom mocą tej ustawy, mogą oni skorzystać jedynie w przeciągu sześciu miesięcy od dnia ogłoszenia tej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa obowiązuje z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2016-2043",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 października 2016 r. o zmianie ustawy o ubezpieczeniu społecznym rolników",
+  "title_en": "",
+  "short_name": "pl-du-2016-2043",
+  "status": "amended",
+  "issued_date": "2016-10-21",
+  "in_force_date": "2016-12-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2043",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ( Dz. U. z 2016 r. poz. 277 ) wprowadza się następujące zmiany: 1) w art. 5b ust. 1 otrzymuje brzmienie: „ 1. Rolnik lub domownik, który podlegając ubezpieczeniu w pełnym zakresie z mocy ustawy, został objęty innym ubezpieczeniem społecznym z tytułu wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ( Dz. U. z 2016 r. poz. 963 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921 i 1948. ) , lub powołania do rady nadzorczej, podlega nadal temu ubezpieczeniu w okresie wykonywania umowy, o której mowa w art. 6 ust. 1 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych , lub pełnienia funkcji w radzie nadzorczej, pomimo objęcia go z tego tytułu innym ubezpieczeniem społecznym, jeżeli przychód osiągany z tego tytułu w rozliczeniu miesięcznym nie przekracza kwoty równej minimalnemu wynagrodzeniu za pracę, ustalonemu na podstawie odrębnych przepisów. ” ; 2) w art. 60 ust. 1 otrzymuje brzmienie: „ 1. Prezes Kasy powołuje i odwołuje kierowników komórek organizacyjnych i ich zastępców w centrali, oddziałach regionalnych i placówkach terenowych oraz dyrektorów oddziałów regionalnych i ich zastępców, kierowników placówek terenowych i ich zastępców, a pozostałych pracowników zatrudnia na podstawie umowy o pracę, chyba że odrębne przepisy wymagają zatrudnienia na podstawie powołania. ” ; 3) art. 83 otrzymuje brzmienie: „ Art. 83. Minister właściwy do spraw rozwoju wsi w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób prowadzenia gospodarki finansowej Kasy, w tym tryb sporządzania planu rzeczowo-finansowego Kasy, państwowych funduszy celowych i funduszu składkowego, będących w dyspozycji Prezesa Kasy, i dokonywania w nich zmian oraz gromadzenia i wydatkowania środków, jak również lokowania wolnych środków funduszu administracyjnego, mając na względzie zapewnienie prawidłowego przepływu tych środków. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dotychczasowe przepisy wykonawcze wydane na podstawie art. 83 ustawy zmienianej w art. 1 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 83 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż 6 miesięcy od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stosunki pracy pracowników zatrudnionych w dniu wejścia w życie niniejszej ustawy na stanowiskach zastępców kierowników komórek organizacyjnych w centrali, oddziałach regionalnych i placówkach terenowych oraz dyrektorów oddziałów regionalnych i ich zastępców, kierowników placówek terenowych i ich zastępców, o których mowa w art. 60 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, stają się stosunkami pracy na podstawie powołania w rozumieniu ustawy z dnia 26 czerwca 1974 r. - Kodeks pracy ( Dz. U. z 2016 r. poz. 1666 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1247, 1579, 1807, 1810, 1921 i 1948. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

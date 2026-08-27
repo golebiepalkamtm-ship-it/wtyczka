@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2019-8",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów",
+  "title_en": "",
+  "short_name": "pl-du-2019-8",
+  "status": "amended",
+  "issued_date": "2018-12-06",
+  "in_force_date": "2019-01-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/8",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów ( Dz. U. z 2017 r. poz. 2186 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270. ) wprowadza się następujące zmiany: 1) w art. 4: a) po pkt 17 dodaje się pkt 17a w brzmieniu: „ 17a) członek zarządu związku metropolitalnego; ” , b) po pkt 32 dodaje się pkt 32a w brzmieniu: „ 32a) skarbnik związku metropolitalnego oraz sekretarz związku metropolitalnego; ” ; 2) w art. 8: a) po pkt 16 dodaje się pkt 16a w brzmieniu: „ 16a) pkt 17a - właściwy wojewoda; ” , b) po pkt 31 dodaje się pkt 31a w brzmieniu: „ 31a) pkt 32a - właściwy wojewoda; ” ; 3) w art. 22 w ust. 1 w pkt 20 kropkę zastępuje się średnikiem i dodaje się pkt 21 w brzmieniu: „ 21) członków zarządu związku metropolitalnego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Osoba urodzona przed dniem 1 sierpnia 1972 r., która w dniu wejścia w życie niniejszej ustawy jest członkiem zarządu związku metropolitalnego, skarbnikiem związku metropolitalnego lub sekretarzem związku metropolitalnego, ma obowiązek złożenia oświadczenia, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 1, w terminie 30 dni od dnia doręczenia powiadomienia, o którym mowa w ust. 2. 2. Właściwy wojewoda, w terminie 30 dni od dnia wejścia w życie niniejszej ustawy, powiadamia osobę, o której mowa w ust. 1, o obowiązku złożenia mu oświadczenia, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 1, oraz informuje o skutku niedopełnienia tego obowiązku. 3. Osoba, o której mowa w ust. 1, która przed dniem wejścia w życie niniejszej ustawy złożyła oświadczenie, o którym mowa w art. 7 ust. 1 ustawy zmienianej w art. 1, w związku z wykonywaniem funkcji publicznej, z którą związany jest obowiązek złożenia tego oświadczenia, albo kandydowaniem na taką funkcję, składa informację o uprzednim jego złożeniu. 4. W przypadku niezłożenia w terminie oświadczenia, o którym mowa w ust. 1, przez osobę obowiązaną do jego złożenia na podstawie ust. 1 następuje skutek określony w art. 21e ust. 1 ustawy zmienianej w art. 1. 5. Pozbawienie funkcji publicznej osoby, o której mowa w ust. 4, następuje z mocy prawa z dniem, w którym upłynął termin do złożenia oświadczenia, o którym mowa w ust. 1. Właściwy wojewoda stwierdza fakt pozbawienia funkcji publicznej oraz niezwłocznie zawiadamia o tym osobę, której to dotyczy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 538, 650, 651, 730, 1000, 1349, 1669, 1735 i 2270. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1938-228",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1938 r. o umarzaniu prywatnoprawnych wierzytelności państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1938-228",
+  "status": "repealed",
+  "issued_date": "1938-04-09",
+  "in_force_date": "1938-04-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/228",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Wszelkie nieściągalne prywatnoprawne wierzytelności państwowe mogą być umarzane w całości lub części na zasadach, określonych w ustawie niniejszej. (2) Przez prywatnoprawne wierzytelności państwowe, nazywane w dalszym ciągu ustawy wierzytelnościami, rozumie się prywatnoprawne wierzytelności Skarbu Państwa oraz państwowych przedsiębiorstw, monopoli i funduszów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Wierzytelność uważa się za nieściągalną: 1) jeżeli dla ściągnięcia wierzytelności konieczne jest ustalenie osoby dłużnika, a ustalenie to jest niemożliwe, 2) jeżeli egzekucja sądowa lub postępowanie upadłościowe, obejmująca poszukiwaną wierzytelność, nie doprowadziły do jej ściągnięcia, 3) Jeżeli dłużnik zmarł, a w wyniku dochodzeń administracyjnych ustalono, że zmarły nie pozostawił żadnego majątku lub że pozostały po zmarłym spadek składa się wyłącznie ze sprzętów domowych lub przedmiotów codziennego użytku o wartości nie przewyższającej 500 zł, a pozostałe ruchomości nie podlegają zajęciu na podstawie przepisów szczególnych, 4) jeżeli w wyniku dochodzeń administracyjnych ustalono, że dłużnik nie posiada żadnego majątku, z którego możnaby poszukiwać danej wierzytelności, lub że posiadany przez dłużnika majątek nie wystarczyłby na pokrycie kosztów jej ściągnięcia, 5) jeżeli wierzytelność nie przewyższa 100 zł, a jej ściągnięcie byłoby połączone z trudnościami niewspółmiernymi do jej wartości, 6) jeżeli przeprowadzenie egzekucji mogłoby spowodować ruinę gospodarczą dłużnika. (2) Umorzenie wierzytelności, za którą obok dłużnika głównego odpowiadają wobec Skarbu Państwa lub państwowych przedsiębiorstw, monopoli i funduszów inne osoby, może nastąpić tylko wtedy, gdy zachodzą co do wszystkich zobowiązanych warunki umorzenia. (3) Jeżeli wierzytelność została pokryta częściowo, to pozostała część może być umorzona, jeżeli co do niej zachodzą warunki, przewidziane w ust. (1) pkt 2) - 6)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Wydanie decyzji o umorzeniu należy do Ministra Skarbu na wniosek właściwego ministra. (2) Wydanie decyzji o umorzeniu wierzytelności przedsiębiorstwa, wydzielonego z administracji państwowej, należy do władz przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Skarbu i poszczególni ministrowie mogą uprawnienia, wynikające z ustawy niniejszej, przekazywań organom bezpośrednio sobie podległym,"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przepisów ustawy niniejszej nie stosuje się przy umarzaniu wierzytelności, dokonywanym na podstawie przepisów szczególnych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_2-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_(1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_(1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pass_(1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

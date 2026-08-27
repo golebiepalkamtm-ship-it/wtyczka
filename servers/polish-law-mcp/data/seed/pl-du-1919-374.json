@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1919-374",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lipca 1919 r. o odpowiedzialności dyscyplinarnej stałych nauczycieli publicznych szkół powszechnych i o postępowaniu dyscyplinarnem.",
+  "title_en": "",
+  "short_name": "pl-du-1919-374",
+  "status": "in_force",
+  "issued_date": "1919-07-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/374",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dekret z dnia 7 lutego 1919 roku (Dzien. Praw № 14 z dnia 8 lutego 1919 r.) zatwierdzą się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy tej ustawy obowiązują na całym obszarze Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego z zastrzeżeniem, ze postanowienia art. 2-go tej ustawy wchodzą w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

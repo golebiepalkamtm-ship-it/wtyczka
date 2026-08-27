@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1997-642",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 czerwca 1997 r. o utworzeniu Uniwersytetu w Białymstoku.",
+  "title_en": "",
+  "short_name": "pl-du-1997-642",
+  "status": "in_force",
+  "issued_date": "1997-06-19",
+  "in_force_date": "1997-09-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/642",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się z dniem 1 października 1997 r. Uniwersytet w Białymstoku, zwany dalej „Uniwersytetem”. 2. Siedzibą Uniwersytetu jest miasto Białystok. 3. Uniwersytet jest uczelnią państwową."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podstawowym kierunkiem działalności Uniwersytetu jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk prawnych, humanistycznych, ekonomicznych i matematyczno-przyrodniczych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nadzór nad Uniwersytetem sprawuje Minister Edukacji Narodowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Uniwersytet tworzy się z Filii Uniwersytetu Warszawskiego w Białymstoku. 2. Mienie Uniwersytetu Warszawskiego, obejmujące własność i inne prawa majątkowe będące w zarządzie Filii Uniwersytetu Warszawskiego w Białymstoku, staje się mieniem Uniwersytetu. 3. Uniwersytet, z dniem utworzenia, przejmuje prawa i zobowiązania Uniwersytetu Warszawskiego dotyczące Filii Uniwersytetu Warszawskiego w Białymstoku."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Z dniem 1 października 1997 r.: 1) pracownicy Uniwersytetu Warszawskiego zatrudnieni w Filii w Białymstoku stają się pracownikami Uniwersytetu, 2) studenci Uniwersytetu Warszawskiego studiujący w Filii w Białymstoku stają się studentami Uniwersytetu. 2. Podstawowe jednostki organizacyjne Filii Uniwersytetu Warszawskiego w Białymstoku stają się podstawowymi jednostkami organizacyjnymi Uniwersytetu. 3. Jednostki organizacyjne Filii Uniwersytetu Warszawskiego w Białymstoku, które przed dniem utworzenia Uniwersytetu posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Uniwersytetu. 4. Osoby przyjęte na pierwszy rok studiów na rok akademicki 1997/1998 do Filii Uniwersytetu Warszawskiego w Białymstoku z dniem utworzenia Uniwersytetu stają się jego studentami."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Dotychczasowe organy kolegialne i jednoosobowe Filii Uniwersytetu Warszawskiego w Białymstoku stają się z dniem 1 października 1997 r. organami Uniwersytetu. 2. Komisja Senacka Uniwersytetu Warszawskiego do spraw Filii w Białymstoku pełni funkcję Senatu Uniwersytetu do dnia 31 grudnia 1997 r. 3. Do dnia 31 grudnia 1997 r. zostaną przeprowadzone wybory do Senatu Uniwersytetu oraz wybory dziekanów i rad wydziałów w trybie i na okres ustalony w statucie Uniwersytetu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

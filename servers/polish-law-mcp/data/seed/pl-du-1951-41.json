@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1951-41",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 stycznia 1951 r. o należnościach ławników za udział w posiedzeniach sądowych oraz o karach porządkowych na ławników.",
+  "title_en": "",
+  "short_name": "pl-du-1951-41",
+  "status": "repealed",
+  "issued_date": "1951-01-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1951/41",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ławnicy, będący pracownikami, zachowują przez czas pełnienia obowiązków ławnika prawo do wynagrodzenia lub uposażenia od pracodawcy. Inni ławnicy otrzymują na żądanie odszkodowanie za utracony zarobek w wysokości ich przeciętnego dziennego zarobku, wszakże nie ponad 30 zł dziennie. 2. Minister Sprawiedliwości w porozumieniu z Ministrem Finansów może zmienić przewidzianą w ust. 1 najwyższą granicę odszkodowania ławnika za utracony zarobek. 3. Ławnicy zamieszkali poza miejscem urzędowania sądu otrzymują ponadto diety oraz zwrot kosztów przejazdu i noclegu według norm, obowiązujących dla sędziów. 4. Żądanie odszkodowania za utracony zarobek należy zgłosić przed upływem trzech dni od ukończenia czynności, do której ławnik był powołany. 5. Ławnikowi przyznaje jego należności kierownik sądu, do którego ławnik był powołany."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Ławnicy, którzy bez usprawiedliwionych powodów nie stawią się na posiedzenie sądowe lub też stawią się z opóźnieniem, podlegają karze porządkowej do wysokości 60 zł oraz obowiązani są do zwrotu wynikłych stąd kosztów sądowych. 2. Kary porządkowe na ławników nakłada kierownik sądu, w którym ławnik pełni swe czynności urzędowe. Kierownik tego sądu orzeka również o wysokości kosztów sądowych, podlegających zwrotowi przez ławnika. 3. Ławnik w terminie siedmiu dni od dnia zawiadomienia go o ukaraniu może złożyć usprawiedliwienie. W przypadku należytego usprawiedliwienia kierownik sądu zwolni ławnika od nałożonej na niego kary i od obowiązku ponoszenia kosztów sądowych. 4. Od orzeczeń kierownika sądu służy w terminie dni czternastu od dnia doręczenia ławnikowi odpisu orzeczenia, nie uwzględniającego usprawiedliwienia ławnika, odwołanie do kierownika sądu bezpośrednio przełożonego nad sądem, w którym ławnik pełni swe czynności urzędowe. Orzeczenia, zapadłe na skutek odwołania, są ostateczne. Jeżeli sąd, w którym ławnik pełni swe czynności urzędowe, nie podlega żadnemu wyższemu sądowi, o ukaraniu ławnika i o zwrocie kosztów sądowych orzeka ostatecznie kierownik tego sądu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy niniejszej ustawy stosuje się do ławników w sądach powszechnych i w sądach szczególnych oraz do ławników cywilnych w sądach wojskowych. Przepisów tych nie stosuje się do ławników w sądach obywatelskich."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Uchyla się: 1) dekret z dnia 4 grudnia 1945 r. o należnościach ławników za udział w posiedzeniach sądowych oraz o karach porządkowych na ławników ( Dz. U. R. P. Nr 58, poz. 336 ) , 2) art. 80 i §§ 2-5 art. 82 prawa o sądach ubezpieczeń społecznych z dnia 28 lipca 1939 r. ( Dz. U. R. P. Nr 71, poz. 476 i z roku 1946 Nr 12, poz. 76 ) , 3) §§ 4 i 5 art. 7 prawa o ustroju sądów powszechnych ( Dz. U. R. P. z 1950 r. Nr 39, poz. 360 ) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy porucza się Ministrom Sprawiedliwości i Obrony Narodowej w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_1-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

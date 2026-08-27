@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-346",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1932 r. w sprawie zmiany ustawy z dnia 4 lutego 1921 r. o ustanowieniu orderu \"Orła Białego\".",
+  "title_en": "",
+  "short_name": "pl-du-1932-346",
+  "status": "in_force",
+  "issued_date": "1932-03-18",
+  "in_force_date": "1932-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/346",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 4 lutego 1921 r. o ustanowieniu orderu „Orła Białego” (Dz. U. R. P. Nr 24, poz. 136) ulega następującym zmianom: 1. w art. 3 ust. 1 pkt. d) otrzymuje brzmienie następujące: „ d) łańcuch orderowy złoty, złożony z orłów biało emaljowanych, z koroną, dziobem i szponami złotemi, połączonych naprzemian z medalionami owalnemi, emaljowanemi, z wizerunkiem Matki Bożej z Dzieciątkiem Jezus na ręku, i medaljonami owalnemi, emaljowanemi, z monogramem „MARJA”; medaljony, otoczone promieniami złotemi; emalja na medaljonach niebieska; długość całego łańcucha 93 cm ” ; 2. art. 4 otrzymuje brzmienie następujące: „ Art. 4. Na czele kawalerów orderu „Orła Białego” stoi Wielki Mistrz Orderu i Kapituła ” ; 3. art. 6 otrzymuje brzmienie następujące: „ Art. 6. Członków Kapituły w liczbie trzech i jednego zastępcę wyznacza na lat 3 Prezydent Rzeczypospolitej z pośród kawalerów orderu „Orla Białego”. Kapituła obiera z pośród swoich członków Kanclerza Orderu i Sekretarza Orderu. Obranych zatwierdza w godności Wielki Mistrz Orderu. Kanclerz Orderu jest zarazem zastępcą Wielkiego Mistrza, jako przewodniczącego Kapituły ” ; 4. w art. 11 ust. 1 skreśla się końcowe wyrazy: „ ani Zgromadzenia Kawalerów ” ; 5. w art. 14 skreśla się wyrazy: „Zgromadzenia Kawalerów” ; 6. załącznik ustawy z dnia 4 lutego 1921 r. uzupełnia się wzorem rysunkowym części składowych łańcucha orderowego, zawartym w załączniku do niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Załącznik - Części składowych łańcucha orderowego (wzór) patrz oryginał Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_1-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_1-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Części składowych łańcucha orderowego (wzór)\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

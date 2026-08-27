@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2019-271",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 2019 r. o zmianie ustawy o Radzie Ministrów oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2019-271",
+  "status": "in_force",
+  "issued_date": "2019-01-31",
+  "in_force_date": "2019-02-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/271",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 8 sierpnia 1996 r. o Radzie Ministrów ( Dz. U. z 2012 r. poz. 392 , z 2015 r. poz. 1064 oraz z 2018 r. poz. 1669 ) po art. 31 dodaje się art. 31a w brzmieniu: „ Art. 31a. Prezes Rady Ministrów w szczególnie uzasadnionych przypadkach, w tym za wybitne osiągnięcia naukowe, sportowe lub z zakresu kultury i ochrony dziedzictwa narodowego, może, po zasięgnięciu opinii właściwego ministra, przyznać osobie fizycznej, z rezerwy ogólnej budżetu państwa, nagrodę specjalną Prezesa Rady Ministrów. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2018 r. poz. 1509 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29. ) w art. 21 w ust. 1 w pkt 146 kropkę zastępuje się średnikiem i dodaje się pkt 147 w brzmieniu: „ 147) nagrody specjalne Prezesa Rady Ministrów przyznawane na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ( Dz. U. z 2012 r. poz. 392 , z 2015 r. poz. 1064 , z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 ) . ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ( Dz. U. z 2018 r. poz. 1508 , 1693 , 2192 , 2245 , 2354 i 2529 ) w art. 8 w ust. 4 w pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 w brzmieniu: „ 10) nagrody specjalnej Prezesa Rady Ministrów przyznawanej na podstawie art. 31a ustawy z dnia 8 sierpnia 1996 r. o Radzie Ministrów ( Dz. U. z 2012 r. poz. 392 , z 2015 r. poz. 1064 , z 2018 r. poz. 1669 oraz z 2019 r. poz. 271 ) . ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz ustawę z dnia 12 marca 2004 r. o pomocy społecznej. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1540, 1552, 1629, 1669, 1693, 2073, 2126, 2159, 2192, 2193, 2215, 2242, 2244, 2245, 2246, 2429 i 2529 oraz z 2019 r. poz. 29. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-796",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 marca 2004 r. o ratyfikacji Konwencji Nr 161 Międzynarodowej Organizacji Pracy dotyczącej służb medycyny pracy, przyjętej w Genewie dnia 26 czerwca 1985 r.",
+  "title_en": "",
+  "short_name": "pl-du-2004-796",
+  "status": "in_force",
+  "issued_date": "2004-03-19",
+  "in_force_date": "2004-04-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/796",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Konwencji Nr 161 Międzynarodowej Organizacji Pracy dotyczącej służb medycyny pracy, przyjętej w Genewie dnia 26 czerwca 1985 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

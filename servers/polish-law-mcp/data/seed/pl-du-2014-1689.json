@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-1689",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 października 2014 r. o zmianie ustawy o kuratorach sądowych",
+  "title_en": "",
+  "short_name": "pl-du-2014-1689",
+  "status": "amended",
+  "issued_date": "2014-10-10",
+  "in_force_date": "2014-12-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1689",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lipca 2001 r. o kuratorach sądowych ( Dz. U. z 2014 r. poz. 795 ) art. 60 otrzymuje brzmienie: „ Art. 60. 1. Obwiniony może ustanowić obrońcę spośród kuratorów zawodowych, adwokatów lub radców prawnych. 2. W wypadku gdy obwiniony, który nie ma obrońcy z wyboru, wnosi o ustanowienie obrońcy z urzędu, przewodniczący sądu dyscyplinarnego może wyznaczyć obrońcę spośród kuratorów zawodowych, adwokatów lub radców prawnych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

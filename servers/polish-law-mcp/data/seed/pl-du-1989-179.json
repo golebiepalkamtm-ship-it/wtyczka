@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1989-179",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 maja 1989 r. o przebaczeniu i puszczeniu w niepamięć niektórych przestępstw i wykroczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1989-179",
+  "status": "in_force",
+  "issued_date": "1989-05-29",
+  "in_force_date": "1989-06-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/179",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przebacza się i puszcza w niepamięć: 1) występki popełnione z powodów politycznych albo w związku ze strajkiem lub akcją protestacyjną, 2) przestępstwa skarbowe popełnione z powodów politycznych, 3) występki związane z militaryzacją, 4) występki popełnione przy przeciwdziałaniu strajkom lub akcjom protestacyjnym albo innym naruszeniom bezpieczeństwa lub porządku publicznego z powodów politycznych, - jeżeli popełnienie przestępstwa nastąpiło w okresie po dniu 31 sierpnia 1980 r. do dnia 29 maja 1989 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Orzeczone prawomocnie kary za przestępstwa określone w art. 1, nie wykonane w całości lub w części, nie podlegają wykonaniu; nie podlegają również wykonaniu orzeczone prawomocnie nie uiszczone w całości lub w części nawiązki, opłaty i koszty postępowania. Skazania za te występki ulegają zatarciu, a wpis o skazaniu usuwa się z rejestru skazanych; z rejestru usuwa się również wpis o warunkowym umorzeniu postępowania o te przestępstwa. 2. Podlegają wykonaniu prawomocne orzeczenia o przepadku przedmiotów, których posiadanie jest zakazane lub wymaga zezwolenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W sprawach o przestępstwa, o których mowa w art. 1, postępowania karnego nie wszczyna się, a wszczęte umarza. W razie umorzenia postępowania, ulegają przepadkowi przedmioty, o których mowa w art. 2 ust. 2."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. W razie zbiegu przestępstw podlegających ustawie, stosuje się ustawę do każdego ze zbiegających się przestępstw. W razie zbiegu przestępstwa podlegającego ustawie z innym przestępstwem, stosuje się ustawę do przestępstwa jej podlegającego. 2. Po zastosowaniu ustawy, w miarę potrzeby, orzeka się na posiedzeniu karę łączną na ogólnych zasadach."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Ustawę stosuje sąd właściwy do rozpoznania sprawy. 2. Sąd stosuje ustawę z urzędu albo na wniosek strony."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W sprawach o przestępstwa skarbowe należące do właściwości finansowego organu orzekającego ustawę stosuje organ właściwy do ich rozpoznania. Przepis art. 5 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Orzeczenia w przedmiocie stosowania ustawy zapadają w formie postanowień. 2. Na postanowienie, o którym mowa w ust. 1, przysługuje zażalenie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przebacza się i puszcza w niepamięć wykroczenia, w tym skarbowe, popełnione w okresie po dniu 31 sierpnia 1980 r. do dnia 29 maja 1989 r. z powodów politycznych albo w związku ze strajkiem lub akcją protestacyjną."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W sprawach o wykroczenia, o których mowa w art. 8, ustawę stosuje organ właściwy do rozpoznania sprawy. Przepisy art. 2, 3 i 5-7 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Postępowanie w sprawach objętych ustawą toczy się zgodnie z przepisami obowiązującymi w postępowaniu przed organem, który je prowadzi, jeżeli przepisy niniejszej ustawy nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

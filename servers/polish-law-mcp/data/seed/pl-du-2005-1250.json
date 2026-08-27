@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2005-1250",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 lipca 2005 r. o zmianie ustawy o restrukturyzacji górnictwa węgla kamiennego w latach 2003-2006",
+  "title_en": "",
+  "short_name": "pl-du-2005-1250",
+  "status": "repealed",
+  "issued_date": "2005-07-07",
+  "in_force_date": "2005-08-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 listopada 2003 r. o restrukturyzacji górnictwa węgla kamiennego w latach 2003-2006 ( Dz. U. Nr 210, poz. 2037 ) w art. 51 w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) udowodnił okres pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy oraz pobierał rentę z tytułu niezdolności do pracy w związku z wypadkiem lub chorobą zawodową łącznie przez co najmniej 20 lat, w tym posiadał 10 lat pracy górniczej wykonywanej pod ziemią stale i w pełnym wymiarze czasu pracy, albo ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 51 ust. 1 pkt 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą stosuje się do wniosków o emerytury górnicze złożonych do dnia 31 grudnia 2006 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

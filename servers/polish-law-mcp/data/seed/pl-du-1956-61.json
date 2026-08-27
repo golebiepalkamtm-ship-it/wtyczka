@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1956-61",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 kwietnia 1956 r. o warunkach dopuszczalności przerywania ciąży.",
+  "title_en": "",
+  "short_name": "pl-du-1956-61",
+  "status": "repealed",
+  "issued_date": "1956-04-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1956/61",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Zabiegu przerwania ciąży może dokonać tylko lekarz, jeżeli: 1) za przerwaniem ciąży przemawiają: a) wskazania lekarskie lub b) trudne warunki życiowe kobiety ciężarnej, 2) zachodzi uzasadnione podejrzenie, że ciąża powstała w wyniku przestępstwa. 2. Nie wolno dokonać zabiegu przerwania ciąży w wypadkach przewidzianych w ust. 1 pkt 1 lit. b) i pkt 2, jeżeli zachodzą przeciwskazania lekarskie dla dokonania takiego zabiegu. 3. Zabiegu przerwania ciąży u nieletniej można dokonać tylko za zgodą jej rodziców, opiekuna albo władzy opiekuńczej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Wskazania lekarskie lub trudne warunki życiowe kobiety ciężarnej, przemawiające za przerwaniem ciąży, stwierdza orzeczenie lekarskie. Istnienie uzasadnionego podejrzenia, że ciąża powstała w wyniku przestępstwa, stwierdza zaświadczenie prokuratora. 2. Minister Zdrowia określi w drodze rozporządzenia kwalifikacje zawodowe, jakie powinni posiadać lekarze dokonujący zabiegu przerwania ciąży, oraz tryb wydawania orzeczeń lekarskich o dopuszczalności dokonania takiego zabiegu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kto w jakikolwiek bądź sposób zmusza kobietę do poddania się zabiegowi przerwania ciąży, podlega karze więzienia do lat 5."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kto dokonuje zabiegu przerwania ciąży za zgodą kobiety ciężarnej, lecz wbrew przepisom art. 1, podlega karze więzienia do lat 3."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kto udziela pomocy kobiecie ciężarnej w dokonaniu zabiegu przerwania ciąży wbrew przepisom art. 1, podlega karze więzienia do lat 3."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. W ustawie z dnia 28 października 1950 r. o zawodzie lekarza ( Dz. U. Nr 50, poz. 458 i Nr 53, poz. 489 ) wprowadza się następujące zmiany: 1) w art. 15 ust. 2 dodaje się pkt 4 w brzmieniu: „ 4) zabiegów przerwania ciąży ” , 2) skreśla się art. 16. 2. Tracą moc art. 231, 232, 233 i 234 kodeksu karnego ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_6-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

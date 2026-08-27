@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-109",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 lutego 1937 r. o sprzedaży i zamianie niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-109",
+  "status": "in_force",
+  "issued_date": "1937-02-27",
+  "in_force_date": "1937-03-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/109",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż następujących nieruchomości państwowych: 1) majątku Chocicza Wielka, o powierzchni około 431,4 ha, w powiecie wrzesińskim, województwa poznańskiego za cenę nie niższą niż 183.000 zł, 2) majątku Kunowo, o powierzchni około 501,19 ha, w powiecie mogileńskim, województwa poznańskiego za cenę nie niższą niż 302.000 zł, 3) majątku Niszczewice, o powierzchni około 780 ha, w powiecie inowrocławskim, województwa poznańskiego za cenę nie niższą niż 532.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zezwala się na zamianę części majątku państwowego Żydowo, w gminie Borzykowo, w powiecie wrzesińskim, województwa poznańskiego - obejmującej parcele 1. kat. 7, 8, 9, 11, 13, 20/5, 25/4, 30/12, 33/3, 35/10, 36/10, 37/2, 40/6, 41/6, 42/6, 44/2, 45/2, 46/10, 47/10 i część parceli 1. kat. 43/2, o łącznej powierzchni około 162,74 ha, wraz z zabudowaniami - na majątek Wygoda, w gminie Rozwozin, w powiecie mławskim, województwa warszawskiego, o powierzchni około 855,45 ha, Nr hip. W. 18."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

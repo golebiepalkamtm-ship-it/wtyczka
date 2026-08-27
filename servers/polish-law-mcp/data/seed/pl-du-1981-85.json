@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1981-85",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. o ustanowieniu Warszawskiego Krzyża Powstańczego.",
+  "title_en": "",
+  "short_name": "pl-du-1981-85",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1981-07-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/85",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się Warszawski Krzyż Powstańczy jako wyraz uznania dla wszystkich osób, które w 1944 r. brały czynny udział w Powstaniu Warszawskim."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Warszawski Krzyż Powstańczy nadawany jest w szczególności: 1) żołnierzom wszystkich formacji powstańczych oraz żołnierzom innych formacji biorących czynny udział w walce powstańczej, 2) członkom Wojskowej Służby Kobiet, powstańczej służby zdrowia, prasy i informacji powstańczej oraz pozostałych powstańczych służb pomocniczych, 3) innym osobom wspomagającym bezpośrednio czyn powstańczy. 2. Krzyż nadawany jest obywatelom polskim. Może być również nadawany osobom, które uczestnicząc w Powstaniu Warszawskim jako obywatele polscy posiadają w chwili nadania im Krzyża obywatelstwo innego państwa. 3. Krzyż może być nadawany także obywatelom innych państw, którzy brali udział w Powstaniu Warszawskim lub wnieśli istotny wkład do czynu powstańczego. 4. Krzyż może być nadawany również pośmiertnie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Warszawski Krzyż Powstańczy nadaje Rada Państwa na wniosek: 1) Ministra Obrony Narodowej - w odniesieniu do osób pełniących czynną służbę wojskową oraz pracowników cywilnych zatrudnionych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej, 2) Ministra Spraw Zagranicznych - w odniesieniu do obywateli polskich zamieszkałych za granicą oraz obywateli innych państw, 3) Związku Bojowników o Wolność i Demokrację - w odniesieniu do pozostałych osób. 2. Rada Państwa określi szczegółowy tryb przedstawiania wniosków o nadanie Krzyża oraz sposób jego noszenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Odznaką Warszawskiego Krzyża Powstańczego jest krzyż równoramienny prosty, o wymiarach 42 mm, wykonany ze stopu posrebrzanego - oksydowanego oraz emalii białej i czerwonej; na licowej stronie krzyża w części środkowej znajduje się kompozycja opaski biało-czerwonej i kotwicy - symbolu Polski walczącej, a na poziomych ramionach napis „1.VIII.1944”; na odwrotnej stronie krzyża znajduje się napis „Powstańcom Warszawy” i wieniec laurowy. 2. Krzyż nosi się na wstążce szerokości 40 mm, w kolorach białym i czerwonym oraz błękitnym i czarnym na obrzeżach. 3. Wzór rysunkowy Krzyża zawiera załącznik do ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W sprawach nie uregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 17 lutego 1960 r. o orderach i odznaczeniach ( Dz. U. Nr 10, poz. 66 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik - Warszawski Krzyż Powstańczy (wzór) (Załącznik do ustawy stanowi oddzielną wkładkę) Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Warszawski Krzyż Powstańczy (wzór)\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

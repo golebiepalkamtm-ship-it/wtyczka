@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2005-1109",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy - Kodeks karny",
+  "title_en": "",
+  "short_name": "pl-du-2005-1109",
+  "status": "amended",
+  "issued_date": "2005-06-03",
+  "in_force_date": "2005-07-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1109",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 czerwca 1997 r. - Kodeks karny ( Dz. U. Nr 88, poz. 553 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426 oraz z 2005 r. Nr 86, poz. 732 i Nr 90, poz. 757. ) wprowadza się następujące zmiany: 1) w art. 101 w § 1: a) po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) 15 - gdy czyn stanowi występek zagrożony karą pozbawienia wolności przekraczającą 5 lat, ” , b) pkt 4 otrzymuje brzmienie: „ 4) 5 - gdy chodzi o pozostałe występki. ” , c) uchyla się pkt 5; 2) art. 102 otrzymuje brzmienie: „ Art. 102. Jeżeli w okresie przewidzianym w art. 101 wszczęto postępowanie przeciwko osobie, karalność popełnionego przez nią przestępstwa określonego w § 1 pkt 1-3 ustaje z upływem 10 lat, a w pozostałych wypadkach - z upływem 5 lat od zakończenia tego okresu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do czynów popełnionych przed wejściem w życie niniejszej ustawy stosuje się przepisy Kodeksu karnego o przedawnieniu w brzmieniu nadanym tą ustawą, chyba że termin przedawnienia już upłynął."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1997 r. Nr 128, poz. 840, z 1999 r. Nr 64, poz. 729 i Nr 83, poz. 931, z 2000 r. Nr 48, poz. 548, Nr 93, poz. 1027 i Nr 116, poz. 1216, z 2001 r. Nr 98, poz. 1071, z 2003 r. Nr 111, poz. 1061, Nr 121, poz. 1142, Nr 179, poz. 1750, Nr 199, poz. 1935 i Nr 228, poz. 2255, z 2004 r. Nr 25, poz. 219, Nr 69, poz. 626, Nr 93, poz. 889 i Nr 243, poz. 2426 oraz z 2005 r. Nr 86, poz. 732 i Nr 90, poz. 757. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

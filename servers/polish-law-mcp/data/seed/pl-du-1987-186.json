@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1987-186",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 października 1987 r. o zmianie ustawy - Kodeks postępowania administracyjnego.",
+  "title_en": "",
+  "short_name": "pl-du-1987-186",
+  "status": "amended",
+  "issued_date": "1987-10-23",
+  "in_force_date": "1987-10-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1987/186",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ( Dz. U. z 1980 r. Nr 9, poz. 26 i Nr 27, poz. 111 , z 1982 r. Nr 7, poz. 55 , Nr 45, poz. 289 , z 1983 r. Nr 41, poz. 185 , z 1984 r. Nr 34, poz. 183 , z 1986 r. Nr 47, poz. 228 i z 1987 r. Nr 21, poz. 123 ) wprowadza się następujące zmiany: 1) w art. 75: a) dotychczasowa treść otrzymuje oznaczenie § 1, b) dodaje się § 2 w brzmieniu: „ § 2. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia właściwego organu administracji, organ administracji państwowej odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności za fałszywe zeznania. Przepis art. 83 § 3 stosuje się odpowiednio. ” ; 2) w art. 213 po wyrazach „organowi administracji państwowej” dodaje się wyrazy „a stronom doręcza orzeczenie wraz z uzasadnieniem” ; 3) w art. 217: a) w § 2 pkt 2 otrzymuje brzmienie: „ 2) osoba ubiega się o zaświadczenie ze względu na swój interes prawny w urzędowym potwierdzeniu określonych faktów lub stanu prawnego, ” b) w § 3 wyrazy „czternastu dni” zastępuje się wyrazami „siedmiu dni” ; 4) w art. 220: a) dotychczasowa treść otrzymuje oznaczenie § 1, b) dodaje się § 2 w brzmieniu: „ § 2. Organ administracji państwowej żądający od strony zaświadczenia na potwierdzenie faktów lub stanu prawnego jest obowiązany wskazać przepis prawa wymagający urzędowego potwierdzenia tych faktów lub stanu prawnego w drodze zaświadczenia. ” ; 5) po art. 268 dodaje się art. 268a w brzmieniu: „ Art. 268a. Organ administracji państwowej może w formie pisemnej upoważniać pracowników kierowanej jednostki organizacyjnej do załatwiania spraw w jego imieniu w ustalonym zakresie, a w szczególności do wydawania decyzji administracyjnych, postanowień i zaświadczeń. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

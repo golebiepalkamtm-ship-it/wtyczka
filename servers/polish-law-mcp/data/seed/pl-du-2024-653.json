@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2024-653",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 marca 2024 r. o zmianie ustawy - Kodeks cywilny, ustawy o kredycie konsumenckim oraz ustawy o konsumenckiej pożyczce lombardowej",
+  "title_en": "",
+  "short_name": "pl-du-2024-653",
+  "status": "in_force",
+  "issued_date": "2024-03-20",
+  "in_force_date": "2024-04-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/653",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny ( Dz. U. z 2023 r. poz. 1610 , 1615 , 1890 i 1933 ) wprowadza się następujące zmiany: 1) w art. 385 5 uchyla się § 2; 2) uchyla się art. 720 6 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim ( Dz. U. z 2023 r. poz. 1028 , 1285 , 1394 i 1723 ) w art. 2 uchyla się ust. 2."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 14 kwietnia 2023 r. o konsumenckiej pożyczce lombardowej ( Dz. U. poz. 1285 ) w art. 2 uchyla się ust. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

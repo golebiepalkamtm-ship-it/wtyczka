@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1920-61",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 stycznia 1920 r. o zniesieniu Sejmu i Wydziału Krajowego b. Królestwa Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1920-61",
+  "status": "in_force",
+  "issued_date": "1920-01-30",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/61",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Znosi się ustanowiony statutem krajowym z 26 lutego 1861 r. (L. 20 austr. Dz. u. p.) Sejm b. Królestwa Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem, jak niemniej Wydział Krajowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wszelkie prawa i obowiązki tegoż Sejmu przechodzą na Państwo Polskie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Cały pod zarządem Sejmu, względnie Wydziału Krajowego, jako jego pełnomocnika, znajdujący się tak ruchomy, jak i nieruchomy majątek b. Królestwa Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem wraz z wszelkiemi prawami i przynależnościami staje się wyłączną własnością Państwa Polskiego, które nawzajem obejmuje wszelkie zobowiązania i długi tego kraju."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zarząd, wymienionego w art. 3, majątku oraz fundacji, dotąd przez Wydział Krajowy administrowanych, orzecznictwo w sprawach, dotąd do kompetencji Wydziału Krajowego należących, wykonywanie wszelkich innych agend tegoż Wydziału Krajowego, wreszcie uprawnienia administracyjno - wykonawcze Sejmu, o ile nie zostały lub nie zostaną przekazane innym organom, przechodzą aż do wprowadzenia jednolitej administracji w Państwie i zorganizowania ciał samorządnych wyższego rzędu na Tymczasowy Wydział Samorządowy. Istniejący dotąd Wydział Krajowy sprawować ma swe czynności aż do ukonstytuowania Tymczasowego Wydziału Samorządowego i objęcia przezeń przydzielonych mu tą ustawą agend."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Tymczasowy Wydział Samorządowy składa się z przewodniczącego, 6 członków i 3 zastępców. Przewodniczącym Wydziału będzie Generalny Delegat Rządu dla b. Królestwa Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem, zaś po zniesieniu Generalnej Delegatury zamianuje przewodniczącego Naczelnik Państwa na wniosek Ministra Spraw Wewnętrznych, - uchwalony przez Radę Ministrów; 6 członków i 3 zastępców Wydziału wybierze Sejm Rzeczypospolitej Polskiej na propozycję Rządu. Wybrani członkowie Wydziału powołują ze swego grona zastępcą przewodniczącego. Na przewodniczącego Tymczasowego Wydziału Samorządowego przechodzą atrybucje, dotąd Marszałkowi Krajowemu przysługujące."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Aż do ustawowego zorganizowania ciał samorządnych wyższego rządu i określenia ich kompetencji skarbowej, pobierane będą nadal, przewidziane w ustawach dotychczas obowiązujących w b. Królestwie Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem, dodatki krajowe od podatków oraz wszelkie opłaty krajowe i wpływać one będą na rzecz Skarbu Państwa na rachunek wydatków, połączonych ze spełnianiem przez Tymczasowy Wydział Samorządowy zadań mu przydzielonych. Tymczasowy Wydział Samorządowy przedłoży Sejmowi Rzeczypospolitej Polskiej do zatwierdzenia preliminarz dochodów i wydatków."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wraz z objęciem przez Tymczasowy Wydział Samorządowy agend Wydziału Krajowego b. Królestwa Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem - wszyscy stali funkcjonarjusze tegoż Wydziału, jego zakładów i instytucji przechodzą po złożeniu przepisanej przysięgi, względnie ślubowania na etat Państwa Polskiego i stają się funcjonarjuszami państwowymi."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wszystkie sprzeczne z niniejszą ustawą krajowe i państwowe ustawy, tudzież rozporządzenia, patenty i inne przepisy prawne, dotąd w b. Królestwie Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem obowiązujące - tracą moc."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa ta wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

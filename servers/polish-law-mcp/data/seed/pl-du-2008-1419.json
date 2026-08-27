@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-1419",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 października 2008 r. o zmianie ustawy o dochodach jednostek samorządu terytorialnego",
+  "title_en": "",
+  "short_name": "pl-du-2008-1419",
+  "status": "repealed",
+  "issued_date": "2008-10-17",
+  "in_force_date": "2008-12-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1419",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego ( Dz. U. z 2008 r. Nr 88, poz. 539 ) w art. 42: 1) w ust. 2 po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu, w szczególności wśród dzieci i młodzieży a także sportu osób niepełnosprawnych; ” ; 2) po ust. 6 dodaje się ust. 7 i 8 w brzmieniu: „ 7. Minister właściwy do spraw kultury fizycznej i sportu dokonuje podziału środków, o których mowa w ust. 2 pkt 5a, oraz przekazuje je jednostkom samorządu terytorialnego. 8. Minister właściwy do spraw kultury fizycznej i sportu określi, w drodze rozporządzenia, zakres zadań, o których mowa w ust. 2 pkt 5a, objętych dofinansowaniem z budżetu państwa oraz sposób i tryb udzielania dotacji na te zadania, uwzględniając w szczególności znaczenie i charakter zadań związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu przede wszystkim wśród dzieci i młodzieży a także sportu osób niepełnosprawnych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

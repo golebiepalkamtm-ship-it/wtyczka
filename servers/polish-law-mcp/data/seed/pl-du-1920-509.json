@@ -1,0 +1,122 @@
+{
+  "id": "pl-du-1920-509",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. o opłatach stemplowych od ubezpieczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1920-509",
+  "status": "in_force",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/509",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przedmiotem opłaty w myśl niniejszej ustawy są: 1) wszelkie umowy zabezpieczenia, zawierane przez zawodowe instytucje ubezpieczeniowe tak akcyjne, jak i na wzajemności oparte lub państwowe; 2) wypłaty sum ubezpieczonych przez powyższe instytucje."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Opłata stemplowa wynosi przy wszystkich bez wyjątku rodzajach ubezpieczeń: 1) 3% od ogólnej sumy składek, pobieranych przez ubezpieczającego w roku rachunkowym; 2) 1% od wypłacanych sum ubezpieczonych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podstawę obliczania opłat stanowi: 1) ogólna w bilansie wykazana suma składek, wyrażonych w kwotach pieniężnych, zebranych w ciągu każdego roku rachunkowego za ubezpieczenia z każdego działu; 2) ogólna suma wypłat, dokonanych w ciągu każdego roku rachunkowego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Z łącznej sumy składek, wymienionych w art. 2 ust. 1, należy przy obliczeniu opłaty potrącić niepobrane składki lub odpisane w całości lub w części z powodu nie dojścia doskutku lub późniejszego rozwiązania umowy. (Storno całkowite lub częściowe), a przy zakładach ubezpieczeń, opartych na wzajemnej odpowiedzialności członków - również zwroty (bonus), wypłacone ubezpieczonym tytułem udziału w zyskach."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Opłata, określona w art. 2, mieści w sobie wszystkie opłaty stemplowe od dokumentów, wystawionych w związku z umową ubezpieczeniową, z wyjątkiem weksli oraz innych dokumentów, wystawionych przez ubezpieczonych na pokrycie należnych od nich składek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Od opłat, przewidzianych niniejszą ustawą, wolne są wszelkie umowy, zawierane przez instytucje przymusowych ubezpieczeń społecznych, dalej umowy reasekuracyjne oraz umowy ubezpieczenia, zawierane poza granicami Rzeczypospolitej przez zagraniczne oddziały polskich instytucji ubezpieczeniowych, o ile tam podlegają odpowiedniemu opodatkowaniu. Natomiast zagraniczne zakłady ubezpieczeń, zawierające przez swych przedstawicieli umowy ubezpieczeniowe w Polsce, opłacają od nich przewidziane w niniejszej ustawie opłaty narówni z krajowemi instytucjami ubezpieczeniowemu"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Umowy ubezpieczenia nie podlegają przepisom niniejszej ustawy, jeśli zakład ubezpieczeń otrzymuje tytułem składki na własność majątek nieruchomy. Do takich umów należy stosować przepisy o opłatach od kontraktów zamiennych, stanowiących tytuł prawny przejścia własności nieruchomości."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Obowiązek uiszczenia opłat w myśl art. 1, 2 i 3 ciąży na ubezpieczającym, który jednak ma prawo żądać od ubezpieczonego zwrotu tych wydatków. Opłaty te uiszcza się bezpośrednio do kas skarbowych bez uprzedniego urzędowego wymiaru."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Na poczet opłaty od umów ubezpieczenia, zawartych w bieżącym roku rachunkowym, oraz od wypłat sum ubezpieczonych, dokonanych w tymże czasokresie, uiszcza się w ciągu dni 14 po upływie każdego kwartału kalendarzowego 25% opłaty obliczonej za cały poprzedni rok rachunkowy. Po zamknięciu roku rachunkowego opłatę, przypadającą w myśl art. 1 - 3 w poszczególnych działach ubezpieczeń, oblicza się wedle zamknięć rachunkowych i obliczenie to, oraz dane, na których podstawie nastąpiło, składa się właściwej władzy skarbowej w terminie miesięcznym po zatwierdzeniu zamknięć rachunkowych zakładu celem sprawdzenia. Jednocześnie wpłaca się do kasy skarbowej różnicę między sumą, - wniesioną w myśl ustępu pierwszego na poczet opłaty za cały rok ubiegły, a sumą opłaty, przypadającą na podstawie obliczenia. Ostateczne wyrównanie opłaty nastąpi po ustaleniu jej wysokości przez władzę skarbową."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "W razie nieuiszczenia opłaty lub jej części w terminach, ustalonych w art. 9, należą się odsetki za zwłokę w wysokości 1% za miesiąc. Zaczęty miesiąc liczy się za cały."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Zwrotu opłaty, uiszczonej ponad ustaloną przez władzę skarbową kwotę, albo opłaty, która się nie należała, można żądać w ciągu sześciu miesięcy po upływie roku kalendarzowego, w którym orzeczenie o wymiarze opłaty (art. 9) stało się prawomocnem."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Prawo Skarbu do opłaty kończy się po upływie pięciu lat od chwili, w której powstał obowiązek uiszczenia opłaty. Bieg przedawnienia przerywa się przez wszelkie czynności urzędowe, zmierzające do ustalenia wysokości opłaty lub do jej uiszczenia, gdy wiadomość o tych czynnościach doszła do strony interesowanej."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Winny przedstawienia władzy skarbowej niezgodnych z prawdą okoliczności w celu uchylenia się od opłaty lub celem jej zmniejszenia, ulega karze, niezależnie od obowiązku uiszczenia brakującej opłaty w wysokości 20-krotnej sumy opłaty lub kwoty, o którą opłatę zmniejszono lub zmniejszyć usiłowano. Za inne przekroczenia przepisów niniejszej ustawy lub wydanych na jej podstawie rozporządzeń winny ulega karze do mk. 20.000."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Do ścigania i karania wykroczeń przeciw postanowieniom niniejszej ustawy powołane są władze skarbowe, od orzeczeń których odwoływać się można do władzy skarbowej, wyższej instancji; odwołanie wnosi się do władzy skarbowej, wskazanej w orzeczeniu, w terminie miesięcznym od doręczenia orzeczenia. Odwołanie takie nie wstrzymuje wykonania orzeczenia co do ściągnięcia opłat, natomiast wykonanie orzeczenia karnego wstrzymuje się aż do prawomocnego rozstrzygnięcia odwołania. Władza skarbowa ma prawo zaraz po wydaniu orzeczenia karnego zarządzić zabezpieczenie kary pieniężnej na majątku skazanego."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Krajowe zakłady ubezpieczeń oraz przedstawiciele takich zakładów zagranicznych obowiązani są w terminie i w sposób, który określi Minister Skarbu, podać do wiadomości władzy skarbowej swoją firmę i złożyć u tej władzy swoje statuty i warunki ubezpieczeń oraz donieść o każdej zmianie tych statutów i warunków. Przedstawicielom władzy skarbowej służy każdej chwili prawo wstępu do lokalów ubezpieczeniowych oraz przeglądania wszelkich ksiąg i dokumentów, które zakłady posiadają i w tym celu przechowywać winny, jak również zasięgania wszelkich informacji, potrzebnych do ustalenia opłat w myśl ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Aż do wydania dla całego Państwa ustawy o sądownictwie administracyjnem, decyzja wyższej władzy skarbowej, wydana na skutek odwołania, jest ostateczna. Do tego czasu zaskarżenie orzeczeń władz skarbowych nie może nastąpić w drodze sądowej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1-go października) 1920 r. Z tą chwilą tracą moc wszelkie dotychczas na ziemiach polskich obowiązujące przepisy o opłatach stemplowych od ubezpieczeń."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu, przyczem na obszarze b. dzielnicy pruskiej - w porozumieniu z Ministrem b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

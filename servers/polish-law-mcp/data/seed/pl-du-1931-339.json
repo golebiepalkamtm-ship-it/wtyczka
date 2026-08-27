@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-339",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 marca 1931 r. o zmianie niektórych przepisów ustawy z dnia 23 marca 1929 r. o opłatach od ogierów, nie posiadających świadectw uznania.",
+  "title_en": "",
+  "short_name": "pl-du-1931-339",
+  "status": "repealed",
+  "issued_date": "1931-03-21",
+  "in_force_date": "1931-04-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/339",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 23 marca 1929 r. o opłatach od ogierów, nie posiadających świadectw uznania (Dz. U. R. P. Nr 24, poz. 247), ulega następującym zmianom: 1) Art. 2 ust. 3 otrzymuje brzmienie: „ Opłata winna być uiszczona najpóźniej do dnia 1 kwietnia każdego roku do zarządu właściwej gminy (art. 5). W r. 1931 opłata winna być uiszczoną do dnia 1 września ” . 2) Art. 4 otrzymuje brzmienie: „ Od opłaty wolne są: a) ogiery, stanowiące własność Państwa; b) ogiery, które nie ukończyły trzech lat, licząc od dnia 1 stycznia roku urodzenia konia; c) ogiery, które przed dniem 1 stycznia 1931 r. ukończyły 15 lat; d) ogiery, które wskutek wad organicznych (np. przepukliny mosznowej, wnętrostwa i t. p.) nie mogą być poddane kastracji z uwagi na niebezpieczeństwo utraty życia; e) ogiery, używane do celów naukowych i leczniczych w zakładach i instytucjach naukowych, oraz f) ogiery, znajdujące się w kopalniach. Okoliczności, wymienione w punktach c) i d), muszą być stwierdzone na podstawie świadectwa, wydanego przez powiatowego lekarza weterynaryjnego. Od opłaty wolne są również ogiery, biorące udział w wyścigach, konkursach i innych próbach koni, z wyjątkiem wystaw i pokazów, pod warunkiem, że ich posiadacze mają poświadczenie, stwierdzające uczestnictwo ogierów w tych próbach. Poświadczenia te wydawać będzie Ministerstwo Rolnictwa. ” 3) Art. 5 otrzymuje brzmienie: „ Posiadacze ogierów, podlegających opłacie, winni ogiery te zgłaszać każdego roku, najpóźniej do dnia 1 lutego w zarządzie gminy właściwej dla miejsca, w którem ogier stale się znajduje. W r. 1931 zgłoszenie to winno nastąpić do dnia 1 lipca. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Rolnictwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Państwa. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

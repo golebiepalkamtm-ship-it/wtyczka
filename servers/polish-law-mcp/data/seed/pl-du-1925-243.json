@@ -1,0 +1,218 @@
+{
+  "id": "pl-du-1925-243",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1925 r. o izbach morskich.",
+  "title_en": "",
+  "short_name": "pl-du-1925-243",
+  "status": "repealed",
+  "issued_date": "1925-03-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/243",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przy sądzie powiatowym w Wejherowie i Urzędzie Marynarki Handlowej w Gdańsku ustananawia się izby morskie. Zadaniem izb morskich jest przeprowadzenie dochodzeń i wydawanie orzeczeń w sprawach wypadków morskich, którym ulegają statki handlowe."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dochodzenie ma miejsce, gdy wypadkowi morskiemu ulega lub wypadek spowoduje: 1) polski statek handlowy, 2) cudzoziemski statek handlowy: a) o ile wypadek zaszedł na terytorjalnych wodach polskich, b) jeżeli dochodzenie zarządzi Ministerstwo Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Izba morska obowiązana jest wszcząć dochodzenie: 1) w razie spowodowania przez wypadek morski śmierci człowieka, zatonięcia statku albo jego porzucenia, 2) w razie zarządzenia dochodzenia przez Ministerstwo Przemysłu i Handlu. W innych wypadkach wszczęcie dochodzenia zależy od uznania izby morskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dochodzenie ma na celu ustalenie przyczyn wypadku oraz wszystkich jego okoliczności, a w szczególności: 1) czy kapitan lub jego pomocnik spowodowali wypadek, względnie jego następstwa, działaniami swemi lub zaniedbaniem działań, 2) czy przyczyną wypadku, względnie jego następstw, były braki i wady w budowie, braki, wypływające z właściwości statku, braki i wady. wyekwipowania lub załadowania statku, albo obsadzenia go załogą, 3) czy wypadek, względnie jego następstwa, zaszły wskutek złego stanu drogi wodnej, braków i wad w urządzeniach pomocniczych, służących żegludze (znaków sygnalizacyjnych, urządzeń hydrograficznych, stacyj ratowniczych, organizacji pilotowej i t. d.), lub też wskutek działań osób, wyznaczonych do pilnowania wymienionych urządzeń, względnie zaniedbania działań, 4) czy zachowane zostały przepisy, mające na celu zapobieżenie zderzeniu się statków na morzu oraz przepisy o postępowaniu w razie zderzenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prowadzenie dochodzeń w sprawach wypadków morskich, przewidzianych w art. 2 ustawy niniejszej, w obrębie portu gdańskiego oraz wód terytorjalnych gdańskich należy do kompetencji izby morskiej w Gdańsku; prowadzenie dochodzeń we wszystkich innych sprawach należy do izby morskiej w Wejherowie. W razie sporu kompetencyjnego pomiędzy izbami morskiemi w Gdańsku i Wejherowie rozstrzyga morska izba odwoławcza."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kontrolę nad izbami morskiemi wykonywa Ministerstwo Przemysłu i Handlu w porozumieniu z Ministerstwem Sprawiedliwości. Rozdział II. Ustrój izb morskich."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Izby morskie urzędują kolegjalnie i składają się z przewodniczącego i 4 ławników. Przewodniczącymi są sędziowie państwowi, wyznaczeni przez Ministra Sprawiedliwości. Przynajmniej 2 ławników posiadać musi patent kapitana i mieć praktykę morską w charakterze kapitanów na statkach wielkiej żeglugi."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ministerstwo Przemysłu i Handlu sporządza na każdy rok naprzód listę osób, posiadających kwalifikacje na ławników, i komunikuje ją przewodniczącemu izby morskiej. Liczbę ławników, których należy wciągnąć na listę, ustala w miarę potrzeby Minister Przemysłu i Handlu. Przed sporządzeniem listy ministerstwo wysłucha opinji związków kapitanów, właścicieli statków, względnie zrzeszeń kupieckich, i porozumie się z kierownictwem Marynarki Wojennej, która wskaże swoich kandydatów na ławników."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Przewodniczący Izby morskiej wybiera z listy dla każdej sprawy 4 ławników i w razie potrzeby jednego zastępcę, powołuje ich i odbiera od nich przysięgę na sumienne wykonywanie obowiązków."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Urząd ławnika jest urzędem honorowym. Pełnić go może tylko obywatel polski. Niezdolnemi do sprawowania urzędu ławnika są: 1) osoby niewłasnowolne, 2) osoby, które skutkiem karno-sądowego zasądzenia utraciły zdolność do piastowania urzędów publicznych, 3) osoby, przeciw którym jest wniesiony akt oskarżenia o zbrodnię lub występek, które mogą pociągnąć za sobą pozbawienie obywatelskich praw honorowych lub zdolności do piastowania urzędów publicznych, 4) osoby umysłowo lub fizycznie ułomne, które wskutek swej ułomności uniemożliwiałyby lub utrudniały bieg postępowania."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Powołaniu do sprawowania urzędu ławnika mogą odmówić: 1) członkowie Sejmu i Senatu Rzeczypospolitej Polskiej, 2) osoby, które w chwili powołania ukończyły 65 rok życia, lub ukończyłyby go z upływem roku administracyjnego, 3) osoby, które w ostatnim roku pełniły obowiązki sędziego przysięgłego lub przynajmniej przez 5 dni posiedzeń obowiązki ławnika."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Przewodniczący rozstrzyga ostatecznie w sprawach wniosków o wyłączenie oraz w sprawach podań, zawierających usprawiedliwienia ławników. Ławnicy, którzy się spóźniają z przyczyn niedostatecznie uzasadnionych na sesje lub nie wypełniają swoich obowiązków, mogą ulec karze grzywny, przewidzianej ustawowo za niestawiennictwo świadków w sądzie. Kary wymierza przewodniczący. Jeżeli później ławnik przedstawi powody, usprawiedliwiające zaniedbanie obowiązków, kara może być zmniejszona lub uchylona. Od orzeczenia, wymierzającego karę, może ławnik odwołać się do Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Minister Przemysłu i Handlu ustanawia przy każdej z izb morskich delegata, uprawnionego do zgłaszania wniosków do Izby morskiej lub składania ich przewodniczącemu, uczestniczenia w rozprawach izby morskiej oraz przeglądania akt. Delegatowi przysługuje prawo wystąpienia z wnioskiem do Ministra Przemysłu i Handlu o zarządzenie dochodzenia, o ile przewodniczący izby morskiej odmówi wszczęcia dochodzenia."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Urzędy, uprawnione do przyjmowania doniesień o awarjach i wypadkach morskich, winny niezwłocznie o nich izby morskie zawiadomić, jak również o wszystkich innych, które doszły do ich wiadomości. O ile tym urzędem jest władza konsularna, to winna ona po otrzymaniu wiadomości o wypadku na morzu przedsięwziąć niezwłocznie zarządzenia celem ustalenia jego okoliczności i zawiadomić o tem Ministerstwo Przemysłu i Handlu. Rozdział III. Tryb postępowania."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Wszczęcie dochodzeń w myśl art. 2 i 3 zarządza przewodniczący. Do niego należy również przygotowanie rozprawy głównej, wyznaczenie jej terminu, wezwanie świadków i biegłych oraz przygotowanie materjału dowodowego. Przewodniczący może nawet przed zebraniem się izby morskiej zarządzić przesłuchanie, nadto zaprzysiężenie świadków, zwłaszcza w wypadkach, kiedy jest obawa o utratę dowodu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Jeżeli z powodu wypadku morskiego wszczęto dochodzenie sądowe, przewodniczący izby morskiej ma prawo zawiesić postępowanie w izbie morskiej aż do ukończenia dochodzenia sądowego. Jeżeli izba morska już się zebrała, prawo to jej przysługuje."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Izba morska jest uprawniona do dokonywania oględzin na miejscu, wzywania świadków i biegłych oraz przesłuchiwania ich pod przysięgą. O ile ustawa niniejsza nie stanowi inaczej, stosuje się odpowiednio przepisy obowiązującej ustawy postępowania karnego. Kary na świadków i rzeczoznawców nakłada i ściąga odpowiedni sąd na wniosek izby morskiej. Nie wolno stosować aresztu celem zmuszenia do zeznań."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Sądy oraz władze, wymienione w art. 14, winny w granicach swoich kompetencyj wnioski izb morskich załatwiać."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Rozprawy izby morskiej odbywają się publicznie i ustnie. Rozprawy te prowadzi przewodniczący. Na wstępie przedstawia on dotychczasowy przebieg sprawy i wyniki dochodzenia. Ławnikom oraz delegatowi Ministerstwa Przemysłu i Handlu za zezwoleniem przewodniczącego służy prawo stawiania pytań bezpośrednio osobom, przesłuchiwanym przez izbę morską."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Kapitan i pomocnicy kapitana statku, którego wypadek jest przedmiotem dochodzenia, mocją być. zaprzysiężeni w charakterze świadków tylko na zasadzie uchwały izby morskiej. Wymienione osoby mogą za zezwoleniem izby morskiej stawiać bezpośrednio pytania wezwanym na rozprawę. Nadto służy im prawo przybrania obrońców,"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Przewodniczący ma prawo uchylać pytanie. W razie uchylenia pytania przez przewodniczącego służy zadającemu odnośne pytanie prawo odwołania się do izby morskiej."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Uchwały izby morskiej zapadają większością głosów."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Z rozpraw ustnych spisuje się protokół, zawierający nazwiska biorących udział w rozprawie oraz istotne szczegóły rozprawy. Protokół podpisuje przewodniczący i prowadzący protokół zgodnie z art. 17 ustęp 2."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Po ukończeniu rozpraw izba morska orzeka o przyczynach wypadku morskiego. Orzeczenie winno być sporządzone na piśmie i ogłoszone na posiedzeniu publicznem w ciągu 14 dni. Winno ono zawierać motywy i w szczególności ustalony zapomocą dochodzenia materjał dowodowy. Odpis orzeczenia otrzymuje delegat Ministerstwa Przemysłu i Handlu oraz na żądanie kapitan i pomocnik kapitana."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Na wniosek delegata Ministerstwa Przemysłu i Handlu może izba morska w orzeczeniu pozbawić kapitana lub pomocnika kapitana polskiego statku prawa wykonywania zawodu, jeżeli się okaże, iż wskutek niezdolności do wykonywania zawodu spowodował wypadek lub jego następstwa. Kapitana, którego pozbawiono prawa wykonywania zawodu, może izba morska, wedle własnego uznania, pozbawić także prawa pełnienia nadal służby pomocnika kapitana."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Kapitanowi lub pomocnikowi kapitana, których pozbawiono prawa wykonywania zawodu, może Minister Przemysłu i Handlu po upływie dwóch lat przywrócić te prawa."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Kapitanowi oraz pomocnikowi kapitana, których w orzeczeniu pozbawiono prawa wykonywania zawodu, oraz delegatowi Ministerstwa Przemysłu i Handlu służy prawo odwołania się do odwoławczej izby morskiej. Odwołanie należy w ciągu 14 dni po ogłoszeniu orzeczenia, a w razie nieobecności odwołującego się na rozprawie w ciągu 14 dni po odebraniu przez niego orzeczenia, wnieść do protokółu izby morskiej lub złożyć na piśmie. Jeżeli odwołujący się nie otrzymał jeszcze orzeczenia, należy mu je dostarczyć w odpisie po wniesieniu odwołania. Najpóźniej w ciągu 14 dni po otrzymaniu odpisu umotywowanego orzeczenia odwołujący się winien uzasadnić odwołanie. Odwołanie nie zawiesza wykonania orzeczenia."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Zagranicą orzeczenie doręcza władza konsularna. Odwołanie z motywami można podać do konsulatu Rzeczypospolitej Polskiej. Władza konsularna może odroczyć termin umotywowania odwołania, nie dalej jednak, niż do czasu przybycia odwołującego się do polskiego portu."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Wysokość diet, jak również kosztów podróży dla ławników określają rozporządzenia, wydane przez Ministra Przemysłu i Handlu w porozumieniu z Ministrami: Sprawiedliwości i Skarbu."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Przy sądzie okręgowym w Starogardzie ustanawia się odwoławczą izbę morską. Izba morska odwoławcza urzęduje kolegjalnie i składa się z przewodniczącego oraz 6 ławników, z których przynajmniej trzej winni posiadać dyplomy kapitana wielkiej żeglugi i odpowiednią praktykę morską. Przewodniczącego oraz jego zastępcę mianuje Minister Sprawiedliwości z pośród sędziów państwowych na przeciąg trzech lat. Przepisy artykułów 8 - 26 stosują się odpowiednio. Wszelkie zarządzenia, prócz zapadłych na rozprawie głównej postanowień, wydaje przewodniczący."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Izba morska odwoławcza może zarządzić dopełnienie lub wznowienie dochodzenia, lub też sama je wykonać. Przewodniczący może polecić członkowi izby morskiej odwoławczej zreferować wyniki dotychczasowych rozpraw i dochodzeń. Rozdział IV. Przepisy końcowe."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Ustawa niniejsza znosi niemiecką ustawę w przedmiocie dochodzenia wypadków morskich (Dz. Ust. Rzeszy Niemieckiej, str. 549) oraz inne z niniejszą ustawą niezgodne."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Przemysłu i Handlu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Ustawa niniejsza wchodzi w życie 15-go dnia po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_I\",\"symbol\": \"chpt_I\",\"type\": \"chpt\",\"name\": \"I\",\"title\": \"Rozdział I. - Cel i zadania.\",\"children\": [{\"id\": \"chpt_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_I-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_I-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_I-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_I-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_I-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_I-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_I-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_I-arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"}]},{\"id\": \"chpt_II\",\"symbol\": \"chpt_II\",\"type\": \"chpt\",\"name\": \"II\",\"title\": \"Rozdział II. - Ustrój izb morskich.\",\"children\": [{\"id\": \"chpt_II-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_II-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_II-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_II-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_II-arti_10-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_II-arti_10-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_II-arti_10-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_II-arti_10-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_II-arti_11-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_II-arti_11-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_II-arti_11-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_II-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_II-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"}]},{\"id\": \"chpt_III\",\"symbol\": \"chpt_III\",\"type\": \"chpt\",\"name\": \"III\",\"title\": \"Rozdział III. - Tryb postępowania.\",\"children\": [{\"id\": \"chpt_III-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_III-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_III-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_III-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_III-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_III-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"chpt_III-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"chpt_III-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_III-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_III-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"chpt_III-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_III-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_III-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_III-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_III-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"chpt_III-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"chpt_III-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"}]},{\"id\": \"chpt_IV\",\"symbol\": \"chpt_IV\",\"type\": \"chpt\",\"name\": \"IV\",\"title\": \"Rozdział IV. - Przepisy końcowe.\",\"children\": [{\"id\": \"chpt_IV-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"chpt_IV-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"chpt_IV-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

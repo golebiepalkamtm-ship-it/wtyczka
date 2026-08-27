@@ -1,0 +1,140 @@
+{
+  "id": "pl-du-1974-157",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 1974 r. o funduszu alimentacyjnym.",
+  "title_en": "",
+  "short_name": "pl-du-1974-157",
+  "status": "repealed",
+  "issued_date": "1974-07-18",
+  "in_force_date": "1974-07-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1974/157",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się fundusz alimentacyjny przeznaczony na wypłatę świadczeń pieniężnych dla dzieci i innych osób znajdujących się w trudnej sytuacji materialnej z powodu niemożności wyegzekwowania świadczeń alimentacyjnych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dysponentem funduszu alimentacyjnego jest Zakład Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Na dochody funduszu alimentacyjnego składają się: 1) należności ściągnięte od osób zobowiązanych do alimentacji, 2) dotacje z budżetu Państwa, 3) wpłaty dobrowolne i inne wpływy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Świadczenia z funduszu alimentacyjnego przysługują osobie zamieszkałej w Polsce, dla której alimenty ustalone zostały prawomocnym wyrokiem, postanowieniem w sprawie o rozwód lub ugodą zawartą przed sądem i egzekucja tych alimentów okazała się bezskuteczna, do wysokości świadczeń z funduszu alimentacyjnego, określonej w ust. 2. 2. Świadczenia z funduszu alimentacyjnego wypłaca się w wysokości bieżących świadczeń alimentacyjnych, jednakże w kwocie nie wyższej niż 500 złotych miesięcznie na osobę uprawnioną."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Świadczenia z funduszu alimentacyjnego nie przysługują osobie, która: 1) otrzymuje pełne utrzymanie z funduszów państwowych lub społecznych, a w szczególności: a) odbywa czynną służbę wojskową, b) przebywa w zakładzie opiekuńczym, wychowawczym, w domu rencisty lub w innym tego rodzaju zakładzie, albo 2) uzyskuje przeciętny miesięczny dochód przekraczający kwotę 1.400 złotych lub pozostaje na utrzymaniu osoby zobowiązanej do świadczeń alimentacyjnych, jeżeli przeciętny dochód tej osoby wraz z dochodami członków jej rodziny, pozostających we wspólności domowej, przekracza miesięcznie kwotę 1.400 złotych na osobę. 2. Rada Ministrów może w drodze rozporządzenia podwyższyć wysokość kwoty miesięcznego dochodu określonego w ust. 1 pkt 2, jak również wysokość świadczeń z funduszu alimentacyjnego określonych w art. 4 ust. 2."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Świadczenia z funduszu alimentacyjnego przyznaje Zakład Ubezpieczeń Społecznych na wniosek osoby uprawnionej lub organizacji społecznej właściwej według przepisów o postępowaniu cywilnym do występowania w sprawach o roszczenia alimentacyjne. Wniosek składa się za pośrednictwem organu prowadzącego egzekucję alimentów; organ ten przekazuje wniosek łącznie z informacją o bezskuteczności egzekucji alimentów. 2. Świadczenia z funduszu alimentacyjnego przyznaje się poczynając od miesiąca, w którym złożony został do Zakładu Ubezpieczeń Społecznych należycie sporządzony wniosek. Wypłata świadczeń następuje w okresach miesięcznych w dniu oznaczonym w decyzji. 3. Osoba, której przyznano świadczenia z funduszu alimentacyjnego, a także osoba zobowiązana do świadczeń alimentacyjnych, przeciwko której prowadzona jest egzekucja alimentów, oraz organ egzekucyjny w zakresie okoliczności dotyczących egzekucji alimentów - obowiązane są do zawiadamiania Zakładu Ubezpieczeń Społecznych o każdej zmianie okoliczności, mających wpływ na wypłatę świadczeń z tego funduszu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zakład Ubezpieczeń Społecznych podejmuje decyzję w przedmiocie przyznania świadczeń z funduszu alimentacyjnego na podstawie wniosku, informacji organu egzekucyjnego o bezskuteczności egzekucji alimentów oraz oświadczenia osoby uprawnionej, że nie zachodzą okoliczności, o których mowa w art. 5 ust. 1."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Osoby pobierające świadczenia z funduszu alimentacyjnego, a także osoby zobowiązane do świadczeń alimentacyjnych na rzecz tych osób oraz inne osoby, jak również organy egzekucyjne, instytucje państwowe i organizacje społeczne obowiązane są do udzielania na żądanie Zakładu Ubezpieczeń Społecznych wyjaśnień oraz informacji co do okoliczności mających wpływ na wypłatą świadczeń z tego funduszu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Osoba, która bezpodstawnie pobrała świadczenia z funduszu alimentacyjnego, obowiązana jest do zwrotu tych świadczeń, 2. Decyzję o obowiązku zwrotu świadczeń bezpodstawnie pobranych wydaje Zakład Ubezpieczeń Społecznych. Świadczenia te ściąga się w trybie egzekucji administracyjnej świadczeń pieniężnych. 3. Zakład Ubezpieczeń Społecznych w szczególnie uzasadnionych wypadkach może umorzyć należności z tytułu zwrotu bezpodstawnie pobranych świadczeń z funduszu alimentacyjnego."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Zakład Ubezpieczeń Społecznych wstrzymuje wypłatę świadczeń z funduszu alimentacyjnego: 1) w wypadku wyjazdu uprawnionego za granicę na pobyt dłuższy niż dwa miesiące, 2) jeżeli na skutek niemożności ustalenia adresu uprawnionego lub z innych przyczyn nie można dokonać wypłat temu uprawnionemu, 3) jeżeli uprawniony lub jego przedstawiciel ustawowy odmówi udzielenia lub nie udzieli w wyznaczonym terminie wyjaśnień co do okoliczności, mających wpływ na wypłatę świadczeń. 2. Po ustaniu przyczyn wstrzymania wypłaty świadczeń z funduszu alimentacyjnego Zakład Ubezpieczeń Społecznych podejmuje decyzję co do wypłaty tych świadczeń w części lub całości za okres wstrzymania wypłat, nie dłuższy jednak niż sześć miesięcy. 3. Jeżeli wznowienie wypłaty świadczeń nie nastąpi w ciągu jednego roku od jej wstrzymania, postępowanie w sprawie wypłat ulega umorzeniu z mocy prawa"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Zakład Ubezpieczeń Społecznych podejmuje decyzję o zaprzestaniu wypłaty świadczeń z funduszu alimentacyjnego, gdy odpadnie chociażby jeden z warunków, od których zależy przyznanie tych świadczeń. W wypadku gdy osobą uprawnioną do świadczeń był małoletni, Zakład Ubezpieczeń Społecznych zaprzestaje wypłaty świadczeń po osiągnięciu przez niego pełnoletności, chyba że kształci się w szkole albo z powodu innych okoliczności nie ma możliwości samodzielnego utrzymania się. 2. Zakład Ubezpieczeń Społecznych może odstąpić od wydania decyzji o zaprzestaniu wypłaty świadczeń, jeżeli odpadł warunek, o którym mowa w art. 5 ust. 1 pkt 2, a zaprzestanie wypłaty tych świadczeń spowodowałoby istotne pogorszenie sytuacji materialnej osoby uprawnionej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Po wydaniu decyzji w przedmiocie świadczeń z funduszu alimentacyjnego postępowanie egzekucyjne przeciwko osobie zobowiązanej do świadczeń alimentacyjnych na podstawie tytułu egzekucyjnego ustalającego alimenty na rzecz osoby pobierającej świadczenia z funduszu alimentacyjnego prowadzi się w dalszym ciągu według przepisów Kodeksu postępowania cywilnego , ze zmianami wynikającymi z przepisów art. 13 i 14."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Organ egzekucyjny przekazuje Zakładowi Ubezpieczeń Społecznych sumy przypadające na zaspokojenie należności alimentacyjnych aż do pełnego pokrycia wypłaconych świadczeń z funduszu alimentacyjnego. 2. Wniosek osoby uprawnionej o zawieszenie lub umorzenie postępowania egzekucyjnego wymaga zgody Zakładu Ubezpieczeń Społecznych. 3. Do udziału Zakładu Ubezpieczeń Społecznych w postępowaniu egzekucyjnym stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego dotyczące egzekucji na rzecz jednostek gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Osoba, przeciwko której prowadzona jest egzekucja alimentów na rzecz osoby pobierającej świadczenia z funduszu alimentacyjnego, nie może żądać: 1) uchylenia lub ograniczenia obowiązku alimentacyjnego za okres poprzedzający zgłoszenie żądania ani 2) zwolnienia od egzekucji, powołując się na zapłacenie alimentów do rąk osoby uprawnionej, jeżeli naruszałoby to prawa Zakładu Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Osoba, przeciwko której prowadzona jest egzekucja alimentów na rzecz osoby pobierającej świadczenia z funduszu alimentacyjnego, zobowiązana jest do uiszczania opłat na pokrycie kosztów związanych z działalnością tego funduszu. 2. Minister Pracy, Płac i Spraw Socjalnych określi w drodze rozporządzenia wysokość opłat przewidzianych w ust. 1. 3. Opłaty wymienione w ust. 1 podlegają ściągnięciu w postępowaniu egzekucyjnym wskazanym w art. 12."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Przewidziane w ustawie decyzje Zakładu Ubezpieczeń Społecznych wydają organy tego Zakładu właściwe ze względu na siedzibę organu prowadzącego egzekucję wskazaną w art. 12. 2. Od decyzji, o których mowa w ust. 1 przysługuje odwołanie do rady nadzorczej oddziału Zakładu Ubezpieczeń Społecznych w trybie i na zasadach określonych w przepisach o postępowaniu przed tymi organami. Orzeczenie rady nadzorczej jest ostateczne."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. W sprawach świadczeń z funduszu alimentacyjnego stosuje się przepisy Kodeksu postępowania administracyjnego , ze zmianami wynikającymi z przepisów niniejszej ustawy. 2. Szczegółowe zasady i tryb postępowania oraz pokrywania należności za czynności organu egzekucyjnego w sprawach świadczeń, a także obliczania dochodu, o którym mowa w art. 5 ust. 1 pkt 2, określą w drodze rozporządzenia Ministrowie Pracy, Płac i Spraw Socjalnych oraz Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W Kodeksie postępowania cywilnego ( Dz. U. z 1964 r. Nr 43, poz. 296 i z 1965 r. Nr 15, poz. 113 ) wprowadza się następujące zmiany: 1) w art. 761 dodaje się § 3 w brzmieniu: „ § 3. Dłużnik, który został zawiadomiony o wszczęciu egzekucji, obowiązany jest do powiadomienia w terminie 7 dni organu egzekucyjnego o każdej zmianie miejsca swego pobytu, trwającej dłużej niż jeden miesiąc. O obowiązku tym oraz o skutkach jego zaniedbania poucza się dłużnika przy zawiadomieniu go o wszczęciu egzekucji. ” ; 2) w art. 762 w § 1 wyrazy: „tysiąca pięćset złotych” zastępuje się wyrazami: „trzech tysięcy złotych” oraz dodaje się zdanie drugie w brzmieniu: „Grzywną taką może być również ukarany dłużnik, który zaniedba obowiązku powiadomienia o zmianie miejsca swego pobytu.” ; 3) w art. 831 § 1 pkt 5 wyraz: „ubezpieczenia” zastępuje się wyrazami: „ubezpieczenia od klęsk żywiołowych” oraz wyraz: „danego” zastępuje się wyrazem: „tego” ; 4) w art. 881 § 3 pkt 1 wyrazy: „o każdorazowej wypłacie” zastępuje się wyrazami: „o pierwszej wypłacie” 5) w art. 882: a) dotychczasowa treść tego przepisu otrzymuje oznaczenie § 1, w paragrafie tym dodaje się pkt 2 w brzmieniu: „ 2) podał, w jakiej kwocie i w jakich terminach zajęte wynagrodzenie będzie przekazywane wierzycielowi ” , a dotychczasowy pkt 2 otrzymuje oznaczenie pkt 3, b) dodaje się § 2 w brzmieniu: „ § 2. Zakład pracy obowiązany jest do niezwłocznego zawiadomienia komornika oraz wierzyciela o każdej zmianie okoliczności wymienionych w § 1 ” ; 6) w art. 884 dodaje się § 4 w brzmieniu: „ § 4. Obowiązek powiadomienia komornika o zmianie zakładu pracy obciąża również dłużnika. O obowiązku tym oraz o skutkach jego zaniedbania dłużnik powinien być pouczony przy zawiadomieniu go o zajęciu wynagrodzenia za pracę ” ; 7) w art. 886: a) w § 1 wyrazy: „do dwóch tysięcy złotych” zastępuje się wyrazami: „do trzech tysięcy złotych” , b) dodaje się § 4 w brzmieniu: „ § 4. Grzywnę określoną w § 1 komornik wymierzy również dłużnikowi, który nie powiadomił go o zmianie zakładu pracy. ” ; 8) w art. 1081: a) w § 2 wyrazy: „sądu właściwości ogólnej zakładu pracy” zastępuje się wyrazami: „sądu ogólnej właściwości dłużnika” , b) dodaje się § 3 i 4 w brzmieniu: „ § 3. Jeżeli dłużnik odbywa karę pozbawienia wolności, wierzyciel może złożyć tytuł wykonawczy bezpośrednio naczelnikowi zakładu karnego, który obowiązany jest wypłacać wierzycielowi należności za pracę dłużnika lub jego pieniądze znajdujące się w depozycie zakładu karnego, w granicach określonych w art. 53 Kodeksu karnego wykonawczego . § 4. Przewidziana w § 3 wypłata nie może być dokonywana, jeżeli wnioski złożyło kilku wierzycieli, a należności za pracę dłużnika lub jego pieniądze znajdujące się w depozycie zakładu karnego nie wystarczają na zaspokojenie wszystkich należności tych wierzycieli lub jeżeli są zajęte przez organ egzekucyjny ” ; 9) w art. 1083: a) dodaje się § 2 w brzmieniu: „ § 2. Wierzytelności z rachunku bankowego stanowiące wkład oszczędnościowy podlegają egzekucji na zaspokojenie alimentów w pełnej wysokości. ” , b) dotychczasowy § 2 otrzymuje oznaczenie § 3; 10) w art. 1086: a) dotychczasową treść przepisu oznacza się jako § 1, b) dodaje się § 2 w brzmieniu: „ § 2. Dochodzenia powinny być przeprowadzane okresowo w odstępach nie dłuższych niż jeden rok. Bezskuteczność egzekucji nie stanowi podstawy umorzenia postępowania. ” ; 11) w art. 1088 po wyrazach: „tytułu drugiego” dodaje się wyrazy: „oraz art. 1075-1078” ."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "W art. 40 ustawy z dnia 13 kwietnia 1960 r. o prawie bankowym ( Dz. U. Nr 20, poz. 121 , z 1964 r. Nr 8, poz. 50 , z 1966 r. Nr 24, poz. 151 i z 1972 r. Nr 53, poz. 340 ) po wyrazie: „skarbową” dodaje się wyrazy: „albo sprawą o alimenty lub rentę mającą charakter alimentów” ."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "W art. 186 Kodeksu karnego ( Dz. U. z 1969 r. Nr 13, poz. 94 ) skreśla się § 3."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1975 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_10-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_18-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_18-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_18-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_18-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_18-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_18-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_18-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_18-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_18-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\",\"children\": [{\"id\": \"arti_18-pint_8-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-pint_8-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_18-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\",\"children\": [{\"id\": \"arti_18-pint_9-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-pint_9-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_18-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\",\"children\": [{\"id\": \"arti_18-pint_10-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_18-pint_10-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_18-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-414",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 sierpnia 1919 r. w przedmiocie sekwestru zbiorników i cystern naftowych.",
+  "title_en": "",
+  "short_name": "pl-du-1919-414",
+  "status": "in_force",
+  "issued_date": "1919-08-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/414",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszystkie znajdujące się na terenach Rzeczypospolitej zbiorniki naftowe waz z związanemi z niemi instalacjami do rozlewu oraz cysterny wagonowe mogą być zasekwestrowane przez Ministerstwo Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "O każdym wypadku sekwestru i o mianowaniu sekwestratora Minister Przemysłu i Handlu poda do publicznej wiadomości w gazecie urzędowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ministerstwo Przemysłu i Handlu będzie płacić właścicielom zasekwestrowanych w myśl art. 1-go przedmiotów wynagrodzenie, którego wysokość określona będzie w stosunku do przepuszczonego przez nie towaru."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Z dniem wejścia w życie niniejszej ustawy ustaje moc prawa dekretu z 7 lutego 1919 (Dz. Pr, poz. 169)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie tej ustawy poleca się Ministrowi Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem jej ogłoszenia w Dzienniku Ustaw. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

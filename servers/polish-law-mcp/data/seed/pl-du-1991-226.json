@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-226",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 1991 r. o zmianie ustawy - Kodeks pracy.",
+  "title_en": "",
+  "short_name": "pl-du-1991-226",
+  "status": "amended",
+  "issued_date": "1991-03-23",
+  "in_force_date": "1991-06-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/226",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy ( Dz. U. Nr 24, poz. 141 , z 1975 r. Nr 16, poz. 91 , z 1981 r. Nr 6, poz. 23 , z 1982 r. Nr 31, poz. 214 , z 1985 r. Nr 20, poz. 85 i Nr 35, poz. 162 , z 1986 r. Nr 42, poz. 201 , z 1987 r. Nr 21, poz. 124 , z 1988 r. Nr 20, poz. 134 , z 1989 r. Nr 20, poz. 107 i Nr 35, poz. 192 oraz z 1990 r. Nr 4, poz. 19 , Nr 43, poz. 251 i Nr 55, poz. 319 ) po art. 207 dodaje się art. 207 1 w brzmieniu: „ Art. 207 1 . § 1. Zakład pracy zatrudniający więcej niż 10 pracowników, z zastrzeżeniem § 2 i 3, tworzy służbę bezpieczeństwa i higieny pracy, zwaną dalej „służbą bhp”, jako organ doradczy, wykonawczy i kontrolny kierownika zakładu w zakresie bezpieczeństwa i higieny pracy. § 2. Zakład pracy zatrudniający nie więcej niż 100 pracowników może powierzyć wykonywanie zadań służby bhp pracownikowi zatrudnionemu przy innej pracy. § 3. Zakład pracy zatrudniający nie więcej niż 50 pracowników może zlecić wykonywanie zadań służby bhp wyspecjalizowanej osobie trzeciej. § 4. Kompetencje i organizację służby bhp, kwalifikacje pracowników służby bhp i pracowników, o których mowa w § 2, a także zasady i tryb zlecania zadań służby bhp określa Rada Ministrów. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

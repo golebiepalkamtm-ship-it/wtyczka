@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-827",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. o sprzedaży niektórych gruntów państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1931-827",
+  "status": "in_force",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/827",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż niżej wymienionych gruntów państwowych, będących w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe”: 1) parceli Nr. 382/169 o powierzchni 924 m 2 , położonej w gminie Góra, w powiecie żnińskim, w województwie poznańskiem i zapisanej w księdze gruntowej Góra tom III wykaz L. 69; 2) gruntu o powierzchni 1.162 m 2 , wydzielonego z parceli L. kat. 1749, w gminie katastralnej Krowodrza, zapisanej w księdze kolejowej Kraków - Podgórze (kolej cyrkumwalacyjna), a oznaczonego według uskutecznionego w katastrze podziału liczbą 1749/2."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

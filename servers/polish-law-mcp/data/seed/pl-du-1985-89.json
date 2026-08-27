@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1985-89",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 kwietnia 1985 r. o ustanowieniu \"Medalu Rodła\".",
+  "title_en": "",
+  "short_name": "pl-du-1985-89",
+  "status": "repealed",
+  "issued_date": "1985-04-18",
+  "in_force_date": "1985-05-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1985/89",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się medal pod nazwą „Medal Rodła”, zwany dalej „Medalem”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Medal nadawany będzie w okresie od dnia 9 maja 1985 r. do dnia 9 maja 1990 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Medal nadaje się w uznaniu zasług w działalności na rzecz zachowania świadomości narodowej i kultury polskiej wśród Polaków zamieszkałych na terenach byłego państwa niemieckiego i byłego Wolnego Miasta Gdańska, w walce o prawa Polaków na tych terenach, a także w działalności na rzecz odbudowy i integracji z Macierzą prastarych piastowskich ziem zachodnich i północnych po ich odzyskaniu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Medal nadaje się byłym członkom Związku Polaków w Niemczech i Wolnym Mieście Gdańsku oraz innych stowarzyszeń i organizacji prowadzących przed powrotem do Macierzy prastarych piastowskich ziem zachodnich i północnych działalność społeczno-polityczną, gospodarczą, kulturalną i w innych dziedzinach na rzecz ludności polskiej zamieszkałej na terenach wymienionych w art. 3 i w zakresie wymienionym w tym przepisie. 2. Medal nadaje się również osobom szczególnie zasłużonym w odbudowie i integracji z Macierzą prastarych piastowskich ziem zachodnich i północnych. 3. W szczególnie uzasadnionych wypadkach Medal może być nadany również pośmiertnie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Medal nadaje Rada Państwa. 2. Rada Państwa określa: 1) uprawnionych do przedstawiania wniosków o nadanie Medalu, 2) tryb przedstawiania wniosków o nadanie Medalu, 3) zasady nadawania oraz tryb wręczania odznaki Medalu i legitymacji, 4) sposób noszenia Medalu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Odznaką Medalu jest medal o średnicy 38 mm, wykonany z tombaku posrebrzanego, oksydowanego. Na awersie, pośrodku, umieszczony jest znak rodła z orłem piastowskim, z napisem na obrzeżu: „Nie rzucim ziemi, skąd nasz ród...”. Na rewersie, pośrodku, umieszczona jest stylizowana mapa Polski oraz litery „PRL”, z napisem na obrzeżu: „Bojownikom - budowniczym polskości” oraz herbami symbolizującymi Śląsk, Pomorze, Warmię i Mazury. 2. Medal nosi się na wstążce o szerokości 40 mm, w kolorze turkusowym, oblamowanej z dwóch stron wąskimi paskami w kolorach czerwonym i białym. 3. Wzór rysunkowy odznaki Medalu wraz ze wstążką zawiera załącznik do ustawy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik - Medal Rodła wraz ze wstążką (wzór) (Załącznik do ustawy stanowi oddzielną wkładkę) Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_5-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Medal Rodła wraz ze wstążką (wzór)\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

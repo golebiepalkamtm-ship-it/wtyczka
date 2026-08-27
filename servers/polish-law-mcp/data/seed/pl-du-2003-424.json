@@ -1,0 +1,318 @@
+{
+  "id": "pl-du-2003-424",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych",
+  "title_en": "",
+  "short_name": "pl-du-2003-424",
+  "status": "repealed",
+  "issued_date": "2003-02-14",
+  "in_force_date": "2003-03-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/424",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady i tryb udostępniania przez przedsiębiorców informacji gospodarczych dotyczących wiarygodności płatniczej innych przedsiębiorców i konsumentów, w szczególności danych o zwłoce w wykonywaniu zobowiązań pieniężnych, osobom trzecim nieoznaczonym w chwili przeznaczania tych danych do udostępniania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Przez informację gospodarczą rozumie się następujące dane dotyczące: 1) podmiotu będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej: a) oznaczenie, b) siedziba i adres, c) numer, pod którym podmiot wpisany jest do właściwego rejestru, wraz z oznaczeniem sądu rejestrowego, d) numer identyfikacji podatkowej, e) numer REGON, f) imiona i nazwiska osób wchodzących w skład organów zarządzających, prokurentów lub pełnomocników podmiotu, g) główny przedmiot działalności gospodarczej; 2) osoby fizycznej: a) imiona i nazwisko, b) obywatelstwo, c) adres miejsca zameldowania na pobyt stały lub czasowy, d) numer PESEL, e) seria i numer dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, f) data urodzenia oraz w przypadku osoby fizycznej będącej przedsiębiorcą: g) oznaczenie, h) siedziba i adres, i) numer identyfikacji podatkowej, j) numer REGON, k) numer, pod którym podmiot wpisany jest do właściwego rejestru, wraz z oznaczeniem sądu rejestrowego, l) imiona i nazwiska pełnomocników, o ile są ustanowieni, m) główny przedmiot działalności gospodarczej; 3) zobowiązania pieniężnego: a) tytuł prawny, b) kwota i waluta, c) kwota zaległości, d) termin powstania zaległości, e) stan postępowań dotyczących zobowiązania, w tym informacja o orzeczeniach sądowych, f) informacja o kwestionowaniu przez dłużnika istnienia całości lub części zobowiązania, g) data wysłania wezwania do zapłaty, zawierającego ostrzeżenie o zamiarze przekazania danych do biura, z podaniem firmy i adresu siedziby tego biura, h) inne informacje - przekazane w trybie i na zasadach określonych w art. 10; 4) posłużenia się podrobionym lub cudzym dokumentem: a) nazwa dokumentu, b) seria i numer dokumentu, c) data wystawienia dokumentu, d) oznaczenie, siedziba i adres podmiotu wskazanego w dokumencie jako jego wystawca, e) imiona i nazwisko osoby, której dokument dotyczy, f) okoliczności posłużenia się dokumentem, g) wskazanie osoby lub organu, który stwierdził, że dokument jest podrobiony lub cudzy. 2. Ilekroć w ustawie jest mowa o: 1) „konsumencie” - rozumie się przez to osobę fizyczną, która zawiera umowę z przedsiębiorcą w celu bezpośrednio niezwiązanym z działalnością gospodarczą, członka wspólnoty mieszkaniowej oraz członka spółdzielni mieszkaniowej posiadającego prawo do lokalu w rozumieniu przepisów ustawy z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych ( Dz. U. z 2001 r. Nr 4, poz. 27 , Nr 57, poz. 601 i Nr 154, poz. 1802 oraz z 2002 r. Nr 240, poz. 2058 ) ; 2) „przedsiębiorcy” - rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ( Dz. U. Nr 101, poz. 1178 , z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 , z 2001 r. Nr 49, poz. 509 , Nr 67, poz. 679 , Nr 102, poz. 1115 i Nr 147, poz. 1643 oraz z 2002 r. Nr 1, poz. 2 , Nr 115, poz. 995 i Nr 130, poz. 1112 ) , spółdzielczą kasę oszczędnościowo-kredytową, wspólnotę mieszkaniową oraz spółdzielnię mieszkaniową w zakresie zaspokajania potrzeb mieszkaniowych jej członków; 3) „umowie o kredyt konsumencki” - rozumie się przez to umowę, o której mowa w art. 2 ust. 1 ustawy z dnia 20 lipca 2001 r. o kredycie konsumenckim ( Dz. U. Nr 100, poz. 1081 ) ; 4) „udostępnianiu informacji gospodarczych” - rozumie się przez to przekazywanie przez przedsiębiorcę informacji gospodarczych do biura informacji gospodarczej oraz ujawnianie tych informacji przez to biuro. 3. Przepisów ustawy nie stosuje się do udostępniania danych pochodzących z publicznie dostępnych rejestrów lub zbiorów oraz informacji o wygasłych zobowiązaniach przedsiębiorców. Rozdział 2 Biura informacji gospodarczej"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Udostępnianie informacji gospodarczych osobom trzecim nieoznaczonym w chwili przeznaczania tych informacji do udostępniania następuje wyłącznie za pośrednictwem biur informacji gospodarczej, chyba że udostępnianie, o którym mowa powyżej, następuje w celu sprzedaży wierzytelności przez ogłoszenie publiczne lub przepisy prawa przewidują inny tryb udostępniania danych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Biuro informacji gospodarczej, zwane dalej „biurem”, może zostać utworzone wyłącznie w formie spółki akcyjnej, o kapitale zakładowym nie mniejszym niż 4 000 000 złotych. 2. Akcje biura powinny być akcjami imiennymi. Nie jest dopuszczalna zamiana akcji imiennych na akcje na okaziciela. 3. Akcje biura, których łączna wartość nominalna nie przekracza kwoty określonej w ust. 1, mogą być obejmowane wyłącznie za wkłady pieniężne i są opłacone w całości przed zarejestrowaniem biura. 4. W skład organów biura nie mogą wchodzić osoby karane za przestępstwa popełnione z winy umyślnej. 5. Przedmiotem działalności gospodarczej biura jest wyłącznie pośrednictwo w udostępnianiu informacji gospodarczych polegające na: 1) przyjmowaniu informacji gospodarczych od przedsiębiorców; 2) przechowywaniu informacji gospodarczych; 3) ujawnianiu informacji gospodarczych. 6. Biuro jest obowiązane używać w swojej firmie wyrazów „biuro informacji gospodarczej”. 7. Zakazane jest używanie wyrazów „biuro informacji gospodarczej” w oznaczeniu lub reklamie przedsiębiorców, którzy nie wykonują działalności gospodarczej określonej w ust. 5. 8. Biuro jest obowiązane do zabezpieczenia roszczeń o naprawienie szkody, która może wyniknąć w związku z działalnością biura. Zabezpieczenie może nastąpić w drodze zawarcia umowy ubezpieczenia odpowiedzialności cywilnej, zlecenia udzielenia gwarancji bankowej lub poręczenia bankowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Zarząd biura uchwala regulamin zarządzania danymi, zwany dalej „regulaminem”, określający szczegółowe zasady: 1) przekazywania informacji gospodarczych do biura; 2) zabezpieczenia informacji gospodarczych, z uwzględnieniem przepisów o ochronie danych osobowych; 3) usuwania informacji gospodarczych; 4) ujawniania informacji gospodarczych; 5) prowadzenia rejestru zapytań, o którym mowa w art. 18; 6) aktualizacji informacji gospodarczych, o której mowa w rozdziale 5. 2. Regulamin podlega zatwierdzeniu w drodze decyzji wydawanej przez ministra właściwego do spraw gospodarki, po zasięgnięciu opinii Generalnego Inspektora Ochrony Danych Osobowych. 3. Minister właściwy do spraw gospodarki odmawia, w drodze decyzji, zatwierdzenia regulaminu, jeżeli zawiera on postanowienia sprzeczne z ustawą lub z przepisami odrębnymi. 4. Zatwierdzony regulamin ogłasza się w Monitorze Sądowym i Gospodarczym. 5. Przepisy ust. 1-4 stosuje się odpowiednio do wprowadzania i zatwierdzania zmian w regulaminie. 6. Biuro nie może podjąć działalności gospodarczej przed zatwierdzeniem regulaminu. Rozdział 3 Przekazywanie informacji gospodarczych do biura"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Przedsiębiorca może przekazywać do biura informacje gospodarcze w celu ich ujawnienia, jeżeli zawarł z biurem umowę o udostępnianie tych informacji. 2. Umowę, o której mowa w ust. 1, sporządza się na piśmie pod rygorem nieważności."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Informacje gospodarcze o zobowiązaniach konsumentów mogą przekazywać do biura wyłącznie następujący przedsiębiorcy: 1) banki; 2) oddziały banków zagranicznych; 3) zakłady ubezpieczeń; 4) pośrednicy ubezpieczeniowi; 5) główne oddziały zagranicznych zakładów ubezpieczeń; 6) spółdzielcze kasy oszczędnościowo-kredytowe; 7) świadczący usługi leasingu; 8) świadczący usługi factoringu lub forfaitingu; 9) operatorzy lub podmioty udostępniające usługi telekomunikacyjne; 10) świadczący usługi dostawy energii elektrycznej, ciepła, paliw gazowych, wody, odprowadzania nieczystości lub wywozu śmieci; 11) zawierający w imieniu i na rzecz banków umowy kredytu ratalnego lub kredytu odnawialnego połączonego z kartą kredytową (instytucje pośrednictwa kredytowego); 12) wykonujący działalność w zakresie udzielania pożyczek pieniężnych, działający w formie spółek handlowych; 13) wydawcy elektronicznych instrumentów płatniczych; 14) spółdzielnie mieszkaniowe; 15) wspólnoty mieszkaniowe; 16) wynajmujący lokale; 17) świadczący usługi przewozu osób w regularnej komunikacji publicznej; 18) domy maklerskie; 19) towarowe domy maklerskie; 20) zagraniczne osoby prawne wykonujące na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału; 21) operatorzy telewizji kablowej i satelitarnej. 2. Z zastrzeżeniem art. 10, przedsiębiorca, o którym mowa w ust. 1, może przekazać do biura informację gospodarczą o zobowiązaniu albo zobowiązaniach konsumenta wyłącznie wówczas, gdy spełnione są łącznie następujące warunki: 1) zobowiązanie albo zobowiązania wobec tego przedsiębiorcy powstały z tytułu umowy o kredyt konsumencki lub umowy o przewóz osoby w regularnej komunikacji publicznej; 2) łączna kwota zobowiązań konsumenta wobec przedsiębiorcy wynosi co najmniej 200 złotych; 3) świadczenie albo świadczenia są wymagalne od co najmniej 60 dni; 4) upłynął co najmniej miesiąc od wysłania przez przedsiębiorcę listem poleconym, na adres do korespondencji wskazany przez konsumenta, a jeżeli konsument nie wskazał takiego adresu - na adres miejsca zameldowania konsumenta na pobyt stały lub czasowy, wezwania do zapłaty, zawierającego ostrzeżenie o zamiarze przekazania danych do biura, z podaniem firmy i adresu siedziby tego biura. 3. W przypadku określonym w ust. 2 przedsiębiorca może przekazać do biura wyłącznie następujące informacje gospodarcze dotyczące: 1) siebie - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 2) konsumenta - określone w art. 2 ust. 1 pkt 2; 3) zobowiązania - określone w art. 2 ust. 1 pkt 3. 4. Jeżeli przekazane informacje gospodarcze o zobowiązaniu konsumenta dotyczące: 1) przedsiębiorcy - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 1 lit. a, b i d lub pkt 2 lit. g-i, 2) konsumenta - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 2: a) lit. a, b oraz d - w przypadku gdy konsument jest obywatelem polskim, b) lit. a, b oraz e - w przypadku gdy konsument nie jest obywatelem polskim, 3) zobowiązania - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 3 lit. a, c, d, f i g - biuro zwraca je przekazującemu przedsiębiorcy w celu uzupełnienia. 5. Biuro nie przyjmuje informacji gospodarczej o zobowiązaniu konsumenta: 1) przekazanej niezgodnie z ust. 1 lub 2 lub 2) przekraczającej zakres określony w ust. 3."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Z zastrzeżeniem art. 10, przedsiębiorca może przekazać do biura informację gospodarczą o zobowiązaniu albo zobowiązaniach innego przedsiębiorcy wyłącznie wówczas, gdy spełnione są łącznie następujące warunki: 1) zobowiązanie albo zobowiązania powstały wobec przedsiębiorcy przekazującego informację gospodarczą z tytułu umowy związanej z wykonywaniem działalności gospodarczej przez obydwu przedsiębiorców; 2) łączna kwota zobowiązań wobec przedsiębiorcy wynosi co najmniej 500 złotych; 3) świadczenie albo świadczenia są wymagalne od co najmniej 60 dni; 4) upłynął co najmniej miesiąc od wysłania przez przedsiębiorcę przekazującego dane będącego wierzycielem, listem poleconym, na adres do korespondencji wskazany przez dłużnika, a jeżeli dłużnik nie wskazał takiego adresu - na adres siedziby dłużnika, wezwania do zapłaty, zawierającego ostrzeżenie o zamiarze przekazania danych do biura, z podaniem firmy i adresu siedziby tego biura. 2. W przypadku określonym w ust. 1 przedsiębiorca będący wierzycielem może przekazać do biura informacje gospodarcze dotyczące: 1) siebie - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 2) dłużnika - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 3) wspólników dłużnika będącego spółką handlową, z których każdy posiada co najmniej 10% kapitału zakładowego tej spółki - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 4) wspólników dłużnika będącego spółką osobową - określone w art. 2 ust. 1 pkt 2; 5) akcjonariusza dłużnika będącego jednoosobową spółką akcyjną - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 6) zobowiązania - określone w art. 2 ust. 1 pkt 3. 3. Jeżeli przekazane informacje gospodarcze o zobowiązaniu przedsiębiorcy dotyczące: 1) tego przedsiębiorcy - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 1 lit. a, b i d lub pkt 2 lit. g-i, 2) dłużnika - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 1 lit. a, b i d lub pkt 2 lit. g-i, 3) zobowiązania - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 3 lit. a, c, d, f i g - biuro zwraca je przekazującemu przedsiębiorcy w celu uzupełnienia. 4. Biuro nie przyjmuje informacji gospodarczej o zobowiązaniu przedsiębiorcy: 1) przekazanej niezgodnie z ust. 1 lub 2) przekraczającej zakres określony w ust. 2."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Przedsiębiorca może w każdym czasie przekazać do biura informację gospodarczą dotyczącą posłużenia się wobec niego podrobionym lub cudzym dokumentem, a w szczególności dokumentem potwierdzającym tożsamość lub zaświadczeniem o zatrudnieniu bądź zarobkach. 2. W przypadku określonym w ust. 1 przedsiębiorca może przekazać do biura informacje gospodarcze dotyczące: 1) siebie - określone w art. 2 ust. 1 pkt 1 lub pkt 2; 2) dokumentu - określone w art. 2 ust. 1 pkt 4. 3. Przedsiębiorca jest obowiązany poinformować osobę, której dokumentem tożsamości posłużono się, o zamiarze przekazania informacji gospodarczych o tym dokumencie do biura, z podaniem firmy i adresu siedziby tego biura. 4. Jeżeli przekazane informacje gospodarcze dotyczące: 1) przedsiębiorcy, wobec którego posłużono się dokumentem - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 1 lit. a, b i d lub pkt 2 lit. g-i, 2) dokumentu - nie zawierają co najmniej elementów określonych w art. 2 ust. 1 pkt 4 lit. a, b lub c oraz e - biuro zwraca je przekazującemu przedsiębiorcy w celu uzupełnienia. 5. Biuro nie przyjmuje informacji gospodarczej, o której mowa w ust. 1: 1) przekazanej niezgodnie z ust. 1 lub 2) przekraczającej zakres określony w ust. 2."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Konsument lub przedsiębiorca może zażądać od przedsiębiorcy określonego w art. 7 ust. 1 przekazania do biura informacji gospodarczych o wywiązywaniu się przez żądającego z zobowiązań z tytułu umów o kredyt konsumencki lub związanych z wykonywaniem działalności gospodarczej. Żądanie takie składa się na piśmie, wskazując biuro, do którego informacje gospodarcze powinny zostać przekazane. 2. Przedsiębiorca określony w art. 7 ust. 1 jest obowiązany spełnić, w terminie 7 dni, żądanie, o którym mowa w ust. 1, jeżeli: 1) związany jest ze wskazanym w żądaniu biurem umową, o której mowa w art. 6; 2) od chwili spełnienia przez żądającego świadczenia z tytułu zobowiązania pieniężnego wobec tego przedsiębiorcy upłynęło nie więcej niż 12 miesięcy lub świadczenie z tytułu zobowiązania jest nadal spełniane. 3. Przedsiębiorca określony w art. 7 ust. 1, spełniając żądanie, o którym mowa w ust. 1, przekazuje do biura następujące informacje gospodarcze dotyczące: 1) siebie - określone w art. 2 ust. 1 pkt 1 lit. a, b, d i e lub pkt 2 lit. g-i; 2) żądającego: a) określone w art. 2 ust. 1 pkt 1 lit. a, b, d i e - jeżeli żądającym jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, b) określone w art. 2 ust. 1 pkt 2 lit. a, d i e - jeżeli żądającym jest osoba fizyczna niebędąca przedsiębiorcą, c) określone w art. 2 ust. 1 pkt 2 lit. d oraz g-i - jeżeli żądającym jest osoba fizyczna będąca przedsiębiorcą; 3) kwoty i waluty zobowiązania, a jeżeli przedmiotem zobowiązania są powtarzające się świadczenia pieniężne - łącznej kwoty i waluty świadczeń pieniężnych spełnianych w okresie ostatnich 5 lat przed dniem przekazania informacji gospodarczych; 4) kwoty i waluty świadczeń pieniężnych, które w okresie ostatnich 5 lat przed dniem przekazania informacji gospodarczych zostały spełnione z opóźnieniem wynoszącym nie więcej niż 14 dni. 4. Jeżeli przekazane informacje gospodarcze nie zawierają elementów określonych w ust. 3, biuro zwraca je przekazującemu przedsiębiorcy w celu uzupełnienia."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Przedsiębiorca, o którym mowa w art. 6 ust. 1, przekazując informacje gospodarcze do biura, może zastrzec, aby biuro nie ujawniało dotyczących go informacji gospodarczych, o których mowa w art. 2 ust. 1 pkt 1 lit. a-f lub pkt 2 lit. a-l."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "W razie zaprzestania wykonywania działalności gospodarczej przedsiębiorca obowiązany jest niezwłocznie, jednak nie później niż w terminie 14 dni, rozwiązać umowę, o której mowa w art. 6. Rozdział 4 Przechowywanie i ujawnianie informacji gospodarczych przez biura"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Na żądanie przedsiębiorcy, który przekazał informacje gospodarcze do biura, biuro niezwłocznie, nie później niż w terminie 7 dni, dokonuje aktualizacji tych informacji lub je usuwa. 2. Biuro z własnej inicjatywy usuwa informacje gospodarcze: 1) otrzymane od przedsiębiorcy, z którym umowa, o której mowa w art. 6, wygasła; 2) dotyczące posłużenia się podrobionym lub cudzym dokumentem - po upływie 10 lat od końca roku, w którym biuro otrzymało te informacje; 3) przed zaprzestaniem wykonywania działalności gospodarczej, informując o tym przedsiębiorców związanych z biurem umową, o której mowa w art. 6; 4) po upływie 3 lat od ich ostatniej aktualizacji, nie później jednak niż po upływie 10 lat od ich otrzymania; 5) na podstawie uzasadnionej informacji o nieistnieniu zobowiązania; 6) na podstawie uzasadnionej informacji o wygaśnięciu lub odroczeniu wykonania zobowiązania, jeżeli dane dotyczą konsumenta; 7) otrzymane od przedsiębiorcy, który po ich przekazaniu do biura został wykreślony z właściwego rejestru. 3. Biuro nie może powierzyć innym podmiotom wykonywania czynności związanych z przedmiotem działalności, o którym mowa w art. 4 ust. 5, z wyjątkiem podmiotów, o których mowa w art. 14 ust. 4 pkt 2. Biuro może przetwarzać informacje gospodarcze wyłącznie na terytorium Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Biuro ujawnia informacje gospodarcze w drodze teletransmisji na wniosek każdej osoby złożony w drodze teletransmisji. Regulamin może dopuszczać także inne sposoby składania wniosku lub ujawniania informacji gospodarczych. 2. Z zastrzeżeniem ust. 3-6 i art. 11, biuro ujawnia wszystkie posiadane informacje gospodarcze w zakresie objętym wnioskiem. 3. W przypadku ujawniania informacji gospodarczych o konsumencie biuro może również ujawnić informacje gospodarcze o zadłużeniu powstałym w związku z wykonywaną przez niego działalnością gospodarczą. 4. Biuro ujawnia informacje gospodarcze o zobowiązaniach konsumentów lub dotyczące posłużenia się podrobionym lub cudzym dokumentem wyłącznie: 1) przedsiębiorcom, którzy zawarli z biurem umowę, o której mowa w art. 6; 2) innym biurom oraz instytucjom utworzonym na podstawie art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. - Prawo bankowe ( Dz. U. z 2002 r. Nr 72, poz. 665 , Nr 126, poz. 1070 , Nr 141, poz. 1178 , Nr 144, poz. 1208 , Nr 153, poz. 1271 , Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 ) w celu realizacji złożonych w nich wniosków o ujawnienie informacji gospodarczych; 3) podmiotom, o których mowa w art. 16 ust. 1. 5. Biuro, na żądanie przedsiębiorcy, który przekazał informacje gospodarcze, wstrzymuje na czas określony ujawnianie tych informacji. 6. Ujawniając informacje gospodarcze osobie innej niż określona w ust. 4, biuro poucza tę osobę o jej obowiązkach określonych w art. 17."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Przedsiębiorca, który zawarł z biurem umowę, o której mowa w art. 6, może wystąpić do biura o ujawnienie informacji gospodarczych o zobowiązaniach konsumenta, jeżeli posiada upoważnienie tego konsumenta, w terminie 30 dni od dnia udzielenia tego upoważnienia. 2. Przedsiębiorca może odmówić zawarcia umowy o kredyt konsumencki lub zawrzeć taką umowę na warunkach mniej korzystnych dla konsumenta, w szczególności poprzez żądanie zabezpieczenia wierzytelności wynikających z tej umowy: 1) w przypadku gdy konsument odmówi udzielenia przedsiębiorcy upoważnienia, o którym mowa w ust. 1 lub w art. 47 ust. 2, lub 2) na podstawie informacji gospodarczych otrzymanych od biura, w terminie 3 dni roboczych od dnia ich otrzymania."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Do otrzymywania informacji gospodarczych od biura są uprawnieni: 1) Prokurator Krajowy - w związku z toczącym się przeciwko osobie fizycznej postępowaniem karnym lub karnym skarbowym albo w związku z wykonaniem wniosku o udzielenie pomocy prawnej pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji albo w związku z toczącym się postępowaniem karnym lub karnym skarbowym o przestępstwo popełnione w związku z działaniem osoby prawnej lub jednostki nieposiadającej osobowości prawnej; 2) Komendant Główny Policji - jeżeli jest to konieczne dla skutecznego zapobiegania przestępstwom, ich wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji ( Dz. U. z 2002 r. Nr 7, poz. 58 , Nr 19, poz. 185 , Nr 74, poz. 676 , Nr 81, poz. 731 , Nr 113, poz. 984 , Nr 115, poz. 996 , Nr 153, poz. 1271 , Nr 176, poz. 1457 i Nr 200, poz. 1688 ) ; 3) Szef Biura Ochrony Rządu - jeżeli jest to konieczne do wykonywania obowiązków przewidzianych w ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu ( Dz. U. Nr 27, poz. 298 i Nr 106, poz. 1149 oraz z 2002 r. Nr 74, poz. 676 i Nr 153, poz. 1271 ) ; 4) Generalny Inspektor Kontroli Skarbowej - w zakresie niezbędnym do wykonywania zadań określonych w ustawie z dnia 28 września 1991 r. o kontroli skarbowej ( Dz. U. z 1999 r. Nr 54, poz. 572 i Nr 83, poz. 931 , z 2000 r. Nr 70, poz. 816 , Nr 104, poz. 1103 i Nr 116, poz. 1216 , z 2001 r. Nr 14, poz. 143 , Nr 81, poz. 877 i Nr 110, poz. 1189 oraz z 2002 r. Nr 41, poz. 365 , Nr 74, poz. 676 , Nr 89, poz. 804 , Nr 141, poz. 1178 , Nr 153, poz. 1271 , Nr 169, poz. 1387 i Nr 216, poz. 1824 ) ; 5) Generalny Inspektor Informacji Finansowej - w zakresie niezbędnym do przeprowadzania postępowania kontrolnego określonego w ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł oraz o przeciwdziałaniu finansowaniu terroryzmu ( Dz. U. Nr 116, poz. 1216 , z 2001 r. Nr 63, poz. 641 oraz z 2002 r. Nr 25, poz. 253 , Nr 32, poz. 299 , Nr 41, poz. 365 , Nr 74, poz. 676 , Nr 89, poz. 804 , Nr 141, poz. 1178 , Nr 144, poz. 1204 , Nr 169, poz. 1385 i Nr 180, poz. 1500 ) ; 6) dyrektorzy izb skarbowych - w związku z postępowaniem karnym lub karnym skarbowym przeciwko osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej; 7) dyrektorzy urzędów kontroli skarbowej - w zakresie niezbędnym do przeprowadzenia postępowania kontrolnego określonego w ustawie, o której mowa w pkt 4; 8) Generalny Inspektor Nadzoru Bankowego - w zakresie nadzoru wykonywanego przez Komisję Nadzoru Bankowego; 9) Prezes Najwyższej Izby Kontroli - w zakresie informacji o przedsiębiorcach, jeżeli jest to niezbędne do przeprowadzenia postępowania kontrolnego określonego w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ( Dz. U. z 2001 r. Nr 85, poz. 937 i Nr 154, poz. 1800 oraz z 2002 r. Nr 153, poz. 1271 ) ; 10) sądy - w związku z toczącymi się przed nimi postępowaniami. 2. Za każdorazowe udostępnienie informacji gospodarczych podmiotom wymienionym w ust. 1 biuro pobiera opłatę zgodnie z obowiązującym w tym biurze cennikiem, nie wyższą jednak niż 2,50 złotego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Podmiot, który otrzymał informacje gospodarcze od biura, jest obowiązany usunąć je w terminie 90 dni od dnia ich otrzymania. Obowiązek ten dotyczy również biura w zakresie informacji gospodarczych otrzymanych od innego biura. 2. Podmiot, który otrzymał od biura informacje gospodarcze dotyczące konsumenta, nie może ich ujawnić innym osobom. Nie dotyczy to ujawniania przez biuro, zgodnie z ustawą, informacji gospodarczych otrzymanych od innego biura. 3. Przepisów ust. 1 i 2 nie stosuje się do podmiotów wymienionych w art. 16 ust. 1."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Biuro obowiązane jest prowadzić rejestr zapytań, obejmujący następujące informacje: 1) datę ujawnienia informacji gospodarczych; 2) oznaczenie podmiotu, któremu informacje gospodarcze ujawniono; 3) ujawnione dane. 2. Informacje, o których mowa w ust. 1, są przechowywane w rejestrze zapytań przez okres 12 miesięcy od dnia ujawnienia informacji gospodarczych przez biuro. 3. Każdy ma prawo wglądu do rejestru zapytań w zakresie dotyczącym ujawniania jego danych. Wgląd do rejestru zapytań jest bezpłatny, jeżeli nie następuje on w odstępach czasu mniejszych niż 6 miesięcy."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Biuro jest uprawnione do otrzymywania danych ze zbiorów PESEL na zasadach określonych w ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych ( Dz. U. z 2001 r. Nr 87, poz. 960 i Nr 110, poz. 1189 oraz z 2002 r. Nr 74, poz. 676 i Nr 78, poz. 716 ) . 2. W przypadku stwierdzenia niezgodności pomiędzy informacją gospodarczą otrzymaną od przedsiębiorcy a danymi otrzymanymi ze zbiorów PESEL biuro niezwłocznie: 1) wstrzymuje ujawnianie tej informacji gospodarczej; 2) powiadamia o niezgodności przedsiębiorcę, od którego otrzymało tę informację gospodarczą. Rozdział 5 Aktualizacja informacji gospodarczych"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. W przypadku: 1) całkowitego zaspokojenia zobowiązania, jego wygaśnięcia lub odroczenia jego wykonania, 2) stwierdzenia faktu nieistnienia zobowiązania, 3) powzięcia przez przedsiębiorcę wiadomości o odzyskaniu przez osobę utraconego dokumentu, o którym mowa w art. 9 - przedsiębiorca jest obowiązany niezwłocznie, jednak nie później niż w terminie 14 dni, zażądać od biura, któremu przekazał dane o zobowiązaniu lub o posłużeniu się cudzym dokumentem, usunięcia tych danych. 2. W przypadku: 1) powzięcia wiarygodnej informacji, że przekazane informacje gospodarcze są nieprawdziwe, 2) częściowego zaspokojenia zobowiązania, 3) powzięcia wiarygodnej informacji o zmianie innych informacji gospodarczych przekazanych przez przedsiębiorcę do biura zgodnie z art. 7-9 - przedsiębiorca jest obowiązany niezwłocznie, jednak nie później niż w terminie 14 dni, zażądać od biura aktualizacji informacji gospodarczych, przekazując do biura zmienione informacje gospodarcze, lub zażądać od biura usunięcia przekazanych informacji gospodarczych. 3. Przeniesienie wierzytelności na osobę trzecią nie zwalnia zbywcy wierzytelności z obowiązków określonych w ust. 1 i 2, chyba że uprzednio zażądał od biura usunięcia przekazanych informacji gospodarczych."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Konsument lub przedsiębiorca ma prawo wglądu do przechowywanych przez biuro dotyczących go informacji gospodarczych, przekazanych zgodnie z art. 7-9, oraz prawo żądania od przedsiębiorcy, który te informacje przekazał, ich uzupełnienia, uaktualnienia, sprostowania lub usunięcia, jeżeli są one niekompletne, nieaktualne, nieprawdziwe lub zostały udostępnione, lub są przechowywane z naruszeniem ustawy. Wgląd ten raz na 6 miesięcy jest bezpłatny. Rozdział 6 Nadzór nad biurami"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Biuro podlega nadzorowi ministra właściwego do spraw gospodarki w zakresie zgodności wykonywanej działalności z ustawą i regulaminem. 2. Nadzór ministra właściwego do spraw gospodarki nie obejmuje kontroli prawidłowości przetwarzania danych osobowych przez biuro."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. W celu ustalenia stanu faktycznego osoba upoważniona na piśmie przez ministra właściwego do spraw gospodarki, zwana dalej „kontrolującym”, może przeprowadzić kontrolę biura. 2. Kontrolujący podlega wyłączeniu z kontroli, jeżeli wyniki kontroli mogą oddziaływać na jego prawa lub obowiązki, na prawa lub obowiązki jego małżonka albo osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osób związanych z nim z tytułu przysposobienia, opieki bądź kurateli. Powody wyłączenia kontrolującego trwają także po ustaniu małżeństwa, przysposobienia bądź kurateli. 3. Kontrolujący może być wyłączony z kontroli w każdym czasie, jeżeli zachodzą uzasadnione wątpliwości co do jego bezstronności. 4. Z wnioskiem o wyłączenie kontrolującego z przeprowadzenia kontroli może wystąpić kontrolujący lub biuro. O wyłączeniu albo odmowie wyłączenia rozstrzyga minister właściwy do spraw gospodarki."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Kontrolę przeprowadza się w biurze, w dniach i w godzinach pracy w nim obowiązujących. 2. W razie konieczności, na wniosek kontrolującego, kontrolę przeprowadza się także w dniach wolnych od pracy lub poza godzinami pracy. W tym celu osoba kierująca biurem wydaje niezbędne polecenia. 3. Czynności kontrolne mogą być przeprowadzane również w siedzibie ministra właściwego do spraw gospodarki."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Kontrolujący jest uprawniony do: 1) swobodnego wstępu do obiektów i pomieszczeń biura; 2) wglądu do wszelkich dokumentów lub innych nośników informacji związanych z działalnością biura i innych materiałów dowodowych; 3) przeprowadzania oględzin obiektów, składników majątkowych i przebiegu czynności; 4) żądania od osoby kierującej biurem i innych pracowników biura ustnych lub pisemnych wyjaśnień; 5) żądania od osoby kierującej biurem sporządzenia, na koszt biura, uwierzytelnionych kopii, odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń dokonanych na podstawie dokumentów; 6) korzystania z pomocy biegłych i specjalistów; 7) zabezpieczania materiałów dowodowych; 8) dostępu do informacji prawnie chronionych, z zastrzeżeniem przepisów ustawy z dnia 22 stycznia 1999 r. o ochronie informacji niejawnych ( Dz. U. Nr 11, poz. 95 , z 2000 r. Nr 12, poz. 136 i Nr 39, poz. 462 , z 2001 r. Nr 22, poz. 247 , Nr 27, poz. 298 , Nr 56, poz. 580 , Nr 110, poz. 1189 , Nr 123, poz. 1353 i Nr 154, poz. 1800 , z 2002 r. Nr 74, poz. 676 , Nr 89, poz. 804 i Nr 153, poz. 1271 oraz z 2003 r. Nr 17, poz. 155 ) ."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Osoba kierująca biurem zapewnia kontrolującemu warunki i środki niezbędne do sprawnego przeprowadzania kontroli. Dotyczy to w szczególności: 1) niezwłocznego przedstawiania kontrolującemu dokumentów i materiałów; 2) terminowego udzielania wyjaśnień przez pracowników; 3) udostępniania urządzeń technicznych na koszt biura."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Osoba kierująca biurem lub inny pracownik biura może odmówić udzielenia kontrolującemu wyjaśnień jedynie w przypadkach, gdy wyjaśnienia mogą dotyczyć faktów lub okoliczności, których ujawnienie mogłoby narazić na odpowiedzialność karną bądź majątkową wezwanego do złożenia wyjaśnień, a także jego małżonka lub osobę pozostającą z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądź osoby związane z nim z tytułu przysposobienia, opieki bądź kurateli."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Każdy może złożyć kontrolującemu ustne lub pisemne oświadczenie dotyczące przedmiotu kontroli. 2. Kontrolujący nie może odmówić przyjęcia oświadczenia, jeżeli ma ono związek z przedmiotem kontroli."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Wyniki przeprowadzonej kontroli kontrolujący przedstawia w protokole kontroli. 2. Protokół kontroli sporządza się w dwóch egzemplarzach, z których jeden otrzymuje osoba kierująca biurem. 3. Protokół kontroli podpisują kontrolujący i osoba kierująca biurem."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Osoba kierująca biurem ma prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole. 2. Zastrzeżenia zgłasza się na piśmie, w terminie 7 dni roboczych od dnia otrzymania protokołu kontroli. 3. W razie zgłoszenia zastrzeżeń kontrolujący jest obowiązany dokonać ich analizy i, w miarę potrzeby, podjąć dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń zmienić lub uzupełnić w odpowiednim zakresie protokół kontroli."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Osoba kierująca biurem może odmówić podpisania protokołu kontroli, składając kontrolującemu, w terminie 7 dni roboczych od dnia otrzymania protokołu, pisemne wyjaśnienie przyczyn tej odmowy. 2. Odmowa podpisania protokołu przez osobę kierującą biurem nie stanowi przeszkody do podpisania protokołu przez kontrolującego."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy tryb przeprowadzania kontroli biura, zabezpieczania materiałów dowodowych, szczegółowe wymogi co do zawartości protokołu kontroli oraz wzór upoważnienia do kontroli, biorąc pod uwagę: 1) potrzebę zapewnienia efektywności kontroli przy minimalizacji zakłóceń w pracy biura; 2) zasadę pełnego informowania osoby kierującej biurem o przedmiocie, zakresie, trybie i czasie prowadzenia kontroli oraz o ustaleniach dokonywanych w jej trakcie."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. W razie stwierdzenia w wyniku kontroli naruszenia przepisów ustawy lub regulaminu minister właściwy do spraw gospodarki, w drodze decyzji, nakazuje biuru usunięcie nieprawidłowości, określając termin ich usunięcia. 2. Jeżeli biuro nie usunie nieprawidłowości w wyznaczonym terminie, minister właściwy do spraw gospodarki może nałożyć na biuro karę pieniężną w wysokości nieprzekraczającej 120 000 złotych, określając ponowny termin usunięcia nieprawidłowości. 3. Jeżeli biuro nie usunie nieprawidłowości w terminie, o którym mowa w ust. 2, pomimo nałożenia kary pieniężnej, minister właściwy do spraw gospodarki wydaje decyzję o zakazie wykonywania działalności gospodarczej przez biuro. 4. Prawomocny zakaz wykonywania działalności gospodarczej przez biuro skutkuje rozwiązaniem biura. Rozdział 7 Przepisy karne"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Kto prowadzi działalność będącą przedmiotem działalności biura bez zatwierdzenia regulaminu, podlega grzywnie do 5 000 000 złotych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Kto, prowadząc działalność zarobkową, wbrew warunkom określonym w ustawie używa w swoim oznaczeniu lub w reklamie wyrazów „biuro informacji gospodarczej”, podlega grzywnie do 5 000 000 złotych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Kto, będąc przedsiębiorcą, w przypadku: 1) całkowitego zaspokojenia zobowiązania, jego wygaśnięcia lub odroczenia jego wykonania, 2) stwierdzenia faktu nieistnienia zobowiązania, 3) powzięcia przez przedsiębiorcę wiadomości o odzyskaniu przez osobę utraconego dokumentu, o którym mowa w art. 9, niezwłocznie, jednak nie później niż w terminie 14 dni, nie zażądał usunięcia informacji od biura, któremu przekazał dane o zobowiązaniu lub o posłużeniu się cudzym dokumentem, podlega grzywnie do 30 000 złotych."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Kto przekazuje do biura nieprawdziwą informację gospodarczą, podlega grzywnie do 30 000 złotych. 2. Tej samej karze podlega, kto nie usunął informacji gospodarczej w terminie 90 dni od dnia jej otrzymania od biura lub ujawnił niezgodnie z przepisami ustawy informację gospodarczą osobom trzecim."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Kto, będąc przedsiębiorcą, w przypadku zaprzestania wykonywania działalności gospodarczej nie rozwiązuje umowy, o której mowa w art. 6, w terminie, o którym mowa w art. 12, podlega grzywnie do 30 000 złotych."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Kto występuje do biura o ujawnienie informacji gospodarczych bez upoważnienia osoby, której informacje te dotyczą, jeżeli takie upoważnienie jest wymagane ustawą, podlega grzywnie do 30 000 złotych."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Biuro, które udziela nieprawdziwych lub nieaktualnych informacji gospodarczych, podlega grzywnie do 30 000 złotych. Rozdział 8 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "W ustawie z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej ( Dz. U. z 1996 r. Nr 11, poz. 62 , z 1997 r. Nr 43, poz. 272 , Nr 88, poz. 554 , Nr 107, poz. 685 , Nr 121, poz. 769 i 770 i Nr 139, poz. 934 , z 1998 r. Nr 155, poz. 1015 , z 1999 r. Nr 49, poz. 483 , Nr 101, poz. 1178 i Nr 110, poz. 1255 , z 2000 r. Nr 43, poz. 483 , Nr 48, poz. 552 , Nr 70, poz. 819 , Nr 114, poz. 1193 i Nr 116, poz. 1216 , z 2001 r. Nr 37, poz. 424 , Nr 88, poz. 961 , Nr 100, poz. 1084 i Nr 110, poz. 1189 oraz z 2002 r. Nr 25, poz. 253 , Nr 41, poz. 365 , Nr 153, poz. 1271 ) w art. 9 po ust. 4 dodaje się ust. 5 w brzmieniu: „ 5. Zakład ubezpieczeń może udostępniać dane dotyczące umów ubezpieczenia na zasadach i w trybie określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424). ” ."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne ( Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 , z 1998 r. Nr 94, poz. 594 , Nr 106, poz. 668 i Nr 162, poz. 1126 , z 1999 r. Nr 88, poz. 980 i Nr 110, poz. 1255 , z 2000 r. Nr 43, poz. 489 , Nr 48, poz. 555 i Nr 103, poz. 1099 , z 2001 r. Nr 154, poz. 1800 i 1802 oraz z 2002 r. Nr 74, poz. 676 , Nr 113, poz. 984 i Nr 135, poz. 1144 ) po art. 62 dodaje się art. 62a w brzmieniu: „ Art. 62a. Przedsiębiorstwo energetyczne może udostępniać dane o odbiorcy na zasadach i w trybie określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424). ” ."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "W ustawie z dnia 21 sierpnia 1997 r. - Prawo o publicznym obrocie papierami wartościowymi ( Dz. U. z 2002 r. Nr 49, poz. 447 i Nr 240, poz. 2055 ) w art. 160 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie, przechowywanie oraz ujawnianie danych w trybie i na warunkach określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424). ” ."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. - Prawo bankowe ( Dz. U. z 2002 r. Nr 72, poz. 665 , Nr 126, poz. 1070 , Nr 141, poz. 1178 , Nr 144, poz. 1208 , Nr 153, poz. 1271 , Nr 169, poz. 1385 i 1387 i Nr 241, poz. 2074 ) w art. 105 po ust. 4 dodaje się ust. 4a-4c w brzmieniu: „ 4a. Instytucje utworzone na podstawie ust. 4 mogą udostępniać biurom informacji gospodarczej działającym na podstawie ustawy z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424), dane w zakresie i na warunkach określonych w tej ustawie. 4b. Banki mogą udostępniać biurom, o których mowa w ust. 4a, dane o zobowiązaniach powstałych z tytułu umów związanych z dokonywaniem czynności bankowych, jeżeli umowy te zawierają klauzule informujące o możliwości przekazania danych do tych biur. 4c. Klauzule, o których mowa w ust. 4b, zawierają informacje o warunkach, na jakich banki przekazują dane, o których mowa w art. 7 ust. 2 i art. 8 ust. 1 ustawy, o której mowa w ust. 4a, do biura. ” ."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "W ustawie z dnia 21 lipca 2000 r. - Prawo telekomunikacyjne ( Dz. U. Nr 73, poz. 852 , z 2001 r. Nr 122, poz. 1321 i Nr 154, poz. 1800 i 1802 oraz z 2002 r. Nr 25, poz. 253 , Nr 74, poz. 676 i Nr 166, poz. 1360 ) wprowadza się następujące zmiany: 1) w art. 34 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Operator może odmówić użytkownikowi zawarcia umowy o świadczenie usług telekomunikacyjnych lub zawrzeć taką umowę na warunkach mniej korzystnych dla użytkownika w wyniku oceny wiarygodności płatniczej dokonanej na podstawie informacji udostępnionych przez biuro informacji gospodarczej w trybie określonym w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424) albo w przypadku, o którym mowa w art. 15 ust. 2 tej ustawy. ” ; 2) po art. 70 dodaje się art. 70a w brzmieniu: „ Art. 70a. Operator lub podmiot udostępniający usługi telekomunikacyjne może udostępniać dane o użytkowniku na zasadach i w trybie określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424). ” ."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "W ustawie z dnia 26 października 2000 r. o giełdach towarowych ( Dz. U. Nr 103, poz. 1099 oraz z 2002 r. Nr 200, poz. 1686 ) w art. 54 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie, przechowywanie oraz ujawnianie danych w trybie i na warunkach określonych w ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. Nr 50, poz. 424). ” ."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Przepisy ustawy stosuje się również do udostępniania danych o zobowiązaniach wymagalnych, powstałych przed dniem jej wejścia w życie. 2. O ujawnienie informacji gospodarczych o zobowiązaniach powstałych przed dniem wejścia w życie ustawy może wystąpić do biura wyłącznie ten, kto posiada upoważnienie osoby, której informacje te dotyczą, w terminie 30 dni od dnia udzielenia tego upoważnienia."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia, z wyjątkiem art. 7 ust. 1 pkt 13, który wchodzi w życie z dniem wejścia w życie ustawy z dnia 12 września 2002 r. o elektronicznych instrumentach płatniczych ( Dz. U. Nr 169, poz. 1385 ) . Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]},{\"id\": \"chpt_1-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_k\",\"symbol\": \"lett_k\",\"type\": \"lett\",\"name\": \"k\",\"title\": \"k)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_l\",\"symbol\": \"lett_l\",\"type\": \"lett\",\"name\": \"l\",\"title\": \"l)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2-lett_m\",\"symbol\": \"lett_m\",\"type\": \"lett\",\"name\": \"m\",\"title\": \"m)\"}]},{\"id\": \"chpt_1-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"}]},{\"id\": \"chpt_1-arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_4-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]}]},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Biura informacji gospodarczej\",\"children\": [{\"id\": \"chpt_2-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_4-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_4-pass_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_4-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_2-arti_4-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"chpt_2-arti_4-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_2-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_5-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_5-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_5-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_5-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_2-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_5-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_5-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Przekazywanie informacji gospodarczych do biura\",\"children\": [{\"id\": \"chpt_3-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_3-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_17\",\"symbol\": \"pint_17\",\"type\": \"pint\",\"name\": \"17\",\"title\": \"17)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_18\",\"symbol\": \"pint_18\",\"type\": \"pint\",\"name\": \"18\",\"title\": \"18)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_19\",\"symbol\": \"pint_19\",\"type\": \"pint\",\"name\": \"19\",\"title\": \"19)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_20\",\"symbol\": \"pint_20\",\"type\": \"pint\",\"name\": \"20\",\"title\": \"20)\"},{\"id\": \"chpt_3-arti_7-pass_1-pint_21\",\"symbol\": \"pint_21\",\"type\": \"pint\",\"name\": \"21\",\"title\": \"21)\"}]},{\"id\": \"chpt_3-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_7-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_7-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_7-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_7-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_7-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_3-arti_7-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_7-pass_4-pint_2\",\"symbol\": \"p"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "„przedsiębiorcy”",
+      "definition": "rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ( Dz. U. Nr 101, poz. 1178 , z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 , z 2001 r. Nr 49, poz. 509 , Nr 67, poz. 679 , Nr 102, poz. 1115 i Nr 147, poz. 1643 oraz z 2002 r. Nr 1, poz. 2 , Nr 115, poz. 995 i Nr 130, poz. 1112 ) , spółdzielczą kasę oszczędnościowo-kredytową, wspólnotę mieszkaniową oraz spółdzielnię mieszkaniową w zakresie zaspokajania potrzeb mieszkaniowych jej członków",
+      "source_provision": "art2"
+    },
+    {
+      "term": "„umowie o kredyt konsumencki”",
+      "definition": "rozumie się przez to umowę, o której mowa w art. 2 ust. 1 ustawy z dnia 20 lipca 2001 r. o kredycie konsumenckim ( Dz. U. Nr 100, poz. 1081 )",
+      "source_provision": "art2"
+    },
+    {
+      "term": "„udostępnianiu informacji gospodarczych”",
+      "definition": "rozumie się przez to przekazywanie przez przedsiębiorcę informacji gospodarczych do biura informacji gospodarczej oraz ujawnianie tych informacji przez to biuro. 3. Przepisów ustawy nie stosuje się do udostępniania danych pochodzących z publicznie dostępnych rejestrów lub zbiorów oraz informacji o wygasłych zobowiązaniach przedsiębiorców. Rozdział 2 Biura informacji gospodarczej",
+      "source_provision": "art2"
+    }
+  ]
+}

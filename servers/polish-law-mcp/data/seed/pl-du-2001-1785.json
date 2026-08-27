@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2001-1785",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 2001 r. o nadaniu Wyższej Szkole Morskiej w Gdyni nazwy Akademia Morska w Gdyni.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1785",
+  "status": "in_force",
+  "issued_date": "2001-12-05",
+  "in_force_date": "2001-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1785",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyższej Szkole Morskiej w Gdyni nadaje się nazwę Akademia Morska w Gdyni."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

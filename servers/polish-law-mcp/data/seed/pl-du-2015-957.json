@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-957",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 maja 2015 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2015-957",
+  "status": "amended",
+  "issued_date": "2015-05-15",
+  "in_force_date": "2015-07-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/957",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. z 2014 r. poz. 1025 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238 i 539. ) w art. 79 w ust. 1 w pkt 3 w lit. c kropkę zastępuje się przecinkiem i dodaje się lit. d w brzmieniu: „ d) zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym, jeżeli postępowanie w pierwszej instancji zakończyło się zawarciem ugody sądowej. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1296 i 1306 oraz z 2015 r. poz. 2, 4, 238 i 539. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

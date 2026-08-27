@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1936-396",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 lipca 1936 r. o dodatkowych kredytach na rok 1936/37.",
+  "title_en": "",
+  "short_name": "pl-du-1936-396",
+  "status": "repealed",
+  "issued_date": "1936-07-09",
+  "in_force_date": "1936-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/396",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyty, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 r. (Dz. U. R. P. Nr. 23, poz. 185) zwiększa się w grupie A. Administracja, w części 8 Ministerstwo Skarbu w wydatkach zwyczajnych o następujące kwoty: a) w dziale 2 „Władze i urzędy skarbowe” w § i „Płace” o. 59.000 zł. w § 2 „Różne świadczenia osobowe” o 4.500 zł w § 3 „Podróże służbowe i przesiedlenia” o 50.000 zł w § 8 „Inne wydatki” o 10.000 zł b) w dziale 3 „Władze i urzędy celne” w § 1 „Płace” o 176.200 zł w § 2 „Różne świadczenia osobowe” o 160.500 zł w § 3 „Podróże służbowe i przesiedlenia” o 23.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie wymienionych w art. 1 kredytów dodatkowych służą zwiększone wpływy w części 8 Ministerstwo Skarbu w dz. 5 „Ogólny zarząd skarbowy” w § 18 „Przepadłości”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1936 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

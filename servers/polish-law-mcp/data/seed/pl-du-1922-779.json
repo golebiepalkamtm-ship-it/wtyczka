@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-779",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 września 1922 r. w przedmiocie zmiany niektórych postanowień statutu dyscyplinarnego dla adwokatów i kandydatów adwokackich w b. dzielnicy austrjackiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-779",
+  "status": "in_force",
+  "issued_date": "1922-09-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/779",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przewidzianą w statucie dyscyplinarnym dla adwokatów i kandydatów adwokackich z dnia 1 kwietnia 1872 r. (austr. Dz. Ust. P. № 40) w brzmieniu, ustalonem ustawą z dnia 16 listopada 1906 r. (austr. Dz. Ust. P. № 223), najwyższą granicą grzywien podwyższa się: 1) w § 8 ustęp 4 z kwoty sto złotych - do kwoty dwudziestu tysięcy marek polskich; 2) w § 12 ustęp 1 lit. b) z kwoty 3000 koron- do kwoty dwustu tysięcy marek polskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie dni 14 po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

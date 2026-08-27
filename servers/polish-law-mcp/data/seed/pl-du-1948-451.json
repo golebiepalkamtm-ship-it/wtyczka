@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1948-451",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 listopada 1948 r. o zmianie dekretu z dnia 28 października 1947 r. o dochodzeniu roszczeń z weksli wystawionych przed dniem 9 maja 1945 r.",
+  "title_en": "",
+  "short_name": "pl-du-1948-451",
+  "status": "in_force",
+  "issued_date": "1948-11-18",
+  "in_force_date": "1948-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1948/451",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 1 dekretu z dnia 28 października 1947 r. o dochodzeniu roszczeń z weksli wystawionych przed dniem 9 maja 1945 r. ( Dz. U. R. P. Nr 66, poz. 411 ) otrzymuje brzmienie: „ Art. 1. Dla weksli, wystawionych przed dniem 9 maja 1945 r. i płatnych przed dniem 1 stycznia 1948 r., bieg przedawnienia roszczeń, przewidziany w art. 70 ust. 1 i 2 prawa wekslowego ( Dz. U. R. P. z 1936 r. Nr 37, poz. 282 ) , rozpoczyna się dnia 1 stycznia 1948 r., o ile do dnia 25 sierpnia 1939 r. roszczenia te nie uległy przedawnieniu. Jeżeli jednak uprawnionymi z weksli, określonych w ustępie poprzedzającym, są osoby prawne prawa publicznego i ich przedsiębiorstwa mające osobowość prawną, związki samorządu terytorialnego, przedsiębiorstwa bankowe lub inne instytucje kredytowe albo centrale spółdzielczo-państwowe, przedsiębiorstwa państwowo-spółdzielcze lub spółdzielnie, a z weksli zobowiązane są bądź wyłącznie, bądź między innymi: fundusz, zakład lub przedsiębiorstwo państwowe bądź samorządowe, jak również przedsiębiorstwo, podlegające przejęciu na własność Państwa na podstawie ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej ( Dz. U. R. P. Nr 3, poz. 17 ) - to dla takich weksli bieg przedawnienia roszczeń, przewidzianych w art. 70 ust. 1 i 2 prawa wekslowego , rozpoczyna się dnia 1 stycznia 1950 r., o ile do dnia 25 sierpnia 1939 r. roszczenia te nie uległy przedawnieniu. Przewidziany w ustępie poprzedzającym termin rozpoczęcia biegu przedawnienia weksli może być przesunięty rozporządzeniem Ministra Sprawiedliwości, wydanym w porozumieniu z Ministrem Skarbu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

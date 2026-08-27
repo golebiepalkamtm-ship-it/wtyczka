@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-136",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 1933 r. o zamianie gruntów państwowych na grunty gminne w Poznaniu.",
+  "title_en": "",
+  "short_name": "pl-du-1933-136",
+  "status": "in_force",
+  "issued_date": "1933-02-15",
+  "in_force_date": "1933-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/136",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na zamianę następujących nieruchomości, położonych w Poznaniu, stanowiących własność Skarbu Państwa, o łącznej powierzchni 8 ha 72 a 66 m 2 : 1) parceli Nr. 60/2, zapisanej w ks. wiecz. Poznań Św. Marcin, tom 23, karta 560, o powierzchni 81 a 54 m 2 ; 2) parceli Nr. 924/26, zapisanej w ks. wiecz. PoznańWiniary, tom 12, karta 308, o powierzchni 3 ha 34 a 33 m 2 ; 3) parceli Nr. 927/27, zapisanej w ks. wiecz. Poznań Winiary, tom 14, karta 377, o powierzchni 2 ha 36 a 75 m 2 ; 4) parceli Nr. 930/28, zapisanej w ks. wiecz. Poznań Winiary, tom 16, karta 420, o powierzchni 1 ha 29 a 41 nr; 5) parceli Nr. 2045/35, zapisanej w ks. wiecz. Poznań Św. Łazarz, tom 45, karta 1093, o powierzchni 29 a 13 m 2 ; 6) parceli Nr. 2046/35, zapisanej w ks. wiecz. Poznań Św. Łazarz, tom 45, karta 1093, o powierzchni 61 a 50 m 2 ; na następujące nieruchomości, położone w Poznaniu, stanowiące własność gminy m. Poznania, o łącznej powierzchni 8 ha 86 a 85 m 2 ; 1) parcelę Nr. 225/8, zapisaną w ks. wiecz. Poznań Jeżyce, tom 50, karta 1266, o powierzchni 9 a50 m 2 ; 2) parcelę Nr. 240/5..zapisaną w ks. wiecz. Poznań Jeżyce, tom 49, karta 1246, o powierzchni 10 a 12 m 2 ; 3) parcelę Nr. 241/5, zapisaną w ks. wiecz. Poznań Jeżyce, tom 49, karta 1246, o powierzchni 3 ha 38 a 6 m 2 ; 4) parcelę Nr. 244/7, zapisaną w ks. wiecz. Poznań Jeżyce, tom 49, karta 1243, o powierzchni 5 ha 13 a 5 m 2 ; 5) parcelę Nr. 245/7, zapisaną w ks. wiecz. Poznań Jeżyce, tom 49, karta 1243, o powierzchni 16 a 12 m 2 ;"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejsze) porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Spraw Wojskowych,"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Minister Spraw Wewnętrznych; Bronisław Pleracki Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

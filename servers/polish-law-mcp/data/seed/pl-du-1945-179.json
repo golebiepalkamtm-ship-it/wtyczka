@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1945-179",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lipca 1945 r. o zmianie ustawy z dnia 6 maja 1945 r. o majątkach opuszczonych i porzuconych.",
+  "title_en": "",
+  "short_name": "pl-du-1945-179",
+  "status": "repealed",
+  "issued_date": "1945-07-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1945/179",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 maja 1945 r. o majątkach opuszczonych i porzuconych ( Dz. U. R. P. Nr 17, poz. 97 ) wprowadza się zmiany następujące: 1) art. 13 § 1 otrzymuje następujące brzmienie: „ Art. 13. § 1. Osoby prawne prawa publicznego, a w szczególności gminy miejskie, instytucje społeczne, organizacje kulturalne i oświatowe oraz organizacje pomocy dla grup ludności szczególnie prześladowanych przez okupanta, mogą wystąpić do Głównego Urzędu Tymczasowego Zarządu Państwowego z wnioskiem o oddanie im w zarząd i użytkowanie niektórych majątków opuszczonych lub porzuconych. Przy wydawaniu decyzji w tych sprawach należy mieć na względzie interes publiczny, użyteczność społeczną oraz potrzeby, jak również związek, jaki łączy właścicieli majątku opuszczonego z celami i zadaniami wnioskodawców. ” ; 2) art. 37 otrzymuje następujące brzmienie: „ Art. 37. Skarb Państwa, względnie gminy miejskie, jak również osoby lub instytucje, wymienione w art. 13, nabywają tytuł własności majątków opuszczonych: a) co do nieruchomości - z upływem lat 20, b) co do ruchomości - z upływem lat 10, licząc od końca roku kalendarzowego, w którym wojna została ukończona, c) co do dochodów - z upływem lat 5, licząc od końca roku, w którym zostały pobrane. ” ; 3) art. 38 otrzymuje następujące brzmienie: „ Art. 38. Skarb Państwa, względnie gminy miejskie, jak również osoby lub instytucje, wymienione w art. 13, nabywają tytuł własności majątków porzuconych z upływem lat 5, licząc od końca roku kalendarzowego, w którym wojna ukończona została. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom: Skarbu, Sprawiedliwości, Przemysłu, Rolnictwa i Reform Rolnych oraz Aprowizacji i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

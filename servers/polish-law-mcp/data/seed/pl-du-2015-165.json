@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2015-165",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 grudnia 2014 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych",
+  "title_en": "",
+  "short_name": "pl-du-2015-165",
+  "status": "in_force",
+  "issued_date": "2014-12-17",
+  "in_force_date": "2015-01-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/165",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych ( Dz. U. z 2013 r. poz. 50 i 1272 ) wprowadza się następujące zmiany: 1) w art. 15 ust. 5 otrzymuje brzmienie: „ 5. Producent, który otrzymał kwotę indywidualną przyznaną z krajowej rezerwy przeznaczonej dla dostawców hurtowych lub dostawców bezpośrednich, w okresie 2 lat od dnia wydania decyzji, o której mowa w ust. 1, nie może dokonać zbycia oraz oddać w używanie całości albo części kwoty indywidualnej przeznaczonej dla dostawców hurtowych lub dostawców bezpośrednich otrzymanej z krajowej rezerwy. ” ; 2) w art. 22 uchyla się ust. 12; 3) w art. 23 w ust. 2 pkt 2 otrzymuje brzmienie: „ 2) producent, który otrzymał kwotę indywidualną przyznaną z krajowej rezerwy przeznaczonej dla dostawców hurtowych lub dla dostawców bezpośrednich, przed upływem 2 lat od dnia wydania decyzji, o której mowa w art. 15 ust. 1, złoży wniosek o zatwierdzenie umowy zbycia albo oddania w używanie całości kwoty indywidualnej dla dostawców hurtowych lub dostawców bezpośrednich stanowiącej własność producenta, której wielkość odpowiada wielkości kwoty indywidualnej przyznanej z krajowej rezerwy, lub ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Do postępowań wszczętych od dnia 1 sierpnia 2014 r. na podstawie art. 22 ustawy zmienianej w art. 1, i niezakończonych wydaniem decyzji na podstawie art. 23 ust. 2 pkt 2 ustawy zmienianej w art. 1, stosuje się przepisy tej ustawy, w brzmieniu nadanym niniejszą ustawą. 2. Zrzeczenie się na piśmie praw wynikających z decyzji w sprawie przyznania kwoty indywidualnej z krajowej rezerwy, o którym mowa w art. 15 ust. 5 oraz art. 23 ust. 2 pkt 2 ustawy zmienianej w art. 1, zachowuje moc."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

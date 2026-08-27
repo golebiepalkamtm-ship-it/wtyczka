@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1994-201",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 marca 1994 r. zmieniająca ustawę o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości.",
+  "title_en": "",
+  "short_name": "pl-du-1994-201",
+  "status": "repealed",
+  "issued_date": "1994-03-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/201",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 września 1990 r. o zmianie ustawy o gospodarce gruntami i wywłaszczaniu nieruchomości ( Dz. U. Nr 79, poz. 464 , z 1991 r. Nr 83, poz. 373 i z 1992 r. Nr 91, poz. 455 ) po art. 2d dodaje się art. 2e w brzmieniu: „ Art. 2e. 1. Przedsiębiorstwa państwowe utworzone z dniem 1 maja 1991 r., 1 lipca 1991 r. oraz 1 stycznia 1992 r. na podstawie zarządzeń Ministra Transportu i Gospodarki Morskiej, które przejęły na ich podstawie mienie będące w zarządzie: rejonów dróg publicznych, okręgowych zakładów transportu i maszyn drogowych, rejonów budowy dróg i mostów, rejonów budowy dróg, rejonów budowy mostów, kopalni odkrywkowych surowców drogowych, rejonów eksploatacji kruszywa lub dyrekcji okręgowych dróg publicznych - nabywają z dniem ich wpisu do rejestru przedsiębiorstw państwowych, z mocy prawa, użytkowanie wieczyste gruntów wchodzących w skład tego mienia oraz własność położonych na nich budynków i innych urządzeń oraz lokali. Nie narusza to praw osób trzecich. 2. Nabycie własności budynków i innych urządzeń oraz lokali przez przedsiębiorstwa państwowe, o których mowa w ust. 1, następuje odpłatnie, jeżeli obiekty te nie były wybudowane lub nabyte ze środków własnych poprzedników prawnych tych przedsiębiorstw. Do nabycia stosuje się przepisy art. 2 ust. 3, 6 i 9 oraz odpowiednio przepisy wydane na podstawie art. 2d ustawy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

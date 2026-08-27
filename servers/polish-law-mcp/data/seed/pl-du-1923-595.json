@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-595",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lipca 1923 r. w sprawie podwyższenia kar oraz odszkodowania w postępowaniu administracyjno-karnem i dyscyplinarnem władz samorządowych w b. Galicji.",
+  "title_en": "",
+  "short_name": "pl-du-1923-595",
+  "status": "in_force",
+  "issued_date": "1923-07-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/595",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Najwyższą i najniższą granicą kar pieniężnych (grzywien), oznaczonych w walucie austrjackiej, nakładanych przez władze samorządowe, a przewidzianych: a) w galicyjskich ustawach gminnych z dnia 12 sierpnia 1866 r. (Dz. Ust. Kr. Nr. 9). z dnia 14 października 1870 r. (Dz. Ust. Kr. Nr. 79), z dnia 13 marca 1889 r. (Dz. Ust. Kr. Nr. 24), z dnia 3 lipca 1896 r. (Dz. Ust. Kr. Nr. 51), z dnia 6 października 1901 r. (Dz. Ust. Kr. Nr. 108); b) w galicyjskich ustawach budowniczych z dnia 28 kwietnia 1882 r. (Dz. Ust. Kr. Nr. 77), z dnia 17 lipca 1883 r. (Dz. Ust. Kr. Nr. 63), z dnia 21 kwietnia 1885 r. (Dz. Ust. Kr. Nr. 31), z dnia 4 kwietnia 1889 r. (Dz. Ust. Kr. Nr. 31) w brzmieniu, ustalonem ustawą z 15 maja 1907 roku (Dz. Ust. Kr. Nr. 56), z dnia 13 października 1899 r. (Dz. Ust. Kr. Nr. 133) w brzmieniu, ustalonem ustawą z 15 maja 1907 r. (Dz. Ust. Kr. Nr. 56); c) w galicyjskiej ustawie o policji ogniowej z 10 lutego 1891 r. (Dz. Ust. Kr. Nr. 18); d) w galicyjskiej ustawie o ochronie własności polnej z 17 lipca 1876 r. (Dz. Ust. Kr. Nr. 29) podwyższa się, licząc po 3.000 mkp. za jedną koroną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przy dopuszczalnej według wyszczególnionych w art. 1 ustaw zamianie grzywny na karą aresztu grzywnie 30.000 marek odpowiada 24 godzin aresztu, grzywnie poniżej 30.000 marek do 7.500 mk. włącznie odpowiada kara aresztu 12 godzin, a grzywnie poniżej 7.500 mk. - kara 6 godzin aresztu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kwotą, do której zaprzysiężona straż polowa może sama na mocy § 50 ustawy z 17 lipca 1876 r. (Dz. Ust. Kr. Nr. 28) szacować wyrządzoną szkodą, podwyższa się na 50.000 marek. Wyrażoną w § 54 tejże ustawy najwyższą sumą odszkodowania, którą przyznać może zwierzchność gminna, podwyższa się na 150.000 marek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie tej ustawy powierza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa obowiązuje z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

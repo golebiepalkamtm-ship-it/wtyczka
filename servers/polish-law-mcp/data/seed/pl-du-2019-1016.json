@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2019-1016",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 kwietnia 2019 r. o zmianie ustawy o ewidencji ludności",
+  "title_en": "",
+  "short_name": "pl-du-2019-1016",
+  "status": "amended",
+  "issued_date": "2019-04-04",
+  "in_force_date": "2019-05-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1016",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 września 2010 r. o ewidencji ludności ( Dz. U. z 2018 r. poz. 1382 i 1544 oraz z 2019 r. poz. 60 i 730 ) wprowadza się następujące zmiany: 1) w art. 47 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. W tej samej sprawie wniosek, o którym mowa w ust. 1, może zostać złożony wyłącznie do jednego organu dowolnej gminy. ” ; 2) w art. 50 w ust. 1 pkt 2 otrzymuje brzmienie: „ 2) organ dowolnej gminy, jeżeli udostępnienie dotyczy danych jednostkowych dla podmiotów, o których mowa w art. 46 ust. 1 i 2 pkt 1 i 3. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wnioski o udostępnienie danych z rejestru PESEL złożone przed dniem wejścia w życie niniejszej ustawy do ministra właściwego do spraw wewnętrznych rozpatruje minister właściwy do spraw wewnętrznych na podstawie przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Postępowania administracyjne wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy przed ministrem właściwym do spraw wewnętrznych w sprawach, w których właściwy na mocy przepisów niniejszej ustawy staje się organ gminy, są prowadzone na podstawie przepisów dotychczasowych przez ministra właściwego do spraw wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W celu wykonania przepisów ustawy Prezes Rady Ministrów może dokonywać, w drodze rozporządzenia, przeniesień planowanych wydatków budżetowych na rok 2019 między częściami, działami i rozdziałami budżetu państwa, z przeznaczeniem na sfinansowanie przekazanych zadań."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

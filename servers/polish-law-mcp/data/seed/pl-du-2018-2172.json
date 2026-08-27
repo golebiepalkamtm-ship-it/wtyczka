@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-2172",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 października 2018 r. o zmianie ustawy o kierujących pojazdami",
+  "title_en": "",
+  "short_name": "pl-du-2018-2172",
+  "status": "amended",
+  "issued_date": "2018-10-04",
+  "in_force_date": "2018-11-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2172",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami ( Dz. U. z 2017 r. poz. 978 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544 i 1629. ) w art. 6 w ust. 3 pkt 4 otrzymuje brzmienie: „ 4) kategorii B uprawnia do kierowania: a) motocyklem o pojemności skokowej silnika nieprzekraczającej 125 cm 3 , mocy nieprzekraczającej 11 kW i stosunku mocy do masy własnej nieprzekraczającym 0,1 kW/kg, b) motocyklem trójkołowym - pod warunkiem, że osoba posiada prawo jazdy kategorii B od co najmniej 3 lat. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098, 1099, 1284, 1544 i 1629. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

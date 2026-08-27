@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1937-218",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1937 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o sprzedaży wyrobów tytoniowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-218",
+  "status": "repealed",
+  "issued_date": "1937-04-09",
+  "in_force_date": "1937-04-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/218",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o sprzedaży wyrobów tytoniowych (Dz. U. R. P. Nr 84, poz. 617) wprowadza się zmiany następujące: 1) art. 2 otrzymuje brzmienie następujące: „ Sprzedaż wyrobów tytoniowych, zarówno hurtowa jak i detaliczna, może być wykonywana z wyjątkami, przewidzianymi w art. 3, 3a i 7, tylko przez osoby fizyczne lub prawne, z którymi Polski Monopol Tytoniowy zawrze odpowiednie umowy. Przy zawieraniu umów z Polskim Monopolem Tytoniowym o sprzedaż wyrobów tytoniowych przy równych warunkach pierwszeństwo mają inwalidzi wojenni, wdowy po nich i po poległych na wojnie oraz uczestnicy walk o Niepodległość i ich organizacje. ” ; 2) po art. 2 wstawia się nowy art. 2a treści następującej: „ Sprzedaż wyrobów tytoniowych, zarówno hurtowa jak i detaliczna, może być wykonywana przez osoby, które zawarły odpowiednie umowy w myśl art. 2, jak i przez osoby, sprzedające w myśl art. 3, 3a i 7 - jedynie na własne ryzyko i rachunek. ” ; 3) po art. 2a wstawia się nowy art. 2b treści następującej: „ Umowy o hurtową sprzedaż wyrobów tytoniowych będzie Polski Monopol Tytoniowy zawierał na zasadach rejonów terytorialnych, a w umowach o sprzedaż detaliczną - określi stałe miejsce zakupu wyrobów tytoniowych. Minister Skarbu ustala ilość przedsiębiorstw sprzedaży wyrobów tytoniowych, dla których prowadzenia wymagane jest zezwolenie władzy skarbowej, albo zawarcie umowy z Polskim Monopolem Tytoniowym. ” ; 4) po artykule 3 wprowadza się nowy artykuł 3a treści następującej: „ Minister Skarbu może zezwolić na prowadzenie detalicznej sprzedaży wyrobów tytoniowych w zakładach hotelarskich, gastronomicznych, kantynach i bufetach (poza miejscami, wymienionymi w art. 3) oraz na obszarach gmin wiejskich, bez zawierania umowy z Polskim Monopolem Tytoniowym pod warunkami przez siebie określonymi. ” ; 5) art. 7 otrzymuje brzmienie następujące: „ Przedsiębiorstwo Polski Monopol Tytoniowy może wprowadzać do obrotu wyroby tytoniowe również za pośrednictwem hurtowni, prowadzonych we własnym zarządzie. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Skarbu do stopniowego wprowadzania w życie postanowień niniejszej ustawy na poszczególnych obszarach w ten sposób, by wprowadzenie jej na terytorium całego Państwa nastąpiło najpóźniej do dnia 1 kwietnia 1938 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Osoby, trudniące się sprzedażą detaliczną wyrobów tytoniowych w sposób ciągły co najmniej w okresie półrocznym do dnia 1 marca 1937 r. włącznie bez zezwolenia, mogą wykonywać tę sprzedaż w ciągu roku od chwili wprowadzenia w życie postanowień niniejszej ustawy na obszarze, gdzie znajdują się ich przedsiębiorstwa, w trybie określonym w art. 2. Osoby te nie będą jednak mogły otrzymywać w tym czasie rabatów przy nabywaniu wyrobów tytoniowych. (2) Przepis ustępu poprzedniego nie ma zastosowania do osób, które sprzedaż wyrobów tytoniowych będą prowadziły bez umów bądź zezwoleń, w myśl przepisów, wydanych przez Ministra Skarbu na zasadzie art. 3a."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Skarbu do ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o sprzedaży wyrobów tytoniowych (Dz. U. R. P. Nr 84, poz. 617) z uwzględnieniem zmian, wprowadzonych ustawą niniejszą."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

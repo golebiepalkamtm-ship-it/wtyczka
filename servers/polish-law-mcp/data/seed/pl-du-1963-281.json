@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1963-281",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 listopada 1963 r. zmieniająca ustawę o zmianie imion i nazwisk.",
+  "title_en": "",
+  "short_name": "pl-du-1963-281",
+  "status": "repealed",
+  "issued_date": "1963-11-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1963/281",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 listopada 1956 r. o zmianie imion i nazwisk ( Dz. U. Nr 56, poz. 254 ) wprowadza się następujące zmiany: 1) w art. 5: a) ust. 2 otrzymuje brzmienie: „ 2. Jeżeli zmiana nazwiska dotyczy tylko jednego z rodziców, rozciągnięcie jej na małoletnie dziecko wymaga zgody drugiego z rodziców, chyba że nie ma on pełnej zdolności do czynności prawnych, nie żyje lub nie jest znany albo że jest pozbawiony władzy rodzicielskiej. Gdy dziecko ukończyło 14 lat, potrzebna jest również jego zgoda. ” , b) dodaje się ust. 3 i 4 w brzmieniu: „ 3. W razie braku porozumienia między rodzicami każde z nich może zwrócić się o rozstrzygnięcie do władzy opiekuńczej. Decyzja co do zmiany nazwiska małoletniego dziecka zapada po uprawomocnieniu się postanowienia władzy opiekuńczej. 4. Przepisy ust. 2 i 3 stosuje się odpowiednio w przypadku, gdy zmiana nazwiska ma dotyczyć tylko małoletniego dziecka. Z wnioskiem o zmianę nazwiska małoletniego dziecka występuje przedstawiciel ustawowy. ” ; 2) w art. 7 po wyrazach „ust. 2 pkt 1 i 2” dodaje się wyrazy „oraz art. 5 ust. 3 i 4” ; 3) art. 8 otrzymuje brzmienie: „ Art. 8. 1. W sprawach określonych w ustawie orzeka organ spraw wewnętrznych prezydium powiatowej rady narodowej miejsca zamieszkania wnioskodawcy, a w braku takiego miejsca - organ spraw wewnętrznych Prezydium Dzielnicowej Rady Narodowej Warszawa-Śródmieście. 2. Ilekroć w ustawie jest mowa o organie spraw wewnętrznych prezydium powiatowej rady narodowej, należy przez to rozumieć także organ spraw wewnętrznych prezydium miejskiej (miasta stanowiącego powiat) i dzielnicowej (w mieście wyłączonym z województwa) rady narodowej. ” ; 4) art. 9 otrzymuje brzmienie: „ Art. 9. 1. Podania w sprawach określonych w ustawie osoby zamieszkałe w Polsce składają w organach określonych w art. 8. Jeżeli wnioskodawca zamieszkuje lub przebywa za granicą, podanie należy złożyć za pośrednictwem urzędu konsularnego (dyplomatycznego) Polskiej Rzeczypospolitej Ludowej do organu spraw wewnętrznych prezydium miejscowo właściwej powiatowej rady narodowej. 2. Właściwość miejscową organów spraw wewnętrznych prezydium powiatowej rady narodowej określa, jeśli chodzi o osoby zamieszkałe za granicą, ostatnie ich miejsce zamieszkania lub pobytu w Polsce. W braku tych podstaw właściwy jest organ spraw wewnętrznych Prezydium Dzielnicowej Rady Narodowej Warszawa-Śródmieście. ” ; 5) art. 10 otrzymuje brzmienie: „ Art. 10. 1. Organ spraw wewnętrznych prezydium powiatowej rady narodowej ustala w razie wątpliwości na wniosek strony pisownię lub brzmienie imienia i nazwiska. 2. Przepis ust. 1 stosuje się odpowiednio w przypadkach dostosowania pisowni imion i nazwisk do zasad pisowni polskiej zgodnie z fonetycznym brzmieniem. 3. Ustalenie pisowni określone w ust. 2 może nastąpić również z urzędu, jeżeli imię lub nazwisko ma brzmienie polskie. ” ; 6) po art. 10 dodaje się art. 10a w brzmieniu: „ Art. 10a. 1. Organ orzekający zawiadamia o zmianie imienia i nazwiska urzędy stanu cywilnego właściwe ze względu na miejsce sporządzenia aktu urodzenia i małżeństwa wnioskodawcy oraz miejsca sporządzenia aktów urodzeń jego małoletnich dzieci, a ponadto organy Milicji Obywatelskiej, organy finansowe prezydiów rad narodowych właściwych ze względu na miejsce zamieszkania wnioskodawcy i rejestr skazanych. 2. Przepis ust. 1 stosuje się odpowiednio w przypadkach przewidzianych w art. 10. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Spraw Wewnętrznych ogłosi w drodze obwieszczenia jednolity tekst ustawy z dnia 15 listopada 1956 r. o zmianie imion i nazwisk z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

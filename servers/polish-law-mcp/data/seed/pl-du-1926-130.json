@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1926-130",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 1926 r. o utworzeniu samodzielnej gminy wiejskiej \"Czachary-Zbaraskie\" w powiecie zbaraskim.",
+  "title_en": "",
+  "short_name": "pl-du-1926-130",
+  "status": "in_force",
+  "issued_date": "1926-02-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/130",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osadę (przysiółek) „Czachary - Zbaraskie”, należącą do gminy miejskiej „Zbaraż” w powiecie zbaraskim, wyłącza się z jej dotychczasowego związku gminnego i tworzy z tej osady samodzielną gminę administracyjną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na nowoutworzoną gminę „Czachary - Zbaraskie” rozciąga się moc ustawy z dnia 12 sierpnia 1866 r., obowiązującej w b. Królestwie Galicji i Lodomerji z Wielkiem Księstwem Krakowskiem o urządzeniu gmin i ordynacji wyborczej (Dz. Ust. Kraj. № 19). Do czasu przeprowadzenia wyborów reprezentacji gminnej w myśl ustawy, powołanej w ustępie pierwszym, tymczasowe spełnianie czynności administracyjnych w gminie powierzone będzie zarządowi, ustanowionemu według ostatniego ustępu paragrafu 109 wspomnianej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1926 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

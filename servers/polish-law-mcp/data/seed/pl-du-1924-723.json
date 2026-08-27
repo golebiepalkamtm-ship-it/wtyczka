@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1924-723",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1924 r. o poborze przez Skarb Państwa akcji nowych emisji.",
+  "title_en": "",
+  "short_name": "pl-du-1924-723",
+  "status": "repealed",
+  "issued_date": "1924-07-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/723",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W wypadkach, gdy nowe emisje akcji spółek akcyjnych wypuszczone zostają z zastrzeżeniem pierwszeństwa prawa poboru dla akcjonarjuszów spółki, Skarb Państwa uprawniony będzie narówni z akcjonarjuszami spółki do wykorzystania prawa poboru akcji nowej emisji zamiast tych akcjonarjuszów, którzy ze swego prawa poboru nie skorzystali."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przywilej powyższy służyć będzie Skarbowi wyłącznie w stosunku do tych spółek akcyjnych, które zostały założone przed 1 sierpnia 1914 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zarząd spółki akcyjnej obowiązany jest najdalej w ciągu miesiąca od terminu prekluzyjnego, wyznaczonego dla przedstawienia akcji poprzednich emisji i uskutecznienia poboru akcji nowej emisji (od terminu zamknięcia subskrypcji), zakomunikować Ministerstwu Skarbu dane o liczbie akcji, nie przedstawionych do nowej subskrypcji. Decyzje sądowe w przedmiocie zakazów dokonywania tranzakcji i uskuteczniania wypłat z tytułów na okaziciela zaginionych lub co do których istnieje przypuszczenie, że zostały zniszczone lub zaginęły, o ile osoby, na których żądanie wspomniane decyzje zostały wydane, wykonają warunki emisji, traktowane będą narówni z akcjami, przedstawionemi w oryginale."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W terminie dwutygodniowymod daty otrzymania zawiadomienia, o którym mowa w art. 3 ust. 1, władny będzie Minister Skarbu wykonać zastrzeżone na rzecz Skarbu Państwa prawo poboru akcji nowej emisji w granicach, w których uzna to dla Skarbu za korzystne. O ile Minister Skarbu prawa poboru nie wykona, względnie wykona go tylko częściowo, zarząd spółki akcyjnej z resztą akcji nowej, emisji postąpi w myśl obowiązujących przepisów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Właściciele akcji, którzy w terminie prekluzyjnym z przyczyn uzasadnionych prawa swego do poboru akcji nowej emisji nie wykonali, będą mogli w ciągu lat piqciu od daty zamknięcia subskrypcji wystąpić z żądaniem odstąpienia im tych akcji, do których poboru uprzednio byli uprawnieni i które nabył dla siebie Skarb Państwa w wykonaniu zastrzeżonego w ustawie niniejszej przywileju. Akcje te zostaną odstąpione po uiszczeniu sum, wyłożonych przez Skarb Państwa na nabycie tych akcji, kosztów, z tranzakcją związanych, i % stosunku 1% od sta miesięcznie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Skarbu oraz organa, przez niego upoważnione, mają prawo kontroli ksiąg handlowych spółki akcyjnej w celu sprawdzenia prawidłowości danych, przez spółkę przedstawionych (art. 3 ust. 1)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zawarte w ustawach i w warunkach emisyjnych postanowienia, sprzeczne z niniejszą ustawą, tracą moc obowiązującą."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i ma zastosowanie do emisji akcji już zakończonych, o ile akcje nowej emisji, względnie świadectwa czasowe nie zostały wydane akcjonarjuszom."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza traci moc obowiązującą dnia 31 grudnia 1927 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

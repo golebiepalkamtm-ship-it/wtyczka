@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1921-8",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 grudnia 1920 r. w przedmiocie zmiany art. VI ustawy z dnia 23 maja 1873 r. ustawy wprowadzającej procedurę karną.",
+  "title_en": "",
+  "short_name": "pl-du-1921-8",
+  "status": "in_force",
+  "issued_date": "1920-12-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/8",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. VI ustawy z dnia 23 maja 1873 r. (austr. dz. u. p. № 119), wprowadzającej procedurę karną otrzymuje brzmienie następujące: „ Do sądów przysięgłych należy rozprawa główna w przedmiocie wszystkich oskarżeń: A. o zdradę i występki, popełnione osnową pisma drukowego; B. o następujące zbrodnie i występki: 1) zbrodnię główną (§ 58 - 61 austr. ustawy karnej z dnia 27 maja 1852 r. Dz. u. p. № 117 i art. 1 austr. ustawy z dnia 17 grudnia 1862 r. Dz. u. p. № 8 z r. 1863); 2) zaburzenie spokojności publicznej (§ 65 i 66 u. k. i art. II ustawy z dnia 17 grudnia 1862 r. Dz. u. p. № 8 z r. 1863); 3) bunt i rozruch (§§ 68 - 73 i 75 u. k.); 4) gwałt publiczny: a) przez gwałtowne działanie przeciw zgromadzeniu, powołanemu przez Rząd do załatwiania spraw publicznych, przeciw sądowi lub innej władzy publicznej (§§ 76, 77 i 80 u. k.); b) przez gwałtowne działanie przeciw korporacjom prawnie uznanym lub przeciw zgromadzeniom, odbywającym się za współudziałem lub pod nadzorem władzy publicznej (§§ 78, 79 i 80 u. k.); 5) nadużycie władzy urzędowej (§§ 101 - 103); 6) o obrazę religji (§§ 122 i 123), jednak tylko wtedy, gdy w akcie oskarżenia wyraźny uczyniono wniosek, aby według § 123 z powodu wielkiej złośliwości lub niebezpieczeństwa wymierzono karą większą, niż pięcioletniego więzienia; 7) znieważanie zarządzeń władz i podburzanie (§ 300 u. k. i art. III i IV ustawy z dnia 17 grudnia 1862 r. Dz. u. p. № 8 z r. 1863); 8) podburzenie do kroków nieprzyjaznych (§ 302 u. k.); 9) o zbrodnie, przewidziane w §§ 4, 5, 6 i 8 ustawy z dnia 27 maja 1885 r. № 134 Dz. u. p.; C. o zbrodnie, zagrożone śmiercią, karą dożywotniego więzienia lub karą więzienia powyżej lat dziesięciu, z wyjątkiem jednak zbrodni, dla których ustawy szczególne przewidują wyjątkowo inny skład sądu orzekającego. Trybunał pierwszej instancji jest również jako sąd orzekający upoważniony do stosowania przepisów § 338 p. k. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie w dniach 7 po ogłoszeniu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Oskarżenia o zbrodnie, które w myśl przepisów powyższych nie należą już nadal do właściwości sądów przysięgłych, a co do których w dniu wejścia w życie niniejszej ustawy nie zarządzono jeszcze rozprawy głównej, rozpatrzy i rozstrzygnie trybunał pierwszej instrancji jako sąd orzekający (par. 13, 1. 1 p. k.)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

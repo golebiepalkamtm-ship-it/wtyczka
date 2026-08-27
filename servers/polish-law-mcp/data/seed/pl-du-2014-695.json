@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-695",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy o odpadach",
+  "title_en": "",
+  "short_name": "pl-du-2014-695",
+  "status": "amended",
+  "issued_date": "2014-04-04",
+  "in_force_date": "2014-05-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/695",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 grudnia 2012 r. o odpadach ( Dz. U. z 2013 r. poz. 21 , 888 i 1238 ) po art. 244 dodaje się art. 244a w brzmieniu: „ Art. 244a. 1. Zgoda na zamknięcie składowiska odpadów lub jego wydzielonej części, wydana na podstawie art. 54 ust. 1 ustawy, o której mowa w art. 252, oraz decyzja o zamknięciu składowiska odpadów, wydana na podstawie art. 54c ust. 1 ustawy, o której mowa w art. 252, mogą być zmieniane w zakresie: 1) technicznego sposobu zamknięcia składowiska odpadów lub jego wydzielonej części; 2) harmonogramu działań związanych z rekultywacją składowiska odpadów; 3) sposobu sprawowania nadzoru nad zrekultywowanym składowiskiem odpadów, w tym monitoringu, oraz warunków wykonania tego obowiązku. 2. Prawa i obowiązki wynikające z decyzji, o których mowa w ust. 1, mogą być przeniesione na inny podmiot, jeżeli podmiot ten daje rękojmię prawidłowego wykonania obowiązków wynikających z tych decyzji i wyrazi zgodę na przejęcie wszystkich praw i obowiązków wynikających z tych decyzji. 3. Organem właściwym w sprawach, o których mowa w ust. 1 i 2, jest marszałek województwa, a w przypadku przedsięwzięć i zdarzeń na terenach zamkniętych - regionalny dyrektor ochrony środowiska. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

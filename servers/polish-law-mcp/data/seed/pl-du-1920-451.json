@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-451",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. w przedmiocie taksy tymczasowej dla pisarzy hipotecznych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-451",
+  "status": "repealed",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/451",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Pisarz hipoteczny pobiera: 1. Od wniosku o przepisanie tytułu własności, wciągnięcie do ksiąg hipotecznych tytułów dłużnych oraz regulację spadku: a) do 5.000 mk. 2% najmniej jednak 30 mk. b) powyżej 5.000 mk. od nadwyżki 1/10% 2. Od wniosku o wpisanie do wykazu hipotecznego kaucji, hipotek sądowych i hipotek prawnych oraz wszelkich ostrzeżeń na sumę: a) do 5.000 mk. 2% najmniej jednak 30 mk. b) powyżej 5.000 mk. od nadwyżki 1/10% nie więcej jednak niż 500 mk. 3. Od wniosku o wykreślenie praw hipotekowanych na sumą: a) do 100.000 mk. - polowa wynagrodzenia, w p. 1 przewidzianego, najmniej jednak ... 15 mk. b) powyżej 100.000 mk. - od nadwyżki czwarta część tegoż wynagrodzenia, nie więcej jednak niż 500 mk. 4. Od wniosku o odłączenie ksiąg hipotecznych, lub o połączenie ksiąg oddzielnych: a) w księdze głównej 100 mk. b) w księdze nowozałożonej 30 mk. 5. Od wniosku o przerobienie czyli uporządkowanie wykazu hipotecznego ... 75 mk. ponadto od każdej treści, ulegającej przepisaniu 5 mk. 6. Od protokułu pierwiastkowego zaprowadzenia hipoteki: a) w kancelarjach hipotecznych przy sądach pokoju 50 mk. b) w kancelarjach hipotecznych przy sądach okręgowych 150 mk. 7. Od wszelkich innych wniosków, jako to: o wezwanie do pierwiastkowego zaprowadzenia hipoteki, o ogłoszenie postępowania spadkowego, o podniesienie decyzji zwierzchności hipotecznej, ujawnienie spadku wakującego, działów, pozostawanie w niepodzielności, wdrożenia postępowania egzekucyjnego, od wniosków łącznych (dodatkowych) i t. p. ... 30 mk. 8. Od protokułów faktycznego wydania listów zastawnych instytucji kredytowych ... 1/20 część procentu od sumy nominalnej. 9. Za wciągnięcia do wykazu hipotecznego treści, za każdą treść 3 mk. 10. Od odpisów z wykazów hipotecznych, wypisów i odpisów aktów notarjalnych, aktów stanu cywilnego, zaświadczeń z repertorjów i ksiąg opłat, poświadczenia terminów zamknięcia postępowania spadkowego: za każdą stronicę całą lub zaczętą 4 mk. najmniej jednak 8 mk. Stronica arkusza powinna obejmować najmniej 25 wierszy, a każdy wiersz najmniej 18 sylab. 11. Za świadectwa z wykazu hipotecznego specjalne (rozumowane) ... 30 mk. 12. Od każdej pozycji świadectwa zamieszkań osób, mających ujawnione prawa w wykazie hipotecznym ... 2 mk. najmniej jednak 8 mk."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rada Ministrów na wniosek Ministra Sprawiedliwości jest uprawniona do obniżania lub podwyższania stawek taksy niniejszej w razie zmiany warunków ekonomicznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pisarz hipoteczny obowiązany jest w każdym wniosku, protokule, zaświadczeniu, jak również na wydanych dokumentach wyraźnie zaznaczyć, jakie i w jakiej wysokości opłaty pobrane zostały, nie wyłączając opłaty, na rzecz jego uiszczonej. Tekst ustawy niniejszej winien być wywieszony w kancelarji hipotecznej w miejscu widocznem i dostępnem."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dekret Naczelnika Państwa z dnia 8 lutego 1919 roku (Dz. Pr. № 15, poz. 204) w przedmiocie taksy tymczasowej dla pisarzów hipotecznych uchyla się."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje na obszarze b. dzielnicy rosyjskiej z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_1-pass_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pass_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_1-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"arti_1-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"arti_1-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"},{\"id\": \"arti_1-pass_8\",\"symbol\": \"pass_8\",\"type\": \"pass\",\"name\": \"8\",\"title\": \"8.\"},{\"id\": \"arti_1-pass_9\",\"symbol\": \"pass_9\",\"type\": \"pass\",\"name\": \"9\",\"title\": \"9.\"},{\"id\": \"arti_1-pass_10\",\"symbol\": \"pass_10\",\"type\": \"pass\",\"name\": \"10\",\"title\": \"10.\"},{\"id\": \"arti_1-pass_11\",\"symbol\": \"pass_11\",\"type\": \"pass\",\"name\": \"11\",\"title\": \"11.\"},{\"id\": \"arti_1-pass_12\",\"symbol\": \"pass_12\",\"type\": \"pass\",\"name\": \"12\",\"title\": \"12.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

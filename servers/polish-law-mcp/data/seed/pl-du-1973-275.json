@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1973-275",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 listopada 1973 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej.",
+  "title_en": "",
+  "short_name": "pl-du-1973-275",
+  "status": "repealed",
+  "issued_date": "1973-11-22",
+  "in_force_date": "1973-11-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1973/275",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Konstytucji Polskiej Rzeczypospolitej Ludowej wprowadza się następujące zmiany: 1) tytuł rozdziału 5 otrzymuje brzmienie: „ Terenowe organy władzy i administracji państwowej ” , 2) art. 41 otrzymuje brzmienie: „ Art. 41. 1. Rady narodowe obradują na sesjach. 2. Rady narodowe uchwalają terenowe plany gospodarcze oraz budżety terenowe. ” , 3) art. 42 otrzymuje brzmienie: „ Art. 42. 1. Terenowymi organami administracji państwowej oraz organami wykonawczymi i zarządzającymi rad narodowych są: wojewodowie, prezydenci lub naczelnicy miast, naczelnicy powiatów, naczelnicy dzielnic i naczelnicy gmin. 2. Terenowy organ administracji państwowej podlega organowi administracji państwowej wyższego stopnia, a w zakresie wykonywania zadań ustalonych przez radę narodową - właściwej radzie narodowej. ” , 4) art. 44 otrzymuje brzmienie: „ Art. 44. Rada narodowa uchyla uchwałę rady narodowej niższego stopnia, jeżeli uchwała jest sprzeczna z prawem lub niezgodna z zasadniczą linią polityki państwa. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 9 grudnia 1973 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

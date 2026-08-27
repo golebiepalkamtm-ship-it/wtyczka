@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2001-1370",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 września 2001 r. o zmianie ustawy o podatku dochodowym od osób fizycznych.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1370",
+  "status": "amended",
+  "issued_date": "2001-09-06",
+  "in_force_date": "2001-10-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1370",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2000 r. Nr 14, poz. 176 , Nr 22, poz. 270 , Nr 60, poz. 703 , Nr 70, poz. 816 , Nr 104, poz. 1104 , Nr 117, poz. 1228 i Nr 122, poz. 1324 oraz z 2001 r. Nr 4, poz. 27 , Nr 8, poz. 64 , Nr 52, poz. 539 , Nr 73, poz. 764 , Nr 74, poz. 784 , Nr 88, poz. 961 , Nr 89, poz. 968 , Nr 102, poz. 1117 , Nr 106, poz. 1150 , Nr 110, poz. 1190 i Nr 125, poz. 1363 ) wprowadza się następujące zmiany: 1) w art. 21: a) w ust. 1: - pkt 39 otrzymuje brzmienie: „ 39) stypendia otrzymywane na podstawie przepisów wydanych przez właściwego ministra w sprawie studiów doktoranckich i stypendiów naukowych oraz inne stypendia naukowe i za wyniki w nauce, których zasady przyznawania zostały zatwierdzone przez ministra właściwego do spraw szkolnictwa wyższego po zasięgnięciu opinii Rady Głównej Szkolnictwa Wyższego albo przez ministra właściwego do spraw oświaty i wychowania, ” - dodaje się pkt 40b w brzmieniu: „ 40b) stypendia dla uczniów i studentów, których wysokość i zasady udzielania zostały określone w uchwale organu stanowiącego jednostki samorządu terytorialnego, oraz stypendia dla uczniów i studentów przyznane przez fundacje lub stowarzyszenia na podstawie regulaminów zatwierdzonych przez organy statutowe udostępnianych do publicznej wiadomości za pomocą internetu, środków masowego przekazu lub wykładanych (wywieszanych) dla zainteresowanych w pomieszczeniach ogólnie dostępnych - do wysokości nieprzekraczającej miesięcznie połowy najniższego wynagrodzenia za pracę ogłaszanego na podstawie odrębnych przepisów, za grudzień roku poprzedzającego rok podatkowy, ” b) dodaje się ust. 10 w brzmieniu: „ 10. Zwolnienie, o którym mowa w ust. 1 pkt 40b, stosuje się, jeżeli podatnik przed pierwszą wypłatą świadczenia złoży płatnikowi oświadczenie według ustalonego wzoru, że nie uzyskuje równocześnie innych dochodów podlegających opodatkowaniu, z wyjątkiem renty rodzinnej oraz dochodów określonych w art. 28 i 30. ” ; 2) w art. 35 dodaje się ust. 10 w brzmieniu: „ 10. Płatnicy stypendiów, o których mowa w art. 21 ust. 1 pkt 40b, są obowiązani w terminie do dnia 15 marca roku następującego po roku podatkowym sporządzić w trzech egzemplarzach według ustalonego wzoru, odrębnie dla każdego podatnika, informację o wysokości wypłaconego stypendium i przekazać ją podatnikowi oraz urzędowi skarbowemu właściwemu według miejsca zamieszkania podatnika. ” ; 3) w art. 42b w pkt 1 po wyrazach „art. 34 ust. 8,” dodaje się wyrazy „art. 35 ust. 10,” ; 4) w art. 45b: a) w pkt 1 wyrazy „art. 35 ust. 7” zastępuje się wyrazami „art. 35 ust. 7 i 10” , b) w pkt 4 po wyrazach „oświadczeń, o których mowa w” dodaje się wyrazy „art. 21 ust. 10,” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

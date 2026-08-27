@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-215",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 marca 1931 r. o sprzedaży niektórych nieruchomości państwowych w województwie poznańskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1931-215",
+  "status": "in_force",
+  "issued_date": "1931-03-20",
+  "in_force_date": "1931-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/215",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż w drodze przetargu publicznego następujących nieruchomości państwowych, położonych w województwie poznańskiem: a) nieruchomości, położonej na obszarze dworskim Leszcze w powiecie strzelińskim, zapisanej w ks. grunt. obw. dw. Leszcze, tom I, karta 2, stanowiącej parcelę Nr 55/5 o powierzchni 2500 m 2 ; b) nieruchomości, położonej w gm. Papros w powiecie strzelińskim, zapisanej w ks. grunt. gm. Papros, tom I, karta 19 (dawniej karta 5-a), składającej się z parcel: Nr 121, 122 i 165/105-a o łącznej powierzchni 10480 m 2 ; c) nieruchomości, położonej na obszarze dworskim Boczków w powiecie ostrowskim, zapisanej w ks. grunt. obw. dw. Boczków, karta 1, stanowiącej parcelę Nr 40/4 o powierzchni 5106 m 2 ; d) nieruchomości, położonej w gminie Porębie w powiecie jarocińskim, zapisanej w ks. grunt. gm. Poręba, tom II, karta 38, składającej się z parcel: Nr. 82/18 i 83/21 o łącznej powierzchni 3348 m 2 ; e) nieruchomości, położonej w Nowym Dworze w gminie Grabów - Wójtostwo w powiecie ostrzeszowskim, zapisanej w ks. grunt, gm. Grabów, tom IX, karta 454, składającej się z parcel: Nr.596/13 etc., 597/14 etc., 598/14 etc., 599/14 etc., 600/14 etc., o łącznej powierzchni 15000 m 2 ; f) nieruchomości, położonej na obszarze dworskim Czermin w powiecie pleszewskim, zapisanej w ks. grunt. gm. Czermin, tom IV, karta 120, stanowiącej parcelę Nr 57/22 o powierzchni 2330 m 2"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

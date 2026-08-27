@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2020-1503",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 2020 r. o zmianie ustawy o odnawialnych źródłach energii",
+  "title_en": "",
+  "short_name": "pl-du-2020-1503",
+  "status": "amended",
+  "issued_date": "2020-07-16",
+  "in_force_date": "2020-09-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/1503",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 lutego 2015 r. o odnawialnych źródłach energii ( Dz. U. z 2020 r. poz. 261 , 284 , 568 , 695 i 1086 ) po art. 184e dodaje się art. 184f i art. 184g w brzmieniu: „ Art. 184f. Od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. za drewno energetyczne uznaje się: 1) surowiec drzewny niebędący drewnem tartacznym i skrawanym, stanowiącym dłużyce, kłody tartaczne i skrawane oraz niebędący materiałem drzewnym powstałym w wyniku procesu celowego rozdrobnienia tego surowca drzewnego; 2) produkty uboczne będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie; 3) odpady, będące efektem przetworzenia surowca drzewnego, niezanieczyszczone substancjami niewystępującymi naturalnie w drewnie, zagospodarowywane zgodnie z hierarchią sposobów postępowania z odpadami. Art. 184g. W okresie od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. do drewna energetycznego w rozumieniu art. 184f nie stosuje się przepisów wydanych na podstawie art. 119a. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Do energii elektrycznej, która przed dniem 1 października 2020 r. została wytworzona z drewna energetycznego, w sprawach: 1) o wydanie świadectw pochodzenia w rozumieniu art. 44 ust. 1 ustawy zmienianej w art. 1, 2) związanych z pokryciem ujemnego salda, o którym mowa w art. 93 ust. 1 pkt 4 i ust. 2 pkt 3 ustawy zmienianej w art. 1, dla: a) wytwórcy, o którym mowa w art. 70a ust. 2 ustawy zmienianej w art. 1, który zadeklarował sprzedaż wytworzonej przez siebie i niewykorzystanej energii elektrycznej wybranemu podmiotowi, innemu niż sprzedawca zobowiązany w rozumieniu art. 40 ust. 1 ustawy zmienianej w art. 1, b) wytwórcy, o którym mowa w art. 93 ust. 2 ustawy zmienianej w art. 1, który sprzedaje energię elektryczną z odnawialnych źródeł energii w okresie określonym w przepisach wydanych na podstawie art. 77 ust. 3 ustawy zmienianej w art. 1, c) sprzedawcy zobowiązanego w rozumieniu art. 40 ust. 1 ustawy zmienianej w art. 1, który wykonuje obowiązek zakupu energii elektrycznej, o którym mowa w art. 70c ust. 2 oraz art. 92 ust. 1 ustawy zmienianej w art. 1 - wszczętych i niezakończonych do dnia 30 września 2020 r. oraz wszczętych po tym dniu i odnoszących się do tej energii, stosuje się przepis art. 2 pkt 7a ustawy zmienianej w art. 1. 2. Do energii elektrycznej, która w okresie od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. została wytworzona z drewna energetycznego, w sprawach określonych w ust. 1, wszczętych i niezakończonych w okresie od dnia 1 października 2020 r. do dnia 31 grudnia 2021 r. oraz wszczętych po dniu 31 grudnia 2021 r., stosuje się przepisy art. 184f i art. 184g ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2020 r. 1) Niniejsza ustawa została notyfikowana Komisji Europejskiej w dniu 4 czerwca 2020 r. pod numerem 2020/0337/PL, zgodnie z § 4 rozporządzenia Rady Ministrów z dnia 23 grudnia 2002 r. w sprawie sposobu funkcjonowania krajowego systemu notyfikacji norm i aktów prawnych (Dz. U. poz. 2039 oraz z 2004 r. poz. 597), które wdraża dyrektywę (UE) 2015/1535 Parlamentu Europejskiego i Rady z dnia 9 września 2015 r. ustanawiającą procedurę udzielania informacji w dziedzinie przepisów technicznych oraz zasad dotyczących usług społeczeństwa informacyjnego (ujednolicenie) (Dz. Urz. UE L 241 z 17.09.2015, str. 1). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_2-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pass_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,896 @@
+{
+  "id": "pl-du-1991-252",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 czerwca 1991 r. Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1991-252",
+  "status": "repealed",
+  "issued_date": "1991-06-28",
+  "in_force_date": "1991-07-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/252",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wybory posłów na Sejm Rzeczypospolitej Polskiej są powszechne, bezpośrednie, równe i wolne oraz przeprowadzane w głosowaniu tajnym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do Sejmu Rzeczypospolitej Polskiej wybiera się, według zasady proporcjonalności, 460 posłów, z tym że: 1) 391 posłów wybiera się z okręgowych list kandydatów na posłów w wielomandatowych okręgach wyborczych, 2) 69 posłów wybiera się z ogólnopolskich list kandydatów na posłów powiązanych z okręgowymi listami kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Każdy wyborca ma jeden głos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Kadencja Sejmu rozpoczyna się w dniu pierwszego posiedzenia i trwa do czasu zebrania się posłów na pierwszym posiedzeniu Sejmu następnej kadencji. 2. Prezydent Rzeczypospolitej Polskiej zarządza wybory nie później niż na 4 miesiące przed upływem kadencji Sejmu, wyznaczając datę wyborów na dzień ustawowo wolny od pracy, przypadający w ostatnim miesiącu upływającej kadencji Sejmu. Zarządzenie Prezydenta ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 115 dniu przed dniem wyborów. 3. W zarządzeniu, o którym mowa w ust. 2, Prezydent oznacza równocześnie dni, w których upływają terminy dokonania czynności przewidzianych w niniejszej ustawie (kalendarz wyborczy)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. W razie rozwiązania Sejmu, Prezydent najpóźniej w 7 dniu od dnia postanowienia o rozwiązaniu Sejmu zarządza wybory do Sejmu, wyznaczając ich datę na dzień ustawowo wolny od pracy przypadający w ciągu czterech miesięcy od dnia postanowienia o rozwiązaniu Sejmu. 2. Zarządzenie Prezydenta ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej najpóźniej w 100 dniu przed dniem wyborów; w takim wypadku przepisy art. 4 ust. 3 stosuje się odpowiednio. Rozdział 2 Prawa wyborcze obywateli"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Prawo wybierania mają osoby posiadające obywatelstwo polskie, które w dniu wyborów mają ukończone 18 lat (czynne prawo wyborcze). 2. Prawo wybierania przysługuje także osobom, których obywatelstwo polskie nie zostało stwierdzone i które nie są obywatelami innego państwa, jeżeli stale zamieszkują na terytorium Rzeczypospolitej Polskiej co najmniej od 5 lat."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Nie mają prawa wybierania osoby: 1) pozbawione praw publicznych prawomocnym orzeczeniem sądu, 2) pozbawione praw wyborczych orzeczeniem Trybunału Stanu, 3) ubezwłasnowolnione całkowicie lub częściowo prawomocnym orzeczeniem sądu z powodu choroby psychicznej lub niedorozwoju umysłowego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wybranym do Sejmu może być obywatel polski, któremu przysługuje prawo wybierania, jeżeli w dniu wyborów ma ukończone 21 lat i stale zamieszkuje na terytorium Rzeczypospolitej Polskiej co najmniej od 5 lat (bierne prawo wyborcze). Rozdział 3 Spis wyborców"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Osoby, którym przysługuje prawo wybierania, wpisuje się do spisu wyborców. 2. Wyborca może być wpisany tylko do jednego spisu wyborców."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Spis wyborców sporządza się na podstawie zaktualizowanego rejestru wyborców w gminie, prowadzonego przez urząd gminy zgodnie z zasadami określonymi w odrębnych przepisach. 2. Osoby pozbawione prawa wybierania skreśla się ze spisu wyborców, na podstawie zawiadomień sądów lub Trybunału Stanu przekazywanych w trybie określonym przez Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Spis wyborców sporządza się w 2 egzemplarzach, oddzielnie dla każdego obwodu głosowania, według miejsca zamieszkania wyborców. 2. W spisie wyborców wymienia się nazwisko i imiona, imię ojca, datę urodzenia i miejsce zamieszkania wyborcy. 3. Spis wyborców sporządza urząd gminy najpóźniej na 14 dni przed dniem wyborów jako zadanie zlecone."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Żołnierze odbywający zasadniczą lub okresową służbę wojskową, pełniący służbę w charakterze kandydatów na żołnierzy zawodowych oraz odbywający ćwiczenia i przeszkolenie wojskowe, a także junacy odbywający zasadniczą służbę w obronie cywilnej poza miejscem zamieszkania, wpisywani są na swój wniosek do wybranego przez nich spisu wyborców, sporządzonego dla miejscowości, w której odbywają służbę. Wniosek składa się między 21 a 14 dniem przed dniem wyborów. 2. Przepis ust. 1 stosuje się odpowiednio wobec policjantów z jednostek skoszarowanych. 3. Dowódcy jednostek wojskowych, komendanci oddziałów obrony cywilnej i dowódcy jednostek policyjnych obowiązani są zapewnić odpowiednio żołnierzom, junakom i policjantom wykonanie uprawnień wynikających z przepisu ust. 1. 4. Minister Obrony Narodowej oraz Minister Spraw Wewnętrznych, po porozumieniu z Państwową Komisją Wyborczą, określą sposób realizacji obowiązków dowódców, o których mowa w ust. 3."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Wyborcę nigdzie nie zamieszkałego wpisuje się do spisu właściwego dla miejsca jego aktualnego pobytu na jego wniosek, złożony do urzędu gminy sporządzającego spis najpóźniej w 7 dniu przed dniem wyborów."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Spis wyborców w szpitalach, zakładach pomocy społecznej oraz zakładach karnych i aresztach śledczych sporządza urząd gminy na podstawie wykazów osób, których okres przebywania w tych zakładach obejmuje dzień wyborów. 2. Wykazy osób, o których mowa w ust. 1, kierownicy jednostek przekazują urzędowi gminy najpóźniej w 14 dniu przed dniem wyborów."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. O wpisaniu do spisu wyborców osób zamieszkujących czasowo dłużej niż 2 miesiące w danym obwodzie głosowania oraz żołnierzy, junaków i policjantów, o których mowa w art. 12, a także osób przebywających w szpitalach, zakładach pomocy społecznej oraz zakładach karnych i aresztach śledczych zawiadamia się urząd gminy właściwy ze względu na miejsce stałego zamieszkania tych osób w celu skreślenia ze spisu wyborców. 2. Wyborca zmieniający miejsce pobytu po sporządzeniu spisu wyborców otrzymuje na swoje żądanie od urzędu gminy, który sporządził spis, zaświadczenie o prawie do głosowania uprawniające go do udziału w głosowaniu w miejscu pobytu w dniu wyborów. 3. Urząd gminy, który sporządził spis wyborców, skreśla ze spisu osoby, którym wydano zaświadczenia o prawie do głosowania oraz o których otrzymał urzędowe zawiadomienie o wpisaniu do spisu w innym obwodzie głosowania."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Spis wyborców jest przechowywany i udostępniany do wglądu w urzędzie gminy. 2. Wójt lub burmistrz (prezydent miasta) powiadamia wyborców o sporządzeniu spisu wyborców oraz o miejscu i czasie jego udostępnienia w sposób zwyczajowo przyjęty."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Obywatele polscy przebywający za granicą i posiadający ważny polski paszport wpisywani są do spisu wyborców sporządzanego przez właściwy terytorialnie konsulat Rzeczypospolitej Polskiej. 2. Wpisu dokonuje się na podstawie zgłoszenia, wniesionego przez zainteresowanego ustnie, pisemnie, telefonicznie, telegraficznie lub telefaksem. Zgłoszenie powinno zawierać nazwisko i imiona, imię ojca, datę urodzenia, miejsce pobytu wyborcy oraz numer ważnego polskiego paszportu, a także miejsce i datę jego wydania. Zgłoszenia można dokonać najpóźniej 3 dnia przed dniem wyborów. 3. Państwowa Komisja Wyborcza, po porozumieniu z Ministrem Spraw Zagranicznych, określa sposób sporządzania i aktualizacji spisu wyborców, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Każdy obywatel może wnieść do urzędu gminy pisemnie lub ustnie do protokołu reklamację na nieprawidłowości sporządzenia spisu wyborców, a w szczególności w sprawie: 1) pominięcia wyborcy w spisie wyborców, 2) wpisania do spisu wyborców osoby, która nie ma prawa wybierania, 3) zawarcia w spisie wyborców niewłaściwych danych o wyborcach wpisanych do spisu. 2. Wójt lub burmistrz (prezydent miasta) obowiązany jest rozpatrzyć reklamację w ciągu 48 godzin od daty jej wniesienia i wydać decyzję w sprawie dokonania zmian w spisie wyborców. 3. Decyzję doręcza się niezwłocznie wnoszącemu reklamację, a gdy dotyczy ona innych osób - również tym osobom. 4. Reklamacje w sprawie spisu wyborców dotyczącego osób, o których mowa w art. 17 ust. 1, rozpatruje właściwy terytorialnie konsul. Decyzje konsula w tych sprawach są ostateczne."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Na decyzję nie uwzględniającą reklamacji lub powodującą skreślenie ze spisu wyborców wnoszący reklamację bądź osoba skreślona ze spisu wyborców może wnieść w ciągu 48 godzin od daty wydania decyzji skargę za pośrednictwem wójta lub burmistrza (prezydenta miasta) do właściwego sądu rejonowego. Do skargi należy dołączyć zaskarżoną decyzję wraz z aktami sprawy. 2. Sąd rozpatruje skargę w postępowaniu nieprocesowym, w składzie jednego sędziego i dwóch ławników, w terminie 3 dni od daty jej wniesienia. Odpis postanowienia sądu doręcza się osobie, która wniosła skargę, oraz wójtowi lub burmistrzowi (prezydentowi miasta), który sporządził spis wyborców. Postanowienie sądu jest ostateczne."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Państwowa Komisja Wyborcza określa, po porozumieniu z Ministrem Spraw Wewnętrznych, wzór spisu wyborców, sposób sporządzania i aktualizowania spisu wyborców, wzór zawiadomienia o wpisaniu wyborcy do spisu w innym obwodzie głosowania oraz wzór zaświadczenia o prawie do głosowania."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Spis wyborców przekazuje się najpóźniej w przeddzień wyborów przewodniczącemu właściwej obwodowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Obwodowa komisja wyborcza dopisuje do spisu wyborców w dniu wyborów: 1) osobę przedkładającą zaświadczenie o prawie do głosowania, dołączając zaświadczenie do spisu wyborców, 2) osobę pominiętą w spisie wyborców, jeżeli zapisem w dowodzie osobistym udokumentuje, iż jest zameldowana na pobyt stały na terenie obwodu głosowania, a urząd gminy potwierdzi, iż nie otrzymał zawiadomienia o utracie przez nią prawa wybierania. Rozdział 4 Głosowanie"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Głosować można tylko osobiście."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Głosować może tylko wyborca wpisany do spisu wyborców, a także wyborca dopisany do spisu zgodnie z przepisami art. 22."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Głosowanie odbywa się w lokalu obwodowej komisji wyborczej bez przerwy, między godziną 6.00 a 20.00. 2. W szczególnych wypadkach, zwłaszcza uzasadnionych wnioskiem wyborców, obwodowa komisja wyborcza, po uzgodnieniu z okręgową komisją wyborczą, może ustalić wcześniejszą godzinę rozpoczęcia głosowania. 3. Głosowanie w obwodach głosowania za granicą odbywa się między godziną 6.00 a 20.00 według czasu miejscowego. Jeżeli głosowanie miałoby być zakończone w dniu następnym po dniu wyborów w kraju, to głosowanie przeprowadza się w dniu poprzedzającym dzień wyborów."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Przed rozpoczęciem głosowania obwodowa komisja wyborcza sprawdza, czy urna jest pusta, po czym zamykają i opieczętowuje pieczęcią komisji oraz ustala liczbę otrzymanych kart do głosowania. 2. Od chwili opieczętowania aż do zakończenia głosowania urny otwierać nie wolno. 3. Od chwili rozpoczęcia głosowania aż do jego zakończenia w lokalu wyborczym powinny być obecne co najmniej 3 osoby wchodzące w skład obwodowej komisji wyborczej, przy czym jedną z nich powinien być przewodniczący lub jego zastępca."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Przed przystąpieniem do głosowania wyborca okazuje obwodowej komisji wyborczej dokument umożliwiający stwierdzenie jego tożsamości. 2. Wyborca wpisany do spisu, a nie posiadający dokumentu stwierdzającego jego tożsamość, może się powołać na świadectwo dwóch wiarygodnych osób znanych członkom komisji. Decyzja komisji w sprawie stwierdzenia tożsamości jest ostateczna. 3. Wyborca otrzymuje od komisji kartę do głosowania. Celem zapobieżenia wielokrotnemu głosowaniu wyborca potwierdza otrzymanie karty własnym podpisem w rubryce spisu na to przeznaczonej. 4. Obwodowa komisja wyborcza wydaje kartę do głosowania opatrzoną dodatkowo jej własną pieczęcią."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Wyborca głosujący za granicą otrzymuje kartę do głosowania wyłącznie po okazaniu obwodowej komisji wyborczej ważnego polskiego paszportu."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Po otrzymaniu karty do głosowania wyborca udaje się do miejsca zapewniającego tajność głosowania, znajdującego się w lokalu wyborczym. 2. Na karcie z okręgowymi listami kandydatów na posłów wyborca oddaje głos na określoną listę kandydatów, stawiając znak „x” w kratce z lewej strony obok nazwiska jednego z kandydatów tej listy, przez co wskazuje jego pierwszeństwo do otrzymania mandatu. 3. Następnie wyborca wrzuca do urny kartę do głosowania, złożoną w ten sposób, aby strona zadrukowana nie była widoczna."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Wyborcy niepełnosprawnemu, na jego prośbę, może pomagać przy głosowaniu inna osoba, z wyłączeniem mężów zaufania."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Głosowania przerywać nie wolno. Gdyby wskutek nadzwyczajnych wydarzeń głosowanie było przejściowo uniemożliwione, obwodowa komisja wyborcza może je przerwać, przedłużyć albo odroczyć do dnia następnego. Zarządzenie takie powinno być natychmiast podane do wiadomości publicznej i przesłane okręgowej komisji wyborczej oraz wójtowi lub burmistrzowi (prezydentowi miasta). 2. W razie przerwania lub odroczenia głosowania komisja zapieczętowuje wlot urny wyborczej i oddaje ją na przechowanie przewodniczącemu. Przed ponownym podjęciem głosowania komisja stwierdza protokolarnie, czy pieczęcie zostały nienaruszone."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Zabrania się agitacji w lokalu wyborczym w dniu głosowania. 2. W lokalu wyborczym umieszcza się tylko urzędowe obwieszczenia wyborcze, a w szczególności, o których mowa w art. 73 i art. 78. 3. W lokalu wyborczym w dniu głosowania podczas wszystkich czynności obwodowej komisji wyborczej mogą przebywać mężowie zaufania na podstawie zaświadczenia wydanego przez pełnomocnika komitetu wyborczego."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Osobom uzbrojonym wstęp do lokalu wyborczego jest zakazany."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Przewodniczący obwodowej komisji wyborczej odpowiada za utrzymanie porządku i spokoju w czasie głosowania. W tym celu ma prawo żądać opuszczenia lokalu wyborczego przez osoby naruszające porządek i spokój. 2. Na żądanie przewodniczącego obwodowej komisji wyborczej komendant właściwego komisariatu policji obowiązany jest zapewnić konieczną pomoc. 3. W razie naruszenia porządku w lokalu wyborczym nie stosuje się przepisu art. 33. Rozdział 5 Okręgi wyborcze oraz obwody głosowania"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. W celu przeprowadzenia wyborów dzieli się terytorium kraju na wielomandatowe okręgi wyborcze, zwane dalej „okręgami wyborczymi”, obejmujące obszar jednego województwa, kilku województw lub części województwa. 2. Podział na okręgi wyborcze, ich numery i granice oraz liczbę posłów wybieranych w każdym okręgu, a także siedziby okręgowych komisji wyborczych określa załącznik do ustawy."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Granice okręgów wyborczych i liczbę posłów w nich wybieranych ustala się według jednolitej normy przedstawicielstwa. 2. Normę przedstawicielstwa ustala się dla okręgów wyborczych - poprzez podzielenie liczby mieszkańców kraju przez liczbę posłów wybieranych w okręgach wyborczych, tj. przez liczbę 391. 3. Liczba posłów wybieranych w okręgu wyborczym, o której mowa w ust. 1, nie może być mniejsza niż 7 posłów."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Państwowa Komisja Wyborcza przedkłada Sejmowi wnioski w sprawie zmiany granic okręgów wyborczych i liczby posłów w nich wybieranych, jeżeli konieczność taka wynika ze zmian w zasadniczym podziale terytorialnym państwa lub zmiany liczby mieszkańców w okręgach wyborczych. 2. Wnioski, o których mowa w ust. 1, Państwowa Komisja Wyborcza przedkłada Sejmowi nie później niż na 12 miesięcy przed upływem kadencji Sejmu. Sejm dokonuje zmian w podziale kraju na okręgi wyborcze, nie później niż na 9 miesięcy przed upływem kadencji."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Informację o podziale na okręgi wyborcze, w części dotyczącej tych okręgów, podaje się do wiadomości wyborców w formie obwieszczeń, których druk i rozplakatowanie zapewniają właściwi wojewodowie, najpóźniej w 90 dniu przed dniem wyborów."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Głosowanie przeprowadza się w obwodach głosowania obejmujących od 500 do 3000 mieszkańców, utworzonych na obszarze gminy. W wypadkach uzasadnionych miejscowymi warunkami mogą być tworzone obwody głosowania obejmujące mniejszą lub większą liczbę mieszkańców."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Tworzy się obwody głosowania w szpitalach i zakładach pomocy społecznej, jeżeli przebywa w nich na okres obejmujący dzień wyborów co najmniej 50 wyborców. 2. Tworzy się obwody głosowania dla wyborców przebywających w zakładach karnych i aresztach śledczych. Nieutworzenie takiego obwodu może nastąpić wyłącznie w uzasadnionym wypadku na wniosek naczelnika zakładu karnego lub kierownika aresztu śledczego."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Obwody głosowania tworzy, na wniosek wójta lub burmistrza (prezydenta miasta), rada gminy ustalając granice i numery obwodów oraz siedziby obwodowych komisji wyborczych. 2. Uchwałę w sprawach, o których mowa w ust. 1, przekazuje się niezwłocznie właściwej okręgowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Obwody głosowania dla obywateli polskich przebywających za granicą tworzy Minister Spraw Zagranicznych, po porozumieniu z Państwową Komisją Wyborczą, wyznaczając siedziby obwodowych komisji wyborczych. 2. Obwody głosowania, o których mowa w ust. 1, wchodzą w skład okręgu wyborczego właściwego dla gminy Warszawa-Śródmieście."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Informację o granicach i numerach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje do wiadomości publicznej, przez rozplakatowanie obwieszczeń, wójt lub burmistrz (prezydent miasta) najpóźniej w 35 dniu przed dniem wyborów. 2. Obowiązek, o którym mowa w ust. 1, w odniesieniu do obwodów głosowania utworzonych za granicą spoczywa na konsulach, z tym że wykonanie tego obowiązku powinno nastąpić najpóźniej w 21 dniu przed dniem wyborów. Rozdział 6 Komisje wyborcze"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Wybory przeprowadzają: 1) Państwowa Komisja Wyborcza, 2) okręgowe komisje wyborcze, 3) obwodowe komisje wyborcze."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Osoby wchodzące w skład komisji wyborczych tracą członkostwo w komisji w dniu podpisania zgody na kandydowanie na posła. 2. Osoby wchodzące w skład komisji wyborczych nie mogą pełnić funkcji pełnomocnika komitetu wyborczego lub męża zaufania. 3. Osoby wchodzące w skład komisji wyborczych nie mogą w okresie kampanii wyborczej prowadzić agitacji na rzecz określonych kandydatów lub list kandydatów."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Osobom wchodzącym w skład komisji wyborczych przysługują diety i zwrot kosztów podróży na zasadach i w wysokości ustalonych przez Prezesa Rady Ministrów po porozumieniu z Państwową Komisją Wyborczą. 2. Osoby wchodzące w skład komisji wyborczych za czas związany z przeprowadzaniem głosowania, ustalaniem wyników głosowania i wyborów otrzymują zryczałtowaną dietę, na zasadach i w wysokości ustalonych przez Prezesa Rady Ministrów po porozumieniu z Państwową Komisją Wyborczą. 3. W związku z wykonywaniem czynności, o których mowa w ust. 2, członkom komisji wyborczych przysługuje na okres 3 dni bezpłatne zwolnienie od pracy, z zachowaniem prawa do wszystkich świadczeń jak za czas przepracowany. 4. Zasady i wysokość wynagrodzenia osób wchodzących w skład Państwowej Komisji Wyborczej określa Marszałek Sejmu. 5. W odniesieniu do osób wchodzących w skład Państwowej Komisji Wyborczej przepisów ust. 2 nie stosuje się."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Osoby wchodzące w skład komisji wyborczych korzystają z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych. A. Państwowa Komisja Wyborcza"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Państwowa Komisja Wyborcza jest stałym organem właściwym w sprawach przygotowania, organizacji oraz przeprowadzania wyborów."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Do zadań Państwowej Komisji Wyborczej należy w szczególności: 1) sprawowanie nadzoru nad przestrzeganiem prawa wyborczego, 2) podejmowanie niezbędnych działań organizacyjnych związanych z przygotowaniem i przeprowadzeniem wyborów, 3) współdziałanie z właściwymi organami administracji rządowej i samorządowej w celu sprawnego przygotowania i przeprowadzenia wyborów, 4) powoływanie okręgowych komisji wyborczych, 5) rozpatrywanie skarg na działalność okręgowych komisji wyborczych, 6) rejestrowanie ogólnopolskich list kandydatów na posłów, 7) sprawowanie nadzoru nad aktualizacją rejestrów wyborców i sporządzaniem spisów wyborców, 8) rozpatrywanie okresowych informacji Krajowego Biura Wyborczego o zmianach w zasadniczym podziale terytorialnym państwa oraz o zmianach liczby mieszkańców w okręgach wyborczych, 9) określenie wzorów kart do głosowania i urzędowych formularzy oraz druków wyborczych, a także wzorów pieczęci okręgowych i obwodowych komisji wyborczych, 10) ustalanie ostatecznych wyników wyborów do Sejmu oraz ich ogłaszanie, 11) wydawanie posłom wybranym do Sejmu zaświadczeń o wyborze, 12) złożenie Sejmowi sprawozdania z wyborów, 13) wykonywanie innych zadań określonych w ustawie."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Państwowa Komisja Wyborcza wykonuje swoje zadania działając bezpośrednio lub nadzorując powoływane na czas przeprowadzenia wyborów komisje wyborcze niższego stopnia. 2. W celu realizacji zadań Państwowa Komisja Wyborcza podejmuje uchwały oraz wydaje wytyczne i wyjaśnienia wiążące komisje wyborcze niższego stopnia oraz organy administracji rządowej i samorządowej, a także podległe im jednostki wykonujące zadania związane z przeprowadzeniem wyborów. 3. Państwowa Komisja Wyborcza ustala swój regulamin oraz regulaminy okręgowych i obwodowych komisji wyborczych, określając w nich w szczególności: 1) zasady i tryb pracy komisji, 2) sposób wykonywania ich zadań, 3) sposób sprawowania nadzoru nad przestrzeganiem prawa wyborczego. 4. W celu zapewnienia nadzoru nad przestrzeganiem prawa wyborczego Państwowa Komisja Wyborcza może utworzyć swoją inspekcję."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Państwowa Komisja Wyborcza określa zasady i sposób wykorzystywania elektronicznego systemu przesyłania i przetwarzania danych o wynikach głosowania i wynikach wyborów. 2. Minister Łączności, na wniosek Państwowej Komisji Wyborczej, określa zasady i warunki wykorzystywania dla celów wyborczych urządzeń i systemów telekomunikacyjnych, a także sieci telekomunikacyjnej użytku publicznego."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Państwowa Komisja Wyborcza uprawniona jest do używania pieczęci urzędowej w rozumieniu przepisów o pieczęciach państwowych. Średnica pieczęci wynosi 35 mm."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. W skład Państwowej Komisji Wyborczej wchodzi: 1) 3 sędziów Sądu Najwyższego wskazanych przez Pierwszego Prezesa Sądu Najwyższego, 2) 3 sędziów Trybunału Konstytucyjnego wskazanych przez Prezesa Trybunału Konstytucyjnego, 3) 3 sędziów Naczelnego Sądu Administracyjnego wskazanych przez Prezesa Naczelnego Sądu Administracyjnego. 2. Prezydent powołuje w skład Państwowej Komisji Wyborczej osoby, o których mowa w ust. 1. 3. Państwowa Komisja Wyborcza wybiera spośród siebie przewodniczącego i dwóch jego zastępców. 4. Skład Państwowej Komisji Wyborczej podaje się do publicznej wiadomości oraz ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Zmiany w składzie Państwowej Komisji Wyborczej następują wskutek: 1) zrzeczenia się członkostwa, 2) wniosku organu, który wskazał sędziego jako członka Komisji, 3) wygaśnięcia mandatu członka Trybunału Konstytucyjnego lub ustania stosunku służbowego sędziego, 4) śmierci. 2. Uzupełnienie składu Państwowej Komisji Wyborczej następuje w trybie przepisów o jej powołaniu."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. Tworzy się stałe Krajowe Biuro Wyborcze. 2. Krajowe Biuro Wyborcze zapewnia wykonanie zadań i obsługę Państwowej Komisji Wyborczej. 3. Kierownik Krajowego Biura Wyborczego pełni funkcję Sekretarza Państwowej Komisji Wyborczej i uczestniczy w jej posiedzeniach z głosem doradczym. 4. Zasady organizacji i działalności Krajowego Biura Wyborczego określa statut nadany przez Marszałka Sejmu na wniosek Państwowej Komisji Wyborczej. 5. Krajowe Biuro Wyborcze dysponuje wydzielonymi środkami finansowymi z budżetu państwa, w części dotyczącej Kancelarii Sejmu. B. Okręgowa komisja wyborcza"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Do zadań okręgowej komisji wyborczej należy w szczególności: 1) sprawowanie nadzoru nad przestrzeganiem przepisów prawa wyborczego przez obwodowe komisje wyborcze, 2) rozpatrywanie skarg na działalność obwodowych komisji wyborczych, 3) rejestrowanie okręgowych list kandydatów na posłów, 4) zarządzanie druku obwieszczeń wyborczych i dostarczanie ich do obwodowych komisji wyborczych, 5) ustalanie wyników głosowania i wyników wyborów w okręgu wyborczym, 6) zapewnienie we współdziałaniu z właściwym wojewodą oraz wójtami i burmistrzami (prezydentami miast) prawidłowego przygotowania i przeprowadzenia wyborów, 7) wykonywanie innych zadań przewidzianych w ustawie lub zleconych przez Państwową Komisję Wyborczą. 2. Okręgowa komisja wyborcza może utworzyć swoją inspekcję w celu wykonywania nadzoru nad działalnością obwodowych komisji wyborczych."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. W skład okręgowej komisji wyborczej wchodzi 12 sędziów właściwych miejscowo sądów apelacyjnych, sądów wojewódzkich i sądów rejonowych, wskazanych przez prezesów tych sądów. 2. Państwowa Komisja Wyborcza powołuje w skład okręgowej komisji wyborczej osoby, o których mowa w ust. 1, na podstawie zgłoszenia przedstawionego przez Ministra Sprawiedliwości, najpóźniej w 85 dniu przed dniem wyborów. 3. Pierwsze posiedzenie okręgowej komisji wyborczej zwołuje, z upoważnienia Państwowej Komisji Wyborczej, wojewoda właściwy dla siedziby okręgowej komisji wyborczej. 4. Okręgowa komisja wyborcza na swoim pierwszym posiedzeniu wybiera spośród siebie przewodniczącego i 2 jego zastępców. 5. Okręgowa komisja wyborcza powołuje sekretarza komisji na wniosek kierownika wojewódzkiego biura wyborczego właściwego dla siedziby okręgowej komisji wyborczej. Sekretarz komisji uczestniczy w jej posiedzeniach z głosem doradczym. 6. Skład okręgowej komisji wyborczej podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Wykonanie zadań i obsługę okręgowej komisji wyborczej zapewnia stałe wojewódzkie biuro wyborcze działające przy urzędzie wojewódzkim, właściwe dla siedziby komisji. 2. Kierownika wojewódzkiego biura wyborczego powołuje i odwołuje wojewoda po porozumieniu z Kierownikiem Krajowego Biura Wyborczego. 3. Zasady organizacji i działalności wojewódzkiego biura wyborczego określa wojewoda na wniosek Kierownika Krajowego Biura Wyborczego. 4. Wojewódzkie biuro wyborcze dysponuje wydzielonymi środkami finansowymi z budżetu państwa, w części dotyczącej budżetu wojewody."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Zmiany w składzie okręgowej komisji wyborczej następują w trybie przepisów o jej powołaniu. 2. Okręgową komisję wyborczą rozwiązuje Państwowa Komisja Wyborcza po wykonaniu jej ustawowych zadań. C. Obwodowa komisja wyborcza"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Do zadań obwodowej komisji wyborczej należy: 1) przeprowadzenie głosowania w obwodzie, 2) czuwanie w dniu wyborów nad przestrzeganiem przepisów prawa wyborczego w miejscu i czasie głosowania, 3) ustalenie wyników głosowania w obwodzie i podanie ich do wiadomości publicznej oraz przesłanie protokołów głosowania do właściwej okręgowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Obwodową komisję wyborczą powołuje właściwa rada gminy, najpóźniej w 21 dniu przed dniem wyborów spośród wyborców, uwzględniając propozycje zgłoszone przez komitety wyborcze. 2. Obwodową komisję wyborczą w obwodzie głosowania utworzonym za granicą, powołuje spośród wyborców konsul. Tryb, zasady i terminy powoływania komisji ustala Państwowa Komisja Wyborcza, po porozumieniu z Ministrem Spraw Zagranicznych. 3. W skład obwodowej komisji wyborczej wchodzi przewodniczący, zastępca przewodniczącego oraz 4 do 8 członków. 4. Skład obwodowej komisji wyborczej podaje się niezwłocznie do publicznej wiadomości w sposób zwyczajowo przyjęty. 5. Obsługę i techniczno-materialne warunki pracy obwodowej komisji wyborczej zapewnia wójt lub burmistrz (prezydent miasta) jako zadanie zlecone. 6. Obowiązki przewidziane w ust. 5 dotyczą odpowiednio kierowników zakładów karnych, aresztów śledczych, szpitali i zakładów pomocy społecznej oraz konsulów."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Zmiany w składzie obwodowej komisji wyborczej następują w trybie przepisów o jej powołaniu. 2. Obwodową komisję wyborczą rozwiązuje okręgowa komisja wyborcza po wykonaniu jej ustawowych zadań. Rozdział 7 Zgłaszanie list kandydatów na posłów"
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Prawo zgłaszania okręgowych list kandydatów na posłów przysługuje wyborcom, partiom i organizacjom politycznym oraz organizacjom społecznym tworzącym w tym celu krajowe lub lokalne komitety wyborcze, zwane dalej „komitetami wyborczymi”. 2. Do utworzonych komitetów wyborczych, o których mowa w ust. 1, stosuje się odpowiednio przepisy ustawy z dnia 28 lipca 1990 r. o partiach politycznych ( Dz. U. Nr 54, poz. 312 ) - z wyjątkiem art. 4 - oraz przepisy innych ustaw dotyczące działalności partii politycznych."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Okręgowe listy kandydatów na posłów zgłaszają komitety wyborcze, spełniające warunki określone w niniejszym rozdziale. 2. Ogólnopolskie listy kandydatów na posłów zgłaszają komitety wyborcze, które zarejestrowały listy kandydatów w co najmniej pięciu okręgach wyborczych."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. Komitety wyborcze, które zamierzają zgłosić listy kandydatów w więcej niż jednym okręgu wyborczym, zawiadamiają o tym Państwową Komisję Wyborczą, najpóźniej w 75 dniu przed dniem wyborów. 2. Zawiadomienie, o którym mowa w ust. 1, przedstawia się na piśmie podpisanym przez trzy osoby upoważnione przez komitet wyborczy do składania oświadczeń w sprawach związanych z jego działalnością. Zawiadomienie powinno zawierać: 1) oznaczenie pełnej nazwy komitetu wyborczego (i ewentualnie jej literowy skrót) oraz jego siedzibę i dokładny adres, 2) pełną nazwę, tworzących komitet wyborczy, partii, organizacji politycznych lub społecznych albo ich koalicji wyborczej bądź określenie grupy wyborców zrzeszającej się dla utworzenia komitetu wyborczego, 3) listę członków komitetu wyborczego, 4) nazwisko, imię i adres pełnomocnika reprezentującego komitet wyborczy wobec komisji wyborczych. 3. Oznaczenie komitetu wyborczego, o którym mowa w ust. 2 pkt 1, powinno odróżniać go od innych komitetów wyborczych. 4. Zawiadomienie, o którym mowa w ust. 2, może zawierać również wzór graficznego symbolu (symboli) komitetu wyborczego. Symbol ten powinien odróżniać dany komitet od innych komitetów wyborczych. 5. Partie, organizacje polityczne lub społeczne, które utworzyły wspólny komitet wyborczy (koalicję wyborczą) i zamierzają zgłosić ogólnopolską listę kandydatów, nie mogą tworzyć odrębnych komitetów wyborczych dla zgłaszania okręgowych list kandydatów."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Państwowa Komisja Wyborcza po otrzymaniu zawiadomienia, o którym mowa w art. 65 ust. 2, potwierdza na piśmie jego odbiór oraz ogłasza informacje o otrzymanych zawiadomieniach w dzienniku o zasięgu ogólnokrajowym. 2. W wypadku gdy zawiadomienie ma wady, Państwowa Komisja Wyborcza wzywa niezwłocznie pełnomocnika komitetu wyborczego do ich usunięcia w ciągu 48 godzin. Jeżeli wskazane wady nie zostaną usunięte, Państwowa Komisja Wyborcza odmawia przyjęcia tego zawiadomienia. Decyzję w tej sprawie wraz z uzasadnieniem niezwłocznie doręcza się zainteresowanemu pełnomocnikowi. 3. Na decyzję Państwowej Komisji Wyborczej, o której mowa w ust. 2, pełnomocnik komitetu wyborczego może wnieść skargę do Sądu Najwyższego w ciągu 48 godzin od daty jej wydania. 4. Sąd Najwyższy rozpoznaje sprawę w składzie 3 sędziów w postępowaniu nieprocesowym w terminie 3 dni od daty złożenia skargi. Postanowienie, kończące postępowanie w sprawie, Sąd Najwyższy uzasadnia i doręcza zainteresowanemu oraz Państwowej Komisji Wyborczej. Postanowienie Sądu Najwyższego jest ostateczne."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Najpóźniej w 63 dniu przed dniem wyborów Państwowa Komisja Wyborcza przeprowadzi losowanie jednolitych dla całego kraju numerów przyznawanych listom kandydatów na posłów zgłaszanym w imieniu tego samego komitetu wyborczego, o którym mowa w art. 65. 2. Państwowa Komisja Wyborcza zawiadamia niezwłocznie właściwe okręgowe komisje wyborcze oraz pełnomocników komitetów wyborczych o wylosowanych numerach list kandydatów na posłów. A. Zgłaszanie okręgowych list kandydatów na posłów"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1. Okręgową listę kandydatów na posłów zgłasza się do okręgowej komisji wyborczej najpóźniej w 55 dniu przed dniem wyborów. 2. Okręgową listę kandydatów na posłów zgłasza pełnomocnik komitetu wyborczego lub upoważniony przez niego pełnomocnik okręgowej listy kandydatów na posłów, zwany dalej „pełnomocnikiem”. 3. Liczba kandydatów na posłów zgłaszanych na liście nie może być mniejsza niż 3 kandydatów i przekraczać ogólnej liczby posłów wybieranych w danym okręgu wyborczym. 4. Na okręgowych listach kandydatów na posłów należy podać nazwisko, imię, wiek, zawód i miejsce zamieszkania każdego kandydata. Nazwiska kandydatów umieszcza się na liście w kolejności ustalonej przez komitet wyborczy zgłaszający listę. 5. Do każdego zgłoszenia listy należy dołączyć pisemne oświadczenia kandydatów na posłów o wyrażeniu zgody na kandydowanie z danej listy kandydatów. 6. Uprawnionym do składania oświadczeń w sprawie zgłoszenia listy jest pełnomocnik komitetu wyborczego lub upoważniony przez niego pełnomocnik listy. 7. Pełnomocnik wraz ze zgłoszeniem listy obowiązany jest podać oznaczenie nazwy listy (w formie nazwy skróconej lub skrótu nazwy, nie przekraczającymi 40 znaków drukarskich), które ma być umieszczone na karcie do głosowania obok numeru listy. 8. Pełnomocnik może wnosić o oznaczenie w ramach listy także poszczególnych kandydatów nazwą lub skrótem nazwy partii bądź organizacji politycznej albo innej organizacji, popierającej danego kandydata. Wniosek składa się na piśmie przed upływem terminu dla zgłaszania okręgowych list kandydatów na posłów."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1. Zgłoszenie okręgowej listy kandydatów na posłów powinno być podpisane przez pełnomocnika komitetu lub upoważnionego przez niego pełnomocnika listy. 2. Do zgłoszenia okręgowej listy kandydatów na posłów rejestrowanej w imieniu komitetu wyborczego, o którym mowa w art. 65, dołącza się pisemne upoważnienie dla pełnomocnika listy podpisane przez pełnomocnika komitetu wyborczego. 3. Do zgłaszanej listy kandydatów na posłów tylko w jednym okręgu wyborczym dołącza się zawiadomienie odpowiednio spełniające warunki określone w art. 65 ust. 2-4. 4. Okręgowa lista kandydatów na posłów powinna być poparta osobistymi podpisami co najmniej 5000 wyborców zamieszkałych w danym okręgu wyborczym. 5. Kandydować można tylko z jednej listy okręgowej i tylko w jednym okręgu wyborczym. 6. Pełnomocnik wnosi o oznaczenie listy okręgowej komitetu wyborczego jego nazwą lub skrótem oraz wylosowanym, zgodnie z art. 67, numerem dla oznaczenia list zgłaszanych przez ten komitet."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Jeżeli łączna liczba wyborców popierających okręgowe listy kandydatów na posłów zgłaszanych przez ten sam komitet wyborczy przekroczy 50.000 lub dany komitet wyborczy zarejestruje w co najmniej pięciu okręgach wyborczych swoje listy okręgowe, to wówczas dla rejestracji list w pozostałych okręgach wyborczych wystarcza przedstawienie przez pełnomocnika zaświadczenia Państwowej Komisji Wyborczej stwierdzającego, że w odniesieniu do list okręgowych zgłaszanych w imieniu tego komitetu wyborczego warunek wymieniony w art. 69 ust. 4 nie obowiązuje. 2. W odniesieniu do komitetu wyborczego utworzonego przez organizację mniejszości narodowej uprawnienia określone w ust. 1 przysługują z chwilą zarejestrowania list kandydatów w co najmniej dwóch okręgach wyborczych lub zebrania co najmniej 20.000 podpisów wyborców popierających listę kandydatów zarejestrowaną w jednym okręgu wyborczym."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Właściwa okręgowa komisja wyborcza niezwłocznie rejestruje okręgową listę kandydatów na posłów zgłoszoną zgodnie z przepisami ustawy, sporządzając protokół rejestracji, i zawiadamia o tym odpowiednio pełnomocnika komitetu wyborczego lub pełnomocnika listy. 2. Jeżeli zgłoszenie ma wady dotyczące całej listy, które nie dadzą się usunąć, komisja odmawia rejestracji listy wskazując przyczyny odmowy i powiadamia o tym niezwłocznie pełnomocnika. 3. Jeżeli zgłoszenie listy ma inne wady, komisja wzywa niezwłocznie pełnomocnika do ich usunięcia w ciągu 3 dni. Jeżeli wskazane wady nie zostaną w terminie usunięte, komisja wyborcza odmawia rejestracji listy w całości lub co do poszczególnych kandydatów. W razie odmowy rejestracji w odniesieniu do niektórych kandydatów, listę rejestruje się w zakresie nie objętym odmową, jeżeli spełnione zostaną warunki określone w niniejszej ustawie. 4. Od decyzji o odmowie rejestracji listy kandydatów lub poszczególnych kandydatów pełnomocnikowi przysługuje prawo odwołania w ciągu 3 dni od daty jej wydania do Państwowej Komisji Wyborczej. Decyzja podjęta w wyniku rozpatrzenia odwołania jest ostateczna."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1. Po zarejestrowaniu wszystkich okręgowych list kandydatów na posłów okręgowa komisja wyborcza, najpóźniej w 42 dniu przed dniem wyborów, przeprowadza losowanie numerów przyznawanych zarejestrowanym listom uwzględniając kolejność numerów list ustalonych w trybie art. 67. 2. Okręgowa komisja wyborcza zawiadamia niezwłocznie pełnomocników o wylosowanych numerach list kandydatów na posłów, zarejestrowanych w danym okręgu wyborczym."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "1. Okręgowa komisja wyborcza zarządza wydrukowanie obwieszczeń zawierających informacje o zarejestrowanych listach kandydatów, ich nazwach i numerach oraz dane o kandydatach zawarte w ich zgłoszeniach. 2. Obwieszczenia, o których mowa w ust. 1, powinny być przesłane do właściwych wojewódzkich biur wyborczych, które zapewniają ich rozplakatowanie na obszarze danego okręgu wyborczego, najpóźniej w 30 dniu przed dniem wyborów. Równocześnie po jednym egzemplarzu obwieszczeń przesyła się do Państwowej Komisji Wyborczej."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. Okręgowa komisja wyborcza skreśla z zarejestrowanej listy nazwisko kandydata, który: 1) utracił prawo wybieralności, 2) wycofał zgodę na kandydowanie, 3) zmarł. 2. Jeżeli skreślenie nazwiska kandydata z zarejestrowanej listy okręgowej wskutek śmierci kandydata powoduje, że na liście tej pozostaje mniej niż 3 nazwiska kandydatów na posłów, to wówczas pełnomocnik może zgłosić, w terminie 3 dni, nowego kandydata. Uzupełnienia listy dokonuje się najpóźniej w 10 dniu przed dniem wyborów. Przepisów art. 69 ust. 4 nie stosuje się. 3. Jeżeli skreślenie nazwiska kandydata z listy nastąpiło z innej przyczyny niż wymieniona w ust. 1 pkt 3 lub lista nie została uzupełniona w terminie, o którym mowa w ust. 2, a na liście pozostaje mniej niż 3 nazwiska kandydatów, to wówczas okręgowa komisja wyborcza unieważnia rejestrację tej listy. Decyzja w tej sprawie jest ostateczna. 4. O skreśleniu kandydata i decyzjach, o których mowa w ust. 2 i 3, okręgowa komisja wyborcza zawiadamia niezwłocznie wyborców i pełnomocnika."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "1. Po zarejestrowaniu okręgowych list kandydatów, lecz nie później niż 38 dnia przed dniem wyborów, pełnomocnicy zainteresowanych komitetów wyborczych mogą złożyć wspólne oświadczenie wobec okręgowej komisji wyborczej w sprawie sumowania głosów oddanych w okręgu wyborczym na ich listy jako podstawy łącznego uczestniczenia tych list w podziale mandatów (blokowanie list kandydatów). 2. Oświadczenie, o którym mowa w ust. 1, wymaga formy pisemnej. Jeżeli w oświadczeniu tym pełnomocnicy nie postanowili inaczej, to mandaty przypadające łącznie zblokowanym listom przydzielane są proporcjonalnie do liczby głosów uzyskanych przez każdą z tych list. 3. Informacje o blokowaniu określonych list kandydatów podaje się do wiadomości wyborców w obwieszczeniach, o których mowa w art. 73. B. Zgłaszanie ogólnopolskich list kandydatów na posłów"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Komitet wyborczy może zgłosić do Państwowej Komisji Wyborczej ogólnopolską listę kandydatów na posłów, najpóźniej w 35 dniu przed dniem wyborów. 2. Do zgłoszenia ogólnopolskiej listy kandydatów na posłów uprawniony jest komitet wyborczy, który zarejestrował okręgowe listy kandydatów w co najmniej 5 okręgach wyborczych. 3. Komitet wyborczy utworzony przez organizację mniejszości narodowej, o którym mowa w art. 70 ust. 2, ma prawo zgłoszenia ogólnopolskiej listy kandydatów na posłów niezależnie od liczby zarejestrowanych list okręgowych. 4. Na ogólnopolskiej liście mogą być zgłoszeni tylko kandydaci, którzy zarejestrowani zostali na okręgowych listach kandydatów na posłów zgłaszanych w imieniu danego komitetu wyborczego. W zgłoszeniu ogólnopolskiej listy muszą być oznaczone numery okręgów oraz nazwy i numery list okręgowych, na których poszczególni kandydaci zostali zarejestrowani. 5. Na ogólnopolskiej liście zgłoszonych musi być co najmniej 35 kandydatów, a na ogólnopolskiej liście zgłoszonej przez komitet wyborczy, o którym mowa w art. 70 ust. 2, musi być co najmniej 10 kandydatów. 6. Zgłoszenie ogólnopolskiej listy kandydatów na posłów powinno zawierać oznaczenie nazwy lub skrót nazwy komitetu wyborczego oraz powinno być podpisane przez pełnomocnika komitetu wyborczego, który jest uprawniony do składania oświadczeń w sprawie zgłoszonej listy."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "1. Do rejestracji ogólnopolskich list kandydatów na posłów stosuje się odpowiednio przepisy art. 71 ust. 1-3. Od decyzji o odmowie rejestracji ogólnopolskiej listy kandydatów na posłów lub poszczególnych kandydatów z tej listy pełnomocnikowi komitetu wyborczego przysługuje prawo odwołania w ciągu 3 dni od daty jej wydania do Sądu Najwyższego, który rozpatruje odwołanie w ciągu 3 dni, w postępowaniu nieprocesowym, stosując odpowiednio przepisy Kodeksu postępowania cywilnego . Decyzja Sądu Najwyższego jest ostateczna. 2. W razie konieczności dokonania zmian w zarejestrowanej ogólnopolskiej liście kandydatów stosuje się odpowiednio przepisy art. 74. 3. Do zarejestrowanych ogólnopolskich list kandydatów stosuje się odpowiednio przepisy art. 75 ust. 1 i 2, z tym że termin, o którym mowa w art. 75 ust. 1, upływa w 30 dniu przed dniem wyborów."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "1. Po zarejestrowaniu wszystkich ogólnopolskich list kandydatów na posłów Państwowa Komisja Wyborcza podaje do wiadomości publicznej w formie obwieszczenia dane zawierające informacje o zarejestrowanych ogólnopolskich listach kandydatów na posłów, ich numerach z oznaczeniami nazw komitetów wyborczych lub ich skrótów, dane o ogólnej liczbie kandydatów zgłoszonych na tych listach oraz informacje o nie więcej niż 70 kandydatach z każdej listy. 2. Obwieszczenie, o którym mowa w ust. 1, podaje się do wiadomości publicznej, nie później niż w 21 dniu przed dniem wyborów, poprzez ogłoszenie go w dzienniku o zasięgu ogólnokrajowym. 3. Obwieszczenie, o którym mowa w ust. 1, dostarcza się do wszystkich obwodowych komisji wyborczych. C. Mężowie zaufania"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "1. Pełnomocnik każdego komitetu wyborczego może wyznaczyć tylko po jednym mężu zaufania do właściwej obwodowej komisji wyborczej, wydając im stosowne zaświadczenia, według wzoru określonego przez Państwową Komisję Wyborczą. 2. Wykaz wyznaczonych mężów zaufania, o których mowa w ust. 1, pełnomocnik przekazuje okręgowej komisji wyborczej, najpóźniej w 7 dniu przed dniem wyborów. W wykazie należy podać nazwisko i imię męża zaufania oraz określenie obwodowej komisji wyborczej, przy czynnościach której mąż zaufania ma prawo być obecny. 3. Okręgowa komisja wyborcza zapewnia powiadomienie obwodowych komisji wyborczych o wyznaczonych mężach zaufania najpóźniej w przeddzień wyborów. 4. W razie konieczności dokonania zmiany wyznaczonego męża zaufania po upływie terminu, o którym mowa w ust. 2, pełnomocnik zawiadamia o tym właściwą obwodową komisję wyborczą oraz okręgową komisję wyborczą najpóźniej w przeddzień wyborów. Rozdział 8 Poparcie zgłoszeń okręgowych list kandydatów na posłów"
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1. Wyborca podpisujący poparcie zgłoszenia okręgowej listy kandydatów na posłów obok podpisu podaje czytelnie swoje nazwisko i imię, adres zamieszkania i numer dowodu osobistego lub innego dokumentu umożliwiającego sprawdzenie jego tożsamości. 2. Każdy arkusz wykazu podpisów powinien zawierać oznaczenie komitetu wyborczego zgłaszającego okręgową listę kandydatów na posłów z podaniem numeru okręgu wyborczego, do którego ma nastąpić zgłoszenie listy kandydatów. 3. Właściwa komisja wyborcza przyjmująca zgłoszenie, w obecności pełnomocnika, stwierdza wymaganą liczbę podpisów wyborców popierających okręgową listę kandydatów na posłów oraz wydaje pełnomocnikowi stosowne potwierdzenie na piśmie. Po przeliczeniu podpisów wyborców komisja przechowuje wykazy podpisów w bezpiecznym miejscu, w zamkniętych i zapieczętowanych pakietach. 4. Wyborca może udzielić pisemnego poparcia więcej niż jednej okręgowej liście kandydatów."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "1. W razie uzasadnionych wątpliwości co do wiarygodności podpisów okręgowa komisja wyborcza ma prawo do dokonywania ich weryfikacji. 2. Stwierdzenie braku wymaganej liczby prawidłowo złożonych podpisów powoduje odmowę przyjęcia zgłoszenia okręgowej listy kandydatów albo unieważnienie rejestracji danej listy w okręgu wyborczym. O podjętej decyzji komisja zawiadamia niezwłocznie pełnomocnika komitetu wyborczego. 3. Wątpliwości co do wiarygodności podpisów mogą być zgłoszone najpóźniej w 45 dniu przed dniem wyborów. 4. Od decyzji, o której mowa w ust. 2, przysługuje pełnomocnikowi prawo odwołania do właściwego terytorialnie sądu wojewódzkiego, w ciągu 3 dni od daty jej wydania. 5. Sąd wojewódzki rozpatruje odwołanie, o którym mowa w ust. 4, w ciągu 24 godzin w postępowaniu nieprocesowym w składzie 3 sędziów. Postanowienie sądu jest ostateczne. Rozdział 9 Karty do głosowania"
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Na karcie do głosowania na okręgowe listy kandydatów na posłów umieszcza się oznaczenia numerów i nazw wszystkich list kandydatów zarejestrowanych w danym okręgu wyborczym oraz nazwiska i imiona wszystkich kandydatów zarejestrowanych na każdej z list okręgowych wraz z danymi, o których mowa w art. 68 ust. 8."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Na karcie do głosowania powinna być umieszczona zwięzła informacja o sposobie głosowania i skutkach wadliwego oddania głosu (warunki ważności głosu)."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Karta do głosowania może być zadrukowana tylko po jednej stronie. Wielkość i rodzaj czcionek powinny być jednakowe dla wszystkich list kandydatów na posłów. 2. Na karcie do głosowania drukuje się odcisk pieczęci właściwej okręgowej komisji wyborczej. 3. Wzór kart do głosowania oraz tryb sporządzania i dostarczania kart do głosowania do obwodowych komisji wyborczych określa Państwowa Komisja Wyborcza. Rozdział 10 Ustalanie wyników głosowania w obwodach głosowania"
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Niezwłocznie po zakończeniu głosowania obwodowa komisja wyborcza ustala wyniki głosowania w obwodzie. Przy ustalaniu wyników głosowania mogą być obecni mężowie zaufania."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "1. Komisja ustala na podstawie spisu wyborców liczbę uprawnionych do głosowania oraz liczbę wyborców, którym wydano karty do głosowania. 2. Komisja ustala liczbę nie wykorzystanych kart do głosowania, a następnie karty te umieszcza w zapieczętowanych pakietach. 3. Przewodniczący w obecności komisji otwiera urnę wyborczą, po czym liczy znajdujące się w niej karty do głosowania. 4. Kart do głosowania przedartych całkowicie na dwie lub więcej części nie bierze się pod uwagę przy ustalaniu wyników głosowania. 5. Gdyby liczba kart do głosowania w urnie przewyższała liczbę, o której mowa w ust. 1, komisja poda w protokole przypuszczalną przyczynę tej niezgodności."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Po ustaleniu liczby oddanych kart do głosowania obwodowa komisja wyborcza przystępuje do obliczania głosów oddanych na poszczególne okręgowe listy kandydatów na posłów oraz na poszczególnych kandydatów z tych list."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "1. Jeżeli na karcie do głosowania na okręgowe listy kandydatów postawiono znak „x” w kratce z lewej strony obok nazwisk dwóch lub więcej kandydatów z różnych list lub nie postawiono znaku „x” w kratce z lewej strony obok nazwiska żadnego kandydata z którejkolwiek listy, to głos taki uważa się za nieważny. 2. Nieważne są również karty do głosowania: 1) inne niż urzędowo ustalone, 2) nie opatrzone pieczęcią obwodowej komisji wyborczej. 3. Jeżeli na karcie do głosowania postawiono znak „x” w kratce z lewej strony obok nazwiska więcej niż jednego kandydata z tej samej listy, to głos taki uważa się za ważnie oddany na wskazaną listę okręgową z przyznaniem pierwszeństwa do otrzymania mandatu kandydatowi na posła, którego nazwisko na tej liście umieszczono w pierwszej kolejności. 4. Dopisanie na karcie do głosowania dodatkowych numerów, nazw list lub nazwisk albo poczynienie innych dopisków lub skreśleń nie pociąga za sobą skutków prawnych i nie wpływa na ważność głosu."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "1. Obwodowa komisja wyborcza sporządza w dwóch egzemplarzach protokół głosowania na okręgowe listy kandydatów. 2. W protokole należy wymienić liczbę otrzymanych kart do głosowania i nie wykorzystanych kart oraz liczbę: 1) wyborców uprawnionych do głosowania, 2) wyborców, którym wydano karty do głosowania, 3) oddanych głosów, 4) głosów nieważnych, 5) głosów ważnych, 6) głosów ważnie oddanych odrębnie na każdą z list (łączna liczba głosów oddanych na kandydatów danej listy), 7) głosów ważnie oddanych na poszczególnych kandydatów każdej z list. 3. W protokole wymienia się czas rozpoczęcia i zakończenia głosowania oraz omawia zarządzenia i wydane decyzje, jak również inne istotne okoliczności związane z przebiegiem głosowania. 4. Protokół podpisują wszystkie osoby, wchodzące w skład obwodowej komisji wyborczej, obecne przy jego sporządzaniu. Protokół opatruje się pieczęcią komisji. 5. Mężom zaufania przysługuje prawo wniesienia do protokołu głosowania uwag z wymienieniem konkretnych zarzutów. 6. Niezwłocznie po sporządzeniu protokołu obwodowa komisja wyborcza podaje do wiadomości publicznej wyniki głosowania na okręgowe listy kandydatów."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "1. Przewodniczący obwodowej komisji wyborczej przekazuje do okręgowej komisji wyborczej dane z treści protokołów głosowania za pośrednictwem sieci telekomunikacyjnej użytku publicznego lub elektronicznego przesyłania danych oraz niezwłocznie przesyła do okręgowej komisji wyborczej w zapieczętowanej kopercie jeden egzemplarz protokołu głosowania na okręgowe listy kandydatów. 2. Tryb przekazywania i przyjmowania protokołów, o których mowa w ust. 1, ustala Państwowa Komisja Wyborcza."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "1. Po wykonaniu czynności wymienionych w art. 90 ust. 1 przewodniczący obwodowej komisji wyborczej przesyła niezwłocznie właściwemu wójtowi lub burmistrzowi (prezydentowi miasta) dokumenty z wyborów. 2. Dokumenty z obwodów głosowania, o których mowa w art. 42, przechowują właściwi terytorialnie konsulowie. Rozdział 11 Ustalanie wyników wyborów w okręgu wyborczym"
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Okręgowa komisja wyborcza na podstawie informacji, o których mowa w art. 90 ust. 1, ustala wstępne wyniki wyborów w okręgu wyborczym, po czym na podstawie otrzymanych protokołów od obwodowych komisji wyborczych przystępuje do ustalenia liczb głosów oddanych na poszczególne okręgowe listy kandydatów na posłów oraz do ustalenia ostatecznych wyników wyborów w okręgu wyborczym. 2. Przy ustalaniu wyników głosowania i wyników wyborów w okręgu wyborczym mogą być obecni pełnomocnicy komitetów wyborczych, które zgłosiły listy kandydatów na posłów w danym okręgu wyborczym."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "1. Okręgowa komisja wyborcza, po ustaleniu liczb głosów oddanych w okręgu na poszczególne listy okręgowe, sporządza na odpowiednim formularzu w dwóch egzemplarzach zestawienie obejmujące liczby ważnie oddanych głosów na poszczególne listy okręgowe oraz liczbę głosów oddanych na wszystkie listy okręgowe. 2. Na podstawie zestawienia, o którym mowa w ust. 1, okręgowa komisja wyborcza przystępuje do ustalenia liczby mandatów przypadających dla poszczególnych list okręgowych. W tym celu, odrębnie w odniesieniu do każdej listy, liczbę ważnie oddanych głosów w okręgu wyborczym na daną listę mnoży się za każdym razem przez liczbę posłów wybieranych w okręgu wyborczym, a następnie tak uzyskany iloczyn dzieli się przez liczbę oddanych głosów na wszystkie listy okręgowe. Otrzymany w ten sposób iloraz w wartości liczby całkowitej (przed przecinkiem) oznacza liczbę mandatów przypadających w okręgu wyborczym danej okręgowej liście kandydatów. 3. Jeżeli po przeprowadzeniu postępowania, o którym mowa w ust. 2, kolejno w odniesieniu do wszystkich okręgowych list kandydatów nie zostały rozdzielone wszystkie mandaty, to pozostałe jeszcze do podziału mandaty przydziela się tym okręgowym listom kandydatów, dla których wyliczone ilorazy wykazują po przecinku kolejne najwyższe wartości, uwzględniając także i te listy, które nie otrzymały jeszcze żadnego mandatu. 4. Jeżeli liście okręgowej przypada więcej mandatów, niż kandydatów na tej liście zostało zarejestrowanych, to nie obsadzone mandaty przydziela się pozostałym listom okręgowym wykazującym kolejno najwyższe ilorazy. 5. W wypadku list zblokowanych (art. 75), przy ustalaniu podziału mandatów między poszczególne listy okręgowe, sumę oddanych głosów na te listy uznaje się jako liczbę głosów oddanych na jedną listę."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "1. Po ustaleniu liczby mandatów, w sposób określony w art. 93, przypadających poszczególnym okręgowym listom kandydatów, okręgowa komisja wyborcza mandaty przypadające danej liście w okręgu wyborczym przyznaje kandydatom na posłów z tej listy według zasad określonych w art. 95. 2. Przed przystąpieniem do przyznawania mandatów kandydatom z poszczególnych list, przewodniczący okręgowej komisji wyborczej przekazuje do Państwowej Komisji Wyborczej, za pośrednictwem sieci telekomunikacyjnej użytku publicznego lub elektronicznego przesyłania danych, wstępne wyniki wyborów w okręgu dotyczące podziału mandatów między listy okręgowe."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "1. Mandaty przypadające na daną listę okręgową uzyskują kandydaci z tej listy, którzy otrzymali kolejno największą liczbę głosów. 2. Jeżeli dwóch lub więcej kandydatów uzyskało równą liczbę głosów uprawniającą do otrzymania mandatu z danej listy, o pierwszeństwie rozstrzyga kolejność umieszczenia ich nazwisk na liście."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "W wypadku list zblokowanych (art. 75) najpierw ustala się, według zasad określonych w art. 93 ust. 2 i 3, ile mandatów przypada odrębnie każdej z tych list, a następnie w odniesieniu do każdej z tych list stosuje się odpowiednio przepisy art. 95, z zastrzeżeniem wynikającym z oświadczenia, o którym mowa w art. 75 ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "1. Po ostatecznym ustaleniu wyników wyborów w okręgu wyborczym, okręgowa komisja wyborcza sporządza w 2 egzemplarzach protokół z wyborów posłów na Sejm w okręgu wyborczym. 2. Protokół powinien zawierać liczbę posłów wybieranych w okręgu, a także liczbę: 1) wyborców uprawnionych do głosowania, 2) wyborców, którym wydano karty do głosowania, 3) oddanych głosów, 4) głosów nieważnych, 5) głosów ważnych, 6) głosów ważnych oddanych na poszczególne listy, 7) mandatów przypadających dla poszczególnych list, 8) głosów ważnie oddanych na poszczególnych kandydatów z każdej listy okręgowej, 9) nazwiska i imiona posłów, którym przydzielono mandaty, z podaniem numerów list, z których je otrzymali. 3. Przepisy art. 89 ust. 4 i 5 stosuje się odpowiednio. 4. Do protokołu załącza się zestawienie, o którym mowa w art. 93. 5. Niezwłocznie po sporządzeniu protokołu, o którym mowa w ust. 2, okręgowa komisja wyborcza podaje do wiadomości publicznej wyniki wyborów w okręgu wyborczym."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Protokół, o którym mowa w art. 97, wraz z załącznikami przewodniczący okręgowej komisji wyborczej przesyła niezwłocznie do Państwowej Komisji Wyborczej w trybie przez nią ustalonym. Pozostałe dokumenty z wyboru przechowuje kierownik wojewódzkiego biura wyborczego, właściwego dla siedziby okręgowej komisji wyborczej, do czasu otrzymania stosownych zarządzeń Państwowej Komisji Wyborczej. Rozdział 12 Ustalanie wyników wyborów z ogólnopolskich list kandydatów na posłów. Ogłoszenie wyników wyborów do Sejmu"
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Na podstawie wstępnie ustalonych przez okręgowe komisje wyborcze wyników wyborów, o których mowa w art. 94 ust. 2, Państwowa Komisja Wyborcza podaje do wiadomości publicznej wstępne wyniki wyborów do Sejmu, dotyczące podziału mandatów między listy okręgowe w okręgach wyborczych."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "1. Państwowa Komisja Wyborcza, po otrzymaniu protokołów oraz sprawdzeniu prawidłowości ustalenia wyników wyborów w okręgach wyborczych, przystępuje do podziału mandatów między ogólnopolskie listy kandydatów na posłów. 2. Mandaty przypadające do podziału między ogólnopolskie listy kandydatów na posłów dzieli się między te listy zgłoszone przez komitety wyborcze, które z list okręgowych, powiązanych z ich listami ogólnopolskimi, uzyskały mandaty poselskie w co najmniej 5 okręgach wyborczych lub których listy okręgowe otrzymały w sumie liczbę ważnie oddanych głosów nie mniejszą niż 5% liczby ważnie oddanych głosów na wszystkie listy okręgowe we wszystkich okręgach wyborczych. 3. W wypadku zblokowanych list ogólnopolskich (art. 75 i art. 77), przy ustalaniu podziału mandatów pomiędzy poszczególne listy ogólnopolskie, sumę głosów oddanych na listy okręgowe powiązane z poszczególnymi i zblokowanymi listami ogólnopolskimi uznaje się jako liczbę głosów oddanych na jedną listę. Po ustaleniu łącznej liczby mandatów przypadających listom zblokowanym, podziału mandatów między te listy dokonuje się zgodnie z zasadami określonymi w art. 101. 4. Przepisy ust. 2 nie dotyczą ogólnopolskich list kandydatów na posłów zgłoszonych przez komitety wyborcze, o których mowa w art. 76 ust. 3."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "1. Mandaty przydziela się poszczególnym ogólnopolskim listom kandydatów na posłów po zsumowaniu liczby głosów oddanych na listy okręgowe powiązane z daną ogólnopolską listą kandydatów na posłów. Państwowa Komisja Wyborcza dzieli mandaty pomiędzy poszczególne ogólnopolskie listy kandydatów na posłów w sposób następujący: 1) sumę ważnych głosów oddanych na listy okręgowe danego komitetu wyborczego, który zarejestrował ogólnopolską listę, dzieli się kolejno przez 1,4 (jeden i cztery dziesiąte); 3; 5; 7;... i dalej przez ciąg kolejnych liczb nieparzystych, aż do chwili, gdy z otrzymanych w ten sposób ilorazów da się uszeregować tyle kolejno największych liczb, ile wynosi liczba mandatów do rozdzielenia między ogólnopolskie listy kandydatów na posłów, 2) każdej ogólnopolskiej liście kandydatów przyznaje się tyle mandatów, ile spośród ustalonego w powyższy sposób szeregu ilorazów przypada jej liczb kolejno najwyższych. 2. Jeżeli kilka list wykazało ilorazy równe ostatniej liczbie z liczb uszeregowanych w podany powyżej sposób i list tych jest więcej niż mandatów do rozdzielenia, należy dać pierwszeństwo liście ogólnopolskiej komitetu wyborczego, który w okręgach uzyskał więcej mandatów. Jeżeli dwa lub więcej komitetów wyborczych uzyskało w okręgach równą liczbę mandatów, o pierwszeństwie rozstrzyga większa liczba głosów oddanych w całym kraju na listy okręgowe zgłoszone przez dany komitet wyborczy. 3. Mandaty przypadające na daną ogólnopolską listę kandydatów na posłów uzyskują kandydaci z tej listy w kolejności umieszczenia ich nazwisk na liście - z pominięciem tych kandydatów, którzy uzyskali już mandaty w okręgach wyborczych. 4. Jeżeli liście ogólnopolskiej zostanie przydzielonych więcej mandatów niż kandydatów na tej liście zostało zarejestrowanych, to mandaty nie obsadzone przydziela się pozostałym listom wykazującym kolejno najwyższe ilorazy. 5. Państwowa Komisja Wyborcza sporządza odrębny protokół wyboru posłów z ogólnopolskich list kandydatów na posłów, w którym podaje: 1) liczbę głosów oddanych na poszczególne listy, 2) wykaz ogólnopolskich list kandydatów na posłów wraz z liczbą głosów oddanych w okręgach na listy poszczególnych komitetów wyborczych z podaniem, w ilu okręgach listy uzyskały mandaty i jaki procent głosów otrzymały w skali kraju wraz z zaznaczeniem komitetów wyborczych, których listy uczestniczą w podziale mandatów między ogólnopolskie listy kandydatów na posłów, 3) liczbę mandatów przydzielonych poszczególnym ogólnopolskim listom kandydatów na posłów, 4) nazwiska i imiona posłów, którym przydzielono mandaty, z podaniem numerów ogólnopolskich list, z których je uzyskali, oraz numer okręgu wyborczego, w którym kandydowali."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "1. Państwowa Komisja Wyborcza, po dokonaniu podziału mandatów między ogólnopolskie listy kandydatów na posłów, podaje do wiadomości publicznej w formie obwieszczenia ostateczne wyniki wyborów do Sejmu. 2. Obwieszczenie, o którym mowa w ust. 1, musi zawierać podstawowe informacje objęte treścią protokołów z wyborów posłów na Sejm sporządzonych przez okręgowe komisje wyborcze (art. 97) oraz protokołu wyboru posłów z ogólnopolskich list kandydatów na posłów (art. 101 ust. 4). 3. Obwieszczenie, o którym mowa w ust. 2, publikuje się niezwłocznie na koszt Państwowej Komisji Wyborczej w dzienniku o zasięgu ogólnokrajowym oraz ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”. 4. Państwowa Komisja Wyborcza publikuje opracowanie statystyczne, zawierające szczegółowe informacje o wynikach głosowania i wynikach wyborów do Sejmu. 5. Państwowa Komisja Wyborcza określa sposób przekazywania, przechowywania i udostępniania dokumentów z wyborów, a w szczególności, o których mowa w art. 91, art. 98 i art. 100-101."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "Państwowa Komisja Wyborcza wydaje wybranym posłom na Sejm zaświadczenia o wyborze."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "Państwowa Komisja Wyborcza składa Sejmowi na pierwszym jego posiedzeniu sprawozdanie z wyborów. Rozdział 13 Ważność wyborów"
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "1. Sejm na podstawie sprawozdania z wyborów, przedstawionego przez Państwową Komisję Wyborczą, stwierdza ważność wyboru posła, jeżeli przeciwko jego wyborowi nie został wniesiony protest. 2. W razie wniesienia protestu przeciwko wyborowi posła, do czasu rozstrzygnięcia sprawy przysługuje mu prawo udziału w pracach Sejmu."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "1. Przeciwko wyborowi posła lub ważności wyborów może być wniesiony protest z powodu naruszenia przepisów niniejszej ustawy dotyczących głosowania, ustalania wyników głosowania lub wyników wyborów albo z powodu dopuszczenia się przestępstwa przeciwko wyborom, jeżeli to naruszenie lub przestępstwo mogło wywrzeć wpływ na wynik wyborów. 2. Protest przeciwko wyborowi posła lub posłów w okręgu wyborczym może wnieść wyborca, który w dniu wyborów był wpisany do spisu wyborców w jednym z obwodów głosowania na obszarze danego okręgu wyborczego. 3. Protest przeciwko ustaleniu wyników wyborów z ogólnopolskich list kandydatów na posłów może wnieść każdy wyborca. 4. Jeżeli podstawę protestu stanowi zarzut popełnienia przestępstwa przeciwko wyborom lub naruszenia przez Państwową Komisję Wyborczą przepisów niniejszej ustawy dotyczących głosowania, ustalania wyników głosowania lub wyniku wyborów, może go wnieść każdy wyborca. 5. Sąd Najwyższy pozostawia bez dalszego biegu wszystkie protesty dotyczące spraw, co do których w niniejszej ustawie przewiduje się możliwość wniesienia skargi lub odwołania odpowiednio do sądu lub Państwowej Komisji Wyborczej przed dniem głosowania."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "1. Protest wnosi się na piśmie do Sądu Najwyższego najpóźniej w 7 dniu od daty podania ostatecznych wyników wyborów do publicznej wiadomości przez Państwową Komisję Wyborczą. Nadanie w tym terminie protestu w polskim urzędzie pocztowym jest równoznaczne z wniesieniem go do Sądu Najwyższego. 2. Datą podania do wiadomości publicznej ostatecznych wyników wyborów do Sejmu jest dzień opublikowania obwieszczenia, o którym mowa w art. 102 ust. 2, w dzienniku o zasięgu ogólnokrajowym. 3. W odniesieniu do wyborcy, o którym mowa w art. 42 ust. 1, wymogi wymienione w ust. 1 uważa się za spełnione, jeżeli protest został złożony właściwemu terytorialnie konsulowi. 4. Wnoszący protest powinien sformułować w nim zarzuty oraz przedstawić lub wskazać dowody, na których opiera swoje zarzuty."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "1. Sąd Najwyższy pozostawia bez dalszego biegu protest wniesiony przez osobę do tego nie uprawnioną w myśl art. 106 lub jeżeli został wniesiony po upływie terminu określonego w art. 107 ust. 1. 2. Jeżeli protest nie spełnia warunków, o których mowa w art. 107 ust. 4, to Sąd Najwyższy pozostawia protest bez dalszego biegu. 3. Jeżeli w proteście zarzucono popełnienie przestępstwa przeciwko wyborom, Sąd Najwyższy niezwłocznie zawiadamia o tym Prokuratora Generalnego."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1. Sąd Najwyższy rozpatruje protest w składzie 3 sędziów, w postępowaniu nieprocesowym, stosując odpowiednio przepisy Kodeksu postępowania cywilnego . 2. Uczestnikami postępowania są z mocy ustawy wnoszący protest, przewodniczący właściwej komisji wyborczej lub jego zastępca i Prokurator Generalny. 3. Sąd Najwyższy formułuje opinię w sprawie protestu i przedstawia ją wraz z aktami sprawy Sejmowi."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "1. Sejm po rozpatrzeniu zarzutów zawartych w proteście oraz opinii Sądu Najwyższego rozstrzyga co do ważności wyboru posła. 2. Sejm stwierdzając nieważność wyboru posła rozstrzyga równocześnie co do przeprowadzenia wyborów ponownych oraz zakresu unieważnienia."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "1. Wybory ponowne przeprowadza się w trybie i na zasadach przewidzianych w niniejszej ustawie, w ciągu 3 miesięcy od dnia podjęcia przez Sejm uchwały w sprawie przeprowadzenia wyborów ponownych. 2. Zarządzenie Prezydenta o zarządzeniu wyborów ponownych ogłasza się najpóźniej w 10 dniu po podjęciu przez Sejm uchwały, o której mowa w ust. 1. 3. Zarządzając wybory ponowne, Prezydent ustala kalendarz wyborczy, w którym może dla poszczególnych czynności wyborczych określić terminy krótsze od przewidzianych w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "Głosowanie w wyborach ponownych przeprowadza się wyłącznie na terytorium kraju. Rozdział 14 Wygaśnięcie mandatu posła i uzupełnienie składu Sejmu"
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "1. Wygaśnięcie mandatu posła następuje wskutek: 1) stwierdzenia nieważności wyboru posła, 2) odmowy złożenia ślubowania poselskiego, 3) utraty prawa wybieralności, 4) zrzeczenia się mandatu, 5) śmierci. 2. Wygaśnięcie mandatu posła stwierdza Sejm."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "1. W wypadku wygaśnięcia mandatu posła wybranego z okręgowej listy kandydatów, Sejm stwierdzając wygaśniecie mandatu podejmuje uchwałę o wstąpieniu na jego miejsce kandydata z tej samej listy, który w wyborach uzyskał kolejno największą liczbę głosów, a nie utracił prawa wybieralności. Przy równej liczbie głosów rozstrzyga kolejność umieszczenia kandydata na liście okręgowej. W wypadku ogólnopolskiej listy rozstrzyga kolejność umieszczenia kandydata na liście. 2. Kandydat może zrzec się pierwszeństwa do obsadzenia mandatu na rzecz kandydata z tej samej listy, który uzyskał kolejno największą liczbę głosów. Oświadczenie o ustąpieniu pierwszeństwa powinno być zgłoszone Marszałkowi Sejmu w ciągu 7 dni od daty doręczenia kandydatowi zawiadomienia o przypadającym mu mandacie. 3. Jeżeli w wypadku wygaśnięcia mandatu posła podjęcie uchwały Sejmu o wstąpieniu na jego miejsce kandydata z tej samej listy byłoby niemożliwe z powodu braku kandydatów, którym mandat można przydzielić, to mandat ten do końca kadencji pozostaje nie obsadzony. Rozdział 15 Kampania wyborcza i jej finansowanie"
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "Kampania wyborcza rozpoczyna się z dniem ogłoszenia zarządzenia Prezydenta o wyznaczeniu daty wyborów i ulega zakończeniu na 24 godziny przed dniem głosowania."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Art. 116",
+      "content": "1. Zgromadzenia wyborców organizowane w celu zbierania podpisów popierających listy kandydatów na posłów oraz zwoływane i odbywane w ramach kampanii wyborczej prowadzonej na rzecz tych kandydatów nie podlegają przepisom ustawy z dnia 5 lipca 1990 r. - Prawo o zgromadzeniach ( Dz. U. Nr 51, poz. 297 ) . 2. Każdy wyborca może zbierać podpisy popierające zgłaszane przez komitety wyborcze listy kandydatów na posłów i rozpowszechniać programy wyborcze, agitować na rzecz list kandydatów lub kandydatów na posłów, a także organizować wiece wyborcze. 3. Podpisy popierające zgłoszenia, o których mowa w ust. 2, można zbierać w miejscu, czasie i w sposób wykluczający stosowanie jakichkolwiek nacisków zmierzających do wymuszenia podpisów."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Art. 117",
+      "content": "Od siódmego dnia przed dniem wyborów aż do zakończenia głosowania zabrania się podawania do wiadomości publicznej wyników przedwyborczych badań (sondaży) opinii publicznej dotyczących przewidywanych zachowań wyborczych i wyników wyborów oraz wyników sondaży wyborczych przeprowadzanych w dniu głosowania."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Art. 118",
+      "content": "1. Wszelkie plakaty, napisy (hasła) lub ulotki wyborcze zawierające wyraźne oznaczenie, od kogo pochodzą, bądź stwierdzające, przez kogo są rozplakatowane, podlegają ochronie prawnej. 2. Do umieszczania plakatów wyborczych nie mają zastosowania przepisy art. 63a Kodeksu wykroczeń ."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Art. 119",
+      "content": "1. Na ścianach budynków i ogrodzeniach można umieszczać plakaty i hasła wyborcze wyłącznie po uzyskaniu zgody właściciela lub zarządcy nieruchomości. 2. Zabrania się umieszczania plakatów i haseł wyborczych na zewnątrz i wewnątrz budynków administracji rządowej i samorządowej oraz sądów, a także na terenie jednostek wojskowych i oddziałów obrony cywilnej oraz skoszarowanych jednostek policyjnych. 3. Wójt lub burmistrz (prezydent miasta) może, w drodze zarządzenia, zakazać umieszczania plakatów i haseł na niektórych budynkach publicznych lub określonych częściach terenów publicznych z przyczyn związanych z ochroną zabytków bądź środowiska. 4. Przy ustawianiu własnych urządzeń ogłoszeniowych dla celów prowadzenia kampanii wyborczej należy stosować obowiązujące przepisy porządkowe. 5. Plakaty należy umieszczać w taki sposób, aby można je było następnie usunąć bez powodowania szkód. 6. Policja jest obowiązana usuwać plakaty i hasła, których sposób umieszczenia może zagrażać życiu lub zdrowiu fizycznemu ludzi albo bezpieczeństwu mienia bądź w ruchu drogowym."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Art. 120",
+      "content": "1. W wypadku gdy plakaty, hasła, ulotki wyborcze albo inne formy propagandy i agitacji wyborczej zawierają dane i informacje nieprawdziwe bądź nieścisłe, każdy zainteresowany ma prawo wnieść do sądu rejonowego wniosek o orzeczenie konfiskaty takich materiałów lub o wydanie zakazu publikowania takich danych i informacji bądź innego odpowiedniego zarządzenia tymczasowego. 2. Sąd rejonowy rozpoznaje wniosek, o którym mowa w ust. 1, w ciągu 24 godzin, w postępowaniu nieprocesowym w składzie jednego sędziego. Postanowienie, kończące postępowanie w sprawie, sąd niezwłocznie doręcza osobie zainteresowanej, o której mowa w ust. 1, właściwej okręgowej komisji wyborczej i osobie lub organizacji zobowiązanej do wykonania postanowienia sądu. Na postanowienie sądu rejonowego służy w terminie 24 godzin zażalenie do sądu wojewódzkiego, który jest obowiązany do jego rozpatrzenia w ciągu 24 godzin. Prawomocne postanowienie sądu podlega natychmiastowemu wykonaniu."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Art. 121",
+      "content": "1. Zabrania się prowadzenia kampanii wyborczej na terenie zakładów pracy lub instytucji publicznych w sposób i w formach zakłócających ich normalne funkcjonowanie. 2. Zabrania się prowadzenia kampanii wyborczej na terenie jednostek wojskowych i innych jednostek organizacyjnych podległych Ministrowi Obrony Narodowej oraz w oddziałach obrony cywilnej, a także skoszarowanych jednostkach policyjnych."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Art. 122",
+      "content": "1. Komitety wyborcze zarejestrowanych list kandydatów na posłów mają zapewniony, na jednakowych zasadach, dostęp do państwowych środków masowego przekazu, zgodnie z przepisami niniejszej ustawy. 2. Polska Agencja Prasowa oraz Polskie Radio i Telewizja Polska, na jednakowych zasadach, w okresie od 50 dnia do 31 dnia przed dniem wyborów przedstawiają nieodpłatnie założenia programowe komitetów wyborczych, zgłaszających listy kandydatów na posłów w więcej niż jednym okręgu wyborczym. 3. W okresie od 30 dnia przed dniem wyborów do dnia zakończenia kampanii wyborczej Polskie Radio i Telewizja Polska przyznaje komitetom wyborczym, które zarejestrowały listy kandydatów w więcej niż jednym okręgu wyborczym, nieodpłatnie czas emisji w programach ogólnokrajowych bądź regionalnych na przygotowywane przez nie audycje wyborcze. 4. Przewodniczący Komitetu do Spraw Radia i Telewizji, najpóźniej w 65 dniu przed dniem wyborów, ustali: 1) warunki i zakres bezpłatnego korzystania z usług Polskiego Radia i Telewizji Polskiej dla przygotowania audycji wyborczych, o których mowa w ust. 3 i art. 124 ust. 1, 2) cennik i zasady korzystania z dodatkowych usług świadczonych przez Polskie Radio i Telewizję Polską dla przygotowania audycji wyborczych. 5. Pełnomocnik, o którym mowa w art. 123 ust. 2, najpóźniej w 65 dniu przed dniem wyborów, przekaże do wiadomości pełnomocników komitetów wyborczych określone przez Polskie Radio i Telewizję Polską parametry techniczne, którym muszą odpowiadać przeznaczone do emisji audycje wyborcze przygotowane poza tymi instytucjami, a także ustali zasady i warunki wykorzystania urządzeń dostosowujących te audycje do norm emisyjnych obowiązujących w Polskim Radiu i Telewizji Polskiej. 6. W okresie, o którym mowa w ust. 2 i 3, Polskie Radio i Telewizja Polska w audycjach informacyjnych dotyczących kampanii wyborczej mają obowiązek przekazywać w jednakowej proporcji informacje o działalności komitetów wyborczych, które zarejestrowały listy kandydatów w więcej niż jednym okręgu wyborczym."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Art. 123",
+      "content": "1. W programach Polskiego Radia i Telewizji Polskiej o zasięgu ogólnokrajowym łączny czas emitowania bezpłatnych audycji wyborczych, w całym okresie między 30 dniem przed dniem wyborów a dniem zakończenia kampanii wyborczej, nie może być: 1) w Telewizji Polskiej krótszy niż 25 godzin i dłuższy niż 30 godzin, 2) w Polskim Radiu krótszy niż 50 godzin i dłuższy niż 60 godzin. 2. Podziału czasu emisji audycji wyborczych pomiędzy komitety wyborcze, o których mowa w art. 70, dokonuje pełnomocnik do spraw audycji wyborczych powołany, najpóźniej w 75 dniu przed dniem wyborów, przez Przewodniczącego Komitetu do Spraw Radia i Telewizji. 3. Pełnomocnik, o którym mowa w ust. 2, wydaje decyzje w sprawie podziału czasu emisji, po zasięgnięciu opinii kolegium, najpóźniej w 48 dniu przed dniem wyborów. 4. W skład kolegium, o którym mowa w ust. 3, wchodzą przedstawiciele komitetów wyborczych, o których mowa w art. 70, po jednym z każdego komitetu."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Art. 124",
+      "content": "1. W programach Polskiego Radia i Telewizji Polskiej o zasięgu regionalnym łączny czas emitowania bezpłatnych audycji wyborczych, w całym okresie między 30 dniem przed dniem wyborów a dniem zakończenia kampanii wyborczej w danym ośrodku regionalnym, nie może być: 1) w Telewizji Polskiej krótszy niż 8 godzin i dłuższy niż 10 godzin, 2) w Polskim Radiu krótszy niż 25 godzin i dłuższy niż 30 godzin. 2. Podziału czasu emisji audycji wyborczych pomiędzy poszczególne komitety wyborcze, które zarejestrowały listy kandydatów na posłów w okręgach wyborczych na obszarach objętych zasięgiem emisji radiowej lub telewizyjnej danego ośrodka Polskiego Radia lub Telewizji Polskiej, dokonują regionalni pełnomocnicy do spraw audycji wyborczych powołani, najpóźniej w 70 dniu przed dniem wyborów, przez kierownictwa rozgłośni regionalnych. 3. Podziału czasu emisji audycji wyborczych pomiędzy komitety wyborcze dokonuje się w proporcji do liczby zarejestrowanych przez nie kandydatów. 4. Pełnomocnik, o którym mowa w ust. 2, wydaje decyzje w sprawie podziału czasu emisji, po zasięgnięciu opinii kolegium, najpóźniej w 38 dniu przed dniem wyborów. 5. W skład kolegium, o którym mowa w ust. 4, wchodzą przedstawiciele komitetów wyborczych, o których mowa w ust. 2, po jednym z każdego komitetu."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Art. 125",
+      "content": "1. Niezależnie od czasu przyznanego bezpłatnie na emitowanie audycji wyborczych, każdy komitet wyborczy, który zarejestrował listę kandydatów na posłów, może odpłatnie emitować w programach Polskiego Radia bądź Telewizji Polskiej audycje wyborcze nie przekraczające jednej minuty emisji nadawanej najwyżej dwa razy dziennie. 2. Łączny czas audycji wyborczych, o których mowa w ust. 1, nie może przekraczać 10% łącznego czasu przyznanego danemu komitetowi wyborczemu na emitowanie bezpłatnych audycji wyborczych. 3. Dyrektor ogólnokrajowego programu Polskiego Radia lub Telewizji Polskiej, jak i dyrektor regionalnego ośrodka Polskiego Radia lub Telewizji Polskiej, nie może odmówić emitowania na zasadach odpłatności audycji wyborczych, o których mowa w ust. 1. 4. Wysokość opłat pobieranych za czas emisji audycji wyborczych, o których mowa w ust. 1, nie może przekraczać 50% stawek cen pobieranych za emisje reklam komercyjnych i musi być dla wszystkich jednakowa oraz ustalana według cennika obowiązującego w dniu zarządzenia wyborów. 5. Audycje, o których mowa w ust. 1, są emitowane na zasadach przyjętych w Telewizji Polskiej dla reklam. 6. Porę emitowania audycji, o których mowa w Ust. 1, ustalają pełnomocnicy, o których mowa w art. 123 ust. 2 i art. 124 ust. 2."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Art. 126",
+      "content": "Od decyzji Przewodniczącego Komitetu do Spraw Radia i Telewizji oraz pełnomocników, o których mowa w art. 123 ust. 2 oraz art. 124 ust. 2, przysługuje, w ciągu 48 godzin od daty jej wydania, odwołanie do Państwowej Komisji Wyborczej. Decyzja Państwowej Komisji Wyborczej jest ostateczna."
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Art. 127",
+      "content": "Komitety wyborcze mają prawo do wykorzystywania zasobów archiwalnych Polskiego Radia lub Telewizji Polskiej - na zasadach obowiązujących w tych instytucjach."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Art. 128",
+      "content": "Informacje, komunikaty, apele i hasła wyborcze ogłaszane w prasie (drukowanej lub w radiu bądź w telewizji) na koszt komitetu wyborczego, partii politycznej lub innej organizacji społecznej, popierających kandydatów na posłów, a także na koszt samych kandydatów, muszą zawierać wskazanie, przez kogo są opłacane, i spełniać wymagania przewidziane w art. 118 ust. 1."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Art. 129",
+      "content": "1. Niezależnie od postanowień art. 31-33 ustawy z dnia 26 stycznia 1984 r. - Prawo prasowe ( Dz. U. Nr 5, poz. 24 , z 1988 r. Nr 41, poz. 324 , z 1989 r. Nr 34, poz. 187 i z 1990 r. Nr 29, poz. 173 ) wiadomości nieprawdziwe lub oczywiście nieścisłe odnoszące się do wyborów i związane z kampanią wyborczą podane w prasie oraz w wydawnictwach nieperiodycznych wymagają niezwłocznie sprostowania, a termin publikacji sprostowania wynosi 48 godzin. 2. W wypadku odmowy sprostowania zainteresowanemu przysługuje prawo wystąpienia z wnioskiem o wydanie odpowiedniego zarządzenia do sądu rejonowego, który obowiązany jest sprawę rozpoznać w ciągu 24 godzin w postępowaniu nieprocesowym w składzie jednego sędziego. Postanowienie kończące postępowanie w sprawie sąd niezwłocznie doręcza zainteresowanemu, który wystąpił z wnioskiem, oraz zobowiązanemu do publikacji sprostowania. Na postanowienie sądu rejonowego służy w terminie 24 godzin zażalenie do sądu wojewódzkiego, który jest obowiązany rozpatrzyć je w ciągu 24 godzin. Prawomocne postanowienie sądu podlega natychmiastowemu wykonaniu. 3. W odniesieniu do sprostowań wiadomości opublikowanych w innych wydawnictwach niż dziennik sąd wskazuje dziennik, w którym sprostowanie ma być zamieszczone, na koszt zobowiązanego, w terminie nie przekraczającym 48 godzin. 4. W razie odmowy lub niezamieszczenia sprostowania przez zobowiązanego lub wskazanego w postanowieniu sądu na wniosek uprawnionego, sąd zarządza opublikowanie sprostowania w trybie egzekucyjnym wyznaczonym w postanowieniu sądu."
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Art. 130",
+      "content": "Wykonanie uprawnień wynikających z niniejszej ustawy nie ogranicza możliwości dochodzenia przez osoby pokrzywdzone lub poszkodowane uprawnień na podstawie przepisów innych ustaw - a w szczególności Kodeksu karnego , Kodeksu cywilnego i Prawa prasowego - wobec osób, których działania w toku kampanii wyborczej naruszyły cudze dobra osobiste lub majątkowe."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Art. 131",
+      "content": "1. Koszty związane ze zgłaszaniem list kandydatów oraz prowadzoną na ich rzecz kampanią wyborczą pokrywane są ze środków finansowych zgłaszających je komitetów wyborczych. 2. Osoby prawne i fizyczne mogą przekazywać środki finansowe na cele kampanii wyborczej pełnomocnikom komitetów wyborczych. 3. Środki finansowe osób prawnych przekazywane na cele kampanii wyborczej mogą pochodzić wyłącznie z zysku. Dotyczy to również nieodpłatnego świadczenia usług. 4. Na cele kampanii wyborczej nie mogą być przekazywane środki finansowe pochodzące z: 1) budżetu państwa i państwowych jednostek organizacyjnych, 2) budżetu gmin i sejmików samorządowych oraz związków komunalnych, 3) funduszy państwowych podmiotów gospodarczych, 4) źródeł zagranicznych."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "Art. 132",
+      "content": "1. Pełnomocnicy komitetów wyborczych mogą organizować zbiórki publiczne środków finansowych na cele kampanii wyborczej. 2. Organizowanie zbiórki publicznej nie wymaga uzyskania zezwolenia."
+    },
+    {
+      "provision_ref": "art133",
+      "section": "133",
+      "title": "Art. 133",
+      "content": "1. Finansowanie kampanii wyborczej jest jawne. 2. Komitet wyborczy, który zarejestrował listy kandydatów w więcej niż jednym okręgu wyborczym, w ciągu 3 miesięcy od dnia wyborów, przedkłada Państwowej Komisji Wyborczej sprawozdanie finansowe zawierające informacje o poniesionych kosztach związanych z prowadzeniem kampanii wyborczej oraz o źródłach pozyskanych funduszy na prowadzenie kampanii wyborczej. 3. Obowiązek, o którym mowa w ust. 1, spoczywa również na komitecie wyborczym, który zarejestrował listę kandydatów w jednym okręgu wyborczym. Komitet ten przedkłada sprawozdanie finansowe właściwej okręgowej komisji wyborczej. 4. Państwowa Komisja Wyborcza ustali wzór sprawozdania finansowego przedkładanego przez komitety wyborcze. 5. Sprawozdania, o których mowa w ust. 2, podawane są do wiadomości publicznej i ogłaszane w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, zaś sprawozdania, o których mowa w ust. 3, udostępniane są do publicznego wglądu."
+    },
+    {
+      "provision_ref": "art134",
+      "section": "134",
+      "title": "Art. 134",
+      "content": "1. Koszty, o których mowa w art. 131 ust. 1, nie mogą przekroczyć, w wypadku każdej zarejestrowanej okręgowej listy kandydatów w okręgu wyborczym, równowartości sześćdziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sześciu podstawowych działach sfery produkcji materialnej w miesiącu poprzedzającym ogłoszenie zarządzenia Prezydenta o wyznaczeniu daty wyborów. 2. W razie przekroczenia granic kosztów określonych w ust. 1, izba skarbowa właściwa terytorialnie dla siedziby komitetu wyborczego nakłada na pełnomocnika komitetu wyborczego karę pieniężną w wysokości pięciokrotnej kwoty przekroczenia. 3. Do orzekania o nałożeniu kary pieniężnej i jej pobieraniu od pełnomocnika komitetu wyborczego stosuje się odpowiednio przepisy o ustalaniu i pobieraniu podatków od osób fizycznych."
+    },
+    {
+      "provision_ref": "art135",
+      "section": "135",
+      "title": "Art. 135",
+      "content": "1. Państwowa Komisja Wyborcza lub okręgowa komisja wyborcza może wystąpić, z własnej inicjatywy lub na wniosek zainteresowanego komitetu wyborczego, do właściwej izby skarbowej z wnioskiem o przeprowadzenie kontroli wydatków związanych z prowadzoną przez komitety wyborcze kampanią wyborczą. 2. Kontrolę, o której mowa w ust. 1, przeprowadza się po otrzymaniu przez właściwą komisję wyborczą sprawozdania finansowego przedłożonego przez komitet wyborczy lub w razie niezłożenia takiego sprawozdania w ustawowo określonym terminie. 3. Do kontroli wydatków komitetów wyborczych stosuje się odpowiednio przepisy o wykonywaniu kontroli podatkowej. 4. Pełnomocnicy komitetów wyborczych obowiązani są przechowywać dokumenty związane z finansowaniem kampanii wyborczej przez okres sześciu miesięcy od dnia wyborów. Rozdział 16 Przepisy szczególne, przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art136",
+      "section": "136",
+      "title": "Art. 136",
+      "content": "1. Kto umieszcza plakaty i hasła wyborcze z naruszeniem przepisów art. 119 lub narusza przepisy art. 121, podlega karze grzywny. 2. Do postępowania w sprawach, o których mowa w ust. 1, stosuje się przepisy o postępowaniu w sprawach o wykroczenia."
+    },
+    {
+      "provision_ref": "art137",
+      "section": "137",
+      "title": "Art. 137",
+      "content": "1. Koszty związane z organizacją przygotowań i przeprowadzeniem wyborów pokrywane są z budżetu państwa. 2. W budżecie państwa w związku z wyborami zapewnia się środki finansowe związane z: 1) wykonywaniem zadań Państwowej Komisji Wyborczej przewidzianych w niniejszej ustawie oraz zapewnieniem jej obsługi przez Krajowe Biuro Wyborcze, 2) realizacją przez naczelne i centralne organy administracji państwowej i inne organy zadań wyborczych, 3) wykonywaniem zadań okręgowych komisji wyborczych oraz zapewnieniem ich obsługi przez wojewódzkie biura wyborcze, 4) działalnością obwodowych komisji wyborczych oraz wykonaniem zadań wyborczych przez wójtów lub burmistrzów (prezydentów miast) jako zadań zleconych, 5) zapewnieniem komitetom wyborczym bezpłatnej emisji i przygotowania audycji wyborczych przez Polskie Radio i Telewizję Polską zgodnie z przepisami art. 122-124. 3. Corocznie w budżecie państwa zapewnia się środki finansowe na działalność Państwowej Komisji Wyborczej, Krajowego Biura Wyborczego oraz wojewódzkich biur wyborczych, a także na prowadzenie i aktualizowanie przez wójtów lub burmistrzów (prezydentów miast) stałych rejestrów wyborców, a w okresie kampanii wyborczej na działalność Polskiego Radia i Telewizji Polskiej. 4. Sprawozdanie z wydatków pokrywanych z budżetu państwa, związanych z przeprowadzaniem wyborów, Państwowa Komisja Wyborcza podaje do publicznej wiadomości w ciągu 4 miesięcy od dnia wyborów."
+    },
+    {
+      "provision_ref": "art138",
+      "section": "138",
+      "title": "Art. 138",
+      "content": "Do osób zatrudnionych w Krajowym Biurze Wyborczym oraz w wojewódzkich biurach wyborczych stosuje się odpowiednio przepisy o nawiązaniu, zmianie i rozwiązaniu stosunku pracy, wynagradzaniu i innych świadczeniach przysługujących na podstawie stosunku pracy, a także prawach i obowiązkach osób powoływanych na stanowiska kierownicze w administracji państwowej w trybie przepisów szczególnych oraz ustawy o pracownikach urzędów państwowych."
+    },
+    {
+      "provision_ref": "art139",
+      "section": "139",
+      "title": "Art. 139",
+      "content": "Wszelkie pisma oraz postępowanie sądowe i administracyjne w sprawach wyborczych są wolne od opłat."
+    },
+    {
+      "provision_ref": "art140",
+      "section": "140",
+      "title": "Art. 140",
+      "content": "1. Dla pierwszych wyborów zarządzonych na podstawie niniejszej ustawy przepisów art. 37 nie stosuje się. 2. W pierwszych wyborach do Sejmu zarządzonych na podstawie niniejszej ustawy dopuszcza się udział w głosowaniu za granicą obywateli polskich stale tam zamieszkujących, legitymujących się innym niż ważny polski paszport, dokumentem stwierdzającym obywatelstwo polskie."
+    },
+    {
+      "provision_ref": "art141",
+      "section": "141",
+      "title": "Art. 141",
+      "content": "1. Państwowa Komisja Wyborcza powołana na podstawie ustawy z dnia 7 kwietnia 1989 r. - Ordynacja wyborcza do Sejmu Polskiej Rzeczypospolitej Ludowej X kadencji, na lata 1989-1993 ( Dz. U. Nr 19, poz. 102 i Nr 36, poz. 198 ) ulega rozwiązaniu. 2. W pierwszych wyborach do Sejmu przeprowadzonych na podstawie przepisów niniejszej ustawy Prezydent w ciągu 7 dni od dnia ogłoszenia ustawy powołuje w skład Państwowej Komisji Wyborczej osoby, o których mowa w art. 53, i zwołuje jej pierwsze posiedzenie."
+    },
+    {
+      "provision_ref": "art142",
+      "section": "142",
+      "title": "Art. 142",
+      "content": "1. Wojewódzkie biura wyborcze utworzone na podstawie niniejszej ustawy wykonują również zadania wynikające z ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ( Dz. U. Nr 16, poz. 96 ) związane z przeprowadzeniem wyborów do rad gmin. 2. Zasady wykonywania zadań, o których mowa w ust. 1, określa Generalny Komisarz Wyborczy w porozumieniu z Kierownikiem Krajowego Biura Wyborczego."
+    },
+    {
+      "provision_ref": "art143",
+      "section": "143",
+      "title": "Art. 143",
+      "content": "Ustalane wyniki głosowania i wyniki wyborów przy zastosowaniu elektronicznych technik obliczeniowych nie mają charakteru urzędowego do czasu potwierdzenia ich przez właściwe komisje wyborcze w formie protokołów sporządzonych zgodnie z przepisami ustawy."
+    },
+    {
+      "provision_ref": "art144",
+      "section": "144",
+      "title": "Art. 144",
+      "content": "Ilekroć w przepisach niniejszej ustawy jest mowa o upływie terminu dla wniesienia skargi lub odwołania do sądu albo komisji wyborczej, należy przez to rozumieć dzień złożenia skargi lub odwołania w sądzie lub w komisji."
+    },
+    {
+      "provision_ref": "art145",
+      "section": "145",
+      "title": "Art. 145",
+      "content": "1. W ustawie z dnia 10 maja 1991 r. - Ordynacja wyborcza do Senatu Rzeczypospolitej Polskiej wprowadza się następujące zmiany: 1) w art. 12: a) w ust. 1 powołanie „art. 69 i art. 71” skreśla się, b) w ust. 2 wyrazy „o którym mowa w art. 70 Ordynacji wyborczej do Sejmu” skreśla się, 2) w art. 18 w ust. 2 powołanie „art. 118-125” zastępuje się powołaniem „art. 105-112” , 3) w art. 21 w ust. 1 powołanie „art. 129-149” zastępuje się powołaniem „art. 115-135” . 2. Prezydent Rzeczypospolitej Polskiej zarządzi ogłoszenie Ordynacji wyborczej do Senatu Rzeczypospolitej Polskiej w brzmieniu uwzględniającym zmiany określone w ust. 1."
+    },
+    {
+      "provision_ref": "art146",
+      "section": "146",
+      "title": "Art. 146",
+      "content": "Traci moc ustawa z dnia 7 kwietnia 1989 r. - Ordynacja wyborcza do Sejmu Polskiej Rzeczypospolitej Ludowej X kadencji, na lata 1989-1993 ( Dz. U. Nr 19, poz. 102 i Nr 36, poz. 198 ) ."
+    },
+    {
+      "provision_ref": "art147",
+      "section": "147",
+      "title": "Art. 147",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik - Wykaz okręgów wyborczych Okręg wyborczy nr 1 - miasto stołeczne Warszawa Liczba posłów wybieranych w okręgu wyborczym wynosi 17. Siedziba Okręgowej Komisji Wyborczej: WARSZAWA. Okręg wyborczy nr 2 - województwo warszawskie (z wyłączeniem m.st. Warszawy) Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: LEGIONOWO. Okręg wyborczy nr 3 - województwo płockie i województwo skierniewickie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: PŁOCK. Okręg wyborczy nr 4 - województwo łódzkie Liczba posłów wybieranych w okręgu wyborczym wynosi 12. Siedziba Okręgowej Komisji Wyborczej: ŁÓDŹ. Okręg wyborczy nr 5 - województwo piotrkowskie Liczba posłów wybieranych w okręgu wyborczym wynosi 7. Siedziba Okręgowej Komisji Wyborczej: PIOTRKÓW TRYBUNALSKI. Okręg wyborczy nr 6 - województwo konińskie i województwo sieradzkie Liczba posłów wybieranych w okręgu wyborczym wynosi 9. Siedziba Okręgowej Komisji Wyborczej: KONIN. Okręg wyborczy nr 7 - województwo radomskie Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: RADOM. Okręg wyborczy nr 8 - województwo kieleckie Liczba posłów wybieranych w okręgu wyborczym wynosi 11. Siedziba Okręgowej Komisji Wyborczej: KIELCE. Okręg wyborczy nr 9 - województwo częstochowskie Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: CZĘSTOCHOWA Okręg wyborczy nr 10 - województwo opolskie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: OPOLE. Okręg wyborczy nr 11 - województwo wrocławskie Liczba posłów wybieranych w okręgu wyborczym wynosi 12. Siedziba Okręgowej Komisji Wyborczej: WROCŁAW. Okręg wyborczy nr 12 - województwo wałbrzyskie Liczba posłów wybieranych w okręgu wyborczym wynosi 8. Siedziba Okręgowej Komisji Wyborczej: WAŁBRZYCH. Okręg wyborczy nr 13 - województwo jeleniogórskie i województwo legnickie Liczba posłów wybieranych w okręgu wyborczym wynosi 11. Siedziba Okręgowej Komisji Wyborczej: JELENIA GÓRA. Okręg wyborczy nr 14 - województwo zielonogórskie i województwo leszczyńskie Liczba posłów wybieranych w okręgu wyborczym wynosi 11. Siedziba Okręgowej Komisji Wyborczej: ZIELONA GÓRA. Okręg wyborczy nr 15 - województwo kaliskie Liczba posłów wybieranych w okręgu wyborczym wynosi 7. Siedziba Okręgowej Komisji Wyborczej: KALISZ. Okręg wyborczy nr 16 - województwo toruńskie i województwo włocławskie Liczba posłów wybieranych w okręgu wyborczym wynosi 11. Siedziba Okręgowej Komisji Wyborczej: TORUŃ. Okręg wyborczy nr 17 - województwo bydgoskie Liczba posłów wybieranych w okręgu wyborczym wynosi 11. Siedziba Okręgowej Komisji Wyborczej: BYDGOSZCZ. Okręg wyborczy nr 18 - województwo poznańskie Liczba posłów wybieranych w okręgu wyborczym wynosi 14. Siedziba Okręgowej Komisji Wyborczej: POZNAŃ. Okręg wyborczy nr 19 - województwo gorzowskie i województwo pilskie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: GORZÓW. Okręg wyborczy nr 20 - województwo szczecińskie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: SZCZECIN. Okręg wyborczy nr 21 - województwo koszalińskie i województwo słupskie Liczba posłów wybieranych w okręgu wyborczym wynosi 9. Siedziba Okręgowej Komisji Wyborczej: KOSZALIN. Okręg wyborczy nr 22 - województwo gdańskie Liczba posłów wybieranych w okręgu wyborczym wynosi 15. Siedziba Okręgowej Komisji Wyborczej: GDAŃSK. Okręg wyborczy nr 23 - województwo olsztyńskie i województwo elbląskie Liczba posłów wybieranych w okręgu wyborczym wynosi 13. Siedziba Okręgowej Komisji Wyborczej: OLSZTYN. Okręg wyborczy nr 24 - województwo ciechanowskie, województwo ostrołęckie i województwo łomżyńskie Liczba posłów wybieranych w okręgu wyborczym wynosi 12. Siedziba Okręgowej Komisji Wyborczej: OSTROŁĘKA. Okręg wyborczy nr 25 - województwo białostockie i województwo suwalskie Liczba posłów wybieranych w okręgu wyborczym wynosi 12. Siedziba Okręgowej Komisji Wyborczej: BIAŁYSTOK. Okręg wyborczy nr 26 - województwo siedleckie i województwo bialskopodlaskie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: SIEDLCE. Okręg wyborczy nr 27 - województwo zamojskie i województwo chełmskie Liczba posłów wybieranych w okręgu wyborczym wynosi 7. Siedziba Okręgowej Komisji Wyborczej: ZAMOŚĆ. Okręg wyborczy nr 28 - województwo lubelskie Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: LUBLIN. Okręg wyborczy nr 29 - województwo rzeszowskie i województwo tarnobrzeskie Liczba posłów wybieranych w okręgu wyborczym wynosi 13. Siedziba Okręgowej Komisji Wyborczej: RZESZÓW. Okręg wyborczy nr 30 - województwo krośnieńskie i województwo przemyskie Liczba posłów wybieranych w okręgu wyborczym wynosi 9. Siedziba Okręgowej Komisji Wyborczej: PRZEMYŚL. Okręg wyborczy nr 31 - województwo tarnowskie Liczba posłów wybieranych w okręgu wyborczym wynosi 7. Siedziba Okręgowej Komisji Wyborczej: TARNÓW. Okręg wyborczy nr 32 - województwo nowosądeckie Liczba posłów wybieranych w okręgu wyborczym wynosi 7. Siedziba Okręgowej Komisji Wyborczej: NOWY SĄCZ. Okręg wyborczy nr 33 - województwo krakowskie Liczba posłów wybieranych w okręgu wyborczym wynosi 13. Siedziba Okręgowej Komisji Wyborczej: KRAKÓW. Okręg wyborczy nr 34 - województwo bielskie Liczba posłów wybieranych w okręgu wyborczym wynosi 9. Siedziba Okręgowej Komisji Wyborczej: BIELSKO-BIAŁA. Okręg wyborczy nr 35 - część województwa katowickiego obejmująca obszar gmin: Babice, Bobrowniki, Bolesław, Chrzanów, Klucze, Libiąż, Łazy, Mierzęcice, Ogrodzieniec, Olkusz, Pilica, Psary, Siewierz, Tąpkowice, Trzebinia, Wolbrom, Żarnowiec oraz miast: Będzin, Bukowno, Chrzanów, Czeladź, Dąbrowa Górnicza, Jaworzno, Libiąż, Łazy, Ogrodzieniec, Olkusz, Poręba, Siewierz, Sławków, Sosnowiec, Trzebinia, Wolbrom, Zawiercie. Liczba posłów wybieranych w okręgu wyborczym wynosi 10. Siedziba Okręgowej Komisji Wyborczej: SOSNOWIEC. Okręg wyborczy nr 36 - część województwa katowickiego obejmująca obszar gmin: Bojszowy, Kobiór, Wyry oraz miast: Bieruń, Bytom, Chorzów, Katowice, Lędziny, Łaziska Górne, Mikołów, Mysłowice, Piekary Śląskie, Ruda Śląska, Siemianowice Śląskie, Świętochłowice, Tychy, Zabrze. Liczba posłów wybieranych w okręgu wyborczym wynosi 17. Siedziba Okręgowej Komisji Wyborczej: KATOWICE. Okręg wyborczy nr 37 - część województwa katowickiego obejmująca obszar gmin: Bestwina, Brzeszcze, Czechowice-Dziedzice, Gaszowice, Gierałtowice, Godów, Górzyce, Krupski Młyn, Krzanowice, Krzyżanowice, Kuźnia Raciborska, Leszczyny, Lubomia, Łyski, Miedźna, Mszana, Nędza, Ornontowice, Pawłowice, Pietrowice Wielkie, Pilchowice, Pszczyna, Rudnik, Rudziniec, Sośnicowice, Suszec, Świerklaniec, Świerklany, Toszek, Tworóg, Wielowieś, Zbrosławice, Zebrzydowice oraz miast: Brzeszcze, Czechowice-Dziedzice, Gliwice, Jastrzębie-Zdrój, Kuźnia Raciborska, Leszczyny, Orzesze, Pszczyna, Pyskowice, Racibórz, Rybnik, Tarnowskie Góry, Toszek, Knurów, Wodzisław Śląski, Żory. Liczba posłów wybieranych w okręgu wyborczym wynosi 13. Siedziba Okręgowej Komisji Wyborczej: GLIWICE. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Zasady ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Prawa wyborcze obywateli\",\"children\": [{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_7-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Spis wyborców\",\"children\": [{\"id\": \"chpt_3-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_3-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_3-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_3-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"i"
+    }
+  ],
+  "definitions": []
+}

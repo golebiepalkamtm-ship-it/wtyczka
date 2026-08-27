@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1933-234",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1933 r. o nadzorze nad zbiornikami pod ciśnieniem.",
+  "title_en": "",
+  "short_name": "pl-du-1933-234",
+  "status": "repealed",
+  "issued_date": "1933-03-24",
+  "in_force_date": "1933-04-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/234",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Zbiorniki, które zawierają gazy wybuchowe o ciśnieniu, przewyższającem atmosferyczne, względnie płyny lub takie materjały, które mogą wytworzyć z jakichkolwiek przyczyn gazy wybuchowe o ciśnieniu wyższem niż atmosferyczne, oraz zbiorniki, zawierające parę wodną, płyny, powietrze lub gazy niewybuchowe o ciśnieniu, przewyższającem trzy atmosfery robocze, podlegają przepisom ustawy niniejszej. (2) Kotły parowe nie podlegają przepisom ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Przepisy o budowie i stanie technicznym zbiorników, wymienionych w art. 1 ust. 1, wydaje Minister Przemysłu i Handlu, zaś przepisy o ustawianiu, używaniu i obsłudze tychże zbiorników wydają: Minister Przemysłu i Handlu w porozumieniu z Ministrem Opieki Społecznej oraz Ministrem Spraw Wewnętrznych po zasięgnięciu opinji izb przemysłowo-handlowych. (2) Przepisy o budowie i używaniu zbiorników, stosowanych przez koleje żelazne, oraz o przewozie kolejami wszelkich zbiorników, wymienionych w art. 1 ust. 1, wydaje Minister Komunikacji"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Nadzór nad wykonywaniem przepisów, wydanych na podstawie art. 2 ust. 1, należy do Ministra Przemysłu i Handlu. Minister Przemysłu i Handlu może zlecić wykonywanie bezpośredniego dozoru nad budową i stanem technicznym tychże zbiorników prywatnym organizacjom, które pozostają pod jego nadzorem i które sprawują swe czynności na podstawie zatwierdzonego przez niego statutu. (2) Organizacje, określone w ustępie poprzednim artykułu niniejszego, sprawują bezpośredni dozór nad zbiornikami, wymienionemi w art. 1 ust. 1, zarówno rządowemi jak i prywatnemi, stosownie do przepisów, wydanych na podstawie art. 2 ust. 1. (3) Nadzór nad zbiornikami, wymienionemi w art. 2 ust. 2, należy do Ministra Komunikacji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Postanowienia ustawy niniejszej nie Ograniczają w niczem uprawnień inspekcji pracy w zakresie nad wykonywaniem przepisów bezpieczeństwa i higjeny pracy oraz uprawnień władz górniczych w zakresie nadzoru nad wykonywaniem przepisów bezpieczeństwa w zakładach, podległych ustawom górniczym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Za wykonywanie bezpośredniego dozoru nad zbiornikami, wymienionemi w art. 1 i podlegającemi nadzorowi Ministra Przemysłu i Handlu, pobierane będą opłaty w wysokości i w sposób, określony przez rozporządzenie Ministra Przemysłu i Handlu, wydane po zasięgnięciu opinji izb przemysłowo-handlowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Winny naruszenia przepisów rozporządzeń, wydanych na mocy ustawy niniejszej, ulegnie w trybie administracyjnym karze aresztu do 3 miesięcy lub grzywnie do 3.000 zł lub obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu oraz Ministrowi Spraw Wewnętrznych, Ministrowi Opieki Społecznej, Ministrowi Komunikacji, każdemu z nich we właściwym zakresie działania."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Ustawa niniejsza wchodzi w życie wtrzy miesiące po ogłoszeniu. (2) Na obszarze województwa śląskiego wchodzi w życie piętnastego dnia po ogłoszeniu oświadczania Prezesa Rady Ministrów o wyrażeniu aa nią zgody przez Sejm Śląski. Minister Opieki Społecznej; Hubicki Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_3-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

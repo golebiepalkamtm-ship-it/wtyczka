@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1989-388",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 listopada 1989 r. o rozwiązaniu Ochotniczej Rezerwy Milicji Obywatelskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1989-388",
+  "status": "in_force",
+  "issued_date": "1989-11-23",
+  "in_force_date": "1989-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/388",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozwiązuje się organizację pod nazwą „Ochotnicza Rezerwa Milicji Obywatelskiej”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Prawa i obowiązki majątkowe Ochotniczej Rezerwy Milicji Obywatelskiej przejmuje Skarb Państwa. 2. Rada Ministrów, w drodze rozporządzenia, określi sposób wykonania przepisu ust. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Tracą moc: 1) ustawa z dnia 13 czerwca 1967 r. o Ochotniczej Rezerwie Milicji Obywatelskiej ( Dz. U. z 1987 r. Nr 15, poz. 94 i Nr 34, poz. 191 ) , 2) art. 11 ustawy z dnia 14 lipca 1983 r. o urzędzie Ministra Spraw Wewnętrznych i zakresie działania podległych mu organów ( Dz. U. Nr 38, poz. 172 i z 1989 r. Nr 34, poz. 180 ) , w części dotyczącej Ochotniczej Rezerwy Milicji Obywatelskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1926-181",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1926 r. w przedmiocie wstrzymania eksmisji dzierżawców gruntów, zajętych pod budynki i położonych w obrębie miast, miasteczek, wsi i osad na obszarze okręgów sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1926-181",
+  "status": "in_force",
+  "issued_date": "1926-03-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/181",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Właściciele budynków mieszkalnych i stanowiących ich przynależność zabudowań gospodarczych, wybudowanych na wydzierżawionych gruntach na obszarze okręgów sądów apelacyjnych w Warszawie, Lublinie i Wilnie nie mogą być z gruntów, zajętych pod te budynki, eksmitowani, chociażby odnośne umowy dzierżawne wygasły lub budynki zniszczeniu uległy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Właściwy sąd I instancji wstrzyma do dnia 1 kwietnia 1928 r. na wniosek strony Interesowanej wykonanie wyroku, choćby wydanego przez sąd wyższy, jeżeli wyrok, dotyczący jednej z osób, wymienionych w art. 1, orzeka eksmisję z dzierżawionego gruntu lub obowiązek zniesienia zabudowań."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Opłata dzierżawna w wypadkach ukończenia umowy dzierżawnej, przewidzianej w art. 1, o ile nie jest już zapłacona, wynosi 1 zł. za każdego rubla, którego płacono z tegoż tytułu według kontraktu, lub w braku kontraktu - według miejscowych norm dzierżawnych z 1914 r. i będzie płatna do dnia 31 stycznia 1927 r. za czas do 1 kwietnia 1927 r. i do dnia 31 stycznia 1928 r. za rok następny do dnia 1 kwietnia 1928 r. Opłata dzierżawna może być uiszczona także za pośrednictwem poczty."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W razie niezapłacenia oznaczonego w art. 3 czynszu z winy dzierżawcy mają zastosowanie przepisy ogólnie obowiązujące."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1926 r. i obowiązuje do dnia 1 kwietnia 1928 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

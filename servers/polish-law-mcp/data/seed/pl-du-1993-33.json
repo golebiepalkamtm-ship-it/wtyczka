@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1993-33",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 października 1992 r. o zmianie Konstytucji Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1993-33",
+  "status": "repealed",
+  "issued_date": "1992-10-15",
+  "in_force_date": "1993-01-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/33",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Konstytucji Rzeczypospolitej Polskiej ( Dz. U. z 1976 r. Nr 7, poz. 36 , z 1980 r. Nr 22, poz. 81 , z 1982 r. Nr 11, poz. 83 , z 1983 r. Nr 39, poz. 175 , z 1987 r. Nr 14, poz. 82 , z 1988 r. Nr 19, poz. 129 , z 1989 r. Nr 19, poz. 101 i Nr 75, poz. 444 , z 1990 r. Nr 16, poz. 94 , Nr 29, poz. 171 i Nr 67, poz. 397 , z 1991 r. Nr 41, poz. 176 i Nr 119, poz. 514 oraz z 1992 r. Nr 75, poz. 367 ) wprowadza się następujące zmiany: 1) tytuł rozdziału 4 otrzymuje brzmienie: Rozdział 4 Trybunał Konstytucyjny, Trybunał Stanu, Najwyższa Izba Kontroli, Rzecznik Praw Obywatelskich, Krajowa Rada Radiofonii i Telewizji 2) po art. 36a dodaje art. 36b w brzmieniu: „ Art. 36b. 1. Krajowa Rada Radiofonii i Telewizji stoi na straży wolności słowa, realizacji prawa obywateli do informacji oraz interesu społecznego w radiofonii i telewizji. 2. Członków Krajowej Rady Radiofonii i Telewizji powołują Sejm, Senat i Prezydent. 3. Na podstawie ustaw i w celu ich wykonania Krajowa Rada Radiofonii i Telewizji wydaje rozporządzenia i uchwały. 4. Zasady powoływania członków Krajowej Rady Radiofonii i Telewizji oraz jej organizacji i sposób działania określa ustawa. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

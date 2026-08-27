@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-1701",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy o zmianie ustawy o orderach i odznaczeniach",
+  "title_en": "",
+  "short_name": "pl-du-2010-1701",
+  "status": "in_force",
+  "issued_date": "2010-12-03",
+  "in_force_date": "2010-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1701",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 czerwca 2007 r. o zmianie ustawy o orderach i odznaczeniach ( Dz. U. Nr 123, poz. 848 ) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Nadania orderów i odznaczeń za czyny wskazane w ust. 1 uznaje się za zakończone z dniem 31 grudnia 2012 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2011 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1991-271",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 czerwca 1991 r. o zmianie ustawy o cmentarzach i chowaniu zmarłych.",
+  "title_en": "",
+  "short_name": "pl-du-1991-271",
+  "status": "amended",
+  "issued_date": "1991-06-14",
+  "in_force_date": "1991-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/271",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych ( Dz. U. z 1972 r. Nr 47, poz. 298 , z 1989 r. Nr 29, poz. 154 i z 1990 r. Nr 34, poz. 198 ) wprowadza się następujące zmiany: 1) w art. 5 w ust. 3 po wyrazach „w porozumieniu z” dodaje się wyrazy „Ministrem Ochrony Środowiska, Zasobów Naturalnych i Leśnictwa oraz” ; 2) w art. 6: a) w ust. 1 na końcu drugiego zdania dodaje się wyrazy „z zastrzeżeniem ust. 2.” , b) dodaje się nowe ust. 2 i 3 w brzmieniu: „ 2. Jeżeli teren cmentarny stanowi lub stanowił uprzednio własność Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, wydanie decyzji o użyciu terenu cmentarnego na inny cel wymaga zgody właściwej władzy tego kościoła lub związku wyznaniowego. 3. Decyzję o użyciu terenu cmentarnego, będącego uprzednio cmentarzem wyznaniowym Kościoła Katolickiego lub innego kościoła albo związku wyznaniowego, na inny cel wydaje się po zasięgnięciu opinii właściwej władzy tego kościoła lub związku wyznaniowego co do sposobu oznaczenia i upamiętnienia terenu pocmentarnego. ” , c) dotychczasowy ust. 2 oznacza się jako ust. 4, d) dodaje się ust. 5 w brzmieniu: „ 5. W przypadkach uzasadnionych szczególnymi celami publicznymi właściwy ze względu na miejsce terenu cmentarnego organ może wystąpić do Ministra Gospodarki Przestrzennej i Budownictwa o zwolnienie z wymogu uzyskania zgody, o której mowa w ust. 2. ” , e) dotychczasowy ust. 3 oznacza się jako ust. 6 i dodaje się w nim na końcu wyrazy „z zastrzeżeniem ust. 2.” , f) dotychczasowy ust. 4 oznacza się jako ust. 7; 3) użyte w ustawie w różnych przypadkach wyrazy „Minister Gospodarki Terenowej i Ochrony Środowiska” zastępuje się odpowiednio w tych samych przypadkach wyrazami „Minister Gospodarki Przestrzennej i Budownictwa” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Gospodarki Przestrzennej i Budownictwa ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych , z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pint_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

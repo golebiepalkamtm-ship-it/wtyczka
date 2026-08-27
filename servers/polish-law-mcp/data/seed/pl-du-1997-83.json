@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-83",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 stycznia 1997 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.",
+  "title_en": "",
+  "short_name": "pl-du-1997-83",
+  "status": "amended",
+  "issued_date": "1997-01-24",
+  "in_force_date": "1997-02-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/83",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ( Dz. U. Nr 17, poz. 75 i Nr 104, poz. 450 , z 1992 r. Nr 21, poz. 85 , z 1993 r. Nr 29, poz. 133 , Nr 129, poz. 602 i Nr 134, poz. 645 , z 1994 r. Nr 99, poz. 482 oraz z 1995 r. Nr 4, poz. 17 i Nr 138, poz. 681 ) wprowadza się następujące zmiany: 1) po art. 20 dodaje się art. 20 1 w brzmieniu: „ Art. 201. 1. Kombatantom i innym osobom uprawnionym, które łącznie spełniają następujące warunki: 1) nie posiadają prawa do żadnych świadczeń rentowych lub emerytalnych, 2) nie osiągają dochodów z tytułu pracy, pozarolniczej działalności gospodarczej podlegającej ubezpieczeniu społecznemu lub z tytułu rolniczej działalności gospodarczej podlegającej obowiązkowemu ubezpieczeniu rolników, 3) osiągnęły wiek 55 lat kobiety i 60 lat mężczyźni, przysługuje świadczenie w wysokości dodatku kombatanckiego, o którym mowa w art. 15 ust. 1. 2. Osobom o których mowa w ust. 1, przysługują także uprawnienia określone w art. 20 ust. 2. 3. Rada Ministrów określi, w drodze rozporządzenia, tryb postępowania przy przyznawaniu, wypłacaniu oraz finansowaniu świadczeń, o których mowa w ust. 1 i 2. ” ; 2) w art. 24 wyrazy „12, 15 i 16” zastępuje się wyrazami „12, 15, 16 i 20 1 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1997 r., z tym że art. 20 1 ust. 3 ustawy, o której mowa w art. 1, wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

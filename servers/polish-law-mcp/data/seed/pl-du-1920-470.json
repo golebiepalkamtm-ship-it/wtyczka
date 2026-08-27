@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1920-470",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. o upoważnieniu Ministra Przemysłu i Handlu do wydawania zarządzeń w zakresie nadzoru nad przemysłem złotniczym i handlem wyrobami złotniczemi oraz organizacji urzędów probierczych na obszarach b. zaborów austrjackiego i rosyjskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-470",
+  "status": "repealed",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/470",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Przemysłu i Handlu: 1. do wydania zarządzeń w celu niezwłocznego przywrócenia na obszarze b. zaboru rosyjskiego obowiązku sprawdzania w urzędzie państwowym jakości wyrobów z kruszczów szlachetnych, dozwolonych do sprzedaży, przywrócenia nadzoru nad przemysłem i handlem złotniczym oraz zorganizowania urzędów probierczych tymczasowo w myśl przepisów rosyjskich z przed 1 sierpnia 1915 r.; 2. do przejęcia funkcji urzędów w zakresie, wymienionym w ust. 1, na obszarach b. zaboru austrjackiego tymczesowo w myśl ustaw i przepisów austrjackich z przed 1 listopada 1918 r.; 3. do wprowadzenia w drodze rozporządzenia zmian do ustaw i przepisów, wymienionych w ust. 1 i 2, jakie Minister Przemysłu i Handlu ze stanowiska obecnego ustroju władz państwowych, rozwoju techniki lub zmiany warunków ekonomicznych uzna za konieczne; 4. do wydawania rozporządzeń w celu wykonania obowiązujących ustaw i przepisów w przedmiocie, wskazanym w ust. 1,"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W zakresie ustalenia i porządku wymierzania opłat, należnych Skarbowi za prawo wykonywania przemysłu złotniczego i handlu wyrobami złotniczemi, oraz za czynności urzędów probierczych, jak również w zakresie przejęcia przez Ministerstwo Przemysłu i Handlu urzędów probierczych na obszarze b. zaboru austrjackiego, zarządzenia, przewidziane w art. 1, Minister Przemysłu i Handlu wydaje w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Za wykroczenia zarówno przeciwko postanowieniom ustaw probierczych, wskazanych w art. 1 i 2, jak i przeciw zarządzeniom, wydawanym na podstawie ustawy niniejszej, winni ponoszą odpowiedzialność karną, ustawami przewidzianą, w braku zaś odpowiednich postanowień karnych podlegają karze grzywny od 1.000 do 10.000 marek. Przy powtórnem wykroczeniu sąd ma prawo wydać, w razie zaś trzykrotnego wykroczenia w każdym razie wydaje orzeczeczenie o zamknięciu właściwego przedsięsiębiorstwa. Sumy grzywien, wymierzanych zarówno w drodze sądowej, jak administracyjnej podług ustaw probierczych rosyjskiej i austrjackiej (art. 1 ust. 1 i 2), rozumie się w walucie złotej według przerachowania na marki polskie, ustanawianego perjodycznie przez Ministra Skarbu w porozumieniu z Ministrem Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

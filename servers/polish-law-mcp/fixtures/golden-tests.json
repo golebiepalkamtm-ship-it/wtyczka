@@ -1,0 +1,183 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Polish Law MCP",
+  "description": "Golden contract tests for the Polish Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "pl-001",
+      "category": "article_retrieval",
+      "description": "Retrieve DPA 2018 Art. 1 (Ustawa o ochronie danych osobowych) -- scope and purpose of GDPR implementing provisions",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Ustawa o ochronie danych osobowych z 2018 (Dz.U. 2018 poz. 1000)",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["ochrona danych osobowych", "danych osobowych", "UODO", "Prezes"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-002",
+      "category": "article_retrieval",
+      "description": "Retrieve KSC Art. 1 (Ustawa o krajowym systemie cyberbezpieczenstwa) -- scope of the National Cybersecurity System Act",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Ustawa o krajowym systemie cyberbezpieczenstwa (Dz.U. 2018 poz. 1560)",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cyberbezpieczenstwo", "krajowy system", "bezpieczenstwo", "systemy informacyjne"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Kodeks karny Art. 267 -- unauthorized access to information and computer systems",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kodeks karny",
+        "article": "267"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["informacji", "system informatyczny", "uzyskuje dostep", "dane informatyczne"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-004",
+      "category": "article_retrieval",
+      "description": "Retrieve KSH Art. 1 (Kodeks spolek handlowych) -- scope of the Commercial Companies Code",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kodeks spolek handlowych",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["spolki handlowe", "spolka", "tworzenie", "organizacje"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-005",
+      "category": "search",
+      "description": "Full-text search for 'dane osobowe' (personal data) returns DPA and RODO-related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "dane osobowe"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["dane osobowe", "ochrona danych", "RODO", "UODO"]
+      }
+    },
+    {
+      "id": "pl-006",
+      "category": "search",
+      "description": "Full-text search for 'cyberbezpieczenstwo' (cybersecurity) returns KSC and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cyberbezpieczenstwo"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cyberbezpieczenstwo", "krajowy system", "bezpieczenstwo", "CSIRT"]
+      }
+    },
+    {
+      "id": "pl-007",
+      "category": "search",
+      "description": "Full-text search for 'spolka handlowa' (commercial company) returns KSH provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "spolka handlowa"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["spolka handlowa", "Kodeks spolek handlowych", "spolka z ograniczona odpowiedzialnoscia", "spolka akcyjna"]
+      }
+    },
+    {
+      "id": "pl-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for DPA 2018 Art. 2 includes isap.sejm.gov.pl URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Ustawa o ochronie danych osobowych z 2018 (Dz.U. 2018 poz. 1000)",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "isap\\.sejm\\.gov\\.pl",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for Kodeks karny Art. 268 includes isap.sejm.gov.pl URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Kodeks karny",
+        "article": "268"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "isap\\.sejm\\.gov\\.pl",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "pl-010",
+      "category": "eu_cross_reference",
+      "description": "DPA 2018 cross-reference to EU GDPR -- Polish DPA 2018 provides GDPR (RODO) implementing provisions",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Ustawa o ochronie danych osobowych z 2018 (Dz.U. 2018 poz. 1000)"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "RODO"]
+      }
+    },
+    {
+      "id": "pl-011",
+      "category": "negative_test",
+      "description": "Non-existent Polish law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Ustawa z dnia 31 grudnia 2099 r. o sprawach fikcyjnych (Dz.U. 2099 poz. 9999)",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "pl-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Ustawa o ochronie danych osobowych z 2018 (Dz.U. 2018 poz. 1000)",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

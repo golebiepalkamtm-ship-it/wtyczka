@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-451",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 października 1991 r. o zmianie ustawy o łączności.",
+  "title_en": "",
+  "short_name": "pl-du-1991-451",
+  "status": "repealed",
+  "issued_date": "1991-10-09",
+  "in_force_date": "1991-11-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/451",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 listopada 1990 r. o łączności ( Dz. U. Nr 86, poz. 504 i z 1991 r. Nr 69, poz. 293 ) wprowadza się następujące zmiany: 1) w art. 4: a) dodaje się nowy pkt 3 w brzmieniu: „ 3) jednostka organizacyjna podległa Ministrowi Spraw Zagranicznych - w zakresie potrzeb polskiej służby dyplomatyczno-konsularnej zaspokajanych za pomocą radiowej sieci telekomunikacyjnej, ” b) dotychczasowy pkt 3 oznacza się jako pkt 4; 2) art. 25 otrzymuje brzmienie: „ Art. 25. Minister Łączności w porozumieniu z Ministrami Obrony Narodowej i Spraw Wewnętrznych oraz Spraw Zagranicznych przydziela częstotliwości lub przedziały częstotliwości Siłom Zbrojnym oraz jednostkom organizacyjnym podległym Ministrowi Spraw Wewnętrznych oraz Ministrowi Spraw Zagranicznych. ” ; 3) w art. 28 ust. 4 otrzymuje brzmienie: „ 4. Przepisów ust. 1 i 2 nie stosuje się do jednostek organizacyjnych podległych Ministrom Obrony Narodowej i Spraw Wewnętrznych oraz Spraw Zagranicznych, które zadania określone w tych przepisach wykonują we własnym zakresie. ” ; 4) w art. 76 dodaje się ust. 3-5 w brzmieniu: „ 3. Do przekształcenia w spółkę, o której mowa w ust. 1, stosuje się odpowiednio przepisy art. 4 pkt 3, art. 8 ust. 2 i 3, art. 9 ust. 4, art. 11, art. 12 ust. 1 i art. 44 ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych ( Dz. U. Nr 51, poz. 298 i z 1991 r. Nr 60, poz. 253 ) ; przy powstawaniu spółki nie stosuje się art. 312 i art. 313 Kodeksu handlowego . 4. Do spółki, o której mowa w ust. 1, stosuje się przepis art. 16 ustawy wymienionej w ust. 3. 5. W spółce, o której mowa w ust. 1, Skarb Państwa zachowuje co najmniej 51 % sumy głosów służących całemu kapitałowi. ” ; 5) art. 77 otrzymuje brzmienie: „ Art. 77. 1. Minister Łączności jest organem założycielskim dla Poczty Polskiej oraz reprezentuje Skarb Państwa w Telekomunikacji Polskiej - Spółka Akcyjna. 2. O udostępnieniu akcji należących do Skarbu Państwa postanawia Minister Łączności w porozumieniu z Ministrem Przekształceń Własnościowych. Przed udostępnieniem akcji osobom trzecim Minister Łączności zarządza przeprowadzenie analizy ekonomiczno-finansowej i prawnej spółki, stosując odpowiednio art. 20 ustawy o prywatyzacji przedsiębiorstw państwowych. 3. Zmiana statutu spółki wymaga zgody Ministra Łączności w porozumieniu z Ministrem Przekształceń Własnościowych. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

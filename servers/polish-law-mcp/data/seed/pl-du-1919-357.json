@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1919-357",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 lipca 1919 r. normująca stosunki służbowe funkcjonarjuszów państwowych podczas pełnienia służby wojskowej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-357",
+  "status": "repealed",
+  "issued_date": "1919-07-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/357",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Funkcjonarjusze państwowi mają dopełnić obowiązku służby wojskowej według ogólnych przepisów ustawy wojskowej z zastosowaniem poniższych wyjątków i postanowień."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Funkcjonarjusz państwowy, powołany do czynnej służby wojskowej, zostaje przez swoją władzą służbową zwolniony od służby cywilnej na czas pełnienia służby wojskowej. Ministerstwo Spraw Wojskowych może na wniosek właściwej władzy centralnej zwolnić czasowo od czynnej służby wojskowej na skutek mobilizacji lub częściowego uzupełnienia do stanu wojennego tych, powołanych do niej funkcjonarjuszów państwowych, którzy są ze względów publicznych niezbędnie potrzebni w służbie cywilnej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ministrowie, kierownicy ministerstw i innych naczelnych urzędów centralnych oraz podsekretarze stanu są wolni od służby wojskowej, dopóki piastują swój urząd, zarówno w czasie pokpju jak i na wypadek mobilizacji lub częściowego uzupełnienia do stanu wojennego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Funkcjonarjusz etatowy, powołany do obowiązkowej czynnej służby wojskowej, pozostaje nadal na etacie osobowym danej władzy cywilnej i ma się zgłosić z powrotem do służby bezzwłocznie po zwolnieniu z wojska."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przez czas spełniania normalnej powszechnej powinności wojskowej, to jest obowiązkowej czynnej służby w wojsku stałem, na zasadzie art. 4-go lit. a, 6-go i 87-go Tymczasowej Ustawy o powszechnym obowiązku służby wojskowej z dnia 27-go października 1918 r. (Dziennik Praw № 13 poz. 28) funkcjonarjusz państwowy nie otrzymuje uposażenia od władzy cywilnej, ale czas tej służby zalicza mu się do wymiaru emerytury."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Podczas pełnienia czynnej służby wojskowej w zapasie (wyszkolenie wojskowe) do 10 tygodni, tudzież podczas perjodycznych ćwiczeń wojskowych, funkcjonarjusz państwowy zatrzymuje swoje uposażenie cywilne; okres ten liczy się tak, jakby funkcjonarjusz pełnił przez ten czas cywilną służbę państwową."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W razie powołania funkcjonarjusza etatowego do czynnej służby wojskowej na skutek mobilizacji lub częściowego uzupełnienia do stanu wojennego, zalicza mu się również czas służby w wojsku tak, jakby pełnił przez ten czas cywilną służbę państwową. Pobiera on obok gaży wojskowej (żołdu) różnicę między pełnem uposażeniem wojskowem a cywilnem, o ile uposażenie cywilne jest wyższe, a nadto, jeżeli prowadzi własne gospodarstwo rodzinne, otrzymuje, w miarę swych stosunków rodzinnych, dodatek w wysokości od 20 do 40% uposażenia cywilnego, o ile z tego samego tytułu nie przysługują mu specjalne dodatki z funduszów wojskowych. Wypłaty różnicy oraz ewentualnie dodatku ze względu na stosunki rodzinne dokonywa się z funduszów tej władzy centralnej, na której etacie dany funkcjonarjusz pozostaje. Stawkę wysokości dodatków dla członków rodziny i osób utrzymywanych przez powołanego do służby wojskowej funkcjonarjusza określi rozporządzenie wykonawcze."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wyjątkowo, o ile przemawiają za tem ważne względy służbowe, władza centralna może zezwolić na zastosowanie postanowień art. 7 także do poszczególnych funkcjonarjuszów nieetatowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Bez ustawowego obowiązku funkcjonarjusz państwowy może wstąpić dobrowolnie na pewien okres czasu do służby wojskowej, o ile jego cywilna władza służbowa udzieli mu w tym celu urlopu. Władza ta może uzależnić udzielenie takiego urlopu od zrzeczenia się uposażenia na czas służby wojskowej, a nadto orzec, że czas ten nie liczy się do czasokresów, wymaganych do osiągnięcia wyższego uposażenia służbowego."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa ta wchodzi w życie z dniem ogłoszenia; z chwilą wejścia jej w życie przestają obowiązywać wszystkie sprzeczne z nią ustawy i rozporządzenia."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie tej ustawy porucza się wszystkim Ministrom. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1929-232",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 1929 r. o upoważnieniu Ministra Skarbu do wypuszczenia wewnętrznej pożyczki państwowej do wysokości 100.000.000 zł. w złocie.",
+  "title_en": "",
+  "short_name": "pl-du-1929-232",
+  "status": "in_force",
+  "issued_date": "1929-03-23",
+  "in_force_date": "1929-04-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/232",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu zasilenia funduszów państwowych, przeznaczonych na wzmożenie budowy mieszkań, upoważnia się Ministra Skarbu do zaciągnięcia wewnętrznej pożyczki państwowej do wysokości 100.000.000 zł. w złocie drogą wypuszczenia obligacyj, opiewających na okaziciela. Pożyczka może być wypuszczona serjami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Warunki pożyczki łącznie z planem umorzenia, kurs emisyjny i inne warunki emisji oraz termin wypuszczenia pożyczki ustali Minister Skarbu. Minister Skarbu uprawniony jest ustanowić dla tej pożyczki premje, wygrywane w drodze losowania obligacyj. Oprocentowanie nominalne pożyczki łącznie z kwotą, przeznaczoną na premje, jeśli premje będą ustanowione, nie może przekraczać 7 od sta rocznie, obliczając ten stosunek jako przeciętny dla całego okresu trwania pożyczki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kapitał i odsetki pożyczki zabezpiecza się całym ruchomym i nieruchomym majątkiem Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kupony od obligacyj pożyczki wolne są od podatku od kapitałów i rent."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Obligacje pożyczki, nie przedstawione do zapłaty w ciągu lat 30 od dnia ich wylosowania, ulegają przedawnieniu. Kupony od obligacyj tej pożyczki ulegają przedawnieniu po upływie lat 5 od dnia ich płatności. Premje, jeśli będą ustanowione, ulegają przedawnieniu po upływie lat 10 od dnia ich wylosowania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Obligacje pożyczki mają wszelkie prawa papierów pupilarnych i mogą być używane dla lokaty kapitałów osób, pozostających pod opieką i kuratelą, jako też kapitałów fundacyjnych, kościelnych, korporacyj publicznych, kaucyj cywilnych i wojskowych oraz depozytów."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje pożyczki nie podlegają działaniu ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr 67, poz. 406) zgodnie z punktem 2 art. 13 tejże ustawy w brzmieniu, nadanem ustawą z dnia 18 października 1921 r. (Dz. U. R. P. Nr 87, poz. 637)."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu,"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,55 @@
+{
+  "name": "@matematicsolutions/mcp-isap",
+  "version": "1.3.0",
+  "description": "MCP server - Polish legislation (Dziennik Ustaw / Monitor Polski) via Sejm ELI API (96k+ acts since 1918)",
+  "mcpName": "io.github.matematicsolutions/mcp-isap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matematicsolutions/mcp-isap.git"
+  },
+  "main": "dist/index.js",
+  "bin": {
+    "mcp-isap": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "drift": "node test/drift.mjs",
+    "test:conformance": "node test/invalid-args.mjs",
+    "test:act-text": "node test/get-act-text.mjs",
+    "test": "npm run drift && npm run test:conformance && npm run test:act-text"
+  },
+  "keywords": [
+    "mcp",
+    "isap",
+    "sejm",
+    "eli",
+    "dziennik-ustaw",
+    "monitor-polski",
+    "legislacja",
+    "legal",
+    "poland"
+  ],
+  "author": "MateMatic / Wieslaw Mazur",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5",
+    "tsx": "^4.19.3",
+    "@types/node": "^20.14.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-324",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1931 r. o sprzedaży nieruchomości państwowej w Warszawie.",
+  "title_en": "",
+  "short_name": "pl-du-1931-324",
+  "status": "in_force",
+  "issued_date": "1931-03-18",
+  "in_force_date": "1931-04-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/324",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż Arcybiskup stwu Warszawskiemu obrządku łacińskiego pod budowę kościoła parafialnego nieruchomości państwowej, położonej w Warszawie, przy zbiegu ulic Chełmskiej i Projektowanej, nie oznaczonej Nr. hipotecznym, tworzącej parcelę gruntową o powierzchni 7243.50 m 2 o długości frontu: od ulicy Chełmskiej 120 m, od ulicy Projektowanej 60.02 m, od sąsiednich nieruchomości państwowych od strony południowej 121.45 m i od strony zachodniej 60.00 m, za cenę zł 10.000."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dokonanie sprzedaży i ustalenie bliższych jej warunków porucza się Ministrowi Robót Publicznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

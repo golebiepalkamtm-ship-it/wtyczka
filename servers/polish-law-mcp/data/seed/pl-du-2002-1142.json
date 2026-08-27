@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-1142",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 lipca 2002 r. o ratyfikacji Poprawki do Konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1142",
+  "status": "in_force",
+  "issued_date": "2002-07-05",
+  "in_force_date": "2002-08-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1142",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji, przyjętej, zgodnie z Decyzją III/1 Konferencji Stron Konwencji z dnia 22 września 1995 r., Poprawki do Konwencji bazylejskiej o kontroli transgranicznego przemieszczania i usuwania odpadów niebezpiecznych, sporządzonej w Bazylei dnia 22 marca 1989 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

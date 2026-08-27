@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-715",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 sierpnia 1997 r. o zmianie ustawy - Prawo łowieckie.",
+  "title_en": "",
+  "short_name": "pl-du-1997-715",
+  "status": "amended",
+  "issued_date": "1997-08-27",
+  "in_force_date": "1997-09-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/715",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 października 1995 r. - Prawo łowieckie ( Dz. U. Nr 147, poz. 713 oraz z 1997 r. Nr 14, poz. 72 , Nr 60, poz. 369 i Nr 88, poz. 554 ) w art. 50: a) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Skarb Państwa odpowiada również za szkody wyrządzone przez wilki wśród zwierząt gospodarskich, z wyłączeniem drobiu, na terenach, na których nie są one objęte całoroczną ochroną. ” , b) w ust. 2 wyrazy „w ust. 1” zastępuje się wyrazami „w ust. 1 i 1a” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

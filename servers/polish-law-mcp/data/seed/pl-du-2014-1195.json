@@ -1,0 +1,116 @@
+{
+  "id": "pl-du-2014-1195",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 lipca 2014 r. o petycjach",
+  "title_en": "",
+  "short_name": "pl-du-2014-1195",
+  "status": "in_force",
+  "issued_date": "2014-07-11",
+  "in_force_date": "2014-09-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/1195",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady składania i rozpatrywania petycji oraz sposób postępowania organów w sprawach dotyczących petycji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Petycja może być złożona przez osobę fizyczną, osobę prawną, jednostkę organizacyjną niebędącą osobą prawną lub grupę tych podmiotów, zwaną dalej „podmiotem wnoszącym petycję”, do organu władzy publicznej, a także do organizacji lub instytucji społecznej w związku z wykonywanymi przez nią zadaniami zleconymi z zakresu administracji publicznej. 2. Petycja może być złożona w interesie: 1) publicznym; 2) podmiotu wnoszącego petycję; 3) podmiotu trzeciego, za jego zgodą. 3. Przedmiotem petycji może być żądanie, w szczególności, zmiany przepisów prawa, podjęcia rozstrzygnięcia lub innego działania w sprawie dotyczącej podmiotu wnoszącego petycję, życia zbiorowego lub wartości wymagających szczególnej ochrony w imię dobra wspólnego, mieszczących się w zakresie zadań i kompetencji adresata petycji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "O tym, czy pismo jest petycją, decyduje treść żądania, a nie jego forma zewnętrzna."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Petycję składa się w formie pisemnej albo za pomocą środków komunikacji elektronicznej. 2. Petycja powinna zawierać: 1) oznaczenie podmiotu wnoszącego petycję; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać oznaczenie każdego z tych podmiotów oraz osobę reprezentującą podmiot wnoszący petycję; 2) wskazanie miejsca zamieszkania albo siedziby podmiotu wnoszącego petycję oraz adresu do korespondencji; jeżeli podmiotem wnoszącym petycję jest grupa podmiotów, w petycji należy wskazać miejsce zamieszkania lub siedzibę każdego z tych podmiotów; 3) oznaczenie adresata petycji; 4) wskazanie przedmiotu petycji. 3. Petycja może zawierać zgodę na ujawnienie na stronie internetowej podmiotu rozpatrującego petycję lub urzędu go obsługującego danych osobowych podmiotu wnoszącego petycję lub podmiotu, o którym mowa w art. 5 ust. 1. 4. Petycja składana w formie pisemnej powinna być podpisana przez podmiot wnoszący petycję, a jeżeli podmiotem wnoszącym petycję nie jest osoba fizyczna lub gdy petycję wnosi grupa podmiotów - przez osobę reprezentującą podmiot wnoszący petycję. 5. Petycja składana za pomocą środków komunikacji elektronicznej może być opatrzona bezpiecznym podpisem elektronicznym weryfikowanym przy pomocy ważnego kwalifikowanego certyfikatu oraz powinna zawierać także adres poczty elektronicznej podmiotu wnoszącego petycję."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Petycja składana w interesie podmiotu trzeciego zawiera także imię i nazwisko albo nazwę, miejsce zamieszkania albo siedzibę oraz adres do korespondencji lub adres poczty elektronicznej tego podmiotu. 2. Podmiot, o którym mowa w ust. 1, wyraża zgodę na złożenie w jego interesie petycji w formie pisemnej albo za pomocą środków komunikacji elektronicznej. Zgoda jest dołączana do petycji. 3. W razie powstania wątpliwości co do istnienia lub zakresu zgody, o której mowa w ust. 2, adresat petycji może, w terminie 30 dni od dnia złożenia petycji, zwrócić się do podmiotu, w interesie którego petycja jest składana, o potwierdzenie zgody w terminie 14 dni z pouczeniem, że w przypadku braku takiego potwierdzenia petycja nie będzie rozpatrzona. Potwierdzenie zgody następuje w formie, o której mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Adresat petycji, który jest niewłaściwy do jej rozpatrzenia, przesyła ją niezwłocznie, nie później jednak niż w terminie 30 dni od dnia jej złożenia, do podmiotu właściwego do rozpatrzenia petycji, zawiadamiając o tym równocześnie podmiot wnoszący petycję. 2. Jeżeli petycja dotyczy kilku spraw podlegających rozpatrzeniu przez różne podmioty, adresat petycji rozpatruje ją w zakresie należącym do jego właściwości oraz przekazuje ją niezwłocznie, nie później jednak niż w terminie, o którym mowa w ust. 1, do pozostałych właściwych podmiotów, zawiadamiając o tym równocześnie podmiot wnoszący petycję."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Jeżeli petycja nie spełnia wymogów, o których mowa w art. 4 ust. 2 pkt 1 lub 2 pozostawia się ją bez rozpatrzenia. 2. Jeżeli petycja, nie spełnia wymogów określonych w art. 4 ust. 1, ust. 2 pkt 3 lub 4 lub art. 5 ust. 1 lub 2, podmiot właściwy do rozpatrzenia petycji wzywa, w terminie 30 dni od dnia złożenia petycji, podmiot wnoszący petycję do uzupełnienia lub wyjaśnienia treści petycji w terminie 14 dni z pouczeniem, że petycja, której treść nie zostanie uzupełniona lub wyjaśniona, nie będzie rozpatrzona."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Na stronie internetowej podmiotu rozpatrującego petycję lub urzędu go obsługującego niezwłocznie zamieszcza się informację zawierającą odwzorowanie cyfrowe (skan) petycji, datę jej złożenia oraz - w przypadku wyrażenia zgody, o której mowa w art. 4 ust. 3 - imię i nazwisko albo nazwę podmiotu wnoszącego petycję lub podmiotu, w interesie którego petycja jest składana. 2. Informacja, o której mowa w ust. 1, jest niezwłocznie aktualizowana o dane dotyczące przebiegu postępowania, w szczególności dotyczące zasięganych opinii, przewidywanego terminu oraz sposobu załatwienia petycji."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Petycja złożona do Sejmu lub Senatu jest rozpatrywana przez te organy, chyba że w Regulaminie Sejmu lub Regulaminie Senatu zostanie wskazany organ wewnętrzny właściwy w tym zakresie. 2. Petycja złożona do organu stanowiącego jednostki samorządu terytorialnego jest rozpatrywana przez ten organ, chyba że w statucie tej jednostki zostanie wskazany organ wewnętrzny tego organu stanowiącego właściwy w tym zakresie."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Petycja powinna być rozpatrzona bez zbędnej zwłoki, jednak nie później niż w terminie 3 miesięcy od dnia jej złożenia. 2. W przypadku, o którym mowa w art. 6 oraz art. 7 ust. 2, termin na rozpatrzenie petycji liczy się odpowiednio od dnia otrzymania petycji przez właściwy podmiot albo od dnia uzupełnienia lub wyjaśnienia treści petycji. 3. W przypadku wystąpienia okoliczności niezależnych od podmiotu rozpatrującego petycję uniemożliwiających rozpatrzenie petycji w terminie, o którym mowa w ust. 1, termin ten ulega przedłużeniu, nie dłużej jednak niż do 3 miesięcy, licząc od upływu terminu, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Jeżeli w ciągu miesiąca od otrzymania petycji przez podmiot właściwy do rozpatrzenia petycji składane są dalsze petycje dotyczące tej samej sprawy, podmiot właściwy do rozpatrzenia petycji może zarządzić łączne rozpatrywanie petycji (petycja wielokrotna). 2. W przypadku, o którym mowa w ust. 1, na stronie internetowej podmiotu właściwego do rozpatrzenia petycji lub urzędu go obsługującego ogłasza się okres oczekiwania na dalsze petycje nie dłuższy niż 2 miesiące, licząc od dnia ogłoszenia. Termin rozpatrzenia petycji wielokrotnej liczy się od dnia upływu okresu, o którym mowa w zdaniu poprzednim. 3. Jeżeli petycja składająca się na petycję wielokrotną nie spełnia wymogów określonych w art. 4 ust. 1, ust. 2 pkt 3 lub 4 lub art. 5 ust. 1 lub 2 podmiot właściwy do rozpatrzenia petycji wielokrotnej na stronie internetowej, o której mowa w ust. 2, ogłasza wezwanie podmiotu wnoszącego petycję składającą się na petycję wielokrotną do uzupełnienia lub wyjaśnienia treści petycji w terminie 14 dni. Ogłoszenie to zastępuje wezwanie, o którym mowa w art. 7 ust. 2. Petycję składającą się na petycję wielokrotną, której treść nie zostanie uzupełniona lub wyjaśniona pozostawia się bez rozpatrzenia. 4. Na stronie internetowej, o której mowa w ust. 2, podmiot rozpatrujący petycję ogłasza sposób załatwienia petycji wielokrotnej. Ogłoszenie to zastępuje zawiadomienie, o którym mowa w art. 13 ust. 1."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Podmiot właściwy do rozpatrzenia petycji może pozostawić bez rozpatrzenia petycję złożoną w sprawie, która była przedmiotem petycji już rozpatrzonej przez ten podmiot, jeżeli w petycji nie powołano się na nowe fakty lub dowody nieznane podmiotowi właściwemu do rozpatrzenia petycji. 2. W przypadku, o którym mowa w ust. 1, podmiot właściwy do rozpatrzenia petycji niezwłocznie informuje podmiot wnoszący petycję o pozostawieniu petycji bez rozpatrzenia i poprzednim sposobie załatwienia petycji."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Podmiot rozpatrujący petycję zawiadamia podmiot wnoszący petycję o sposobie jej załatwienia wraz z uzasadnieniem w formie pisemnej albo za pomocą środków komunikacji elektronicznej. 2. Sposób załatwienia petycji nie może być przedmiotem skargi."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Podmiot właściwy do rozpatrzenia petycji, a w przypadku, o którym mowa w art. 9 - Sejm, Senat lub organ stanowiący jednostki samorządu terytorialnego, corocznie, w terminie do dnia 30 czerwca, umieszcza na swojej stronie internetowej lub stronie internetowej urzędu go obsługującego zbiorczą informację o petycjach rozpatrzonych w roku poprzednim. Informacja ta zawiera w szczególności dane dotyczące liczby, przedmiotu oraz sposobu załatwienia petycji."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "W zakresie nieuregulowanym w ustawie do petycji stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ( Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183 ) ."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "W ustawie z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego ( Dz. U. z 2013 r. poz. 267 oraz z 2014 r. poz. 183 ) art. 221 otrzymuje brzmienie: „ Art. 221. § 1. Zagwarantowane każdemu w Konstytucji Rzeczypospolitej Polskiej prawo składania skarg i wniosków do organów państwowych, organów jednostek samorządu terytorialnego, organów samorządowych jednostek organizacyjnych oraz do organizacji i instytucji społecznych realizowane jest na zasadach określonych przepisami niniejszego działu. § 2. Skargi i wnioski mogą być składane do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej. § 3. Skargi i wnioski można składać w interesie publicznym, własnym lub innej osoby za jej zgodą. ” ."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Ustawa wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia. 1) Niniejszą ustawą zmienia się ustawę z dnia 14 czerwca 1960 r. - Kodeks postępowania administracyjnego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

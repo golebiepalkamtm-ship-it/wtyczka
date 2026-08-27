@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1921-351",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 czerwca 1921 r. zmieniająca niektóre postanowienia ustawy z dnia 13 lipca 1920 r. o uposażeniu sędziów i prokuratorów Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-351",
+  "status": "in_force",
+  "issued_date": "1921-06-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/351",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Końcowa część ustępu 7 art. 10 ustawy z dnia 13 lipca 1920 r. (Dz. Ust. Rz. P. № 65 poz. 436) o uposażeniu sędziów i prokuratorów otrzymuje brzmienie następujące: „ dla samotnych liczba 24, dla malej rodziny liczba 28, dla średniej rodziny liczba 31, a dla dużej rodziny liczba 34 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Po artykule 10 tejże ustawy wprowadza się art. 10-a o brzmieniu następującem: „ Przez czas wypłacania dodatku drożyżnianego, przewidzianego w art. 10 ustawy niniejszej, sędzia i prokurator pobiera uzupełnienie dodatku starszeństwa, określonego w art. 5 niniejszej ustawy, w wysokości 0,25% tegoż dodatku, pomnożonego przez każdorazowy mnożnik dodatku drożyżnianego ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustęp I art. 14 tejże ustawy otrzymuje brzmienie następujące: „ Zawodowi sędziowie pokoju nieprawnicy w b. dzielnicy rosyjskiej otrzymują pięć szóstych części uposażenia, ustanowionego dla grupy pierwszej ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Art. 16 tejże ustawy otrzymuje brzmienie następujące: „ Aplikanci bez egzaminu na sędziego otrzymują uposażenia: w pierwszym roku w wysokości 600 mk. miesięcznie, a po upływie roku 1000 mk. miesięcznie. Nadto pobierać będą przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych, dodatek drożyźniany, którego podstawą są następujące mnożne, dostosowane do wspomnianych w art. 10 czterech grup rodzinnych, a mianowicie: a) dla aplikantów z uposażeniem 600 mk.: dla samotnych 11, dla małej rodziny 15, dla średniej rodziny 18, dla dużej rodziny 21; b) dla aplikantów z uposażeniem 1000 mk: dla samotnych 15, dla małej rodziny 19, dla średniej rodziny 22, dla dużej rodziny 25. Dodatek ten oblicza się zresztą wedle przepisów art. 10. Aplikanci, którzy złożyli egzamin na sędziego, i asesorowie (w b. dzielnicy pruskiej) otrzymują uposażenie w wysokości pięciu szóstych części zasadniczej płacy, określonej w art. 4, a nadto przez czas trwania wyjątkowych, wojną wywołanych warunków ekonomicznych dodatek drożyźniany, którego podstawą są następujące mnożne, dostosowane do wspomnianych w art. 10 czterech grup rodzinnych, a mianowicie: dla samotnych 19, dla małej rodziny 23, dla średniej rodziny 26, dla dużej rodziny 29. Dodatek ten oblicza się zresztą wedle przepisów art. 10 ” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Art. 28 tejże ustawy otrzymuje brzmienie następujące: „ Ustanowieni przejściowo w b. dzielnicy pruskiej sędziowie śledczy przy sądach okręgowych i podprokuratorzy pomocniczy przy sądach okręgowych otrzymują trzy czwarte części ustanowionej w art. 4 płacy zasadniczej, a nadto trzy czwarte części dodatku drożyźnianego, obliczanego wedle postanowień art. 10 ” ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej powierza się Prezydentowi Ministrów i Ministrowi Skarbu oraz Ministrowi Sprawiedliwości, a o ile chodzi o b. dzielnicę pruską-także Ministrowi b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia, przyczem wypływające z niej zmiany w uposażeniu sędziów i prokuratorów będą urzeczywistnione z mocą od 1 stycznia 1921 r., zmiany zaś w uposażeniu aplikantów oraz sędziów śledczych i podprokuratorów pomocniczych przy sądach okręgowych b. dzielnicy pruskiej-od 1 lipca 1921 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

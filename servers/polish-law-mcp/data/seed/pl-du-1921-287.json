@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1921-287",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 maja 1921 r. o tymczasowym poborze państwowego podatku dochodowego.",
+  "title_en": "",
+  "short_name": "pl-du-1921-287",
+  "status": "repealed",
+  "issued_date": "1921-05-20",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/287",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Władze skarbowe I instancji mogą, nie naruszając prawa i obowiązku właściwych Komisji szacunkowych (przewodniczącego) do prawidłowego wymiaru państwowego podatku dochodowego, państwowy podatek dochodowy od dochodów, uzyskanych w latach 1919 i 1920, względnie wykazanych w zamknięciu rachunkowem lat operacyjnych 1918/19 i 1919/1920 lub 1919/20 i 1920/21, ustalić tymczasowo na podstawie wniesionych zeznań o dochodzie (Dz. Ust. z roku 1920 № 82, poz. 550). Uprawnienie to nie dotyczy dochodów, od których służbodawca potrąca podatek w myśl art. 89 i 90 ustawy z dnia 16 lipca 1920 r. o państwowym podatku dochodowym i podatku majątkowym (Dz. Ust. z roku 1920 № 82, poz. 550). Gdy zeznania, ustawą wymaganego, mimo wezwania w terminie nie złożono, podatek ustala władza skarbowa na podstawie protokularnego orzeczenia conajmniej dwóch rzeczoznawców, z grona płatników w tej samej lub zbliżonej gałęzi gospodarczej, na podstawie danych, jakiemi władza rozporządza, uwzględniając przedewszystkiem wyniki wymiarów innych podatków. Tymczasowe ustalenie podatku dochodowego nastąpić może dopiero po upływie terminu, wyznaczonego po ogłoszeniu niniejszej ustawy, do wnoszenia zeznań."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podatników wzywa się do uiszczenia tymczasowo ustalonych kwot podatkowych za pomocą wezwania płatniczego, przeciw któremu niema środka prawnego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kwoty tymczasowo ustalonego podatku, nie wpłacone do dni 30, ściągają organy skarbowe w drodze egzekucji na podstawie obowiązujących przepisów. Ponadto pobiera się od zaległej kwoty podatku odsetki za zwłokę w wysokości 2% miesięcznie. Miesiąc zaczęty liczy się za pełny. Kwoty zaległości od 50 fen. wzwyż zaokrągla się do jednej marki, kwot mniejszych nie uwzględnia się."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W wypadkach, gdy ściągnięcie podatku tymczasowego, ustalonego według danych okoliczności, mogłoby być zagrożone, mogą władze skarbowe, równocześnie z wezwaniem płatniczem. zarządzić tymczasowe zabezpieczenie tego podatku na majątku płatnika, w drodze administracyjnej, lub przez właściwy sąd. Sąd winien odnośnym wezwaniom władz skarbowych bez zwłoki uczynić zadość; do dokonania zabezpieczenia nie potrzeba poświadczenia grożącego niebezpieczeństwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Podatek tymczasowo ustalony uwzględnia się odpowiednio przy ostatecznym wymiarze podatku."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Jeśli ostatecznie wymierzony podatek dochodowy i majątkowy nie dosięgnie kwoty, tymczasowo ustalonej na podstawie niniejszej ustawy, należą się płatnikowi od Skarbu Państwa od nadwyżki, wpłaconej na podatek tymczasowy, odsetki w wysokości 1/2% za każdy pełny miesiąc od dnia wpłaty aż do dnia doręczenia ostatecznego nakazu płatniczego. Nadwyżka z odsetkami ma być podatnikowi zwrócona, o ile nie ma on zaległości z tytułu innych podatków."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Odnośnie do osób fizycznych i prawnych, wymienionych w części drugiej art. 75 ustawy z dnia 16 lipca 1920 r. (Dz. Ust. № 82 poz. 550), Minister Skarbu mocen jest rozszerzyć stosowanie tej ustawy także na dochody z roku 1921, względnie na dochody wykazane w zamknięciach rachunkowych za rok operacyjny 1920/21 lub 1921/22. Przepis ten jednak nie stosuje się do osób, które w ciągu roku uzyskały stałe uposażenie służbowe w wysokości, podlegającej opodatkowaniu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Skarbu, ewentualnie w porozumieniu z Ministrem b. Dzielnicy Pruskiej, o ile zaś chodzi o wykonanie art. 4 - Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Rozporządzenie Rady Obrony Państwa z 17 września 1920 r. w przedmiocie uiszczania podatków bezpośrednich (Dz. Ust. № 92, poz. 603) traci moc obowiązującą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

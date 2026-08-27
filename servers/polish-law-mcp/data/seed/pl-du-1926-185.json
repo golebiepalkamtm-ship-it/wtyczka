@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1926-185",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 marca 1926 r. zmieniająca ustawę o ochronie lokatorów.",
+  "title_en": "",
+  "short_name": "pl-du-1926-185",
+  "status": "in_force",
+  "issued_date": "1926-03-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/185",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przewidziany w art. 6 ust. 3 ustawy z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. U. R. P. № 39 poz. 406) wzrost stawki procentowej, wymienionej w art. 6 ust. 1 lit. a) tejże ustawy, zawieszą się na czas od dnia 1 kwietnia do dnia 31 grudnia 1926 r. i rozpoczyna się ponownie od dnia 1 stycznia 1927 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. U. R. P. № 39 poz. 406) ulega zmianom następującym: 1. W art. 2 ust. 1 p. j) uzupełnia się w sposób następujący: „Ochroną przedłuża się na czas do 1 stycznia 1927 r., o ile wspomniane przedsiębiorstwa fabryczne w ciągu roku 1925 były co najmniej przez 6 miesięcy czynne, a przed wejściem w życie niniejszej ustawy umowa najmu nie została prawomocnie rozwiązana”. 2. W art. 11 po ust. 5 dodaje się ust. 6 następującej treści: „W b. dzielnicy austriackiej termin do wniesienia zarzutów przeciw wypowiedzeniu wynosi w każdym wypadku dni 8 i dopuszczalnem jest w wypadku omieszkania tego terminu przywrócenie do pierwotnego stanu w myśl § 146 ustawy o postępowaniu sądowem z dnia 1 sierpnia 1895 r. (austr. Dz. Ustaw P. № 113)”. 3. W art. 20 p. 4 w końcu pierwszego zdania po słowach: „odwołać się do sądu okręgowego” dodać: „jako instancji odwoławczej”. 4. W art. 23 ust. 1 zdanie pierwsze otrzymuje brzmienie następujące: „ 1. W sprawach o eksmisję może sąd, względnie urząd rozjemczy, z urzędu lub na wniosek pozwanego w uwzględnieniu stosunków gospodarczych pozwanego odroczyć termin opróżnienia przedmiotu najmu do 6 miesięcy, oraz odroczenie to w razie trwania powodów odroczenia przedłużyć na dalsze 6 miesięcy, jeżeli eksmisję orzeczono z przyczyny, przewidzianej w art. 11 ust. 2 lit a) ” . 5. Po art. 23 wstawia się nowy artykuł: „ Art. 23 a). 1. Sąd lub urząd rozjemczy może na wniosek lokatora według własnego uznania i z uwzględnieniem położenia obu stron termin płatności zaległego komornego w całości lub części na czas określony odroczyć oraz rozłożyć na raty lokatorowi spłatę zaległego komornego, jeśli lokator dochody czerpie jedynie z pracy, a zarobek miesięczny lokatora, żyjącego samotnie, nie przekracza złotych 80, a utrzymującego rodzinę złotych 120. 2. Odroczenie terminu zapłaty uchyla skutki zwłoki, wprowadzone w art. 11 ust. 2 lit. a). 3. Wniosek o odroczenie może być wniesiony przed terminem płatności i tylko odnośnie do komornego, którego czas płatności ma nadejść w trzech miesiącach od dnia złożenia wniosku ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości i Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

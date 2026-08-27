@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-772",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. w sprawie zmian i uzupełnień niektórych postanowień ustawy z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu.",
+  "title_en": "",
+  "short_name": "pl-du-1931-772",
+  "status": "in_force",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-11-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/772",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 grudnia 1919 r. o czasie pracy w przemyśle i handlu (Dz. U. R. P. z 1920 r. Nr 2, poz. 7) wprowadza się następujące zmiany i uzupełnienia: 1) Punkt d) art. 6 otrzymuje brzmienie następujące: „ W wypadkach, spowodowanych koniecznościami państwowemi lub gospodarczemi, Rada Ministrów może w drodze rozporządzeń, wydawanych na wniosek Ministra Pracy i Opieki Społecznej, zgłoszony po zasięgnięciu opinji izb przemysłowo-handlowych i izb rzemieślniczych oraz organizacyj zawodowych pracowników i pracodawców, zezwalać na przedłużenie lub nakazać skrócenie czasu pracy w dniu lub w tygodniu. Rozporządzenia te będą wydawane na określony przeciąg czasu, nie dłużej niż na 1 rok, i mogą dotyczyć przeszczególnych gałęzi pracy lub kategoryj zakładów pracy na obszarze całego Państwa lub na obszarach poszczególnych okręgów administracyjnych ” . 2) Art. 18 otrzymuje brzmienie następujące: „ Winni przekroczenia przepisów niniejszej ustawy oraz rozporządzeń, wydanych na jej podstawie, będą karani za pierwszym razem grzywną od 200 zł. do 1000 zł. lub aresztem do 3 miesięcy, w razie zaś powtórzenia przekroczenia - aresztem na czas od 2 tygodni do 3 miesięcy. Przepisy o łagodzeniu kar, zawarte w ustawach karnych, nie będą miały zastosowania do przestępstw, przewidzianych w niniejszym artykule w okresie do dnia 31 grudnia 1932 r. Do orzekania o czynach, przewidzianych w ust. 1 niniejszego artykułu, powołani są obwodowi inspektorzy pracy ” . 3) Po art. 18 wprowadza się art. 13-a treści następującej: „ W wypadkach, gdy zakład pracy nie jest zarządzany osobiście przez właściciela, odpowiedzialnym za przestępstwa, wymienione w art. 18, jest kierownik zakładu pracy, wyznaczony stosownie do art. 9 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o umowie o pracę robotników (Dz. U. R. P. Nr 35, poz. 324). Właściciel jest odpowiedzialny narówni z kierownikiem, jeżeli przestępstwo było popełnione za jego wiedzą, bądź gdy właściciel nie dobrał odpowiedniego kierownika. W wypadkach, gdy właściciel zakładu pracy nie wyznaczył kierownika zakładu pracy, odpowiedzialnym jest właściciel zakładu pracy. Jeżeli właścicielem zakładu jest osoba prawna, odpowiedzialnemi są te osoby, które powołane są do zawiadywania interesami osoby prawnej. Przepisy niniejszego artykułu nie uchylają postanowień, dotyczących udziału (współwiny) w przestępstwie ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Pracy i Opieki Społecznej w porozumieniu z Ministrem Przemysłu i Handlu, odnośnie zaś do zakładów pracy, podlegających bezpośrednio poszczególnym ministerstwom, porucza się wykonanie ustawy właściwemu ministrowi w porozumieniu z Ministrem Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

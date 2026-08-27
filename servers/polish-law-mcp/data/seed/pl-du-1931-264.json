@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1931-264",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 1931 r. o dodatkowych kredytach na rok 1930/31.",
+  "title_en": "",
+  "short_name": "pl-du-1931-264",
+  "status": "in_force",
+  "issued_date": "1931-02-12",
+  "in_force_date": "1931-04-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/264",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyty, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1930 r. na okres od 1 kwietnia 1930 r. do 31 marca 1931 r. (Dz. U. R. P. Nr 24, poz. 221), podwyższa się w grupie A. Administracja o następujące kwoty: w części 7 - Ministerstwo Spraw Wewnętrznych wydatki nadzwyczajne w dziale 2 w nowoutworzonym § 17 „Koszty wyborów do Sejmu i Senatu” o w części 8 - Ministerstwo Skarbu wydatki zwyczajne w dziale 2 § 14 2.000.000 zł „Specjalne koszty egzekucji” o... 500.000 zł w części 14 - Ministerstwo Robót Publicznych wydatki nadzwyczajne w dziale 2 rozdział 2 § 14 „Drogi wodne w zarządzie Rady Portu” o..... 2.021.240 zł w części 15 - Ministerstwo Pracy i Opieki Społecznej wydatki zwyczajne w dziale 8 § 22 „Dopłaty do zabezpieczenia na wypadek bezrobocia oraz pomoc dla bezrobotnych miast i wsi” o. 30.000.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie wydatków, ustalonych w art. 1, służą oszczędności, osiągnięte przez zmniejszenie wydatków i uzyskanie wyższych wpływów z niektórych źródeł dochodowych, przewidzianych w budżecie na rok 1930/31."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1930 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

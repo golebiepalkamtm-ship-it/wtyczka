@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1931-168",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1931 r. w sprawie zmiany ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych.",
+  "title_en": "",
+  "short_name": "pl-du-1931-168",
+  "status": "in_force",
+  "issued_date": "1931-03-17",
+  "in_force_date": "1931-03-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/168",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 1 lipca 1926 r. o opłatach stemplowych (Dz. U. R. P. Nr 98, poz. 570) ulega zmianom następującym: 1) w art. 122 ustęp 1 skreśla się wyrazy „wystawione w Polsce” . 2) W art. 122 ustęp ostatni otrzymuje brzmienie następujące: „ Wolny jest od opłaty weksel trasowany, płatny zagranicą, jeżeli trasat ma mieszkanie lub siedzibę zagranicą; weksel taki podlega jednak opłacie, gdy w Polsce nastąpiła zapłata całkowita lub częściowa lub gdy przed sąd polski wytoczono skargę o pretensję z wekslu. Miejsca, wymienionego obok nazwiska trasata, jeżeli on w tem miejscu nie mieszka, nie uważa się - celem zastosowania niniejszego artykułu - za miejsce zamieszkania trasata. ” 3) W art. 123 ustęp 2 otrzymuje brzmienie następujące: „ Opłatę od wekslu, wystawionego zagranicą, należy uiścić, zanim na obszarze Polski została dokonana którakolwiek z czynności następujących: przyjęcie, umieszczenie indosu, wypełnienie indosu in blanco, wręczenie wekslu zaopatrzonego w indos in blanco innej osobie, przyjęcie zapłaty całkowitej lub częściowej, wytoczenie skargi o pretensję z wekslu. Jeżeli weksel, wystawiony zagranicą, wprowadziła do Polski lub otrzymała w Polsce osoba, obowiązana do uiszczenia opłaty (art. 125), to ma uiścić opłatę w ciągu tygodnia od wprowadzenia wekslu lub otrzymania go, o ile przedtem nie została dokonana żadna z czynności, wymienionych w zdaniu poprzedniem ” . 4) Ustęp 3 art. 123 skreśla się. 5) W art. 125 w ustępie 1 skreśla się wyrazy: „wystawionego w Polsce, jak również od wekslu, wystawionego zagranicą a wymienionego w punkcie 1 lub 2 art. 122” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Opłaty, przewidziane w art. 102, 103, 105, 109 i 110 ustawy o opłatach stemplowych, będą pobierane w wysokości 1%, o ile staną się wymagalne w czasie od ogłoszenia niniejszej ustawy do końca 1932 r. (2) Przepis powyższy będzie stosowany do uchwały o powiększeniu kapitału zakładowego spółki akcyjnej lub komandytowo - akcyjnej (art. 102, punkt b) tylko w tych przypadkach, w których okres, wyznaczony do przyjmowania wpłat na poczet podwyżki kapitału zakładowego, rozpocznie się najpóźniej w dniu 30 czerwca 1933 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia oprócz art. 1, który wchodzi w życie w 14 dni po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

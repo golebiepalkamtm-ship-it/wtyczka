@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2021-760",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 2021 r. o zmianie ustawy o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2021-760",
+  "status": "in_force",
+  "issued_date": "2021-03-17",
+  "in_force_date": "2021-04-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/760",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 kwietnia 2016 r. o wstrzymaniu sprzedaży nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz o zmianie niektórych ustaw ( Dz. U. z 2018 r. poz. 869 ) wprowadza się następujące zmiany: 1) art. 1 otrzymuje brzmienie: „ Art. 1. W okresie 10 lat od dnia wejścia w życie ustawy wstrzymuje się sprzedaż nieruchomości, ich części oraz udziałów we współwłasności nieruchomości wchodzących w skład Zasobu Własności Rolnej Skarbu Państwa. ” ; 2) w art. 2: a) w ust. 1 w pkt 4 kropkę zastępuje się przecinkiem, dodaje się wyraz „lub” i dodaje się pkt 5 w brzmieniu: „ 5) udziałów we współwłasności nieruchomości, o których mowa w pkt 1-4. ” , b) ust. 2 otrzymuje brzmienie: „ 2. Minister właściwy do spraw rozwoju wsi, na wniosek Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, może wyrazić zgodę na sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, jeżeli jest to uzasadnione względami społeczno-gospodarczymi. ” , c) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. We wniosku o wyrażenie zgody, o której mowa w ust. 2, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w szczególności wskazuje, jakie względy społeczno-gospodarcze uzasadniają sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości. ” , d) ust. 3 otrzymuje brzmienie: „ 3. Sprzedaż nieruchomości, ich części lub udziałów we współwłasności nieruchomości, innych niż wymienione w ust. 1, bez zgody, o której mowa w ust. 2, w okresie 10 lat od dnia wejścia w życie ustawy, jest nieważna. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do wniosków Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa, o których mowa w art. 2 ust. 2 ustawy zmienianej w art. 1, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 30 kwietnia 2021 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

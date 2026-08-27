@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1926-214",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1926 r. o pokrywaniu kosztów leczenia ubogich w szpitalach publicznych na obszarze b. zaboru rosyjskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1926-214",
+  "status": "repealed",
+  "issued_date": "1926-03-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/214",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Koszty leczenia ubogich w szpitalach publicznych, o ile nie mogą być ściągnięte od osób i instytucyj, z jakiegokolwiek tytułu prawnego do ich ponoszenia zobowiązanych, pokrywają, począwszy od dnia 1 stycznia 1926 r., te gminy, w których leczeni w trzechleciu, poprzedzającem przyjęcie do szpitala, ostatnio zamieszkiwali nieprzerwanie przynajmniej przez jeden rok."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nieściągalne koszty leczenia osób, nie mających stałego miejsca zamieszkania w rozumieniu art. 1 niniejszej ustawy, pokrywają te powiatowe związki komunalne, względnie wydzielone z powiatów gminy miejskie, na których obszarze: a) zaszła potrzeba leczenia, b) stwierdzono ostatnie zamieszkanie leczonego w kraju, gdy miejsce, gdzie zaszła potrzeba leczenia, nie może być ustalone, lub też znajduje się poza granicami kraju."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ubogim w pojęciu tej ustawy jest ten, u którego władza komunalna w poruczonym zakresie działania stwierdza niemożność zapłacenia kosztów leczenia bez uszczerbku dla istnienia warsztatu pracy, tak przez niego samego, jak i przez krewnych wstępnych i zstępnych w linji prostej. Koszty leczenia ściągają władze administracyjne I instancji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wewnętrznych, który w szczególności określi w rozporządzeniu, w jaki sposób ustala się fakt corocznego zamieszkania w gminie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na obszarze b. zaboru rosyjskiego. Równocześnie znosi się dotychczasowe ustawy i przepisy, normujące sprawy leczenia chorych na tym obszarze. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

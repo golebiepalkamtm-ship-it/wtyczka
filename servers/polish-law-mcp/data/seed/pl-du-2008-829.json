@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2008-829",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o doradztwie podatkowym",
+  "title_en": "",
+  "short_name": "pl-du-2008-829",
+  "status": "amended",
+  "issued_date": "2008-06-12",
+  "in_force_date": "2008-07-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/829",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym ( Dz. U. z 2008 r. Nr 73, poz. 443 ) w art. 27: 1) w ust. 1 pkt 2 otrzymuje brzmienie: „ 2) osoba pozostająca w stosunku pracy z podmiotami, o których mowa w pkt 1a, oraz z podmiotami, o których mowa w art. 3 i art. 4 ust. 1. ” ; 2) ust. 2 otrzymuje brzmienie: „ 2. Doradcy podatkowi mogą wykonywać swój zawód uczestnicząc w spółkach, o których mowa w ust. 1 pkt 1a, pod warunkiem że komplementariuszami w spółce komandytowej oraz wspólnikami w pozostałych spółkach są wyłącznie doradcy podatkowi. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

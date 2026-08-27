@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-2001-974",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 lipca 2001 r. o świadczeniu dla cywilnych ofiar wojny.",
+  "title_en": "",
+  "short_name": "pl-du-2001-974",
+  "status": "repealed",
+  "issued_date": "2001-07-20",
+  "in_force_date": "2001-08-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/974",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady ustalania i realizacji świadczenia dla cywilnych ofiar wojny."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Cywilnymi ofiarami wojny w rozumieniu ustawy są obywatele polscy, posiadający stałe miejsce zamieszkania w Rzeczypospolitej Polskiej, którzy doznali naruszenia sprawności organizmu powodującego całkowitą i trwałą niezdolność do pracy i samodzielnej egzystencji: 1) na skutek działań wojennych w latach 1939-1947, nie wchodząc w skład formacji wojskowych, zmilitaryzowanych służb państwowych i ruchu oporu, 2) na skutek eksplozji niewybuchów pozostałych z okresu wojny 1939-1945, na terytorium Rzeczypospolitej Polskiej, jeżeli zdarzenie naruszające sprawność organizmu miało miejsce w okresie wojny 1939-1945 lub po wojnie, nie później jednak niż do dnia 15 listopada 1956 r., zaś całkowita i trwała niezdolność do pracy i samodzielnej egzystencji została stwierdzona w ciągu 5 lat od dnia zdarzenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Cywilnym ofiarom wojny przysługuje świadczenie pieniężne określone w ustawie. 2. Świadczenie, o którym mowa w ust. 1, jest samoistne. 3. Świadczenie, o którym mowa w ust. 1, wynosi miesięcznie 50% kwoty najniższej renty z tytułu całkowitej niezdolności do pracy, spowodowanej wypadkiem przy pracy lub chorobą zawodową, obowiązującej w dniu wejścia w życie ustawy. 4. Świadczenie, o którym mowa w ust. 1, jest waloryzowane na zasadach wynikających z przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Świadczenie, o którym mowa w art. 3, i koszty jego obsługi finansowane jest z budżetu państwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Prawo do świadczenia pieniężnego ustalają i świadczenie wypłacają organy rentowe w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych. 2. Świadczenie pieniężne wypłacane jest: 1) wraz z emeryturą lub rentą - osobie pobierającej emeryturę lub rentę, 2) kwartalnie, w trzecim miesiącu kwartału - osobie mającej ustalone prawo do emerytury lub renty, której wypłata została zawieszona, 3) kwartalnie, w trzecim miesiącu kwartału - osobie niemającej ustalonego prawa do emerytury lub renty, osobie mającej ustalone prawo do emerytury lub renty przez inny organ emerytalno-rentowy albo osobie pobierającej świadczenie o charakterze rentowym z instytucji zagranicznych. 3. Świadczenie pieniężne jest wypłacane osobie uprawnionej, mającej stałe miejsce zamieszkania na terenie Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Świadczenie przyznaje się na udokumentowany wniosek osoby uprawnionej. 2. Wniosek, o którym mowa w ust. 1, powinien zawierać dokumentację medyczną z okresu zdarzenia, o którym mowa w art. 2, potwierdzającą zaistnienie tego zdarzenia oraz inne dowody, potwierdzające związek przyczynowy tego zdarzenia z powstałą całkowitą i trwałą niezdolnością do pracy i samodzielnej egzystencji. 3. O całkowitej i trwałej niezdolności do pracy i samodzielnej egzystencji, dacie jej powstania oraz związku przyczynowym ze zdarzeniem, o którym mowa w art. 2, orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Prawo do świadczenia ustala organ rentowy w formie decyzji. 2. Od decyzji organu rentowego przysługują osobie uprawnionej środki odwoławcze przewidziane dla emerytur i rent w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W sprawach nieuregulowanych w ustawie stosuje się odpowiednio przepisy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_3-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_5-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1929-260",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 1929 r. o wystawianiu skryptów dłużnych i pokwitowań przez osoby, nieumiejące lub niemogące pisać.",
+  "title_en": "",
+  "short_name": "pl-du-1929-260",
+  "status": "repealed",
+  "issued_date": "1929-03-23",
+  "in_force_date": "1929-04-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/260",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby, nieumiejące lub niemogące pisać, korzystając z pożyczek z funduszów państwowych lub z państwowych instytucyj kredytowych, mogą niezależnie od trybu, przewidzianego w obowiązującem ustawodawstwie, wystawiać skrypty dłużne i pokwitowania, zastępując podpis odciskami wielkich palców (kciuków) obu rąk, lub z braku ich dwoma odciskami innych palców, wedle możności, różnych rąk. Odciski te winny być uwierzytelnione przez wójta gminy lub przełożonego zarządu gminy (burmistrza lub prezydenta miasta). Stwierdzenie tożsamości osoby, która odciski te uczyniła, jako też samego faktu uczynienia tych odcisków; stwierdzenie, któremi palcami te odciski uczyniono, a wreszcie faktu odczytania tej osobie wystawianego przez nią dokumentu dokonane będzie przez dwóch piśmiennych świadków, którzy okoliczności te stwierdzą swemi podpisami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Formalności, przewidziane w art. 1, będą stosowane także do osób, nieumiejących lub niemogących pisać, które udzielają poręczeń za pożyczki, określone w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Postanowienia art. 1 i 2 nie mają zastosowania do aktów, sporządzanych przez osoby ślepe, głuche lub nieme, oraz do aktów, mających być podstawą czynności hipotecznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wysokość opłat, pobieranych przez zarządy gmin za czynności, przewidziane w art. 1 i 2, ustali rozporządzenie Rady Ministrów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości i Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1993-52",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 września 1992 r. o zmianie ustawy o Straży Granicznej.",
+  "title_en": "",
+  "short_name": "pl-du-1993-52",
+  "status": "amended",
+  "issued_date": "1992-09-04",
+  "in_force_date": "1993-02-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/52",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 października 1990 r. o Straży Granicznej ( Dz. U. Nr 78, poz. 462 , z 1991 r. Nr 94, poz. 422 i z 1992 r. Nr 54, poz. 254 ) wprowadza się następujące zmiany: 1) w art. 36 w ust. 2 wyrazy „ z wyłączeniem dochodzenia roszczeń na drodze sądowej” zastępuje się wyrazami „oraz dochodzenia roszczeń na drodze sądowej” , 2) w art. 94 dotychczasowa treść otrzymuje oznaczenie ust. 1 i dodaje się ust. 2-5 w brzmieniu: „ 2. Właściciele domów jednorodzinnych, domów mieszkalno-pensjonatowych i lokali mieszkalnych stanowiących odrębne nieruchomości mają prawo do zamieszkania w swych domach i lokalach opróżnionych w całości lub części. 3. Właścicielowi domu wielomieszkaniowego przysługuje prawo zamieszkania w opróżnionym lokalu mieszkalnym w tym domu. 4. W razie opróżnienia samodzielnego lokalu w domu, o którym mowa w ust. 2 i 3, oraz lokalu mieszkalnego stanowiącego odrębną nieruchomość, właścicielowi przysługuje prawo oddania go w najem bądź bezpłatne używanie. 5. Jeżeli w terminie 3 miesięcy właściciel nie skorzysta bez uzasadnionych przyczyn z prawa, o którym mowa w ust. 4, Minister Spraw Wewnętrznych lub podległy mu organ może dokonać przydziału opróżnionego lokalu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepis art. 1 pkt 1 wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

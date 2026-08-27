@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-533",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 marca 2015 r. o ratyfikacji Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzonej w Londynie dnia 7 lipca 1995 r.",
+  "title_en": "",
+  "short_name": "pl-du-2015-533",
+  "status": "in_force",
+  "issued_date": "2015-03-05",
+  "in_force_date": "2015-04-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/533",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Międzynarodowej konwencji o wymaganiach w zakresie wyszkolenia, wydawania świadectw oraz pełnienia wacht dla załóg statków rybackich, sporządzonej w Londynie dnia 7 lipca 1995 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-637",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 października 1921 r. zmieniająca ustawę z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela.",
+  "title_en": "",
+  "short_name": "pl-du-1921-637",
+  "status": "in_force",
+  "issued_date": "1921-10-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/637",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 10 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. Ust. Rz. P. № 67 poz. 406) zdanie końcowe „sąd zaś zawiadomi osobę, która podanie w myśl art. 1 wniosła” zastępuje się słowami: „który postąpi w myśl art. 6”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Art. 13 powyższej ustawy otrzymuje brzmienie następujące: „ Ustawa niniejsza nie dotyczy: 1) biletów Polskiej Krajowej Kasy Pożyczkowej; 2) banknotów oraz podobnych tytułów na okaziciela, wypuszczonych przez Państwo, lub przez upoważnione do tego instytucje; tytuły te oznaczy Minister Skarbu rozporządzeniami, ogłaszanemi w Dzienniku Ustaw; 3) biletów loteryjnych, kolejowych, znaków opłaty i t. p.; 4) kuponów od tytułów na okaziciela, przez Państwo wypuszczonych, od listów zastawnych Towarzystwa Kredytowego Ziemskiego w Królestwie Polskiem, od listów zastawnych Towarzystw Kredytowych Miejskich oraz od obligacji miast na obszarze b. Królestwa Polskiego ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza zyskuje moc obowiązującą z dniem ogłoszenie. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

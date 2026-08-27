@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-266",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 1919 r. o budowie linji kolejowej Łódź-Kutno-Płock.",
+  "title_en": "",
+  "short_name": "pl-du-1919-266",
+  "status": "in_force",
+  "issued_date": "1919-04-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/266",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Poleca się Ministrowi Kolei przystąpić do budowy linji kolei normalnej Łódź - Kutno - Płock."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Trasę ostateczną linji, oraz projekty: zarówno ogólny, jak i szczegółowy zatwierdzi Minister Kolei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "System wykonania robót, jako też system prowadzenia eksploatacji zatwierdzi Rada Ministrów na wniosek Ministra Kolei."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W celu zatrudnienia bezrobotnych, do robót ziemnych kolei Łódź - Kutno - Płock przystąpi się niezwłocznie, tymczasowo na rachunek ogólnego kredytu na nowe roboty, przyznanego w pierwszem półroczu 1919 r."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kosztorys ostateczny budowy, jako też plan jej sfinansowania, zatwierdzi Rada Ministrów na wniosek Ministra Kolei."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kredyt na rok bieżący w ilości 15.000.000 marek uchwala się. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

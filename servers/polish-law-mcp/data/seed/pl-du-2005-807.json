@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-807",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o rybołówstwie",
+  "title_en": "",
+  "short_name": "pl-du-2005-807",
+  "status": "repealed",
+  "issued_date": "2005-05-06",
+  "in_force_date": "2005-06-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/807",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 19 lutego 2004 r. o rybołówstwie ( Dz. U. Nr 62, poz. 574 ) po art. 20 dodaje się art. 20a w brzmieniu: „ Art. 20a. 1. Kwoty połowowe określone w specjalnym zezwoleniu połowowym mogą być przekazywane w całości lub w części innym armatorom oraz na inne statki rybackie tego samego armatora. 2. Kwota połowowa może być przekazana jedynie na rzecz podmiotów, którym przyznano kwotę połowową na ten sam gatunek organizmów morskich, których dotyczy przekazanie. 3. Przekazanie kwoty połowowej, o którym mowa w ust. 1, następuje: 1) na wniosek armatora zainteresowanego przekazaniem kwoty połowowej, a w przypadku przekazywania kwot połowowych innym armatorom, na wspólny wniosek do organu, który wydał specjalne zezwolenie połowowe; 2) po wyrażeniu zgody przez organ, o którym mowa w pkt 1. 4. Wniosek, o którym mowa w ust. 3 pkt 1, składa się wraz z wnioskiem o zmianę specjalnych zezwoleń połowowych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

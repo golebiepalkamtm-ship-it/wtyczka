@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1994-421",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 czerwca 1994 r. o zmianie ustawy - Prawo o ustroju sądów powszechnych.",
+  "title_en": "",
+  "short_name": "pl-du-1994-421",
+  "status": "repealed",
+  "issued_date": "1994-06-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1994/421",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych ( Dz. U. z 1994 r. Nr 7, poz. 25 i Nr 77, poz. 355 ) wprowadza się następujące zmiany: 1) w art. 29 1 : a) § 2 i 3 otrzymują brzmienie: „ § 2. Minister Sprawiedliwości nie może jednak powołać ani odwołać prezesa sądu apelacyjnego, jeżeli zgromadzenie ogólne sędziów sądu apelacyjnego wyraziło sprzeciw. § 3. Wiceprezesa sądu apelacyjnego powołuje i odwołuje Minister Sprawiedliwości spośród sędziów sądu apelacyjnego, Naczelnego Sądu Administracyjnego bądź Sądu Najwyższego na wniosek prezesa danego sądu apelacyjnego lub z własnej inicjatywy, po zasięgnięciu opinii kolegium. ” , b) dodaje się § 4 w brzmieniu: „ § 4. Minister Sprawiedliwości nie może jednak powołać ani odwołać wiceprezesa sądu apelacyjnego, jeżeli kolegium sądu apelacyjnego wyraziło sprzeciw bezwzględną większością głosów. ” ; 2) w art. 30: a) § 2 otrzymuje brzmienie: „ § 2. Wiceprezesa sądu wojewódzkiego oraz prezesa i wiceprezesa sądu rejonowego powołuje i odwołuje Minister Sprawiedliwości spośród sędziów sądów powszechnych, na wniosek prezesa danego sądu wojewódzkiego lub z własnej inicjatywy, po zasięgnięciu opinii kolegium tego sądu. ” , b) dodaje się § 3 w brzmieniu: „ § 3. Minister Sprawiedliwości nie może jednak powołać ani odwołać wiceprezesa sądu wojewódzkiego oraz prezesa i wiceprezesa sądu rejonowego, jeżeli kolegium sądu wojewódzkiego wyraziło sprzeciw bezwzględną większością głosów. ” ; 3) skreśla się art. 59 1 ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

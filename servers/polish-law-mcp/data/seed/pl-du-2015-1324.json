@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-1324",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy o opłatach abonamentowych",
+  "title_en": "",
+  "short_name": "pl-du-2015-1324",
+  "status": "amended",
+  "issued_date": "2015-07-23",
+  "in_force_date": "2015-09-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1324",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 kwietnia 2005 r. o opłatach abonamentowych ( Dz. U. z 2014 r. poz. 1204 ) wprowadza się następujące zmiany: 1) w art. 4: a) ust. 3 otrzymuje brzmienie: „ 3. Zwolnienia określone w ust. 1 pkt 1 i 3-8 przysługują od pierwszego dnia miesiąca następującego po miesiącu, w którym złożono w placówce pocztowej operatora wyznaczonego w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ( Dz. U. poz. 1529 ) oświadczenie o spełnianiu warunków do korzystania z tych zwolnień i przedstawiono dokumenty potwierdzające uprawnienie do tych zwolnień. ” , b) po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Zwolnienie określone w ust. 1 pkt 2 przysługuje od pierwszego dnia miesiąca następującego po miesiącu, w którym osoba ukończyła 75 lat. ” , c) ust. 4 otrzymuje brzmienie: „ 4. Osoby korzystające ze zwolnień od opłat abonamentowych z wyjątkiem osób, o których mowa w ust. 1 pkt 2, obowiązane są zgłosić placówce pocztowej operatora wyznaczonego, o której mowa w ust. 3, zmiany stanu prawnego lub faktycznego, które mają wpływ na uzyskane zwolnienia, w terminie 30 dni od dnia, w którym taka zmiana nastąpiła. ” ; 2) w art. 7 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Operator wyznaczony, o którym mowa w ust. 1, jest uprawniony do otrzymywania danych z rejestru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL) na zasadach określonych w ustawie z dnia 24 września 2010 r. o ewidencji ludności ( Dz. U. z 2015 r. poz. 388 ) . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

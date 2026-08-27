@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-594",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 lipca 1923 r. w sprawie zakładania filji przez związki zawodowe na terenie działania austriackiej ustawy o stowarzyszeniach z dnia 15 listopada 1867 r. oraz rozporządzenia komisarza generalnego Ziem Wschodnich z dnia 25 września 1919 r.",
+  "title_en": "",
+  "short_name": "pl-du-1923-594",
+  "status": "repealed",
+  "issued_date": "1923-07-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/594",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Związki zawodowe, istniejące na podstawie dekretu z dnia 8 lutego 1919 r. w przedmiocie tymczasowych przepisów o pracowniczych związkach zawodowych. (Dz. P. P. P. № 15, poz. 209), którym władze, w dekrecie przewidziane, zezwoliły na wykonywanie statutowej działalności na obszarze całego Państwa, zwolnione są przy otwieraniu swych filji od obowiązku dostosowania się do §§ 4, 5, 6, 7, 8, 9, 10 austrjackiej ustawy o stowarzyszeniach z dnia 15 listopada 1867 r. (austr. Dz. Ust. № 134) oraz do §§ 2, 11, 12, 13, 14, 15, 16, 17, 18 i 19 rozporządzenia komisarza generalnego Ziem Wschodnich z dnia 25 września 1919 roku (Dz. Urz. Z. C. Z. W. № 25, poz. 255) i mają prawo swobodnego otwierania swych filji na terenie całego Państwa z zachowaniem jedynie przepisów, wymienionych w art. 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zarządy centralne związków zawodowych, wymienionych w art. 1 niniejszej ustawy, otwierają swe filje na terenie działania austrjackiej ustawy o stowarzyszeniach z dn. 15 listopada 1867 r. oraz na terenie działania rozporządzenia komisarza generalnego Ziem Wschodnich z dnia 25 września 1919 r. (Dz. Urz. Z. C. Z. W. № 25, poz. 255) w ten sposób, że o otwarciu filji zawiadamiają w przeciągu 3 dni inspektorat pracy oraz starostwo, w których obrąbie leży miejscowość, w której filje otwarto, przy równoczesnem przedłożeniu statutu związku centralnego oraz podaniu siedziby filji i każdorazowego jej kierownictwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Filje, zarejestrowane w myśl art. 2 niniejszej ustawy, podlegają odnośnie do swej działalności wszystkim przepisom pozostałych paragrafów austrjackiej ustawy o stowarzyszeniach z dnia 15 listopada 1867 r. (austr. Dz. Ust. № 134), względnie rozporządzenia komisarza generalnego Ziem Wschodnich z dnia 25 września 1919 r. (Dz. Urz. Z. C. Z. W. № 25, poz. 255), niewymienionych w art. 1 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Pracy i Opieki Społecznej w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

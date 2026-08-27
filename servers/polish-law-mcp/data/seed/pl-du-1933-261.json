@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-261",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1933 r. o zmianie ustawy z dnia 9 października 1923 r. o uposażeniu funkcjonarjuszów państwowych i wojska.",
+  "title_en": "",
+  "short_name": "pl-du-1933-261",
+  "status": "in_force",
+  "issued_date": "1933-03-17",
+  "in_force_date": "1933-05-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/261",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 9 października 1923 r. o uposażeniu funkcjonarjuszów państwowych i wojska (Dz. U. R. P. Nr. 116, poz. 924) ulega następującym zmianom: 1) Art. 74 otrzymuje następujące brzmienie: „ Art. 74. Wojskowi, powołani do ćwiczeń lub do służby wojskowej zarządzeniem Rady Ministrów, otrzymują: 1) oficerowie: a) za każdy dzień służby od dnia stawienia się do służby do dnia zwolnienia - dzienną płacę, wynoszącą 1/30 część uposażenia samotnego oficera zawodowego danego stopnia, przyczem bierze się pod uwagę pierwszy szczebel uposażenia danej grupy; b) na czas ćwiczeń lub pełnienia służby - wyekwipowanie w naturze, pozostające własnością Skarbu Państwa; Minister Spraw Wojskowych jednak władny jest określić w porozumieniu z Ministrem Skarbu, jakie przedmioty umundurowania i na jakich warunkach mogą być oddawane oficerom na własność; c) w przypadkach pełnienia służby w miejscowościach poza miejscem swego zamieszkania - zakwaterowanie przejściowe w naturze lub ekwiwalent pieniężny; 2) szeregowi: a) dzienny żołd posiadanego stopnia, obliczony w stosunku 1/10 żołdu na dekadę podoficerów lub szeregowców, pełniących obowiązkową służbę wojskową, za każdy dzień służby od dnia przyjęcia w stan wyżywienia wojska; b) na czas ćwiczeń lub pełnienia służby wyekwipowanie, pozostające własnością Skarbu Państwa; c) wyżywienie oraz kwaterę narówni z podoficerami lub szeregowcami, pełniącymi obowiązkową służbę wojskową ” . 2) Art. 78 ust. 3 otrzymuje następujące brzmienie: „ Postanowienia niniejszego artykułu odnoszą się również do oficerów, podoficerów i szeregowców zawodowych, pełniących służbę na obszarze wojennym lub przejściowo poza swoim garnizonem z tem zastrzeżeniem, że na czas pobierania należności, określonych niniejszym artykułem, wstrzymuje się wypłatę dodatku na mieszkanie, opartego na innej podstawie prawnej ” . 3) Po art. 118 wstawia się nowy art. 118-a o następującem brzmieniu: „ Art. 118-a. Oficerowie, powołani do ćwiczeń lub zarządzeniem Rady Ministrów do służby wojskowej, którzy otrzymali jednorazową kwotę na wyekwipowanie w wymiarze, przewidzianym w art. 91, poz. 1, lub wyekwipowanie w naturze w myśl art. 91 ustęp ostatni, korzystają z prawa otrzymania wyekwipowania w naturze w myśl art. 74 pkt. 1 lit. b) po odbyciu 24 tygodni ćwiczeń wojskowych w stopniu oficerskim, przyczem pełnienie przez odpowiedni okres czasu służby na podstawie powołania do służby wojskowej zarządzeniem Rady Ministrów traktuje się narówni z odbyciem ćwiczeń wojskowych. Do oficerów rezerwy jednak, którzy w myśl art. 91 ustęp ostatni otrzymali dodatek, przewidziany w art. 91, poz. 1, w naturze, może być zastosowany przepis art. 74, pkt. 1, lit. b) również i przed odbyciem 24 tygodni ćwiczeń pod warunkiem zwrotu Skarbowi Państwa otrzymanego przez nich wyekwipowania ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów oraz Ministrom Skarbu i Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

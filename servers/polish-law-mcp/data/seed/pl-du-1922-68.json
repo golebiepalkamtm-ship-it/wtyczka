@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1922-68",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 stycznia 1922 r. w przedmiocie upoważnienia osób, uprawiających działki ziemi na cudzych gruntach na obszarze województw: nowogródzkiego, poleskiego i wołyńskiego oraz powiatów: grodzieńskiego, wołkowyskiego i białowieskiego województwa białostockiego, do czasowego użytkowania uprawianych przez nich gruntów i zajętych pomieszczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1922-68",
+  "status": "in_force",
+  "issued_date": "1922-01-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/68",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby, które na obszarze województw: nowogródzkiego, poleskiego i wołyńskiego oraz powiatów: grodzieńskiego, wołkowyskiego i białowieskiego województwa białostockiego użytkują w chwili wejścia w życie niniejszej ustawy, bez zawartej umowy z właścicielem lub osobą, prawa jego przedstawiającą, działki cudzych gruntów, znajdujące się poza obrębem miast, mają prawo użytkowania tych działek do 31 października 1922 r. dla gruntów pod okopowiznami i łąk, oraz do 31 sierpnia 1922 r. dla wszelkich innych gruntów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osoby, wymienione w art. 1 niniejszej ustawy, mają prawo pozostawania do 31 października 1922 r. w dotychczas zajmowanych przez siebie cudzych pomieszczeniach, znajdujących się poza obrębem miast na wymienionym w art. 1 obszarze, jednakże tylko w rozmiarach niezbędnie potrzebnych dla siebie, swej rodziny, własnego inwentarza i zebranych własnych plonów, o ile dzierżyciele ci nie posiadają - własnych pomieszczeń, lub o ile właściciel nie odda w ich użytkowanie innych odpowiednich pomieszczeń. Właściciele zabudowań, użytkowanych przez osoby; wymienione w art. 1 niniejszej ustawy, winni w każdym razie otrzymać niezbędne pomieszczenie we własnych zabudowaniach dla siebie, swej rodziny, własnego inwentarza i własnych plonów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Całkowite wynagrodzenie dla właściciela za grunty i pomieszczenia, użytkowane przez osoby, wymienione w art. 1 niniejszej ustawy, ma być płatne w gotówce i nie może przekraczać za cały czas ubiegły do 31 października 1921 r. za jedną dziesięcinę użytkowanego gruntu, niezależnie od rodzaju i czasu użytkowania, sumy, równającej się przeciętnej cenie rynkowej w danej miejscowości w grudniu 1921 r. za 80 kg. żyta, zaś za czas od 1 listopada 1921 r. do 31 października 1922 r. - sumy, równającej się przeciętnej cenie rynkowej w danej miejscowości w sierpniu 1922 r. za 100 kg. żyta. Wszelkie dokonane na rzecz właściciela świadczenia będą zaliczone na poczet sum, przypadających właścicielowi zgodnie z ustępem pierwszym niniejszego artykułu, przyczem świadczenia, dokonane w naturze, będą od należności, określonej w kilogramach żyta, potrącone, świadczenia zaś, dokonane w gotówce, będą zaliczone i potrącone w takiej ilości zboża, jaką według cen, istniejących w momencie dokonanej wpłaty, reprezentowały. O ile umówione między osobami, wymienionemi w art. 1 niniejszej ustawy, a właścicielami wynagrodzenie za użytkowanie gruntów i pomieszczeń przekracza granice, określone w artykule 3, umowa taka jest nieważna w części, dotyczącej wynagrodzenia. Powracający do swych siedzib po 1 listopada 1920 r. właściciele gospodarstw o obszarze, nieprzekraczającym 40 ha ogólnej przestrzeni, mają prawo do otrzymania przypadającego im wynagrodzenia w naturze."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie wyroków o eksmisję w sprawach, objętych działaniem niniejszej ustawy, ulega zawieszeniu do terminów, wskazanych w art. 1 i 2."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przepisy ustawy niniejszej nie mają zastosowania do osób: 1) które po 1 stycznia 1921 r. rozpoczęły uprawę działek, lub zajęły pomieszczenia wbrew wyraźnej woli obecnego na miejscu właściciela, bądź osoby, prawa jego przedstawiającej, 2) które dewastują zajmowane budynki, sady i urządzenia gospodarcze lub eksploatują wnętrze ziemi bez osobnego uprawnienia, 3) które po wejściu w życie tej ustawy dopuszczą się względem właścicieli, lub osób, ich prawa przedstawiających, czynów, karanych przez prawo karne, i 4) które nie zapłacą do 1 kwietnia 1922 r. wynagrodzenia, określonego w art. 3 niniejszej ustawy, za czas użytkowania do 31 października 1921 r."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wszelkie spory, wynikające ze stosowania niniejszej ustawy, będą rozstrzygane w pierwszej instancji przez właściwe sądy pokoju."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Rolnictwa i Dóbr Państwowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1933-138",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 marca 1933 r. o przekazaniu na własność Stowarzyszenia \"Polski Czerwony Krzyż\" niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1933-138",
+  "status": "in_force",
+  "issued_date": "1933-03-08",
+  "in_force_date": "1933-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/138",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na bezpłatne przekazanie na własność Stowarzyszeniu „Polski Czerwony Krzyż” następujących nieruchomości b. „Rosyjskiego Towarzystwa Czerwonego Krzyża”, przejętych na własność Skarbu Państwa w myśl przepisów ust. 1 art. 11 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o likwidacji mienia byłych rosyjskich osób prawnych (Dz. U. R. P. Nr. 38, poz. 377): a) nieruchomości, położonej w m. st. Warszawie, przy ul. Smolnej, Solec i Czerwonego Krzyża, oznaczonej Nr. hip. 2909, o powierzchni 30.675,52 m 2 ; b) nieruchomości, położonej w m. st. Warszawie przy ul. Terespolskiej, oznaczonej nazwą hipot. „Dobra Ziemskie Kamionek B”, o powierzchni 22.728,55 m 2 ; c) nieruchomości, położonej w m. Białymstoku przy ul. Warszawskiej, oznaczonej Nr. hip. 1631, o powierzchni 3.862 m 2 ; d) nieruchomości, położonej w m. Grodnie przy ul. Pionierskiej, oznaczonej Nr, hip. 3819, o powierzchni 2.230 m 2"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Stowarzyszenie „Polski Czerwony Krzyż” przejmuje nieruchomości, wyliczone w artykule poprzednim pod literami a), b), c), d), w takim Stanie faktycznym i prawnym, w jakim się znajdują w dniu ich przekazania temuż Stowarzyszeniu przez Skarb Państwa. (2) Stowarzyszenie „Polski Czerwony Krzyż” przejmuje na siebie odpowiedzialność Skarbu Państwa z tytułu przekazanego mienia, przewidzianą w ust. 5 art. 11 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o likwidacji mienia byłych rosyjskich osób prawnych (Dz. U. R. P. Nr. 38, poz. 377) w brzmieniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. (Dz. U. R. P. Nr. 91, poz. 770). Przeniesienie tytułu własności nieruchomości, wyliczonych w art. 1 niniejszej ustawy, na rzecz Stowarzyszenia „Polski Czerwony Krzyż” jest wolne od wszelkich opłat i podatków."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

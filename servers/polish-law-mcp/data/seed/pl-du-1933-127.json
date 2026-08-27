@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1933-127",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 1933 r. o dostawach i robotach na rzecz Skarbu Państwa, samorządu oraz instytucyj prawa publicznego.",
+  "title_en": "",
+  "short_name": "pl-du-1933-127",
+  "status": "repealed",
+  "issued_date": "1933-02-15",
+  "in_force_date": "1933-03-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/127",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Rada Ministrów ustala w drodze rozporządzeń sposoby i warunki udzielania zamówień na dostawy i roboty oraz przyjmowania dokonanych dostaw i robót dla Skarbu Państwa, samorządu terytorjalnego, instytucyj prawa publicznego, zakładów i przedsiębiorstw państwowych, tudzież dla zakładów i funduszów, przez Państwo zarządzanych, z wyłączeniem monopoli państwowych i tych państwowych przedsiębiorstw przemysłowych, handlowych i górniczych, które zostały wydzielone z ogólnej administracji państwowej i uznane za przedsiębiorstwa, posiadające samoistną osobowość prawną, w drodze rozporządzeń Rady Ministrów, wydanych na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1927 r. o wydzielaniu z administracji państwowej przedsiębiorstw państwowych przemysłowych, handlowych i górniczych oraz o ich komercjalizacji (Dz. U. R. P. Nr. 25, poz. 195). (2) Rada Ministrów wyda w drodze rozporządzeń specjalne przepisy, normujące warunki dostaw i robót w monopolach i przedsiębiorstwach państwowych, posiadających samoistną osobowość prawną. (3) W granicach upoważnień, ustalonych rozporządzeniami Rady Ministrów, poszczególni ministrowie w porozumieniu z Ministrami Przemysłu i Handlu oraz Skarbu będą mogli wydawać szczegółowe przepisy o dostawach i robotach dla podległych im działów administracji państwowej oraz instytucyj, będących pod ich nadzorem. Dla administracji ogólnej i samorządu terytorjalnego przepisy takie wydawać może Minister Spraw Wewnętrznych w porozumieniu z Ministrami Przemysłu i Handlu oraz Skarbu, tudzież z innymi zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Dostawy i roboty, objęte art. 1 niniejszej ustawy, powinny być z reguły wykonywane przez przedsiębiorstwa krajowe, mające siedziby w kraju, albo przez przedsiębiorstwa zagraniczne, posiadające w odpowiedniej wysokości wydzielony kapitał w kraju, dopuszczone do działalności i zarejestrowane w kraju. (2) Dostawy i roboty powinny być wykonywane przy użyciu sił krajowych i surowców oraz wszelkich wyrobów pochodzenia krajowego, względnie, o ile ich produkcja w kraju jest niewystarczająca, z użyciem tych surowców i wyrobów w takim stopniu, aby produkcja ich została całkowicie wykorzystana. Właściwi ministrowie w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych ustalą w drodze rozporządzeń obowiązek wykonywania zamówień tylko z surowców i wszelkich wyrobów krajowego pochodzenia, względnie wysokość obowiązującej domieszki surowców krajowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wszelkie dotychczasowe przepisy prawne o dostawach i robotach dla Skarbu Państwa, samorządu terytorjalnego, instytucyj prawa publicznego, zakładów i przedsiębiorstw państwowych, nie wydzielonych z ogólnej administracji państwowej na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1927 r. o wydzielaniu z administracji państwowej przedsiębiorstw państwowych przemysłowych, handlowych i górniczych oraz o ich komercjalizacji (Dz. U. R. P. Nr. 25, poz. 195), tudzież dla zakładów i funduszów, przez Państwo zarządzanych, - tracą moc obowiązującą w terminie, ustalonym w rozporządzeniu Rady Ministrów, wydanem na podstawie art. 1 ust. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu i innym ministrom każdemu we własnym zakresie działania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

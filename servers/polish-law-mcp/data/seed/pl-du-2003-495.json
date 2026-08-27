@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2003-495",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 2003 r. o zmianie ustawy o restrukturyzacji hutnictwa żelaza i stali",
+  "title_en": "",
+  "short_name": "pl-du-2003-495",
+  "status": "amended",
+  "issued_date": "2003-02-12",
+  "in_force_date": "2003-04-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/495",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali ( Dz. U. Nr 111, poz. 1196 ) wprowadza się następujące zmiany: 1) w art. 7 dodaje się ust. 7 w brzmieniu: „ 7. Z dniem ogłoszenia upadłości huty albo PHS S.A. minister właściwy do spraw gospodarki stwierdza wygaśnięcie decyzji, o której mowa w ust. 1. Do ogłoszenia o stwierdzeniu wygaśnięcia decyzji ust. 6 stosuje się odpowiednio. ” ; 2) w art. 13 w ust. 4 wyrazy „ministra właściwego do spraw gospodarki” zastępuje się wyrazami „ministra właściwego do spraw Skarbu Państwa” ; 3) w art. 15 ust. 4 otrzymuje brzmienie: „ 4. Pracownikowi huty albo PHS S.A. korzystającemu z uprawnień, o których mowa w ust. 1 pkt 2 i 3, nie przysługuje odprawa pieniężna, o której mowa w art. 8 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy ( Dz. U. z 2002 r. Nr 112, poz. 980 , Nr 135, poz. 1146 i Nr 200, poz. 1679 ) . ” ; 4) w art. 18 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Zgoda, o której mowa w ust. 2, nie jest wymagana w przypadku zatrudnienia prezesa zarządu oraz innych członków zarządu. ” ; 5) uchyla się art. 21; 6) w art. 22 uchyla się ust. 2; 7) w art. 24 wyrazy „Minister właściwy do spraw gospodarki” zastępuje się wyrazami „Minister właściwy do spraw Skarbu Państwa” ; 8) w art. 42: a) skreśla się wyrazy „i obowiązują do 31 grudnia 2003 r.” , a pozostałą treść oznacza się jako ust. 1, b) dodaje się ust. 2 w brzmieniu: „ 2. Przepisy art. 14-19 obowiązują do dnia 31 grudnia 2006 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Z dniem wejścia w życie ustawy uprawnienia Skarbu Państwa jako akcjonariusza PHS S.A. przejmuje minister właściwy do spraw Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\",\"children\": [{\"id\": \"arti_1-pint_8-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_8-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

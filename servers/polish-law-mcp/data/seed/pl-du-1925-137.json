@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-137",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 lutego 1925 r. w przedmiocie uzupełnienia ustawy z dnia 1 czerwca 1922 r. o monopolu tytoniowym.",
+  "title_en": "",
+  "short_name": "pl-du-1925-137",
+  "status": "in_force",
+  "issued_date": "1925-02-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/137",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 60 ustawy z dnia 1 czerwca 1922 r. o monopolu tytoniowym (Dz. U. R. P. № 47, poz. 409) dodaje się nowy ustęp następującej treści: „ Postanowienia artykułu niniejszego dotyczą również pracowników biurowych, którzy pracowali w wykupionych przez Państwo fabrykach i zakładach przynajmniej 6 miesięcy bez przerwy bezpośrednio przed wykupieniem i których pobory w ostatnim miesiącu przed wykupieniem nie przekraczały 600 zł. miesięcznie ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie wydatków, wynikających z art. 1 niniejszej ustawy, mają służyć dochody z monopolu tytoniowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

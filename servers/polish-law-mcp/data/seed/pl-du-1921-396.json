@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1921-396",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lipca 1921 r. o uprawnieniach do wykonywania czynności felczerskich.",
+  "title_en": "",
+  "short_name": "pl-du-1921-396",
+  "status": "repealed",
+  "issued_date": "1921-07-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/396",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Prawo wykonywania czynności felczerskich oraz tytuł felczera przysługuje tylko obywatelom Państwa Polskiego, którzy nabyli to prawo przed ogłoszeniem niniejszej ustawy na mocy uprzednio obowiązujących przepisów i zostaną zarejestrowani przez odnośne urzędy Ministerstwa Zdrowia Publicznego. Kontrolowanie uprawnień do wykonywania czynności felczerskich należy do Ministra Zdrowia Publicznego, w przypadkach wątpliwych ostatecznie rozstrzygać będzie Minister Zdrowia Publicznego po wysłuchaniu opinji odnośnych organizacji felczerskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Felczerzy uprawnieni są: a) do samodzielnego udzielania pomocy lekarskiej do przybycia lekarza, b) do pomocy leczniczej w dziedzinie pielęgniarstwa i ratownictwa. c) do szczepienia ospy i wydawania świadectw o wyniku, d) do niesienia pomocy w chorobach szerzących się nagminnie do przybycia lekarza, e) do wykonywania czynności chirurgicznych w zakresie małej chirurgji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Udzielanie pomocy leczniczej, nie wchodzącej w zakres uprawnień, ustalonych w art. 2, jest dozwolone felczerom nie inaczej, jak z polecenia, względnie za zgodą i pod kierunkiem oraz odpowiedzialnością lekarza."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Felczerzy są upoważnieni do zapisywania leków podług farmakopei, z wyjątkiem objętych lit. A, w przypadkach samodzielnego udzielania pomocy leczniczej w granicach, ustalonych w art. 2."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonywanie czynności felczerskich dopuszcza się wyłącznie na obszarze województw: warszawskiego, łódzkiego, kieleckiego, lubelskiego, białostockiego, wołyńskiego, poleskiego 1 nowogródzkiego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Osoby, winne przekroczenia przepisów niniejszej ustawy, lub rozporządzeń, wydanych na jej podstawie, będą pociągane do odpowiedzialności na mocy ogólnych postanowień karnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Z wejściem w życie niniejszej ustawy tracą moc obowiązującą wszystkie dotychczasowe przepisy, dotyczące spraw, przez nią unormowanych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Likwidację istniejących zgromadzeń felczerskich w czasie, kiedy liczba ich członków zmniejszy się do takiego stopnia, że zgromadzenia te będą podlegać rozwiązaniu w myśl art. 4 ustawy o zgromadzeniach felczerskich z dnia 23 września 1842 r., unormuje osobne rozporządzenie Ministra Zdrowia Publicznego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Zdrowia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

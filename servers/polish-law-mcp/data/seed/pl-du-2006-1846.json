@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-1846",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 2006 r. zmieniająca ustawę o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych",
+  "title_en": "",
+  "short_name": "pl-du-2006-1846",
+  "status": "in_force",
+  "issued_date": "2006-12-14",
+  "in_force_date": "2006-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1846",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 1 lipca 2005 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych oraz ustawy o systemie ubezpieczeń społecznych ( Dz. U. Nr 169, poz. 1412 oraz z 2006 r. Nr 90, poz. 626 ) w art. 4 pkt 3 otrzymuje brzmienie: „ 3) art. 2 pkt 1 lit. b i c, które wchodzą w życie z dniem 1 lipca 2007 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z mocą od dnia 31 grudnia 2006 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

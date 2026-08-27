@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-415",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 maja 1925 r. w przedmiocie odszkodowania dla robotników i pracowników przedsiębiorstw spirytusowych, którzy z powodu wprowadzenia monopolu spirytusowego stracili zajęcie.",
+  "title_en": "",
+  "short_name": "pl-du-1925-415",
+  "status": "in_force",
+  "issued_date": "1925-05-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/415",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 3 ustawy z dnia 31 lipca 1924 r. o monopolu spirytusowym (Dz. U. R. P. № 78, poz. 756) otrzymuje w ustępie 4 następujący dodatek: „ O ile Państwowy Monopol Spirytusowy nie zatrudni wymienionych urzędników i robotników, natenczas winien im wypłacić odszkodowanie w wysokości sześciomiesięcznego normalnego zarobku, otrzymywanego w sześciu ostatnich miesiącach przed zamknięciem zakładu. Do odszkodowania uprawnieni są tylko ci urzędnicy i robotnicy, którzy: a) pracowali w przedsiębiorstwach przemysłu spirytusowego co najmniej przez jeden rok, bezpośrednio przed zamknięciem przedsiębiorstwa; b) nie pobierali ogółem więcej, niż 600 zł. miesięcznie; c) są obywatelami polskimi. Nie mają prawa do odszkodowania ci urzędnicy i robotnicy, którzy nie przyjęli odpowiedniej pracy, ofiarowanej im w biurach lub zakładach Państwowego Monopolu Spirytusowego w dotychczasowem miejscu zamieszkania ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

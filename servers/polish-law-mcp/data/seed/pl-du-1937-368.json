@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1937-368",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1937 r. o dodatkowych kredytach na rok 1936/37.",
+  "title_en": "",
+  "short_name": "pl-du-1937-368",
+  "status": "in_force",
+  "issued_date": "1937-06-22",
+  "in_force_date": "1937-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/368",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki zwyczajne, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 (Dz. U. R. P. Nr 23, poz. 185), zwiększa się w grupie A. Administracja o następujące kwoty: 1) w części 8 Ministerstwo Skarbu w dziale 2 „Władze i urzędy skarbowe” w § 1 „Płace” o ... 500.000 zł 2) w części 12 Ministerstwo Rolnictwa i Reform Rolnych w dziale 1 „Zarząd centralny” w nowoutworzonym § 11 aaa„Państwowy Instytut Kultury Wsi” o ... 45.000 zł 3) w części 16 „Emerytury i zaopatrzenia” w dziale 1 „Emerytury” w § 1 „Emerytury cywilne” o 1.500.000 zł w § 2 „Emerytury wojskowe” o 700.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 (Dz. U. R. P. Nr 23, poz. 185), zwiększa się wpłatę do Skarbu w grupie C. Monopole w części 8 Ministerstwo Skarbu, w dziale 16 „Monopol spirytusowy” o sumę 2.745.000 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Rozchody, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 30 marca 1936 r. na okres od 1 kwietnia 1936 do 31 marca 1937 (Dz. U. R. P. Nr 23, poz. 185), zwiększa się w grupie B. Przedsiębiorstwa i Zakłady: w części 15 Ministerstwo Poczt i Telegrafów w rozchodach zwyczajnych w dziale 2 „Polska Poczta, Telegraf i Telefon” w rozdziale 2 „Urzędy pocztowe” w § 1 „Płace” o ... 1.190.000 zł w rozdziale 3 „Urzędy telefoniczno-telegraficzne” w § 12 „Koszty utrzymania ruchu” o ... 45.000 zł w rozchodach nadzwyczajnych w dziale 2 „Polska Poczta, Telegraf i Telefon” w § 19 „Inwestycje” o ... 2.440.000 zł. (2) Na pokrycie rozchodów, wymienionych w ustępie poprzedzającym, służą wpływy zwyczajne przedsiębiorstwa „Polska Poczta, Telegraf i Telefon”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia 1 kwietnia 1936 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

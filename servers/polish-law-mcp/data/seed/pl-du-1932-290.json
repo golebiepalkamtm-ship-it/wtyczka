@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-290",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. w sprawie zmiany statutu państwowej Rady Kolejowej, stanowiącego część integralną ustawy z dnia 15 kwietnia 1921 r. w sprawie powołania Państwowej Rady Kolejowej.",
+  "title_en": "",
+  "short_name": "pl-du-1932-290",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/290",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W statucie Państwowej Rady Kolejowej, stanowiącym integralną część ustawy z dnia 15 kwietnia 1921 r. w sprawie powołania Państwowej Rady Kolejowej (Dz. U. R. P. Nr 38, poz. 226), zmienionym ustawą z dnia 12 czerwca 1924 r. (Dz. U. R. P. Nr 59, poz- 595) i rozporządzeniem Prezydenta Rzeczypospolitej z dnia 6 lutego 1928 r. (Dz. U. R. P. Nr 15, poz. 108), wprowadza się następujące zmiany: (1) Wstępne zdanie art. 2 otrzymuje brzmienie następujące: „ Rozważaniu i opinjowaniu Państwowej Rady Kolejowej podlegają sprawy, wnoszone pod jej obrady przez Ministra Komunikacji, tak z jego inicjatywy, jak i na wniosek członków Państwowej Rady Kolejowej, a dotyczące dziedzin następujących: ” (2) Skreśla się pkt. 4 ust. 1 art. 3. (3) Punkty 2), 3) i 5) ust. 1 art. 3 otrzymują następujące brzmienie: „ 2) z przedstawicieli większych miast w liczbie co najmniej 6 po jednym z każdego, z wyboru rad miejskich, delegata Związku Miast Polskich, z przedstawicieli powiatowych związków komunalnych, po jednym z każdego województwa, delegowanych przez radę wojewódzką (sejmik wojewódzki), oraz z przedstawiciela Związków Powiatów Rzeczypospolitej; 3) z przedstawicieli organizacyj gospodarczo-społecznych w liczbie co najmniej 40 z wyboru tychże organizacyj; 4) z fachowców wybitnie znanych na polu kolejnictwa, mianowanych przez Ministra Komunikacji ” . (4) Ust. 3 art. 3 otrzymuje brzmienie: „Liczbę i wykaz organizacyj, o których mowa” w pkt, 3 ust. 1 niniejszego artykułu, ustala Minister Komunikacji w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Rolnictwa; liczbę i wykaz miast, o których mowa w pkt. 2 ust. 1 niniejszego artykułu, ustala Minister Komunikacji w porozumieniu z Ministrem Spraw Wewnętrznych; liczbę fachowców, o których mowa w pkt. 4) ust. 1 niniejszego artykułu, ustala Minister Komunikacji”. (5) W ust. 4 art. 3 cyfrę „5” zastępuje się cyfrą „4”. (6) Art. 8 otrzymuje następujące brzmienie: „Porządek obrad i biegu spraw Państwowej Rady Kolejowej i stałych komitetów, jak również zakres działalności i kompetencji ostatnich ustala regulamin, wydany przez Ministra Komunikacji, po zasięgnięciu opinji Rady. Niektóre sprawy wedle swego uznania Państwowa Rada Kolejowa może przekazywać stałym komitetom do rozważania i zaopinjowania ostatecznego”. (7) Art. 9 i 10 pozostaje w brzmieniu dotychczasowem."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji. Upoważnia się Ministra Komunikacji do ogłoszenia w drodze obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu ustawy z dnia 15 kwietnia 1921 r. w sprawie powołania Państwowej Rady Kolejowej (Dz. U. R. P. Nr 38, poz. 226) z uwzględnieniem zmian, wprowadzonych późniejszemi przepisami ustawowemi oraz niniejszą ustawą, jak również z zastąpieniem nazwy władz, wymienionych w powołanych przepisach, określeniami obecnie obowiązującemi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_1-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_1-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"},{\"id\": \"arti_1-pass_(6\",\"symbol\": \"pass_(6\",\"type\": \"pass\",\"name\": \"(6\",\"title\": \"(6)\"},{\"id\": \"arti_1-pass_(7\",\"symbol\": \"pass_(7\",\"type\": \"pass\",\"name\": \"(7\",\"title\": \"(7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

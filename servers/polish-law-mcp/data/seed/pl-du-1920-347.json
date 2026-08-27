@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-347",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 lipca 1920 r. w przedmiocie udzielenia Rządowi pełnomocnictw do wydawania rozporządzeń w sprawie regulowania obrotu pieniężnego z krajami zagranicznemi.",
+  "title_en": "",
+  "short_name": "pl-du-1920-347",
+  "status": "in_force",
+  "issued_date": "1920-07-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/347",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Udziela się Rządowi na przeciąg jednego roku pełnomocnictwa do wydawania rozporządzeń z mocą ustawy, mających na celu regulację obrotu pieniężnego z krajami zagranicznemi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rozporządzenia rządowe, wymienione w art. 1, dotyczyć mogą porządku ustalenia powszechnie obowiązującej skali przerachowania walut zagranicznych na marki polskie, warunków nabywania, posiadania, przechowywania i gromadzenia walut i dewiz zagranicznych, obrotu niemi oraz przewozu ich przez granicę, obrotu zagranicznego marek polskich, jakoteż organizacji nadzoru nad całokształtem obrotu pieniężnego z krajami zagranicznemi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Osoby, winne wykroczenia przeciwko postanowieniom i zakazom, zawartym w rozporządzeniach rządowych, wymienionych w art. 1 i 2, oprócz konfiskaty sum pieniężnych, pozostających w związku z wykroczeniem, ulegają karze: a) na obszarze b. dzielnic rosyjskiej i pruskiej - więzienia do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar; b) na obszarze b. dzielnicy austrjackiej - aresztu lub aresztu ścisłego do jednego roku i grzywny do stu tysięcy marek, lub jednej z tych kar. Takim samym karom ulegną osoby, winne usiłowania tych wykroczeń, lub udziału w nich."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Osoby, skazane na karę w myśl art. 3, można wyrokiem właściwego sądu (art. 5) pozbawić na przeciąg czasu do lat trzech prawa prowadzenia handlu lub zarządzania przedsiębiorstwem albo też zajmowania się pośrednictwem handlowem."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Do orzekania kar w zakresie, przewidzianym w art. 3 i 4, powołuje sie: a) na obszarze b. dzielnicy rosyjskiej sądy pokoju, b) na obszarze b. dzielnic austrjackiej i pruskiej sądy powiatowe."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości, na obszarze zaś b. dzielnicy pruskiej - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrami Skarbu i Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

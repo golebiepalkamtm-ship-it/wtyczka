@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1991-443",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 października 1991 r. o zmianie ustaw - Prawo o ustroju sądów powszechnych, o Sądzie Najwyższym, o prokuraturze, o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe.",
+  "title_en": "",
+  "short_name": "pl-du-1991-443",
+  "status": "in_force",
+  "issued_date": "1991-10-16",
+  "in_force_date": "1991-11-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/443",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 czerwca 1985 r. - Prawo o ustroju sądów powszechnych ( Dz. U. z 1990 r. Nr 23, poz. 138 , Nr 34, poz. 198 , Nr 53, poz. 306 , Nr 89, poz. 517 oraz z 1991 r. Nr 55, poz. 234 ) wprowadza się następujące zmiany: 1) w art. 71 dodaje się nowy § 2 w brzmieniu: „ § 2. Przez przeciętne wynagrodzenie w sferze produkcji materialnej, o którym mowa w § 1, rozumie się przeciętne wynagrodzenie w sferze produkcji materialnej w gospodarce narodowej bez wypłat z zysku, ogłaszane co kwartał przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 7 dnia roboczego drugiego miesiąca każdego kwartału za kwartał poprzedni. ” ; 2) dotychczasowy § 2 otrzymuje oznaczenie § 3."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 20 września 1984 r. o Sądzie Najwyższym ( Dz. U. z 1990 r. Nr 26, poz. 153 i Nr 53, poz. 306 oraz z 1991 r. Nr 83, poz. 371 ) wprowadza się następujące zmiany: 1) w art. 45 dodaje się nowy ust. 2 w brzmieniu. „ 2. Przez przeciętne wynagrodzenie w sferze produkcji materialnej, o którym mowa w ust. 1, rozumie się przeciętne wynagrodzenie w sferze produkcji materialnej w gospodarce narodowej bez wypłat z zysku, ogłaszane co kwartał przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 7 dnia roboczego drugiego miesiąca każdego kwartału za kwartał poprzedni. ” ; 2) dotychczasowy ust. 2 otrzymuje oznaczenie ust. 3."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 20 czerwca 1985 r. o prokuraturze ( Dz. U. z 1991 r. Nr 25, poz. 103 i Nr 55, poz. 234 ) wprowadza się następujące zmiany: 1) w art. 62 dodaje się nowy ust. 2 w brzmieniu: „ 2. Przez przeciętne wynagrodzenie w sferze produkcji materialnej, o którym mowa w ust. 1, rozumie się przeciętne wynagrodzenie w sferze produkcji materialnej w gospodarce narodowej bez wypłat z zysku, ogłaszane co kwartał przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 7 dnia roboczego drugiego miesiąca każdego kwartału za kwartał poprzedni. ” ; 2) dotychczasowy ust. 2 otrzymuje oznaczenie ust. 3."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ( Dz. U. Nr 20, poz. 101 , z 1982 r. Nr 31, poz. 214 , z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262 , z 1987 r. Nr 21, poz. 123 oraz z 1989 r. Nr 34, poz. 178 ) wprowadza się następujące zmiany: 1) dodaje się nowy art. 3a w brzmieniu: „ Art. 3a. Przez przeciętne wynagrodzenie w sferze produkcji materialnej, o którym mowa w art. 2a i art. 3 ust. 2, rozumie się przeciętne wynagrodzenie w sferze produkcji materialnej w gospodarce narodowej bez wypłat z zysku, ogłaszane co kwartał przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do 7 dnia roboczego drugiego miesiąca każdego kwartału za kwartał poprzedni. ” ; 2) dotychczasowy art. 3a otrzymuje oznaczenie art. 3b."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

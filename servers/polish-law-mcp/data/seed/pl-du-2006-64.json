@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-64",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o organizacji rynku rybnego i pomocy finansowej w gospodarce rybnej",
+  "title_en": "",
+  "short_name": "pl-du-2006-64",
+  "status": "repealed",
+  "issued_date": "2005-12-16",
+  "in_force_date": "2006-01-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/64",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 stycznia 2004 r. o organizacji rynku rybnego i pomocy finansowej w gospodarce rybnej ( Dz. U. Nr 34, poz. 291 i Nr 96, poz. 959 ) wprowadza się następujące zmiany: 1) art. 8 otrzymuje brzmienie: „ Art. 8. 1. Minister właściwy do spraw rolnictwa: 1) zatwierdza i przyjmuje dokument statystyczny, o którym mowa w art. 4 ust. 1 rozporządzenia Rady (WE) nr 1984/2003 z dnia 8 kwietnia 2003 r. wprowadzającego system w odniesieniu do statystycznego monitorowania handlu tuńczykiem błękitnopłetwym, włócznikiem i opastunem wewnątrz Wspólnoty ( Dz. Urz. UE L 295 z 13.11.2003, str. 1 ; Dz. Urz. UE Polskie wydanie specjalne rozdz. 4, t. 6, str. 51 ) , zwanego dalej „rozporządzeniem 1984/2003”; 2) zatwierdza dokument statystyczny, o którym mowa w art. 5 ust. 1 rozporządzenia 1984/2003 , i przesyła jego kopię państwu członkowskiemu będącemu państwem bandery statku rybackiego; 3) zatwierdza i przyjmuje certyfikat powrotnego wywozu, o którym mowa w art. 6 ust. 1 rozporządzenia 1984/2003 , oraz przesyła jego kopię państwu będącemu państwem bandery statku rybackiego lub państwem wywozu, zgodnie z art. 6 ust. 3 tego rozporządzenia; 4) przekazuje Komisji Europejskiej informacje, o których mowa w art. 5 ust. 4 i art. 8-10 rozporządzenia 1984/2003 ; 5) wydaje formularze dokumentacji połowów, o których mowa w art. 6 rozporządzenia Rady (WE) nr 1035/2001 z dnia 22 maja 2001 r. ustanawiającego system dokumentacji połowów dla Dissostichus spp. ( Dz. Urz. WE L 145 z 31.05.2001, str. 1 ; Dz. Urz. UE Polskie wydanie specjalne rozdz. 11, t. 37, str. 299 ; Dz. Urz. UE L 97 z 15.04.2003, str. 1 ; Dz. Urz. UE Polskie wydanie specjalne rozdz. 11, t. 46, str. 178 ) , zwanego dalej „rozporządzeniem 1035/2001”; 6) przyjmuje informacje, o których mowa w art. 8 ust. 2 lit. d rozporządzenia 1035/2001 ; 7) przekazuje numer potwierdzenia, o którym mowa w art. 9 rozporządzenia 1035/2001 ; 8) przyjmuje dokumenty i kopie dokumentów, o których mowa w art. 10 ust. 3, art. 11 i art. 12 ust. 3 rozporządzenia 1035/2001 ; 9) przekazuje Komisji Europejskiej i innym państwom członkowskim informacje, o których mowa w art. 13 ust. 3 rozporządzenia 1035/2001 ; 10) zatwierdza dokumentację, o której mowa w art. 15 ust. 1 i art. 16 rozporządzenia 1035/2001 ; 11) przekazuje Komisji Europejskiej informacje, o których mowa w art. 15 ust. 3 rozporządzenia 1035/2001 ; 12) przekazuje Sekretariatowi Komisji do Spraw Zachowania Żywych Zasobów Morskich Antarktyki (CCAMLR) i Komisji Europejskiej kopie dokumentów lub dokumentacji połowów, o których mowa w art. 20 rozporządzenia 1035/2001 ; 13) dokonuje notyfikacji, o której mowa w art. 21 rozporządzenia 1035/2001 ; 14) przekazuje Komisji Europejskiej dane, o których mowa w art. 22 rozporządzenia 1035/2001 ; 15) wydaje zatwierdzoną dokumentację połowów, o której mowa w art. 22a rozporządzenia 1035/2001 . 2. Okręgowy inspektor rybołówstwa morskiego: 1) sprawuje nadzór nad przestrzeganiem przepisów Unii Europejskiej w zakresie wprowadzania na rynek produktów rybnych oraz przepisów ustawy w zakresie określonym w art. 5 i 6; 2) kontroluje należyte wypełnianie oraz posiadanie wymaganej dokumentacji połowów w przypadkach, o których mowa w art. 4 i 5 rozporządzenia 1035/2001 ; 3) dokonuje zatwierdzenia dokumentacji połowów, o którym mowa w art. 12 ust. 1 tiret pierwsze rozporządzenia 1035/2001 . ” ; 2) w art. 31 w ust. 1 w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „ 4) będąc do tego zobowiązanym, nie posiada lub nienależycie wypełnia dokumentację połowów dla Dissostichus spp., określoną w art. 3 lit. b rozporządzenia 1035/2001 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

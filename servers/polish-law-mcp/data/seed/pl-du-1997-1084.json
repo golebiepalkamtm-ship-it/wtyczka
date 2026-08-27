@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-1084",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 grudnia 1997 r. o zmianie ustawy - Kodeks celny.",
+  "title_en": "",
+  "short_name": "pl-du-1997-1084",
+  "status": "repealed",
+  "issued_date": "1997-12-12",
+  "in_force_date": "1997-12-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/1084",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 stycznia 1997 r. - Kodeks celny ( Dz. U. Nr 23, poz. 117 , Nr 64, poz. 407 , Nr 121, poz. 770 i Nr 157, poz. 1026 ) art. 262 otrzymuje brzmienie: „ Art. 262. Do postępowania w sprawach celnych stosuje się odpowiednio przepisy działu IV ustawy z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa ( Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083 ) , z uwzględnieniem zmian wynikających z przepisów prawa celnego . ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1998 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

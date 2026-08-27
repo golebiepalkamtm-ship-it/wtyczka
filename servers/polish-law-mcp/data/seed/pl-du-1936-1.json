@@ -1,0 +1,128 @@
+{
+  "id": "pl-du-1936-1",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 stycznia 1936 r. o amnestji.",
+  "title_en": "",
+  "short_name": "pl-du-1936-1",
+  "status": "in_force",
+  "issued_date": "1936-01-02",
+  "in_force_date": "1936-01-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/1",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dla upamiętnienia wprowadzenia w życie ustawy konstytucyjnej z dnia 23 kwietnia 1935 r. udziela się sprawcom i uczestnikom niektórych przestępstw amnestji, na zasadach określonych w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Puszcza się w niepamięć i przebacza spośród przestępstw zwykłych - wszystkie wykroczenia, dokonane przed dniem 11 listopada 1935 r. (2) Puszcza się w niepamięć i przebacza następujące przestępstwa skarbowe, dokonane przed dniem 11 listopada 1935 r.: 1) spośród przestępstw, do których stosuje się przepisy ustawy karnej skarbowej z dnia 18 marca 1932 r. (Dz. U. R. P. Nr. 34, poz. 355): a) przestępstwa porządkowe, b) przestępstwa, polegające na uszczupleniu dochodu skarbowego, jeżeli 'podstawa wymiaru kary nie przekracza kwoty 200 złotych, c) przestępstwa, polegające na naruszeniu zakazu przywozu, wywozu lub przewozu towaru, jeżeli wartość towaru nie przekracza kwoty 500 złotych, d) przestępstwa, za które grozi wyłącznie zasadnicza kara pieniężna do 1000 złotych, e) przestępstwa, określone w ustawie karnej skarbowej - w art. 49 § 2, w art. 57 § 3, jeżeli przestrzeń gruntu nie przenosi dwóch metrów kwadratowych, w art. 60 w związku z art. 57 § 1, w art. 67 § 3, 69, 92 § 1, 96, oraz w art. 114, jeżeli loterję urządzono i prowadzono na cele społeczne, tudzież nabycie sztucznych środków słodzących, przewidziane w art. 9 rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 października 1927 r. (Dz. U. R. P. Nr. 89, poz. 797), jeżeli ilość nabytych środków nie przekracza dwóch gramów; 2) spośród przestępstw, określonych w innych przepisach o daninach publicznych - te, za które grozi wyłącznie kara pieniężna do 1000 złotych, albo kara grzywny do tej wysokości. (3) W sprawach o przestępstwa, określone w ust. (1) i (2), postępowania nie wszczyna się, postępowanie wszczęte podlega umorzeniu, kary zaś, niewykonane w całości lub w części, darowuje się; przepadek przedmiotów i narzędzi przestępstwa można jednak orzec tytułem środka zabezpieczającego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W sprawach o zbrodnie i występki, które dokonane zostały przed dniem 11 listopada 1935 r. oraz należą do właściwości sądów powszechnych i wojskowych: 1) darowuje się niewykonane w całości lub w części kary grzywny, oraz kary pozbawienia wolności, orzeczone w rozmiarze nie powyżej 6 miesięcy; 2) łagodzi się o połowę kary pozbawienia wolności, orzeczone w rozmiarze powyżej 6 miesięcy, lecz nie ponad 3 lata; 3) łagodzi się o jedną trzecią część kary pozbawienia wolności, orzeczone w rozmiarze powyżej 3 lat, lecz nie ponad 5 lat; 4) zamienia się karę śmierci ha karę dożywotniego więzienia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W sprawach o popełnione z pobudek politycznych zbrodnie i występki, które dokonane zostały przed dniem 11 listopada 1935 r. oraz należą do właściwości sądów powszechnych: 1) darowuje się niewykonane w całości lub w części kary pozbawienia wolności, orzeczone w rozmiarze nie powyżej 2 lat; 2) łagodzi się o połowę kary pozbawienia wolności, orzeczone w rozmiarze powyżej 2 lat, lecz nie ponad 5 lat; 3) łagodzi się o jedną trzecią część kary pozbawienia wolności, orzeczone w rozmiarze powyżej 5 lat, lecz nie ponad 10 lat; 4) zamienia się karę śmierci na karę dożywotniego więzienia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) W sprawach o przestępstwa, określone w art. 43 - 48 kodeksu karnego wojskowego i dokonane przed dniem 30 marca 1923 r., darowuje się niewykonane w całości lub w części kary pozbawienia wolności. (2) Nie wszczyna się postępowania, a wszczęte podlega umorzeniu co do przestępstw, wymienionych w ust. (1), jeżeli sprawca w ciągu roku od wejścia w życie niniejszej ustawy znajdzie się w rozporządzeniu władzy celem uregulowania swego stosunku do służby wojskowej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Nie stosuje się amnestji, przewidzianej w art. 2 - 5, do: 1) przestępstw przeciwko głosowaniu w sprawach publicznych (rozdział XX kodeksu karnego); 2) fałszowania pieniędzy, papierów wartościowych, znaków urzędowych i narzędzi mierniczych (rozdział XXVII kodeksu karnego), z wyjątkiem występku, określonego w art. 178 kodeksu karnego, 3) stręczenia do nierządu i innego rodzaju ciągnienia zysku z nierządu drugiej osoby (art. 208 -212 kodeksu karnego); 4) przestępstw, określonych w art. 244 kodeksu karnego oraz w art. 7 i 8 ustawy z dnia 22 czerwca 1923 r. w przedmiocie substancji i przetworów odurzających (Dz. U. R. P. Nr. 72, poz. 559); 5) zniesławień (art. 255 kodeksu karnego), popełnionych w treści druku; 6) przestępstw na szkodę Skarbu Państwa, samorządów, instytucyj prawa publicznego, przedsiębiorstw państwowych i samorządowych, tudzież wszelkich organizacyj, działających z udziałem finansowym Skarbu Państwa, albo korzystających z jego gwarancji lub pomocy finansowej, - jeżeli przestępstwo popełnił umyślnie funkcjonarjusz urzędu państwowego, żołnierz, albo osoba, pozostająca w służbie jednej z powyższych instytucyj; 7) wykroczeń z art. 58 i 59 prawa o wykroczeniach; 8) występków z art. 51 prawa czekowego (Dz. U. R. P. z 1924 r. Nr. 100, poz. 927); 9) przestępstw, określonych w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o rejestrowym zastawie rolniczym (Dz. U. R. P. Nr. 38, poz. 360); 10) przestępstw, określonych w ustawie z dnia 14 marca 1932 r. o rejestrowym zastawie drzewnym (Dz. U. R. P. Nr 31, poz. 317); 11) przestępstw, określonych w art. 47 i 48 prawa o broni, amunicji i materjałach wybuchowych z dnia 27 października 1932 r. (Dz. U. R. P. Nr. 94, poz. 807); 12) zbrodni i występków, określonych w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o niektórych przestępstwach przeciwko bezpieczeństwu Państwa (Dz. U. R. P. Nr. 94, poz. 851); 13) przestępstw skarbowych, z wyjątkiem wymienionych w art. 2 ust. (2) niniejszej ustawy; 14) przestępstw, określonych w art. 103 i 104 ustawy z dnia 23 maja 1924 r. o powszechnym obowiązku wojskowym (Dz. U. R. P. z 1933 r. Nr 60, poz. 455), chyba że sprawca w ciągu roku od wejścia w życie niniejszej ustawy znajdzie się w rozporządzeniu władzy celem uregulowania swego stosunku do służby wojskowej; 15) przestępstw, określonych w art. 105 i 106 ustawy z dnia 23 maja 1924 r. o powszechnym obowiązku wojskowym (Dz. U. R. P. z 1933 r. Nr. 60, poz. 455) oraz w art. 51 i 52 kodeksu karnego wojskowego; 16) przestępstw, określonych w art. 46 i 47 kodeksu karnego wojskowego, z wyjątkiem przypadków, objętych przepisem art. 5 niniejszej ustawy; (1) naruszeń karanych przez władzę przełożoną i dyscyplinarną. (2) Nie stosuje się amnestji, przewidzianej w art. 3 i 4, do osób, które ścigane były listami gończemi spowodu uchylenia się od wykonania prawomocnego wyroku. (3) Nie stosuje się amnestji, przewidzianej w art. 3, w przypadkach powrotu do przestępstwa oraz do przestępców zawodowych lub z nawyknienia (art. 60 kodeksu karnego)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "(1) W sprawach o wymienione poniżej przestępstwa leśne, dokonane przed dniem 11 listopada 1935 r., udziela się amnestji wyłącznie na zasadach następujących: a) darowuje się niewykonane w całości lub w części kary pozbawienia wolności, grzywny i kary pieniężne, orzeczone za przestępstwa z art. 624 - 627 kodeksu karnego 1903 r.; b) darowuje się niewykonane w całości lub w części kary pozbawienia wolności i grzywny, orzeczone za przestępstwa, przewidziane w ustawie o kradzieżach leśnych z 15 kwietnia 1878 r. (Zb. ust. pr., str. 222). (2) Umorzenie sprawy o przestępstwo, określone w ust. (1), może nastąpić tylko za zgodą pokrzywdzonego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) W razie zbiegu przestępstw, podlegających amnestji, sąd stosuje amnestję do kar wymierzonych za zbiegające się przestępstwa, poczem orzeka karę łączną według zasad ogólnych. (2) W razie zbiegu przestępstwa, podlegającego amnestji, z przestępstwem amnestji nie podlegającem, sąd nie stosuje amnestji do poszczególnych zbiegających się przestępstw, lecz może karę łączną złagodzić według słusznego uznania. (3) Jeżeli w przypadku, wymienionym w ust. (1) lub (2), sąd orzekał na podstawie ustawy karnej z 1852 r., o zastosowaniu amnestji rozstrzyga przestępstwo, zagrożone najsurowszą karą. (4) Przepisy ust. (1) i (2) nie wyłączają możności umorzenia postępowania co do poszczególnych zbiegających się przestępstw, które podlegają amnestji."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W razie zajścia warunków do zarządzenia wykonania warunkowo zawieszonej kary, darowanej na mocy niniejszej amnestji, sąd zarządzi utrzymanie w rejestrach karnych wpisu o skazaniu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "(1) Sąd może postępowania nie wszczynać lub postępowanie wszczęte umorzyć, jeżeli według okoliczności danego przypadku należałoby wymierzyć karę w rozmiarze takim, że podlegałaby darowaniu z mocy przepisu art. 3 pkt, 1) lub art. 4 pkt. 1) niniejszej ustawy. (2) Zaniechanie lub umorzenie postępowania, toczącego się z urzędu, nastąpić może tylko na podstawie wniosku prokuratora; w sprawach, należących do właściwości sądów grodzkich, uprawniony do złożenia wniosku jest prokurator okręgowy, w sprawach zaś, należących do właściwości wojskowych sądów rejonowych - oficer sądowy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "(1) Umorzenie postępowania sądowego na podstawie przepisów niniejszej ustawy będzie uchylone, jeżeli osoba, przeciwko której postępowanie toczyło się, oświadczy w terminie zawitym czternastodniowym od zawiadomienia o umorzeniu, że żąda przeprowadzenia postępowania. (2) Przepis ust. (1) nie dotyczy spraw, należących do właściwości władz administracyjnych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "W sprawach, ściganych z oskarżenia prywatnego lub na wniosek, zaniechanie i umorzenie postępowania nastąpić może wtedy tylko, jeżeli oskarżyciel prywatny lub uprawniony do złożenia wniosku nie oświadczy w ciągu dwóch miesięcy od wejścia w życie niniejszej ustawy, że żąda przeprowadzenia postępowania."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "W razie umorzenia postępowania na podstawie przepisów niniejszej ustawy, koszty postępowania ponosi: a) w sprawach toczących się z urzędu - Skarb Państwa, z wyjątkiem kosztów, wymienionych w art. 587 pod lit. h) kodeksu postępowania karnego; b) w sprawach z oskarżenia prywatnego - każda ze stron i Skarb Państwa, w granicach wydatków przez siebie wyłożonych; zaliczkę zwraca się w kwocie, pozostałej po pokryciu kosztów postępowania."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "(1) Przepisy ustawy niniejszej stosuje się do osób, które korzystały z ogólnego lub szczególnego aktu łaski o tyle tylko, o ile poprzedni akt łaski przyznawał osobom tym ulgi w mniejszym rozmiarze. (2) Przepisy ustawy niniejszej stosuje się odpowiednio do przestępstw, które zakwalifikowano według ustaw dawnych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "(1) Amnestję stosuje władza, przed którą toczy się postępowanie, albo władza zarządzająca wykonanie orzeczenia, jeżeli nie zastosowano jej już przy wydaniu orzeczenia. (2) W przypadku, określonym w art. 8 niniejszej ustawy, amnestję stosuje postanowieniem sąd pierwszej instancji, właściwy według zasad ogólnych, jeżeli nie zastosowano jej już przy wydaniu wyroku."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "(1) Na postanowienia sądów powszechnych i uchwały sądów wojskowych co do stosowania amnestji niniejszej służy zażalenie do jednej bezpośrednio wyższej instancji. (2) Rozstrzyganie zarzutów i wątpliwości, powstałych w związku ze stosowaniem niniejszej amnestji przy wykonywaniu wyroków sądów powszechnych i wojskowych, odbywa się według art. 555 kodeksu postępowania karnego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "W postępowaniu przed władzami administracyjnemi stosuje się odpowiednio przepis art. 16 ust. (1) niniejszej ustawy, przyczem zażalenie rozstrzyga ostatecznie władza bezpośrednio przełożona nad władzą, zarządzającą wykonanie orzeczenia."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości i innym ministrom we właściwym im zakresie działania."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\",\"children\": [{\"id\": \"arti_2-pass_(2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pass_(2-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pass_(2-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pass_(2-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-pass_(2-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-pass_(2-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_2-pass_(2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_6-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_6-pass_(1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_6-pass_(1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_6-pass_(1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_6-pass_(1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_6-pass_(1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_6-pass_(1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_6-pass_(1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_6-pass_(1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_6-pass_(1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_6-pass_(1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"arti_6-pass_(1-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"arti_6-pass_(1-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"arti_6-pass_(1-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\"}]},{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_6-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_7-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_7-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_8-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_10-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_11-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_13-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_14-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_15-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_16-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

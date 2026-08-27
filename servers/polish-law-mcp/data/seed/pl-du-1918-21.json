@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1918-21",
+  "type": "statute",
+  "title": "Ustawa tymczasowa o ochronie lokatorów",
+  "title_en": "",
+  "short_name": "pl-du-1918-21",
+  "status": "repealed",
+  "issued_date": "1918-09-04",
+  "in_force_date": "1918-09-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1918/21",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W miastach i osadach Królestwa Polskiego za zasadniczą normę do określenia wysokości komornego za mieszkanie do 4 pokojów włącznie przyjmowana będzie cena najmy w dniu 30 czerwca 1914 roku. Cena najmu, określona w tym terminie w walucie rublowej, obliczana będzie w stosunku 100 rubli = 216 marek = 250 koron."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dla Warszawy, Łodzi, Pabjanic i Zgierza powyżej określona norma komornego podlega obniżce: a) dla mieszkań jedno i dwupokojowych 20% b) dla mieszkań trzy i czteropokojowych 10% Dla pozostałych zaś miast i osad Królestwa Polskiego dozwolone są następujące podwyżki w stosunku do określonej w art. 1 ceny najmu: a) dla mieszkań, złożonych z 1 pokoju 10% b) dla mieszkań, złożonych z 2 pokojów, bez wody i wygód 20% c) dla mieszkań, złożonych z 3 pokojów, bez wody i wygód 25% d) dla mieszkań, wymienionych w punkcie b i c, z wodą i wygodami 30% e) dla wszelkich mieszkań z 4 pokojów 40%"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Cena najmu mieszkań dwu, trzy i czteropokojowych, zajmowanych przez pojedyncze osoby, nie licząc służby, jako też za mieszkania trzy i cztero pokojowe, zajmowane tylko przez dwie osoby, nie licząc służby, ograniczeniom nie podlega. Przy obliczaniu ilości pokojów, przedpokój i kuchnia nie są brane w rachubę."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wszelkie umowy, pociągające za sobą podwyższenie komornego powyżej norm, określonych w art. 1 i 2 przepisów niniejszych, mogą być na żądanie lokatora sądownie zmienione przez stosowne zredukowanie ceny komornego, poczynając od dnia 1 lipca 1918 roku do poziomu, określonego w powyższych artykułach, jeżeli żądanie takie wniesione będzie przez lokatora w ciągu 2 miesięcy od daty ogłoszenia przepisów niniejszych. W razie jeżeli wyrokiem sądowym nakazana zostanie redukcja komornego, cała nadpłacona przez lokatora nadwyżka zaliczona będzie na komorne bieżące."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Lokatorom, o których mowa w poprzednich artykułach, właściciel domu nie może wymówić mieszkania. Nie ubliża to wszakże prawu właściciela żądać rozwiązania umowy najmu z winy lokatora w wypadkach, przewidzianych przez kodeks cywilny."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przepisy powyższe stosują się również do lokali, zajmowanych przez szkoły, ochrony i przytułki i drobne warsztaty rzemieślnicze; nie mają natomiast zastosowania do hotelów, pensjonatów, sklepów, zakładów przemysłowych lub handlowych i do letnich mieszkań."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Stosowanie przepisów powyższych nie może być uchylone lub ograniczone przez umowy stron."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "We wszystkich sprawach, wynikających z najmu mieszkań, sąd obowiązany jest skłaniać strony do pojednania, podając im właściwe ku temu powody. W tym celu sąd ma prawo zbierać dowody z urzędu, nakazać osobiste stawiennictwo stron lub, stosownie do okoliczności, zarządzającego domem tudzież złożenie przez nich w oznaczonym terminie wyjaśnień i dowodów. Na żądanie jednej ze stron lub według swego uznania, sąd władny jest zbadać strony w izbie narad."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Za niestawiennictwo bezusprawiedliwionej przyczyny stron lub zarządzającego domem, jak również za odmowę złożenia przez nich wyjaśnień i dowodów, sąd może wymierzyć na winnych grzywny do wysokości 100 marek (150 koron). Za świadome złożenie przez nich fałszywych wyjaśnień sąd ma prawo wymierzyć na nich grzywnę do wysokości 500 marek (750 koron). Grzywny będą ściągane na rzecz Król. Polskiego zarządu wymiaru sprawiedliwości. Od decyzji w przedmiocie wymierzenia grzywny interesowani mogą odwołać się do wyższej instancji trybem, przewidzianym dla skarg incydentalnych. Podanie skargi nie wstrzymuje wykonania decyzji."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wymienieni w art. 2 i 6 lokatorzy, występujący do sądu na zasadzie ustawy niniejszej, korzystają z prawa ubogich bez potrzeby przyznania im tego prawa przez sąd. Jednakże w razie rozstrzygnięcia sprawy na niekorzyść takich lokatorów, sąd może nakazać ściągnięcie od nich niezapłaconych wpisów i opłat."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wszelkie kwestje w sprawach między właścicielami domów i lokatorami, nie objęte ustawą niniejszą, będą rozstrzygane według ogólnych przepisów prawa."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza otrzyma moc obowiązującą z dniem ogłoszenia w Dzienniku Praw Królestwa Polskiego i obowiązywać będzie do dnia 1 lipca 1919 roku. Rada Ministrów władna będzie uchylić tę ustawę bądź wogóle, bądź też dla poszczególnych miejscowości kraju przed powyższym terminem. Dan w Warszawie, dnia 4 września 1918 roku. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

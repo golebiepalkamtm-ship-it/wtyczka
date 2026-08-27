@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1931-883",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1931 r. o zatwierdzeniu zmian statutu Banku Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-883",
+  "status": "in_force",
+  "issued_date": "1931-12-19",
+  "in_force_date": "1931-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/883",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W myśl art. 12 statutu Banku Polskiego (załącznik do obwieszczenia Ministra Skarbu z dnia 28 listopada 1927 r. Dz. U. R. P. Nr 113, poz. 966) zatwierdza się uchwałę Zwyczajnego Walnego Zebrania Akcjonarjuszów Banku Polskiego z dnia 24 lutego 1931 r., dotyczącą zmian artykułów 25, 29, 32 i 39 statutu Banku Polskiego oraz uchylenia art. 26-a. Tekst zmienionych artykułów podaje się jako załącznik, stanowiący integralną część niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Skarbu do ogłoszenia statutu Banku Polskiego (Dz. U. R. P. z 1927 r. Nr 113, poz. 966) z uwzględnieniem zmian, wprowadzonych rozporządzeniem Prezydenta Rzeczypospolitej z dnia 4 października 1930 r. (Dz. U. R. P. Nr 69, poz. 548) oraz niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Załącznik - Tekst zmienionych artykułów statutu banku polskiego"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Rada Banku składa się z Prezesa Banku i Wiceprezesa Banku, mianowanych przez Prezydenta Rzeczypospolitej, oraz 12 członków Rady, wybieranych przez Walne Zebranie, które wybiera nadto corocznie trzech zastępców. W razie ustąpienia członka Rady przed terminem, albo z powodu sprzeciwu Ministra Skarbu (art. 26), wchodzi ten zastępca, który otrzymał najwięcej głosów; przy równej liczbie głosów wchodzi starszy wiekiem. Zastępca sprawuje czynności członka aż do najbliższego Zwyczajnego Walnego Zebrania. Obok członków Rady z wyboru wchodzi z urzędu do Rady na czas pełnienia swoich funkcyj Komisarz Banku (art. 39). który może być urzędnikiem państwowym. Art. 26- a uchyla się."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Członkami Rady nie mogą być posłowie, senatorowie, wojskowi w służbie czynnej, ani urzędnicy państwowi, z wyjątkiem, przewidzianym w art. 25. Członkowie Rady muszą odpowiadać warunkom, wymienionym w punktach b) i c) art. 16. Członek Rady, który stracił prawo uczestniczenia w Walnem Zebraniu lub warunki wybieralności do Rady, przestaje być członkiem Rady. Art. 32. Uchwały Rady zapadają prostą większością głosów; w razie równości głosów przeważa głos przewodniczącego."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Ministrowi Skarbu przysługuje prawo mianowania Komisarza Banku oraz Zastępcy Komisarza. Komisarz Banku, a w jego nieobecności Zastępca Komisarza jest członkiem Rady Banku z urzędu (art. 25). Komisarz Banku i Zastępca Komisarza mogą brać udział w posiedzeniach Dyrekcji Banku z głosem doradczym oraz mają prawo żądania od władz Banku wszelkich wyjaśnień. Komisarz Banku i Zastępca Komisarza otrzymują stale uposażenie z funduszów Banku, ustalane przez Ministra Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tekst zmienionych artykułów statutu banku polskiego\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ {\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26-\",\"symbol\": \"arti_26-\",\"type\": \"arti\",\"name\": \"26-\",\"title\": \"Art. 26-\"},{\"id\": \"arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

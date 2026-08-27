@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1998-608",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 czerwca 1998 r. o ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Litewską o wspólnej granicy państwowej, stosunkach prawnych na niej obowiązujących oraz o współpracy i wzajemnej pomocy w sprawach granicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1998-608",
+  "status": "in_force",
+  "issued_date": "1998-06-26",
+  "in_force_date": "1998-07-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/608",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Umowy między Rzecząpospolitą Polską a Republiką Litewską o wspólnej granicy państwowej, stosunkach prawnych na niej obowiązujących oraz o współpracy i wzajemnej pomocy w sprawach granicznych, podpisanej w Wilnie dnia 5 marca 1996 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dnia od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

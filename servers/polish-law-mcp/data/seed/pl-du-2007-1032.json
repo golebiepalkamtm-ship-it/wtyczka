@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-2007-1032",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 lipca 2007 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne \"Tarnowskie Góry\" w Tarnowskich Górach w likwidacji",
+  "title_en": "",
+  "short_name": "pl-du-2007-1032",
+  "status": "in_force",
+  "issued_date": "2007-07-10",
+  "in_force_date": "2007-08-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/1032",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej „Zakładem”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie: 1) eksploatacji oczyszczalni ścieków; 2) monitoringu środowiska na terenie i w rejonie Zakładu; 3) dozorowania mienia i wykonywania prac naprawczych na terenie Zakładu objętego przedsięwzięciem."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dotację na wykonanie zadań, określonych w art. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Śląskiego: 1) programu likwidacji przedsiębiorstwa; 2) harmonogramu rzeczowo-finansowego prac planowanych do wykonania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Podstawą przyznania dotacji na wykonanie zadań, określonych w art. 2, jest umowa zawarta między Wojewodą Śląskim a Zakładem. 2. Umowa, o której mowa w ust. 1, określa w szczególności zobowiązanie Zakładu do wykonywania zadań, określonych w art. 2, wysokość dotacji i terminy przekazywania środków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przyznana przez Wojewodę Śląskiego dotacja jest przekazywana, w terminach określonych w umowie, na specjalnie w tym celu wyodrębniony przez Zakład rachunek bankowy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Zakład otrzymujący dotację składa Wojewodzie Śląskiemu, w terminie do dnia 31 grudnia 2007 r., sprawozdanie zawierające rozliczenie rzeczowo-finansowe zrealizowanych zadań."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Dysponentem dotacji na wykonanie zadań, określonych w art. 2, jest Wojewoda Śląski."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Dotacja na zadania, określone w art. 2, zostanie wykorzystana do dnia uznania przedsiębiorstwa za zlikwidowane, jednak nie dłużej niż do dnia 31 grudnia 2007 r."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa ma zastosowanie do wydatków ponoszonych przez Zakład od dnia 1 stycznia 2007 r."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-509",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego.",
+  "title_en": "",
+  "short_name": "pl-du-1997-509",
+  "status": "repealed",
+  "issued_date": "1997-07-17",
+  "in_force_date": "1997-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/509",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego ( Dz. U. Nr 90, poz. 405 i Nr 156, poz. 775 ) po art. 4 dodaje się art. 4a w brzmieniu: „ Art. 4a. 1. W przypadku klęski żywiołowej lub nadzwyczajnego zagrożenia środowiska, mienie Skarbu Państwa, o którym mowa w art. 1 pkt 1, może być przekazane nieodpłatnie, oddane w użytkowanie wieczyste, najem, dzierżawę, zarząd, użyczone lub oddane do korzystania na podstawie innego stosunku prawnego jednostkom organizacyjnym, osobom prawnym lub osobom fizycznym, w celu likwidacji skutków tej klęski lub nadzwyczajnego zagrożenia środowiska - bez pośrednictwa Agencji Mienia Wojskowego. 2. Przekazanie mienia w przypadku, o którym mowa w ust. 1, może zarządzić Minister Obrony Narodowej albo z jego upoważnienia inny organ wojskowy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

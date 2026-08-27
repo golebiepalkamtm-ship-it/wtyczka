@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2008-1348",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 2008 r. o zmianie ustawy o Karcie Polaka",
+  "title_en": "",
+  "short_name": "pl-du-2008-1348",
+  "status": "amended",
+  "issued_date": "2008-10-24",
+  "in_force_date": "2008-12-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2008/1348",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 września 2007 r. o Karcie Polaka ( Dz. U. Nr 180, poz. 1280 oraz z 2008 r. Nr 52, poz. 305 ) wprowadza się następujące zmiany: 1) w art. 2: a) w ust. 1 pkt 3 otrzymuje brzmienie: „ 3) wykaże, że jest narodowości polskiej lub posiadała obywatelstwo polskie, lub co najmniej jedno z jej rodziców lub dziadków albo dwoje pradziadków było narodowości polskiej lub posiadało obywatelstwo polskie, albo przedstawi zaświadczenie organizacji polskiej lub polonijnej działającej na terenie jednego z państw, o których mowa w ust. 2, potwierdzające aktywne zaangażowanie w działalność na rzecz języka i kultury polskiej lub polskiej mniejszości narodowej przez okres co najmniej ostatnich trzech lat ” , b) ust. 2 otrzymuje brzmienie: „ 2. Karta Polaka może być przyznana wyłącznie osobie posiadającej w dniu złożenia wniosku o wydanie Karty Polaka obywatelstwo Republiki Armenii, Republiki Azerbejdżańskiej, Republiki Białoruś, Republiki Estońskiej, Gruzji, Republiki Kazachstanu, Republiki Kirgiskiej, Republiki Litewskiej, Republiki Łotewskiej, Republiki Mołdowy, Federacji Rosyjskiej, Republiki Tadżykistanu, Turkmenistanu, Ukrainy lub Republiki Uzbekistanu albo posiadającej w jednym z tych państw status bezpaństwowca. ” ; 2) w art. 13 w ust. 1 pkt 5 otrzymuje brzmienie: „ 5) obywatelstwo albo status bezpaństwowca; ” ; 3) w art. 17: a) ust. 1 otrzymuje brzmienie: „ 1. Karta Polaka jest ważna przez okres 10 lat od dnia jej przyznania, z zastrzeżeniem ust. 2a i 3. ” , b) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Karta Polaka przyznana osobie, która ukończyła 65 lat, jest ważna na czas nieoznaczony. ” ; 4) w art. 23 w ust. 2 pkt 5 otrzymuje brzmienie: „ 5) obywatelstwo albo status bezpaństwowca; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Karta Polaka przyznana, w okresie od dnia 29 marca 2008 r. do dnia wejścia w życie niniejszej ustawy, osobie, która miała ukończone 65 lat staje się ważna na czas nieoznaczony. 2. Na wniosek posiadacza Karty Polaka, o której mowa w ust. 1, konsul właściwy ze względu na miejsce zamieszkania wnioskodawcy wydaje Kartę Polaka z terminem ważności na czas nieoznaczony."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

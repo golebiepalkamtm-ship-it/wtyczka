@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2023-173",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 2022 r. o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych",
+  "title_en": "",
+  "short_name": "pl-du-2023-173",
+  "status": "amended",
+  "issued_date": "2022-12-14",
+  "in_force_date": "2023-01-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/173",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych ( Dz. U. z 2023 r. poz. 100 ) wprowadza się następujące zmiany: 1) w art. 26a ust. 1 otrzymuje brzmienie: „ 1. Pracodawcy przysługuje ze środków Funduszu miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, o ile pracownik ten został ujęty w ewidencji zatrudnionych osób niepełnosprawnych, o której mowa w art. 26b ust. 1. Miesięczne dofinansowanie do wynagrodzenia pracownika niepełnosprawnego, zwane dalej „miesięcznym dofinansowaniem”, przysługuje w kwocie: 1) 2400 zł - w przypadku osób niepełnosprawnych zaliczonych do znacznego stopnia niepełnosprawności; 2) 1350 zł - w przypadku osób niepełnosprawnych zaliczonych do umiarkowanego stopnia niepełnosprawności; 3) 500 zł - w przypadku osób niepełnosprawnych zaliczonych do lekkiego stopnia niepełnosprawności. ” ; 2) w art. 46a w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) na zadanie, o którym mowa w art. 26a - w wysokości 30% środków zaplanowanych na realizację tego zadania na dany rok; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Kwotę miesięcznego dofinansowania do wynagrodzenia pracownika niepełnosprawnego, o której mowa w art. 26a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się po raz pierwszy do wynagrodzenia pracownika niepełnosprawnego za okres począwszy od miesiąca stycznia 2023 r. 2. Pracodawca, który otrzymał dofinansowanie do wynagrodzeń pracowników niepełnosprawnych, przysługujące za miesiąc styczeń 2023 r. lub miesiąc luty 2023 r., w kwocie określonej w art. 26a ust. 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, może złożyć do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych korektę wniosku o wypłatę miesięcznego dofinansowania za dany miesiąc oraz korektę miesięcznej informacji o wynagrodzeniach, zatrudnieniu, stopniach i rodzaju niepełnosprawności pracowników niepełnosprawnych, o których mowa w art. 26c ust. 1 ustawy zmienianej w art. 1, uwzględniając, za analogiczne okresy, kwoty dofinansowania, o których mowa w art. 26a ust. 1 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z tym że art. 1 pkt 2 z mocą od dnia 1 stycznia 2023 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

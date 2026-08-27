@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1989-194",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 maja 1989 r. o samorządzie zawodowym niektórych podmiotów gospodarczych.",
+  "title_en": "",
+  "short_name": "pl-du-1989-194",
+  "status": "in_force",
+  "issued_date": "1989-05-30",
+  "in_force_date": "1989-06-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/194",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawa określa zasady tworzenia i działania samorządu zawodowego osób - podmiotów gospodarczych prowadzących działalność gospodarczą w zakresie: 1) handlu, gastronomii i usług, 2) transportu, 3) innych rodzajów działalności. 2. Ustawa nie dotyczy osób, które uzyskały status rzemieślnika."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podmioty gospodarcze mogą, według wyboru, zrzeszać się w zawodowych samorządowych organizacjach: 1) zrzeszeniach handlu i usług, 2) zrzeszeniach transportu, 3) innych organizacjach podmiotów gospodarczych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Zrzeszenie może być utworzone, jeżeli z taką inicjatywą wystąpi: 1) co najmniej 50 osób, o których mowa w art. 1 ust. 1 pkt 1 i 3, 2) co najmniej 200 osób, o których mowa w art. 1 ust. 1 pkt 2. 2. Statuty zrzeszeń uchwalone przez zebrania członków (delegatów), z uwzględnieniem przepisów niniejszej ustawy, określają: 1) zakres i zasięg działania zrzeszeń, 2) zadania zrzeszeń, 3) organy zrzeszeń oraz zakres i tryb działania tych organów, 4) prawa i obowiązki członków, 5) źródła finansowania działalności statutowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zadaniem zrzeszenia jest w szczególności utrwalanie więzi środowiskowych, postaw zgodnych z zasadami etyki i godności zawodu, a także prowadzenie na rzecz członków działalności kulturalnej, oświatowej i socjalnej, zakładanie i prowadzenie kas oraz funduszów zapomogowo-pożyczkowych oraz reprezentowanie interesów członków wobec organów administracji państwowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Zrzeszenia mogą powoływać ogólnokrajowe reprezentacje, których nazwy określają statuty. 2. Powołanie ogólnokrajowej reprezentacji danego rodzaju zrzeszeń następuje, jeżeli z taką inicjatywą wystąpi co najmniej 10 zrzeszeń. 3. Przepis art. 3 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Zadaniem ogólnokrajowych reprezentacji zrzeszeń jest w szczególności zapewnienie zrzeszonym w niej organizacjom pomocy w realizacji zadań statutowych, rozwijanie działalności społeczno-zawodowej oraz reprezentowanie interesów członków zrzeszeń w kraju i za granicą."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zrzeszenia i ich ogólnokrajowe reprezentacje mogą przyznawać wyróżnienia organizacyjne i tytuły honorowe."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Działające w dniu wejścia w życie ustawy zrzeszenia prywatnego handlu i usług, zrzeszenia transportu prywatnego, Naczelna Rada Zrzeszeń Prywatnego Handlu i Usług oraz Naczelna Rada Zrzeszeń Transportu Prywatnego ulegają przekształceniu lub likwidacji stosownie do wymogów określonych w art. 6 i 49 ustawy z dnia 23 grudnia 1988 r. o działalności gospodarczej ( Dz. U. Nr 41, poz. 324 ) lub niniejszej ustawy. 2. Majątek i zobowiązania zrzeszeń prywatnego handlu i usług, zrzeszeń transportu prywatnego, Naczelnej Rady Zrzeszeń Prywatnego Handlu i Usług oraz Naczelnej Rady Zrzeszeń Transportu Prywatnego przechodzą odpowiednio na nowe organizacje z dniem ich przekształcenia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Organizacje, o których mowa w art. 2 i 5, podlegają wpisowi do rejestru właściwego dla siedziby organizacji sądu rejestrowego. 2. Organizacje wymienione w ust. 1 uzyskują osobowość prawną z chwilą wpisania do rejestru. 3. Do postępowania w sprawach rozpatrywanych przez sąd rejestrowy stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. 4. Minister Sprawiedliwości w drodze rozporządzenia określi sposób prowadzenia rejestrów zrzeszeń i ich ogólnokrajowych reprezentacji."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_3-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_9-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

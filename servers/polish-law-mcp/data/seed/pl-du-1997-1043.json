@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-1043",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy o usługach turystycznych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-1043",
+  "status": "amended",
+  "issued_date": "1997-12-04",
+  "in_force_date": "1997-12-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/1043",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych ( Dz. U. Nr 133, poz. 884 ) wprowadza się następujące zmiany: 1) w art. 51 w ust. 1 pkt 1 otrzymuje brzmienie: „ 1) w terminie do dnia 31 grudnia 1998 r., ” ; 2) art. 52 otrzymuje brzmienie: „ Art. 52. Ustawa wchodzi w życie z dniem 1 lipca 1998 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

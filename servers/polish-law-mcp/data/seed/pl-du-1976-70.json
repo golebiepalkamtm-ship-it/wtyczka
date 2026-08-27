@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1976-70",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Przemysłu Maszyn Ciężkich i Rolniczych.",
+  "title_en": "",
+  "short_name": "pl-du-1976-70",
+  "status": "repealed",
+  "issued_date": "1976-03-27",
+  "in_force_date": "1976-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1976/70",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Przemysłu Maszyn Ciężkich i Rolniczych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Do zakresu działania Ministra Przemysłu Maszyn Ciężkich i Rolniczych należą sprawy: przemysłu maszyn ciężkich, urządzeń chemicznych, taboru kolejowego, budowy statków i okrętów, maszyn rolniczych i ciągników, maszyn dla przemysłu spożywczego i handlu, maszyn i urządzeń energetycznych, wyrobów metalowych, wyrobów odlewniczych i instalacyjnych. 2. Rada Ministrów określi w drodze rozporządzenia szczegółowy zakres działania Ministra Przemysłu Maszyn Ciężkich i Rolniczych oraz nada statut Ministerstwu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Znosi się urząd Ministra Przemysłu Ciężkiego. 2. Sprawy należące dotychczas do zakresu działania Ministra Przemysłu Ciężkiego przechodzą do zakresu działania Ministra Przemysłu Maszyn Ciężkich i Rolniczych oraz Ministra Hutnictwa odpowiednio do ich właściwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. W ustawie z dnia 22 marca 1957 r. o zmianach w organizacji i zakresie działania naczelnych organów administracji państwowej w niektórych gałęziach przemysłu, budownictwa i komunikacji ( Dz. U. Nr 17, poz. 86 ) skreśla się art. 1 i 2. 2. W ustawie z dnia 21 listopada 1967 r. o utworzeniu urzędu Ministra Przemysłu Maszynowego ( Dz. U. Nr 43, poz. 215 ) skreśla się w art. 2 wyrazy „ciągników i maszyn rolniczych” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem uchwalenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

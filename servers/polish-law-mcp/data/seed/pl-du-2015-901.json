@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-901",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym",
+  "title_en": "",
+  "short_name": "pl-du-2015-901",
+  "status": "amended",
+  "issued_date": "2015-06-25",
+  "in_force_date": "2015-06-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/901",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ( Dz. U. z 2015 r. poz. 641 ) w art. 37a po ust. 4 dodaje się ust. 4a i 4b w brzmieniu: „ 4a. Podmioty, o których mowa w ust. 1a, są obowiązane podejmować działania zapewniające bezpieczeństwo ruchu drogowego, w tym w szczególności w przypadku zwiększenia natężenia ruchu drogowego. W przypadku zagrożenia bezpieczeństwa ruchu drogowego lub wystąpienia zdarzenia zmniejszającego stopień tego bezpieczeństwa podmioty, o których mowa w ust. 1a, mogą odstąpić od poboru opłat za przejazd autostradą lub jej odcinkiem. 4b. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, w odniesieniu do podmiotu, o którym mowa w ust. 1a pkt 1, sposób ustalania wystąpienia zagrożenia bezpieczeństwa ruchu drogowego lub wystąpienia zdarzenia zmniejszającego stopień tego bezpieczeństwa, biorąc pod uwagę porę dnia, kategorię dnia, porę roku i płynność ruchu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

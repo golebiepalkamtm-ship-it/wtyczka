@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2001-873",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 czerwca 2001 r. o zmianie ustawy o utworzeniu Agencji Techniki i Technologii.",
+  "title_en": "",
+  "short_name": "pl-du-2001-873",
+  "status": "repealed",
+  "issued_date": "2001-06-08",
+  "in_force_date": "2001-08-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/873",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 kwietnia 1996 r. o utworzeniu Agencji Techniki i Technologii ( Dz. U. Nr 74, poz. 352 , z 1997 r. Nr 121, poz. 770 i z 2000 r. Nr 48, poz. 550 ) wprowadza się następujące zmiany: 1) art. 2 otrzymuje brzmienie: „ Art. 2. Agencja podlega ministrowi właściwemu do spraw gospodarki. ” ; 2) użyte w różnych przypadkach w art. 3 w ust. 6, w art. 5 w ust. 1 i 3, w art. 6 w ust. 2 i w art. 7 w ust. 3 wyrazy „Minister Przemysłu i Handlu” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw gospodarki” ; 3) użyte w różnych przypadkach w art. 3 w ust. 6, w art. 5 w ust. 3, w art. 7 w ust. 3, w art. 8 i w art. 9 w ust. 5 wyrazy „Minister Finansów” zastępuje się użytymi w odpowiednich przypadkach wyrazami „minister właściwy do spraw finansów publicznych” ; 4) art. 4 otrzymuje brzmienie: „ Art. 4. Agencja działa na podstawie ustawy oraz statutu, nadanego przez ministra właściwego do spraw gospodarki, w drodze rozporządzenia, określającego organizację Agencji oraz szczegółowe zasady działania Rady Agencji, o której mowa w art. 6. ” ; 5) w art. 6 ust. 1 otrzymuje brzmienie: „ 1. Organem doradczym i opiniodawczym Prezesa Agencji jest Rada Agencji Techniki i Technologii, zwana dalej «Radą Agencji». W skład Rady Agencji wchodzą po jednym przedstawicielu: ministra właściwego do spraw gospodarki, ministra właściwego do spraw nauki, ministra właściwego do spraw szkolnictwa wyższego, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw środowiska, Ministra Obrony Narodowej, ministra właściwego do spraw zdrowia, Prezesa Polskiej Akademii Nauk oraz Prezesa Urzędu Patentowego Rzeczypospolitej Polskiej. Po jednym przedstawicielu do składu Rady Agencji może również zaproponować: Federacja Stowarzyszeń Naukowo-Technicznych, Rada Główna Jednostek Badawczo-Rozwojowych, Rada Główna Szkolnictwa Wyższego oraz Krajowa Izba Gospodarcza. ” ; 6) w art. 7 dodaje się ust. 9 w brzmieniu: „ 9. Minister właściwy do spraw gospodarki, w uzgodnieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, szczegółowe zasady gospodarki finansowej Agencji, uwzględniając zakres zadań wykonywanych przez Agencję. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do czasu wydania przepisów wykonawczych przewidzianych w ustawie , o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, zachowują moc dotychczasowe przepisy wykonawcze w zakresie, w jakim nie są sprzeczne z ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

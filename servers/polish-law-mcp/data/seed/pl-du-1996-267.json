@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1996-267",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1996 r. o zmianie ustawy o zaspokajaniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych niektórych świadczeń przysługujących emerytom i rencistom.",
+  "title_en": "",
+  "short_name": "pl-du-1996-267",
+  "status": "repealed",
+  "issued_date": "1996-03-29",
+  "in_force_date": "1996-05-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/267",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 czerwca 1995 r. o zaspokajaniu ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych niektórych świadczeń przysługujących emerytom i rencistom ( Dz. U. z 1995 r. Nr 87, poz. 436 ) w art. 2 w ust. 4 skreśla się wyrazy „w okresie 6 miesięcy od dnia wejścia w życie ustawy” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1919-372",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 1919 r. o przymusowym szczepieniu ochronnem przeciwko ospie.",
+  "title_en": "",
+  "short_name": "pl-du-1919-372",
+  "status": "in_force",
+  "issued_date": "1919-07-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/372",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Państwie Polskiem wszystkich mieszkańców obowiązuje przymusowe szczepienie ochronne przeciwko ospie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przymusowemu szczepieniu ochronnemu przeciwko ospie podlegają: a) pierwszemu - wszystkie dzieci nowonarodzone, przyczem szczepienie u nich dokonane być powinno przed upływem pierwszego roku życia; b) powtórnemu - wszystkie wogóle dzieci w 7-ym roku życia; zwolnione od szczepienia mogą być tylko te dzieci, które w ciągu ostatnich 5-ciu lat przed terminem ich urzędowego powtórnego szczepienia miały zaszczepioną ospę ochronną z wynikiem dodatnim, wreszcie te dzieci, dla których szczepienie ochronne przeciwko ospie według opinji lekarza urzędowego byłoby bezwzględnie szkodliwe dla zdrowia. Szczepienie ochronne u dzieci, zwolnionych od szczepienia we wskazanym terminie, winno być odłożone do następnego terminu szczepienia. c) wszystkie wogóle osoby, które wskutek jakichkolwiek przyczyn nie były jeszcze przeciw ospie zaszczepione lub nie przeszły powtórnego szczepienia przeciwko ospie, a to w myśl ustępu b) niniejszego artykułu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Szczepienie ochronne przeciwko ospie w terminach urzędowych odbywa się bezpłatnie. Świadectwo o skutecznem przyjęciu się ospy wydaje się bez poboru akichkolwiekbądź opłat. Przymusowe szczepienie ochronne przeciw ospie winno odbywać się zwyczajnie dwa razy do roku; miejsca i zwyczajne terminy dorocznych szczepień wyznacza Ministerstwo Zdrowia Publicznego. W razie niebezpieczeństwa epidemji ospy może lekarz powiatowy zarządzić szczepienie z konieczności, któremu podlegają wszyscy mieszkańcy danej gminy lub części gminy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wydatki, wynikające z wykonania przepisów art. 3, obciążają Skarb Państwa. Niefachowego pomocniczego personelu służbowego oraz pomieszczenia z odpowiedniem oświetleniem, względnie opałem, do przeprowadzenia szczepienia dostarcza gmina."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Nadzór nad prawidłowością szczepień ochronnych przeciwko ospie należy do lekarza powiatowego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Władze komunalne obowiązane są sporządzać corocznie dokładne listy imienne osób, podlegających szczepieniu ospy. Sposób i terminy sporządzania list określi Minister Zdrowia Publicznego w drodze rozporządzenia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ministerstwo Zdrowia Publicznego zakłada w miarę potrzeby Instytuty Państwowe do wyrobu szczepionki przeciwospowej. Do szczepień ochronnych przeciwko ospie wolno używać tylko szczepionki z Państwowego Instytutu szczepienia ospy lub z jego składów, albo też z takich zakładów, które uzyskały od Ministerstwa Zdrowia Publicznego prawo wyrobu i sprzedaży szczepionki w obrębie Państwa Polskiego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Rodzice, opiekunowie i wogóle osoby, do których należy opieka nad dziećmi, podlegającemi szczepieniu (art. 9), odpowiedzialni są za to, aby dzieci te w przepisanych terminach były zaszczepione. Dzieci nieszczepionych nie wolno przyjmować do szkół lub innych zakładów naukowych lub wychowawczych. Przeszkadzanie poddaniu się innych osób szczepieniu ochronnemu lub namawianie ich do uchylenia się od szczepienia podlega karze (art. 9)."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Przekroczenia przepisów niniejszej ustawy lub rozporządzeń, wydanych na jej podstawie, o ile czyn karygodny nie podlega ukaraniu w myśl ogólnych postanowień karnych, względnie w myśl ustawy o zwalczaniu chorób zakaźnych, - będą karane w drodze administracyjnej grzywnami do 200 złp. lub aresztem do 14 dni, a w razie popełnienia przekroczenia przez funkcjonarjuszów publicznych - według właściwych przepisów dyscyplinarnych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wprowadzenie w wykonanie niniejszej ustawy poleca się Ministrowi Zdrowia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

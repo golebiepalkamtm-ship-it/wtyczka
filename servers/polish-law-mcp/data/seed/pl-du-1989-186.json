@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1989-186",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 maja 1989 r. o zmianie ustawy o kontroli publikacji i widowisk.",
+  "title_en": "",
+  "short_name": "pl-du-1989-186",
+  "status": "repealed",
+  "issued_date": "1989-05-29",
+  "in_force_date": "1989-06-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/186",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o kontroli publikacji i widowisk ( Dz. U. Nr 20, poz. 99 , z 1983 r. Nr 44, poz. 204 , z 1984 r. Nr 5, poz. 24 , z 1987 r. Nr 37, poz. 209 i z 1989 r. Nr 34, poz. 178 ) wprowadza się następujące zmiany: 1) w art. 2: a) w pkt 1 wyrazy „albo zagrażać bezpieczeństwu państwa” skreśla się, b) w pkt 5 wyrazy „albo w inny sposób zagrażać obronności państwa” skreśla się, c) w pkt 6 wyrazy „a także rozpowszechniać treści oczywiście stanowiące przestępstwo” skreśla się; 2) w art. 3: a) ust. 3 otrzymuje brzmienie: „ 3. Do właściwości Głównego Urzędu należą także sprawy rejestracji dzienników i czasopism w zakresie i na zasadach określonych w art. 20 ustawy - Prawo prasowe . ” , b) ust. 4 skreśla się; 3) w art. 4 w ust. 1: a) w pkt 1 po wyrazie „posłów” dodaje się wyraz „senatorów” , a po wyrazie „Sejmu” - wyraz „Senatu” , b) w pkt 8 wyrazy „wymienione publikacje podlegają jednak kontroli wstępnej, w celu zapobieżenia ujawnieniu wiadomości, o których mowa w art. 2 pkt 5” skreśla się, c) pkt 13 otrzymuje brzmienie: „ 13) wznowienia publikacji wydanych w Polsce Ludowej, które już uprzednio uzyskały zgodę na druk, ” d) pkt 20 otrzymuje brzmienie: „ 20) publikacje bibliograficzne oraz dane bibliograficzne ” ; 4) art. 16 otrzymuje brzmienie: „ Art. 16. 1. Okręgowy urząd może zakazać rozpowszechniania określonego numeru czasopisma zagranicznego lub książki wydanej za granicą, filmu lub zapisu magnetycznego albo innej publikacji, jeżeli ich treść narusza przepisy ustawy. 2. Biblioteki naukowe oraz biblioteki stowarzyszeń twórczych i towarzystw naukowych mogą sprowadzać i gromadzić, w celach uzasadnionych ich statutową działalnością, publikacje zagraniczne i materiały, o których mowa w ust. 1, objęte zakazem rozpowszechniania. 3. Prezes Głównego Urzędu Ceł, Minister Edukacji Narodowej, Minister Kultury i Sztuki oraz Sekretarz Naukowy Polskiej Akademii Nauk ustalają wykaz bibliotek, o których mowa w ust. 2, a Minister Edukacji Narodowej, Minister Kultury i Sztuki oraz Sekretarz Naukowy Polskiej Akademii Nauk określają zasady przechowywania i udostępniania publikacji i materiałów, o których mowa w ust. 1, objętych zakazem rozpowszechniania. 4. Osoby fizyczne mogą sprowadzać w jednym egzemplarzu publikacje zagraniczne i materiały, o których mowa w ust. 1, w tym również w formie prenumeraty, objęte zakazem rozpowszechniania. 5. Główny Urząd lub Główny Urząd Ceł może wyrazić zgodę na sprowadzanie publikacji zagranicznych i materiałów, o których mowa w ust. 1, objętych zakazem rozpowszechniania, przez instytucje dla ich uzasadnionych potrzeb zawodowych, naukowych lub innych. ” ; 5) art. 19 skreśla się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

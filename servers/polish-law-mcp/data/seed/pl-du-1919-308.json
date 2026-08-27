@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-308",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 maja 1919 r. o tymczasowym zaopatrzeniu wdów i sierot po wojskowych Wojska Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1919-308",
+  "status": "in_force",
+  "issued_date": "1919-05-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/308",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wdowy i sieroty po oficerach, urzędnikach wojskowych i szeregowych Wojska Polskiego, poległych lub zmarłych - począwszy od 1 listopada 1918 r. - wskutek działań wojennych lub też w wykonaniu służby, bez winy danego osobnika, z powodu warunków służby wojskowej lub chorób zakaźnych, panujących w wojsku lub w miejscach służbowego pobytu, otrzymują aż do wydania wojskowej ustawy emerytalnej następujące tymczasowe zaopatrzenia miesięczne: 1) wdowy po oficerach i urzędnikach wojskowych, bez względu na stopień - w wysokości mk. 100; 2) wdowy po szeregowych, bez względu na stopień - mk. 75; 3) każde dziecko po oficerze lub urzędniku wojskowym - mk. 20; 4) każde dziecko po szeregowym - mk. 15. Sieroty, nie mające matki, otrzymują zaopatrzenie wyższe o 100% ponad normę, jednakowoż łączne zaopatrzenie sierot nie może być wyższe od łącznego zaopatrzenia wdowy i sierot za życia matki."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wypłata zaopatrzenia rozpoczyna się z pierwszym dniem miesiąca, następującego po śmierci głowy rodziny."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Prawo do pobierania zaopatrzenia wdowiego gaśnie z ostatnim dniem miesiąca, w którym nastąpiła śmierć wdowy względnie w którym wdowa zawarła ponowny związek małżeński."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Prawo do pobierania zaopatrzenia sierocego gaśnie: 1) z ostatnim dniem miesiąca, w którym nastąpiła śmierć sieroty; 2) z ostatnim dniem miesiąca, w którym sierota ukończyła lat 18; 3) z ostatnim dniem miesiąca, w którym sierota zawrze związek małżeński."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wypłata zaopatrzenia dla sierot może być przedłużona poza termin, oznaczony w art. 4 ustęp 2, w razie stałej niezdolności do zarobkowania wskutek choroby albo ułomności. W razie stwierdzonej potrzeby dalszych studjów może być wypłata zaopatrzenia przedłużona do ukończenia 21 roku życia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wypłatę zaopatrzenia sierocego osobom niepełnoletnim uskutecznia się do rąk i na odpowiedzialność matki, względnie opiekuna prawnego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza rozciąga się na wdowy i sieroty po poległych i zmarłych przed dniem 1 listopada 1918 r. wojskowych, służących w Legjonach Polskich, w Polskim Korpusie Posiłkowym, w Polskiej Sile Zbrojnej, I, II, III Korpusie Polskim, Polskich Formacjach we Francji i Rosji, we Włoszech i w innych państwach, o ile dotychczas nie pobierają zaopatrzenia, przekraczającego normy przyznane w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

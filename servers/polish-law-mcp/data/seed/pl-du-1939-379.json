@@ -1,0 +1,488 @@
+{
+  "id": "pl-du-1939-379",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 czerwca 1939 r. - Prawo o obligacjach.",
+  "title_en": "",
+  "short_name": "pl-du-1939-379",
+  "status": "in_force",
+  "issued_date": "1939-06-30",
+  "in_force_date": "1939-07-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/379",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Obligacje emitować mogą jedynie osoby prawne, ustawowo do tego upoważnione. 2. Obligacje, emitowane przez osoby prawne, których ustawa nie upoważnia do emitowania obligacyj, oraz przez osoby fizyczne, są nieważne."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Tekst obligacji powinien zawierać: 1) nazwę „obligacja”; 2) nazwę (firmę) i siedzibę osoby prawnej emitującej, a w przypadku emitowania obligacyj przez spółkę akcyjną również sąd, w którym spółka jest zarejestrowana, oraz datę zarejestrowania i numer rejestru handlowego; 3) wartość nominalną, serię i numer danej obligacji; 4) wysokość i sposób oprocentowania; 5) ogólną sumę emisji; 6) powołanie się na zezwolenie władzy państwowej, jeżeli prawo takiego zezwolenia wymaga; 7) w przypadku emitowania obligacyj na podstawie ustawy szczególnej - powołanie się na tę ustawę; 8) oznaczenie szczególnych zabezpieczeń długu obligacyjnego, jeżeli takie zabezpieczenia są przewidziane; 9) oznaczenie sposobu i innych warunków umorzenia oraz wskazanie miejsca i czasu dokonywania wypłat za obligacje i kupony; 10) wzmiankę o ograniczeniu prawa zamiany obligacyj na okaziciela na imienne lub odwrotnie, jeżeli takie ograniczenie przewidują warunki emisji. 2. Obligacja powinna być opatrzona podpisami osób, uprawnionych do reprezentowania osoby prawnej emitującej. Podpisy mogą być odtworzone mechanicznie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wartość nominalna obligacji nie może być mniejsza niż sto złotych lub ich równowartość w walucie obcej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Obligacje nie mogą być wydawane przed ustanowieniem szczególnych zabezpieczeń, przewidzianych dla emisji. 2. Jeżeli dla ustanowienia zabezpieczeń niezbędne jest powołanie przedstawiciela ogółu właścicieli obligacyj, sąd grodzki siedziby dłużnika mianuje w tym celu na jego wniosek kuratora."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Obligacje nie mogą być wydawane przed całkowitym wypełnieniem przez odbiorcę świadczeń, wymaganych w warunkach emisji."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Obligacje mogą być imienne lub na okaziciela. 2. Zamiana obligacji imiennej na obligację na okaziciela lub odwrotnie powinna być dokonana na żądanie właściciela obligacji, jeżeli warunki emisji temu się nie sprzeciwiają."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Do obligacji powinien być dołączony arkusz kuponowy. 2. Stopa oprocentowania może być różna dla poszczególnych okresów."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Obligacje są zbywalne. 2. Przeniesienie obligacji imiennej odbywa się przez pisemne oświadczenie bądź na obligacji, bądź w osobnym dokumencie i przez wręczenie obligacji."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Osoba prawna emitująca jest obowiązana prowadzić księgę obligacyj imiennych, do której należy wpisywać: imię i nazwisko (firmę) właściciela obligacji, jego miejsce zamieszkania (siedzibę) oraz wzmiankę o przeniesieniu obligacji na inną osobę wraz z datą wpisu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Przeniesienie obligacji imiennej jest skuteczne wobec osoby prawnej emitującej, jeżeli zostało zgłoszone celem odpisania do księgi obligacyj imiennych. Zgłoszenie to będzie potwierdzone właścicielowi obligacji bądź na samej obligacji, bądź w osobnym dokumencie. 2. Osoba prawna emitująca przy wpisie przeniesienia nie ma obowiązku badania prawdziwości podpisu zbywcy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Losowanie obligacyj w celu umorzenia odbywa się w obecności notariusza, który sporządzi protokół z przebiegu losowania. 2. Spółka akcyjna najpóźniej w ciągu dwóch tygodni po dokonanym losowaniu ogłosi w pismach, przeznaczonych do jej ogłoszeń, inne zaś osoby prawne w Monitorze Polskim - serie i numery wylosowanych obligacyj. Dział II Emitowanie obligacyj Rozdział 1 Emitowanie obligacyj przez spółki akcyjne"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Jedynie krajowe spółki akcyjne, posiadające wpłacony i nieuszczuplony kapitał zakładowy w wysokości przynajmniej jednego miliona złotych, mogą emitować obligacje."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Spółki akcyjne, zajmujące się czynnościami ubezpieczeniowymi, nie mogą emitować obligacyj."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Spółki akcyjne, nie posiadające bilansu oraz rachunku zysków i strat za trzy pełne lata obrotowe, zatwierdzonych zgodnie z przepisami kodeksu handlowego , nie mogą emitować obligacyj; jednakże Minister Skarbu może w poszczególnych przypadkach zezwolić na odstąpienie od tej zasady w stosunku do spółek, mających znaczenie państwowe lub charakter użyteczności publicznej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Uchwała walnego zgromadzenia spółki akcyjnej o emitowaniu obligacyj powinna określić warunki emisji, a w szczególności powinna oznaczyć: 1) sumę długu, ilość i wartość nominalną odcinków; 2) oprocentowanie; 3) sposób umorzenia długu obligacyjnego; 4) szczególne zabezpieczenia, jeżeli są przewidziane; 5) rodzaj obligacyj. 2. Zarząd spółki złoży protokół walnego zgromadzenia w przeciągu dwóch tygodni sądowi rejestrowemu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Emisja obligacyj może nastąpić na podstawie subskrypcji publicznej lub bez takiej subskrypcji w drodze zaofiarowania prywatnego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Spółka akcyjna przed ogłoszeniem wezwań do publicznej subskrypcji podda badaniu biegłych rewidentów, wyznaczonych w sposób określony w art. 313 § 2 kodeksu handlowego : 1) stan majątkowy i całokształt interesów przedsiębiorstwa; 2) zabezpieczenia na rzecz właścicieli obligacyj. 2. Zarząd spółki na pisemne żądanie biegłych rewidentów powinien dostarczyć w formie pisemnej lub protokolarnej wyjaśnień i dokumentów. 3. Biegli rewidenci po przeprowadzeniu badań sporządzą sprawozdanie i wydadzą opinię, czy stan majątkowy i całokształt interesów spółki, zamierzającej emitować obligacje, dają dostateczną rękojmię należytego spłacania długu obligacyjnego i procentów oraz czy zabezpieczenia, przez nią proponowane, są wystarczające. Opinia biegłych rewidentów powinna być szczegółowo uzasadniona w sprawozdaniu. Rewidenci sporządzą w dwóch egzemplarzach sprawozdanie i opinię, które wydadzą spółce. 4. Sąd rejestrowy wyznaczy wynagrodzenie za pracę biegłych rewidentów i zatwierdzi rachunek ich wydatków. Jeżeli spółka dobrowolnie tych należności nie uiści, sąd rejestrowy ściągnie je trybem, przewidzianym dla ściągnięcia opłat sądowych."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Wezwanie do publicznej subskrypcji może nastąpić dopiero po złożeniu jednego egzemplarza sprawozdania i opinii biegłych rewidentów w sądzie rejestrowym, nie później jednak niż w ciągu sześciu miesięcy od dnia sporządzenia tej opinii. 2. Spółka winna ogłosić wezwanie w pismach, przeznaczonych do ogłoszeń spółki, przynajmniej na dwa tygodnie i najdalej na pół roku przed dniem otwarcia subskrypcji. Wezwanie powinno zawierać: 1) wskazanie sądu rejestrowego, w którym spółka jest zarejestrowana, datę zarejestrowania i numer rejestru handlowego; 2) wysokość kapitału zakładowego spółki z oznaczeniem wpłaconej jego części; 3) skład osobowy władz spółki; 4) bilans, rachunek zysków i strat za ostatni rok obrotowy oraz wysokość dywidendy za ostatnie trzy lata, a w przypadku, przewidzianym w art. 14 - za lata, poprzedzające emisję; 5) hipoteki, obciążające majątek spółki; 6) wykaz nieumorzonych długów obligacyjnych spółki i udzielonych zabezpieczeń; 7) pełny tekst uchwały walnego zgromadzenia co do zamierzonej emisji; 8) opinię biegłych rewidentów ze wskazaniem sądu rejestrowego, w którym sprawozdanie biegłych rewidentów zostało złożone, oraz ze wskazaniem czasu, w jakim sprawozdanie to można przejrzeć w siedzibie spółki; 9) warunki subskrypcji. 3. Prospekty, okólniki i ogłoszenia, dotyczące emisji, powinny zawierać dosłowny tekst wezwania (ust. 2) lub powoływać się na nie ze wskazaniem daty i numerów pism, w których zostało umieszczone."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Zapisy na obligacje sporządza się osobno dla każdego subskrybenta w dwóch egzemplarzach; jeden egzemplarz jest przeznaczony dla subskrybenta, drugi dla spółki emitującej. 2. Zapisy będą zawierały oprócz treści, wymaganej do ogłoszenia: 1) oznaczenie ilości i rodzaju subskrybowanych obligacyj; 2) stwierdzenie wysokości wpłaty, dokonanej na obligacje; 3) zgodę subskrybenta na warunki emisji, zawarte w ogłoszeniu; 4) podpis subskrybenta i banku, upoważnionego do przyjmowania zapisów i wpłat na obligacje."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Zapisy i wpłaty na obligacje mogą przyjmować jedynie: Bank Polski, banki państwowe tudzież inne banki, którym zezwoli na to Minister Skarbu. 2. Wpłaty na obligacje nie mogą być podnoszone przez spółkę emitującą przed złożeniem w sądzie rejestrowym dowodów dojścia do skutku emisji (art. 24)."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Termin do zapisywania się na obligacje nie może być dłuższy niż trzy miesiące od dnia otwarcia subskrypcji. 2. Emisję uważa się za niedoszłą do skutku, jeżeli w terminie, oznaczonym w ogłoszeniu, nie zostanie subskrybowana cała ilość zaofiarowanych obligacyj lub ich część, określona w warunkach subskrypcji, w ciągu dwóch tygodni po zamknięciu subskrypcji spółka akcyjna ogłosi o niedojściu emisji do skutku w pismach, w których zamieściła wezwanie do subskrypcji, i zawezwie subskrybentów do odbioru wpłaconych kwot."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. W razie subskrybowania wszystkich obligacyj spółka powinna postarać się niezwłocznie o dokonanie aktów prawnych, jakie są potrzebne do ustanowienia zabezpieczeń, przewidzianych w warunkach emisji. 2. Spółka dokona przydziału obligacyj subskrybentom w ciągu dwóch tygodni od terminu zamknięcia subskrypcji."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Termin do uzupełnienia wpłat subskrypcyjnych do pełnej wysokości sumy, przypadającej na przydzielone subskrybentowi obligacje, nie może być dłuższy od sześciu miesięcy, licząc od dnia otwarcia subskrypcji. 2. W razie niedokonania pełnej wpłaty w terminie, oznaczonym w warunkach subskrypcji, spółka emitująca może uznać zapis na obligacje za wygasły na skutek samego upływu terminu. W tym przypadku zwraca się subskrybentowi dokonane już wpłaty, a obligacje przydzielone będą dodatkowo innym subskrybentom lub objęte w drodze zapisu przez inne osoby."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Spółka przed wydaniem obligacyj subskrybentom złoży w sądzie rejestrowym w oryginałach albo w uwierzytelnionych urzędowo odpisach: 1) dowód należytego wezwania do subskrypcji (art. 18); 2) poświadczenie banku, stwierdzające dojście do skutku subskrypcji; 3) dowody ustanowienia szczególnych zabezpieczeń."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Emitowanie obligacyj drogą zaofiarowania prywatnego następuje na podstawie umowy, mocą której spółka odstępuje oznaczonym osobom całą emisję lub jej część. 2. Zbadanie stanu majątkowego i całokształtu interesów spółki powinno nastąpić stosownie do art. 17 przed wydaniem obligacyj. W tym przypadku biegli rewidenci powinni w opinii swej dać również odpowiedź, czy przy umówionym kursie emisyjnym istnieje dostateczna rękojmia należytego spłacania długu obligacyjnego i procentów. Poza tym stosuje się odpowiednio przepisy art. 23. 3. Wydanie obligacyj może nastąpić dopiero po złożeniu jednego egzemplarza sprawozdania i opinii biegłych rewidentów w sądzie rejestrowym, nie później jednak niż w ciągu sześciu miesięcy od dnia sporządzenia tej opinii. 4. Spółka przynajmniej na dwa tygodnie przed wydaniem obligacyj, a najdalej na pół roku przed tym, powinna zamieścić w pismach przeznaczonych do jej ogłoszeń, ogłoszenie o emisji. Ogłoszenie powinno zawierać dane, wymienione w art. 18 ust. 2 pkt 1)-8), nadto zaś wskazanie osób, które objęły emisję, i kursu, po jakim objęcie nastąpiło. Przepis art. 18 ust. 3 stosuje się także w tym przypadku. 5. Spółka złoży przed wydaniem obligacyj w sądzie rejestrowym w oryginałach albo w uwierzytelnionych urzędowo odpisach: 1) dowód należytego ogłoszenia; 2) dowody ustanowienia szczególnych zabezpieczeń."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Jeżeli obligacje zgłoszono na giełdę, a od daty złożenia opinii biegłych rewidentów w sądzie rejestrowym upłynęło więcej niż jeden rok, wówczas obligacje mogą być dopuszczone do obrotów i notowań na giełdzie jedynie po dokonaniu przez spółkę osobnego ogłoszenia o tej emisji w pismach, przeznaczonych do ogłoszeń spółki. Ogłoszenie powinno nastąpić przynajmniej na dwa tygodnie, a najdalej na pół roku przed dopuszczeniem obligacyj do obrotów i notowań i powinno zawierać dane, wymienione w art. 18 ust. 2, a przy emisji w drodze zaofiarowania prywatnego dane, wymienione w art. 25 ust. 4."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Jeżeli spółka dopuściła się istotnych uchybień co do warunków, przewidzianych dla emitowania obligacyj, subskrybent lub właściciel pbligacii ma prawo żądać od spółki emitującej niezwłocznego zwrotu wpłaconej na obligacje sumy z odsetkami ustawowymi od dnia dokonania wpłaty."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. W przypadkach likwidacji spółki akcyjnej lub przekształcenia jej na spółkę z ograniczoną odpowiedzialnością obligacje stają się płatne z dniem otwarcia likwidacji, a w razie przekształcenia - z chwilą wpisania przekształcenia do rejestru handlowego, chociażby termin ich wykupu jeszcze nie nastąpił. 2. Obligacje w przypadkach, przewidzianych w ust. 1, podlegają spłaceniu po kursie nominalnym z doliczeniem premii losowania (wykupu), jeżeli premia ta jest przewidziana w warunkach emisji."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Nie stosuje się przepisów rozdziału niniejszego do spółek akcyjnych, zajmujących się czynnościami bankowymi. Rozdział 2 Emitowanie obligacyj przez związki samorządu terytorialnego, fundacje, gwarectwa i spółdzielnie"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Z osób prawnych prawa publicznego mogą emitować obligacje z zachowaniem przepisów właściwych ustaw szczególnych: 1) m. st. Warszawa i miasta wydzielone z powiatowych związków samorządowych; 2) wojewódzkie i powiatowe związki samorządowe; 3) związki międzykomunalne, posiadające charakter korporacyj prawa publicznego. 2. Warunki emisji obligacyj, emitowanych przez osoby prawne, wymienione w ust. 1, wymagają zatwierdzenia Ministra Skarbu i powinny być ogłoszone w Monitorze Polskim."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Obligacje mogą emitować za zezwoleniem Ministra Skarbu: 1) fundacje, mające na celu pożytek publiczny; 2) gwarectwa, posiadające osobowość prawną; 3) spółdzielnie, działające na terenie całej Rzeczypospolitej Polskiej, których członkami są wyłącznie inne spółdzielnie (centrale spółdzielcze). 2. Minister Skarbu udziela zezwolenia według swobodnego uznania. Rozdział 3 Emitowania obligacyj przez monopole, fundusze i przedsiębiorstwa państwowe"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Monopole oraz wyposażone w osobowość prawną przedsiębiorstwa i fundusze państwowe mogą emitować obligacje jedynie w granicach upoważnień, udzielonych aktem ustawodawczym. Rozdział 4 Emitowania obligacyj przez banki i instytucje kredytu długoterminowego"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Banki i instytucje kredytu długoterminowego mogą emitować obligacje z zachowaniem właściwych przepisów szczególnych. 2. Bankami w rozumieniu artykułu niniejszego są również: Centralna Małopolska Kasa Oszczędności we Lwowie oraz Centralna Kasa Spółek Rolniczych w Warszawie. Dział III Organizacja właścicieli obligacyj, emitowanych przez spółki akcyjne, gwarectwa i spółdzielnie"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Zgromadzenie właścicieli obligacyj jest reprezentacją wszystkich właścicieli obligacyj danej emisji wobec spółki emitującej w zakresie, unormowanym przepisami działu niniejszego."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Zarząd spółki emitującej zwołuje zgromadzenie właścicieli obligacyj: 1) stosownie do warunków emisji; 2) z własnej inicjatywy; 3) na żądanie właścicieli obligacyj, reprezentujących przynajmniej 1/20 ogólnej wartości nominalnej obligacyj danej emisji, będących w obiegu, przy czym obligacje, stanowiące własność spółki emitującej, nie będą brane w rachubę; 4) na żądanie pełnomocników, wybranych przez zgromadzenie właścicieli obligacyj. 2. W przypadkach, przewidzianych w ust. 1 pkt 1), prawo żądania od spółki emitującej zwołania zgromadzenia właścicieli obligacyj służy każdemu właścicielowi obligacji. 3. W razie niezwołania zgromadzenia właścicieli obligacyj w ciągu dwóch tygodni od dnia przedstawienia żądania zarządowi spółki emitującej, sąd rejestrowy może - po zawezwaniu zarządu do złożenia oświadczenia - upoważnić do zwołania zgromadzenia osoby, występujące z tym żądaniem. W ogłoszeniach i zawiadomieniach o zwołaniu zgromadzenia należy wówczas powołać się na postanowienie sądu rejestrowego."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Zgromadzenia właścicieli obligacyj odbywają się w miejscu siedziby spółki, jeżeli warunki emisji nie zawierają innego postanowienia."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Zgromadzenie właścicieli obligacyj zwołuje się przez dwukrotne ogłoszenia w pismach, przeznaczonych do ogłoszeń spółki. Pierwsze ogłoszenie w Monitorze Polskim powinno być dokonane przynajmniej na trzy tygodnie, a drugie - przynajmniej na dziesięć dni przed terminem zgromadzenia. 2. Właściciel obligacyj, który złożył w spółce przynajmniej jedną obligację, może żądać zawiadomienia go na swój koszt listem poleconym, wysłanym najpóźniej równocześnie z pierwszym ogłoszeniem, o terminie, miejscu i porządku obrad zgromadzenia, tudzież o uchwałach, powziętych przez zgromadzenie. 3. W ogłoszeniach należy oznaczyć dzień, godzinę i miejsce odbycia zgromadzenia oraz szczegółowy porządek obrad z zaznaczeniem, że uchwały, powzięte przez zgromadzenie, mają w myśl art. 48 moc obowiązującą w stosunku do wszystkich właścicieli obligacyj, będących w obiegu. 4. Spółka ponosi koszty ogłoszeń i odbycia zgromadzenia."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Właściciele obligacyj imiennych mają prawo uczestniczenia w zgromadzeniu właścicieli obligacyj, jeżeli zgłosili spółce emitującej nabycie obligacyj (art. 10 ust. 1) przynajmniej na tydzień przed odbyciem zgromadzenia. 2. Obligacje na okaziciela dają prawo uczestniczenia w zgromadzeniu, jeżeli zostaną złożone w spółce emitującej przynajmniej na tydzień przed terminem zgromadzenia i nie będą odebrane przed jego ukończeniem. Zamiast obligacyj mogą być złożone zaświadczenia, wydane na dowód złożenia obligacyj u notariusza albo w instytucji kredytowej krajowej lub takiej zagranicznej, na którą zezwoli Minister Skarbu i która będzie wymieniona w ogłoszeniach o zwołaniu zgromadzenia. W zaświadczeniu należy wymienić serię i numery obligacyj i stwierdzić, że obligacje nie będą wydane przed ukończeniem zgromadzenia. 3. Nie dają prawa uczestniczenia w zgromadzeniu obligacje: 1) umorzone, chyba że ich nie spłacono wskutek zwłoki ze strony spółki lub wskutek sporu co do warunków spłaty; 2) stanowiące własność spółki emitującej; 3) stanowiące własność spółki, która posiada przynajmniej 30% kapitału akcyjnego spółki emitującej. 4. Właściciele obligacyj mogą uczestniczyć w zgromadzeniu oraz wykonywać prawo głosu osobiście lub przez przedstawicieli. Pełnomocnictwo powinno być udzielone pod rygorem nieważności na piśmie i dołączone do protokołu. 5. Członkowie władz zarządzających i nadzorczych oraz pracownicy spółek, wymienionych w ust. 3, nie mogą brać udziału w głosowaniu ani też wykonywać prawa głosu w cudzym imieniu."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Lista właścicieli obligacyj, uprawnionych do uczestniczenia w zgromadzeniu, podpisana przez zarząd spółki emitującej, obejmująca imiona i nazwiska uprawnionych, miejsce zamieszkania, ilość, rodzaj, serie i numery obligacyj oraz ilość głosów, powinna być wyłożona w lokalu zarządu spółki przez trzy dni powszednie przed odbyciem zgromadzenia. Właściciel obligacji może przeglądać listę w lokalu spółki oraz żądać odpisu listy za zwrotem kosztów sporządzenia. 2. Właściciel obligacji ma prawo żądać wydania odpisu wniosków w sprawach, objętych porządkiem obrad, w ciągu tygodnia przed zgromadzeniem."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Zgromadzenie właścicieli obligacyj jest ważne, jeżeli na nim reprezentowana jest przynajmniej 1/3 ogólnej wartości nominalnej obligacyj, których właściciele nie są wyłączeni od uczestniczenia w zgromadzeniu według art. 38 ust. 3. 2. Zarząd spółki jest obowiązany złożyć na zgromadzeniu właścicieli obligacyj oświadczenie, ile wynosi ogólna wartość nominalna obligacyj, które dają właścicielom prawo do uczestniczenia w zgromadzeniu."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Zgromadzenie właścicieli obligacyj otwiera członek zarządu spółki emitującej, jeżeli zgromadzenie zostało zwołane z inicjatywy zarządu spółki, a w innych przypadkach - jedna z osób, które żądały zwołania zgromadzenia. Przewodniczy zgromadzeniu osoba, wybrana spośród uprawnionych do uczestniczenia w zgromadzeniu. 2. Przewodniczący zgromadzenia nie ma prawa samowolnie usuwać spod obrad spraw będących na porządku obrad, ani też zmieniać tego porządku."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Lista obecności, zawierająca spis uczestników zgromadzenia właścicieli obligacyj z wymienieniem ilości obligacyj, które każdy z nich reprezentuje i służących im głosów, podpisana przez przewodniczącego zgromadzenia, powinna być wyłożona podczas zgromadzenia. 2. Lista obecności powinna być sprawdzona przez wybraną w tym celu komisję, złożoną przynajmniej z trzech osób."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Przepisy art. 412 kodeksu handlowego o protokołowaniu uchwał walnych zgromadzeń spółek akcyjnych i prowadzeniu księgi protokołów stosuje się odpowiednio do uchwał zgromadzeń właścicieli obligacyj. 2. Właściciele obligacyj mogą przeglądać księgę protokołów oraz żądać wydania poświadczonych przez zarząd odpisów uchwał."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Przedmiotem uchwał zgromadzenia właścicieli obligacyj mogą być tylko sprawy, dotyczące praw właścicieli obligacyj wobec spółki emitującej i zobowiązań spółki wobec właścicieli obligacyj, jeżeli prawa te i zobowiązania oparte są na obligacjach, emitowanych przez spółkę. 2. Do zgromadzenia właścicieli obligacyj należy w szczególności: 1) rozstrzyganie w sprawie wniosków spółki w zakresie obniżenia oprocentowania obligacyj, przedłużenia okresu umorzenia lub odroczenia terminu spłaty obligacyj oraz udzielenia innych ulg w spłacaniu obligacyj i odsetek; 2) rozstrzyganie w sprawie wniosków spółki, dotyczących zmiany zabezpieczeń, ustanowionych na rzecz właścicieli obligacyj, tudzież innych warunków emisji; 3) rozstrzyganie o wytoczeniu powództwa przeciwko spółce emitującej lub przeciwko członkom władz spółki o naprawienie szkód, wyrządzonych właścicielom obligacyj wskutek działań, sprzecznych z prawem lub warunkami emisji; 4) wybór i odwołanie jednego lub kilku pełnomocników bądź do stałej obrony interesów ogółu właścicieli obligacyj, bądź też do wykonywania uchwał, powziętych w granicach, określonych prawem niniejszym."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Uchwały w sprawach, wymienionych w art. 44 ust. 2 pkt 1) i 2), mogą być powzięte jedynie większością 3/4 głosów oddanych, jeżeli ta większość reprezentuje przynajmniej połowę ogólnej wartości nominalnej obligacyj, które dają właścicielom prawo uczestniczenia w zgromadzeniu. 2. Uchwały w innych sprawach zapadają bezwzględną większością głosów oddanych. 3. Uchwała o obniżeniu wysokości długu z tytułu obligacyj lub o zupełnym zrzeczeniu się zabezpieczeń wymaga zgody wszystkich właścicieli obligacyj. 4. Uchwały, które naruszają zasadę jednakowego traktowania wszystkich właścicieli obligacyj jednej emisji, pozostających w obiegu, wymagają zgody wszystkich właścicieli obligacyj, których prawa doznają uszczuplenia."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Każde sto złotych wartości nominalnej obligacji lub ich równowartość w walucie obcej daje prawo do jednego głosu."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Uchwała zgromadzenia właścicieli obligacyj, zmieniaiąca warunki emisji, będzie ogłoszona przez spółkę emitującą w pismach, przeznaczonych do ogłoszeń spółki. 2. Jednocześnie zarząd spółki złoży protokół zgromadzenia w sądzie rejestrowym."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Prawomocne uchwały zgromadzenia właścicieli obligacyj mają moc obowiązującą w stosunku do wszystkich właścicieli obligacyj danej emisji, będących w obiegu."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Uchwały zgromadzenia właścicieli obligacyj w sprawach obniżenia oprocentowania oraz zmiany zabezpieczeń długu obligacyjnego wymagają zatwierdzenia sądu okręgowego na wniosek spółki, pełnomocnika właścicieli obligacyj lub kuratora, wyznaczonego w celu tymczasowego reprezentowania ogółu właścicieli obligacyj. Wniosek o zatwierdzenie powinien być zgłoszony w sądzie w terminie miesięcznym od daty powzięcia uchwały pod rygorem jej nieważności. 2. Sąd, rozpoznając sprawę, stosuje odpowiednio przepisy o postępowaniu w sprawach rejestrowych z następującymi zmianami: 1) sąd rozpoznaje sprawę w składzie trzech sędziów, przy czym - jeżeli w sądzie okręgowym został utworzony wydział handlowy - sprawa będzie rozpoznana w tym wydziale; 2) sąd ogłosi o terminie pierwszej rozprawy w Monitorze Polskim na miesiąc naprzód; w ogłoszeniu należy zaznaczyć, iż spółka, pełnomocnik właścicieli obligacyj lub kurator oraz każdy właściciel obligacji mogą wziąć udział w postępowaniu w charakterze strony; 3) pisma sądowe doręcza się spółce, pełnomocnikowi właścicieli obligacyj lub kuratorowi, jeżeli taki przedstawiciel został ustanowiony oraz tym właścicielom obligacyj, którzy wzięli udział w postępowaniu w charakterze stron; 4) zmiana prawomocnego orzeczenia sądu zatwierdzającego uchwałę lub odmawiającego zatwierdzenia, może nastąpić tylko według przepisów o wznowieniu postępowania. 3. Sąd odmówi zatwierdzenia uchwały, jeżeli: 1) uchwała jest powzięta wbrew przepisom prawa; 2) uchwała, nawet w przypadku zgodności z przepisami prawa, godzi wbrew dobrym obyczajom w interesy właściciela obligacji. 4. Od podania o zatwierdzenie uchwały, zażalenia na postanowienie, zatwierdzające uchwałę lub odmawiające zatwierdzenia, skargi kasacyjnej i od skargi o wznowienie pobiera sąd wpis stosunkowy, zależnie od wartości przedmiotu postępowania, w wysokości od 100 zł do 1.000 zł, którego wysokość oznacza tymczasowo przy wniesieniu podania przewodniczący; poza tym w postępowaniu o zatwierdzenie uchwały stosuje się odpowiednio przepisy o kosztach sądowych."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Uchwała zgromadzenia właścicieli obligacyj, nie wymagająca zatwierdzenia sądu, powzięta wbrew przepisom prawa, może być zaskarżona w drodze powództwa o unieważnienie uchwały, wytoczonego przeciwko ogółowi właścicieli obligacyj w osobie pełnomocnika, wybranego przez zgromadzenie, lub kuratora. Jeżeli chodzi o unieważnienie uchwały w sprawach, wymienionych w art. 44 ust. 2 pkt 1) i 2) lub w art. 45 ust. 3, powództwo należy wytoczyć przeciwko ogółowi właścicieli obligacyj oraz spółce. 2. Uchwała, nie wymagająca zatwierdzenia sądu, może być zaskarżona nawet w przypadku zgodności jej z przepisami prawa, jeżeli wbrew dobrym obyczajom godzi w interes właściciela obligacji. 3. Prawo do wytoczenia powództwa służy: 1) każdemu właścicielowi obligacji, który głosował przeciwko uchwale i po jej powzięciu zażądał zaprotokołowania sprzeciwu; 2) właścicielowi obligacyj bezzasadnie nie dopuszczonemu do udziału w zgromadzeniu; 3) właścicielom obligacyj nieobecnym na zgromadzeniu, którzy reprezentują przynajmniej 1/20 ogólnej wartości nominalnej obligacyj danej emisji, dających właścicielom prawo do uczestniczenia w zgromadzeniu; 4) każdemu właścicielowi obligacyj nieobecnemu na zgromadzeniu w przypadku wadliwego zwołania zgromadzenia lub powzięcia uchwał, nie objętych porządkiem obrad. 4. Pozew o unieważnienie uchwały należy wnieść w ciągu dwóch miesięcy od dnia jej ogłoszenia w Monitorze Polskim, a gdy uchwała nie podlega ogłoszeniu - od dnia otrzymania wiadomości o uchwale, nie później jednak, niż w ciągu roku od daty powzięcia uchwały."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Jeżeli pełnomocnicy nie zostali wybrani przez zgromadzenie właścicieli obligacyj lub nie mogą działać, sąd, właściwy do rozstrzygnięcia powództwa o unieważnienie uchwały zgromadzenia, wyznaczy przed wniesieniem lub po wniesieniu pozwu kuratora do działania w imieniu ogółu właścicieli obligacyj. 2. Koszty, związane z ustanowieniem i czynnościami kuratora, ponosi tymczasowo powód. W razie unieważnienia uchwały koszty procesu ponosi spółka emitująca, ma jednak prawo potrącić je przy wypłacie procentów, przy czym każdorazowo potrącenie nie może przenosić 1/10 ogólnej sumy procentów, przypadającej do wypłaty. Prawo potrącenia nie służy spółce w razie unieważnienia uchwały w sprawach, wymienionych w art. 44 ust. 2 pkt 1) i 2) oraz w art. 45 ust. 3 i 4."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Wyrok, uchylający uchwałę zgromadzenia właścicieli obligacyj, ma moc obowiązującą w stosunku do wszystkich właścicieli obligacyj danej emisji."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Pełnomocnik, wybrany do stałej obrony interesów ogółu właścicieli obligacyj, zgłosi swoje miejsce zamieszkania do rejestru handlowego w celu wpisania pod numerem spółki emitującej. 2. Pełnomocnik taki ma prawo: 1) żądać od władz spółki materiałów, danych i informacyj, potrzebnych mu do należytego wykonywania obowiązków; 2) uczestniczyć w walnym zgromadzeniu spółki emitującej z głosem doradczym; 3) dokonywać czynności zachowawczych, jakie należy podjąć w interesie właścicieli obligacyj dla zabezpieczenia ich praw, wynikających z obligacyj. 3. Jeżeli pełnomocnik nie został wybrany lub nie ujawnił w rejestrze swego miejsca zamieszkania albo nie może działać, a zwłoka grozi niebezpieczeństwem bądź ogółowi właścicieli obligacyj, bądź osobie trzeciej, sąd rejestrowy spółki na wniosek strony interesowanej wyznaczy kuratora w celu tymczasowego reprezentowania ogółu właścicieli obligacyj. Kuratela ustaje, gdy odpadł powód, dla którego ją ustanowiono. 4. Koszty wynagrodzenia pełnomocników i kuratora obciążają spółkę emitującą. Sąd rejestrowy określa wysokość wynagrodzenia."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Członkowie władz zarządzających i nadzorczych, pracownicy spółki emitującej oraz instytucji, której spółka zleciła dokonywanie wypłat za obligacje i kupony danej emisji, nie mogą być pełnomocnikami, wybieranymi przez zgromadzenie właścicieli obligacyj."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Dochodzenie roszczeń indywidualnych przez właścicieli obligacyj jest dopuszczalne z tym zastrzeżeniem, że nie mogą one co do istoty żądań być sprzeczne z uchwałami zgromadzenia właścicieli obligacyj."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Umowa nie może uchylić ani ograniczyć uprawnień, służących w myśl prawa niniejszego zgromadzeniu właścicieli obligacyj i pełnomocnikom przez to zgromadzenie wybranym."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Przepisy działu niniejszego stosuje się odpowiednio do gwarectw i spółdzielni. 2. Gwarectwa i spółdzielnie będą umieszczały ogłoszenia, przewidziane w dziale niniejszym, w Monitorze Polskim i przynajmniej w jednym z pism codziennych, wychodzących w stolicy. Dział IV Odpowiedzialność karna"
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Kto wbrew przepisowi art. 1 przyjmuje zapisy na obligacje, obligacje emituje lub puszcza je w obieg, podlega karze więzienia do lat 5 i grzywny. 2. Jeżeli sprawca działa nieumyślnie, podlega karze aresztu do lat 2 lub grzywny."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Kto przy wykonywaniu obowiązków, określonych w prawie niniejszym, dane nieprawdziwe ogłasza albo przedstawia władzom państwowym, władzom osoby prawnej emitującej, osobie powołanej do rewizji, zgromadzeniu właścicieli obligacyj lub pełnomocnikowi, wybranemu przez to zgromadzenie, podlega karze więzienia do lat 2 lub grzywny albo obu karom łącznie. 2. Jeżeli sprawca działa nieumyślnie, podlega karze aresztu do roku lub grzywny."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Kto w celu umożliwienia bezprawnego głosowania na zgromadzeniu właścicieli obligacyj: 1) wystawia fałszywe zaświadczenie o złożeniu obligacji, uprawniającej do głosowania; 2) użycza innemu obligacji, która nie uprawniałaby jej właściciela do głosowania, podlega karze więzienia do roku lub grzywny, albo obu karom łącznie."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Kto przy głosowaniu na zgromadzeniu właścicieli obligacyj posługuje się: 1) fałszywym zaświadczeniem o złożeniu obligacji, uprawniającej do głosowania; 2) cudzą obligacją bez zgody właściciela; 3) cudzą obligacją, która nie uprawniałaby jej właściciela do głosowania, podlega karze więzienia do roku lub grzywny albo obu karom łącznie."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Członek zarządu osoby prawnej emitującej, który dopuszcza do: 1) wystawiania obligacyj niezgodnie z przepisami art. 2 lub 3; 2) wydawania obligacyj niedostatecznie opłaconych wbrew przepisowi art. 5; 3) wydawania obligacyj przed ustanowieniem zabezpieczeń, przewidzianych w warunkach emisji; 4) przyjmowania zapisów na obligacje lub emitowania obligacyj wbrew przepisom art. 17 ust. 1 albo art. 18 ust. 1 lub 2; 5) wydawania obligacyj wbrew przepisowi art. 25 ust. 2, 3 lub 4, podlega karze więzienia do lat 2 lub grzywny albo obu karom łącznie."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Sprawy o przestępstwa, wymienione w art. 58 - 62, należą do właściwości sądów okręgowych."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Kto, będąc członkiem zarządu osoby prawnej emitującej, wbrew obowiązkowi dopuszcza do tego, że zarząd: 1) odmawia wyjaśnień lub nie dostarcza dokumentów biegłym rewidentom wbrew przepisowi art. 17 ust. 2 lub art. 25 ust. 2; 2) nie składa sądowi rejestrowemu dokumentów zgodnie z przepisami art. 15 ust. 2, art. 18 ust. 1, art. 24, 25 ust. 3 i 5 lub art. 47 ust. 2; 3) nie prowadzi księgi obligacyj imiennych zgodnie z przepisem art. 9; 4) nie ogłasza wylosowanych obligacyj zgodnie z przepisem art. 11 ust. 2; 5) nie składa oświadczenia, przewidzianego w art. 40 ust. 2; 6) nie dostarcza pełnomocnikom materiałów, danych i informacyj wbrew przepisowi art. 53 ust. 2, podlega grzywnie do 10.000 złotych. 2. Przepisy ust. 1 stosuje się odpowiednio do likwidatorów. 3. Sąd rejestrowy nakłada grzywnę według zasad, wskazanych w art. 17 kodeksu handlowego . Dział V Przepisy tymczasowe i przejściowe Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. W przypadku zniszczenia lub utraty obligacji imiennej stosuje się odpowiednio art. LXV przepisów, wprowadzających kodeks handlowy . Wszelkie koszty, związane z unieważnieniem obligacji i wydaniem w zamian nowej, ponosi osoba interesowana. 2. Ogłoszenia, przewidziane w art. LXV przepisów wprowadzających kodeks handlowy , powinny być zamieszczane w Monitorze Polskim, a jeżeli chodzi o spółkę akcyjną - również w innych pismach, przeznaczonych do jej ogłoszeń."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Do obligacyj, emitowanych przed wejściem w życie prawa niniejszego, stosuje się przepisy dotychczasowe. 2. Jednakże do takich obligacyj, emitowanych przez spółki akcyjne i gwarectwa, stosuje się przepisy art. 28 i 34-57. Rozdział 2 Przepisy dla obszaru mocy obowiązującej kodeksu Napoleona, kodeksu cywilnego austriackiego i tomu X cz. i Zwodu Praw"
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "1. Można na rzecz właścicieli obligacyj ustanowić zabezpieczenie hipoteczne. Do ustanowienia hipoteki wystarcza jednostronne oświadczenie właściciela nieruchomości. 2. Wpis w księdze hipotecznej powinien wskazywać w szczególności: ogólną sumę, dla której ustanawia się hipotekę, ilość, serię, numery i wartość nominalną obligacyj, termin i sposób ich spłaty oraz oprocentowanie. 3. Wierzyciela imiennie nie oznacza się."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Przez nabycie obligacji nabywa się również hipotekę, która ją zabezpiecza, bez potrzeby ujawniania przelewu w księdze hipotecznej."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Protokół unieważnienia wycofanych z obiegu obligacyj, sporządzony przez notariusza, jest tytułem do wykreślenia praw hipotecznych, ustanowionych na rzecz właścicieli obligacyj. Obligacje, wycofane z obiegu, unieważnia się przez skasowanie na nich w sposób trwały podpisów dłużnika."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Pełnomocnik, wybrany przez zgromadzenie właścicieli obligacyj (art. 44 ust. 2 pkt 4)), ujawni w księdze hipotecznej swoje zamieszkanie i w przypadku wszczęcia egzekucji do nieruchomości, na której są zabezpieczone hipotecznie obligacje, dopilnuje praw właścicieli obligacyj. 2. Sąd ustanowi w trybie art. 660 kodeksu postępowania cywilnego kuratora do reprezentowania właścicieli obligacyj, jeżeli pełnomocnik nie może działać lub nie ujawnił swojego zamieszkania w księdze hipotecznej. 3. Przepisów artykułu niniejszego nie stosuje się na obszarze mocy obowiązującej kodeksu cywilnego austriackiego."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Na obszarze mocy obowiązującej kodeksu cywilnego austriackiego stosuje się nadto przepisy następujące: 1) do podania o uzyskanie wpisu w księdze hipotecznej na rzecz właścicieli obligacyj nie potrzeba załączać dokumentu dłużnego; 2) sąd grodzki miejsca zamieszkania (siedziby) dłużnika ustanowi na jego wniosek kuratora dla doręczeń uchwał sądu hipotecznego, dotyczących praw właścicieli obligacyj. Rozdział 3 Przepisy dla obszaru mocy obowiązującej kodeksu cywilnego niemieckiego"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1. Przepisy prawa niniejszego nie naruszają praw i obowiązków pełnomocnika hipotecznego, ustanowionego na podstawie § 1189 kodeksu cywilnego niemieckiego. Ponadto pełnomocnikowi temu służy prawo zwoływania zgromadzenia właścicieli obligacyj tak, jak pełnomocnikowi, wybranemu przez zgromadzenie właścicieli obligacyj. 2. Jeżeli w przypadku, określonym w ust. 1, dla ustanowienia nowego pełnomocnika hipotecznego na miejsce dotychczasowego konieczne jest współdziałanie wierzycieli, zgromadzenie właścicieli obligacyj może powziąć uchwałę, obowiązującą wszystkich właścicieli obligacyj danej emisji, co do ustanowienia nowego pełnomocnika. Uchwała taka zapada większością 3/4 głosów oddanych. 3. Na wniosek właścicieli obligacyj, reprezentujących przynajmniej 1/5 ogólnej wartości nominalnej obligacyj danej emisji, będących w obiegu, sąd może z ważnych powodów odwołać pełnomocnika, ustanowionego przy hipotece na rzecz właścicieli obligacyj na podstawie § 1189 kodeksu cywilnego, lub na jego miejsce mianować innego. Właściwy jest sąd grodzki siedziby dłużnika. Sąd wysłucha przed wydaniem orzeczenia w miarę możności dłużnika, a także pełnomocnika hipotecznego, jeżeli ma go odwołać. Na orzeczenie sądu służy natychmiastowo zażalenie. Sąd może wydać zarządzenie tymczasowe przed wydaniem orzeczenia w sprawie wniosku o odwołanie pełnomocnika hipotecznego. 4. Sąd, który odwołał lub mianował pełnomocnika hipotecznego, zarządzi dokonanie odpowiedniego wpisu w księdze gruntowej. 5. Nie stosuje się przepisów § 44 ust. 1 ustawy o księgach gruntowych przy ujawnianiu w księdze gruntowej zmiany pełnomocnika hipotecznego."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "1. Stosuje się przepisy art. 72 również do pełnomocnika właścicieli obligacyj, ustanowionego na podstawie przepisów, które obowiązywały przed wejściem w życie kodeksu cywilnego niemieckiego. 2. Pełnomocnik, wymieniony w ust. 1, jest zrównany w rozumieniu § 44 ust. 2 ustawy o księgach gruntowych z pełnomocnikiem hipotecznym, ustanowionym na podstawie § 1189 kodeksu cywilnego niemieckiego. Dział VI Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Ustawa niniejsza nie dotyczy listów zastawnych."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Stosuje się do obligacyj, emitowanych przez Państwo, jedynie przepisy art. 67 - 69, 70 ust. 2 i 3 i art. 71 z tą zmianą, że protokoły unieważnienia obligacyj, przewidziane w art. 69, będzie sporządzał organ, wyznaczony przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Z dniem wejścia w życie ustawy niniejszej tracą moc przepisy, dotyczące przedmiotów, unormowanych w tej ustawie. W szczególności tracą moc: 1) dekret nadworny austriacki z dnia 17 grudnia 1847 r. (Zb. u. sąd. Nr 1105) oraz ustawy austriackie: z dnia 24 kwietnia 1874 r. (Dz. u. p. austr. Nr 49), z dnia 5 grudnia 1877 r. (Dz. u. p. austr. Nr 111), o ile przepisy tych ustaw dotyczą posiadaczy udziałowych zapisów dłużnych, i z dnia 27 grudnia 1905 r. (Dz. u. p. austr. Nr 213); 2) ustawa niemiecka z dnia 4 grudnia 1899 r. (Dz. u. Rzeszy r. 1899, str. 691) w brzmieniu, ustalonym ustawą z dnia 14 maja 1914 r. (Dz. u. Rzeszy r. 1914, str. 121), o ile dotyczy obligacyj."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Ustawa niniejsza wchodzi w życie na całym obszarze Państwa z dniem 1 lipca 1939 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"bran_I-arti_2-pass_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"bran_I-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"bran_I-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"bran_I-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"bran_I-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_I-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"bran_I-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"bran_I-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Emitowanie obligacyj\",\"children\": [{\"id\": \"bran_II-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Emitowanie obligacyj przez spółki akcyjne\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"bran_II-chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"bran_II-chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_II-chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-chpt_1-arti_15-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_II-chpt_1-arti_15-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_II-chpt_1-arti_15-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"bran_II-chpt_1-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"bran_II-chpt_1-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_17-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_17-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_II-chpt_1-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_1-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_II-chpt_1-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"bran_II-chpt_1-arti_18-pass_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"bran_II-chpt_1-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_II-chpt_1-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_19-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_19-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-chpt_1-arti_19-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_II-chpt_1-arti_19-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"bran_II-chpt_1-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_24-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_24-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-chpt_1-arti_24-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_II-chpt_1-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_II-chpt_1-arti_25-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_II-chpt_1-arti_25-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_II-chpt_1-arti_25-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_25-pass_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt_1-arti_25-pass_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"bran_II-chpt_1-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_II-chpt_1-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"bran_II-chpt_1-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"bran_II-chpt_1-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_II-chpt_1-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_II-chpt_1-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"}]},{\"id\": \"bran_II-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Emitowanie obligacyj przez związki samorządu terytorialnego, fundacje, gwarectwa i spółdzielnie\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_II-chpt_2-arti_30-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-chpt"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "sąd rozpoznaje sprawę w składzie trzech sędziów, przy czym",
+      "definition": "jeżeli w sądzie okręgowym został utworzony wydział handlowy - sprawa będzie rozpoznana w tym wydziale",
+      "source_provision": "art49"
+    }
+  ]
+}

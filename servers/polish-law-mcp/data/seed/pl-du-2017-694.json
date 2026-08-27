@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2017-694",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 marca 2017 r. o zmianie ustawy o rzecznikach patentowych",
+  "title_en": "",
+  "short_name": "pl-du-2017-694",
+  "status": "amended",
+  "issued_date": "2017-03-09",
+  "in_force_date": "2017-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/694",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 11 kwietnia 2001 r. o rzecznikach patentowych ( Dz. U. z 2016 r. poz. 221 i 1579 ) wprowadza się następujące zmiany: 1) w art. 13: a) ust. 2 otrzymuje brzmienie: „ 2. Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych, określi, w drodze rozporządzenia, wysokość stawek minimalnych opłat za czynności rzeczników patentowych przed organami wymiaru sprawiedliwości oraz przed Urzędem Patentowym działającym w trybie postępowania spornego i w sprawie sprzeciwu, stanowiących podstawę do ustalenia kosztów zastępstwa, które mogą być zasądzone przez sąd lub orzeczone przez Urząd Patentowy, mając na względzie rodzaj i zawiłość sprawy oraz niezbędny nakład pracy rzecznika patentowego, w tym czynności podjęte w celu polubownego rozwiązania sporu, również przed wniesieniem pozwu. ” , b) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Koszty zastępstwa można ustalić w wysokości wyższej niż stawka minimalna opłaty, stosowana w odniesieniu do czynności danego rodzaju, ale nieprzekraczającej sześciokrotności tej stawki, jeżeli przemawia za tym rodzaj i zawiłość sprawy oraz niezbędny nakład pracy rzecznika patentowego, w tym czynności podjęte w celu polubownego rozwiązania sporu, również przed wniesieniem pozwu. W przypadku ustalenia opłaty za czynności rzecznika patentowego w wysokości niższej niż stawka minimalna opłaty, stosowana w odniesieniu do czynności danego rodzaju, koszty zastępstwa ustala się zgodnie z przedstawionym spisem kosztów. ” , c) uchyla się ust. 3; 2) w art. 13a: a) ust. 1 otrzymuje brzmienie: „ 1. Skarb Państwa ponosi koszty nieopłaconej pomocy prawnej udzielonej przez rzecznika patentowego ustanowionego z urzędu. ” , b) uchyla się ust. 2, c) dodaje się ust. 3-5 w brzmieniu: „ 3. W sprawie, w której kosztami postępowania został obciążony przeciwnik strony korzystającej z pomocy udzielonej przez rzecznika patentowego ustanowionego z urzędu, koszty, o których mowa w ust. 1, sąd przyznaje po wykazaniu bezskuteczności ich egzekucji. 4. Koszty, o których mowa w ust. 1, obejmują: 1) koszty zastępstwa w wysokości nie wyższej niż 150% stawek minimalnych opłat w postępowaniu przed sądami administracyjnymi, określonych w przepisach wykonawczych wydanych na podstawie art. 13 ust. 2, oraz 2) niezbędne udokumentowane wydatki rzecznika patentowego. 5. Wniosek o przyznanie kosztów nieopłaconej pomocy prawnej zawiera oświadczenie, że koszty te nie zostały zapłacone w całości lub w części. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Przy ustalaniu kosztów zastępstwa w postępowaniach wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się dotychczasowe stawki minimalne. 2. Do ustalenia kosztów nieopłaconej pomocy prawnej udzielonej przez rzecznika patentowego ustanowionego z urzędu w postępowaniu przed sądem administracyjnym, które zostało wszczęte przed dniem wejścia w życie niniejszej ustawy, stosuje się dotychczasowe stawki minimalne. 3. Do umów z klientami, o których mowa w art. 13 ust. 1 ustawy zmienianej w art. 1, zawartych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2006/123/WE z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, s. 36). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

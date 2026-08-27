@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1993-645",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 grudnia 1993 r. o zmianie ustawy o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego.",
+  "title_en": "",
+  "short_name": "pl-du-1993-645",
+  "status": "amended",
+  "issued_date": "1993-12-03",
+  "in_force_date": "1993-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/645",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ( Dz. U. Nr 17, poz. 75 i Nr 104, poz. 450 , z 1992 r. Nr 21, poz. 85 oraz z 1993 r. Nr 29, poz. 133 i Nr 129, poz. 602 ) w art. 27 skreśla się wyrazy „ jednak nie dłużej niż do dnia 31 grudnia 1993 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

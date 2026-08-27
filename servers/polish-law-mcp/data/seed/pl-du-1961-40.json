@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1961-40",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1961 r. o zmianie niektórych przepisów Kodeksu Karnego Wojska Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1961-40",
+  "status": "repealed",
+  "issued_date": "1961-01-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1961/40",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Kodeksie Karnym Wojska Polskiego z dnia 23 września 1944 r. ( Dz. U. z 1957 r. Nr 22, poz. 107 , z 1958 r. Nr 36, poz. 165 i z 1960 r. Nr 51, poz. 299 ) wprowadza się następujące zmiany: 1) w art. 39 skreśla się wyliczenie oznaczone lit. g); 2) w art. 46 skreśla się § 5; 3) w art. 55: a) po § 2 dodaje się nowy § 3 w brzmieniu: „ § 3. Jeżeli stosunki gospodarcze skazanego na to pozwalają, sąd może zobowiązać skazanego, by wynagrodził szkodę wyrządzoną przestępstwem, w czasie i rozmiarach ustalonych w wyroku. ” , b) dotychczasowy § 3 oznacza się jako § 4; 4) art. 56 otrzymuje brzmienie: „ Art. 56. § 1. Jeżeli w okresie zawieszenia kary skazany popełni nowe przestępstwo z tych samych pobudek lub tego samego rodzaju co poprzednie, sąd zarządzi wykonanie zawieszonej kary. § 2. Sąd może zarządzić wykonanie zawieszonej kary, jeżeli w okresie zawieszenia kary skazany popełni inne przestępstwo niż określone w § 1, źle się prowadzi, nie wykona obowiązku wynagrodzenia szkody albo nie uiści grzywny w terminie. ” ; 5) w art. 110 § 1 skreśla się wyrazy „na czas nie krótszy od lat 2” ; 6) w art. 115 skreśla się oznaczenie „§ l” oraz przepis § 2; 7) w art. 117 § 2 wyrazy „od lat 5” zastępuje się wyrazami „od roku” ; 8) w art. 130 dodaje się nowy § 3 w brzmieniu: „ § 3. Jeżeli sprawca czynu określonego w § 1 lub w § 2 działa nieumyślnie, podlega karze więzienia do lat 3 lub karze aresztu. ” ; 9) w art. 144 dodaje się nowy § 3 w brzmieniu: „ § 3. Jeżeli w przypadku określonym w § 1 lub w § 2 naruszenie regulaminowych zasad prowadzenia pojazdów mechanicznych oraz przepisów jazdy na drogach było nieumyślne, sprawca podlega karze więzienia do lat 2 lub karze aresztu. ” ; 10) art. 153 skreśla się; 11) w art. 156 dodaje się nowy § 4 w brzmieniu: „ § 4. Żołnierz, który nieumyślnie dopuszcza do utraty posiadanej broni służbowej, podlega karze więzienia do lat 2 lub karze aresztu. ” ; 12) w art. 160 § 1 wyrazy „od lat 2 do 5” zastępuje się wyrazami „do lat 3 lub karze aresztu” ; 13) w art. 163 dotychczasową treść oznacza się jako § 1 i dodaje się nowy § 2 w brzmieniu: „ § 2. W przypadkach mniejszej wagi sąd może zastosować nadzwyczajne złagodzenie kary. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"arti_1-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

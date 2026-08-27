@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-2511",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 2018 r. zmieniająca ustawę o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne",
+  "title_en": "",
+  "short_name": "pl-du-2018-2511",
+  "status": "in_force",
+  "issued_date": "2018-12-14",
+  "in_force_date": "2018-12-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/2511",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 lipca 2018 r. o zmianie ustawy o podatku akcyzowym oraz ustawy - Prawo celne ( Dz. U. poz. 1697 ) wprowadza się następujące zmiany: 1) po art. 3 dodaje się art. 3a w brzmieniu: „ Art. 3a. 1. W okresie od dnia 1 stycznia 2019 r. do dnia 31 grudnia 2019 r. podmiot dokonujący na terytorium kraju przemieszczania poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego ze względu na ich przeznaczenie lub wyrobów akcyzowych wymienionych w załączniku nr 2 do ustawy zmienianej w art. 1, opodatkowanych zerową stawką podatku akcyzowego ze względu na ich przeznaczenie, może do tego przemieszczania stosować przepisy dotychczasowe. 2. Do przemieszczeń poza procedurą zawieszenia poboru akcyzy wyrobów akcyzowych objętych zwolnieniem od podatku akcyzowego ze względu na ich przeznaczenie oraz wyrobów akcyzowych wymienionych w załączniku nr 2 do ustawy zmienianej w art. 1, opodatkowanych zerową stawką podatku akcyzowego ze względu na ich przeznaczenie, rozpoczętych w okresie, o którym mowa w ust. 1, na podstawie przepisów dotychczasowych i niezakończonych w tym okresie, stosuje się przepisy dotychczasowe. 3. Przepisu ust. 1 nie stosuje się do przemieszczeń poza procedurą zawieszenia poboru akcyzy wyrobów węglowych przeznaczonych do celów opałowych, o których mowa w art. 31a ust. 1 ustawy zmienianej w art. 1. ” ; 2) w art. 10 wyrazy „przed dniem 1 stycznia 2019 r.” zastępuje się wyrazami „przed dniem 1 stycznia 2020 r.” ; 3) w art. 13 po wyrazach „36-38,” dodaje się wyrazy „art. 3a,” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2019 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

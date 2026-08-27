@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1922-822",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 września 1922 r. w przedmiocie ochrony drobnych dzierżawców rolnych, b. czynszowników oraz \"wolnych ludzi\" na obszarze województw: nowogródzkiego, poleskiego, wołyńskiego i powiatów: grodzieńskiego, wołkowyskiego, wołożyńskiego, wilejskiego, wileńskiego, oszmiańskiego, trockiego, święciańskiego, brasławskiego, duniłowiczowskiego, dziśnieńskiego, lidzkiego i gmin: białowieskiej, masiewskiej oraz suchopolskiej powiatu bielskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-822",
+  "status": "in_force",
+  "issued_date": "1922-09-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/822",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoby, które w dniu 1 sierpnia 1914 r. posiadały i obecnie władają jako dzierżawcy lub nieuznani ostatecznie przez urzędy rosyjskie b. czynszownicy i „wolni ludzie”. poza obrębem miast i miasteczek w województwach: nowogródzkiem, poleskiem, wołyńskiem i powiatach: grodzieńskim, wołkowyskim, lidzkim, wołożyńskim, wilejskim, oszmiańskim, wileńskim, trockim, święciańskim, brasławskim, duniłowiczowskim, dziśnieńskim i gminach: białowieskiej, masiewskiej oraz suchopolskiej powiatu bielskiego gruntami, nie przewyższającemi w województwie wołyńskiem 25 dziesięcin, a w pozostałych miejscowościach 40 dziesięcin dla każdego posiadacza, nie mogą być usuwani z gruntu oraz z zajmowanych pomieszczeń do dnia 1 listopada 1923 r., chociażby ich umowy dzierżawne wygasły. Osoby, które legalnie nabyły od dzierżawców, władających określonemi powyżej normami gruntów, ich prawa, mają wszelkie prawa, przyznane przez niniejszą ustawę. Przy obliczaniu przestrzeni gruntów, która daje prawo korzystania z niniejszej ustawy, nie mogą być wliczane pastwiska, z których korzystają dzierżawcy w lasach właściciela."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Roczna opłata dzierżawna nie może przekraczać za 1 dziesięcinę gruntów ornych i łąk kośnych sumy, równającej się przeciętnej cenie rynkowej za 100 kg. żyta w sierpniu każdego roku, a za inne użytki 30% tej sumy. Jeżeli podatki gruntowe opłaca właściciel gruntu, opłaty powyższe powiększa się o wysokość wpłaconego za dany obszar podatku. Opłaty te należy uiszczać najpóźniej 1 października każdego roku. Określenie powyższe opłaty nie dotyczy b. czynszowników i „wolnych ludzi”, wskazanych w art. 1 ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przepisy art. 1 nie stosują się do dzierżawców, którzy nie uiszczą w oznaczonym w art. 2 terminie przypadającej od nich opłaty, albo wprowadzą na nich urządzenia handlowe lub przemysłowe, nie wynikające z charakteru ich użytkowania, oraz do osób, dewastujących majątek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przepisy ustawy niniejszej nie naruszają mocy umów obowiązujących, zawartych przez dzierżawców, względnie czynszowników i „wolnych ludzi” z właścicielami gruntów po 1 sierpnia 1914 r. co do zlikwidowania lub zmiany warunków dzierżawy lub użytkowania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie wyroków sądowych w części, tyczącej się eksmisji z dzierżawionych gruntów osób, wymienionych w art. 1 niniejszej ustawy, ulega zawieszeniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Grunty, znajdujące się we władaniu osób, odpowiadających przepisom art. 1 niniejszej ustawy, nie mogą być przejęte na rzecz osadnictwa wojskowego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza w niczem nie narusza lepszych praw, przysługujących dzierżawcom, „wolnym ludziom” i wieczystym czynszownikom z jakiegokolwiekbądź innego tytułu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Głównego Urzędu Ziemskiego i Ministrowi Sprawiedliwości w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 marca 1922 r. Z dniem wejścia w życie ustawy niniejszej tracą moc obowiązującą rozporządzenia Rady Ministrów z dnia 22 lutego 1921 r. (Dz. U. R. P. № 19 poz. 110) i z dnia 23 lutego 1922 r. (Dz. U. R. P. № 12 poz. 109). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

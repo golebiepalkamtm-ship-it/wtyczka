@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1996-488",
+  "type": "statute",
+  "title": "Ustawa konstytucyjna z dnia 21 czerwca 1996 r. o zmianie ustawy konstytucyjnej o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym.",
+  "title_en": "",
+  "short_name": "pl-du-1996-488",
+  "status": "repealed",
+  "issued_date": "1996-06-21",
+  "in_force_date": "1996-08-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/488",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie konstytucyjnej z dnia 17 października 1992 r. o wzajemnych stosunkach między władzą ustawodawczą i wykonawczą Rzeczypospolitej Polskiej oraz o samorządzie terytorialnym ( Dz. U. Nr 84, poz. 426 oraz z 1995 r. Nr 38, poz. 184 i Nr 150, poz. 729 ) wprowadza się następujące zmiany: 1) w art. 52 w ust. 2 pkt 3 otrzymuje brzmienie: „ 3) kieruje, koordynuje i kontroluje pracę wszystkich innych organów administracji rządowej, ponosząc za ich pracę odpowiedzialność przed Sejmem, ” ; 2) w art. 53 w ust. 1 pkt 4 otrzymuje brzmienie: „ 4) osoby powołane w trybie art. 57-62, których członkostwo wynika z ustaw szczególnych. ” ; 3) w art. 56: a) ust. 1 i 2 otrzymują brzmienie: „ 1. Minister jest powołany dla kierowania określonym działem administracji rządowej lub dla wypełniania zadań wyznaczonych przez Prezesa Rady Ministrów. 2. Minister kierujący działem administracji rządowej działa w tym zakresie w ramach uprawnień określanych ustawami oraz wydaje rozporządzenia i zarządzenia w celu wykonania ustaw i na podstawie udzielonych w nich upoważnień. ” , b) skreśla się ust. 3."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

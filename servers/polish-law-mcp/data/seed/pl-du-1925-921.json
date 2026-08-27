@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-921",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 grudnia 1925 r. w przedmiocie zmiany niektórych przepisów statutu Polskiej Agencji Telegraficznej, obowiązującego na zasadzie rozporządzenia Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r.",
+  "title_en": "",
+  "short_name": "pl-du-1925-921",
+  "status": "in_force",
+  "issued_date": "1925-12-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/921",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1 załączonego do rozporządzenia Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r. statutu Polskiej Agencji Telegraficznej (Dz. U. R. P. № 55 poz. 547) uzupełnia się w ustępie 1 po słowach: „na przedsiębiorstwo państwowe” słowami: „oparte na zasadach kupieckich”. § 10 otrzymuje brzmienie następujące: „Prezes Rady Ministrów ustanawia radę nadzorczą w składzie powoływanych i odwoływanych przez siebie 3 członków i 1 zastępcy i powołuje z ich grona przewodniczącego. Radę nadzorczą ustanawia się w zasadzie na okres pięcioletni. Rada nadzorcza sprawuje z ramienia Prezesa Rady Ministrów nadzór i kontrolę nad finansowo-gospodarczą i techniczną stroną przedsiębiorstwa, współdziała w ustalaniu planu gospodarczego i czuwa nad jego wykonaniem, bada sprawozdania dyrekcji przedsiębiorstwa i bilanse i przedstawia Prezesowi Rady Ministrów swoje wnioski i opinje. Członkowie rady nadzorczej otrzymują za swoją pracę wynagrodzenie, krórego zasady i wysokość określa na wniosek przewodniczącego rady nadzorczej Prezes Rady Ministrów w porozumieniu z Ministrem Skarbu”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Rady Ministrów w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

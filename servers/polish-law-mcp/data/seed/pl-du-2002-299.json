@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-299",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 2002 r. o zmianie ustawy o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł.",
+  "title_en": "",
+  "short_name": "pl-du-2002-299",
+  "status": "repealed",
+  "issued_date": "2002-03-15",
+  "in_force_date": "2002-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/299",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych źródeł ( Dz. U. Nr 116, poz. 1216 , z 2001 r. Nr 63, poz. 641 i z 2002 r. Nr 25, poz. 253 ) wprowadza się następujące zmiany: 1) po art. 47 dodaje się art. 47a w brzmieniu: „ Art. 47a. W okresie od dnia 31 marca 2002 r. do dnia 31 grudnia 2002 r. przepisy ustawy stosuje się również do wymiany znaków pieniężnych nominowanych w walutach narodowych na znaki pieniężne nominowane w euro, dokonywanej na podstawie przepisów ustawy z dnia 25 maja 2001 r. o skutkach wprowadzenia w niektórych państwach członkowskich Unii Europejskiej wspólnej waluty euro ( Dz. U. Nr 63, poz. 640 ) , w tym także przez Narodowy Bank Polski. ” ; 2) w art. 49: a) pkt 2 otrzymuje brzmienie: „ 2) art. 8 ust. 1, który wchodzi w życie z dniem 1 lipca 2004 r., ” b) w pkt 3 wyrazy „z dniem 31 marca 2002 r.” zastępuje się wyrazami „z dniem 30 czerwca 2004 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 31 marca 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

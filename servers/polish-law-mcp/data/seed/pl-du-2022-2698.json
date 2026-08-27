@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2022-2698",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 grudnia 2022 r. o zaniechaniu ścigania za niektóre czyny związane z organizacją wyborów Prezydenta Rzeczypospolitej Polskiej, zarządzonych na dzień 10 maja 2020 r.",
+  "title_en": "",
+  "short_name": "pl-du-2022-2698",
+  "status": "in_force",
+  "issued_date": "2022-12-01",
+  "in_force_date": "2022-12-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/2698",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nie wszczyna się postępowania, a wszczęte umarza, o czyn popełniony w czasie obowiązywania stanu epidemii w rozumieniu ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi ( Dz. U. z 2022 r. poz. 1657 , 2280 i 2674 ) , polegający na przekazaniu operatorowi pocztowemu będącemu operatorem wyznaczonym w rozumieniu ustawy z dnia 23 listopada 2012 r. - Prawo pocztowe ( Dz. U. z 2022 r. poz. 896 , 1933 i 2042 ) , spisu wyborców w związku z zarządzonymi na dzień 10 maja 2020 r. wyborami Prezydenta Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Orzeczone prawomocnie za czyny określone w art. 1 kary, środki karne, środki kompensacyjne oraz środki związane z poddaniem sprawcy próbie, niewykonane w całości lub w części, nie podlegają wykonaniu; nie podlegają również wykonaniu orzeczone prawomocnie nieuiszczone w całości lub w części koszty postępowania. Skazania za te czyny ulegają zatarciu z mocy prawa, a wpis o skazaniu i warunkowym umorzeniu postępowania o te czyny usuwa się z Krajowego Rejestru Karnego. 2. Ustalenia okoliczności, o których mowa w ust. 1, dokonuje sąd, który wydał wyrok w pierwszej instancji, z urzędu albo na wniosek prokuratora. Na postanowienie w tym przedmiocie przysługuje zażalenie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Koszty i opłaty związane z wykonaniem niniejszej ustawy ponosi Skarb Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W zakresie nieuregulowanym w niniejszej ustawie stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego ( Dz. U. z 2022 r. poz. 1375 , 1855 , 2582 i 2600 ) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

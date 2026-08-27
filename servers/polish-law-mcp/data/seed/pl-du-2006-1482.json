@@ -1,0 +1,85 @@
+{
+  "id": "pl-du-2006-1482",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 października 2006 r. o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne \"Tarnowskie Góry\" w Tarnowskich Górach w likwidacji",
+  "title_en": "",
+  "short_name": "pl-du-2006-1482",
+  "status": "in_force",
+  "issued_date": "2006-10-18",
+  "in_force_date": "2006-11-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1482",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa cel i zakres wykorzystania oraz sposób udzielania dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Użyte w ustawie określenia oznaczają: 1) dotacja - dotację w rozumieniu przepisów o finansach publicznych, która w przypadku gdy stanowi pomoc publiczną została uznana przez Komisję Europejską za zgodną z regułami wspólnego rynku; 2) zakład - przedsiębiorstwo państwowe Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dotację przeznacza się na dofinansowanie przedsięwzięcia „Ochrona Głównego Zbiornika Wód Podziemnych 330 - Gliwice, poprzez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie: 1) naprawiania szkód w środowisku wyrządzonych działalnością zakładu, poprzez: a) usuwanie, transport i umieszczenie w Centralnym Składowisku Odpadów należącym do zakładu odpadów zalegających na terenie i w rejonie zakładu, b) wypełnienie niecek powstałych po usuniętych odpadach oraz rekultywację terenów, o których mowa w lit. a; 2) wykonania działań zabezpieczających istniejącą infrastrukturę techniczną i środowisko w czasie realizacji zadań określonych w pkt 1, poprzez: a) utrzymywanie we właściwym stanie dróg kołowych i bocznicy kolejowej, b) zabezpieczenie gazociągu wysokociśnieniowego na czas wykonywanych prac."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dotację na wykonanie działań określonych w art. 3 przyznaje się na wniosek zakładu, w oparciu o zaakceptowany przez wojewodę śląskiego: 1) program likwidacji przedsiębiorstwa; 2) harmonogram rzeczowo-finansowy prac planowanych do wykonania."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Podstawą przyznania dotacji na wykonanie działań określonych w art. 3 jest umowa zawarta pomiędzy wojewodą śląskim a zakładem. 2. Umowa, o której mowa w ust. 1, określa w szczególności: 1) zobowiązanie zakładu do wykonywania działań określonych w art. 3; 2) wysokość dotacji i terminy jej przekazywania; 3) zasady rozliczania i przyczyny ewentualnego zwrotu dotacji."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przyznana przez wojewodę śląskiego dotacja jest wypłacana w terminach określonych w umowie, o której mowa w art. 5 ust. 1, na specjalnie w tym celu wyodrębniony przez zakład, rachunek bankowy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zakład przedstawia wojewodzie śląskiemu, do dnia 31 stycznia 2007 r., sprawozdanie z realizacji działań wykonanych w 2006 r. wraz z rozliczeniem rzeczowo-finansowym."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Dysponentem dotacji na wykonanie działań określonych w art. 3 jest wojewoda śląski."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa ma zastosowanie do wydatków ponoszonych przez zakład od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_3-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_3-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_5-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dotacja",
+      "definition": "dotację w rozumieniu przepisów o finansach publicznych, która w przypadku gdy stanowi pomoc publiczną została uznana przez Komisję Europejską za zgodną z regułami wspólnego rynku",
+      "source_provision": "art2"
+    },
+    {
+      "term": "zakład",
+      "definition": "przedsiębiorstwo państwowe Zakłady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji.",
+      "source_provision": "art2"
+    }
+  ]
+}

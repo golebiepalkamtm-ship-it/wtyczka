@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1936-28",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 stycznia 1936 r. o dodatkowych kredytach na rok 1934/35.",
+  "title_en": "",
+  "short_name": "pl-du-1936-28",
+  "status": "in_force",
+  "issued_date": "1936-01-04",
+  "in_force_date": "1936-01-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/28",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki zwyczajne, ustalone w grupie A. Administracja budżetu, załączonego do ustawy skarbowej z dnia 13 marca 1934 r. na okres od 1 kwietnia 1934 r do 31 marca 1935 r. (Dz. U. R. P. Nr. 27, poz. 219), podwyższa się o następujące kwoty: A. w § 1 „Płace” następujących części, działów i rozdziałów: 1) w części 1 Prezydent Rzeczypospolitej: w dziale 3 „Gabinet Wojskowy” o 30.273 zł 2) w części 7 Ministerstwo Spraw Wewnętrznych: w dziale 1 „Zarząd centralny” o 3.292 3) w części 8 Ministerstwo Skarbu: w dziale 1 „Zarząd centralny” o 353.900, w dziale 2 „Władze i urzędy •karbowe” o.........2.711.750 w dziale 3 „Władze i urzędy celne” o........... 86 000 w dziale 4 „Straż Graniczna” o. 155.300 w dziale 8 „Prokuratorja Generalna” o........... 111.200 w dziale 9 „Urząd Długów Państwa” o........... 31.000 4) w części 10 Ministerstwo Przemysłu i Handlu: w dziale 5 „Urząd Morski w Gdyni” o.......... 39.988 5) w części 12 Ministerstwo Rolnictwa i Reform Rolnych: w dziale 1 „Zarząd centralny” o 222.226 w dziale 2 „Wojewódzkie wydziały rolnictwa i refom rolnych”: w rozdziale 2 „Ochrona lasów” o 20.946 w rozdziale 3 „Weterynaria” o. 21.592 w dziale 5 „Państwowy Instytut Naukowy Gospodarstwa Wiejskiego” o 20.031 w dziale 6 „Państwowe zakłady chowu koni” o......... 71.532 „ w dziale 7 „Akcja finansowo-rolna” o........... 44.509 6) w części 13 Ministerstwo Wyznań Religijnych i Oświecenia Publicznego: w dziale 1 „Administracja szkolna”: w rozdziale 1 „Zarząd centralny” o.......... 119.055 w dziale 4 „Szkolnictwo ogólnokształcące”: w rozdziale 1 „Szkoły powszechne, specjalne i ochronki” o..., 148.895 W dziale 6 „Nauka i szkolnictwo wyższe”: w rozdziale 2 „Instytucje naukowe i popieranie twórczości naukowej” o.......... 12.896 w dziale 7 „Sztuka”: w rozdziale 2 „Opieka nad sztuką” o............ 13.427 7) w części 14 Ministerstwo Opieki Społecznej: w dziale 1 „Zarząd centralny” o 146.889 w dziale 4 „Urzędy ubezpieczeń społecznych” o........ 9.538 w dziale 5 „Lekarze powiatowi” o............ 36.674 zł w dziale 9 „Państwowe zakłady badania żywności” o...... 9.392 8) w części 15 Ministerstwo Poczt i Telegrafów: w dziale 1 „Zarząd centralny” o 126.924 B. w części 8 Ministerstwo Skarbu: w dziale 5 „Ogólny zarząd skarbowy”: w § 11 „Różne wydatki” o.. 1.663.218 C. w części 14 Ministerstwo Opieki Społecznej: w dziale 11 „Służba Zdrowia”: w rozdziale 3 „Państwowa pomoc tokarska dla funkcjonarjuszów państwowych”: w § 10 „Wynagrodzenie personelu lekarsikiego, administracyjnego i honorarja za porady” o..... 8.770 D. w części 16 Emerytury i zaopatrzenia: w dziale 1 „Emerytury”: w § 1 „Emerytury cywilne” o. 4573.215 W § 2 „Emerytury wojskowe” o 1.028.505 w § 4 „Pośmiertne” o.... 628.350 w dziale 2 „Zaopatrzenia”: w § 1 „Zaopatrzenia osób szczególnie zasłużonych oraz zaopatrzenia nieoparte na innych tytułach prawnych i zapomogi” o....... 3.790 E. w części 17 Renty inwalidzkie i pensje: w dziale 1 „Renty inwalidzkie”: w § 1 „Renty inwalidów wojennych” o..........2.436.605 „ w § 2 „Renty inwalidów przedwojennych” o......... 16.320 w dziale 4 „Zaopatrzenie byłych skazańców politycznych” o.... 150.040"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Na pokrycie wydatków, przewidzianych w art. 1 służą oszczędności, uzyskane ze zmniejszenia wydatków w innych paragrafach budżetu. (2) Podwyższenie wydatków o kwoty, wymienione w art. 1, nie powoduje zwiększenia ogólnej sumy wydatków, ustalonych w ustawie skarbowej z dnia 13 marca 1934 r. w kwocie 2.184.552.590 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu,"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1934 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-none_A\",\"symbol\": \"none_A\",\"type\": \"none\",\"name\": \"A\",\"title\": \"A.\",\"children\": [{\"id\": \"arti_1-none_A-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-none_A-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-none_A-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-none_A-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-none_A-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-none_A-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-none_A-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-none_A-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_1-none_B\",\"symbol\": \"none_B\",\"type\": \"none\",\"name\": \"B\",\"title\": \"B.\"},{\"id\": \"arti_1-none_C\",\"symbol\": \"none_C\",\"type\": \"none\",\"name\": \"C\",\"title\": \"C.\"},{\"id\": \"arti_1-none_D\",\"symbol\": \"none_D\",\"type\": \"none\",\"name\": \"D\",\"title\": \"D.\"},{\"id\": \"arti_1-none_E\",\"symbol\": \"none_E\",\"type\": \"none\",\"name\": \"E\",\"title\": \"E.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

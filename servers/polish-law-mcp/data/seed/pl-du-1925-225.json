@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-225",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 marca 1925 r. w sprawie zmiany niektórych postanowień ustawy z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi, oraz obrotu obcemi walutami w brzmieniu, nadanem jej ustawami z dnia 23 czerwca 1923 r. i z dnia 20 marca 1924 r.",
+  "title_en": "",
+  "short_name": "pl-du-1925-225",
+  "status": "in_force",
+  "issued_date": "1925-03-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/225",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi, oraz obrotu obcemi walutami (Dz. U. R. P. № 25 poz. 154) w brzmieniu, nadanem jej ustawami z dnia 23 czerwca 1923 r. (Dz. U. R. P. № 62 poz. 459) i z dnia 20 marca 1924 r. (Dz. U. R. P. № 29 poz. 285), ulega następującym zmianom: 1) Artykuł 1 otrzymuje brzmienie następujące: „ Ministrowi Skarbu udziela się upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi, oraz obrotu obcemi walutami. Rozporządzenia na podstawie niniejszego artykułu mogą być wydawane do dnia 31 marca 1926 r. włącznie ” . 2) Artykuł 2 otrzymuje brzmienie: „ Rozporządzenia, wymienione w art. 1, dotyczyć mogą w szczególności warunków posiadania, nabywania i gromadzenia walut zagranicznych i dewiz, dysponowania, lombardowania i innych obrotów niemi, oraz dokonywania tranzakcyj w tych walutach, obrotów walutą polską w stosunku do krajów zagranicznych, wywozu zagranicę walut zagranicznych i dewiz, polskich znaków obiegowych, oraz wszelkich wogóle papierów wartościowych, wreszcie organizacji kontroli i nadzoru nad całokształtem obrotu pieniężnego z krojami zagranicznemi. Przepis powyższy nie stosuje się do posiadania walut zagranicznych i dewiz, co do których posiadacz udowodnił, że otrzymał je w sposób legalny bezpośrednio z zagranicy, jednakże nie z tytułu eksportu towarów ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu oraz Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1932-342",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o zapobieganiu rozpowszechniania się szczurów piżmowych na wolności.",
+  "title_en": "",
+  "short_name": "pl-du-1932-342",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/342",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zabrania się: a) ochraniania szczurów piżmowych (Fiber Zibethicus L) na wolności, b) przechowywania ich w stanie żywym, c) wypuszczania tych zwierząt na wolność. Zakaz, zawarty w punkcie b), nie dotyczy zakładów, przechowujących szczury piżmowe w celach naukowych lub oświatowych, jeżeli przechowywanie tych zwierząt odbywa się w warunkach, wyłączających możliwość wydostania się ich na wolność. Minister Rolnictwa może wydawać przepisy o tępieniu szczurów piżmowych na wolności i nakładać w tych przepisach na właścicieli i użytkowników nieruchomości obowiązek współdziałania w tępieniu tych zwierząt w wymienionych nieruchomościach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Hodowla szczurów piżmowych może być zakładana i prowadzona jedynie przy ścisłem przestrzeganiu ustalonych przez Ministra Rolnictwa środków ostrożności, wyłączających możliwość wydostania się zwierząt na wolność. Prowadzenie tej hodowli może być rozpoczęte po stwierdzeniu przez właściwego starostę albo przez właściwą instytucję, upoważnioną do tego przez Ministra Rolnictwa, iż hodowla odbywać się będzie w warunkach, odpowiadających przepisowi ustępu poprzedniego. Nadzór nad przestrzeganiem przepisów powyższych artykułu niniejszego należy do starosty i do właściwej instytucji upoważnionej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Osoby, prowadzące hodowlę szczurów piżmowych, założoną przed wejściem w życie ustawy niniejszej, winny w ciągu trzech miesięcy od wejścia w życie niniejszej ustawy zgłosić swe hodowle do właściwego starosty."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przewozić lub przenosić szczury piżmowe wolno jedynie w warunkach, uniemożliwiających wydostanie się tych zwierząt na wolność."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Winni naruszenia postanowień ustawy niniejszej karani będą aresztem do sześciu tygodni i grzywną do dwóch tysięcy złotych lub jedną z tych kar."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Orzecznictwo w sprawach o naruszenie postanowień ustawy niniejszej należy do starosty."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

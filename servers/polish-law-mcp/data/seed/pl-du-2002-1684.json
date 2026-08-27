@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2002-1684",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym od osób prawnych.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1684",
+  "status": "in_force",
+  "issued_date": "2002-10-30",
+  "in_force_date": "2002-11-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1684",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384 i Nr 199, poz. 1672. ) w art. 19: 1) ust. 1 otrzymuje brzmienie: „ 1. Podatek, z zastrzeżeniem art. 21 i 22, wynosi 27% podstawy opodatkowania. ” ; 2) uchyla się ust. 2."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Stawka, o której mowa w art. 19 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, ma zastosowanie do opodatkowania dochodów (strat) uzyskanych: 1) od dnia 1 stycznia 2003 r. - jeżeli rokiem podatkowym podatnika jest rok kalendarzowy albo 2) od początku roku podatkowego rozpoczynającego się po dniu 31 grudnia 2002 r. - jeżeli rokiem podatkowym podatnika jest inny okres niż rok kalendarzowy. 2. Jeżeli rok podatkowy podatnika rozpoczął się przed dniem 1 stycznia 2003 r., do końca tego roku podatkowego podatnik stosuje stawkę podatku obowiązującą go w pierwszym dniu tego roku podatkowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2003 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384 i Nr 199, poz. 1672. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1957-173",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 lipca 1957 r. o uchyleniu dekretu z dnia 9 lutego 1953 r. o całkowitym zagospodarowaniu użytków rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1957-173",
+  "status": "in_force",
+  "issued_date": "1957-07-13",
+  "in_force_date": "1957-07-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1957/173",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uchyla się dekret z dnia 9 lutego 1953 r. o całkowitym zagospodarowaniu użytków rolnych ( Dz. U. Nr 11, poz. 40 ) , zwany w dalszym ciągu „dekretem”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Grunty, które zostały na podstawie dekretu przekazane w użytkowanie, zwraca się poprzedniemu posiadaczowi po upływie terminu, na jaki zostały oddane w użytkowanie (zagospodarowanie). Przed upływem tego terminu grunt może być zwrócony za zgodą użytkownika i poprzedniego posiadacza. 2. Jeżeli jednostki gospodarki uspołecznionej dokonały inwestycji budowlanych na gruntach, otrzymanych w użytkowanie na podstawie dekretu, grunty te mogą być przejęte na własność Państwa wolne od obciążeń w zamian za przyznanie właścicielowi innych gruntów o przybliżonej wartości. Grunty przejmowane na własność Państwa, jak również grunty wydzielane w zamian szacuje się według przepisów stosowanych przy przeprowadzeniu reformy rolnej. 3. O przejęciu gruntów na własność Państwa i o nadaniu gruntów zamiennych orzeka prezydium powiatowej rady narodowej. 4. W przypadku gdy grunty przejmowane na własność Państwa i grunty zamienne znajdują się na obszarze różnych powiatów, prezydium powiatowej rady narodowej właściwej ze względu na miejsce położenia gruntów przejmowanych orzeka o ich przejęciu, ustalając zarazem ich wartość, a prezydium powiatowej rady narodowej właściwej ze względu na miejsce położenia gruntów zamiennych orzeka o ich nadaniu. 5. Poprzedni posiadacz nie może dochodzić od Państwa ani od jednostek gospodarki uspołecznionej roszczeń z tytułu szkód wyrządzonych mu w użytkowanej nieruchomości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wszczęte na podstawie dekretu postępowanie w sprawie przejęcia gruntów na własność Państwa umarza się, jeżeli do dnia wejścia w życie niniejszej ustawy nie zostało wydane w tym postępowaniu wykonalne orzeczenie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

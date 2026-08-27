@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1923-418",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 czerwca 1923 r. przedłużająca moc obowiązującą ustawy z dnia 4 kwietnia 192 r. o obowiązku zarządów gmin miejskich dostarczania pomieszczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1923-418",
+  "status": "in_force",
+  "issued_date": "1923-06-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/418",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przedłuża się moc obowiązującą ustawy z dnia 4 kwietnia 1922 r. o obowiązku zarządów gmin miejskich dostarczania pomieszczeń (Dz. U. R. P. № 33, poz. 264) do dnia 25 listopada 1923 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia z mocą obowiązującą od dnia 23 maja 1923 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

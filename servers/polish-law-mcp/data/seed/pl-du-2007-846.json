@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2007-846",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 2007 r. o zmianie ustawy o żegludze śródlądowej",
+  "title_en": "",
+  "short_name": "pl-du-2007-846",
+  "status": "amended",
+  "issued_date": "2007-05-11",
+  "in_force_date": "2007-07-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/846",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej ( Dz. U. z 2006 r. Nr 123, poz. 857 ) wprowadza się następujące zmiany: 1) art. 4 otrzymuje brzmienie: „ Art. 4. Przepisów ustawy, z wyjątkiem przepisów dotyczących bezpieczeństwa ruchu, sygnalizacji i łączności oraz oznakowania dróg wodnych, nie stosuje się do statków Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Straży Granicznej i Państwowej Straży Pożarnej oraz statków morskich przebywających na śródlądowych drogach wodnych. ” ; 2) w art. 18 ust. 2 otrzymuje brzmienie: „ 2. Statek polski, używany wyłącznie do uprawiania sportu lub rekreacji, z wyjątkiem jednostek napędzanych wyłącznie siłą ludzkich mięśni, o długości kadłuba powyżej 12 m lub o napędzie mechanicznym o mocy silników większej niż 15 kW podlega obowiązkowi wpisu do rejestru statków używanych wyłącznie do celów sportowych lub rekreacyjnych. Statki zwolnione z obowiązku wpisu do rejestru mogą być do niego wpisane na wniosek właściciela. ” ; 3) w art. 20: a) ust. 4a otrzymuje brzmienie: „ 4a. Po wpisaniu statku do rejestru statków używanych wyłącznie do uprawiania sportu lub rekreacji właściwy polski związek sportowy wydaje dokument rejestracyjny stanowiący dowód polskiej przynależności statku. ” , b) skreśla się ust. 4b i ust. 4c; 4) art. 24a otrzymuje brzmienie: „ Art. 24a. Minister właściwy do spraw kultury fizycznej i sportu określi, w drodze rozporządzenia, tryb rejestracji statków używanych wyłącznie do uprawiania sportu lub rekreacji, wzory ksiąg rejestrowych i dokumentów rejestracyjnych. ” ; 5) skreśla się art. 34a; 6) w załączniku do ustawy zatytułowanym „Wysokości opłat”: a) część IIIa tabeli otrzymuje brzmienie: „ IIIa Rejestr statków używanych wyłącznie do uprawiania sportu lub rekreacji 1. za wpis statku do rejestru - 60 zł 2. za dokonanie zmian wpisu w rejestrze - 15 zł 3. za wtórnik dokumentu rejestracyjnego - 15 zł 4. za wyciąg lub odpis z rejestru - 15 zł ” , b) skreśla się część Va tabeli."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Dotychczasowe przepisy wykonawcze, w zakresie rejestracji i przeglądów technicznych statków używanych do uprawiania sportu i rekreacji, wydane na podstawie art. 24a ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych, wydanych na podstawie art. 24a ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 3 miesięcy od dnia wejścia w życie ustawy, z zastrzeżeniem ust. 2. 2. Wpis do rejestru na podstawie dotychczasowych przepisów wykonawczych odbywa się bez dokonania przeglądu technicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\",\"children\": [{\"id\": \"arti_1-pint_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

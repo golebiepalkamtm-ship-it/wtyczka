@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2003-2257",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 grudnia 2003 r. o zmianie ustawy o służbie cywilnej",
+  "title_en": "",
+  "short_name": "pl-du-2003-2257",
+  "status": "repealed",
+  "issued_date": "2003-12-11",
+  "in_force_date": "2003-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/2257",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej ( Dz. U. z 1999 r. Nr 49, poz. 483 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800, z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052 oraz z 2003 r. Nr 228, poz. 2256. ) wprowadza się następujące zmiany: 1) w art. 117 ust. 1 otrzymuje brzmienie: „ 1. Rzecznika dyscyplinarnego urzędu powołuje dyrektor generalny urzędu spośród podległych mu członków korpusu służby cywilnej, a dla spraw dyscyplinarnych Głównego Inspektora Audytu Wewnętrznego i dyrektora generalnego urzędu - Szef Służby Cywilnej. ” ; 2) w art. 118 ust. 2 otrzymuje brzmienie: „ 2. Obwiniony ma prawo korzystania z pomocy wybranego przez siebie obrońcy, z zastrzeżeniem przepisów o ochronie tajemnicy ustawowo chronionej. W przypadku gdy rzecznik dyscyplinarny wniósł o orzeczenie kary wydalenia ze służby cywilnej albo kary wydalenia z pracy w urzędzie, a obwiniony nie ma obrońcy z wyboru, przewodniczący składu orzekającego wyznacza obrońcę spośród członków korpusu służby cywilnej. ” ; 3) w art. 137: a) w ust. 1 wyrazy „do dnia 31 grudnia 2003 r.” zastępuje się wyrazami „do dnia 31 grudnia 2010 r.” , b) w ust. 2 wyrazy „Z dniem 1 stycznia 2004 r.” zastępuje się wyrazami „Z dniem 1 stycznia 2011 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2003 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 70, poz. 778 i Nr 110, poz. 1255, z 2001 r. Nr 102, poz. 1116, Nr 111, poz. 1194, Nr 128, poz. 1403 i Nr 154, poz. 1800, z 2002 r. Nr 150, poz. 1237, Nr 153, poz. 1271, Nr 238, poz. 2025 i Nr 240, poz. 2052 oraz z 2003 r. Nr 228, poz. 2256. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

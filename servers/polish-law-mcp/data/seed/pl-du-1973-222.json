@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1973-222",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 września 1973 r. o zmianie art. 34 Konstytucji Polskiej Rzeczypospolitej Ludowej.",
+  "title_en": "",
+  "short_name": "pl-du-1973-222",
+  "status": "repealed",
+  "issued_date": "1973-09-27",
+  "in_force_date": "1973-09-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1973/222",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 34 Konstytucji Polskiej Rzeczypospolitej Ludowej otrzymuje brzmienie: „ Art. 34. 1. Organami władzy państwowej w gminach, miastach, dzielnicach większych miast, powiatach i województwach są rady narodowe. 2. Organem władzy państwowej w mieście nie stanowiącym powiatu i sąsiadującej z nim gminie może być wspólna rada narodowa. 3. Rada Państwa może określić inne wypadki, w których organem władzy państwowej w dwu jednostkach podziału terytorialnego jest wspólna rada narodowa. 4. Rady narodowe wybierane są przez ludność na okres lat czterech. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

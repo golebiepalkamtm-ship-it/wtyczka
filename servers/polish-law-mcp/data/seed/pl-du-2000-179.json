@@ -1,0 +1,182 @@
+{
+  "id": "pl-du-2000-179",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 stycznia 2000 r. o ogólnym bezpieczeństwie produktów.",
+  "title_en": "",
+  "short_name": "pl-du-2000-179",
+  "status": "repealed",
+  "issued_date": "2000-01-22",
+  "in_force_date": "2000-03-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/179",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa ogólne wymagania dotyczące bezpieczeństwa produktów, zasady i tryb przeciwdziałania naruszeniom tych wymagań przez przedsiębiorców oraz organy sprawujące nadzór nad bezpieczeństwem produktów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa nie narusza odrębnych przepisów prawnych regulujących szczególne warunki bezpieczeństwa określonych produktów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Użyte w ustawie określenia oznaczają: 1) produkt - dostarczaną przez przedsiębiorcę, zarówno odpłatnie, jak i nieodpłatnie, rzecz ruchomą przeznaczoną do użytku konsumentów lub nadającą się do takiego użytku; produktem jest zarówno rzecz nowa, jak i używana lub naprawiana bądź regenerowana, a także energia; w rozumieniu ustawy produktem nie są jednak rzeczy używane wprowadzane na rynek jako antyki albo jako rzeczy wymagające naprawy lub remontu przed użyciem, jeżeli dostarczający powiadomił konsumenta o właściwościach tych rzeczy, 2) producent - przedsiębiorcę, który wytwarza, wprowadza do obrotu lub naprawia produkt, a także jego przedstawiciela oraz każdą osobę, która występuje jako wytwórca, umieszczając na produkcie bądź do niego dołączając swoje nazwisko, nazwę, znak towarowy bądź inne odróżniające oznaczenie; za producenta uważa się również importera oraz każdego, kto prowadząc działalność gospodarczą może wpływać na bezpieczeństwo produktu, 3) sprzedawca - przedsiębiorcę, który uczestniczy w obrocie handlowym i którego działalność nie wpływa na bezpieczeństwo produktu. Rozdział 2 Ogólne wymagania bezpieczeństwa"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Produktem bezpiecznym jest produkt, który w zwykłych lub w innych, dających się rozsądnie przewidzieć, warunkach jego używania, włączając czas korzystania z produktu, nie stwarza żadnego zagrożenia dla konsumentów lub stwarza znikome zagrożenie, dające się pogodzić z jego zwykłym używaniem i uwzględniające wysoki poziom wymagań dotyczących ochrony bezpieczeństwa, życia i zdrowia ludzkiego. 2. Oceniając bezpieczeństwo produktu uwzględnia się: 1) kategorie konsumentów narażonych na zwiększone niebezpieczeństwo związane z używaniem produktu, a zwłaszcza dzieci, 2) cechy i właściwości produktu, w szczególności jego skład, konstrukcję i wykończenie, opakowanie, instrukcję jego montażu i konserwacji, 3) oddziaływanie produktu na inne produkty, jeżeli możliwe było do przewidzenia ich łączne używanie, 4) wygląd lub prezentację produktu, jego oznakowanie, instrukcję użycia i obsługi, sposób przechowywania i pozbywania się oraz wszelkie inne dane lub informacje pochodzące od producenta. 3. Nie wystarcza do uznania produktu za niebezpieczny możliwość osiągnięcia wyższego poziomu bezpieczeństwa lub dostępność innych produktów stwarzających niższy stopień zagrożenia dla konsumentów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli ustanowiono szczególne przepisy dotyczące bezpieczeństwa produktów, w szczególności z zakresu kontroli technicznej, sanitarnej lub ochrony środowiska, produkt powinien odpowiadać wymaganiom określonym w tych przepisach."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Jeżeli do produktu nie mają zastosowania przepisy, o których mowa w art. 5, bezpieczeństwo produktu ocenia się uwzględniając stopień spełniania przez produkt wymagań określonych w stosowanych dobrowolnie Polskich Normach; w przypadku braku Polskich Norm bezpieczeństwo produktu ocenia się uwzględniając inne właściwe specyfikacje techniczne, zasady dobrej praktyki zawodowej, a także poprzez odwołanie się do stanu wiedzy i techniki lub do uzasadnionych oczekiwań konsumentów co do bezpieczeństwa danego produktu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Spełnianie przez produkt wymagań określonych w art. 5 i 6 nie wyłącza możliwości zastosowania środków, o których mowa w art. 14-16, jeżeli produkt stanowi zagrożenie dla konsumentów. Rozdział 3 Obowiązki producenta i sprzedawcy"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Producent jest obowiązany wprowadzać do obrotu produkty bezpieczne."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Producent jest obowiązany: 1) dostarczać konsumentom i sprzedawcom właściwą i pełną informację umożliwiającą im ocenę zagrożeń związanych z produktem w czasie normalnego lub możliwego do przewidzenia sposobu i okresu jego używania, jeżeli takie zagrożenia nie są, w braku odpowiedniego ostrzeżenia, natychmiast zauważalne, oraz informację dotyczącą możliwości przeciwdziałania tym zagrożeniom, 2) podejmować odpowiednie do właściwości produktu wprowadzanego do obrotu środki zapobiegające powstawaniu zagrożeń, o których mowa w pkt 1, a w szczególności: testować próbki produktów, analizować składane skargi i reklamacje, oznaczać produkty lub ich serie w sposób umożliwiający ich właściwą identyfikację, 3) podejmować, w razie konieczności, działania mające na celu niezwłoczne wycofanie produktu z obrotu, jeżeli produkt stwarza lub mógłby stwarzać zagrożenie dla życia lub zdrowia konsumentów, 4) powiadamiać o zagrożeniach związanych z produktem organy właściwe - ze względu na te zagrożenia - do podejmowania działań administracyjnych, zwane dalej „właściwymi organami”. 2. Informacje i oznaczenia, o których mowa w ust. 1 pkt 1 i 2, należy formułować w języku polskim, w sposób jasny i zrozumiały; winny one również zawierać nazwę produktu, znak towarowy, firmę, nazwę lub imię i nazwisko producenta oraz jego adres. 3. Sposób oznakowania produktów określają odrębne przepisy."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Sprzedawca jest obowiązany współdziałać z należytą starannością z producentami oraz właściwymi organami w zakresie zapewnienia zgodności produktu z ogólnymi wymaganiami bezpieczeństwa, a w szczególności: 1) nie dostarczać produktów, które, zgodnie z wiedzą, jaką posiada lub jakiej można od niego oczekiwać, nie spełniają tych wymagań, 2) przyjmować informacje od konsumentów o zagrożeniach powodowanych przez produkty i przekazywać je producentom oraz właściwym organom, a także współdziałać z nimi w celu uniknięcia takich zagrożeń. Rozdział 4 Nadzór nad bezpieczeństwem produktów"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Organem sprawującym nadzór nad bezpieczeństwem produktów jest Prezes Urzędu Ochrony Konkurencji i Konsumentów, zwany dalej „organem nadzoru”, który wykonuje swoje zadania przy pomocy Inspekcji Handlowej. 2. Nadzór, o którym mowa w ust. 1, obejmuje wykonywanie czynności i stosowanie środków określonych w ustawie oraz w przepisach dotyczących zakresu działania organu nadzoru, a także Inspekcji Handlowej. 3. Przepis ust. 1 nie ogranicza kompetencji innych właściwych organów, wynikających z odrębnych przepisów regulujących szczególne warunki bezpieczeństwa określonych produktów."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Organ nadzoru może żądać od organów inspekcji i innych jednostek, do których zadań należy wykonywanie badań bezpieczeństwa produktów, przeprowadzenia kontroli w tym zakresie, powiadamiając równocześnie o tym właściwy organ sprawujący nadzór nad tymi organami lub jednostkami. 2. Organy i jednostki, o których mowa w ust. 1, oraz organy administracji rządowej i samorządowej są obowiązane niezwłocznie zawiadamiać organ nadzoru o stwierdzonych zagrożeniach związanych z bezpieczeństwem produktów i podjętych w związku z tym działaniach."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Organ nadzoru podejmuje środki na podstawie ustawy odpowiednie do stopnia zagrożenia powodowanego przez produkty. Mogą one zmierzać jedynie do odwrócenia grożącego niebezpieczeństwa lub usunięcia już istniejącego oraz mieć na celu zapewnienie bezpieczeństwa, zdrowia i życia konsumentów."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Jeżeli przed wprowadzeniem produktu do obrotu okoliczności wskazują wystarczająco, że produkt nie spełnia wymagań bezpieczeństwa określonych w art. 4, organ nadzoru może nakazać producentowi dostarczenie wszelkich informacji o produkcie i związanych z nim zagrożeniach. 2. W przypadku stwierdzenia, iż produkt nie spełnia wymagań bezpieczeństwa określonych w art. 4, organ nadzoru może: 1) w zakresie uzasadnionym okolicznościami, zobowiązać producenta do poddania produktu badaniu we właściwym akredytowanym laboratorium, określając przedmiot i termin przeprowadzenia badania, lub 2) na okres niezbędny do przeprowadzenia kontroli lub badań, zakazać prezentowania, oferowania, wprowadzania do obrotu i dostarczania produktu lub grupy produktów powodujących zagrożenie, lub 3) zakazać wprowadzania produktu lub grupy produktów do obrotu, do czasu spełnienia przez nie wymagań bezpieczeństwa. 3. W przypadkach określonych w ust. 2 pkt 1 w razie stwierdzenia, że produkt nie spełnia wymagań bezpieczeństwa, koszty badań ponosi producent."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Jeżeli produkt wprowadzony do obrotu nie spełnia wymagań bezpieczeństwa określonych w art. 4, organ nadzoru może: 1) zażądać od producenta informacji o zagrożeniach związanych z produktem oraz informacji dotyczącej środków ostrożności niezbędnych do odwrócenia grożącego niebezpieczeństwa, 2) zobowiązać producenta do poddania produktu badaniu we właściwym akredytowanym laboratorium, określając przedmiot i termin przeprowadzenia badania; w przypadku stwierdzenia, że produkt nie spełnia wymagań bezpieczeństwa, koszty badań ponosi producent, 3) nakazać producentowi podanie odpowiednich ostrzeżeń do publicznej wiadomości w określony sposób, 4) określić szczegółowe obowiązki producenta dotyczące udzielania konsumentom odpowiednich informacji o produkcie, 5) nakazać producentowi zapewnienie zgodności produktu z wymaganiami bezpieczeństwa, 6) nakazać producentowi wycofanie produktu z obrotu lub podjęcie działań zmierzających do odkupienia produktu od osób, które faktycznie nim władają, 7) nakazać producentowi zniszczenie produktu, gdy stanowi to jedyny środek zapewniający usunięcie niebezpieczeństwa. 2. Środki przewidziane w ust. 1 mogą być stosowane odpowiednio wobec sprzedawcy. 3. Organ nadzoru może we własnym zakresie dokonać czynności określonych w ust. 1 pkt 2 i 3. 4. Środki określone w ust. 1 winny być wprowadzone natychmiast i - z wyjątkiem badań określonych w ust. 1 pkt 2 - na koszt zobowiązanego do ich podjęcia. W przypadku stwierdzenia, że produkt nie spełnia wymagań bezpieczeństwa, koszty badań ponosi producent."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Jeżeli produkt nie spełnia wymagań bezpieczeństwa określonych w art. 4, organ nadzoru może także zakazać jego reklamowania."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Przedsiębiorca, do którego organ nadzoru skierował żądanie, działając na podstawie art. 14-16, może przedstawić swoje stanowisko w tej sprawie w terminie 3 dni od dnia otrzymania żądania. 2. W przypadku braku stanowiska lub odmowy uwzględnienia żądania, o którym mowa w ust. 1, organ nadzoru może nałożyć obowiązki określone w art. 14-16 w drodze decyzji. Art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się. 3. W zakresie, w jakim jest to niezbędne, organ nadzoru może żądać od każdego przedsiębiorcy lub instytucji współdziałania w celu zapobieżenia zagrożeniom stwarzanym przez produkt. 4. Od decyzji, o których mowa w ust. 2, służy skarga do Naczelnego Sądu Administracyjnego."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Producenci i sprzedawcy są obowiązani zapewniać upoważnionym pracownikom Urzędu Ochrony Konkurencji i Konsumentów, jego delegatur oraz Inspekcji Handlowej odpowiednie warunki do przeprowadzenia kontroli. 2. Przedmiotem kontroli jest ustalenie, czy produkt spełnia wymagania bezpieczeństwa, a jeżeli ich nie spełnia i w związku z tym zostały wydane odpowiednie decyzje - czy decyzje te zostały wykonane. 3. Upoważnieni do przeprowadzenia kontroli pracownicy mają prawo: 1) wstępu do wszystkich pomieszczeń kontrolowanego przedsiębiorcy, 2) wglądu do dokumentów kontrolowanego przedsiębiorcy oraz żądania odpisów i wyciągów z tych dokumentów, 3) żądania wyjaśnień od pracowników kontrolowanego przedsiębiorcy, 4) zabezpieczenia dokumentów i innych dowodów, 5) pobrania i zabezpieczenia próbek produktów. 4. Przeprowadzający kontrole mają obowiązek przeprowadzać je w sposób sprawny i możliwie nie zakłócający funkcjonowania kontrolowanego. 5. Uzyskane w trakcie kontroli informacje dotyczące stosowanej przez kontrolowanego technologii lub stanowiące tajemnicę handlową są objęte tajemnicą służbową; nie dotyczy to informacji, które muszą być ujawnione ze względu na konieczność usunięcia zagrożeń związanych z produktem."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "W szczególnie uzasadnionych przypadkach organ nadzoru może poinformować opinię publiczną o zagrożeniach związanych z produktem; koszty tej informacji ponosi producent."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Tworzy się krajowy system informowania o produktach niebezpiecznych (KSIPN), do którego zadań należy szybkie informowanie organów administracji rządowej i samorządowej, zainteresowanych instytucji oraz konsumentów o produktach niebezpiecznych. 2. Tworzy się krajowy system monitorowania wypadków konsumenckich (KSMWK), do którego zadań należy gromadzenie informacji, w tym danych o stanie zdrowia, w celu zapobiegania powstawaniu zagrożeń. 3. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady organizacji i działania systemów, o których mowa w ust. 1 i 2, zarządzania tymi systemami oraz obowiązki podmiotów w zakresie przekazywania systemom gromadzonych przez nie danych, a w szczególności: 1) organy sprawujące nadzór nad funkcjonowaniem systemów, 2) organy zarządzające systemami (administratorów systemów), tryb ich powoływania i odwoływania oraz zadania i obowiązki organów związane z tym zarządzaniem, 3) sposób zbierania, przetwarzania i udostępniania danych w ramach systemów, 4) pojęcie wypadków konsumenckich, 5) wzór rejestru produktów niebezpiecznych, 6) wzory formularzy wykorzystywanych przy gromadzeniu danych o wypadkach konsumenckich."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Jeżeli organ celny podczas kontroli celnej produktów, które mają być objęte procedurą dopuszczenia do obrotu, stwierdzi, że produkty mogą stanowić zagrożenie dla zdrowia, życia lub bezpieczeństwa, zatrzymuje produkty i występuje do właściwych organów o wydanie stosownej opinii. 2. Jeżeli właściwy organ wyda opinię potwierdzającą, że produkt stanowi zagrożenie dla życia, zdrowia lub bezpieczeństwa, organ celny cofa produkt za granicę. 3. Koszty cofnięcia produktu za granicę ponosi producent. 4. Rada Ministrów określi, w drodze rozporządzenia: 1) produkty, które podlegają zatrzymaniu w trybie określonym w ust. 1 ze względu na brak dokumentacji lub oznakowania wymaganego szczególnymi przepisami dotyczącymi bezpieczeństwa tych produktów, 2) tryb postępowania organów celnych przy zatrzymywaniu produktów, o których mowa w ust. 1, 3) organy, o których mowa w ust. 1, oraz ich właściwość i zadania w tym zakresie, ze szczególnym uwzględnieniem zadań krajowego systemu informowania o produktach niebezpiecznych (KSIPN)."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Rada Ministrów, w drodze rozporządzenia, może określić szczegółowe warunki bezpieczeństwa lub znakowania określonych produktów."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Rada Ministrów określi, w drodze rozporządzeń, szczegółowe warunki dotyczące: 1) bezpieczeństwa zabawek, 2) bezpieczeństwa innych produktów, które stwarzają zagrożenie dla konsumentów przez to, że ich wygląd wskazuje na inne przeznaczenie niż rzeczywiste, 3) bezpieczeństwa i znakowania produktów włókienniczych. 2. W rozporządzeniach, o których mowa w ust. 1, Rada Ministrów określa w szczególności: 1) wymagania dotyczące wytwarzania produktów, 2) informacje, które powinny zostać umieszczone na etykiecie lub opakowaniu produktu, 3) sposób ponoszenia kosztów związanych z badaniem produktów na zgodność ze szczególnymi wymogami bezpieczeństwa, z uwzględnieniem zasad określonych w art. 15, 4) organ sprawujący nadzór nad bezpieczeństwem produktów oraz tryb wykonywania tego nadzoru. Rozdział 5 Przepisy karne"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Kto narusza, chociażby nieumyślnie, którykolwiek z obowiązków określonych w art. 9 lub w art. 10, bądź narusza, chociażby nieumyślnie, którykolwiek z obowiązków wynikających z decyzji organu nadzoru wydanej na podstawie art. 17 ust. 2, podlega grzywnie. 2. Tej samej karze podlega, kto nie wykonuje, chociażby nieumyślnie, żądania organu nadzoru skierowanego na podstawie art. 14-16 lub art. 17 ust. 3."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Kto będąc w zakresie działalności przedsiębiorstwa odpowiedzialnym za wykonanie obowiązku określonego w art. 9 lub art. 10 albo wynikającego z żądania organu nadzoru skierowanego na podstawie art. 14-16 lub art. 17 ust. 3, bądź z decyzji organu nadzoru wydanej na podstawie art. 17 ust. 2, dopuszcza do naruszenia któregokolwiek z tych obowiązków, podlega grzywnie."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Sąd może orzec przepadek przedmiotów pochodzących z przestępstwa, będących produktami stwarzającymi zagrożenie dla życia, zdrowia lub bezpieczeństwa konsumentów, choćby nie stanowiły własności sprawcy. 2. Sąd może zarządzić zniszczenie przedmiotów, których przepadek orzeczono, niezależnie od ich wartości. Rozdział 6 Przepis końcowy"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Ogólne wymagania bezpieczeństwa\",\"children\": [{\"id\": \"chpt_2-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_4-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_4-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_2-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Obowiązki producenta i sprzedawcy\",\"children\": [{\"id\": \"chpt_3-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_3-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_9-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_9-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_9-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_9-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_3-arti_10-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_10-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Nadzór nad bezpieczeństwem produktów\",\"children\": [{\"id\": \"chpt_4-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_4-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_4-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_4-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_4-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_4-arti_14-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_14-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_14-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_4-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_4-arti_15-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"chpt_4-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_15-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_4-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_4-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_4-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_4-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_4-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_4-arti_18-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_18-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_18-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_18-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_4-arti_18-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_4-arti_18-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_4-arti_18-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_4-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_4-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_4-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_4-arti_20-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_20-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_20-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_20-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_4-arti_20-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_4-arti_20-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]}]},{\"id\": \"chpt_4-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_4-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_4-arti_21-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_21-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_21-pass_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_4-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_23-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_23-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_23-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_23-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_23-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Przepisy karne\",\"children\": [{\"id\": \"chpt_5-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_5-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_5-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_5-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_6\",\"symbol\": \"chpt_6\",\"type\": \"chpt\",\"name\": \"6\",\"title\": \"Rozdział 6 - Przepis końcowy\",\"children\": [{\"id\": \"chpt_6-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"}]} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "produkt",
+      "definition": "dostarczaną przez przedsiębiorcę, zarówno odpłatnie, jak i nieodpłatnie, rzecz ruchomą przeznaczoną do użytku konsumentów lub nadającą się do takiego użytku; produktem jest zarówno rzecz nowa, jak i używana lub naprawiana bądź regenerowana, a także energia; w rozumieniu ustawy produktem nie są jednak rzeczy używane wprowadzane na rynek jako antyki albo jako rzeczy wymagające naprawy lub remontu przed użyciem, jeżeli dostarczający powiadomił konsumenta o właściwościach tych rzeczy, 2) producent - przedsiębiorcę, który wytwarza, wprowadza do obrotu lub naprawia produkt, a także jego przedstawiciela oraz każdą osobę, która występuje jako wytwórca, umieszczając na produkcie bądź do niego dołączając swoje nazwisko, nazwę, znak towarowy bądź inne odróżniające oznaczenie; za producenta uważa się również importera oraz każdego, kto prowadząc działalność gospodarczą może wpływać na bezpieczeństwo produktu, 3) sprzedawca - przedsiębiorcę, który uczestniczy w obrocie handlowym i którego działalność nie wpływa na bezpieczeństwo produktu. Rozdział 2 Ogólne wymagania bezpieczeństwa",
+      "source_provision": "art3"
+    }
+  ]
+}

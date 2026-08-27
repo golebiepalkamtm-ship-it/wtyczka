@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-713",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1924 r. w przedmiocie pozbycia, względnie zamiany niektórych gruntów kolejowych, położonych w gminach: Kolibki, Jaszcz, Komorowo i Skurcz.",
+  "title_en": "",
+  "short_name": "pl-du-1924-713",
+  "status": "in_force",
+  "issued_date": "1924-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/713",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się: 1) na zamianę stanowiących własność państwową, a pozostających w zarządzie kolei państwowych: a) parcel №№ 273/21, 493/59 i 428 o łącznym obszarze 64,30 ar., położonych w gminie Kolibki, powiatu wejherowskiego, na parcelą 494/60 o obszarze 1,14 ar., położoną w tejże samej gminie; b) parcel №№ 360/4, 361/31 i 362/31 o łącznym obszarze 39,28 ar., położonych w gminie Jaszcz, powiatu świecieńskiego, na parcele № 358/4 o obszarze 39,28 ar., położoną w tejże samej gminie; 2) na pozbycie pod tytułem darmym parceli № 367/136 o obszarze 0,83 ar., położonej w obszarze dworskim Komorowo, gminy Krostkowo, powiatu wyrzyskiego, stanowiącej własność państwową, a pozostającej w zarządzie kolei państwowych, na rzecz D-ra Spickera i Selmy Birschel, względnie ich prawonabywców; 3) na odstąpienie stanowiących własność państwową, a pozostających w zarządzie kolei żelaznych parcel №№ 1085/298, 1085/299 i 1086/299 o łącznym obszarze 84,86 ar., położonych w gminie Skurcz, powiatu starogardzkiego, na szlaku Skurcz - Lubiechów, na rzecz małżonków Sikorów, względnie ich prawonabywców, wzamian za zrzeczenie się przez nich przejazdu i spowodowanego tem odcięciem dostępu do części gruntów w gminie Sikorów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Kolei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

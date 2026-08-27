@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2000-1251",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 listopada 2000 r. o zmianie ustawy o finansach publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-2000-1251",
+  "status": "repealed",
+  "issued_date": "2000-11-30",
+  "in_force_date": "2000-12-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/1251",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ( Dz. U. Nr 155, poz. 1014 , z 1999 r. Nr 38, poz. 360 , Nr 49, poz. 485 , Nr 70, poz. 778 i Nr 110, poz. 1255 oraz z 2000 r. Nr 6, poz. 69 , Nr 12, poz. 136 , Nr 48, poz. 550 i Nr 95, poz. 1041 ) wprowadza się następujące zmiany: 1) w art. 90 w ust. 1 po wyrazach „z właściwymi” dodaje się wyrazy „ministrami lub innymi” ; 2) w art. 106 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Przewodniczący Komitetu Integracji Europejskiej w porozumieniu z Ministrem Finansów określa, w drodze rozporządzenia, sposób, warunki i tryb dysponowania środkami pochodzącymi ze źródeł zagranicznych nie podlegającymi zwrotowi, uwzględniając w szczególności: 1) postanowienia odpowiednich umów międzynarodowych, 2) tryb ustalania dysponentów dla tych środków, 3) tryb uruchamiania środków i rodzaje rachunków bankowych, 4) tryb i terminy sporządzania planów finansowych i dokonywania wydatków, 5) ocenę przebiegu realizacji programów finansowanych ze środków pochodzących ze źródeł zagranicznych nie podlegających zwrotowi i sporządzania sprawozdań oraz tryb i terminy ich zamykania i rozliczania środków. ” ; 3) w art. 189 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. Ilekroć w przepisach ustaw odrębnych jest mowa o formach gospodarki pozabudżetowej, należy przez to rozumieć odpowiednio zakład budżetowy, gospodarstwo pomocnicze lub środki specjalne. ” ; 4) w art. 190 w ust. 1 wyrazy „Do dnia 1 stycznia 2001 r.” zastępuje się wyrazami „Nie dłużej niż do dnia 31 grudnia 2002 r.” ; 5) w art. 193: a) dotychczasową treść oznacza się jako ust. 1, b) w ust. 1 kropkę zastępuje się przecinkiem i dodaje się wyrazy „z zastrzeżeniem ust. 2.” , c) dodaje się ust. 2 w brzmieniu: „ 2. Środki specjalne utworzone w państwowych jednostkach budżetowych działających poza granicami Rzeczypospolitej Polskiej mogą funkcjonować do dnia 31 grudnia 2001 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2001 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

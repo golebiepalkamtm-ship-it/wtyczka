@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-66",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 stycznia 1922 r. w przedmiocie poboru należytości ekwiwalentowej na obszarze b. dzielnicy austrjackiej za rok 1922.",
+  "title_en": "",
+  "short_name": "pl-du-1922-66",
+  "status": "in_force",
+  "issued_date": "1922-01-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/66",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tytułem należytości ekwiwalentowej w myśl poz. tar. 106 B e) austr. ustawy z 13 grudnia 1862 (Austr. Dz. Ust. P. № 89) oraz przepisów dodatkowych mają uiszczać za r. 1922: a) osoby, co do których obowiązek płacenia tej należytości powstał przed 1 stycznia 1919 r., - kwotę, przypadającą na rok jeden według wymiaru, dokonanego na VII dziesięciolecie, a to od majątku nieruchomego w pięciokrotnej, a od majątku ruchomego w pojedynczej wysokości; b) osoby, co do których obowiązek opłacania wspomnianej należytości powstał po dniu 31 grudnia 1918 r., a przed dniem 1 stycznia 1921 r., - kwotę, przypadającą na rok jeden według wymiaru, dokonanego na VII dziesięciolecie, a to od majątku nieruchomego w trzykrotnej, a od majątku ruchomego w pojedyńczej wysokości; c) osoby, co do których obowiązek opłacania tej należytości powstał dopiero w r. 1921, - tak od majątku nieruchomego jak ruchomego całoroczną kwotę, przypadającą za rok 1921."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "O ile obowiązek opłacania należytości ekwiwalentowej powstanie dopiero w r. 1922, wymiar nastąpi według dotychczasowych przepisów ustawowych; wezwanie płatnicze powinno jednak obejmować tylko kwotę, przypadającą na czas do końca 1922 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Majątki, będące własnością gmin politycznych ipowiatów, zwalnia się od należytości ekwiwalentowej przypadającej za rok 1922."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

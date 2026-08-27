@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2021-2112",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 października 2021 r. o zmianie ustawy - Prawo łowieckie",
+  "title_en": "",
+  "short_name": "pl-du-2021-2112",
+  "status": "amended",
+  "issued_date": "2021-10-14",
+  "in_force_date": "2021-11-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/2112",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 października 1995 r. - Prawo łowieckie ( Dz. U. z 2020 r. poz. 1683 i 2320 oraz z 2021 r. poz. 1718 ) w art. 48 pkt 3 otrzymuje brzmienie: „ 3) posiadaczom uszkodzonych upraw lub płodów rolnych, którzy nie wyrazili zgody na budowę przez dzierżawcę lub zarządcę obwodu łowieckiego urządzeń lub wykonywanie zabiegów zapobiegających szkodom, z wyłączeniem szkód wyrządzonych przy wykonywaniu polowania oraz szkód, które powstałyby niezależnie od wzniesienia urządzeń lub wykonania zabiegów, na które posiadacz uszkodzonych upraw lub płodów rolnych nie wyraził zgody; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do spraw o wynagradzanie szkód, o których mowa w art. 46 ust. 1 ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się art. 48 pkt 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

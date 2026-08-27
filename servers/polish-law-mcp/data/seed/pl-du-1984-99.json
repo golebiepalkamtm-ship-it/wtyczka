@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1984-99",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 kwietnia 1984 r. o utworzeniu Akademii Nauk Społecznych.",
+  "title_en": "",
+  "short_name": "pl-du-1984-99",
+  "status": "repealed",
+  "issued_date": "1984-04-06",
+  "in_force_date": "1984-04-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1984/99",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się szkołę wyższą o nazwie Akademia Nauk Społecznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Akademia Nauk Społecznych posiada osobowość prawną, a jej siedzibą jest Warszawa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zadaniem Akademii Nauk Społecznych jest przygotowywanie kadry pracowników aparatu partyjnego, państwowego, organizacji politycznych, społecznych i gospodarczych, a także prowadzenie badań naukowych oraz kształcenie i wychowywanie kadr naukowych w dziedzinie nauk społecznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Nadzór nad działalnością Akademii Nauk Społecznych sprawuje Komitet Centralny Polskiej Zjednoczonej Partii Robotniczej za pośrednictwem powołanej przez siebie Rady Programowej, która określa sposób wykonywania zadań wymienionych w art. 3. 2. Przy wykonywaniu nadzoru, o którym mowa w ust. 1, Rada Programowa współdziała z Ministrem Nauki, Szkolnictwa Wyższego i Techniki."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Radzie Programowej przysługują odpowiednio uprawnienia ministrów nadzorujących szkoły wyższe, przewidziane w ustawie z dnia 4 maja 1982 r. o szkolnictwie wyższym ( Dz. U. Nr 14, poz. 113 , z 1983 r. Nr 5, poz. 33 i Nr 39, poz. 176 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przepisy ustawy o szkolnictwie wyższym dotyczą Akademii Nauk Społecznych w zakresie określonym w art. 5 ust. 3 wymienionej ustawy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Akademia Nauk Społecznych działa na podstawie statutu uchwalonego przez senat Akademii i zatwierdzonego przez Radę Programową. 2. Do czasu wejścia w życie statutu, o którym mowa w ust. 1, Akademia działa na podstawie postanowień Rady Programowej. 3. Postanowienia art. 217 ustawy o szkolnictwie wyższym stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Akademia Nauk Społecznych przejmuje dotychczasową Wyższą Szkołę Nauk Społecznych i Instytut Podstawowych Problemów Marksizmu-Leninizmu, które znosi się z chwilą jej utworzenia. Studenci i doktoranci Wyższej Szkoły Nauk Społecznych stają się studentami i doktorantami Akademii Nauk Społecznych, z tym że studenci kończący studia w 1984 r. otrzymują dyplomy Wyższej Szkoły Nauk Społecznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

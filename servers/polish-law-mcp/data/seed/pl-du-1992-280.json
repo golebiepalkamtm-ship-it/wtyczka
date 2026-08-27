@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1992-280",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 czerwca 1992 r. o zmianie ustawy o ubezpieczeniu społecznym rolników.",
+  "title_en": "",
+  "short_name": "pl-du-1992-280",
+  "status": "amended",
+  "issued_date": "1992-06-20",
+  "in_force_date": "1992-08-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/280",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników ( Dz. U. z 1991 r. Nr 7, poz. 24 , Nr 45, poz. 199 , Nr 103, poz. 448 , Nr 104, poz. 450 i Nr 107, poz. 464 oraz z 1992 r. Nr 21, poz. 85 ) wprowadza się następujące zmiany: 1) w art. 28: a) w ust. 4 pkt 4 otrzymuje brzmienie: „ 4) dzierżawionych gruntów Skarbu Państwa. ” , b) w ust. 7 w pkt 1 wyrazy „ustalonej według przepisów o sprzedaży nieruchomości Państwowego Funduszu Ziemi” zastępuje się wyrazami „odpowiadającej ich oszacowaniu według przepisów o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa,” ; 2) w art. 47 w ust. 2 wyrazy „organ właściwy do sprzedaży nieruchomości Państwowego Funduszu Ziemi” zastępuje się wyrazami „Agencja Własności Rolnej Skarbu Państwa lub upoważniony przez nią wójt” ; 3) w art. 55 skreśla się ust. 3; 4) po art. 55 dodaje się art. 55a w brzmieniu: „ Art. 55a. W sprawach nie uregulowanych w art. 54 i 55 stosuje się odpowiednio przepisy o przyznawaniu i wypłacie świadczeń z ubezpieczenia. ” ; 5) w art. 58: a) ust. 2 i 3 otrzymują brzmienie: „ 2. Przejęcie nieruchomości i ustalenie odpłatności następuje w drodze decyzji Agencji Własności Rolnej Skarbu Państwa. 3. Nieruchomości przejęte na podstawie ust. 1 wchodzą w skład Zasobu Własności Rolnej Skarbu Państwa. ” , b) w ust. 5 wyrazy „Rada Ministrów” zastępuje się wyrazami „Minister Rolnictwa i Gospodarki Żywnościowej” ; 6) w art. 118: a) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Z wnioskiem o przyznanie prawa własności działki określonej w ust. 1 lub 2 może wystąpić również zstępny osoby uprawnionej, o której mowa w tych przepisach, który po śmierci tej osoby faktycznie włada, w zakresie odpowiadającym jej uprawnieniom, daną nieruchomością; jeżeli jednak uprawnionymi są oboje małżonkowie, wniosek taki może być zgłoszony dopiero po śmierci obojga małżonków. ” , b) w ust. 3 wyrazy „ust. 1 i 2” zastępuje się wyrazami „ust. 1-2a” , c) ust. 4 otrzymuje brzmienie: „ 4. Decyzje w sprawach określonych w ust. 1-2a wydaje rejonowy organ rządowej administracji ogólnej. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 lit. b), który wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\",\"children\": [{\"id\": \"arti_1-pint_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_6-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

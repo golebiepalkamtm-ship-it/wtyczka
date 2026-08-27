@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-30",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 listopada 1996 r. o ratyfikacji Umowy między Państwami-Stronami Traktatu Północnoatlantyckiego a innymi Państwami uczestniczącymi w Partnerstwie dla Pokoju dotyczącej statusu ich sił zbrojnych oraz jej Protokołu dodatkowego.",
+  "title_en": "",
+  "short_name": "pl-du-1997-30",
+  "status": "in_force",
+  "issued_date": "1996-11-21",
+  "in_force_date": "1997-01-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/30",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Prezydenta Rzeczypospolitej Polskiej do ratyfikowania Umowy między Państwami-Stronami Traktatu Północnoatlantyckiego a innymi Państwami uczestniczącymi w Partnerstwie dla Pokoju dotyczącej statusu ich sił zbrojnych oraz jej Protokołu dodatkowego, sporządzonych w Brukseli w dniu 19 czerwca 1995 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

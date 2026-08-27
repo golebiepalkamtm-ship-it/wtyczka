@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-929",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 listopada 1998 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym.",
+  "title_en": "",
+  "short_name": "pl-du-1998-929",
+  "status": "repealed",
+  "issued_date": "1998-11-09",
+  "in_force_date": "1998-11-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/929",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym ( Dz. U. Nr 28, poz. 153 i Nr 75, poz. 468 oraz z 1998 r. Nr 117, poz. 756 i Nr 137, poz. 887 ) wprowadza się następujące zmiany: 1) art. 67 otrzymuje brzmienie: „ Art. 67. 1. Kasy Chorych uzyskują osobowość prawną z chwilą wpisu do rejestru prowadzonego przez Sąd Rejonowy dla Miasta Stołecznego Warszawy w Warszawie, zwany dalej „sądem rejestrowym”. 2. W postępowaniu przed sądem rejestrowym stosuje się przepisy Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. 3. Rejestr jest jawny i dostępny dla osób trzecich. 4. Minister Sprawiedliwości określa, w drodze rozporządzenia, wymagania, jakie powinien spełniać wniosek o wpis do rejestru, oraz wzór i sposób prowadzenia rejestru. ” ; 2) po art. 69 dodaje się art. 69c w brzmieniu: „ Art. 69c. 1. Rada Ministrów, w drodze rozporządzenia, może tworzyć i znosić branżowe Kasy Chorych. 2. Wniosek o powołanie branżowej Kasy Chorych, poparty pisemnymi deklaracjami co najmniej 500 000 pełnoletnich osób, przedkłada Radzie Ministrów Minister Zdrowia i Opieki Społecznej, po zasięgnięciu opinii Rady Krajowego Związku Kas Chorych i Urzędu Nadzoru Ubezpieczeń Zdrowotnych. 3. W rozporządzeniu o utworzeniu branżowej Kasy Chorych Rada Ministrów nadaje Kasie pierwszy statut oraz określa w szczególności: 1) nazwę i siedzibę branżowej Kasy Chorych, 2) sposób organizowania branżowej Kasy Chorych i źródła pokrycia kosztów jej tworzenia, 3) tryb powoływania, zadania i uprawnienia pełnomocnika do spraw zorganizowania branżowej Kasy Chorych, 4) ustrój branżowej Kasy Chorych i kompetencje jej organów, 5) tryb powoływania na stanowiska w organach branżowej Kasy Chorych i odwoływania z tych stanowisk, 6) zakres podmiotowy branżowej Kasy Chorych. 4. Branżową Kasę Chorych znosi się na wniosek Prezesa Urzędu Nadzoru Ubezpieczeń Zdrowotnych. 5. W rozporządzeniu o zniesieniu branżowej Kasy Chorych Rada Ministrów określa w szczególności sposób i tryb przeprowadzenia likwidacji tej Kasy oraz przeznaczenie jej mienia. 6. W przypadku zniesienia branżowej Kasy Chorych jej członkowie stają się członkami regionalnej Kasy Chorych właściwej dla ich miejsca zamieszkania. ” ; 3) art. 110 otrzymuje brzmienie: „ Art. 110. W skład Rady Krajowego Związku Kas Chorych wchodzą po jednym przedstawicielu Kasy Chorych, gdy Kasa liczy do 2 000 000 członków, a w przypadku gdy liczy powyżej 2 000 000 członków - dwóch przedstawicieli. ” ; 4) art. 168 otrzymuje brzmienie: „ Art. 168. Do dnia 31 grudnia 1998 r. opinie, o których mowa w art. 69c ust. 2, wydaje Pełnomocnik. ” ; 5) po art. 168 dodaje się art. 168a i 168b w brzmieniu: „ Art. 168a. 1. Osoby objęte obowiązkiem ubezpieczenia zdrowotnego, o których mowa w art. 8, stają się, z mocy niniejszej ustawy, członkami regionalnej Kasy Chorych właściwej dla ich miejsca zamieszkania, z zastrzeżeniem ust. 2. 2. Przepisu ust. 1 nie stosuje się do osób, które odpowiadają warunkom określonym w rozporządzeniu Rady Ministrów wydanym na podstawie art. 69c ust. 3 i do dnia 31 grudnia 1998 r. złożą pisemną deklarację członkostwa w branżowej Kasie Chorych. Osoby te z dniem 1 stycznia 1999 r. stają się członkami branżowej Kasy Chorych. Deklaracja członkostwa powinna być złożona pełnomocnikowi branżowej Kasy Chorych. 3. Podmioty, o których mowa w art. 16, są obowiązane dokonać zgłoszenia ubezpieczonego do właściwej Kasy Chorych, nie później niż do dnia 31 grudnia 1998 r. 4. Kasa Chorych od dnia rozpoczęcia działalności przejmuje finansowanie i zapewnia kontynuację świadczeń zdrowotnych zleconych ubezpieczonym przed tym dniem w publicznych zakładach opieki zdrowotnej. Art. 168b. Wniosek o zmianę członkostwa w Kasie Chorych może być uwzględniony nie wcześniej niż z dniem 1 stycznia 2000 r., z wyjątkiem przypadku zmiany miejsca zamieszkania poza obszar działania Kasy Chorych, której ubezpieczony jest członkiem. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 18 lipca 1998 r. o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz o zmianie niektórych ustaw ( Dz. U. Nr 117, poz. 756 ) skreśla się w art. 1 pkt 62, w pkt 64 dodawany art. 69c, pkt 87, 134 i 135."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

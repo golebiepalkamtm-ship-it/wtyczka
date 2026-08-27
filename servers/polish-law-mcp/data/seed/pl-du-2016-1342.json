@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-1342",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lipca 2016 r. o zmianie ustawy o publicznym transporcie zbiorowym",
+  "title_en": "",
+  "short_name": "pl-du-2016-1342",
+  "status": "amended",
+  "issued_date": "2016-07-21",
+  "in_force_date": "2016-08-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1342",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 grudnia 2010 r. o publicznym transporcie zbiorowym ( Dz. U. z 2015 r. poz. 1440 , 1753 , 1890 i 1893 ) wprowadza się następujące zmiany: 1) art. 78 otrzymuje brzmienie: „ Art. 78. 1. Podmioty prowadzące działalność w zakresie regularnego przewozu osób w krajowym transporcie drogowym, kolejowym, innym szynowym, linowym, linowo-terenowym, morskim i w żegludze śródlądowej mogą ją nadal wykonywać na podstawie posiadanych uprawnień, jednak nie dłużej niż do dnia 31 grudnia 2017 r. 2. Zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym, których termin ważności upływa w dniu 31 grudnia 2016 r., wydane na podstawie przepisów dotychczasowych, zachowują ważność do dnia 31 grudnia 2017 r. ” ; 2) w art. 79 w ust. 1 i 2, w art. 80, w art. 82 w ust. 2 oraz w art. 87 w ust. 1 i 3 wyrazy „31 grudnia 2016 r.” zastępuje się wyrazami „31 grudnia 2017 r.” ; 3) w art. 81, w art. 85 w ust. 2 oraz w art. 90 wyrazy „1 stycznia 2017 r.” zastępuje się wyrazami „1 stycznia 2018 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

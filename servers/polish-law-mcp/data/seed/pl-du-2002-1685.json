@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-1685",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 października 2002 r. o zmianie ustawy o finansach publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1685",
+  "status": "repealed",
+  "issued_date": "2002-10-30",
+  "in_force_date": "2002-11-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1685",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ( Dz. U. Nr 155, poz. 1014 , z 1999 r. Nr 38, poz. 360 , Nr 49, poz. 485 , Nr 70, poz. 778 i Nr 110, poz. 1255 , z 2000 r. Nr 6, poz. 69 , Nr 12, poz. 136 , Nr 48, poz. 550 , Nr 95, poz. 1041 , Nr 119, poz. 1251 i Nr 122, poz. 1315 , z 2001 r. Nr 45, poz. 497 , Nr 46, poz. 499 , Nr 88, poz. 961 , Nr 98, poz. 1070 , Nr 100, poz. 1082 , Nr 102, poz. 1116 , Nr 125, poz. 1368 i Nr 145, poz. 1623 oraz z 2002 r. Nr 41, poz. 363 i 365 , Nr 74, poz. 676 , Nr 113, poz. 984 , Nr 153, poz. 1271 i Nr 156, poz. 1300 ) w art. 190 w ust. 1 zdanie wstępne otrzymuje brzmienie: „ Nie dłużej niż do dnia 31 grudnia 2004 r. dla obsługi budżetu państwa są prowadzone następujące rachunki bankowe: ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

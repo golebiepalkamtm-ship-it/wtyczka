@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-2004-144",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 grudnia 2003 r. o czasie urzędowym na obszarze Rzeczypospolitej Polskiej",
+  "title_en": "",
+  "short_name": "pl-du-2004-144",
+  "status": "in_force",
+  "issued_date": "2003-12-10",
+  "in_force_date": "2004-02-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/144",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na obszarze Rzeczypospolitej Polskiej wprowadza się czas urzędowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Czasem urzędowym na obszarze Rzeczypospolitej Polskiej jest czas środkowoeuropejski albo czas letni środkowoeuropejski w okresie od jego wprowadzenia do odwołania. 2. Czas środkowoeuropejski jest czasem zwiększonym o jedną godzinę w stosunku do uniwersalnego czasu koordynowanego UTC(PL). 3. Czas letni środkowoeuropejski jest czasem zwiększonym o dwie godziny w stosunku do uniwersalnego czasu koordynowanego UTC(PL). 4. Uniwersalny czas koordynowany UTC(PL) jest polską realizacją międzynarodowego uniwersalnego czasu koordynowanego UTC i wyznaczany jest przez państwowy wzorzec jednostek miar czasu i częstotliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Prezes Rady Ministrów wprowadza i odwołuje czas letni środkowoeuropejski, w drodze rozporządzenia, ustalając na okres co najmniej jednego roku kalendarzowego dokładne daty, od których następuje wprowadzenie lub odwołanie czasu letniego, uwzględniając istniejące standardy międzynarodowe w tym zakresie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Organem uprawnionym do utrzymywania czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL) oraz do rozpowszechniania sygnałów tych czasów jest Prezes Głównego Urzędu Miar. 2. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposoby rozpowszechniania sygnałów czasu urzędowego i uniwersalnego czasu koordynowanego UTC(PL), uwzględniając w szczególności standardy międzynarodowe i potrzeby użytkowników."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Traci moc ustawa z dnia 18 stycznia 1996 r. o czasie letnim ( Dz. U. Nr 29, poz. 128 ) ."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1919-229",
+  "type": "statute",
+  "title": "Ustawa Sejmowa z dnia 28 lutego 1919 r. w przedmiocie zaopatrzenia ludności w drzewo budulcowe i opałowe.",
+  "title_en": "",
+  "short_name": "pl-du-1919-229",
+  "status": "repealed",
+  "issued_date": "1919-02-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/229",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem umożliwienia ludności zaopatrzenia w drzewo budulcowe i opałowe upoważnia się rząd do wydawania drzewa: a) dla odbudowy zniszczonych przez działania wojenne domów mieszkalnych i zabudowań gospodarczych drobnych rolników oraz drobnych posiadaczy miejskich na rachunek Skarbu Państwa - do wysokości stwierdzonej szkody wojennej; b) dla innych celów po cenach ustanowionych przez rząd."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na uzyskanie potrzebnego zapasu drzewa rząd ma prawo przeznaczyć drzewo z lasów państwowych, jak również dokonywać zajęcia drzewa w lasach prywatnych na pniu oraz gotowego materjału ściętego, jak również tartego po cenach ustanowionych przez rząd. W razie zaniechania ruchu zakładów przeróbki drzewa przez ich właścicieli rząd może je objąć w zarząd Państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wydatki Skarbu Państwa poniesione z tytułu wydawania drzewa winny być rejestrowane w celu potrącenia ich poszkodowanemu z ewentualnie przypadających mu odszkodowań wojennych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza przestaje obowiązywać, skoro zostanie wydana ogólna ustawa o odbudowanie kraju."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Robót Publicznych w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych oraz Ministrem Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

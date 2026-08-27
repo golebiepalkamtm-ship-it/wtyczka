@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-169",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 marca 1929 r. o sprzedaży nieruchomości państwowej w Warszawie.",
+  "title_en": "",
+  "short_name": "pl-du-1929-169",
+  "status": "in_force",
+  "issued_date": "1929-03-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/169",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż Wyższej Szkole Handlowej w Warszawie nieruchomości państwowej, położonej w Warszawie przy ulicy Rakowieckiej, oznaczonej Nr. hip. 8391, tworzącej parcelę gruntową o powierzchni 43163 m 2 , za cenę ulgową zł. 265.005."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dokonanie sprzedaży i ustalenie bliższych warunków sprzedaży porucza się Ministrowi Robót Publicznych w porozumieniu z Ministrami Skarbu oraz Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2024-649",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych",
+  "title_en": "",
+  "short_name": "pl-du-2024-649",
+  "status": "amended",
+  "issued_date": "2024-04-12",
+  "in_force_date": "2024-04-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/649",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych ( Dz. U. z 2023 r. poz. 700 ) wprowadza się następujące zmiany: 1) do tytułu ustawy dodaje się odnośnik nr 1 w brzmieniu: „ 1) Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającą dyrektywę 2001/37/WE ( Dz. Urz. UE L 127 z 29.04.2014, str. 1 , Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4) . ” ; 2) w art. 10b: a) ust. 2 i 3 otrzymują brzmienie: „ 2. Zabezpieczeniem, o którym mowa w ust. 1, jest: 1) znak akcyzy, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ( Dz. U. z 2023 r. poz. 1542 , 1598 i 1723 ) , albo 2) inne zabezpieczenie, o którym mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku opakowań jednostkowych wyrobów tytoniowych: a) sprzedawanych w wolnych obszarach celnych podróżnym udającym się do krajów trzecich, b) niebędących wyrobami akcyzowymi w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym . 3. Znak akcyzy jest nanoszony zgodnie z przepisami ustawy, o której mowa w ust. 2 pkt 1. ” , b) ust. 6 otrzymuje brzmienie: „ 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje elementów potwierdzających autentyczność, o których mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku zabezpieczenia umieszczanego na opakowaniach jednostkowych wyrobów tytoniowych, o których mowa w ust. 2 pkt 2, uwzględniając potrzebę zapewnienia sprawnego funkcjonowania systemu identyfikowalności. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 20 maja 2024 r. 1) Niniejsza ustawa uzupełnia wdrożenie dyrektywy Parlamentu Europejskiego i Rady 2014/40/UE z dnia 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającej dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

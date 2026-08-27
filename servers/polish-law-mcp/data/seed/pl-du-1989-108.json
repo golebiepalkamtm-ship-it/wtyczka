@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1989-108",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 kwietnia 1989 r. o zmianie ustawy zmieniającej ustawę - Prawo lokalowe.",
+  "title_en": "",
+  "short_name": "pl-du-1989-108",
+  "status": "repealed",
+  "issued_date": "1989-04-07",
+  "in_force_date": "1989-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/108",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 lipca 1987 r. o zmianie ustawy - Prawo lokalowe ( Dz. U. Nr 21, poz. 124 ) art. 4 otrzymuje brzmienie: „ Art. 4. 1. Dotychczasowe mieszkania funkcyjne stają się mieszkaniami zakładowymi, jeżeli odpowiadają warunkom określonym w art. 50 ust. 2 ustawy wymienionej w art. 1. 2. Decyzje o przydziale mieszkań funkcyjnych innych niż wymienione w ust. 1 są równoznaczne - z zastrzeżeniem ust. 7 - z decyzją o przydziale wydaną przez terenowy organ administracji państwowej na czas nieoznaczony. 3. Przepis ust. 1 stosuje się odpowiednio do lokali mieszkalnych wybudowanych lub uzyskanych ze środków zakładów pracy, przydzielonych przez terenowy organ administracji państwowej po dniu 1 sierpnia 1974 r. osobom Wskazanym przez te zakłady. 4. Dotychczasowe przydziały mieszkań, o których mowa w ust. 1 i 3, zachowują swoją ważność i są równoznaczne z umową najmu mieszkania zakładowego zawartą na czas nieoznaczony. 5. Dotychczasowym najemcom mieszkań, o których mowa w ust. 3, nie będącym w dniu 1 stycznia 1988 r. pracownikami zakładu pracy dysponującego mieszkaniem, przysługuje w razie rozwiązania umowy najmu prawo do lokalu zamiennego; w przypadku opuszczenia mieszkania przez takiego najemcę prawo do lokalu zamiennego przysługuje także jego małżonkowi lub byłemu małżonkowi. Nie dotyczy to osób, z którymi stosunek najmu został rozwiązany z przyczyn uzasadniających wypowiedzenie najmu bez zachowania obowiązujących terminów. 6. W razie śmierci osób, o których mowa w ust. 3, po dniu 1 stycznia 1988 r., do małżonka, byłego małżonka i osób bliskich stosuje się przepis art. 51 a ust. 4 ustawy wymienionej w art. 1. W takim przypadku nie ma zastosowania przepis art. 691 Kodeksu cywilnego . 7. Dotychczasowe przydziały mieszkań funkcyjnych, dokonane na rzecz dozorców i palaczy centralnego ogrzewania w budynkach, o których mowa w art. 20 ust. 1 ustawy wymienionej w art. 1, zachowują swoją ważność i są równoznaczne z decyzją o przydziale, wydaną przez terenowy organ administracji państwowej na czas trwania umowy o wykonywanie ich obowiązków w danym budynku. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

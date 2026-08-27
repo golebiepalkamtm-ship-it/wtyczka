@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-2010-1508",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 października 2010 r. o zmianie ustawy o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków",
+  "title_en": "",
+  "short_name": "pl-du-2010-1508",
+  "status": "repealed",
+  "issued_date": "2010-10-22",
+  "in_force_date": "2010-12-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1508",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 września 2002 r. o portowych urządzeniach do odbioru odpadów oraz pozostałości ładunkowych ze statków ( Dz. U. Nr 166, poz. 1361 , z 2004 r. Nr 96, poz. 959 oraz z 2005 r. Nr 203, poz. 1683 ) wprowadza się następujące zmiany: 1) w art. 3 w pkt 11 kropkę zastępuje się średnikiem i dodaje się pkt 12 w brzmieniu: „ 12) portach lub przystaniach morskich - oznacza to porty lub przystanie morskie w rozumieniu art. 2 pkt 2 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich ( Dz. U. z 2010 r. Nr 33, poz. 179 ) . ” ; 2) w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „ 1) marszałka województwa - dla portów o podstawowym znaczeniu dla gospodarki narodowej, po jej uprzednim uzgodnieniu, w trybie decyzji administracyjnej, z dyrektorem właściwego urzędu morskiego; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Sprawy wszczęte, na podstawie art. 9 ust. 3 pkt 1 ustawy zmienianej w art. 1, przed dniem wejścia wżycie niniejszej ustawy, a niezakończone decyzją ostateczną, przejmują marszałkowie województw. 2. Odwołania od decyzji wydanych przez wojewodów w sprawach, o których mowa w ust. 1, rozpatrują samorządowe kolegia odwoławcze."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Z dniem wejścia w życie niniejszej ustawy stroną zawartych wcześniej przez wojewodę porozumień i umów w zakresie zadań i kompetencji podlegających przekazaniu na podstawie ustawy staje się właściwy marszałek województwa. 2. Decyzje wydane przez wojewodę na podstawie art. 9 ust. 3 pkt 1 ustawy zmienianej w art. 1 zachowują ważność do upływu określonych w nich terminów ważności, chyba że na podstawie odrębnych przepisów wcześniej zostaną zmienione lub utracą ważność."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W toczących się postępowaniach sądowych i administracyjnych w zakresie zadań i kompetencji podlegających przekazaniu na podstawie ustawy, w których stroną jest wojewoda, stroną staje się właściwy marszałek województwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Niezwłocznie po dniu wejścia w życie niniejszej ustawy wojewodowie przekażą marszałkom województw akta spraw w toczących się postępowaniach sądowych i administracyjnych dotyczących decyzji wydanych przez wojewodów na podstawie art. 9 ust. 3 pkt 1 ustawy zmienianej w art. 1. 2. Niezwłocznie po dniu wejścia w życie niniejszej ustawy minister właściwy do spraw gospodarki morskiej przekaże samorządowym kolegiom odwoławczym akta spraw w toczących się postępowaniach administracyjnych dotyczących odwołań od decyzji wydanych przez wojewodów na podstawie art. 9 ust. 3 pkt 1 ustawy zmienianej w art. 1. 3. Przekazanie akt spraw, o których mowa w ust. 1 i 2, następuje na podstawie protokołu zdawczo-odbiorczego. 4. Protokół, o którym mowa w ust. 3, zawiera: 1) wykaz spraw przekazywanych, wszczętych i niezakończonych; 2) wykaz przekazywanych dokumentów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"arti_5-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "w art. 9 w ust. 3 pkt 1 otrzymuje brzmienie: „ 1) marszałka województwa",
+      "definition": "dla portów o podstawowym znaczeniu dla gospodarki narodowej, po jej uprzednim uzgodnieniu, w trybie decyzji administracyjnej, z dyrektorem właściwego urzędu morskiego; ” .",
+      "source_provision": "art1"
+    }
+  ]
+}

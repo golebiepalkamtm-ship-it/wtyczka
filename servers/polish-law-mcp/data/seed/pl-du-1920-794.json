@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1920-794",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 listopada 1920 r. o ratyfikacji układu polsko-niemieckiego w przedmiocie przejęcia wymiaru sprawiedliwości z dnia 20 września 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1920-794",
+  "status": "in_force",
+  "issued_date": "1920-11-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/794",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza do niniejszej ustawy dołączony układ polsko - niemiecki w przedmiocie przejęcia wymiaru sprawiedliwości, podpisany przez Pełnomocników Rzeczypospolitej Polskiej Podsekretarza Stanu D-ra Zygmunta Seydę i Szefa Departamentu D-ra Witolda Prądzyńskiego, tudzież Pełnomocnika Rzeszy Niemieckiej Tajnego Nadradcę Sprawiedliwości i Radcę Ministerjalnego D-ra Georg Crusen w dniu 20 września 1920 r. w Poznaniu, oraz załącznik do artykułu 3 § 3 tego układu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia Naczelnika Państwa Józefa Piłsudskiego do podpisania ratyfikacji powyższego układu wraz z załącznikiem w imieniu Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezydentowi Ministrów i Ministrowi Spraw Zagranicznych w porozumieniu z Ministrem b. Dzielnicy Pruskiej. Wykonanie zaś układu wymienionego w art. 1 - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrem Spraw Zagranicznych i Ministrem Sprawiedliwości. Przy wykonaniu układu miarodajnem dla władz Rzeczypospolitej będzie polskie jego brzmienie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

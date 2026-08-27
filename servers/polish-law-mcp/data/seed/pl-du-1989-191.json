@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1989-191",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 maja 1989 r. o zmianie ustawy o funduszu alimentacyjnym.",
+  "title_en": "",
+  "short_name": "pl-du-1989-191",
+  "status": "repealed",
+  "issued_date": "1989-05-30",
+  "in_force_date": "1989-06-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/191",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 lipca 1974 r. o funduszu alimentacyjnym ( Dz. U. z 1983 r. Nr 10, poz. 54 i z 1984 r. Nr 3, poz. 13 ) wprowadza się następujące zmiany: 1) art. 1 otrzymuje brzmienie: „ Art. 1. Tworzy się fundusz alimentacyjny przeznaczony na wypłatę świadczeń pieniężnych dla dzieci i innych osób w przypadku niemożności wyegzekwowania świadczeń alimentacyjnych. ” ; 2) w art. 4: a) ust. 2 otrzymuje brzmienie: „ 2. Świadczenia z funduszu alimentacyjnego przysługują w wysokości bieżąco ustalonych alimentów, jednakże w kwocie nie wyższej niż 25% przeciętnego wynagrodzenia miesięcznego pracowników gospodarki uspołecznionej za ubiegły rok kalendarzowy, z zaokrągleniem do pełnych stu złotych w górę. ” , b) ust. 3 otrzymuje brzmienie: „ 3. Górną granicę świadczeń wypłacanych z funduszu alimentacyjnego ustala się na okres od dnia 1 kwietnia do dnia 31 marca następnego roku kalendarzowego. ” ; 3) w art. 5: a) pkt 1 skreśla się, b) dotychczasowe pkt 2 i 3 oznacza się jako pkt 1 i 2; 4) art. 6 otrzymuje brzmienie: „ Art. 6. Świadczenia z funduszu alimentacyjnego nie przysługują osobie, która: 1) otrzymuje pełne utrzymanie z funduszów państwowych lub społecznych, a w szczególności: a) odbywa czynną służbę wojskową lub spełnia zastępczo obowiązek tej służby, b) przebywa w zakładzie opiekuńczym, wychowawczym, w domu rencisty lub w innym tego rodzaju zakładzie albo 2) jest uprawniona, zgodnie z przepisami o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej, do zasiłków pieniężnych przewidzianych dla dzieci żołnierzy oraz osób spełniających zastępczo obowiązek służby wojskowej, zobowiązanych do świadczeń alimentacyjnych, 3) po osiągnięciu pełnoletności nie kontynuuje nauki w szkole i nie jest inwalidą zaliczonym do I lub II grupy inwalidów. ” ; 5) w art. 8 wyrazy „o których mowa w art. 6 ust. 1” zastępuje się wyrazami „o których mowa w art. 6” ; 6) w art. 12 ust. 3 otrzymuje brzmienie: „ 3. Zakład Ubezpieczeń Społecznych odstępuje od wydania decyzji o zaprzestaniu wypłaty świadczeń z funduszu alimentacyjnego w czasie trwania obowiązku alimentacyjnego, jeżeli po osiągnięciu pełnoletności osoba uprawniona do świadczeń kształci się w szkole albo z powodu innych okoliczności nie ma możliwości samodzielnego utrzymania się. ” ; 7) w art. 19: a) wyrazy „Ministrowie Pracy, Płac i Spraw Socjalnych oraz Sprawiedliwości” zastępuje się wyrazami „Ministrowie Pracy i Polityki Socjalnej oraz Sprawiedliwości” , b) pkt 2 skreśla się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osoby, na które nie przysługuje zasiłek rodzinny, pobierające w dniu wejścia w życie niniejszej ustawy - niezależnie od świadczeń z funduszu alimentacyjnego - dodatkową kwotę 2.600 zł miesięcznie, zachowują prawo do jej pobierania. Kwoty te nie podlegają ściągnięciu od osoby zobowiązanej do alimentów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_1-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

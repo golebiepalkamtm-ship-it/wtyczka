@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-130",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lutego 1932 r. w sprawie zmiany ustawy z dnia 15 lipca 1925 r. o mierniczych przysięgłych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-130",
+  "status": "repealed",
+  "issued_date": "1932-02-18",
+  "in_force_date": "1932-03-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/130",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 24 ustawy z dnia 15 lipca 1925 r. o mierniczych przysięgłych (Dz. U. R. P. Nr 97, poz. 682) wprowadza się następujące zmiany: 1) w ustępie pierwszym wyrazy: „do 31 grudnia 1930 r.” zastępuje się wyrazami: „do 31 grudnia 1932 r.” ; 2) w ustępie drugim wyrazy: „do końca roku 1930” zastępuje się wyrazami: „do końca roku 1932” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osoby, które posiadały upoważnienia do wykonywania prac pomiarowych, związanych z przebudową ustroju rolnego na podstawie ustępu pierwszego art. 25 ustawy z, dnia 15 lipca 1925 r. o mierniczych przysięgłych, mogą do dnia 31 grudnia 1932 r. ubiegać się o nadanie im tytułu i prawa mierniczego przysięgłego na warunkach, wskazanych w ustępie trzecim tego artykułu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

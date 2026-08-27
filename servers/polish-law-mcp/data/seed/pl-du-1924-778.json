@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1924-778",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1924 r. o popieraniu przemysłu ludowego.",
+  "title_en": "",
+  "short_name": "pl-du-1924-778",
+  "status": "in_force",
+  "issued_date": "1924-07-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/778",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem poparcja przemysłu ludowego oraz podniesienia jego wytwórczości upoważnia się Ministra Skarbu do udzielenia gwarancji Skarbu Państwa za zobowiązania, zaciągnięte przez przemysł ludowy i zbliżone do niego działy przemysłu domowego oraz wytwórcze kooperatywy i zrzeszenia tych przemysłów w instytucjach kredytowych. Za przemysł ludowy w rozumieniu niniejszej ustawy należy uważać wytwarzanie przedmiotów użytkowych i zdobniczych, o cechach etnicznych, z własnych lub nabytych surowców, we własnych warsztatach pracy, o ile wytwarzanie to odbywa się samodzielnie, przy pomocy członków rodziny, bądź dziennych najemników. Za przemysł domowy uważać należy wytwarzanie przedmiotów użytkowych lub przemysłu artystycznego, w celach zbytu na rachunek własny, o ile wytwarzanie to odbywa się obok głównego zajęcia domowego lub zawodowego i nie ma cech rzemiosła."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Gwarancja Skarbu Państwa trwać będzie przez okres pięciu lat, licząc od dnia wejścia w życie niniejszej ustawy i udzielona będzie w pierwszym roku do wysokości 100.000 zł., zaś w następnych dwu latach zwiększać się będzie o dalsze 50.000 zł. rocznie. Gwarancja rozciąga się na cały kapitał pożyczkowy procentowy i koszty, może być jednak zrealizowana po wyczerpaniu przez instytucje kredytowe, udzielające kredytu, wszelkich środków prawnych w celu ściągnięcia należności od dłużników, poręczycieli i żyrantów, włącznie z przeprowadzeniem egzekucji sądowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Warunki i termin udzielania kredytu oraz sposób jego zabezpieczenia określi Minister Przemysłu i Handlu w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Korzystający z kredytu na zasadzie niniejszej gwarancji opłacają odsetki nie wyższe, niż 6% w stosunku rocznym. Ewentualną nadwyżkę między tą stopę procentową a faktycznie pobieraną przez instytucje kredytowe pokrywa Skarb Państwa, w którym to celu upoważnia się Ministra Skarbu do wstawienia do budżetu państwowego przez okres lat pięciu corocznie odpowiedniego kredytu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prócz pomocy finansowej, określonej w poprzednich artykułach, Skarb Państwa udziela poparcia przemysłowi. ludowemu przez utworzenie funduszu zasiłkowego. Na ten fundusz wstawia się przez pięć lat do budżetu państwowego corocznie po 10.000 zł. do dyspozycji Ministra Przemysłu i Handlu. Z funduszu tego korzystać mogą również organizacje i instytucje samorządowe i społeczne, zajmujące się na większych obszarach kraju popieraniem przemysłu ludowego i domowego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W celu przeprowadzenia akcji, określonej w art. 1 i 5, tworzy się przy Ministrze Przemysłu i Handlu. „Komitet Popierania Przemysłu Ludowego” jako organ doradczy. W skład tego Komitetu wchodzą przedstawiciele Ministerstwa Przemysłu i Handlu, Rolnictwa i Dóbr Państwowych oraz Skarbu, wyznaczeni przez właściwych ministrów i mianowani na trzy lata przez Ministra Przemysłu i Handlu delegaci organizacji i instytucji, mających na celu popieranie przemysłu ludowego, oraz związków wywozowych wyrobów rzeczonego przemysłu (art. 1), a nadto znani na tem polu działacze. Komitetowi przewodniczy Minister Przemysłu i Handlu, lub wyznaczony przez niego zastępca i zwołuje go w miarę potrzeby z inicjatywy własnej lub na wniosek przynajmniej 3 członków Komitetu. Minister Przemysłu i Handlu mianuje sekretarza Komitetu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Działalność Komitetu obejmuje przedstawianie Ministrowi Przemysłu i Handlu wniosków i opinji, dotyczących całokształtu akcji popierania przemysłu ludowego, w szczególności. zaś jego badania, krzewienia, doskonalenia technicznego i artystycznego, względnie zachowania charakteru etnicznego, organizacji zbytu wytwórczości przemysłu ludowego oraz poparcia finansowego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

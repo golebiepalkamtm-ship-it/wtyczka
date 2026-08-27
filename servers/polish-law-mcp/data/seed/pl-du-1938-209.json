@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1938-209",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 marca 1938 r. o należnościach gmin z tytułu rozliczenia z właścicielami zniesionych obszarów dworskich.",
+  "title_en": "",
+  "short_name": "pl-du-1938-209",
+  "status": "in_force",
+  "issued_date": "1938-03-31",
+  "in_force_date": "1938-04-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Należności - przypadające gminom z tytułu rozliczenia z właścicielami zniesionych obszarów dworskich, przeprowadzonego na podstawie art. 92 ust. (4) ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorialnego ( Dz. U. R. P. Nr 35, poz. 294 ) - korzystają z pierwszeństwa zaspokojenia z nieruchomości, wchodzącej w skład zniesionego obszaru dworskiego, bezpośrednio po należnościach, wymienionych w art. 800 § 1 pkt 3 kodeksu postępowania cywilnego , a przed innymi należnościami, określonymi w dalszych punktach tego paragrafu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Właściciele zniesionych obszarów dworskich mogą - na zaspokojenie należności, wymienionych w art. 1-wydzielić z nieruchomości zniesionego obszaru dworskiego na rzecz gminy odpowiednie, uzgodnione z nią, części gruntów. Wydzielone w ten sposób działki będą wolne od ograniczeń i obciążeń nieruchomości, z której je wydzielono, z wyjątkiem jednakże ograniczeń i obciążeń, wyszczególnionych w art. LXIII przepisów, wprowadzających prawo o sądowym postępowaniu egzekucyjnym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Umowa, zawarta między gminą i właścicielem zniesionego obszaru dworskiego, bądź prawomocne orzeczenie wydziału powiatowego, względnie wojewody, stanowi podstawę do wpisu hipotecznego. (2) Wpisy hipoteczne, dotyczące zabezpieczenia należności gminy oraz przeniesienia własności na gminę, dokonywane na podstawie powyższych tytułów, wolne są od opłat stemplowych i sądowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Do czasu zawarcia umowy lub uprawomocnienia się orzeczenia o rozliczeniu właściciel zniesionego obszaru dworskiego ponosi nadal świadczenia w rozmiarach i na zasadach, które obowiązywały go przed dniem 1 kwietnia 1935 r. (2) Uiszczone przez właściciela b. obszaru dworskiego za gminę świadczenia w czasokresie od dnia 1 kwietnia 1935 r. do dnia prawomocnego ustalenia sumy rozliczeniowej, w myśl art. 3 ust. (1) ustawy niniejszej, winny mu być potrącone od ustalonej sumy rozliczeniowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Spraw Wewnętrznych i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

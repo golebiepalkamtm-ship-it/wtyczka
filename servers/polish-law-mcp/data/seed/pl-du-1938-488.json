@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1938-488",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 sierpnia 1938 r. o Akademii Wychowania Fizycznego Józefa Piłsudskiego w Warszawie.",
+  "title_en": "",
+  "short_name": "pl-du-1938-488",
+  "status": "repealed",
+  "issued_date": "1938-08-23",
+  "in_force_date": "1938-09-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/488",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Wyższy zakład naukowo - wychowawczy. powołany do życia wolą Pierwszego Marszałka Polski Józefa Piłsudskiego, jako Centralny Instytut Wychowania Fizycznego w Warszawie, przekształca się na wojskową szkołę akademicką pod nazwą: „Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie.” (2) Akademia Wychowania Fizycznego Józefa Piłsudskiego w Warszawie posiada osobowość prawną. (3) Akademia Wychowania Fizycznego Józefo Piłsudskiego w Warszawie będzie w dalszych artykułach nazywana Akademią."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Akademia, utworzona dla pracy nad podstawami fizycznego i rycerskiego wychowania młodego pokolenia w służbie Narodu i Państwa, ma za zadanie: a) wychowanie i kształcenie nauczycieli inauczycielek wychowania fizycznego dla potrzeb szkolnictwa oraz kierowników i kierowniczek, instruktorów i instruktorek wychowania fizycznego dla sił zbrojnych, instytucyj państwowych, samorządowych i społecznych; b) kształcenie sił naukowych i specjalistów w poszczególnych działach wychowania fizycznego; c) prowadzenie prac naukowych i badawczych oraz doskonalenie i pogłębianie metod dydaktycznych i badawczych w dziedzinie wychowania fizycznego i nauk pokrewnych; d) kształcenie ducha rycerskości; e) szerzenie idei wychowania fizycznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Spraw Wojskowych sprawuje nadzór zwierzchni nad działalnością Akademii w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego z wyjątkiem spraw, dotyczących tylko wojska, w których wydaje zarządzenia samodzielnie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Ustrój Akademii, czas trwania nauki, organizację studiów i egzaminów oraz prawa i obowiązki słuchaczów określa jej statut. Statut określa również właściwość Ministra Wyznań Religijnych i Oświecenia Publicznego w zakresie nadzoru nad poziomem naukowym szkoły i sposób wykonywania nadzoru. (2) Statut Akademii nadaje Minister Spraw Wojskowych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Stosunek służbowy niewojskowych profesorów i pomocniczych sił naukowych określa rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 lutego 1928 r. o stosunku służbowym profesorów państwowych szkół akademickich i pomocniczych sił naukowych tych szkół (Dz. U. R. P. z 1933 r. Nr 76, poz. 551) z tą zmianą, że przewidziane w przepisach tego rozporządzenia uprawnienia Ministra Wyznań Religijnych i Oświecenia Publicznego przechodzą na Ministra Spraw Wojskowych, działającego w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Wyznań Religijnych i Oświecenia Publicznego na wniosek Ministra Spraw Wojskowych może nadać Akademii w drodze rozporządzenia prawo nadawania stopni naukowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Spraw Wojskowych oraz Wyznań Religijnych i Oświecenia Publicznego każdemu we właściwym mu zakresie działania."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

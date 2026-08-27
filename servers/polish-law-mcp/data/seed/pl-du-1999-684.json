@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-684",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 czerwca 1999 r. o zmianie ustawy o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej.",
+  "title_en": "",
+  "short_name": "pl-du-1999-684",
+  "status": "repealed",
+  "issued_date": "1999-06-18",
+  "in_force_date": "1999-07-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/684",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 grudnia 1994 r. o kształtowaniu środków na wynagrodzenia w państwowej sferze budżetowej ( Dz. U. z 1995 r. Nr 34, poz. 163 , z 1996 r. Nr 106, poz. 496 i Nr 139, poz. 647 , z 1997 r. Nr 133, poz. 883 oraz z 1998 r. Nr 117, poz. 756 , Nr 155, poz. 1014 i 1016 i Nr 160, poz. 1059 ) w art. 2 w ust. 1 w pkt 1 na końcu zdania dodaje się wyrazy „z wyłączeniem placówek zagranicznych,” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

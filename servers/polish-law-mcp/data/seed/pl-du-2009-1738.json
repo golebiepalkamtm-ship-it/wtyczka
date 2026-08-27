@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-1738",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 października 2009 r. o zmianie ustawy o pomocy społecznej",
+  "title_en": "",
+  "short_name": "pl-du-2009-1738",
+  "status": "amended",
+  "issued_date": "2009-10-23",
+  "in_force_date": "2009-12-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1738",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ( Dz. U. z 2009 r. Nr 175, poz. 1362 , Nr 202, poz. 1551 i Nr 219, poz. 1706 ) po art. 90 dodaje się art. 90a w brzmieniu: „ Art. 90a. 1. Rada powiatu może, w drodze uchwały, podwyższyć wysokość kwot pomocy pieniężnej przysługującej rodzinom zastępczym, wysokość pomocy pieniężnej na kontynuowanie nauki i usamodzielnienie oraz wartość pomocy na zagospodarowanie. 2. Podwyższenie wysokości pomocy, o której mowa w ust. 1, może być zróżnicowane i uzależnione od spełnienia dodatkowych warunków określonych w uchwale rady powiatu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

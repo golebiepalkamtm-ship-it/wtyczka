@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-401",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1938 r. o zmianie ustawy o Funduszu Pracy.",
+  "title_en": "",
+  "short_name": "pl-du-1938-401",
+  "status": "in_force",
+  "issued_date": "1938-07-14",
+  "in_force_date": "1938-07-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/401",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 3 ustawy z dnia 16 marca 1933 r. o Funduszu Pracy ( Dz. U. R. P. Nr 22, poz. 163 ) , zmieniony rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o połączeniu Funduszu Bezrobocia z Funduszem Pracy ( Dz. U. R. P. Nr 94, poz. 849 ) , otrzymuje brzmienie następujące: „ (1) Fundusz Pracy jest osobą prawną; siedzibą jego władz jest m. st. Warszawa. (2) Zadłużenie Funduszu Pracy - poza zobowiązaniami przejętymi w myśl art. 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o połączeniu Funduszu Bezrobocia z Funduszem Pracy ( Dz. U. R. P. Nr 94, poz. 849 ) - do dnia 31 marca 1939 r. nie może przewyższać: 1) zobowiązań, wynikających z pożyczek, zaciągniętych od Funduszu Inwestycyjnego do dnia wejścia w życie niniejszej ustawy, 2) oraz dalszej kwoty 85 milionów złotych. (3) Poczynając od dnia 1 kwietnia 1939 r., zaciągnięcie każdego nowego zobowiązania wymaga specjalnego tytułu ustawowego, chyba że zachodzi konieczność państwowa zaciągnięcia kredytu na cele nagłych wydatków. W tym przypadku Fundusz Pracy może zaciągnąć kredyt za zgodą Ministra Skarbu do wysokości 10 milionów złotych, z zastrzeżeniem następnego przedłożenia Sejmowi odpowiedniego projektu ustawy i podania do wiadomości Najwyższej Izbie Kontroli. (4) Prolongata zobowiązań, zaciągniętych przed dniem 1 kwietnia 1939 r., nie jest nowym zobowiązaniem w rozumieniu ust. (3). (5) Budżet Funduszu Pracy jest częścią składową budżetu Państwa. Minister Opieki Społecznej składa corocznie sprawozdanie Sejmowi o gospodarce Funduszu Pracy w ubiegłym okresie budżetowym. (6) Sprawozdanie finansowe Funduszu Pracy jest częścią państwowego zamknięcia rachunkowego. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Opieki Społecznej i Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

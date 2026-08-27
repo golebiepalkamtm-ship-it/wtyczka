@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2015-1771",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 września 2015 r. o zmianie ustawy - Prawo farmaceutyczne",
+  "title_en": "",
+  "short_name": "pl-du-2015-1771",
+  "status": "amended",
+  "issued_date": "2015-09-25",
+  "in_force_date": "2015-11-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1771",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 września 2001 r. - Prawo farmaceutyczne ( Dz. U. z 2008 r. Nr 45, poz. 271 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788 i 875. ) wprowadza się następujące zmiany: 1) w art. 37ca w ust. 3 pkt 2 otrzymuje brzmienie: „ 2) odpowiada tak jak sponsor za przechowywanie dokumentów w sposób zapewniający ich stałą dostępność na żądanie: a) właściwych organów, b) Narodowego Funduszu Zdrowia - w odniesieniu do badań klinicznych niekomercyjnych. ” ; 2) w art. 37k po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ 1b. Przepisów ust. 1 i 1a nie stosuje się do sponsora badań klinicznych niekomercyjnych w stosunku do: 1) świadczeń opieki zdrowotnej udzielonych uczestnikom badania klinicznego niekomercyjnego będących świadczeniobiorcami w rozumieniu ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych ; 2) finansowania produktów leczniczych o kategorii dostępności, o której mowa w art. 23a ust. 1 pkt 2-5, środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych objętych wykazami określonymi w art. 37 ust. 1 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych ; 3) produktów leczniczych, co do których została wydana zgoda na refundację przez ministra właściwego do spraw zdrowia w trybie określonym w art. 39 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych ; 4) świadczeń opieki zdrowotnej, określonych w przepisach wydanych na podstawie art. 31d ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych . 1c. Włączenie uczestnika, o którym mowa w ust. 1b, do badania klinicznego niekomercyjnego następuje po wyrażeniu przez niego pisemnej zgody na poinformowanie Narodowego Funduszu Zdrowia o jego numerze PESEL. 1d. Po włączeniu uczestnika, o którym mowa w ust. 1b, badacz lub właściwy podmiot leczniczy w terminie 14 dni od włączenia do badania i uzyskania od niego pisemnej zgody, o której mowa w ust. 1c, informuje właściwy oddział wojewódzki Narodowego Funduszu Zdrowia o numerze PESEL tego uczestnika. ” ; 3) w art. 37ra dodaje się ust. 3 w brzmieniu: „ 3. Dokumentacja badania klinicznego niekomercyjnego jest udostępniana również na żądanie Narodowego Funduszu Zdrowia w zakresie weryfikacji udzielonych świadczeń opieki zdrowotnej w związku z art. 37k ust. 1-1b. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących finansowania świadczeń opieki zdrowotnej, o których mowa w art. 37k ust. 1a ustawy zmienianej w art. 1, stosuje się przepisy art. 37k ust. 1b ustawy zmienianej w art. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 227, poz. 1505 i Nr 234, poz. 1570, z 2009 r. Nr 18, poz. 97, Nr 31, poz. 206, Nr 92, poz. 753, Nr 95, poz. 788 i Nr 98, poz. 817, z 2010 r. Nr 78, poz. 513 i Nr 107, poz. 679, z 2011 r. Nr 63, poz. 322, Nr 82, poz. 451, Nr 106, poz. 622, Nr 112, poz. 654, Nr 113, poz. 657 i Nr 122, poz. 696, z 2012 r. poz. 1342 i 1544, z 2013 r. poz. 1245, z 2014 r. poz. 822 i 1491 oraz z 2015 r. poz. 28, 277, 788 i 875. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

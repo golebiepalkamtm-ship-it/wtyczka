@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2000-5",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 grudnia 1999 r. o zmianie ustawy o Służbie Więziennej oraz ustawy o Naczelnym Sądzie Administracyjnym.",
+  "title_en": "",
+  "short_name": "pl-du-2000-5",
+  "status": "repealed",
+  "issued_date": "1999-12-15",
+  "in_force_date": "2000-01-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/5",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 kwietnia 1996 r. o Służbie Więziennej ( Dz. U. Nr 61, poz. 283 i Nr 106, poz. 496 , z 1997 r. Nr 28, poz. 153 , Nr 88, poz. 554 i Nr 133, poz. 883 oraz z 1999 r. Nr 110, poz. 1255 ) wprowadza się następujące zmiany: 1) w art. 127 w ust. 2 wyrazy „1 roku” zastępuje się wyrazami „3 lat” ; 2) w art. 132 skreśla się ust. 4; 3) po art. 132 dodaje się art. 132a w brzmieniu: „ Art. 132a. 1. Od orzeczenia sądu dyscyplinarnego funkcjonariuszowi, wyższemu przełożonemu oraz Ministrowi Sprawiedliwości służy skarga do Naczelnego Sądu Administracyjnego. 2. Minister Sprawiedliwości może wnieść skargę, o której mowa w ust. 1, w terminie 3 miesięcy od dnia doręczenia orzeczenia wyższemu przełożonemu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 11 maja 1995 r. o Naczelnym Sądzie Administracyjnym ( Dz. U. Nr 74, poz. 368 i Nr 104, poz. 515 , z 1997 r. Nr 75, poz. 471 , Nr 106, poz. 679 , Nr 114, poz. 739 i Nr 144, poz. 971 , z 1998 r. Nr 162, poz. 1126 oraz z 1999 r. Nr 75, poz. 853 ) w art. 19 pkt 3 otrzymuje brzmienie: „ 3) dyscyplinarnych, chyba że ustawa stanowi inaczej, ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Przepisy ustawy stosuje się do spraw niezakończonych orzeczeniami sądów dyscyplinarnych w dniu jej wejścia w życie. 2. Przepisy ustawy mają również zastosowanie do spraw zakończonych orzeczeniami sądów dyscyplinarnych wydanymi po dniu 16 marca 1999 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

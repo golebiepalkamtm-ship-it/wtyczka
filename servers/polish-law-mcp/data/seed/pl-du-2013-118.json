@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2013-118",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2013-118",
+  "status": "amended",
+  "issued_date": "2013-01-04",
+  "in_force_date": "2013-01-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/118",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 kwietnia 2003 r. o szczególnych zasadach przygotowania i realizacji inwestycji w zakresie dróg publicznych ( Dz. U. z 2008 r. Nr 193, poz. 1194 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 72, poz. 620 oraz z 2012 r. poz. 472, 549 i 951. ) w art. 12: 1) po ust. 4f dodaje się ust. 4g w brzmieniu: „ 4g. Jeżeli decyzji o zezwoleniu na realizację inwestycji drogowej nadany został rygor natychmiastowej wykonalności, decyzję ustalającą wysokość odszkodowania wydaje się w terminie 60 dni od dnia nadania decyzji o zezwoleniu na realizację inwestycji drogowej rygoru natychmiastowej wykonalności. ” ; 2) po ust. 5 dodaje się ust. 5a i 5b w brzmieniu: „ 5a. Na wniosek osoby uprawnionej do otrzymania odszkodowania, za nieruchomości, o których mowa w ust. 4, wypłaca się zaliczkę w wysokości 70% odszkodowania ustalonego przez organ pierwszej instancji w decyzji ustalającej wysokość odszkodowania, o której mowa w ust. 4g. Wypłata zaliczki następuje jednorazowo w terminie 30 dni od dnia złożenia wniosku. 5b. Osoba, której wypłacono zaliczkę, lub jej spadkobiercy są obowiązani do zwrotu zaliczki po jej waloryzacji na dzień zwrotu, jeżeli decyzja o zezwoleniu na realizację inwestycji drogowej została zmieniona, uchylona w całości lub w części dotyczącej tej osoby, lub stwierdzono jej nieważność. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do postępowań, w których decyzji o zezwoleniu na realizację inwestycji drogowej nadano rygor natychmiastowej wykonalności przed dniem wejścia w życie niniejszej ustawy, o ile do dnia wejścia w życie niniejszej ustawy decyzja o zezwoleniu na realizację inwestycji drogowej nie stała się ostateczna, stosuje się przepisy art. 12 ust. 4g, 5a i 5b ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 199, poz. 1227, z 2009 r. Nr 72, poz. 620 oraz z 2012 r. poz. 472, 549 i 951. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

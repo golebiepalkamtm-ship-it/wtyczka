@@ -1,0 +1,60 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Polish Law MCP"
+jurisdiction: "PL"
+
+sources:
+  - name: "ISAP (Internetowy System Aktow Prawnych - Internet System of Legal Acts)"
+    authority: "Kancelaria Sejmu RP (Chancellery of the Sejm of the Republic of Poland)"
+    official_portal: "https://isap.sejm.gov.pl"
+    canonical_identifier: "Dziennik Ustaw (Journal of Laws) reference, e.g., Dz.U. 2018 poz. 1000 for DPA 2018"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "https://isap.sejm.gov.pl/isap.nsf/page/api"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "PL-Statutory-PD"
+      ansvar_code: "PL-Statutory-PD"
+      statute_ref: "Prawo autorskie Art. 4"
+      url: "https://isap.sejm.gov.pl"
+      url_pattern: '^https?://(?:www\.)?isap\.sejm\.gov\.pl/.+'
+      summary: "Polish statutory-PD carve-out per Ustawa o prawie autorskim Art. 4 (NARROW). Art. 4 covers statutes, drafts, and administrative acts but does NOT enumerate court decisions. Case-law tier requires a separate basis (K.p.c. Art. 9 for civil judgments, K.p.k. Art. 100 for criminal judgments). This MCP currently ships the statute tier from ISAP under Art. 4. See infrastructure/attribution-licenses.json PL-Statutory-PD."
+    coverage:
+      scope: "All Polish legislation including Ustawa o ochronie danych osobowych z 2018 (Personal Data Protection Act 2018 - RODO implementing provisions), KSC (Ustawa o krajowym systemie cyberbezpieczenstwa 2018 - National Cybersecurity System Act, NIS implementation), KSH (Kodeks spolek handlowych - Commercial Companies Code), Kodeks karny (Criminal Code - cybercrime provisions Art. 267 ff.), Ustawa o swiadczeniu uslug droga elektroniczna (Act on Electronic Services), Prawo telekomunikacyjne (Telecommunications Law), Konstytucja RP, Kodeks cywilny, and all ustawy, rozporzadzenia, and obwieszczenia"
+      limitations: "Historical versions prior to digitisation may be incomplete; no official English translations (some unofficial translations available); ISAP API has rate limiting; consolidated texts may lag behind latest Dziennik Ustaw publication; regional (voivodeship) legislation not covered"
+    languages:
+      - "pl"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - ISAP (isap.sejm.gov.pl) is the authoritative, free source for all Polish
+#   legislation, operated by the Chancellery of the Sejm (lower house of parliament)
+# - ISAP provides structured access with a basic API endpoint for programmatic
+#   access, though HTML scraping may be needed for full text extraction
+# - Polish legal texts are explicitly excluded from copyright protection under
+#   Art. 4 of the Polish Copyright Act (Ustawa o prawie autorskim)
+# - UODO (Urzad Ochrony Danych Osobowych - Personal Data Protection Office) is
+#   Poland's DPA, with growing enforcement activity
+# - Poland's DPA 2018 (Ustawa o ochronie danych osobowych z 10 maja 2018) provides
+#   implementing provisions for GDPR (known as RODO in Polish - Rozporzadzenie o
+#   Ochronie Danych Osobowych), including UODO structure, administrative procedures,
+#   and certification mechanisms
+# - KSC (Krajowy System Cyberbezpieczenstwa, 2018) is Poland's implementation of
+#   the NIS Directive, establishing the national cybersecurity system with CSIRT
+#   teams (CSIRT NASK, CSIRT GOV, CSIRT MON)
+# - Kodeks karny Art. 267 criminalizes unauthorized access to information and
+#   computer systems; Art. 268 covers destruction of data; Art. 268a covers
+#   sabotage of computer systems; Art. 269 covers computer sabotage of systems
+#   of particular importance
+# - KSH (Kodeks spolek handlowych, 2000) governs all types of commercial
+#   companies: partnerships and capital companies (sp. z o.o. and S.A.)
+# - Constitution Art. 47 guarantees the right to legal protection of private life,
+#   family life, honor, and good name
+# - Dziennik Ustaw (Journal of Laws) is the official publication vehicle for all
+#   Polish legislation; references use the format Dz.U. YYYY poz. NNNN
+# - Poland is the EU's sixth largest economy and the largest economy in Central
+#   and Eastern Europe

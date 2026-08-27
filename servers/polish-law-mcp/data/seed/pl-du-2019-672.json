@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2019-672",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lutego 2019 r. o wypowiedzeniu Umowy między Polską Rzecząpospolitą Ludową a Republiką Finlandii o ochronie prawnej i pomocy prawnej w sprawach cywilnych, rodzinnych i karnych, podpisanej w Helsinkach dnia 27 maja 1980 r.",
+  "title_en": "",
+  "short_name": "pl-du-2019-672",
+  "status": "in_force",
+  "issued_date": "2019-02-21",
+  "in_force_date": "2019-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/672",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej wypowiedzenia Umowy między Polską Rzecząpospolitą Ludową a Republiką Finlandii o ochronie prawnej i pomocy prawnej w sprawach cywilnych, rodzinnych i karnych, podpisanej w Helsinkach dnia 27 maja 1980 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

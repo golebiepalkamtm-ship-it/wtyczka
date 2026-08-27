@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2004-225",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 stycznia 2004 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych",
+  "title_en": "",
+  "short_name": "pl-du-2004-225",
+  "status": "amended",
+  "issued_date": "2004-01-29",
+  "in_force_date": "2004-02-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/225",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 maja 2003 r. o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych ( Dz. U. Nr 124, poz. 1152 ) w art. 16 w ust. 1 pkt 3 otrzymuje brzmienie: „ 3) niezwłocznego powiadomienia Policji o zdarzeniu, o ile doszło do wypadku z ofiarami w ludziach lub do wypadku powstałego w okolicznościach nasuwających przypuszczenie, że zostało popełnione przestępstwo. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

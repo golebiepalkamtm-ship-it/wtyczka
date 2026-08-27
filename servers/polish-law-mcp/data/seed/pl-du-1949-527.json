@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1949-527",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 grudnia 1949 r. o zmianie niektórych przepisów dekretu z dnia 7 kwietnia 1948 r. o wywłaszczeniu majątków zajętych na cele użyteczności publicznej w okresie wojny 1939-1945 r.",
+  "title_en": "",
+  "short_name": "pl-du-1949-527",
+  "status": "repealed",
+  "issued_date": "1949-12-30",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1949/527",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W dekrecie z dnia 7 kwietnia 1948 r. o wywłaszczeniu majątków zajętych na cele użyteczności publicznej w okresie wojny 1939-1945 r. ( Dz. U. R. P. Nr 20, poz. 138 ) wprowadza się następujące zmiany: 1) w art. 1 ust. 1 wyrazy „w posiadaniu” zastępuje się wyrazami „we władaniu” , 2) w art. 3 ust. 1 wyrazy: „do dnia 31 grudnia 1949 r.” zastępuje się wyrazami: „do dnia 31 grudnia 1950 r.” , 3) w art. 4 dotychczasową treść tego artykułu oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu: „ 2. W przypadkach uzasadnionych interesem Państwa wojewoda na wniosek ubiegającego się o wywłaszczenie zwolni go od obowiązku złożenia planu sytuacyjnego, o którym mowa w pkt 2 ustępu poprzedzającego, chyba że granic nieruchomości bez planu sytuacyjnego oznaczyć nie można; w tym jednak razie plan ten nie podlega wyłożeniu w lokalu zarządu gminy ” . 4) w art. 6 ust. 3 wyrazy: „do dnia 31 grudnia 1949 r.” zastępuje się wyrazami: „do dnia 31 grudnia 1950 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy porucza się Ministrowi Administracji Publicznej oraz innym ministrom w zakresie ich działania."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1950 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

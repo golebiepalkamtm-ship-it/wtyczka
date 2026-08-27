@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1932-217",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 marca 1932 r. o zbywaniu statków i łodzi polskich, używanych w żegludze na śródlądowych drogach wodnych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-217",
+  "status": "in_force",
+  "issued_date": "1932-03-07",
+  "in_force_date": "1932-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/217",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Statki i łodzie polskie, używane w żegludze na śródlądowych drogach wodnych, nie mogą być zbywane, ani przenoszone na stałe zagranicę, ani też zbywane na rzecz cudzoziemców (osób fizycznych i prawnych) bez zezwolenia Ministra Robót Publicznych, wydanego w porozumieniu z Ministrem Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ograniczenia, wymienione w art. 1 niniejszej ustawy, nie mają zastosowania do statków i łodzi bez własnego napędu mechanicznego o nośności do 50 tonn włącznie, ani też do statków i łodzi z własnym napędem mechanicznym o sile motoru do 30 K. M. włącznie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Winni naruszenia przepisów niniejszej ustawy karani będą więzieniem do lat 2 i grzywną do 50.000 złotych, lub jedną z tych kar, o ile czyn nie stanowi przestępstwa, cięższą karą zagrożonego. (2) Na obszarze, na którym obowiązuje ustawa karna z 1852 r., zamiast kary więzienia orzeka się za powyższy występek karę ścisłego aresztu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Czynności prawne, zawarte z pominięciem postanowień niniejszej ustawy, są z mocy samego prawa nieważne."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Statki i łodzie, zarejestrowane w jednym z portów morskich, nie podlegają przepisom niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z Ministrem Spraw Wojskowych i Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. (2) Równocześnie traci moc obowiązującą rozporządzenie Rady Związkowej Rzeszy Niemieckiej z dnia 17 stycznia 1918 r. (Dz. U. Rzeszy str. 40). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_7-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,98 @@
+{
+  "id": "pl-du-1938-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 stycznia 1938 r. o zaspokojeniu roszczeń z umów ubezpieczenia do upadłego zakładu ubezpieczeń \"Allgemeene Maatschappij van Levensverzekering en Lijfrente\" w Amsterdamie.",
+  "title_en": "",
+  "short_name": "pl-du-1938-17",
+  "status": "in_force",
+  "issued_date": "1938-01-11",
+  "in_force_date": "1938-01-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do zarządzenia rejestracji roszczeń z umów ubezpieczenia na życie, zawartych z zakładem ubezpieczeń „Allgemeene Maatschappij van Levensverzekering en Lijfrente”, i do ich zaspokojenia w sposób, podany w przepisach ustawy niniejszej, z otrzymanych na ten cel przez Rząd Polski sum wraz z narosłymi odsetkami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nie podlegają rejestracji i zaspokojeniu roszczenia: 1) z umów ubezpieczenia, zawartych przez osoby, które w chwili zawarcia umowy nie miały miejsca zamieszkania na obszarze, należącym obecnie do Państwa Polskiego, 2) z umów ubezpieczenia, jeżeli składka ubezpieczeniowa nie została opłacona przynajmniej za lat 3 i to bez względu na przyczynę niezapłacenia składki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Rejestrację roszczeń zarządzi Minister Skarbu w drodze obwieszczenia w Monitorze Polskim, wyznaczając w tym celu termin sześciomiesięczny od daty ogłoszenia. (2) Niezgłoszenie roszczeń w tym terminie powoduje ich utratę."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Jako wartość zarejestrowanego roszczenia należy przyjąć: 1) dla ubezpieczeń, zawartych w czasie do dnia 31 grudnia 1916 r. - rezerwę składek, obliczoną na dzień 31 grudnia 1921 r., 2) dla ubezpieczeń, zawartych w latach 1917 i 1918, - połowę rezerwy składek, obliczonej na dzień 31 grudnia 1921 r., 3) dla ubezpieczeń, zawartych po 1918 r.- 15% rezerwy składek, obliczonej na dzień 31 grudnia 1921 r. (2) Od rezerwy składek należy potrącić pobrane zaliczki (pożyczki) pod zastaw polis: 1) w pełnej wysokości, gdy pobrano je w czasie do dnia 31 grudnia 1916 r., 2) w 50% ich nominalnej wartości, gdy pobrano je w latach 1917 i 1918, 3) w 15% ich nominalnej wartości, gdy pobrano je po 1918 r. (3) Podstawy techniczne (tablice śmiertelności i stopę techniczną) oraz sposób obliczania rezerwy składek ustala Minister Skarbu. (4) Ustaloną w koronach austriackich wartość roszczeń przerachowuje się na złote w stosunku 1 korona austr. = 1,05 zł."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli złożone przy zgłoszeniu roszczenia dowody nasuwają wątpliwości co do istnienia roszczenia lub co do jego wysokości, Ministerstwo Skarbu zawiadamia o tym osobę interesowaną, wyznaczając jej jednocześnie termin, nie krótszy niż miesiąc, do uzupełnienia dowodów. Niezachowanie wyznaczonego terminu powoduje nieuznanie roszczenia lub ustalenie jego wysokości na podstawie złożonych dowodów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wszelkie koszty, związane z rejestracją roszczeń i ich uregulowaniem, zostaną pokryte z sum, przeznaczonych na zaspokojenie roszczeń. Koszty te nie mogą przekroczyć sumy 1.000 zł."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Roszczenia, ustalone w myśl przepisów art. 4 i 5, zostaną uregulowane w takim stosunku, w jakim pozostaje suma przeznaczona na ich zaspokojenie po pokryciu kosztów (art. 6), do ogólnej sumy tych roszczeń."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Ministerstwo Skarbu zawiadamia osoby zainteresowane o decyzji swej w sprawie zgłoszonego roszczenia oraz w sprawie ustalenia sumy, przeznaczonej na jego zaspokojenie (art. 7). (2) Jeżeli osoba, której dotyczy decyzja, na tę decyzję się nie zgadza, służy jej w ciągu jednego miesiąca od daty doręczenia decyzji prawo wytoczenia powództwa przeciw Skarbowi Państwa do sądu powszechnego w Krakowie. Koszty powództwa, wytoczonego z powodu uznania roszczenia za wygasłe dla braku bezpośrednich dowodów (np. polisa, świadectwo zastawowe itp.), uzasadniających roszczenie lub z powodu nieuwzględnienia przy przerachowaniu danych, nie popartych dowodami, obciążają powoda bez względu na wynik postępowania."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Jeżeli kilka osób zgłosiło roszczenie z jednej umowy ubezpieczenia i istnieją trudności w ustaleniu należności dla każdego uprawnionego, całą należność przekazuje się do depozytu sądu miejsca zamieszkania któregokolwiek z uprawnionych. W razie istnienia kilku spadkobierców a zgłoszenia w terminie roszczenia tylko przez jednego z nich, należność z roszczenia wypłaca się w całości spadkobiercy, który roszczenie zgłosił, co jednak nie uchybia roszczeniom zwrotnym pozostałych spadkobierców do niego."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Sumy, przyznane a nie podjęte przez uprawnionych w ciągu 5 lat, przechodzą na własność Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Należności, przyznane na podstawie przepisów ustawy niniejszej, są wolne od podatku spadkowego. Wypłaty tych należności są wolne od opłaty stemplowej. Podania, wnoszone do Ministerstwa Skarbu, w sprawach, unormowanych ustawą niniejszą, nie podlegają opłacie stemplowej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Do postępowania Ministerstwa Skarbu w sprawach uregulowanych ustawą niniejszą, o ile ustawa ta nie stanowi inaczej, mają zastosowanie przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu administracyjnym ( Dz. U. R. P. Nr 36, poz. 341 ) ."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_4-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\",\"children\": [{\"id\": \"arti_4-pass_(2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_(2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_(2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_4-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

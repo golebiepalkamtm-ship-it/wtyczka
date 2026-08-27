@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2019-914",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 kwietnia 2019 r. o zmianie ustawy o Krajowej Radzie Sądownictwa oraz ustawy - Prawo o ustroju sądów administracyjnych",
+  "title_en": "",
+  "short_name": "pl-du-2019-914",
+  "status": "in_force",
+  "issued_date": "2019-04-26",
+  "in_force_date": "2019-05-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/914",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa ( Dz. U. z 2019 r. poz. 84 , 609 i 730 ) wprowadza się następujące zmiany: 1) w art. 43 w ust. 2 skreśla się wyrazy „z zastrzeżeniem art. 44 ust. 1b” ; 2) w art. 44: a) w ust. 1 zdanie drugie otrzymuje brzmienie: „ Odwołanie nie przysługuje w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego. ” , b) uchyla się ust. 1b, c) ust. 2 i 3 otrzymują brzmienie: „ 2. Odwołanie wnosi się za pośrednictwem Przewodniczącego, w terminie dwutygodniowym od dnia doręczenia uchwały z uzasadnieniem. 3. Do postępowania przed Sądem Najwyższym stosuje się przepisy ustawy z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego ( Dz. U. z 2018 r. poz. 1360 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60. ) o skardze kasacyjnej. Przepisu art. 87 1 tej ustawy nie stosuje się. ” , d) uchyla się ust. 4."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 25 lipca 2002 r. - Prawo o ustroju sądów administracyjnych ( Dz. U. z 2018 r. poz. 2107 oraz z 2019 r. poz. 125 ) w art. 49 zdanie pierwsze otrzymuje brzmienie: „ W sprawach nieuregulowanych w ustawie, do Naczelnego Sądu Administracyjnego oraz do sędziów, urzędników i pracowników tego Sądu, stosuje się odpowiednio przepisy dotyczące Sądu Najwyższego, z wyjątkiem przepisu art. 44 ust. 1 zdanie drugie ustawy z dnia 12 maja 2011 r. o Krajowej Radzie Sądownictwa ( Dz. U. z 2019 r. poz. 84 , 609 , 730 i 914 ) . ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Postępowania w sprawach odwołań od uchwał Krajowej Rady Sądownictwa w sprawach indywidualnych dotyczących powołania do pełnienia urzędu na stanowisku sędziego Sądu Najwyższego, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, podlegają umorzeniu z mocy prawa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2018 r. poz. 1467, 1499, 1544, 1629, 1637, 1693, 2385 i 2432 oraz z 2019 r. poz. 55 i 60. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

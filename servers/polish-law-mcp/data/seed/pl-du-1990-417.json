@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-417",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 września 1990 r. o zmianie ustawy budżetowej na rok 1990 oraz ustawy o kształtowaniu środków na wynagrodzenia w sferze budżetowej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-417",
+  "status": "repealed",
+  "issued_date": "1990-09-14",
+  "in_force_date": "1990-10-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/417",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie budżetowej na rok 1990 z dnia 23 lutego 1990 r. ( Dz. U. Nr 13, poz. 82 ) wprowadza się następujące zmiany: 1) w art. 1: a) w ust. 1 kwotę „196 166 713,2 mln zł” zastępuje się kwotą „196 241 429,4 mln zł” , b) w ust. 1 w pkt 4 kwotę „960 473,8 mln zł” zastępuje się kwotą „1 035 190,0 mln zł” , c) w ust. 2 kwotę „196 166 713,2 mln zł” zastępuje się kwotą „196 241 429,4 mln zł” , d) w ust. 2 w pkt 4 kwotę „110 315 375,1 mln zł” zastępuje się kwotą „110 390 091,3 mln zł” , a kwotę „1 171 054,0 mln zł” dotyczącą wymiaru sprawiedliwości i prokuratury kwotą „1 245 770,2 mln zł” ; 2) w art. 2 w ust. 1 kwoty „159 179 632,2 mln zł” i „159 179 632,2 mln zł” zastępuje się odpowiednio kwotami „159 254 348,4 mln zł” i „159 254 348,4 mln zł” ; 3) w załączniku nr 1 do ustawy budżetowej na rok 1990 , w tabeli dotyczącej Ministerstwa Sprawiedliwości i zawierającej szczegółowy podział cz. 36 budżetu centralnego, pozycje lp. 1, 2 i 4 otrzymują brzmienie: „ „92 SUMA OGÓLNA 1 277983,2 1 265 600,3 WYMIAR SPRAWIEDLIWOŚCI 2 277 983,2 1 070 777,2 Sądownictwo powszechne 4 217 733,1 409 300,4” 4) załącznik nr 4 do ustawy budżetowej na rok 1990 otrzymuje brzmienie: „ Tabela etatów Trybunału Konstytucyjnego, wymiaru sprawiedliwości i prokuratury Treść Etaty na dzień 31 grudnia 1990 r. Sąd Najwyższy 311 Trybunał Konstytucyjny 46 Ministerstwo Sprawiedliwości 472 Sądy oraz jednostki podległe Ministrowi Sprawiedliwości 69 490”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 31 stycznia 1989 r. o kształtowaniu środków na wynagrodzenia w sferze budżetowej ( Dz. U. Nr 4, poz. 24 , Nr 48, poz. 261 i Nr 64, poz. 389 ) w art. 1 w ust. 2 po wyrazie „do” dodaje się wyrazy „Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta, Trybunału Konstytucyjnego, Rzecznika Praw Obywatelskich, Najwyższej Izby Kontroli, Sądu Najwyższego, Państwowej Inspekcji Pracy, Naczelnego Sądu Administracyjnego oraz do” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z tym że art. 1 z mocą od dnia 1 lipca 1990 r., a art. 2 obowiązuje od dnia 1 stycznia 1991 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

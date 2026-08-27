@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1921-112",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lutego 1921 r. o budowie linji kolejowej Kokoszki-Gdynia.",
+  "title_en": "",
+  "short_name": "pl-du-1921-112",
+  "status": "in_force",
+  "issued_date": "1921-02-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/112",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do poczynienia zarządzeń, celem wykonania oraz sfinansowania budowy parowej, normalnotorowej kolei z Kokoszek do Gdyni, jako kolei państwowej drugorzędnej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Kolei Żelaznych do opracowania projektu, ułożenia kosztorysu budowy, oznaczenia stacji i przystanków oraz do oznaczenia terminu otwarcia ruchu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Eksploatacja i ruch pociągów prowadzone będą według ustaw i przepisów, obowiązujących na kolejach państwowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wydatki, niezbędne do wykonania w roku bieżącym robót, należy wstawić do budżetu na rok 1921."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Kolei Żelaznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

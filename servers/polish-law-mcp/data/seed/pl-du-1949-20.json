@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1949-20",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 grudnia 1948 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli.",
+  "title_en": "",
+  "short_name": "pl-du-1949-20",
+  "status": "repealed",
+  "issued_date": "1948-12-30",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1949/20",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanym i zabudowaniu osiedli ( Dz. U. R. P. z 1939 r. Nr 34, poz. 216 i Nr 77, poz. 514 , z 1946 r. Nr 16, poz. 109 i z 1948 r. Nr 35, poz. 240 ) art. 416 ust. 3 otrzymuje brzmienie: „ (3) Minister Odbudowy w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Obrony Narodowej oraz Pracy i Opieki Społecznej może wydawać w drodze rozporządzeń dla całego obszaru Państwa lub jego części ulgowe przepisy policyjno-budowlane, dopuszczające odchylenia od wymagań art. 172 - 316. Przepisy dla wsi będą wydawane w porozumieniu z Ministrem Rolnictwa i Reform Rolnych ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Odbudowy oraz Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2015-1338",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 lipca 2015 r. o zmianie ustawy o ochronie gruntów rolnych i leśnych",
+  "title_en": "",
+  "short_name": "pl-du-2015-1338",
+  "status": "amended",
+  "issued_date": "2015-07-10",
+  "in_force_date": "2015-09-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1338",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 3 lutego 1995 r. o ochronie gruntów rolnych i leśnych ( Dz. U. z 2015 r. poz. 909 ) wprowadza się następujące zmiany: 1) w art. 4 w pkt 28 kropkę zastępuje się średnikiem i dodaje się pkt 29 i 30 w brzmieniu: „ 29) zwartej zabudowie - rozumie się przez to zgrupowanie nie mniej niż 5 budynków, za wyjątkiem budynków o funkcji wyłącznie gospodarczej, pomiędzy którymi największa odległość sąsiadujących ze sobą budynków nie przekracza 100 m; 30) obszarze zwartej zabudowy - rozumie się przez to obszar wyznaczony przez obwiednię prowadzoną w odległości 50 m od zewnętrznych krawędzi skrajnych budynków tworzących zwartą zabudowę lub po zewnętrznych granicach działek, na których położone są te budynki, jeśli ich odległość od tych granic jest mniejsza niż 50 m. ” ; 2) w art. 7: a) w ust. 2 pkt 1 otrzymuje brzmienie: „ 1) gruntów rolnych stanowiących użytki rolne klas I-III - wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi, z zastrzeżeniem ust. 2a, ” , b) po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Nie wymaga uzyskania zgody ministra właściwego do spraw rozwoju wsi przeznaczenie na cele nierolnicze i nieleśne gruntów rolnych stanowiących użytki rolne klas I-III, jeżeli grunty te spełniają łącznie następujące warunki: 1) co najmniej połowa powierzchni każdej zwartej części gruntu zawiera się w obszarze zwartej zabudowy; 2) położone są w odległości nie większej niż 50 m od granicy najbliższej działki budowlanej w rozumieniu przepisów ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami ( Dz. U. z 2015 r. poz. 782 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322. ) ; 3) położone są w odległości nie większej niż 50 metrów od drogi publicznej w rozumieniu przepisów ustawy z dnia 21 marca 1985 r. o drogach publicznych ( Dz. U. z 2015 r. poz. 460 , 774 i 870 ) ; 4) ich powierzchnia nie przekracza 0,5 ha, bez względu na to, czy stanowią jedną całość, czy stanowią kilka odrębnych części. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2015 r. poz. 985, 1039, 1180, 1265 i 1322. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "obszarze zwartej zabudowy",
+      "definition": "rozumie się przez to obszar wyznaczony przez obwiednię prowadzoną w odległości 50 m od zewnętrznych krawędzi skrajnych budynków tworzących zwartą zabudowę lub po zewnętrznych granicach działek, na których położone są te budynki, jeśli ich odległość od tych granic jest mniejsza niż 50 m. ”",
+      "source_provision": "art1"
+    }
+  ]
+}

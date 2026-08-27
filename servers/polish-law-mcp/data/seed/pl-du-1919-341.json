@@ -1,0 +1,182 @@
+{
+  "id": "pl-du-1919-341",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 czerwca 1919 r. w przedmiocie sądów doraźnych.",
+  "title_en": "",
+  "short_name": "pl-du-1919-341",
+  "status": "in_force",
+  "issued_date": "1919-06-30",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/341",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sądownictwu doraźnemu poddane być mogą przestępstwa, przewidziane w artykułach 123, 222, 279 część pierwsza ust. 2 i 3, o ile chodzi o bandy w celu rozboju, kradzieży i wymuszeń, 453 - 456, 556 i 557, o ile w obu tych wypadkach uszkodzenie dotyczy urządzenia służącego do użytku publicznego lub rządowego, 558, 562 - 564, 583, 584, 585, o ile przestępstwo to popełniono w okolicznościach wymienionych w art. 583 lub 584, tudzież przestępstwa przewidziane w artykułach 589 i 590 część druga ust. 3 i 4 kodeksu karnego z roku 1903."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wprowadzenie sądów doraźnych nastąpić może bądź na całym obszarze, gdzie ustawa niniejsza obowiązuje, bądź w poszczególnych miejscowościach, względem wszystkich lub niektórych przestępstw w artykule 1 przewidzianych. Sądy doraźne wprowadzone będą mocą uchwały Rady Ministrów, powziętej na wniosek Ministra Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych, na okres czasu nie przenoszący miesięcy sześciu, gdy przestępstwa w art. 1 wymienione szerzyć się będą w sposób szczególnie niebezpieczny dla ładu i bezpieczeństwa publicznego. W razie potrzeby utrzymania sądów doraźnych na okres dalszych sześciu miesięcy, nastąpić powinna osobna w tym względzie uchwała Rady Ministrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "O wprowadzeniu sądów doraźnych jak również o ich utrzymaniu na czas dalszy (art. 2) ogłasza się każdorazowo w Dzienniku Praw, a nadto podaje do powszechnej wiadomości na miejscu, drogą ogłoszenia, rozlepienia obwieszczeń, lub innemi sposobami przystępnemi dla szerokich mas ludności."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Uchwała Rady Ministrów w przedmiocie wprowadzenia lub dalszego utrzymania sądów doraźnych wchodzi w życie w poszczególnych miejscowościach dnia następnego po jej podaniu do powszechnej wiadomości (art. 3) we właściwem mieście powiatowem."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Z dniem wejścia w życie sądów doraźnych (art. 4) podlegają postępowaniu doraźnemu wszyscy wspólnicy przestępstw (art. 51 K. K.), popełnionych na obszarze, dla którego sądy doraźne ogłoszono, bez względu na to, czy chodzi o przestępstwa dokonane, czy też usiłowane. Wyjęte są osoby ulegające sądownictwu wojskowemu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Z chwilą ogłoszenia sądów doraźnych prezes właściwego sądu okręgowego, powołanego do pełnienia funkcji sądu doraźnego, wyznacza z pośród sędziów swego okręgu przewodniczącego i sędziów wyrokujących, oraz potrzebną ilość zastępców, tudzież sekretarza. Sąd doraźny wyrokuje w składzie trzech sędziów. W skład jego wchodzić musi przynajmniej dwóch sędziów okręgowych, z których jeden przewodniczy; trzeci sędzia może być wyznaczony także z pośród sędziów śledczych lub sędziów pokoju."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Posiedzenia sądu doraźnego odbywają się bądź w siedzibie sądu okręgowego, bądź w miarę potrzeby w innem miejscu okręgu sądowego. Najbliższa władza wojskowa na czas trwania posiedzeń sądowych wyśle na żądanie przewodniczącego oddział wojska dla ochrony sądu, utrzymania porządku oraz wykonania wszelkich zarządzeń sądu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Postępowanie doraźne stosuje się wyłącznie do przestępstw, podlegających sądowi doraźnemu, z pominięciem wszelkich innych przestępstw oskarżonemu zarzuconych, i winno być przeprowadzone nawet wtedy, gdy inni wspólnicy przestępstwa nie podlegają sądom doraźnym. Postępowanie doraźne nie może być wdrożone przeciw osobom, które w czasie, popełnienia przestępstwa nie ukończyły lat 17, oraz przeciw kobietom brzemiennym."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "O każdym czynie, zawierającym cechy przestępstwa podlegającego sądowi doraźnemu, władze bezpieczeństwa niezwłocznie zawiadamiają prokuratora sądu okręgowego, przesyłając mu przytem zebrane wiadomości i dokumenty."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Postępowanie doraźne odbywa się bez śledztwa wstępnego wszelako prokurator w miarę potrzeby mocen jest zwracać się do sędziów śledczych lub sędziów pokoju o dokonanie poszczególnych czynności śledczych, tudzież zarządzić zebranie odpowiednich wiadomości przez władze bezpieczeństwa lub władze administracyjne. W szczególności prokurator jest obowiązany wnieść w ciągu 24 godzin o przesłuchanie przez sędziego śledczego lub sędziego pokoju każdego zaaresztowanego oskarżonego, o ile przesłuchanie takie już przedtem nie nastąpiło. Dochodzenia nie mogą trwać dłużej nad 14 dni, licząc od dnia zawiadomienia prokuratora o przestępstwie. Wnioskami prokuratora co do zastosowania, uchylenia lub zmiany środka zapobiegawczego sędziowie śledczy i sędziowie pokoju są związani."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Jeśli prokurator uzna, że sprawa nie podlega sądowi doraźnemu (art. 1, 4, 5, 8), lub że zebrane doraźnie poszlaki są niewystarczające, lub że zachodzi wątpliwość co do poczytalności oskarżonego, wówczas kieruje sprawę na drogę postępowania zwyczajnego."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Rozprawa główna w postępowaniu doraźnem odbywa się bez wygotowania aktu oskarżenia, wzamian którego prokurator sporządza jedynie wniosek co do stawienia oskarżonego przed sądem doraźnym, wyłuszczający istotę oskarżenia, wskazujący zebrane w tej mierze dowody i wymieniający osoby, które zdaniem prokuratora wezwać należy w charakterze świadków lub biegłych. Wniosek ten wraz z aktami winien wpłynąć do przewodniczącego sądu doraźnego w przeciągu 48 godzin po ukończeniu dochodzeń w myśl art. 10."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Przewodniczący sądu doraźnego wyznacza w ciągu 24 godzin po otrzymaniu wniosku prokuratora rozprawę główną i zarządza potrzebne do tej rozprawy przygotowania i wezwania; wyznacza oskarżonemu, o ile on nie ma obrońcy z wyboru, obrońcę z urzędu z pośród adwokatów, a w braku tychże z pośród aplikantów sądowych lub obrońców, i orzeka o wezwaniu lub odmowie wezwania podanych przez oskarżonego świadków, jako też o ściągnięciu lub pominięciu wskazanych przezeń dowodów; przepis art. 557 U. P. K. nie będzie stosowany. Jeżeli zachodzi obawa uchylenia się świadków lub biegłych od stawiennictwa, przewodniczący sądu może zabezpieczyć ich przybycie, wydając władzom policyjnym polecenie czuwania nad ich stawieniem się do sądu. Przewodniczący może także zarządzić, aby świadków lub biegłych dla rozprawy niezbędnych przymusowo do niej sprowadzono."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W rozprawie głównej przed sądem doraźnym udział obrońcy jest konieczny."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Powództwo cywilne w postępowaniu doraźnem jest niedopuszczalne."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Z chwilą wyznaczenia rozprawy głównej przed sądem doraźnym oskarżony nie może pozostawać na wolnej stopie; jeżeli więc nie był już poprzednio uwięziony, przewodniczący sądu doraźnego zarządzi zaaresztowanie jego własną władzą. Uwolnienie z aresztu przed ukończeniem postępowania doraźnego nie jest dopuszczalne."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Rozprawa główna, po załatwieniu czynności formalnych, związanych z otwarciem posiedzenia (art. 636 - 645 U. P. K.), rozpoczyna się od odczytania przez przewodniczącego wniosku prokuratora w przedmiocie stawienia oskarżonego przed sądem doraźnym, poczem dalszy przewód sądowy odbywa się według ogólnych zasad postępowania karnego (art. 620 - 635 i 679 - 749 U. P. K.). W razie koniecznej potrzeby mogą być odczytane akta dochodzeń; sąd rozważy jednak ze szczególną starannością, w jakiej mierze akta te stanowić mogą dowód dostateczny."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Po zamknięciu rozprawy głównej sąd doraźny wydaje wyrok w myśl art. 771 U. P. K. lub też decyzję, przekazującą sprawę na drogę postępowania zwyczajnego, jeżeli uzna, że w danej sprawie postępowanie doraźne jest niedopuszczalne w myśl art. 1, 4, 5, 8, lub też jeżeli wątpliwości co do poczytalności oskarżonego w toku rozprawy głównej nie mogą być usunięte, albo gdy wina oskarżonego ustalona została niejednomyślnie. Przepisy art. 750 - 764 U. P. K. nie będą stosowane w postępowaniu doraźnem."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Za przestępstwa, podlegające sądowi doraźnemu, wymierzyć należy karę śmierci przez rozstrzelanie w tych przypadkach, w których w postępowaniu zwyczajnem przestępstwo zagrożone jest co najmniej karą ciężkiego więzienia. W innych przypadkach sąd doraźny wymierza karą ciężkiego więzienia bezterminowego lub terminowego na czas nie krótszy od lat ośmiu. W postępowaniu doraźnem przepis art. 53 i 53a K. K. nie będzie stosowany. Gdy atoli zachodzą nader ważne okoliczności łagodzące, sąd władny będzie karę, w części pierwszej niniejszego artykułu wymienioną, złagodzić na bezterminowe ciężkie więzienie."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Wyroki i decyzje sądu doraźnego są prawomocne z chwilą ich ogłoszenia. Wyroki śmierci nie wymagają zatwierdzenia."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Wyroki i decyzje sądu doraźnego winny być uzasadnione na piśmie w ciągu 24 godzin po ich ogłoszeniu. Przepisy o ogłaszaniu wyroków, zawarte w art. 829 - 834 U. P. K., nie mają zastosowania w postępowaniu doraźnem."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Wyrok śmierci wykonany będzie najpóźniej w ciągu 24 godzin po ogłoszeniu. Wykonanie wyroków skazujących należy do prokuratora, któremu przewodniczący sądu doraźnego przesyła odpis sentencji wyroku."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "O wykonanie wyroku śmierci zwrócić się należy do najbliższej komendy wojskowej. Wykonanie wyroku nastąpi niepublicznie, w obecności prokuratora i lekarza; prokurator spisze odpowiedni protokuł, stwierdzający wykonanie wyroku i podpisze go wraz z lekarzem."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "O każdem wykonaniu wyroku śmierci podać należy do powszechnej wiadomości przez obwieszczenia z wymienieniem sądu orzekającego, osoby skazanego, tudzież istoty, miejsca i czasu przestępstwa."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Z chwilą uchylenia sądów doraźnych sprawy nieukonczone przekazać należy na drogę postępowania zwyczajnego."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Wznowienie sprawy, osądzonej doraźnie, jest dopuszczalne na zasadach ogólnych postępowania karnego (art. 934 - 940 U. P. K.), wszelako podanie prośby o wznowienie nie wstrzymuje wykonania wyroku. Gdy dopuszczono wznowienie, sprawa nie może być poraz wtóry sądzona doraźnie."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "O ile ustawa niniejsza nie zawiera odmiennych postanowień, stosować zresztą należy w postępowaniu doraźnem przepisy ustawy postępowania karnego."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Ustawa niniejsza obowiązuje na ziemiach b. zaboru rosyjskiego. Wykonanie jej należy do Ministra Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

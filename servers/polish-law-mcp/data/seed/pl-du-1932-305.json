@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-305",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1932 r. o Akademji Sztuk Pięknych w Warszawie.",
+  "title_en": "",
+  "short_name": "pl-du-1932-305",
+  "status": "repealed",
+  "issued_date": "1932-03-18",
+  "in_force_date": "1932-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/305",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Szkole Sztuk Pięknych w Warszawie, utworzonej ustawą z dnia 23 marca 1922 r. o Szkole Sztuk Pięknych w Warszawie (Dz. U. R. P. Nr 24, poz. 197), nadaje się nazwę „Akademja Sztuk Pięknych w Warszawie”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 111 ustawy z dnia 13 lipca 1920 r. o szkołach akademickich (Dz. U. R. P. Nr 72, poz. 494), zmienionym ustawą z dnia 16 lipca 1924 r. (Dz. U. R. P. z 1925 r. Nr 2, poz. 10), dodaje się po punkcie 11 nowy punkt treści następującej: „ 12) Akademja Sztuk Pięknych w Warszawie ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Rozporządzenie Rady Ministrów ustali termin zastosowania do Akademji Sztuk Pięknych w Warszawie postanowień ustawy z dnia 13 lipca 1920 r. o szkołach akademickich (Dz. U. R. P. Nr 72, poz. 494) i utraty mocy obowiązującej ustawy z dnia 23 marca 1922 r. o Szkole Sztuk Pięknych w Warszawie (Dz. U. R. P. Nr 24, poz. 197). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-47",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 stycznia 1937 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 4 czerwca 1927 r. o ochronie rynku pracy.",
+  "title_en": "",
+  "short_name": "pl-du-1937-47",
+  "status": "in_force",
+  "issued_date": "1937-01-23",
+  "in_force_date": "1937-01-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/47",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 4 czerwca 1927 r. o ochronie rynku pracy (Dz. U. R. P. Nr 54, poz. 472) wprowadza się zmiany następujące: 1) w art. 4 po ust. 3 dodaje się nowy ustęp następującej treści: „ (4) Zezwolenia mogą być cofnięte przed Upływem czasu, na jaki zostały wydane, jeżeli władza uzna, że dalsze zatrudnienie pracowników cudzoziemskich może przynieść szkodę interesom Państwa, a w szczególności jego interesom gospodarczym i społecznym. ” , 2) art. 5 otrzymuje brzmienie: „ (1) Decyzje, przewidziane w art. 4, wydaje wojewódzka władza administracji ogólnej, właściwa ze względu na miejsce zatrudnienia pracownika cudzoziemskiego. (2) Odwołania od decyzji wojewódzkiej władzy administracji ogólnej rozstrzyga Minister Opieki Społecznej w porozumieniu z Ministrem Spraw Wewnętrznych. (3) Decyzje nie będą wymieniać nazwisk pracowników cudzoziemskich. ” , 3) w art. 8 skreśla się w ust. 1 punkt 3 oraz ustęp 2, 4) po art. 8 dodaje się jako art. 8a przepis następujący: „ Art. 8a. (1) Pracownikom cudzoziemskim, którzy przynajmniej od dnia 1 stycznia 1922 r. przebywają stale na obszarze Rzeczypospolitej Polskiej, wydawane będą przez powiatową władzę administracji ogólnej specjalne zaświadczenia, uprawniające do wykonywania zatrudnienia przez czas określony w zaświadczeniu. (2) Zaświadczenia te wydawane będą, o ile umowy międzynarodowe nie stanowią inaczej, na podstawie swobodnego uznania władzy. (3) Zaświadczenia powyższe wydawane będą na tych samych zasadach dzieciom pracowników cudzoziemskich, o których mowa w ust. (1), chociażby urodziły się po 1 stycznia 1922 r., o ile przebywają stale na obszarze Rzeczypospolitej Polskiej. (4) Zaświadczenia, o których mowa w artykule niniejszym, tudzież podania o te zaświadczenia są wolne od opłat stemplowych. (5) Przy zatrudnianiu pracowników cudzoziemskich, posiadających zaświadczenia specjalne, pracodawcy zwolnieni są od wyjednywania zezwoleń, przewidzianych w art. 4, są natomiast obowiązani do zawiadamiania władzy o zatrudnieniu i zaprzestaniu pracy przez takich pracowników (art. 6 i 7), tudzież do udzielania informacji, o których mowa w nalepie ostatnim artykułu 4 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Opieki Społecznej do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 4 czerwca 1927 r. o ochronie rynku pracy (Dz. U. R. P. Nr 54, poz. 472) z uwzględnieniem zmian, wynikających z przepisów, wydanych do dnia ogłoszenia jednolitego tekstu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Opieki Społecznej w porozumieniu z Ministrem Spraw Wewnętrznych oraz innymi interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1937 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

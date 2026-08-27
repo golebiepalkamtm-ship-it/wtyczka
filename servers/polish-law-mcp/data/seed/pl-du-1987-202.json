@@ -1,0 +1,272 @@
+{
+  "id": "pl-du-1987-202",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 listopada 1987 r. o dozorze technicznym.",
+  "title_en": "",
+  "short_name": "pl-du-1987-202",
+  "status": "repealed",
+  "issued_date": "1987-11-19",
+  "in_force_date": "1987-11-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1987/202",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady, zakres i formy dozoru technicznego oraz organy właściwe do jego wykonywania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Dozorem technicznym są określone ustawą działania zmierzające do zapewnienia bezpiecznego funkcjonowania urządzeń technicznych, które mogą stwarzać zagrożenie dla życia lub zdrowia ludzkiego oraz mienia i środowiska. 2. Dozór techniczny jest wykonywany przez określone w ustawie organy dozoru technicznego. 3. Wykonywanie dozoru technicznego przez organy dozoru technicznego nie zwalnia projektujących, wytwarzających, eksploatujących oraz naprawiających urządzenia techniczne od odpowiedzialności za jakość i stan urządzeń technicznych, mające wpływ na ich bezpieczną pracę, zgodnie z normami, przepisami o dozorze technicznym i innymi przepisami szczególnymi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W rozumieniu ustawy: 1) urządzeniami technicznymi są urządzenia, które mogą stwarzać zagrożenie dla życia lub zdrowia ludzkiego, mienia i środowiska przez: a) rozprężenie cieczy lub gazów znajdujących się pod ciśnieniem różnym od atmosferycznego, b) wyzwolenie energii potencjalnej lub kinetycznej przy przemieszczaniu ludzi i ładunków w ograniczonym zasięgu, c) rozprzestrzenianie się materiałów niebezpiecznych o właściwościach trujących lub żrących w czasie ich magazynowania lub transportu w zbiornikach bezciśnieniowych, 2) warunkami technicznymi dozoru technicznego są ustalone przez organy dozoru technicznego lub przez właściwych ministrów warunki, jakim powinny odpowiadać urządzenia techniczne."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Dozorowi technicznemu podlegają urządzenia techniczne. 2. Przepisów ustawy nie stosuje się do urządzeń technicznych: 1) nad którymi są prowadzone prace naukowo-badawcze, 2) górniczych szybowych urządzeń wyciągowych oraz urządzeń technicznych w podziemnych wyrobiskach zakładów górniczych. 3. Rada Ministrów, w drodze rozporządzenia, określi rodzaje urządzeń technicznych podlegających dozorowi technicznemu. 4. Rada Ministrów może, w drodze rozporządzenia, objąć przepisami ustawy urządzenia mogące stwarzać inne niż określone w art. 3 pkt 1 zagrożenia dla życia lub zdrowia ludzkiego oraz mienia i środowiska."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Urządzenia techniczne powinny być projektowane, wytwarzane, eksploatowane i naprawiane w sposób zapewniający bezpieczeństwo ich eksploatacji oraz zgodnie z normami, przepisami o dozorze technicznym i innymi przepisami szczególnymi, a także warunkami technicznymi dozoru technicznego. Rozdział 2 Zakres i formy dozoru technicznego"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dozór techniczny nad urządzeniami technicznymi jest wykonywany, z zastrzeżeniem wyjątków przewidzianych w ustawie, w toku: 1) projektowania, 2) wytwarzania materiałów i elementów przeznaczonych do ich budowy, 3) wytwarzania, 4) obrotu, 5) eksploatacji i napraw."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Dokumentacja techniczna, na której podstawie będą wytwarzane urządzenia techniczne, wymaga uzgodnienia przez projektującego z właściwym organem dozoru technicznego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Urządzenia techniczne, jak również materiały i elementy stosowane do budowy tych urządzeń mogą być wytwarzane po otrzymaniu przez wytwarzającego uprawnienia do ich wytwarzania, wydanego przez właściwy organ dozoru technicznego. 2. Organ dozoru technicznego wydaje uprawnienie, o którym mowa w ust. 1, po przeprowadzeniu niezbędnych badań i stwierdzeniu, że wytwarzający spełnia wymagane warunki do wytwarzania urządzeń technicznych oraz materiałów i elementów stosowanych do ich budowy, w sposób określony w art. 5. 3. Uprawnienie, o którym mowa w ust. 1, powinno zawierać - niezależnie od wymagań określonych w Kodeksie postępowania administracyjnego - określenie warunków stanowiących podstawę wydania uprawnienia. 4. W razie nieprzestrzegania warunków określonych w uprawnieniu albo wytwarzania materiałów, elementów lub urządzeń technicznych niewłaściwej jakości, mającej wpływ na bezpieczeństwo eksploatacji tych urządzeń, uprawnienie, o którym mowa w ust. 1, może być zawieszone lub cofnięte. 5. Właściwy organ dozoru technicznego, zawieszając uprawnienie, wyznacza termin usunięcia uchybień, po którego upływie - w razie ich nieusunięcia - cofa uprawnienie. 6. Minister Przemysłu, w drodze rozporządzenia, określa warunki stanowiące podstawę wydawania uprawnień."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Dozór techniczny nad urządzeniami technicznymi niezależnie od czynności, o której mowa w art. 7, może być wykonywany w formie: 1) dozoru technicznego pełnego, obejmującego pełny zakres czynności w toku wytwarzania, eksploatacji i napraw urządzenia technicznego, 2) dozoru technicznego ograniczonego, obejmującego pełny zakres czynności w toku wytwarzania oraz niektóre czynności w toku eksploatacji i napraw urządzenia technicznego, 3) dozoru technicznego uproszczonego, obejmującego niektóre czynności w toku wytwarzania urządzeń technicznych oraz materiałów i elementów stosowanych do budowy urządzeń technicznych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Wytwarzający urządzenia techniczne jest obowiązany zgłosić właściwemu organowi dozoru technicznego zamiar podjęcia produkcji określonego urządzenia technicznego na podstawie uzgodnionej dokumentacji technicznej. 2. Organ dozoru technicznego, wydając uprawnienia, ustala formę wykonywania dozoru technicznego oraz wskazuje warunki techniczne dozoru technicznego, które powinny być stosowane do określonego urządzenia technicznego. 3. Jeżeli bezpieczeństwo eksploatacji urządzenia technicznego uzasadnia zmianę formy wykonywania dozoru technicznego, organ dozoru technicznego może ustalić dla tego urządzenia inną formę wykonywania dozoru technicznego. 4. Zmiany formy wykonywania dozoru technicznego, o której mowa w ust. 3, organ dozoru technicznego dokona po przeprowadzeniu wszechstronnej analizy przyczyn i skutków niebezpiecznych uszkodzeń oraz nieszczęśliwych wypadków bądź po stwierdzeniu bezawaryjnej pracy urządzenia technicznego, biorąc w szczególności pod uwagę warunki eksploatacji tego urządzenia."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. W toku wytwarzania urządzeń technicznych objętych dozorem technicznym pełnym lub ograniczonym organ dozoru technicznego przeprowadza kontrolę wykonania określonych materiałów i elementów stosowanych do budowy tych urządzeń oraz przeprowadza badania prototypów urządzeń, a także wykonuje badania techniczne sprawdzające zgodność wykonania urządzenia technicznego z dokumentacją i warunkami technicznymi dozoru technicznego oraz prawidłowość jego budowy w warunkach gotowości do pracy oraz w czasie pracy (odbiór techniczny). 2. W toku eksploatacji urządzenia technicznego objętego dozorem technicznym pełnym organ dozoru technicznego przeprowadza kontrolę stanu urządzenia u eksploatującego, wykonuje okresowe i doraźne badania techniczne oraz sprawdza kwalifikacje osób obsługujących i konserwujących urządzenie techniczne. 3. W toku eksploatacji urządzenia technicznego objętego dozorem technicznym ograniczonym organ dozoru technicznego przeprowadza kontrolę stanu urządzenia u eksploatującego oraz wykonuje doraźne badania techniczne, a także sprawdza kwalifikacje osób obsługujących i konserwujących to urządzenie. 4. W toku wytwarzania urządzenia technicznego objętego dozorem technicznym uproszczonym organ dozoru technicznego może sprawdzać, czy stosowane do wytwarzania urządzenia materiały i elementy są właściwe, oraz przeprowadzać badanie prototypu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Urządzenie techniczne objęte dozorem technicznym, z wyjątkiem określonych w art. 13, może być eksploatowane tylko po otrzymaniu decyzji zezwalającej na jego eksploatację, wydanej przez właściwy organ dozoru technicznego. 2. Organ dozoru technicznego po przeprowadzeniu badań i kontroli, o których mowa w art. 11, wydaje decyzję zezwalającą na eksploatację, w której ustala formę dozoru technicznego, jaką będzie objęte urządzenie."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Decyzji zezwalającej na eksploatację nie wydaje się dla urządzeń technicznych znajdujących się w obrocie, jeżeli są oznaczone trwałym znakiem. 2. Oznaczeniu trwałym znakiem podlegają urządzenia techniczne dopuszczone do obrotu na podstawie decyzji o dopuszczeniu do obrotu, wydanej przez właściwy organ dozoru technicznego. 3. Organ dozoru technicznego może wydać decyzję, o której mowa w ust. 2, jeżeli urządzenie techniczne objęte dozorem technicznym uproszczonym jest produkowane seryjnie na podstawie tej samej dokumentacji i według tej samej technologii oraz jest sprzedawane w stanie przygotowanym do eksploatacji. 4. Minister Przemysłu określa zasady i tryb oznaczania trwałym znakiem, o którym mowa w ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Naprawiający urządzenia techniczne objęte dozorem technicznym jest obowiązany posiadać uprawnienie zezwalające na dokonywanie napraw urządzeń, wydane przez właściwy organ dozoru technicznego. 2. Do uprawnienia, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 8 ust. 2-5. 3. Minister Przemysłu, w drodze rozporządzenia, określa warunki oraz tryb wydawania uprawnień zezwalających na dokonywanie napraw urządzeń technicznych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Dokonanie naprawy urządzenia technicznego objętego dozorem technicznym, z wyjątkiem urządzeń technicznych, o których mowa w art. 13, wymaga uprzedniego uzgodnienia z właściwym organem dozoru technicznego. 2. W razie naprawy urządzenia technicznego, o którym mowa w ust. 1, stosuje się przepisy art. 12."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Dokonanie przeróbki urządzenia technicznego wymaga uprzedniej zgody właściwego organu dozoru technicznego. 2. Do urządzenia technicznego poddanego przeróbce stosuje się przepisy art. 12."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. W razie nieprzestrzegania przez wytwarzającego lub eksploatującego urządzenie techniczne przepisów ustawy, przepisów lub warunków technicznych wydanych na jej podstawie, właściwy organ dozoru technicznego wydaje decyzję o wstrzymaniu eksploatacji urządzenia technicznego lub wycofaniu takiego urządzenia z obrotu i wstrzymaniu jego wytwarzania. 2. Decyzję o wstrzymaniu eksploatacji urządzenia technicznego lub wycofaniu urządzenia technicznego z obrotu wydaje właściwy organ dozoru technicznego, także w razie stwierdzenia zagrożenia dla życia lub zdrowia ludzkiego, mienia i środowiska. 3. Decyzję o wycofaniu urządzenia technicznego z obrotu z przyczyn określonych w ust. 2 właściwy organ dozoru technicznego podaje do publicznej wiadomości w formie komunikatu w środkach masowego przekazywania. 4. Ponowne dopuszczenie do eksploatacji i obrotu urządzeń, o których mowa w ust. 1, następuje na zasadach określonych w art. 12 i 13."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Eksploatujący urządzenie techniczne jest obowiązany zawiadomić niezwłocznie właściwy organ dozoru technicznego o każdym niebezpiecznym uszkodzeniu lub nieszczęśliwym wypadku, związanym z eksploatacją tego urządzenia."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. W postępowaniu przed organami dozoru technicznego stosuje się przepisy Kodeksu postępowania administracyjnego . 2. Decyzje organów dozoru technicznego w sprawach określonych w art. 8 ust. 2 i 3 i art. 14 mogą być zaskarżane do sądu administracyjnego. 3. Przepisu ust. 2 nie stosuje się do decyzji wydawanych przez specjalistyczne organy dozoru technicznego podległe Ministrowi Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Minister Przemysłu w zakresie dozoru technicznego, w drodze rozporządzenia, określa: 1) zasady i tryb projektowania, wytwarzania materiałów i elementów przeznaczanych do budowy urządzeń technicznych, wytwarzania urządzeń technicznych oraz ich eksploatacji i napraw, 2) kwalifikacje, jakie powinny posiadać osoby projektujące, wytwarzające, obsługujące, konserwujące i naprawiające urządzenia techniczne. Rozdział 3 Organy dozoru technicznego"
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Organami dozoru technicznego są: 1) Urząd Dozoru Technicznego, 2) inspektoraty dozoru technicznego, 3) specjalistyczne organy dozoru technicznego."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Urząd Dozoru Technicznego jest centralnym organem administracji państwowej w zakresie dozoru technicznego. 2. Urząd Dozoru Technicznego podlega Ministrowi Przemysłu. 3. Urzędem Dozoru Technicznego kieruje prezes Urzędu Dozoru Technicznego. 4. Prezes Rady Ministrów powołuje i odwołuje na wniosek Ministra Przemysłu prezesa Urzędu Dozoru Technicznego."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Do zakresu działania Urzędu Dozoru Technicznego należy: 1) nadzór i kontrola stosowania oraz przestrzegania przepisów o dozorze technicznym i norm, a także zasad z zakresu bezpieczeństwa techniki oraz nadzór nad organizowaniem i wykonywaniem dozoru technicznego, 2) koordynowanie działalności w zakresie dozoru technicznego specjalistycznych organów dozoru technicznego, z wyjątkiem podległych Ministrowi Obrony Narodowej, 3) inicjowanie działalności normalizacyjnej, współudział w opracowywaniu lub opracowywanie projektów norm, określających zasady i warunki bezpiecznej pracy urządzeń technicznych, 4) prowadzenie analizy przyczyn i skutków uszkodzeń urządzeń technicznych oraz stała ocena stopnia zagrożenia stwarzanego przez te urządzenia, 5) inicjowanie przedsięwzięć oraz prac badawczych w zakresie bezpiecznej pracy urządzeń technicznych oraz prowadzenie w tym zakresie badań diagnostycznych i ekspertyz, 6) inicjowanie działalności mającej na celu podnoszenie zawodowych kwalifikacji projektantów, wytwórców oraz użytkowników w zakresie bezpiecznej pracy urządzeń technicznych, 7) popularyzowanie zagadnień związanych z bezpieczną pracą urządzeń technicznych oraz organizowanie doradztwa w tym zakresie, 8) współpraca międzynarodowa w zakresie zagadnień dotyczących bezpiecznej pracy urządzeń technicznych, 9) rozpatrywanie odwołań od decyzji inspektoratów dozoru technicznego."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Organami podległymi Urzędowi Dozoru Technicznego są inspektoraty dozoru technicznego. 2. Minister Przemysłu w porozumieniu z Ministrem - Szefem Urzędu Rady Ministrów, w drodze rozporządzenia, na wniosek prezesa Urzędu Dozoru Technicznego, tworzy i znosi inspektoraty dozoru technicznego, określając ich terytorialny obszar działania oraz siedziby. 3. Inspektoratem kieruje kierownik mianowany przez prezesa Urzędu Dozoru Technicznego."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Do zakresu działania inspektoratów dozoru technicznego należy: 1) wykonywanie dozoru technicznego w zakresie określonym w art. 6, 2) wydawanie decyzji w sprawach wynikających z wykonywania dozoru technicznego, 3) kontrola przestrzegania przepisów w zakresie dozoru technicznego oraz norm i zasad z zakresu bezpiecznej pracy urządzeń na terenie działania inspektoratu, 4) nadawanie uprawnień zakładom do wytwarzania materiałów i elementów do budowy urządzeń technicznych oraz do wytwarzania i napraw urządzeń technicznych, 5) sprawdzanie kwalifikacji osób wytwarzających materiały i elementy przeznaczone do budowy urządzeń technicznych, jak również wytwarzających, naprawiających, obsługujących i konserwujących te urządzenia, 6) upoważnianie pracowników jednostek gospodarki uspołecznionej do wykonywania czynności określonych w art. 31 ust. 1. 2. Inspektoraty dozoru technicznego wykonują również zadania określone w art. 23 pkt 5, 6 i 7."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Urząd Dozoru Technicznego i podległe mu inspektoraty dozoru technicznego wykonują dozór techniczny nad urządzeniami technicznymi objętymi ustawą, z wyłączeniem urządzeń technicznych podlegających dozorowi technicznemu specjalistycznych organów dozoru technicznego. 2. Prezes Urzędu Dozoru Technicznego określa warunki techniczne dozoru technicznego w zakresie projektowania, wytwarzania materiałów i elementów przeznaczonych do budowy urządzeń technicznych, budowy tych urządzeń oraz ich eksploatacji i napraw, w szczególności dotyczące: 1) konstrukcji, 2) wykonania, 3) osprzętu, 4) oznaczeń, 5) materiałów i wyrobów przeznaczonych do budowy i napraw, 6) zakresu badań technicznych gotowych urządzeń i materiałów, 7) rodzaju dokumentacji niezbędnej do objęcia dozorem i stwierdzenia prawidłowości wykonania, 8) obliczeń wytrzymałościowych."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Specjalistyczne organy dozoru technicznego podlegają właściwym ministrom. 2. Rada Ministrów tworzy specjalistyczne organy dozoru technicznego na wniosek właściwego ministra, złożony w porozumieniu z Ministrem Przemysłu. 3. Specjalistyczne organy dozoru technicznego wykonują dozór techniczny nad urządzeniami technicznymi o szczególnej konstrukcji, przeznaczeniu lub sposobie eksploatacji w zakresie określonym w art. 6 oraz nad innymi urządzeniami technicznymi w toku ich eksploatacji i napraw, jeżeli znajdują się w obszarze właściwości tych organów. 4. Właściwi ministrowie w porozumieniu z Ministrem Przemysłu ustalają szczegółowy zakres działania oraz organizację specjalistycznych organów dozoru technicznego."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Ministrowie sprawujący nadzór nad specjalistycznymi organami dozoru technicznego wydają w porozumieniu z Ministrem Przemysłu przepisy, o których mowa w art. 20, dla urządzeń technicznych o szczególnej konstrukcji, sposobie eksploatacji lub przeznaczeniu, objętych dozorem technicznym tych organów. 2. Ministrowie sprawujący nadzór nad specjalistycznymi organami dozoru technicznego ustalają dla urządzeń technicznych, o których mowa w ust. 1, warunki techniczne dozoru technicznego w zakresie określonym w art. 26 ust. 2. 3. Minister Obrony Narodowej może poddać dozorowi technicznemu podległych specjalistycznych organów dozoru technicznego urządzenia techniczne inne niż określone w art. 4 ust. 3 i 4, jeżeli urządzenia takie występują wyłącznie w jednostkach organizacyjnych resortu obrony narodowej lub w jednostkach wojskowych resortu spraw wewnętrznych. 4. Przepisy, o których mowa w ust. 1, wydawane przez Ministra Obrony Narodowej nie wymagają uzgodnienia z Ministrem Przemysłu."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Rada Ministrów, w drodze rozporządzenia, określa: 1) szczegółowy zakres działania Urzędu Dozoru Technicznego i inspektoratów dozoru technicznego, 2) specjalistyczne organy dozoru technicznego, ich zakres działania oraz podporządkowanie. 2. Organizację Urzędu Dozoru Technicznego oraz jednostki organizacyjne jemu podporządkowane określa statut nadany przez Ministra Przemysłu. Rozdział 4 Czynności dozoru technicznego"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Czynności z zakresu dozoru technicznego wykonują pracownicy organów dozoru technicznego na podstawie upoważnienia wydanego przez kierownika organu dozoru technicznego oraz legitymacji służbowej. 2. Rada Ministrów, w drodze rozporządzenia, określi szczegółowy tryb wykonywania czynności dozoru technicznego. 3. Ministrowie sprawujący nadzór nad specjalistycznymi organami dozoru technicznego, w porozumieniu z Ministrem Przemysłu oraz zainteresowanymi ministrami, określą tryb wykonywania czynności przez pracowników podległych im specjalistycznych organów dozoru technicznego. 4. Minister Przemysłu w porozumieniu z Ministrem Spraw Wewnętrznych określi tryb wykonywania czynności przez pracowników Urzędu Dozoru Technicznego i inspektoratów dozoru technicznego w jednostkach organizacyjnych resortu spraw wewnętrznych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Organy dozoru technicznego mogą upoważniać pracowników jednostek gospodarki uspołecznionej do: 1) uzgadniania dokumentacji technicznej, o której mowa w art. 7, 2) przeprowadzania kontroli wykonania określonych materiałów i elementów przeznaczonych do budowy i napraw urządzeń technicznych, 3) kontroli stanu urządzeń technicznych, 4) sprawdzania i kontroli prawidłowości eksploatacji urządzeń technicznych. 2. Minister Przemysłu, w drodze rozporządzenia, określa warunki i tryb udzielania upoważnień, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Kierownik jednostki, w której są wykonywane czynności dozoru technicznego, jest obowiązany zapewnić warunki do sprawnego ich wykonywania oraz - na żądanie pracownika organu dozoru technicznego - przedstawić dokumenty i udzielić informacji koniecznych do prawidłowego wykonania tych czynności. 2. Pracownicy organów dozoru technicznego mają prawo wstępu do wszelkich pomieszczeń i obiektów, w których znajdują się urządzenia techniczne, oraz poruszania się w tych pomieszczeniach i obiektach. 3. Przepisy ust. 1 i 2 stosuje się również do pracowników wykonujących czynności na podstawie upoważnień, o których mowa w art. 31 ust. 1."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Organy dozoru technicznego przy wykonywaniu czynności dozoru technicznego mogą korzystać z wyników badań diagnostycznych, opinii i ekspertyz wyspecjalizowanych jednostek, w tym również jednostek projektujących lub wytwarzających urządzenia, a także specjalistów. 2. W razie potrzeby organy dozoru technicznego mogą zażądać przeprowadzenia odpowiednich badań określonych urządzeń lub ich elementów przez specjalistyczne placówki naukowo-badawcze. Koszty tych badań ponoszą jednostki projektujące, wytwarzające lub eksploatujące urządzenia, których dotyczą badania."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Import urządzeń technicznych oraz materiałów i elementów stosowanych do budowy urządzeń technicznych lub nabycie za granicą licencji na ich produkcję wymaga uprzedniego uzgodnienia z właściwym organem dozoru technicznego w zakresie wymagań technicznych lub warunków technicznych dozoru technicznego. 2. Uzgodnienie, o którym mowa w ust. 1, nie zwalnia od obowiązku uzyskania decyzji określonych w art. 8 i 12. 3. Dokumenty wydane za granicą, stwierdzające wykonanie badań budowy i przeprowadzenie kontroli stanu urządzenia technicznego, mogą być uznane przez organ dozoru technicznego w przypadkach: 1) gdy przewidują to odpowiednie porozumienia, zawarte między Urzędem Dozoru Technicznego a właściwą w danym państwie instytucją wykonującą funkcję dozoru technicznego, lub 2) stwierdzenia, że wymagania techniczne, na których podstawie urządzenie zostało zaprojektowane i wytworzone, zapewniają bezpieczeństwo nie mniejsze niż polskie przepisy w zakresie dozoru technicznego. 4. Uznanie dokumentów, o których mowa w ust. 3, nie zwalnia od obowiązku określonego w art. 12 ust. 1. 5. Minister Przemysłu w porozumieniu z właściwymi ministrami określa tryb uzgadniania, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Za czynności organów dozoru technicznego pobiera się opłaty. 2. Minister Przemysłu określa w uzgodnieniu z Ministrem Finansów wysokość opłat, o których mowa w ust. 1. 3. Należności przypadające organom dozoru technicznego za ich czynności podlegają ściągnięciu w trybie egzekucji administracyjnej świadczeń pieniężnych. 4. Właściwi ministrowie, w porozumieniu z Ministrem Finansów, mogą w odniesieniu do czynności wykonywanych przez podległe specjalistyczne organy dozoru technicznego ograniczyć lub wyłączyć obowiązek pobierania opłat. Rozdział 5 Przepisy karne"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Kto dopuszcza do eksploatacji urządzenie techniczne: 1) bez otrzymania decyzji organu dozoru technicznego o dopuszczeniu takiego urządzenia do eksploatacji lub obrotu, 2) wbrew decyzji organu dozoru technicznego o wstrzymaniu eksploatacji lub wycofaniu z obrotu urządzenia technicznego, podlega karze ograniczenia wolności do lat 2 lub karze grzywny. 2. Tej samej karze podlega ten, kto przerabia urządzenie techniczne bez zgody organu dozoru technicznego."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Kto: 1) uniemożliwia lub utrudnia wykonywanie czynności, o których mowa w art. 9, 2) nie wykonuje obowiązku zawiadomienia organu dozoru technicznego o niebezpiecznym uszkodzeniu urządzenia technicznego lub nieszczęśliwym wypadku związanym z eksploatacją urządzenia technicznego, podlega karze grzywny."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Orzekanie w sprawach określonych w art. 37 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia , na podstawie wniosku o ukaranie, złożonego przez właściwy organ dozoru technicznego. Rozdział 6 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Dotychczasowe przepisy o dozorze technicznym pozostają w mocy do czasu zastąpienia ich przepisami wydanymi na podstawie ustawy, o ile nie są sprzeczne z jej przepisami, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie tej ustawy."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Wytwarzający urządzenia techniczne oraz materiały i elementy stosowane do budowy tych urządzeń, a także naprawiający urządzenia techniczne mogą je wytwarzać i naprawiać bez uprawnień, o których mowa w art. 8 ust. 1 i art. 14, nie dłużej jednak niż do dnia 31 grudnia 1988 r. 2. Zezwolenia na spawanie, wydane na podstawie dotychczasowych przepisów, zachowują moc do czasu otrzymania przez wytwarzających i naprawiających urządzenia techniczne uprawnień, o których mowa w art. 8 ust. 1 i art. 14 ust. 1, nie dłużej jednak niż w terminie określonym w ust. 1."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Do czasu wydania decyzji, o których mowa w art. 10 ust. 2, nie później jednak niż do dnia 31 grudnia 1988 r., dozór techniczny nad urządzeniami technicznymi jest wykonywany przez organy dozoru technicznego w formie dozoru technicznego ustalonej na podstawie dotychczasowych przepisów."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Traci moc ustawa z dnia 31 stycznia 1961 r. o dozorze technicznym ( Dz. U. Nr 5, poz. 31 ) ."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1988 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"chpt_1-arti_3-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_1-arti_3-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_1-arti_3-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_1-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Zakres i formy dozoru technicznego\",\"children\": [{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_6-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_6-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_8-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_8-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_19-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-arti_20-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_20-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Organy dozoru technicznego\",\"children\": [{\"id\": \"chpt_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_3-arti_21-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_21-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_21-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_3-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_22-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_3-arti_23-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_23-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_23-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_23-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_23-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_23-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_23-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_3-arti_23-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_3-arti_23-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"chpt_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_3-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_3-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_25-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_25-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_25-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_25-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_25-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_25-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"chpt_3-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_3-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_3-arti_26-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_26-pass_2-pint_7\",\"symbol\": \"pint_7\",\"t"
+    }
+  ],
+  "definitions": []
+}

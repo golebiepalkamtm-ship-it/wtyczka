@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-272",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 1991 r. o wprowadzeniu częściowej odpłatności za koszty wyżywienia i zakwaterowania w sanatoriach uzdrowiskowych.",
+  "title_en": "",
+  "short_name": "pl-du-1991-272",
+  "status": "repealed",
+  "issued_date": "1991-06-21",
+  "in_force_date": "1991-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/272",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Osoby pełnoletnie korzystające z sanatoriów uzdrowiskowych na podstawie skierowania wydanego uprawnionym do bezpłatnych świadczeń leczniczych ponoszą odpłatność za pobyt w wysokości nie przekraczającej kosztów wyżywienia i zakwaterowania. 2. Rada Ministrów, w drodze rozporządzenia, określa wysokość opłaty za pobyt w sanatorium uzdrowiskowym, uwzględniając sezonowość i standard usług, oraz może określić przypadki zwolnienia z odpłatności lub jej obniżenia ze względu na rodzaj schorzenia, następstwa wypadku przy pracy, zagrożenie chorobą mającą związek z warunkami pracy (służby) oraz wysokość dochodów. 3. Przepisy ust. 1 i 2 nie naruszają przepisów określających uprawnienia inwalidów wojennych i wojskowych, a także kombatantów oraz niektórych osób będących ofiarami represji wojennych i okresu powojennego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z tym że obowiązek odpłatności dotyczy osób rozpoczynających pobyt w sanatoriach uzdrowiskowych po dniu 30 września 1991 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

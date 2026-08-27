@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-495",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 1922 r. w przedmiocie ratyfikacji konwencji polsko-francuskiej o pomocy i opiece społecznej, podpisanej w Warszawie dnia 14 października 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-495",
+  "status": "in_force",
+  "issued_date": "1922-05-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/495",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza konwencje polsko - francuską o pomocy i opiece społecznej, podpisaną w Warszawie dnia 14 października 1920 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia Naczelnika Państwa do podpisania ratyfikacji powyższej konwencji w imieniu Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy zleca się Ministrowi Spraw Zagranicznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

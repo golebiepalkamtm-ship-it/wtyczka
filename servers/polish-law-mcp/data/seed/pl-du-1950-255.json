@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1950-255",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 czerwca 1950 r. o zmianach podziału administracyjnego Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1950-255",
+  "status": "repealed",
+  "issued_date": "1950-06-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/255",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zmienia się nazwę województwa śląskiego na województwo katowickie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zmienia się nazwę województwa pomorskiego na województwo bydgoskie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Tworzy się województwo koszalińskie z siedzibą wojewódzkiej rady narodowej w Koszalinie. 2. Do obszaru województwa koszalińskiego włącza się z obszaru województwa szczecińskiego powiaty: koszaliński z miastem Koszalinem, kołobrzeski z miastem Kołobrzegiem, białogardzki, sławieński, słupski z miastem Słupskiem, bytowski, miastecki, szczecinecki, drawski, wałecki, złotowski, człuchowski."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Tworzy się województwo zielonogórskie z siedzibą wojewódzkiej rady narodowej w Zielonej Górze. 2. Do obszaru województwa zielonogórskiego włącza się: 1) z obszaru województwa poznańskiego powiaty: zielonogórski z miastem Zielona Góra, gorzowski z miastem Gorzowem, strzelecki, skwierzyński, sulęciński, międzyrzecki, świebodziński, rzepiński, babimojski, krośnieński, gubiński i wschowski, 2) z obszaru województwa wrocławskiego powiaty: głogowski z miastem Głogowem, żagański, szprotawski, żarski i kożuchowski."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Tworzy się województwo opolskie z siedzibą wojewódzkiej rady narodowej w Opolu. 2. Do obszaru województwa opolskiego włącza się: 1) z obszaru województwa katowickiego powiaty: opolski z miastem Opolem, kluczborski, oleski, strzelecki, kozielski, raciborski z miastem Raciborzem, głubczycki, prudnicki, nyski z miastem Nysą, niemodliński i grodkowski, 2) z obszaru województwa wrocławskiego powiaty: brzeski z miastem Brzegiem i namysłowski."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Do obszaru województwa katowickiego włącza się z obszaru województwa kieleckiego powiat częstochowski i stanowiące powiat miejski miasto Częstochowę."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Do obszaru województwa olsztyńskiego włącza się: 1) z obszaru województwa bydgoskiego powiat nowomiejski, 2) z obszaru województwa warszawskiego powiat działdowski."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Do obszaru województwa bydgoskiego włącza się z obszaru województwa poznańskiego powiaty: żniński i mogileński."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Do obszaru województwa kieleckiego włącza się z obszaru województwa łódzkiego powiaty: opoczyński i konecki."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_5-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

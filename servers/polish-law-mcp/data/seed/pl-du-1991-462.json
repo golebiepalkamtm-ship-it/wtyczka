@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1991-462",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 października 1991 r. o zmianie ustawy o kolejach i ustawy - Prawo przewozowe.",
+  "title_en": "",
+  "short_name": "pl-du-1991-462",
+  "status": "in_force",
+  "issued_date": "1991-10-19",
+  "in_force_date": "1991-11-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/462",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 grudnia 1960 r. o kolejach ( Dz. U. z 1989 r. Nr 52, poz. 310 i z 1990 r. Nr 34, poz. 198 ) art. 8 otrzymuje brzmienie: „ Art. 8. Dyrektor Generalny Przedsiębiorstwa Państwowego „Polskie Koleje Państwowe”, po zasięgnięciu opinii właściwego wojewody, może zarządzić likwidację i rozbiórkę nieczynnych linii kolei użytku publicznego lub ich części. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 15 listopada 1984 r. - Prawo przewozowe ( Dz. U. Nr 53, poz. 272 ) w art. 8 w ust. 1: 1) pkt 2 otrzymuje brzmienie: „ 2) przewoźnika - w razie klęski żywiołowej, przerwy w eksploatacji, szczególnych trudności spowodowanych przez klienta, przyczyn ekonomicznych, jak również z uwagi na bezpieczeństwo ruchu, za zgodą i na warunkach ustalonych przez Ministra Transportu i Gospodarki Morskiej. Zgoda nie jest wymagana, jeżeli ograniczenie obowiązku następuje na okres nie dłuższy niż 3 dni. ” , 2) skreśla się pkt 3."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

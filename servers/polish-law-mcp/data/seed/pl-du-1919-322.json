@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1919-322",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 czerwca 1919 r. o tymczasowym dodatku do poborów oficerów i żołnierzy i o dodatkach dla ich rodzin.",
+  "title_en": "",
+  "short_name": "pl-du-1919-322",
+  "status": "in_force",
+  "issued_date": "1919-06-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/322",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do czasu ostatecznego uregulowania płac osób wojskowych łącznie z zaprowadzeniem nowej polskiej waluty przyznaje się osobom wojskowym z dn. 1 kwietnia r. b. następujące nadzwyczajne miesięczne dodatki: a) szeregowym: szeregowcom bez stopnia mk. 15. starszym żołnierzom „ 16.50 sekcyjnym (kapralom) „ 33. plutonowym „ 45. sierżantom (wachmistrzom) „ 51. starszym sierżantom (starszym wachmistrzom) „ 75. podchorążym „ 105. b) podoficerom zawodowym oraz podoficerom, którzy mają za sobą 3 lata służby podczas wojny: plutonowym „ 69. sierżantom (wachmistrzom) „ 81. starszym sierżantom (starszym wachmistrzom) „ 94 c) oficerom i urzędnikom wojskowym: podporucznikom mk. 200. porucznikom „ 300. kapitanom (rotmistrzom) „ 350. majorom „ 270. podpułkownikom „ 275. pułkownikom „ 355. generałom podporucznikom „ 395. generałom porucznikom „ 230. generałom komenderującym „ 200."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na wyekwipowanie przyznaje się oficerom jednorazowo kwotę mk. 1500, upoważniając jednocześnie Ministerstwo Spraw Wojskowych do zastąpienia tej całej kwoty lub jej części materjałami i ekwipunkiem w naturze."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podoficerowie wymienieni w art. 1 b) otrzymywać będą od 1 czerwca po 120 mk. miesięcznie dla żony i po 30 mk. dla każdego dziecka; w razie służby poza garnizonem - 50 mk. miesięcznie na mieszkanie dla rodziny. Nie otrzymują zaś dotychczasowych zasiłków dla rodzin z kas powiatowych ani dotychczasowych dodatków na dzieci przy żołdzie, ani t. zw. sustentacji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Oficerowie żonaci bez różnicy stopnia otrzymywać będą od 1 czerwca miesięcznie dla żony 200 mk. i na każde dziecko po 40 mk., w razie służby poza garnizonem - 150 mk. miesięcznie na mieszkanie dla rodziny; nie otrzymują zaś dotychczasowych dodatków na żonę i dzieci przy gaży oraz t. zw. sustentacji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wszyscy oficerowie otrzymywać będą dodatki polowe w wysokości przysługującej dotychczas Szeregowym, a mianowicie w pierwszej linji - 6 mk. 66 fen., połowę tego na terenie operacyjnym dziennie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Odnośnie do strawnego z dodatkiem oficerowie na froncie mają być traktowani na równi z pobytem w wielkich miastach."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wszyscy podoficerowie i szeregowcy, pełniący służbę kancelaryjną i pobierający strawne, otrzymują dodatek do strawnego w wysokości 50%."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wydanie przepisów wykonawczych do powyższej ustawy porucza się Ministerstwu Spraw Wojskowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

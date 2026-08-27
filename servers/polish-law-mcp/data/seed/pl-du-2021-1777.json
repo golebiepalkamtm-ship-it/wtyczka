@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2021-1777",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 września 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych",
+  "title_en": "",
+  "short_name": "pl-du-2021-1777",
+  "status": "amended",
+  "issued_date": "2021-09-17",
+  "in_force_date": "2021-09-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2021/1777",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych ( Dz. U. poz. 1842 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510 i 1535. ) po art. 31zy 14 dodaje się art. 31zy 15 wbrzmieniu: „ Art. 31zy 15 . 1. W okresie obowiązywania stanu zagrożenia epidemicznego albo stanu epidemii ogłoszonego z powodu COVID-19 oraz w okresie roku od odwołania ostatniego z nich wezwanie, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych ( Dz. U. z 2020 r. poz. 1342 ) , może być wysyłane za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych. 2. Polski Fundusz Rozwoju Spółka Akcyjna przekazuje Zakładowi Ubezpieczeń Społecznych nazwę i NIP podmiotu zatrudniającego, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych . 3. Zakład Ubezpieczeń Społecznych udostępnia wezwanie, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych , na profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych nie wcześniej niż po upływie 14 dni roboczych od dnia otrzymania danych, o których mowa w ust. 2. 4. W przypadku, o którym mowa w ust. 1, wezwanie, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych , uznaje się za skuteczne: 1) w momencie odbioru tego wezwania przez podmiot zatrudniający, o którym mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych , na profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych; 2) po upływie 14 dni od dnia umieszczenia tego wezwania na profilu informacyjnym utworzonym w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych - w przypadku jego nieodebrania. 5. Koszty obsługi przez Zakład Ubezpieczeń Społecznych wezwań, o których mowa w art. 8 ust. 5 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych , za pomocą profilu informacyjnego utworzonego w systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych powiększone o należny podatek od towarów i usług pokrywa Polski Fundusz Rozwoju Spółka Akcyjna. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2020 r. poz. 2112, 2113, 2123, 2157, 2255, 2275, 2320, 2327, 2338, 2361 i 2401 oraz z 2021 r. poz. 11, 159, 180, 694, 981, 1023, 1090, 1162, 1163, 1192, 1510 i 1535. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

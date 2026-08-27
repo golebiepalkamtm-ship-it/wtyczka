@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-499",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 lipca 1997 r. o zmianie ustawy o Policji.",
+  "title_en": "",
+  "short_name": "pl-du-1997-499",
+  "status": "amended",
+  "issued_date": "1997-07-17",
+  "in_force_date": "1997-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/499",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 kwietnia 1990 r. o Policji ( Dz. U. Nr 30, poz. 179 , z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461 , z 1992 r. Nr 54, poz. 254 , z 1994 r. Nr 53, poz. 214 , z 1995 r. Nr 4, poz. 17 , Nr 34, poz. 163 i Nr 104, poz. 515 , z 1996 r. Nr 59, poz. 269 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153 ) po art. 18 dodaje się art. 18a w brzmieniu: „ Art. 18a. 1. W razie klęski żywiołowej lub nadzwyczajnego zagrożenia środowiska, gdy siły Policji są niewystarczające do wykonania ich zadań w zakresie ochrony bezpieczeństwa i porządku publicznego, Prezes Rady Ministrów, na wniosek Ministra Spraw Wewnętrznych i Administracji uzgodniony z Ministrem Obrony Narodowej, może zarządzić użycie żołnierzy Żandarmerii Wojskowej do udzielania pomocy Policji. 2. W wypadku, o którym mowa w ust. 1, żołnierzom Żandarmerii Wojskowej przysługują, w zakresie niezbędnym do wykonania ich zadań, wobec wszystkich osób, uprawnienia policjantów, określone w art. 15-17. Korzystanie z tych uprawnień następuje na zasadach i w trybie określonym dla policjantów. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

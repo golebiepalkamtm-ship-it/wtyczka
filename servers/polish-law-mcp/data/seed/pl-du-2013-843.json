@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2013-843",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 2013 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym oraz ustawy o drogach publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2013-843",
+  "status": "in_force",
+  "issued_date": "2013-05-24",
+  "in_force_date": "2013-07-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/843",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym ( Dz. U. z 2012 r. poz. 931 i 951 oraz z 2013 r. poz. 433 ) wprowadza się następujące zmiany: 1) w art. 39a pkt 1a otrzymuje brzmienie: „ 1a) gromadzi środki finansowe na przygotowanie, wdrożenie, budowę lub eksploatację systemów poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych , oraz opłat za przejazd autostradą; ” ; 2) w art. 39d: a) ust. 1 i 2 otrzymują brzmienie: „ 1. Bank Gospodarstwa Krajowego może zaciągać kredyty, pożyczki lub emitować obligacje w kraju i za granicą na rzecz Funduszu i z przeznaczeniem na: 1) finansowanie inwestycji realizowanych w ramach programów wieloletnich ustanawianych przez Radę Ministrów zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych ( Dz. U. Nr 157, poz. 1240 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1456, 1530 i 1548. ) oraz inwestycji realizowanych z udziałem środków, o których mowa w art. 5 ust. 1 pkt 2 i 3 tej ustawy, a także zadań wynikających z planu finansowego Funduszu; 2) spłatę zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji. 2. Za zobowiązania Banku Gospodarstwa Krajowego, o których mowa w ust. 1, z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji mogą być udzielane przez Skarb Państwa gwarancje i poręczenia, zgodnie z przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne , z tym że wymogu, o którym mowa w art. 7 ust. 2 pkt 2 tej ustawy, w zakresie, w jakim wymaga się, aby środki przeznaczone na spłatę kredytu pochodziły ze źródeł innych niż budżet państwa, nie stosuje się. ” , b) ust. 4 otrzymuje brzmienie: „ 4. Minister właściwy do spraw finansów publicznych wykonuje czynności zmierzające do odzyskania kwot zapłaconych z tytułu wykonania umowy poręczenia lub gwarancji na zasadach określonych przepisami ustawy z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne , z wyłączeniem art. 43 tej ustawy. ” ; 3) w art. 39f w ust. 1 pkt 5 otrzymuje brzmienie: „ 5) przygotowanie, wdrożenie, budowę lub eksploatację systemów poboru opłat, o których mowa w art. 13 ust. 1 pkt 3 ustawy z dnia 21 marca 1985 r. o drogach publicznych , oraz opłat za przejazd autostradą, pobieranych odpowiednio przez Generalnego Dyrektora Dróg Krajowych i Autostrad, drogową spółkę specjalnego przeznaczenia lub wykonawcę, o którym mowa w art. 9 ust. 3 ustawy z dnia 12 stycznia 2007 r. o drogowych spółkach specjalnego przeznaczenia ; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 21 marca 1985 r. o drogach publicznych ( Dz. U. z 2013 r. poz. 260 ) w art. 40a ust. 4 otrzymuje brzmienie: „ 4. Środki z opłat elektronicznych są przekazywane na rachunek Krajowego Funduszu Drogowego. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620, Nr 123, poz. 835, Nr 152, poz. 1020, Nr 238, poz. 1578 i Nr 257, poz. 1726, z 2011 r. Nr 185, poz. 1092, Nr 201, poz. 1183, Nr 234, poz. 1386, Nr 240, poz. 1429 i Nr 291, poz. 1707 oraz z 2012 r. poz. 1456, 1530 i 1548. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

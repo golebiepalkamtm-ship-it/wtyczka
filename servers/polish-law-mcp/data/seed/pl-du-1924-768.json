@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1924-768",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1924 r. zmieniająca niektóre postanowienia ustawy z dnia 9 lipca 1919 r. o budowie kanałów żeglownych, tudzież regulacji rzek żeglownych i spławnych.",
+  "title_en": "",
+  "short_name": "pl-du-1924-768",
+  "status": "in_force",
+  "issued_date": "1924-07-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/768",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 9 lipca 1919 r. o budowie kanałów żeglownych, tudzież regulacji rzek żeglownych i spławnych (Dz. P. P. P. № 59 poz. 356) otrzymuje tytuł następujący: „o budowie kanałów żeglownych i regulacji rzek żeglownych.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Art. 1 powołanej wyżej ustawy przestaje obowiązywać w dotychczasowem brzmieniu, a otrzymuje brzmienie następujące: „ Budowa dróg wodnych, a w szczególności: 1) regulacja rzek dla żeglugi; 2) budowa kanałów żeglownych i kanalizacja rzek żeglownych wraz z wszelkiemi urządzeniami pomocniczemi dla żeglugi będzie przeprowadzona bądź wyłącznie kosztem Państwa, bądź kosztem Państwa z udziałem stron interesowanych, bądź wreszcie przez przedsiębiorstwa prywatne na podstawie koncesji, udzielanej przez Ministra Robót Publicznych w porozumieniu z Ministrami Skarbu, Spraw Wojskowych, Spraw Wewnętrznych, Przemysłu i Handlu, Rolnictwa i Dóbr Państwowych, Reform Rolnych i Kolei Żelaznych na okres czasu nie dłuższy niż 90 lat. Przy udzielaniu koncesji należy zastrzedz między innemi warunki, zabezpieczające należyte wykonanie i prowadzenie przedsiębiorstwa. Minister Robót Publicznych może po porozumieniu się z Ministrami Spraw Wojskowych i Spraw Wewnętrznych udzielić pozwolenia na przeprowadzenie studjów wstępnych, przy których wykonaniu stosowane będą przepisy art. 132 ustawy wodnej z dnia 19 września 1922 r. (Dz. U. R. P. № 102 poz. 936). Pozwolenie takie nie daje prawa wyłączności przeprowadzenia studjów, ani prawa pierwszeństwa do uzyskania koncesji. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W art. 3 powołanej na wstępie ustawy wyrazy: „i spławnych” - skreśla się."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Art. 7 powołanej na wstępie ustawy przestaje obowiązywać w dotychczasowem brzmieniu, a otrzymuje brzmienie następujące: „ Na rzecz budowy i urządzeń, wykonywanych w myśl niniejszej ustawy, mogą być wywłaszczone, względnie ograniczone własność nieruchoma i inne prawa w myśl przepisów ustawy wodnej z dnia 19 września 1922 r. (Dz. U. R. P. № 102 poz. 936) o wywłaszczeniu i prawach przymusowych. ”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Po art. 7 dodaje się art. 8 i 9 następującej treści: „ Art. 8. Dla wykonania zadań, w niniejszej ustawie przewidzianych, Minister Robót Publicznych może w granicach budżetu ustanawiać i znosić w drodze rozporządzenia niezespolone z władzami administracyjnemi 1 i li instancji specjalne urzędy techniczne. Urzędom takim może być przez Ministrów Robót Publicznych i Spraw Wewnętrznych przekazane w drodze rozporządzenia sprawowanie policji nad żeglugą i spławem oraz inspekcja statków i innych, objektów pływających ” . „ Art. 9. Moc obowiązującą ustawy z dnia 9 lipca 1919 r. o budowie kanałów żeglownych, tudzież regulacji rzek żeglownych w brzmieniu, nadanem jej niniejszą ustawą, rozciąga się na województwo śląskie z tem, że przy przeprowadzeniu studjów wstępnych i wywłaszczeń na obszarze górnośląskiej części województwa śląskiego należy stosować przepisy pruskiej ustawy o wywłaszczeniu z dnia 11 czerwca 1874 r. (Zbiór Pr. Pruskich str. 221), na cieszyńskiej zaś części województwa śląskiego przepisy austrjackiej ustawy z dnia 18 lutego 1878 r. (Dz. Ust. P. № 30) o wywłaszczeniu na cele budowy i utrzymywania w ruchu kolei żelaznych. ”"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Art. 8 powołanej na wstępie ustawy otrzymuje numerację „art. 10.”"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Robót Publicznych w porozumieniu z interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

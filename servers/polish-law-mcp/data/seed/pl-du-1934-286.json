@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1934-286",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 1934 r. o morskich opłatach portowych.",
+  "title_en": "",
+  "short_name": "pl-du-1934-286",
+  "status": "in_force",
+  "issued_date": "1934-03-15",
+  "in_force_date": "1934-04-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/286",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) W państwowych morskich portach handlowych mogą być pobierane następujące opłaty portowe: a) za wejście i wyjście statku, b) za postój statku (postojowe), c) za przystanie i nabrzeża (przystaniowe), d) za wylądowanie lub przyjęcie pasażera (pasażerskie), e) za wyładowanie lub naładowanie towaru (ładunkowe), f) za służbę pilotową (pilotowe), g) za korzystanie z administrowanych przez władze portowe urządzeń portowych, jak: magazynów, urządzeń przeładunkowych i innych. (2) Całkowite lub częściowe wprowadzenie powyższych opłat należy do Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Taryfy opłat portowych, terminy i sposób pobierania tych opłat, jak również środki odwoławcze ustala Minister Przemysłu i Handlu w drodze rozporządzeń, ogłaszanych w Monitorze Polskim. (2) Rozporządzenia te mogą przewidzieć zarazem przypadki lub warunki częściowego lub całkowitego zwalniania od niektórych opłat. (3) Uprawnienia, zawarte w ustępach poprzedzających, Minister Przemysłu i Handlu może w całości lub części przekazać Dyrektorowi Urzędu Morskiego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Opłaty portowe, wymienione w art. 1 pkt. a) - f), nie mogą być pobierane od okrętów wojennych i statków, pozostających w zarządzie marynarki wojennej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Do uiszczania opłat, wymienionych w art. 1, obowiązani są: a) właściciel statku lub przedsiębiorca żeglugowy (armator), o ile statek nie jest eksploatowany bezpośrednio przez właściciela - co do opłat, wymienionych w pkt, a)- f); b) osoba, korzystająca z danego urządzenia - co do opłat, wymienionych w pkt, g). (2) Opłaty portowe korzystają z przywilejów, służących podatkom państwowym. (3) Nieuiszczone w terminie opłaty portowe ściągają powiatowe władze administracji ogólnej w trybie, określonym przez obowiązujące przepisy o postępowaniu przymusowem w administracji. (4) Przez czas obowiązywania ustawy z dnia 10 marca 1932 r. o przejęciu egzekucji administracyjnej przez władze skarbowe oraz o postępowaniu egzekucyjnem władz skarbowych (Dz. U. R. P. Nr 32, poz. 328) ściąganie opłat portowych przeprowadzają zamiast organów, wymienionych w ustępie poprzedzającym, urzędy skarbowe, zgodnie z przepisami, dotyczącemi postępowania egzekucyjnego władz skarbowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Taryfy opłat dla portów, stanowiących własność gminną, zatwierdza Urząd Morski."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Pisma, stwierdzające należność lub uiszczenie opłat, wymienionych w art. 1 pkt. a)-f), są wolne od opłat stemplowych. (2) Minister Skarbu władny jest zwolnić od opłat stemplowych pisma, stwierdzające zawarcie lub wykonanie umów, przewidzianych w art. 1 pkt. g), i to także wówczas, gdy urządzenie portowe jest własnością gminną."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Jednocześnie traci moc obowiązującą ustawa z dnia 25 lipca 1924 r. o morskich opłatach portowych (Dz. U. R. P. Nr 79, poz. 764). Taryfy opłat, ustalone na podstawie ustawy z dnia 25 lipca 1924 r., obowiązują do czasu wejścia w życie taryf, wydanych na podstawie art. 2 ustawy niniejszej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_1-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pass_(1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pass_(1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pass_(1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pass_(1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-pass_(1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_4-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"}]},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_4-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_4-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

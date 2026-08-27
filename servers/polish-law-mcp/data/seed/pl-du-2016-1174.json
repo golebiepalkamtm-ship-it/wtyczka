@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2016-1174",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lipca 2016 r. o zmianie ustawy o komercjalizacji i prywatyzacji",
+  "title_en": "",
+  "short_name": "pl-du-2016-1174",
+  "status": "amended",
+  "issued_date": "2016-07-06",
+  "in_force_date": "2016-08-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1174",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji ( Dz. U. z 2016 r. poz. 981 ) wprowadza się następujące zmiany: 1) w art. 56: a) w ust. 1 w pkt 1: - wprowadzenie do wyliczenia otrzymuje brzmienie: „ Fundusz Reprywatyzacji, na rachunku którego są gromadzone środki pochodzące ze sprzedaży 5% akcji należących do Skarbu Państwa w każdej ze spółek powstałych w wyniku komercjalizacji, dochody uzyskane z tytułu posiadania akcji nabytych zgodnie z ust. 4c i przychody z tytułu zbycia tych akcji, a także odsetki od tych środków, z przeznaczeniem na cele związane z zaspokajaniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa, poprzez: ” , - po lit. b dodaje się lit. ba w brzmieniu: „ ba) realizację porozumień zawieranych przez ministra właściwego do spraw Skarbu Państwa oraz jednostki samorządu terytorialnego w sprawie dotacji celowych na rzecz jednostek samorządu terytorialnego przeznaczonych na dofinansowanie zaspokajania przez te jednostki roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa, w szczególności przez wydanie rzeczy lub wypłatę świadczeń wynikających z prawomocnych wyroków i ugód sądowych oraz ostatecznych decyzji administracyjnych wydanych w związku z nacjonalizacją mienia, ” , b) po ust. 4b dodaje się ust. 4c-4g w brzmieniu: „ 4c. Środki Funduszu, o którym mowa w ust. 1 pkt 1, mogą być przeznaczone na sfinansowanie nabycia przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw Skarbu Państwa, akcji spółek publicznych. 4d. W przypadku zbycia akcji nabytych zgodnie z ust. 4c, na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, gromadzi się całość przychodów z tego tytułu, w szczególności bez pomniejszania o obowiązkowe odpisy na rachunki innych państwowych funduszy celowych. 4e. Dotacja, o której mowa w ust. 1 pkt 1 lit. ba, może zostać udzielona, jeżeli pozwala na to stan środków finansowych zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, oraz jeżeli jednostka samorządu terytorialnego wykaże szczególne okoliczności uzasadniające udzielenie dotacji, w tym związane z jej sytuacją finansową, uniemożliwiającą samodzielne zaspokojenie roszczeń, o których mowa w ust. 1 pkt 1 lit. ba. 4f. Łączna wysokość dotacji, o których mowa w ust. 1 pkt 1 lit. ba, udzielonych w roku budżetowym nie może być wyższa niż 200 000 000 zł. 4g. Stan środków zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, nie może być niższy niż dwukrotność wydatków poniesionych w poprzednim roku budżetowym na cele, o których mowa w ust. 1 pkt 1 i ust. 4c. ” ; 2) uchyla się art. 69f; 3) po art. 69f dodaje się art. 69g w brzmieniu: „ Art. 69g. Środki Funduszu, o którym mowa w art. 56 ust. 1 pkt 1, w kwocie nieprzekraczającej łącznie 30 000 000 zł, mogą zostać w roku 2016 przeznaczone na podwyższenie kapitału zakładowego spółek „Telewizja Polska - Spółka Akcyjna”, „Polskie Radio - Spółka Akcyjna” oraz spółek radiofonii regionalnej. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dotychczasowe przepisy wykonawcze dotyczące Funduszu Reprywatyzacji, wydane na podstawie art. 56 ust. 6 ustawy zmienianej w art. 1, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 56 ust. 6 ustawy zmienianej w art. 1, jednak nie dłużej niż przez 3 miesiące od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "w art. 56: a) w ust. 1 w pkt 1:",
+      "definition": "wprowadzenie do wyliczenia otrzymuje brzmienie: „ Fundusz Reprywatyzacji, na rachunku którego są gromadzone środki pochodzące ze sprzedaży 5% akcji należących do Skarbu Państwa w każdej ze spółek powstałych w wyniku komercjalizacji, dochody uzyskane z tytułu posiadania akcji nabytych zgodnie z ust. 4c i przychody z tytułu zbycia tych akcji, a także odsetki od tych środków, z przeznaczeniem na cele związane z zaspokajaniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa, poprzez: ” , - po lit. b dodaje się lit. ba w brzmieniu: „ ba) realizację porozumień zawieranych przez ministra właściwego do spraw Skarbu Państwa oraz jednostki samorządu terytorialnego w sprawie dotacji celowych na rzecz jednostek samorządu terytorialnego przeznaczonych na dofinansowanie zaspokajania przez te jednostki roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa, w szczególności przez wydanie rzeczy lub wypłatę świadczeń wynikających z prawomocnych wyroków i ugód sądowych oraz ostatecznych decyzji administracyjnych wydanych w związku z nacjonalizacją mienia, ” , b) po ust. 4b dodaje się ust. 4c-4g w brzmieniu: „ 4c. Środki Funduszu, o którym mowa w ust. 1 pkt 1, mogą być przeznaczone na sfinansowanie nabycia przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw Skarbu Państwa, akcji spółek publicznych. 4d. W przypadku zbycia akcji nabytych zgodnie z ust. 4c, na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, gromadzi się całość przychodów z tego tytułu, w szczególności bez pomniejszania o obowiązkowe odpisy na rachunki innych państwowych funduszy celowych. 4e. Dotacja, o której mowa w ust. 1 pkt 1 lit. ba, może zostać udzielona, jeżeli pozwala na to stan środków finansowych zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, oraz jeżeli jednostka samorządu terytorialnego wykaże szczególne okoliczności uzasadniające udzielenie dotacji, w tym związane z jej sytuacją finansową, uniemożliwiającą samodzielne zaspokojenie roszczeń, o których mowa w ust. 1 pkt 1 lit. ba. 4f. Łączna wysokość dotacji, o których mowa w ust. 1 pkt 1 lit. ba, udzielonych w roku budżetowym nie może być wyższa niż 200 000 000 zł. 4g. Stan środków zgromadzonych na rachunku Funduszu, o którym mowa w ust. 1 pkt 1, nie może być niższy niż dwukrotność wydatków poniesionych w poprzednim roku budżetowym na cele, o których mowa w ust. 1 pkt 1 i ust. 4c. ”",
+      "source_provision": "art1"
+    }
+  ]
+}

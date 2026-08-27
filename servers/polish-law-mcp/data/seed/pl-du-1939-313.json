@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1939-313",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 maja 1939 r. o Polskiej Akademii Nauk Technicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1939-313",
+  "status": "in_force",
+  "issued_date": "1939-05-25",
+  "in_force_date": "1939-06-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/313",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się Polską Akademię Nauk Technicznych w Warszawie. Zadaniem jej jest pielęgnowanie, popieranie i szerzenie nauk technicznych i ich nauk podstawowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Polska Akademia Nauk Technicznych jest zespołem osób, pracujących twórczo na polu nauk technicznych i ich nauk podstawowych i pozostaje pod opieką władz Państwa."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Polska Akademia Nauk Technicznych jest osobą prawną."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Polska Akademia Nauk Technicznych dąży do osiągnięcia celów, wymienionych w art. 1, przez rozważanie zbiorowe zagadnień naukowych, podejmowanie inicjatywy prac naukowych badawczych, tworzenie i popieranie placówek badawczych, dostarczanie środków do wykonania tych prac, ogłaszanie ich wyników, wydawanie prac naukowych i podręczników, ogłaszanie konkursów naukowych i przyznawanie nagród, wydawanie opinii o zagadnieniach naukowych, bądź z własnej inicjatywy, bądź na życzenie naczelnych władz państwowych oraz instytucyj i organizacyj naukowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Polska Akademia Nauk Technicznych składa się z członków honorowych, zwyczajnych, członków korespondentów i członków zagranicznych. Liczba członków honorowych nie może przewyższać 12, liczba członków zwyczajnych nie może być mniejsza od 24 i większa od 96, liczba członków korespondentów nie może przewyższać 96, a członków zagranicznych - 60. (2) Członkami honorowymi mogą być zarówno obywatele Państwa Polskiego jak i obywatele państw obcych, członkami zwyczajnymi i członkami korespondentami mogą być tylko obywatele Państwa Polskiego, członkami zagranicznymi mogą być tylko obywatele państw obcych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Walne Zebranie, składające się z członków zwyczajnych, jest naczelną władzą Polskiej Akademii Nauk Technicznych. (2) Walne Zebranie wybiera: a) członków Akademii, b) Prezesa i Wiceprezesa na okres trzyletni, c) Sekretarza Generalnego na okres pięcioletni."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Statut, uchwalony przez Walne Zebranie i zatwierdzony przez Ministra Wyznań Religijnych i Oświecenia Publicznego, określi ustrój i tryb działalności Polskiej Akademii Nauk Technicznych. Walne Zebranie może w ramach statutu uchwalać regulaminy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wybór Prezesa, Wiceprezesa i Sekretarza Generalnego Polskiej Akademii Nauk Technicznych wymaga zatwierdzenia Prezydenta Rzeczypospolitej; wybór członków zagranicznych wymaga zatwierdzenia Ministra Wyznań Religijnych i Oświecenia Publicznego w porozumieniu z Ministrem Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "(1) Z dniem wejścia w życie ustawy niniejszej przestaje istnieć Akademia Nauk Technicznych, założona na podstawie statutu, zatwierdzonego przez Ministrów Wyznań Religijnych i Oświecenia Publicznego oraz Przemysłu i Handlu. (2) Członkowie Akademii Nauk Technicznych stają się członkami Polskiej Akademii Nauk Technicznych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_9-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1921-740",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 grudnia 1921 r. o dostarczaniu lokalów dla sądów pokoju.",
+  "title_en": "",
+  "short_name": "pl-du-1921-740",
+  "status": "in_force",
+  "issued_date": "1921-12-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/740",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Komorne za lokale dla sądów pokoju, pomieszczonych w domach prywatnych, opłaca Skarb Państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sądy Pokoju, pomieszczone w domach, stanowiących własność gmin miejskich lub wiejskich, korzystają z tych lokalów nadal na dotychczasowych warunkach do 1 stycznia 1925 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza w niczem nie uchybia przyjętym już dobrowolnie lub mogącym być przyjętemi w przyszłości zobowiązaniom gmin miejskich lub wiejskich co do dostarczania bezpłatnie lokalów dla sądów, opłacania przez te gminy komornego za lokale dla sądów, tudzież innych połączonych z tern świadczeń."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje na obszarze b. Królestwa Polskiego od dnia 1 stycznia 1922 r. Z dniem tym uchyla się wszelkie przepisy sprzeczne z niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom Sprawiedliwości i Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

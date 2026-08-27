@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1920-178",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców",
+  "title_en": "",
+  "short_name": "pl-du-1920-178",
+  "status": "in_force",
+  "issued_date": "1920-03-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/178",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nabywanie nieruchomości przez obcokrajowców, a to tak przez osoby fizyczne, jak i prawne, może nastąpić jedynie po uprzedniem uzyskaniu zezwolenia Rady Ministrów na wniosek Ministra Skarbu. Co do nieruchomości, mających specjalne znaczenie, jako to: przemysłowo-handlowe, rolnicze lub inne, decyzja Rady Ministrów zapadnie w porozumieniu z właściwym Ministrem."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Rada Ministrów na wniosek Ministra Skarbu może w poszczególnych wypadkach stawiać specjalne warunki jak nabywcy, tak i sprzedawcy, od których wypełnienia będzie uzależniona możność dokonania tranzakcji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W pozwoleniu powinno być wymienione: 1) osoba nabywcy, 2) przedmiot nabycia, 3) suma minimalna nabycia, 4) warunki istotne tranzakcji oraz warunki specjalne, postawione w myśl art. 2 niniejszej ustawy. Zezwolenie ważne jest na czas 4 miesięcy. Przedłużenie tego okresu nie jest dopuszczalne. Jeżeli akt nabycia w tym czasie nie zostanie sporządzony, zezwolenie traci moc swoją."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Decyzja Rady Ministrów nie wymaga uzasadnienia i nie ulega żadnemu zaskarżeniu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W wypadkach, przewidzianych w art. 1 niniejszej ustawy, nie wolno sporządzać i zatwierdzać aktów prawnych, ani na aktach tych podpisów stron uwierzytelniać, a władze hipoteczne nie mogą przepisywać tytułu własności na nabywcę bez złożenia zezwolenia Rady Ministrów, oraz urzędowego dowodu, że te warunki, które w myśl zezwolenia powinny poprzedzać dokonanie tranzakcji, zostały spełnione. W aktach prawnych powinny być ściśle uwzględnione pod rygorem nieważności aktów wszystkie warunki, wyszczególnione w zezwoleniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Obcokrajowcy powinni każdym razem przed wzięciem udziału w licytacji nieruchomości wykazać się zezwoleniem Rady Ministrów do nabycia danej nieruchomości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Nabycie nieruchomości przez obcokrajowca wbrew postanowieniu niniejszej ustawy jest nieważne. W razie zawarcia tranzakcji wbrew tej ustawie, o nieważności orzekają sądy na żądanie właściwej władzy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Postanowienia niniejszej ustawy nie dotyczą przeniesienia prawa własności na spadkobierców."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom: Skarbu i Sprawiedliwości, a w b. dzielnicy pruskiej w porozumieniu z Ministrem b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza nabiera mocy obowiązującej w 8 dni po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

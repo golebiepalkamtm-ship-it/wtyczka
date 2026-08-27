@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-331",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lipca 1991 r. o zmianie ustawy o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych.",
+  "title_en": "",
+  "short_name": "pl-du-1991-331",
+  "status": "in_force",
+  "issued_date": "1991-07-26",
+  "in_force_date": "1991-08-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/331",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych ( Dz. U. Nr 44, poz. 255 ) wprowadza się następujące zmiany: 1) w art. 1 w ust. 3 skreśla się wyrazy „, a przed dniem wejścia w życie niniejszej ustawy” ; 2) art. 2 otrzymuje brzmienie: „ Art. 2. 1. Z żądaniami przewidzianymi w art. 1, w terminie do dnia 31 grudnia 1992 r., może wystąpić do sądu: 1) osoba prawna, która poniosła stratę lub jej organ założycielski, 2) rada pracownicza, 3) związek zawodowy, 4) organ samorządu terytorialnego, 5) prokurator. 2. Do związków zawodowych i organów samorządu terytorialnego występujących do sądu z żądaniami, o których mowa w art. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego o prokuratorze. 3. Przed wystąpieniem do sądu podmioty wymienione w ust. 1 mogą zwrócić się do właściwych organów państwowych o udostępnienie materiałów, informacji i innych danych dotyczących spraw, o których mowa w art. 1. ” ; 3) po art. 2 dodaje się art. 2a w brzmieniu: „ Art. 2a. Podmioty wymienione w art. 2 ust. 1 pkt 1-4 mogą także zwrócić się do prokuratora o wystąpienie z żądaniami, o których mowa w art. 1. ” ; 4) po art. 3 dodaje się art. 3a w brzmieniu: „ Art. 3a. Podmioty wymienione w art. 2 ust. 1 pkt 1-4 nie mają obowiązku uiszczania opłat sądowych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

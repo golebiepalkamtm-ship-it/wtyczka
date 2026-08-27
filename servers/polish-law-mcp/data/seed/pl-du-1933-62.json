@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-62",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 stycznia 1933 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o opiece nad zabytkami.",
+  "title_en": "",
+  "short_name": "pl-du-1933-62",
+  "status": "repealed",
+  "issued_date": "1933-01-25",
+  "in_force_date": "1933-02-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/62",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o opiece nad zabytkami (Dz. U. R. P. Nr 29, poz. 265) ulega następującym zmianom: 1) w art. 2 w punkcie 1 zastępuje się wyrazi „groby” wyrazem „groty” ; 2) w art. 17 skreśla się po wyrazie „zabytkom” przecinek oraz wyrazy: „należącym do osób, wymienionych w art. 13,” a wstawia się po wyrazie „muzeów” przecinek oraz wyraz „archiwów” ; 3) w art. 20 w ust. 2 w punkcie 1 zastępuje się wyrazy: „dni 3” wyrazem „miesiąca” ; 4) w art. 21 dodaje się cztery nowe ustępy w brzmieniu: „ Zezwolenie udzielone być może bądź na wywóz na stałe, bądź na wywóz czasowy. Opłata stemplowa za zezwolenie na wywóz zabytku na stałe wynosi: przy wartości zabytku do 10.000 zł - 15% szacunku, przy wartości zabytku do 20.000 zł - 17% szacunku, przy wartości zabytku do 50.000 zł - 20% szacunku, przy wartości zabytku do 100.000 zł - 22% szacunku, przy wartości zabytku ponad 100.000 zł - 25% szacunku. Podstawę wymiaru stanowi suma szacunkowa, zadeklarowana przez ubiegającego się o zezwolenie na wywóz. Jeżeli zadeklarowana suma szacunkowa, zdaniem władzy konserwatorskiej I instancji, wynosi mniej, niż wartość sprzedażna zabytku, a wezwanie wystosowane do strony, aby zadeklarowała kwotę, zgodną z zapatrywaniem władzy konserwatorskiej, pozostało bez skutku mimo upływu dwóch tygodni od doręczenia wezwania, to władza konserwatorska I instancji ustala wartość zabytku na podstawie oceny jednego lub więcej rzeczoznawców, powołanych według własnego uznania. Strona ponosi koszty tej oceny, jeżeli wartość, ustalona na podstawie opinji rzeczoznawczej, przewyższa wartość podaną przez stronę, więcej niż o trzecią część. W razie udzielenia zezwolenia na wywóz czasowy zabytku pobrana być może kaucja w wysokości opłaty za wywóz zabytku na stałe. Kaucja ta ulega zwrotowi po stwierdzeniu powrotu zabytku z poza granic Państwa Polskiego. Skarbów Państwa przysługuje prawo przymusowego wykupu zabytku, zgłoszonego do wywozu na stałe, w przeciągu 3 miesięcy od daty zgłoszenia za cenę szacunkową, zadeklarowaną przez ubiegającego się o zezwolenie na wywóz. ” ; 5) w art. 40 wstawia się po wyrazie: „muzeów” wyrazy: „lub archiwów” oraz dodaje się dwa nowe ustępy w brzmieniu: „ Winny nieprzywiezienia w terminie, ustalonym w zezwoleniu na czasowy wywóz, zpowrotem do kraju zabytku, wywiezionego czasowo poza granice Państwa Polskiego, ulegnie karze aresztu do trzech miesięcy lub karze grzywny do 5.000 zł. Nadto należy orzec na rzecz Skarbu Państwa karę pieniężną, równającą się wartości zabytku, oraz utratę kaucji (art. 21), jeżeli była pobrana. Wartość wywiezionego zabytku, jeżeli nie była już ustalona przy udzieleniu zezwolenia na wywóz czasowy, ustala władza konserwatorska II instancji. ” ; 6) po art. 43 dodaje się nowy art. 43 a) o brzmieniu następującem: „ Karom, przewidzianym w art. 35 - 43, ulegają również winni naruszenia przepisów niniejszego rozporządzenia w stosunku do przedmiotów, których wartość zabytkowa nie została jeszcze stwierdzona orzeczeniem władzy konserwatorskiej, jeżeli ze względu na cechy artystyczne, kulturalne, historyczne, archeologiczne lub paleontologiczne zabytkowy charakter przedmiotu nie ulegał dla nich wątpliwości ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego, Ministrowi Sprawiedliwości, oraz Ministrowi Spraw Wewnętrznych we właściwym każdemu z nich zakresie działania."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie piętnastego dnia po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2012-756",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 2012 r. o zmianie ustawy - Przepisy wprowadzające ustawy reformujące system nauki",
+  "title_en": "",
+  "short_name": "pl-du-2012-756",
+  "status": "in_force",
+  "issued_date": "2012-05-11",
+  "in_force_date": "2012-07-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2012/756",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 kwietnia 2010 r. - Przepisy wprowadzające ustawy reformujące system nauki ( Dz. U. Nr 96, poz. 620 i Nr 155, poz. 1036 ) w art. 32 ust. 3 otrzymuje brzmienie: „ 3. Jednostki naukowe, o których mowa w ust. 2, zostaną ocenione przez Komitet Ewaluacji Jednostek Naukowych w terminie do dnia 30 września 2013 r. Na podstawie tej oceny zostanie im przyznana kategoria A+, A, B lub C. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

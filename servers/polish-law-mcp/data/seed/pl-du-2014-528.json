@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-528",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lutego 2014 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2014-528",
+  "status": "amended",
+  "issued_date": "2014-02-21",
+  "in_force_date": "2014-04-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/528",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. z 2010 r. Nr 90, poz. 594 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 152, poz. 1016 i Nr 197, poz. 1307, z 2011 r. Nr 92, poz. 531, Nr 106, poz. 622, Nr 149, poz. 887, Nr 163, poz. 981 i Nr 240, poz. 1431, z 2012 r. poz. 1101, z 2013 r. poz. 429 oraz z 2014 r. poz. 24 i 40. ) w art. 79 w ust. 1 w pkt 1 lit. f otrzymuje brzmienie: „ f) skargi na orzeczenie referendarza sądowego, jeżeli została uwzględniona w sprawie, w której postępowanie wszczęto z urzędu, a w pozostałych sprawach tylko w razie uwzględnienia skargi z powodu oczywistego naruszenia prawa i stwierdzenia tego naruszenia przez sąd, ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 152, poz. 1016 i Nr 197, poz. 1307, z 2011 r. Nr 92, poz. 531, Nr 106, poz. 622, Nr 149, poz. 887, Nr 163, poz. 981 i Nr 240, poz. 1431, z 2012 r. poz. 1101, z 2013 r. poz. 429 oraz z 2014 r. poz. 24 i 40. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

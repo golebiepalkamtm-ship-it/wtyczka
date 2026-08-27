@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1919-356",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 lipca 1919 r. o budowie kanałów żeglownych, tudzież regulacji rzek żeglownych i spławnych.",
+  "title_en": "",
+  "short_name": "pl-du-1919-356",
+  "status": "in_force",
+  "issued_date": "1919-07-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/356",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Staraniem i nakładem państwa mają być wykonane następujące budowle wodne: 1. regulacja i kanalizacja rzek żeglownych, 2. budowa kanałów żeglownych, 3. budowa zbiorników wodnych dla zasilania kanałów i rzek żeglownych, tudzież innych urządzeń pomocniczych jako to: przystani, elewatorów i dróg dojazdowych, 4. regulacja rzek granicznych dla zabezpieczenia terytorjum państwa, 5. regulacja rzek spławnych, stanowiących wspólną sieć wodną z kanałami i rzekami żeglownemi. Budowle wymienione pod 1 do 4 mają być wykonane wyłącznie na koszt skarbu państwa, do kosztów zaś regulacji rzek spławnych przyczyniać się będą ciała samorządne drugiej instancji datkami, których wysokość oznaczona zostanie w drodze ustawodawczej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przy projektowaniu i budowie kanałów żeglownych i kanalizacji rzek żeglownych winny być wykonane roboty, zapobiegające zabagnieniu gruntów, oraz uwzględnione dostarczanie wody dla celów nawodnienia łąk i pastwisk i zakładania stawów rybnych, tudzież dla celów gospodarczych i gaszenia pożarów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W celu wykonania zadań w art. 1 i 2 wymienionych, przystąpi Rząd bezzwłocznie do przeprowadzenia studjów i opracowania programu budowy kanałów żeglownych i regulacji rzek żeglownych i spławnych, który to program ma być przedłożony Sejmowi do zatwierdzenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na podstawie wykończonych już projektów, tudzież w miarę opracowania projektów szczegółowych i kosztorysów, a to w pierwszym rzędzie regulacji Wisły oraz kanałów żeglownych z Górno - śląskiego i Dąbrowskiego Zagłębia węglowego do Warszawy z odgałęzieniami do Lodzi i Płocka, kanału łączącego Bug z Wisłą w Warszawie, kanału z Krakowa do Wisły przy ujściu Sanu i kanału z Zagłębia Dąbrowskiego do Oświęcimia, przedkładać będzie Rząd osobne projekty ustaw wraz z planami sfinansowania. Na pokrycie kosztów studjów i prac przygotowawczych otwiera się Ministrowi Robót Publicznych kredyt na rok 1919 do wysokości 500.000 marek; kwoty zaś potrzebne na lata następne mają być wstawiane do preliminarza państwowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Celem dostarczenia zarobku ludności bezrobotnej upoważnia się Ministra Robót Publicznych do natychmiastowego rozpoczęcia robót przy regulacji Wisły, na kanałach żeglownych Bug - Warszawa i Oświęcim - Kraków, oraz przy budowie zbiornika wody na rzece Sole w Porąbce. Na ten cel przyznaje się Ministrowi Robót Publicznych kredyt na rok 1919 do wysokości 50.000.000 marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Radzie Ministrów służy prawo wydawania zakazu wykonywania w trasie zaprojektowanych dróg wodnych wszelkiego rodzaju robót, które mogą utrudnić budowę lub spowodować podwyższenie kosztów."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Dla wszystkich urządzeń, wskazanych w niniejszej ustawie, służy Rządowi prawo wywłaszczenia nieruchomości, przyczem należy stosować przepisy w tej mierze obowiązujące."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Robót Publicznych i Skarbu w porozumieniu z interesowanymi Ministrami. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_1-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

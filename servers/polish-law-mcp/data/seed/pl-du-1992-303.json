@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1992-303",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 lipca 1992 r. o ustanowieniu Święta Wojska Polskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1992-303",
+  "status": "repealed",
+  "issued_date": "1992-07-30",
+  "in_force_date": "1992-08-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/303",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dzień 15 sierpnia ustanawia się Świętem Wojska Polskiego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W rodzajach Sił Zbrojnych, wojsk i służb, w jednostkach wojskowych i ich związkach organizacyjnych mogą być obchodzone również inne święta wojskowe, ustanowione dla nich przez Ministra Obrony Narodowej, a w stosunku do jednostek wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych - przez Ministra Spraw Wewnętrznych. 2. Obchody Święta Wojska Polskiego i innych świąt wojskowych organizuje się w formie uroczystej, ustalonej w ceremoniale wojskowym. 3. Sposób obchodzenia w Siłach Zbrojnych Święta Wojska Polskiego oraz innych świąt wojskowych określa Minister Obrony Narodowej, a w jednostkach wojskowych podporządkowanych Ministrowi Spraw Wewnętrznych - Minister Obrony Narodowej w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Traci moc dekret z dnia 7 października 1950 r. o ustanowieniu dnia 12 października Dniem Wojska Polskiego ( Dz. U. Nr 45, poz. 411 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1926-413",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lipca 1926 r. o aktach (metrykach) urodzenia dzieci nieznanych rodziców na obszarze byłego zaboru rosyjskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1926-413",
+  "status": "repealed",
+  "issued_date": "1926-07-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/413",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Osoba, znajdująca dziecko nieznanych rodziców, jak również osoba, mająca takie dziecko w swojej pieczy, winna w ciągu jednego miesiąca od daty znalezienia dziecka, lub objęcia nad niem pieczy, zawiadomić o tem władzą administracyjną I instancji miejsca pobytu dziecka."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Władza administracyjna, powziąwszy wiadomość o dziecku nieznanych rodziców, wyświetli niezwłocznie okoliczności znalezienia jego lub przyjęcia w pieczę, orzeknie do jakiego wyznania dziecko ma należeć, z jednoczesnym wyborem dlań imienia, jeśli dziecko go jeszcze nie posiada. Dziecko nieznanych rodziców zalicza się do tego wyznania religijnego, do jakiego można przypuszczać, że dziecko należy, lub należeli jego rodzice. Jeżeli z oznak zewnętrznych, zeznań dziecka lub innych okoliczności ustalić nie można, do jakiego wyznania dziecko należy, takie dziecko zalicza się do wyznania rzymsko - katolickiego. Od orzeczenia władzy administracyjnej w sprawie przynależności wyznaniowej służy osobie, mającej dziecko w swej pieczy, w terminie jednomiesięcznym odwołanie do wyższej instancji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Władza administracyjna I instancji po ostatecznem rozstrzygnięciu sprawy przynależności wyznaniowej i zawiadomieniu o tem odnośnej władzy duchownej zwróci się do właściwej władzy o nadanie nazwiska dziecku nieznanych rodziców. Władza, nadająca nazwisko, ogłosi w Monitorze Polskim okoliczności znalezienia dziecka i przyjęcia w pieczę, tudzież płeć, domniemany wiek dziecka i brzmienie nadanego mu nazwiska. Nadanie nazwiska należy do Ministra Spraw Wewnętrznych, który może uprawnienie to przekazać władzy administracyjnej II instancji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Władza administracyjna I instancji, otrzymawszy wiadomość o nadaniu nazwiska dziecku, zwraca się do urzędnika stanu cywilnego lub prowadzącego księgi metryczne tego wyznania, do którego dziecko zaliczono, celem spisania aktu (metryki) urodzenia. Akt (metryka) urodzenia winien być spisany według przepisów o tych aktach, z okazaniem dziecka, powołaniem się na orzeczenie władzy administracyjnej, w obecności osoby, która dziecko znalazła, lub osoby albo przedstawiciela instytucji, mającej dziecko w swojej pieczy, z wymienieniem w akcie (metryce) domniemanego wieku oraz z zaznaczeniem, że dziecko pochodzi od nieznanych rodziców. Urzędnik stanu cywilnego lub prowadzący księgi metryczne prześle odpis tego aktu do Ministerstwa Spraw Wewnętrznych, które obowiązane Jest prowadzić rejestr dzieci nieznanych rodziców."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Sporządzenie aktu (metryki) urodzenia dziecka nieznanych rodziców sposobem, w tej ustawie wskazanym, nie będzie stało na przeszkodzie dochodzeniu istotnego pochodzenia dziecka i ustaleniu jego stanu cywilnego, wyznania i nazwiska wdrodze sądowej przez osoby interesowane."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Koszty, połączone z wykonaniem czynności, wskazanych przez ustawę niniejszą, ponosi Skarb Państwa, a wszelkie pisma i podania w tym przedmiocie wolne są od opłat skarbowych i komunalnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życiez dniem ogłoszenia na obszarze b. zaboru rosyjskiego. Ma ona zastosowanie i do wcześniejszych przypadków, jeśli nie spisano jeszcze aktu urodzenia lub też nie wyjednano nadania nazwiska, przyczem termin dla zawiadomienia, przewidziany w art. 1, przedłuża się do 6 miesięcy od dnia ogłoszenia ustawy. Jednocześnie uchyla się przepisy, dotychczas obowiązujące w tym przedmiocie na obszarze b. zaboru rosyjskiego, a w szczególności art. 104 Kod. Cyw. Król. Pol. z r. 1825."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Osoby, winne niezawiadomienia władzy o znalezieniu lub przyjęciu w pieczę dziecka nieznanych rodziców w terminie, wskazanym w art. 1 i 7, ulegają karze, określonej w art. 424 kodeksu karnego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrom: Sprawiedliwości i Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

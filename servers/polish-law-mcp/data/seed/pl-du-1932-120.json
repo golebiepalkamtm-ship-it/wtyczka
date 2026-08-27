@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-120",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1932 r. w sprawie zmian w kodeksie karnym wojskowym.",
+  "title_en": "",
+  "short_name": "pl-du-1932-120",
+  "status": "repealed",
+  "issued_date": "1932-01-21",
+  "in_force_date": "1932-03-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/120",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie kodeksu karnego wojskowego ( Dz. U. R. P. Nr 36, poz. 328 ) wprowadza się następujące zmiany: 1) w art. 28 po punkcie 2) umieszcza się jako punkt 3) następujące postanowienie: „ 3) na obszarze, na którym obowiązuje kodeks karny z 1903 r. za przestępstwo, zagrożone karą śmierci, ciężkiego więzienia albo więzienia, zastępującego dom poprawy, lub gdy skazanie nastąpiło za występek z chęci zysku ” ; 2) do art. 38 dodaje się drugi ustęp o następującem brzmieniu: „ Łączenie i zaliczanie kar aresztu wojskowego i aresztu, przewidzianego w kodeksie karnym z 1903 r., następuje wedle zasady, że jeden dzień aresztu lekkiego lub domowego równa się jednemu dniu aresztu, przewidzianego w kodeksie karnym z 1903 r. ” ; 3) w części I punkt 1 art. 45 między cyframi 50, 63 umieszcza się cyfrę 52 ; 4) w art. 52 skreśla się słowa: „w ciągu trzech dni po upływie oznaczonego terminu” ; 5) w ustępie 1 art. 124 po słowach: „karany będzie średnim lub ścisłym aresztem na czas nie krótszy od dni czternastu - wstawia się słowa: „albo zamknięciem w więzieniu lub w twierdzy do miesięcy sześciu” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2020-2241",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 października 2020 r. o ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r., zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 5 czerwca 2018 r.",
+  "title_en": "",
+  "short_name": "pl-du-2020-2241",
+  "status": "in_force",
+  "issued_date": "2020-10-27",
+  "in_force_date": "2020-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2020/2241",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Poprawek do Konwencji o pracy na morzu, przyjętej w Genewie dnia 23 lutego 2006 r. , zatwierdzonych przez Międzynarodową Konferencję Pracy w Genewie w dniu 5 czerwca 2018 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

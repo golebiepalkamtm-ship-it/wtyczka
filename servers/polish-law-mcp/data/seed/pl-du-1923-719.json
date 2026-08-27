@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-719",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 sierpnia 1923 r. w przedmiocie dokonywania zmian granic miejskich na obszarze b. Królestwa Galicji i Lodomerji wraz z Wielkiem Księstwem Krakowskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1923-719",
+  "status": "repealed",
+  "issued_date": "1923-08-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/719",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rada Ministrów władna jest dokonywać na obszarze b. Królestwa Galicji i Lodomerji wraz z Wielkiem Księstwem Krakowskiem zmian granic gmin miejskich, podlegających postanowieniom galicyjskich krajowych ustaw gminnych z dnia 13 marca 1889 r. (Dz. Ust. Kraj. № 24) oraz z dnia 3 lipca 1896 r. (Dz. Ust. Kraj. № 51) i statutu m. Lwowa z 14 października 1870 r. (Dz. Ust. Kraj. № 79) i statutu m. Krakowa z 1 kwietnia 1866 r. (Dz. Ust. Kraj. № 7) w tych wszystkich wypadkach, gdy zmiana taka nie może być dokonana w trybie, przepisanym w ust. 1 § 100 zacytowanej ustawy z dnia 13 marca 1639 r. względnie ust. 1 § 96 zacytowanej ustawy z dnia 3 lipca 1896 r., względnie art. 2 statutu m. Lwowa i art. 3 statutu m. Krakowa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zmiany powyższe mogą być dokonywane przez przyłączenie gmin podmiejskich lub ich części, graniczących bezpośrednio z miastami, o charakterze przeważnie miejskim, względnie gospodarczo ściśle z miastami związanych, po wysłuchaniu opinii zainteresowanych ciał samorządowych na wniosek Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Sprawiedliwości i Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Gminy, których dotyczyć będą przewidziane w art. 1 zmiany granic, winny zawrzeć ze sobą umowę, regulującą stosunki co doposiadania i użytkowania majątku gminnego, zakładów i funduszów gminnych, jak również co do. wierzytelności i długów, z zastrzeżeniem praw, przysługujących dotychczasowym użytkowcom dobra gminnego. Zasady uregulowania tych stosunków poda rozporządzenie wykonawcze do niniejszej ustawy. Umowy zawarte podlegają w toku instancji zatwierdzeniu właściwego wydziału samorządowego. Jeżeli umowa taka w drodze zgodnego porozumienia się między zainteresowanemi zarządami gminnemi nie dojdzie do skutku, ureguluje te stosunki w toku instancji właściwy wydział samorządowy, a w ostatniej instancji - Ministerstwo Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Z dniem tym tracą moc obowiązującą postanowienia, zawarte w § 100 ustęp 2 i 3 i w końcowym ustępie § 112 galicyjskiej krajowej ustawy gminnej z dnia 13 marca 1889 r. (Dz. Ust. Kraj, № 24), jakoteż w § 96 ustęp 2 i 3 i w końcowym ustępie § 109 galicyjskiej krajowej ustawy gminnej z dnia 3 lipca 1896 r. (Dz. Ust. Kraj. № 51) oraz w art. 2 statutu m. Lwowa i w art. 3 statutu m. Krakowa w zakresie spraw, objętych niniejszą ustawą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

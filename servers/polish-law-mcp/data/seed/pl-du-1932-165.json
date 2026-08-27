@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-165",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1932 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy.",
+  "title_en": "",
+  "short_name": "pl-du-1932-165",
+  "status": "in_force",
+  "issued_date": "1932-03-17",
+  "in_force_date": "1932-03-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/165",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy: a) w terminie do dnia, na który zostanie zwołany Sejm na najbliższą sesje, zwyczajną, - w zakresie spraw gospodarczych i finansowych, uporządkowania stanu prawnego w Państwie, wymiaru sprawiedliwości; rozporządzenia te dotyczyć nie mogą spraw, wymienionych w art. 3 ust. 4, art. 4, 5, 8, 49 ust. 2, 50 i 59 Konstytucji Rzeczypospolitej Polskiej, zaciągnięcia pożyczki państwowej, nakładania nowych podatków i podwyższania stawek podatkowych, obowiązujących w dniu wejścia w życie niniejszej ustawy, ustanawiania nowych monopolów, zbycia i zamiany nieruchomego majątku państwowego, o ile wartość poszczególnego objektu przekracza 100.000 zł, zmiany ordynacji wyborczej do Sejmu i Senatu, ustroju samorządu terytorjalnego i ordynacji wyborczej do organów tego samorządu, ustaw szkolnych i językowych, oraz prawa małżeńskiego, wreszcie zmiany statutu Banku Polskiego i zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 października 1927 r. o stabilizacji złotego (Dz. U. R. P. Nr 88, poz. 790); b) w terminie do dnia 31 grudnia 1934 r. - w zakresie organizacji administracji publicznej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uprawnienia, określone w art. 1 punkt b niniejszej ustawy, odnoszą się do wszelkich władz, urzędów, zakładów, instytucyj i organów rządowych zarówno w zakresie ich wewnętrznej organizacji we wszystkich instancjach, jak i trybu postepowania; uprawnienia te odnoszą się również do organów samorządowych w zakresie sprawowanej przez nie administracji rządowej. Z mocy powyższych uprawnień Prezydent Rzeczypospolitej jest władny: a) znosić, łączyć, dzielić i tworzyć urzędy, oraz ustalać zakres ich działania; b) regulować zasady wewnętrznej organizacjj urzędów i trybu urzędowania; c) ustalać właściwość i tok instancyj, oraz zmieniać lub wydawać nowe przepisy we wszystkich dziedzinach postępowania administracyjnego; d) przeprowadzać zmiany w istniejącym podziale administracyjnym; e) przekazywać niektóre dotychczasowe funkcje organów administracji rządowej organom związków samorządowych, określać sposób sprawowania przekazanych funkcyj przez organa samorządowe, ustalać obowiązek 1 sposób przyjmowania personelu, zatrudnionego przez związki samorządowe dla wykonania przekazanych funkcyj oraz zasady jego wynagrodzenia i kwalifikacyj, przekazywać związkom samorządowym dochody, pobierane dotychczas przez Skarb Państwa w związku z przekazanemi funkcjami, wreszcie ustalać zasady dotowania związków samorządowych ze Skarbu Państwa w związku z przekazanemi funkcjami. W związku z postanowieniami, zawartemi w niniejszym artykule, Prezydent Rzeczypospolitej ma prawo wydawać przepisy uzgadniające i przejściowe, które okażą się niezbędne do wprowadzenia w życie poszczególnych postanowień oraz przystosowania dotychczasowego zakresu działania, organizacji i kompetencyj odnośnych władz i urzędów do nowej organizacji, ustalonej w drodze rozporządzeń Prezydenta Rzeczypospolitej, wydanych na podstawie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów i wszystkim ministrom, każdemu we właściwym mu zakresie działania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

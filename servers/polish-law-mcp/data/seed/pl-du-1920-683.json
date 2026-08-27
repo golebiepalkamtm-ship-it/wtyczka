@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1920-683",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 1920 r. w przedmiocie częściowej zmiany § 6 galicyjskiej krajowej ustawy z dnia 11 lipca 1914 r. o obowiązku właścicieli domów w stołecznem królewskiem mieście Krakowie wybudowania kanałów domowych, połączenia tychże z miejskiemi kanałami ulicznemi oraz o opłatach gminnych za to połączenie.",
+  "title_en": "",
+  "short_name": "pl-du-1920-683",
+  "status": "in_force",
+  "issued_date": "1920-10-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/683",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp pierwszy § 6 ustawy z dnia 11 lipca 1914 r. (Dz. Ust. i Rozp. Kraj. № 2 z r. 1915) zostaje uchylony w dotychczasowem brzmieniu, a otrzymuje brzmienie następujące: Opłaty wymierza się wedle długości frontu realności. Wysokość opłat ustanawia rada miejska."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Robót Publicznych w porozumieniu z Ministrem Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

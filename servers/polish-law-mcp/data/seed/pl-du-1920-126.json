@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-126",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 marca 1920 r. o budowie linji kolejowej Sierpc-Brodnica.",
+  "title_en": "",
+  "short_name": "pl-du-1920-126",
+  "status": "repealed",
+  "issued_date": "1920-03-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/126",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do poczynienia wszelkich potrzebnych zarządzeń dla wykonania budowy kolei parowej, normalnotorowej z Sierpca do Brodnicy, jako kolei państwowej głównej, pierwszorzędnej, oraz do jej sfinansowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Budowa rozpocznie się w roku 1920."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Ministra Kolei Żelaznych do oznaczenia terminu otwarcia ruchu, oznaczenia stacji i przystanków, opracowania projektów budowy: ogólnego i szczegółowego oraz do ułożenia kosztorysu budowy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Eksploatacja oraz ruch pociągów prowadzone będą wedle ustaw i przepisów, obowiązujących na kolejach państwowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kredyt niezbędny na r. 1920 w ilości 20.000.000 mk. uchwala się."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy porucza się Ministrowi Kolei Żelaznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

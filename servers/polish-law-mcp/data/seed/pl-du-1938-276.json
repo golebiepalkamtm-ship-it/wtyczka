@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1938-276",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 1938 r. o opłatach stemplowych i sądowych, związanych z przeniesieniem własności nieruchomości.",
+  "title_en": "",
+  "short_name": "pl-du-1938-276",
+  "status": "in_force",
+  "issued_date": "1938-04-28",
+  "in_force_date": "1938-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/276",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Zamiast stawki 4%, przewidzianej w art. 58 ust. 1 ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych ( Dz. U. R. P. z 1935 r. Nr 64, poz. 404 ) , będzie stosowana stawka 1% do pism, stwierdzających umowę o nabycie nieruchomości (art. 52 pkt 1 powołanej ustawy), a sporządzonych w czasie od dnia wejścia w życie ustawy niniejszej do dnia 31 grudnia 1940 r. włącznie, jeżeli podstawa wymiaru (art. 56 powołanej ustawy) nie przewyższa 10.000 zł. (2) Jeżeli podstawa wymiaru nie przewyższa 25.000 zł, stawka 1% stosuje się do sumy 10.000 zł; powyżej obowiązuje stawka, przewidziana w art. 58 ust. 1 ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych ( Dz. U. R. P. z 1935 r. Nr 64, poz. 404 ) . (3) Wysokość stawek, przewidziana w ust. (1) i (2), stosuje się do nieruchomości, co do których przedstawiono zaświadczenie zarządu miejskiego bądź gminnego, stwierdzające, że dana nieruchomość: a) nie znajduje się w obrębie granic ochrony sanitarnej uzdrowisk, uznanych za posiadające charakter użyteczności publicznej, b) nie jest objęta prawomocnym ogólnym lub szczegółowym planem zabudowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W przypadkach, w których w myśl artykułu poprzedzającego jest stosowana zniżona stawka opłaty stemplowej, gdy podstawa wymiaru nie przekracza 10.000 zł - nie pobiera się stałej opłaty hipotecznej od wpisu prawa własności, przewidzianej w art. 94 przepisów o kosztach sądowych ( Dz. U. R. P. z 1934 r. Nr 93, poz. 837 ) - a opłaty, przewidziane w § 58 ustawy z dnia 25 lipca 1910 r. o kosztach sądowych (Zb. ust. pruskich z 1910 r. str. 184 i z 1917 r. str. 17) w brzmieniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 26 sierpnia 1927 r. ( Dz. U. R. P. Nr 78, poz. 677 ) za czynności w księdze gruntowej - obniża się do połowy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie w tydzień po ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\",\"children\": [{\"id\": \"arti_1-pass_(3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pass_(3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

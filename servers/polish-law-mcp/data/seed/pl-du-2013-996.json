@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2013-996",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 2013 r. o zmianie ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa",
+  "title_en": "",
+  "short_name": "pl-du-2013-996",
+  "status": "amended",
+  "issued_date": "2013-06-21",
+  "in_force_date": "2013-08-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/996",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa ( Dz. U. z 2010 r. Nr 77, poz. 512 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 225, poz. 1463, z 2011 r. Nr 113, poz. 657 i Nr 149, poz. 887, z 2012 r. poz. 622 oraz z 2013 r. poz. 675 i 747. ) art. 49 otrzymuje brzmienie: „ Art. 49. 1. Jeżeli niezdolność do pracy powstała przed upływem pełnego miesiąca kalendarzowego ubezpieczenia chorobowego, podstawę wymiaru zasiłku stanowi: 1) najniższa miesięczna podstawa wymiaru składek na ubezpieczenie chorobowe za miesiąc, w którym powstało prawo do zasiłku, po odliczeniach, o których mowa w art. 3 pkt 4 - dla ubezpieczonych, dla których określono najniższą podstawę wymiaru składek; 2) kwota przychodu określona w umowie przypadająca na pierwszy miesiąc kalendarzowy ubezpieczenia, po odliczeniach, o których mowa w art. 3 pkt 4, a jeżeli kwota ta w umowie nie została określona, kwota przeciętnego miesięcznego przychodu innych ubezpieczonych, z którymi płatnik składek zawarł takie same lub podobne umowy - dla ubezpieczonych wykonujących pracę na podstawie umowy agencyjnej lub umowy zlecenia; 3) przeciętny miesięczny przychód innych członków spółdzielni za miesiąc, w którym powstało prawo do zasiłku - dla ubezpieczonych będących członkami rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych; 4) przeciętny miesięczny przychód osób wykonujących pracę nakładczą na rzecz danego płatnika składek za miesiąc, w którym powstało prawo do zasiłku - dla osób wykonujących pracę nakładczą. 2. Jeżeli niezdolność do pracy powstała przed upływem pełnego miesiąca kalendarzowego ubezpieczenia chorobowego, a okres ubezpieczenia chorobowego rozpoczął się nie później niż 30 dni od ustania ubezpieczenia chorobowego z innego tytułu, przy ustaleniu podstawy wymiaru zasiłku chorobowego stosuje się odpowiednio przepis art. 37 ust. 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie pierwszego dnia czwartego miesiąca następującego po miesiącu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 225, poz. 1463, z 2011 r. Nr 113, poz. 657 i Nr 149, poz. 887, z 2012 r. poz. 622 oraz z 2013 r. poz. 675 i 747. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

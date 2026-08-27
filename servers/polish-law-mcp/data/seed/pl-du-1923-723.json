@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-723",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 sierpnia 1923 r. o zmianie niektórych przepisów o postępowaniu sądowem w sprawach cywilnych w b. zaborze rosyjskim.",
+  "title_en": "",
+  "short_name": "pl-du-1923-723",
+  "status": "in_force",
+  "issued_date": "1923-08-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/723",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 2 ust. punkty a), c), d), e) Przepisów przechodnich do ustawy postępowania cywilnego (Dz. Urzęd. Depart. Sprawiedliw. T. R. S. Król. Pol. № 1) w brzmieniu, nadanem mu przez art. 1 i 2 ustawy z dnia 14 lipca 1920 roku o rozszerzeniu właściwości sądów pokoju w sprawach cywilnych (Dz. U. R. P. № 63 poz. 412), będzie opiewał: „ a) sprawy, których wartość powództwa nie przenosi marek polskich 5.000.000, a jeżeli chodzi o przedmioty zaliczane zwyczajnie do żywego lub martwego inwentarza gospodarstwa rolnego, lub o należność za takie przedmioty - 50.000.000; c) żądania zabezpieczenia dowodów w sprawach, będących w toku lub jeszcze nie wytoczonych, niezależnie od wartości powództwa; d) sprawy działowe, dotyczące własności ziemskiej lub mieszczańsko - rolnej, jeżeli majątek, działom podlegający, nie przenosi 33 hektarów (60 morgów) i niema w nim żadnych przedsiębiorstw przemysłowych, ani budynków, oprócz niezbędnych w zwykłem gospodarstwie rolnem, bez względu na warlość inwentarza i ruchomości, jeżeli przytem należące do spadku kapitały nie przenoszą marek polskich 50.000.000; e) sprawy o upoważnienie kobiet zamężnych (art. 1653 u. p. c.) o ile wartość powództwa może być określona i nie przenosi marek polskich 50.000.000 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Końcowy ustęp art. 3 Przepisów przechodnich do ustawy postępowania cywilnego (Dz. Urz. Dep. Spraw. T. R. S. № 1) ulega skreśleniu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Radę Ministrów do wprowadzania na wniosek Ministra Sprawiedliwości odpowiednio do stosunków walutowych zmian w kwotach pieniężnych, wyżej określonych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa mniejsza wchodzi w życie po upływie 14 dni po dniu ogłoszenia. Z tymże dniem traci moc obowiązującą ustawa z dnia 23 września 1922 roku o zmianie niektórych przepisów o postępowaniu sądowem w sprawach cywilnych w b. zaborze rosyjskim (Dz. U. R. P. № 86 poz. 771). Nieukończone przed tym dniem w sądach okręgowych sprawy, które według postanowień niniejszej ustawy należałyby do właściwości sądów pokoju, podlegają nadal właściwości sądów okręgowych, o ile obie strony nie uczynią w ciągu 2 miesięcy od daty wejścia tej ustawy w życie zgodnego wniosku o przekazanie sprawy do sądu pokoju. Przepis ten będzie miał zastosowanie również przy każdej następnej zmianie kwot pieniężnych, dokonanej na podstawie art. 3 niniejszej ustawy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

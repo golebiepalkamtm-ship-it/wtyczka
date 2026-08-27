@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1931-824",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. o sprzedaży i zamianie niektórych gruntów państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1931-824",
+  "status": "in_force",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/824",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się: 1) na sprzedaż niżej wymienionych gruntów państwowych, będących w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe”: a) gruntu o powierzchni 133 m 2 z parceli L. kat. 417/2, objętej wykazem hipotecznym L. 956 ks. gruntowej gm. kat. Tarnopol, położonej w m. Tarnopolu przy ul. Kochanowskiego; b) gruntu o powierzchni 1.564 m 2 , nie posiadającego urządzonej hipoteki, położonego w m. Sarnach, w powiecie sarneńskim, w województwie poleskiem, przy zbiegu ulic Piłsudskiego, Brzeskiej i Rynku; c) gruntu o powierzchni 11.700 m 2 , nie posiadającego urządzonej hipoteki, położonego w obrębie m. Pruszkowa, w powiecie warszawskim, w województwie warszawskiem, naprzeciw km. 297,9 linji kolejowej Warszawa - Katowice; d) gruntu o ogólnej powierzchni 28,839 m 2 , nie posiadającego urządzonej hipoteki, położonego częściowo na terenie wsi Witowice (5.803 m2), częściowo na terenie kolonij Dwór, Ciszowice i Zawodzie z rozparcelowanych dóbr Witowice (17.335 m 2 ) i częściowo na terenie kolonji Charsznica (5.701 m 2 ) w gminie Rzeżuśnia, w powiecie miechowskim, w województwie kieleckiem, przy stacji kolejowej Miechów na linji kolejowej Dęblin - Strzemieszyce, wraz z budynkiem, znajdującym się na tym gruncie na terenie wsi Witowice; 2) na dokonanie zamiany stanowiących własność Skarbu Państwa, a będących w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe” parcel Nr. 460/290 o powierzchni 370 m 2 oraz Nr. 489/290 o powierzchni 1.099 m 2 , zapisanych w księdze gruntowej Trzeciewnica, tom V, karta 150, położonych w gminie Trzeciewnica, w powiecie wyrzyskim, w województwie poznańskiem, na parcelę Nr. 588/50 o powierzchni 1469 m 2 zapisaną w księdze gruntowej Trzeciewnica, tom I, karta 31, położoną w tejże gminie, stanowiącą własność Adama Kawczyńskiego, właściciela dóbr Trzeciewnica."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,410 @@
+{
+  "id": "pl-du-1975-108",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 czerwca 1975 r. Prawo bankowe.",
+  "title_en": "",
+  "short_name": "pl-du-1975-108",
+  "status": "repealed",
+  "issued_date": "1975-06-12",
+  "in_force_date": "1975-06-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1975/108",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Podstawowym zadaniem banków jest gromadzenie środków pieniężnych oraz zasilanie gospodarki narodowej w środki finansowe niezbędne do jej prawidłowego funkcjonowania i rozwoju, zgodnie z celami ustalonymi w narodowych planach społeczno-gospodarczych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Banki zapewniają sprawne funkcjonowanie obrotu pieniężnego oraz obsługę finansową jednostek gospodarki uspołecznionej, nie uspołecznionej i ludności. 2. Banki, przy wykonywaniu swoich zadań, współdziałają z właściwymi organami administracji państwowej i jednostkami gospodarki uspołecznionej, w szczególności w kierunku: 1) zwiększania efektywności gospodarowania jednostek gospodarki uspołecznionej oraz zachowania równowagi inwestycyjnej i zaopatrzeniowej, 2) zapewniania równowagi pieniężno-towarowej i równowagi bilansu płatniczego, 3) umacniania dyscypliny finansowej i gospodarczej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Dla realizacji swoich zadań banki wykonują czynności bankowe oraz inne czynności określone w niniejszym prawie i przepisach szczególnych. 2. Do czynności bankowych należy: 1) gromadzenie środków pieniężnych jednostek gospodarki uspołecznionej i nie uspołecznionej oraz oszczędności pieniężnych ludności, 2) finansowanie inwestycji i środków obrotowych, 3) udzielanie kredytów, 4) przeprowadzanie rozliczeń pieniężnych, 5) obsługa finansowa obrotów z zagranicą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Do wykonywania czynności bankowych są uprawnione: 1) Narodowy Bank Polski, będący bankiem państwowym, 2) Bank Gospodarki Żywnościowej, będący bankiem państwowo-spółdzielczym, oraz zrzeszone w nim banki spółdzielcze, będące spółdzielniami, 3) Bank Handlowy w Warszawie S.A. i Bank Polska Kasa Opieki S.A., będące spółkami akcyjnymi. 2. Rada Ministrów, na wniosek Ministra Finansów, może utworzyć w drodze rozporządzenia inny bank, określając jego nazwę, siedzibę i podstawowe zadania. 3. Narodowy Bank Polski działa według wytycznych Ministra Finansów. 4. Banki wymienione w ust. 1 pkt 2 i 3 oraz utworzone na podstawie ust. 2 nadzoruje Minister Finansów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Narodowy Bank Polski spełnia koordynacyjną rolę w stosunku do innych banków w dziedzinie kształtowania systemu i planu kredytowego, organizacji i planowania obrotu gotówkowego i oszczędnościowego, organizacji rozliczeń i operacji bankowych, a także operacji walutowych i dewizowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Banki są obowiązane przestrzegać tajemnicy obrotów i stanów rachunków bankowych. Informacji w tym zakresie mogą udzielać tylko posiadaczom rachunków, ich jednostkom zwierzchnim oraz organom uprawnionym do tego na podstawie obowiązujących przepisów. 2. Informacje dotyczące wkładów oszczędnościowych ludności nie mogą być udzielane, chyba że w związku z toczącą się przeciwko wkładcy sprawą karną lub karną skarbową albo sprawą o alimenty, o rentę o charakterze alimentacyjnym lub o podział majątku wspólnego małżonków informacji takich zażąda sąd lub prokurator."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Banki nie odpowiadają za zobowiązania Skarbu Państwa. 2. Skarb Państwa nie odpowiada za zobowiązania banków, z wyjątkiem zobowiązań z tytułu wkładów oszczędnościowych ludności oraz zobowiązań, za które przyjął odpowiedzialność z tytułu poręczenia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Banki otwierają i prowadzą rachunki bankowe, na których jednostki gospodarki uspołecznionej i nie uspołecznionej oraz ludność gromadzą swoje środki pieniężne. 2. Banki organizują, przeprowadzają i kontrolują rozliczenia pieniężne jednostek gospodarki uspołecznionej i nie uspołecznionej oraz organizują i przeprowadzają rozliczenia pieniężne ludności. 3. Rada Ministrów określa, jakie rodzaje rachunków prowadzonych przez banki podlegają oprocentowaniu i w jakiej wysokości. 4. Minister Finansów określa wysokość prowizji i opłat bankowych pobieranych przez banki za czynności bankowe."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ogólne zasady udzielania kredytów przez banki ustala Rada Ministrów, a wysokość odsetek pobieranych od tych kredytów - Minister Finansów."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Banki mają prawo: 1) sprawować kontrolę działalności finansowo-gospodarczej obsługiwanych jednostek oraz przestrzegania przez nie dyscypliny finansowej i inwestycyjnej, 2) żądać od jednostek gospodarki uspołecznionej składania ustalonych obowiązującymi przepisami planów oraz bilansów i innych sprawozdań finansowych, a także innych materiałów niezbędnych do wykonywania zadań banku, 3) sprawdzać w jednostkach kredytowanych celowość przeznaczenia i zużycia zgodnie z przeznaczeniem udzielonych kredytów bankowych oraz stan zabezpieczenia tych kredytów, 4) zabezpieczać udzielone kredyty także na nieruchomości stanowiącej własność kredytobiorcy przez złożenie dokumentu stwierdzającego fakt udzielenia kredytu, jego wysokość i warunki spłaty; dokument taki jest podstawą wpisu hipoteki do księgi wieczystej, a jeżeli nieruchomość nie posiada księgi wieczystej - zabezpieczenie może być dokonane przez złożenie dokumentu dotyczącego kredytu do zbioru dokumentów. 2. Przepis ust. 1 pkt 4 stosuje się odpowiednio w wypadkach, gdy bank prowadzi obsługę należności państw z tytułu sprzedaży nieruchomości i lokali. 3. Wnioski banków o zabezpieczenie należności z tytułu udzielonych kredytów lub z tytułu sprzedaży nieruchomości i lokali są wolne od opłat sądowych. 4. Minister Sprawiedliwości, w porozumieniu z Ministrem Finansów, może w drodze rozporządzenia ustalić ulgowe stawki opłat sądowych lub zwolnić od tych opłat wnioski w sprawach wymienionych w ust. 3, składane przez innych wnioskodawców."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Banki działają na podstawie niniejszego prawa i statutu. 2. Statut Narodowemu Bankowi Polskiemu i Bankowi Gospodarki Żywnościowej oraz bankom utworzonym na podstawie art. 4 ust. 2 nadaje Rada Ministrów, na wniosek Ministra Finansów. 3. Statuty banków wymienionych w art. 4 ust. 1 pkt 3 zatwierdza Minister Finansów. 4. Minister Finansów ustala w ramach statutu banku jego szczegółowy zakres działania. 5. Minister Finansów może zlecać bankowi wykonywanie czynności nie przewidzianych w niniejszym prawie lub statucie banku oraz powierzać mu administrację wszelkiego rodzaju funduszów, jeżeli przepisy szczególne nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Jednostki organizacyjne banków oraz banki spółdzielcze mogą na zlecenie innych banków wykonywać określone czynności bankowe należące do zakresu działania banków zlecających."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Minister Finansów może, nie naruszając statutowego zakresu czynności banku, zarządzić częściowe przejęcie agend oraz aktywów i pasywów jednego banku przez inny bank. 2. Z chwilą przekazania aktywów i pasywów wierzytelności banku przekazującego przechodzą w granicach przekazania na bank przejmujący, a bank ten staje się dłużnikiem w miejsce banku przekazującego, który zostaje zwolniony z zobowiązań. Przejście praw i obowiązków banku przekazującego na bank przejmujący następuje z mocy samego prawa, z dniem oznaczonym w zarządzeniu, o którym mowa w ust. 1. 3. Hipoteki, poręczenia i prawa zastawu ustanowione dla zabezpieczenia zobowiązań nie wygasają, lecz przysługują nadal bankowi przejmującemu, jeżeli stał się wierzycielem, lub przeciwko niemu, jeżeli stał się dłużnikiem. 4. W stosunku do zabezpieczeń będących przedmiotem wpisu do księgi wieczystej lub rejestru publicznego przejście zostanie uwidocznione na jednostronny wniosek osoby uprawnionej. Wniosek taki zaopatrzony w zaświadczenie banku przejmującego o przejściu zabezpieczenia stanowi podstawę do dokonania wpisów w księgach wieczystych i rejestrach publicznych. Wnioski takie oraz czynności w postępowaniu dotyczącym prowadzenia ksiąg wieczystych i rejestrów są wolne od wszelkich opłat. 5. Przejście praw i obowiązków, o którym mowa w niniejszym artykule, nie pozbawia dłużnika praw wynikających z przepisów art. 513 i 524 Kodeksu cywilnego ."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Przepis art. 308 Kodeksu cywilnego stosuje się do wszystkich banków określonych w niniejszym prawie."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Bank może potrącić ze swego długu wierzytelność, której termin płatności jeszcze nie nadszedł, jeżeli jednostka będąca dłużnikiem została postawiona w stan likwidacji, jak również we wszystkich tych wypadkach, gdy służy mu prawo ściągnięcia swoich wierzytelności przed nadejściem terminu płatności."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Księgi banku, wyciągi z tych ksiąg podpisane przez bank i opatrzone jego pieczęcią oraz wszelkie w ten sam sposób wystawione w formie pisemnej oświadczenia zawierające zobowiązanie, zwolnienie z zobowiązań, zrzeczenie się praw lub pokwitowanie odbioru należności lub stwierdzające udzielenie kredytu, jego wysokość i warunki spłaty mają moc prawną dokumentów urzędowych oraz stanowią podstawę do dokonania wpisów w księgach wieczystych i rejestrach publicznych. 2. Wyciągi z ksiąg banku oraz inne dokumenty stwierdzające zobowiązanie na rzecz banku i zaopatrzone w oświadczenie banku, że oparte na nich roszczenia są wymagalne, mają moc prawną tytułów wykonawczych bez potrzeby uzyskiwania dla nich sądowych klauzul wykonalności. Egzekucja należności stwierdzonych tymi dokumentami odbywa się według wyboru banku bądź w trybie przepisanym w Kodeksie postępowania cywilnego , bądź w trybie egzekucji administracyjnej. 3. Bank nie może korzystać z uprawnień określonych w ust. 2 dla dochodzenia roszczeń przeciwko jednostkom, których spory z bankiem należą do właściwości państwowego arbitrażu gospodarczego. 4. Dłużnik może w drodze powództwa żądać umorzenia w całości lub w części egzekucji prowadzonej przez bank według przepisów Kodeksu postępowania cywilnego bądź przepisów o egzekucji administracyjnej, jeżeli egzekwowana wierzytelność nie istnieje lub istnieje w kwocie mniejszej albo gdy dłużnik zgłasza wzajemne roszczenia nadające się do potrącenia z wierzytelności egzekwowanej. 5. W trybie zabezpieczenia powództwa sąd może na wniosek powoda zawiesić postępowanie egzekucyjne. Rozdział 2 Organizacja i działalność banków A. Narodowy Bank Polski"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Narodowy Bank Polski - zwany w skrócie „NBP” - jest państwowym bankiem emisyjnym oraz centralną instytucją kredytową, oszczędnościową, rozliczeniową i dewizową. 2. NBP działa na obszarze Polskiej Rzeczypospolitej Ludowej. Siedzibą NBP jest m.st. Warszawa. NBP może tworzyć i znosić oddziały oraz inne placówki operacyjne, jak również oddziały specjalistyczne - zwane w dalszym ciągu niniejszego prawa „powszechnymi kasami oszczędności”."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. NBP posiada osobowość prawną i ma prawo używania pieczęci z wizerunkiem orła, ustalonym dla godła Polskiej Rzeczypospolitej Ludowej. 2. NBP nie podlega wpisowi do rejestru przedsiębiorstw państwowych."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Statut NBP określa: 1) podstawowe zadania i czynności bankowe, 2) organizację oraz sposób tworzenia i znoszenia oddziałów i innych jednostek organizacyjnych, 3) szczegółowy zakres i zasady działania powszechnych kas oszczędności, 4) fundusze własne oraz zasady gospodarki, sprawozdawczości i rachunkowości."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Bilans roczny NBP i sprawozdanie roczne wraz z wnioskiem co do podziału zysku Prezes NBP przedstawia do rozpatrzenia Ministrowi Finansów, który w terminie do dnia 30 kwietnia roku następnego po okresie sprawozdawczym - przedkłada je Radzie Ministrów do zatwierdzenia. 2. Zysk bilansowy NBP, po potrąceniu określonych w statucie odpisów na zasilenie funduszów własnych, podlega wpłacie do budżetu Państwa. 3. Przypadającą budżetowi wpłatę, która nie może być niższa od 50% zysku, NBP wpłaca w terminach ustalonych przez Ministra Finansów."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Na czele NBP stoi Prezes, który kieruje działalnością NBP zgodnie z wytycznymi Ministra Finansów oraz reprezentuje NBP na zewnątrz. 2. W skład zarządu NBP wchodzą Prezes, wiceprezesi oraz inni członkowie zarządu. 3. Prezesa NBP powołuje i odwołuje Rada Ministrów, na wniosek Prezesa Rady Ministrów. 4. Wiceprezesów NBP powołuje i odwołuje Prezes Rady Ministrów, na wniosek Ministra Finansów, uzgodniony z Prezesem NBP, a innych członków zarządu - Minister Finansów, na wniosek Prezesa NBP."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Prezes NBP może przy oddziałach wojewódzkich NBP powoływać do rozpatrywania ważniejszych spraw z zakresu działalności pieniężno-kredytowej komitety doradcze spośród przedstawicieli instytucji i organizacji gospodarczych."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Do składania oświadczeń w zakresie praw i obowiązków majątkowych NBP są upoważnieni: 1) Prezes - samodzielnie, 2) dwie osoby działające łącznie spośród: a) pozostałych członków zarządu NBP, b) pełnomocników powołanych przez Prezesa NBP lub przez osobę przez niego do tego upoważnioną, działających w granicach udzielonych im pełnomocnictw. 2. Do wykonywania czynności określonego rodzaju lub czynności szczególnych osoby wymienione w ust. 1 mogą ustanowić pełnomocnika działającego samodzielnie w granicach udzielonego umocowania."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. NBP przysługuje wyłączne prawo emitowania znaków pieniężnych Polskiej Rzeczypospolitej Ludowej. Znakami pieniężnymi są banknoty i monety, opiewające na złote lub grosze. 2. Znaki pieniężne emitowane przez NBP są prawnym środkiem płatniczym na obszarze Polskiej Rzeczypospolitej Ludowej. 3. Zobowiązania pieniężne mogą być spłacone bez ograniczenia wysokości każdym rodzajem znaków pieniężnych emitowanych przez NBP."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Wzory i odcinki banknotów oraz ich nominalną wartość, wzory, stop, próbę i wagę monet ustala Minister Finansów, na wniosek Prezesa NBP."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Poszczególne rodzaje znaków pieniężnych mogą być wycofane z obiegu. O wycofaniu postanawia Minister Finansów na wniosek Prezesa NBP. 2. W zarządzeniu o wycofaniu poszczególnych znaków pieniężnych ustala się terminy, po upływie których: 1) dany rodzaj znaków pieniężnych przestaje być prawnym środkiem płatniczym, 2) NBP nie jest zobowiązany do wymiany wycofanych znaków. 3. Termin określony w ust. 2 pkt 1 nie może być krótszy niż sześć miesięcy od dnia ogłoszenia zarządzenia Ministra Finansów. Termin określony w ust. 2 pkt 2 nie może być krótszy od sześciu miesięcy od dnia, w którym dany rodzaj znaków pieniężnych przestał być prawnym środkiem płatniczym."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Znaki pieniężne, nie odpowiadające wskutek zużycia lub uszkodzenia warunkom ustalonym przez Ministra Finansów, tracą moc prawnego środka płatniczego. NBP wymienia takie znaki pieniężne na zasadach ustalonych przez Ministra Finansów. 2. Minister Finansów wydaje przepisy o zatrzymywaniu fałszywych znaków pieniężnych."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. NBP organizuje i reguluje obrót gotówkowy zgodnie z potrzebami gospodarki narodowej. 2. NBP opracowuje plan kasowy, w którym określa rozmiary wzrostu lub spadku obiegu pieniężnego. Plan kasowy zatwierdza Minister Finansów."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. NBP sporządza plan kredytowy, w którym określa wysokość kredytów udzielanych przez poszczególne banki z własnych środków oraz z kredytu refinansowego, udzielonego przez NBP. 2. Prezes NBP przedstawia projekt planu kredytowego Ministrowi Finansów, który po rozpatrzeniu przedkłada go Radzie Ministrów do zatwierdzenia."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "NBP, zgodnie z odrębnymi przepisami, wykonuje kasową i rozliczeniową obsługę budżetu Państwa oraz współdziała w kontroli jego wykonania."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "NBP, zgodnie z odrębnymi przepisami, ma prawo: 1) posiadania wartości dewizowych i dokonywania czynności w zakresie obrotu tymi wartościami, 2) udzielania zezwoleń w zakresie obrotu i posiadania wartości dewizowych, 3) sprawowania nadzoru nad działalnością innych banków i instytucji w zakresie wykonywania przez nie uprawnień dewizowych."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. NBP sporządza bilans płatniczy oraz bilans należności i zobowiązań zagranicznych. 2. NBP kontroluje wykonywanie planu obrotów płatniczych z zagranicą i składa Ministrowi Finansów sprawozdania z jego wykonania."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. NBP ma prawo udzielania i zaciągania kredytów zagranicznych oraz udzielania i przyjmowania poręczenia w obrotach zagranicznych. 2. Na zabezpieczenie zaciągniętych kredytów bądź udzielonego poręczenia NBP może ustanowić zastaw na poszczególnych składnikach swego majątku."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "NBP przyjmuje na przechowanie wartości i dokumenty składane przez władze, urzędy i instytucje państwowe lub przekazane w związku z postępowaniem sądowym, administracyjnym i zabezpieczającym oraz w związku z innymi czynnościami banku."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Egzekucja należności pieniężnych przypadających od NBP jest niedopuszczalna. W celu otrzymania należności pieniężnej wierzyciel składa tytuł wykonawczy sądowy, arbitrażowy lub administracyjny bezpośrednio NBP, który obowiązany jest bezzwłocznie należność uiścić."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "NBP korzysta na równi z jednostkami budżetowymi ze zwolnienia od podatków oraz od opłat sądowych i opłaty skarbowej."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Powszechne kasy oszczędności gromadzą indywidualne oszczędności pieniężne oraz wykonują czynności związane z obrotem bezgotówkowym i kredytowaniem ludności."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Powszechne kasy oszczędności uprawnione są do wystawiania dowodów imiennych i na okaziciela na złożone wkłady oszczędnościowe. 2. Minister Finansów określi rodzaje wkładów oszczędnościowych i wydawanych na nie dowodów. 3. Minister Finansów, w porozumieniu z Ministrem Sprawiedliwości, określi zasady i tryb umarzania imiennych dowodów na złożone wkłady oszczędnościowe. 4. Wystawione na okaziciela dowody na złożone wkłady oszczędnościowe podlegają w razie ich utraty umorzeniu na zasadach określonych w odrębnych przepisach o umarzaniu utraconych dokumentów, z wyjątkiem wypadków, gdy w wydawanych dowodach wyraźnie zostało zastrzeżone, że nie podlegają one umorzeniu. 5. Umarzanie utraconych dowodów na okaziciela lub imiennych na złożone wkłady oszczędnościowe w toku prowadzenia egzekucji sądowej lub administracyjnej z rachunku bankowego, stanowiącego wkład oszczędnościowy, regulują przepisy Kodeksu postępowania cywilnego oraz przepisy o egzekucji administracyjnej."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Wkłady oszczędnościowe ludności złożone w powszechnych kasach oszczędności wolne są od zajęcia sądowego i administracyjnego do wysokości 5 000 zł wkładu jednej osoby, niezależnie od ilości dowodów na złożone wkłady oszczędnościowe, jeżeli przepisy szczególne nie stanowią inaczej."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Powszechne kasy oszczędności obowiązane są wypłacić po śmierci wkładcy z jego wkładów oszczędnościowych: 1) koszty pogrzebu wkładcy do wysokości odpowiadającej zwyczajom miejscowym i stosunkom majątkowym zmarłego - osobie, która przedłoży rachunki stwierdzające wysokość poniesionych przez nią wydatków, 2) kwoty ogółem do zł 200.000 - jeżeli wkładca wskazał pisemnie właściwej dla jego ostatniego miejsca zamieszkania powszechnej kasie oszczędności osoby, na których rzecz wypłata ma nastąpić; osobami wskazanymi przez wkładcę mogą być jego małżonek, dzieci, rodzice, dziadkowie, wnuki i rodzeństwo. 2. Powszechne kasy oszczędności dokonują wypłat, o których mowa w ust. 1, po przedłożeniu imiennego dowodu na złożony wkład i aktu zgonu wkładcy. 3. Sumy wymienione w ust. 1 nie wchodzą do spadku po wkładcy. B. Bank Gospodarki Żywnościowej"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Bank Gospodarki Żywnościowej jest bankiem państwowo-spółdzielczym, powołanym do obsługi finansowo-kredytowej rolnictwa i przemysłu rolno-spożywczego oraz leśnictwa. 2. Bank Gospodarki Żywnościowej jest centralą organizacyjną, finansową i rewizyjną banków spółdzielczych i wykonuje w stosunku do tych banków funkcje przewidziane dla centralnych związków spółdzielni w ustawie z dnia 17 lutego 1961 r. o spółdzielniach i ich związkach ( Dz. U. Nr 12, poz. 61 i z 1974 r. Nr 47, poz. 281 ) . 3. Bank Gospodarki Żywnościowej działa na obszarze Polskiej Rzeczypospolitej Ludowej. Siedzibą Banku Gospodarki Żywnościowej jest m.st. Warszawa."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Bank Gospodarki Żywnościowej posiada osobowość prawną i ma prawo używania pieczęci z wizerunkiem orła, ustalonym dla godła Polskiej Rzeczypospolitej Ludowej. 2. Bank Gospodarki Żywnościowej nie podlega wpisowi do rejestru przedsiębiorstw państwowych."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Ogólnokrajowym organem samorządowym banków spółdzielczych jest Krajowy Zjazd Delegatów i wybrana przez niego Rada Banku Gospodarki Żywnościowej. 2. Terenowymi organami samorządowymi banków spółdzielczych są wojewódzkie zjazdy delegatów i wybrane przez nie rady wojewódzkie Banku Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Statut Banku Gospodarki Żywnościowej określa: 1) podstawowe zadania i czynności bankowe, 2) organizację banku oraz sposób tworzenia i znoszenia oddziałów i innych placówek operacyjnych, 3) fundusze własne oraz zasady gospodarki, sprawozdawczości i rachunkowości, 4) skład i tryb powoływania ogólnokrajowych i terenowych organów samorządowych banków spółdzielczych oraz ich zadania, jak również rodzaje scentralizowanych funduszów banków spółdzielczych i zasady gospodarowania tymi funduszami."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Na czele Banku Gospodarki Żywnościowej stoi Prezes, który kieruje jego działalnością oraz reprezentuje Bank na zewnątrz. 2. W skład zarządu Banku Gospodarki Żywnościowej wchodzą Prezes, wiceprezesi oraz inni członkowie zarządu."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Prezesa Banku Gospodarki Żywnościowej powołuje i odwołuje Prezes Rady Ministrów, na wniosek Ministra Finansów. 2. Wiceprezesów i innych członków zarządu Banku Gospodarki Żywnościowej powołuje i odwołuje Minister Finansów, na wniosek Prezesa."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Do składania oświadczeń w zakresie praw i obowiązków majątkowych Banku Gospodarki Żywnościowej są upoważnieni: 1) Prezes Banku - samodzielnie, 2) dwie osoby działające łącznie spośród: a) pozostałych członków zarządu Banku, b) pełnomocników powołanych przez Prezesa Banku lub osobę przez niego do tego upoważnioną, działających w granicach udzielonych im pełnomocnictw. 2. Do wykonywania czynności określonego rodzaju lub czynności szczególnych osoby wymienione w ust. 1 mogą ustanowić pełnomocnika, działającego samodzielnie, w granicach udzielonego umocowania."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Banki spółdzielcze są spółdzielniami i podlegają wpisaniu do rejestru spółdzielni. Przepisy ustawy o spółdzielniach i ich związkach stosuje się do banków spółdzielczych ze zmianami wynikającymi z niniejszego prawa."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Postanowienia statutu banku spółdzielczego powinny być zgodne z zasadami ustalonymi przez Ministra Finansów na wniosek Rady Banku, zaopiniowany przez Naczelną Radę Spółdzielczą. 2. Statut powinien określać: 1) siedzibę banku spółdzielczego i teren jego działania, 2) wysokość udziałów, sposób i terminy ich wnoszenia i zwrotu oraz skutki niewpłacania udziałów w terminie, 3) prawa i obowiązki członków, 4) zasady przyjmowania, występowania, wykreślania i wykluczania członków, 5) sposób zwoływania walnych zgromadzeń, obradowania na nich i podejmowania uchwał oraz sposób wybierania i odwoływania innych organów banków spółdzielczych, 6) zasady podziału nadwyżki bilansowej i pokrywania strat, 7) organ spółdzielni właściwy do podejmowania uchwał w sprawach wyboru przedstawicieli na zjazd delegatów związku. 3. Do składania oświadczeń w zakresie praw i obowiązków majątkowych dotyczących czynności bankowych banku spółdzielczego upoważniony jest dyrektor, powoływany przez Prezesa Banku Gospodarki Żywnościowej lub osobę przez niego upoważnioną, po zasięgnięciu opinii zarządu spółdzielni."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Do banków spółdzielczych stosuje się odpowiednio przepisy art. 38-40 niniejszego prawa."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Do podstawowych zadań banków spółdzielczych należy: 1) gromadzenie oszczędności pieniężnych ludności, 2) udzielanie - w zakresie i na zasadach określonych przez Ministra Finansów - kredytów osobom prowadzącym na terenie działania banku spółdzielczego gospodarstwa rolne bądź działalność gospodarczą zaliczaną do pozarolniczej gospodarki nie uspołecznionej oraz pozostałej ludności wiejskiej zamieszkałej na terenie działania banku spółdzielczego, 3) obsługa kasowo-rozliczeniowa instytucji prowadzących na terenie działania banku spółdzielczego działalność gospodarczą w zakresie kontraktacji i skupu produkcji rolnej, zaopatrzenia wsi i świadczenia usług, jak również obsługa kasowa budżetów gminnych rad narodowych (rad narodowych miasta i gminy) oraz jednostek i zakładów budżetowych objętych budżetami gminnych rad narodowych (rad narodowych miasta i gminy). 2. Banki spółdzielcze tworzone są dla obsługi ludności i jednostek objętych zakresem działania banku spółdzielczego, mających siedzibę (zamieszkałych) na terenie jednej lub kilku gmin bądź miasta. C. Banki w formie spółek akcyjnych"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. Bank Handlowy w Warszawie S.A. i Bank Polska Kasa Opieki S.A. są bankami w formie spółek akcyjnych, powołanymi do finansowania i obsługi bankowej obrotów z zagranicą oraz obsługi dewizowej ludności. 2. W zakresie nie uregulowanym niniejszym prawem do banków w formie spółek akcyjnych stosuje się przepisy Kodeksu handlowego dotyczące spółek akcyjnych."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Na podstawie uchwał walnych zgromadzeń akcjonariuszy spółek wymienionych w art. 52 Rada Ministrów może wyrazić zgodę na rozwiązanie spółek i odpłatne przejęcie ich majątku (aktywów i pasywów) przez inny bank, bez przeprowadzania postępowania likwidacyjnego w trybie przewidzianym w dziale XII rozdziale VI Kodeksu handlowego . 2. Do przejęcia majątku banków w formie spółek akcyjnych w wypadku, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 13 niniejszego prawa."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Członków zarządów banków w formie spółek akcyjnych powołanych w sposób przewidziany w statucie zatwierdza Minister Finansów. 2. Jeżeli Minister Finansów odmówi zatwierdzenia lub udzielone zatwierdzenie cofnie, organ uprawniony na mocy statutu banku w formie spółki akcyjnej do powoływania i odwoływania członków zarządu obowiązany jest bezzwłocznie przedstawić innych kandydatów oraz odwołać członków zarządu, co do których Minister Finansów cofnął udzielone zatwierdzenie. 3. W razie niezastosowania się przez właściwy organ statutowy do przepisów ust. 2 w ciągu siedmiu dni od daty decyzji Ministra Finansów odmawiającej zatwierdzenia lub cofającej udzielone zatwierdzenie Minister Finansów może powołać zarząd w drodze nominacji."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "W razie stwierdzenia, że działalność banku w formie spółki akcyjnej narusza prawo lub statut, Minister Finansów może zawiesić w czynnościach władze banku, przy równoczesnym zwołaniu z urzędu walnego zgromadzenia akcjonariuszy, oraz ustanowić zarząd tymczasowy, na czas do przeprowadzenia nowych wyborów władz przez walne zgromadzenie."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Banki w formie spółek akcyjnych - na podstawie zezwolenia Ministra Finansów - mogą tworzyć i znosić w kraju i za granicą oddziały i inne placówki operacyjne oraz być udziałowcami (akcjonariuszami) zagranicznych banków i przedsiębiorstw."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Bilans roczny oraz sprawozdania roczne banków w formie spółek akcyjnych zarządy banków przedkładają Ministrowi Finansów, niezwłocznie po zatwierdzeniu przez walne zgromadzenie akcjonariuszy."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Niezależnie od zadań, o których mowa w rozdziale 1 niniejszego prawa, banki w formie spółek akcyjnych mają prawo udzielenia i zaciągania kredytów zagranicznych, udzielania i przyjmowania poręczeń w obrotach zagranicznych oraz dokonywania czynności w zakresie obrotu wartościami dewizowymi. Rozdział 3 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Istniejące w dniu wejścia w życie niniejszej ustawy spółdzielnie oszczędnościowo-pożyczkowe ulegają przekształceniu w banki spółdzielcze. 2. Statuty banków spółdzielczych zostaną dostosowane do przepisów niniejszego prawa i zgłoszone do sądu rejestrowego w terminie trzech miesięcy od dnia jego wejścia w życie."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Do banków spółdzielczych nie stosuje się przepisów art. 3 oraz art. 48 ustawy z dnia 17 lutego 1961 r. o spółdzielniach i ich związkach ( Dz. U. Nr 12, poz. 61 i z 1974 r. Nr 47, poz. 281 ) ."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Otwarcie na obszarze Polskiej Rzeczypospolitej Ludowej oddziału lub przedstawicielstwa zagranicznego banku może nastąpić tylko na podstawie zezwolenia Ministra Finansów i na warunkach określonych przez Ministra Finansów."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Przepisy art. 38-40 stosuje się odpowiednio do wkładów ludności na bankowych rachunkach walutowych."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Z dniem wejścia w życie niniejszego prawa zakończą działalność: Bank Rolny działający na podstawie art. 44 ust. 1 ustawy z dnia 13 kwietnia 1960 r. o prawie bankowym ( Dz. U. Nr 20, poz. 121 , z 1964 r. Nr 8, poz. 50 , z 1966 r. Nr 24, poz. 151 , z 1972 r. Nr 53, poz. 340 i z 1974 r. Nr 27, poz. 157 ) oraz Centralny Związek Spółdzielni Oszczędnościowo-pożyczkowych, działający na podstawie ustawy z dnia 17 lutego 1961 r. o spółdzielniach i ich związkach ( Dz. U. Nr 12, poz. 61 i z 1974 r. Nr 47, poz. 281 ) . 2. Majątek (aktywa i pasywa) Banku Rolnego i Centralnego Związku Spółdzielni Oszczędnościowo-pożyczkowych przejmie Bank Gospodarki Żywnościowej, a majątek Powszechnej Kasy Oszczędności - Narodowy Bank Polski. 3. Do przejęcia majątku, o którym mowa w ust. 2, stosuje się odpowiednio przepisy art. 13 niniejszego prawa. 4. Pracownicy jednostek przejętych stają się odpowiednio pracownikami jednostek przejmujących, z zachowaniem ciągłości pracy."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Tracą moc: 1) ustawa z dnia 2 grudnia 1958 r. o Narodowym Banku Polskim ( Dz. U. Nr 72, poz. 356 ) , 2) ustawa z dnia 13 kwietnia 1960 r. o prawie bankowym ( Dz. U. Nr 20, poz. 121 , z 1964 r. Nr 8, poz. 50 , z 1966 r. Nr 24, poz. 151 , z 1972 r. Nr 53, poz. 340 i z 1974 r. Nr 27, poz. 157 ) , z zastrzeżeniem przepisów ust. 2, 3) ustawa z dnia 13 lipca 1957 r. o zabezpieczeniu pożyczek na finansowanie budownictwa mieszkaniowego ( Dz. U. Nr 39, poz. 175 i z 1960 r. Nr 11, poz. 71 ) . 2. Zachowują moc przepisy ustawy wymienionej w ust. 1 pkt 2, dotyczące Banku Gospodarstwa Krajowego, oraz przepis art. 49 ust. 3 tejże ustawy."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Do czasu wydania przepisów wykonawczych na podstawie niniejszego prawa obowiązują dotychczasowe przepisy wykonawcze."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1975 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_3-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_3-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_3-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_3-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_10-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_10-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_10-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_10-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_11-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_1-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"chpt_1-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_1-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_16-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_16-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Organizacja i działalność banków\",\"children\": [{\"id\": \"chpt_2-none_A\",\"symbol\": \"none_A\",\"type\": \"none\",\"name\": \"A\",\"title\": \"A. - Narodowy Bank Polski\",\"children\": [{\"id\": \"chpt_2-none_A-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-none_A-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-none_A-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-none_A-arti_19-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_2-none_A-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-none_A-arti_20-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-none_A-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-none_A-arti_21-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-none_A-arti_21-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-none_A-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_2-none_A-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_23-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-none_A-arti_23-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_2-none_A-arti_23-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-none_A-arti_23-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"chpt_2-none_A-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-none_A-arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-none_A-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_2-none_A-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_26-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-none_A-arti_26-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-none_A-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-none_A-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_2-none_A-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-none_A-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-none_A-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"chpt_2-none"
+    }
+  ],
+  "definitions": []
+}

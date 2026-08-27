@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-728",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 lipca 1999 r. o nadaniu Wyższej Szkole Pedagogicznej w Krakowie nazwy \"Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie\".",
+  "title_en": "",
+  "short_name": "pl-du-1999-728",
+  "status": "in_force",
+  "issued_date": "1999-07-08",
+  "in_force_date": "1999-08-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/728",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyższej Szkole Pedagogicznej w Krakowie nadaje się nazwę „Akademia Pedagogiczna im. Komisji Edukacji Narodowej w Krakowie”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

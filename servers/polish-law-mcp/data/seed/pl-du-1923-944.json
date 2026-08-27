@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1923-944",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 listopada 1923 r. zmieniająca art. 14 ustawy z dnia 29 maja 1920 r. w przedmiocie zmiany przepisów o opodatkowaniu spadków i darowizn.",
+  "title_en": "",
+  "short_name": "pl-du-1923-944",
+  "status": "in_force",
+  "issued_date": "1923-11-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/944",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp 2 art. 14 ustawy z dnia 29 maja 1920 r. w przedmiocie zmiany przepisów o opodatkowaniu spadków i darowizn (Dz. U. R. P. № 49 poz. 299) otrzymuje brzmienie następujące: „ Jeśli był cudzoziemcem, to majątek, znajdujący się zagranicą, podlega opodatkowaniu tylko wówczas, gdy nabywca jest obywatelem Państwa Polskiego ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

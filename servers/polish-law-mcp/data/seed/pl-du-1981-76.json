@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1981-76",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. o utworzeniu urzędu Ministra Rolnictwa i Gospodarki Żywnościowej.",
+  "title_en": "",
+  "short_name": "pl-du-1981-76",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1981-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/76",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Rolnictwa i Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Rolnictwa i Gospodarki Żywnościowej należą sprawy rolnictwa oraz produkcji żywności, a w szczególności sprawy: produkcji rolnej, weterynarii, kwarantanny i ochrony roślin, gospodarki gruntami rolnymi oraz ich ochrony, gospodarki wodnej, melioracji wodnych, zaopatrzenia rolnictwa i wsi w wodę, gospodarki rybackiej w wodach śródlądowych, budownictwa rolniczego, mechanizacji i elektryfikacji, usług dla rolnictwa, nauki i oświaty rolniczej, skupu surowców rolnych, przemysłu spożywczego, przechowalnictwa surowców rolnych i produktów żywnościowych, dostaw artykułów żywnościowych na rynek krajowy i na eksport, przemysłu utylizacyjnego, kontroli w zakresie skupu i przetwórstwa produktów rolnych, produkcji i przetwórstwa pasz oraz produkcji specjalistycznych maszyn, urządzeń i opakowań dla gospodarki żywnościowej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Zadaniem Ministra Rolnictwa i Gospodarki Żywnościowej jest nadawanie kierunku działania gałęziom gospodarki określonym w art. 2, stosownie do potrzeb społecznych i gospodarczych, zgodnie z polityką Państwa. 2. Minister Rolnictwa i Gospodarki Żywnościowej zadanie to realizuje w szczególności poprzez prognozowanie i programowanie rozwoju gospodarki rolnej i przemysłu spożywczego oraz dokonywanie kompleksowej analizy i oceny działalności przedsiębiorstw i innych podległych jednostek organizacyjnych, udzielanie im pomocy w usprawnianiu systemów zarządzania, współdziałanie w kształtowaniu systemów ekonomicznych przedsiębiorstw i innych podległych jednostek organizacyjnych, bilansowanie obrotów z zagranicą w zakresie produktów rolnych i spożywczych, a także koordynowanie działalności w zakresie gospodarki żywnościowej, produkcji rolnej, przechowalnictwa i przetwórstwa żywności, pasz, bilansów żywności oraz współdziałanie z centralnymi związkami spółdzielczymi w tym zakresie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Rada Ministrów, po zasięgnięciu opinii odpowiednich komisji sejmowych, w drodze rozporządzenia, określi szczegółowy zakres działania Ministra Rolnictwa i Gospodarki Żywnościowej. 2. Organizację Ministerstwa Rolnictwa i Gospodarki Żywnościowej oraz jednostki organizacyjne podporządkowane Ministrowi Rolnictwa i Gospodarki Żywnościowej określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Znosi się urzędy Ministra Rolnictwa i Ministra Przemysłu Spożywczego i Skupu. 2. Sprawy należące dotychczas do zakresu działania ministrów wymienionych w ust. 1 przechodzą do zakresu działania Ministra Rolnictwa i Gospodarki Żywnościowej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. W ustawie z dnia 22 marca 1957 r. o zmianach w organizacji i zakresie działania naczelnych organów administracji państwowej w niektórych gałęziach przemysłu, budownictwa i komunikacji ( Dz. U. Nr 17, poz. 86 , z 1958 r. Nr 31, poz. 137 , z 1960 r. Nr 29, poz. 164 , z 1962 r. Nr 32, poz. 150 i 153 , z 1964 r. Nr 8, poz. 49 i z 1976 r. Nr 12, poz. 68 i 70 ) art. 7 i 8 skreśla się. 2. Traci moc ustawa z dnia 26 maja 1951 r. o organizacji władz naczelnych w dziedzinie rolnictwa ( Dz. U. Nr 30, poz. 236 i z 1956 r. Nr 54, poz. 242 ) ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-2204",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 grudnia 2005 r. o zmianie ustawy o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury",
+  "title_en": "",
+  "short_name": "pl-du-2005-2204",
+  "status": "repealed",
+  "issued_date": "2005-12-09",
+  "in_force_date": "2005-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/2204",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 1 lipca 2005 r. o Krajowym Centrum Szkolenia Kadr Sądów Powszechnych i Prokuratury ( Dz. U. Nr 169, poz. 1410 ) w art. 19 wyrazy „z dniem 1 stycznia 2006 r.” zastępuje się wyrazami „z dniem 1 września 2006 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 31 grudnia 2005 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

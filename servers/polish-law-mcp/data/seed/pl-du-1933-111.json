@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1933-111",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 1933 r. o wpisywaniu do ksiąg hipotecznych na rzecz Skarbu Państwa prawa własności nieruchomości państwowych, będących w zarządzie państwowego przedsiębiorstwa \"Polska Poczta, Telegraf i Telefon\".",
+  "title_en": "",
+  "short_name": "pl-du-1933-111",
+  "status": "in_force",
+  "issued_date": "1933-02-15",
+  "in_force_date": "1933-03-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/111",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Prawo własności nieruchomości, które stanowią własność Skarbu Państwa i były w jego posiadaniu w dniu 30 czerwca 1928 r., ulega wpisaniu do ksiąg hipotecznych w trybie przepisanym niniejszą ustawą, jeżeli nieruchomości te nie były dotychczas wpisane do ksiąg hipotecznych na imię tegoż Skarbu, a na podstawie art. 4 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o utworzeniu państwowego przedsiębiorstwa „Polska Poczta. Telegraf i Telefon” (Dz. U. R. P. z 1932 r. Nr. 105, poz. 879) są w zarządzie powierniczym i użytkowaniu tegoż przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wpisanie prawa własności do księgi hipotecznej następuje na podstawie deklaracji Prezesa tej Dyrekcji Poczt i Telegrafów, w której granicach nieruchomość się znajduje."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Deklaracja winna zawierać: a) określenie nieruchomości na podstawie dołączonych do niej planów, sporządzonych przez właściwą Dyrekcję Poczt i Telegrafów i zatwierdzonych przez Prezesa tejże Dyrekcji, oraz stwierdzenie posiadania według art. 1; b) stwierdzenie, że nieruchomość jest w zarządzie powierniczym i użytkowaniu państwowego przedsiębiorstwa „Polska Poczta, Telegraf i Telefon” na podstawie art. 4 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o utworzeniu państwowego przedsiębiorstwa „Polska Poczta. Telegraf i Telefon.” (Dz. U. R. P. z 1932 r. Nr 105, poz. 879)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wpis do księgi hipotecznej, dokonany na podstawie niniejszej ustawy, nie zamyka osobom trzecim drogi sądowej do dochodzenia ich praw."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wpisy hipoteczne i deklaracje wolne są od opłat stemplowych, sądowych i komunalnych. Stawki wynagrodzenia, ustalone w taksie dla pisarzy hipotecznych, za czynności, wynikające z ustawy niniejszej, ulegają obniżeniu o 50%."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Poczt i Telegrafów i Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na obszarach sądów apelacyjnych warszawskiego, lubelskiego i wileńskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

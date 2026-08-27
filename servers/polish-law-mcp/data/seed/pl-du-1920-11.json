@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-11",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1919 r. w przedmiocie przedłużenia czasu służby roczników 1896-1899, powołanych na obszarze Dowództwa Okręgu Generalnego Krakowskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-11",
+  "status": "in_force",
+  "issued_date": "1919-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/11",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Popisowych roczników 1896, 1897, 1898 i 1899, którzy na mocy dekretu Naczelnika Państwa z dnia 24 grudnia 1918 r. za № 423 (Dziennik Rozk. Wojsk. № 14) powołani zostali na obszarze Generalnego Okręgu Krakowskiego do czynnej służby wojskowej na okres 4 miesięcy i którym, na mocy ustawy z dn. 27 maja 1919 r. (Dz. Pr. P. P. № 43 z dn. 31 maja 1919 r. poz. 307) czas ich służby został przedłużony o 3 miesiące, - przedłuża się czas służby aż do czasu ogłoszenia w Wojsku Polskiem powszechnej demobilizacji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Popisowi, w art. 1 wymienieni, będą, z chwilą ogłoszenia powszechnej demobilizacji, w pierwszym rządzie zdemobilizowani."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

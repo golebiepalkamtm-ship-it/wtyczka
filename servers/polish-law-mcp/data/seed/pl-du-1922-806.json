@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-806",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 września 1922 r. w przedmiocie uzupełnienia ustawy z dnia 15 lipca 1920 r. o wykonaniu reformy rolnej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-806",
+  "status": "in_force",
+  "issued_date": "1922-09-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/806",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Majątki ziemskie, które przeszły lub przejdą, na rzecz Państwa przez zatrzymanie ich w myśl punktu b art. 2 ustawy z dnia 15 lipca 1920 r. o likwidacji majątków prywatnych w wykonaniu traktatu pokoju, podpisanego w Wersalu dnia 28 czerwca 1919 r. (Dz. U. R. P. z 1920 r. № 70 poz. 467), będą rozsprzedawane za zapłatą pełnej należytości: 1) grupom osadniczym, 2) instytucjom, upoważnionym do parcelacji, 3) innym polskim osobom fizycznym i prawnym. Przy rozsprzedaży objektów ponad 180 ha. stosowana będzie kolejność wskazana powyżej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Majątki ziemskie, nabyte przez polskie osoby fizyczne i prawne, wskazane w punkcie 3 art. 1 niniejszej ustawy, bądź z liczby majątków prywatnych, zatrzymanych na rzecz Państwa w myśl ustępu b art. 2 ustawy z dnia 15 lipca 1920 r. (Dz. U. R. P. № 70 poz. 467), bądź z liczby majątków prywatnych, zakwalifikowanych do likwidacji według zasad ustępu a) art. 2 tejże ustawy, podlegają przymusowemu wykupowi na mocy ustawy z dnia 15 lipca 1920 r. o wykonaniu reformy rolnej (Dz. U. R. P. № 70 poz. 462) dopiero po wyczerpaniu na terenie województw, poznańskiego i pomorskiego majątków, w punktach 1 -8 art. 1 ustawy o wykonaniu reformy rolnej wymienionych, lecz nie później niż po upływie 18 lat."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do Innych majątków ziemskich, posiadanych przez nabywców majątków, w art. 2 niniejszej ustawy omawianych, stosowana będzie ustawa z dnia 15 lipca 1920 r. o wykonaniu reformy rolnej niezależnie i bez łączności z obszarami majątków ziemskich, nabytemi w myśl art. 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Głównego Urzędu Ziemskiego w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych oraz Prezesem Głównego Urzędu Likwidacyjnego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

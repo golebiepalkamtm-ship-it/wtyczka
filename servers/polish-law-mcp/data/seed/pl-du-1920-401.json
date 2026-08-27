@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1920-401",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. o ujednostajnieniu uposażenia pisarzów hipotecznych w okręgach sądów apelacyjnych w Warszawie i Lublinie.",
+  "title_en": "",
+  "short_name": "pl-du-1920-401",
+  "status": "in_force",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/401",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Pisarze hipoteczni przy sądach okręgowych i przy sądach pokoju w okręgach sądów apelacyjnych w Warszawie i w Lublinie za czynności urzędowe pobierają od osób zainteresowanych opłaty, przewidziane w taksie. Nadto pisarze hipoteczni w miejscowościach, które wyznaczy Minister Sprawiedliwości, otrzymywać będą pensję stosownie do mającej nastąpić organizacji urzędów. Do tego czasu pod względem poboru pensji pozostaje w każdym poszczególnym wypadku stan dotychczasowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustępy 2 i 3 art. 10 przepisów tymczasowych o wynagrodzeniu urzędników wymiaru sprawiedliwości w Polsce (Dzien. Urz. Dep. Spraw. z 1917 r. № 1 poz. 3) uchyla się."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 sierpnia 1920 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

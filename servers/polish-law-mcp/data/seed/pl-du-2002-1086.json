@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-1086",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o regulacji rynku cukru.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1086",
+  "status": "repealed",
+  "issued_date": "2002-07-18",
+  "in_force_date": "2002-08-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1086",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 czerwca 2001 r. o regulacji rynku cukru ( Dz. U. Nr 76, poz. 810 i Nr 122, poz. 1322 ) wprowadza się następujące zmiany: 1) w art. 7 w ust. 1 skreśla się wyrazy „lub wyrobach o zawartości cukru co najmniej 20% w przeliczeniu na cukier biały,” ; 2) w art. 15 po ust. 2 dodaje się ust. 2a-2c w brzmieniu: „ 2a. Producenci cukru i inni przedsiębiorcy są obowiązani sprzedawać cukier na rynku krajowym po cenach wyższych niż cena interwencyjna. 2b. Podmioty, o których mowa w ust. 2a, wprowadzające cukier na rynek krajowy po cenach niższych lub równych cenie interwencyjnej, są zobowiązane do wnoszenia opłat sankcyjnych w wysokości wynikającej z pomnożenia ilości tak sprzedanego cukru przez cenę interwencyjną. 2c. Opłaty sankcyjne, o których mowa w ust. 2b, wpłacane są bez wezwania na wydzielony rachunek Agencji Rynku Rolnego i podlegają przepisom ustawy - Ordynacja podatkowa. ” ; 3) w art. 20: a) ust. 1 otrzymuje brzmienie: „ 1. Minister właściwy do spraw Skarbu Państwa, działając w imieniu Skarbu Państwa, utworzy niezwłocznie „Krajową Spółkę Cukrową” w drodze podwyższenia kapitału zakładowego jednej ze Spółek Cukrowych utworzonych na podstawie art. 6 ust. 1 ustawy, o której mowa w art. 19, w której Skarb Państwa wykonuje bez ograniczeń prawa ze 100% akcji, wnosząc jako wkład niepieniężny akcje pozostałych Spółek Cukrowych, w których Skarb Państwa wykonuje bez ograniczeń prawa ze 100% akcji. ” , b) po ust. 1 dodaje się ust. 1a-1c w brzmieniu: „ 1a. Po utworzeniu Krajowej Spółki Cukrowej minister właściwy do spraw Skarbu Państwa spowoduje połączenie w trybie art. 492 § 1 pkt 1 Kodeksu spółek handlowych tej spółki ze spółkami, w których: 1) Krajowa Spółka Cukrowa posiada 100% akcji, 2) Skarb Państwa i Krajowa Spółka Cukrowa wykonują łącznie i bez ograniczeń prawa z co najmniej 75% akcji, 3) Skarb Państwa i Spółki Cukrowe, w których Skarb Państwa wykonuje bez ograniczeń prawa ze 100% akcji, utworzone na podstawie art. 6 ust. 1 ustawy, o której mowa w art. 19, wykonują łącznie i bez ograniczeń prawa z co najmniej 75% akcji. 1b. Do rozporządzania akcjami Spółek Cukrowych, o których mowa w ust. 1, nie stosuje się przepisów art. 32 i art. 33 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych ( Dz. U. Nr 118, poz. 561 i Nr 156, poz. 775 , z 1997 r. Nr 32, poz. 184 , Nr 98, poz. 603 , Nr 106, poz. 673 , Nr 121, poz. 770 , Nr 137, poz. 926 i Nr 141, poz. 945 , z 1998 r. Nr 106, poz. 668 , z 1999 r. Nr 40, poz. 400 i Nr 101, poz. 1178 , z 2000 r. Nr 15, poz. 180 , Nr 26, poz. 306 , Nr 31, poz. 383 , Nr 60, poz. 703 , Nr 84, poz. 948 i Nr 122, poz. 1315 , z 2001 r. Nr 63, poz. 637 , Nr 72, poz. 745 , Nr 76, poz. 807 i Nr 122, poz. 1320 oraz z 2002 r. Nr 25, poz. 253 i Nr 113, poz. 984 ) . Wartość akcji Skarbu Państwa wnoszonych aportem w spółkach, o których mowa w ust. 1, ustala się na podstawie bilansu sporządzonego za ostatni rok obrotowy. 1c. Z chwilą zakończenia postępowań sądowych w stosunku do Śląskiej Spółki Cukrowej oraz pozostałych cukrowni będących w sporze, akcje tych spółek zostaną wniesione na podwyższenie kapitału Krajowej Spółki Cukrowej. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

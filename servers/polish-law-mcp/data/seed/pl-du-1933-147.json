@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1933-147",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 marca 1933 r. o przekazywaniu bankom państwowym zarządu i ściągania niektórych bezspornych prywatno-prawnych roszczeń Skarbu Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1933-147",
+  "status": "in_force",
+  "issued_date": "1933-03-14",
+  "in_force_date": "1933-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/147",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Upoważnia się Ministra Skarbu do przekazywania swych kompetencyj w zakresie zarządu i ściągania bezspornych prywatno-prawnych roszczeń Skarbu Państwa, otrzymanych na podstawie traktatów pokoju po b. państwach zaborczych, bądź też powstałych w związku z wykonaniem przez Polskę tych traktatów, Państwowemu Bankowi Rolnemu lub Bankowi Gospodarstwa Krajowego zależnie od charakteru roszczenia. (2) Bezsporne w rozumieniu ustawy niniejszej są roszczenia, uznane co do zasady i wysokości przez dłużnika, bądź ustalone prawomocnemi wyrokami sądowemi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Zarząd roszczeniami, wymienionemi w art. 1, obejmuje utrzymywanie ich w ewidencji, odraczanie ustanowionych terminów spłat i udzielanie innych ulg dłużnikom, przyjmowanie i kwitowanie wpłat oraz wszelkiego rodzaju inne czynności administracyjne, odnoszące się do tych roszczeń. (2) Ściąganie nie uiszczonych roszczeń nastąpi według uznania banku bądź w trybie egzekucji administracyjnej, przewidzianej w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu przymusowem w administracji (Dz. U. R. P. Nr. 36, poz. 342), bądź w trybie postępowania sądowego. Na czas obowiązywania ustawy z dnia 10 marca 1932 r. o przejęciu egzekucji administracyjnej przez władze skarbowe oraz o postępowaniu egzekucyjnem władz skarbowych (Dz. U. R. P Nr. 32, poz. 328) zamiast według przepisów powołanego rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. wymienione roszczenia będą ściągane według tej ostatniej ustawy i rozporządzeń, na jej podstawie wydanych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Na pokrycie wydatków, związanych z administracją przekazanych roszczeń, banki, wymienione w art. 1, będą pobierały ze ściągniętych sum dodatek administracyjny w wysokości, którą określa w drodze rozporządzeń Minister Skarbu na wniosek rad nadzorczych tych banków."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

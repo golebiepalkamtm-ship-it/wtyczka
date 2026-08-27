@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1993-585",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 grudnia 1993 r. o zmianie ustawy o systemie oświaty.",
+  "title_en": "",
+  "short_name": "pl-du-1993-585",
+  "status": "amended",
+  "issued_date": "1993-12-03",
+  "in_force_date": "1993-12-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1993/585",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 września 1991 r. o systemie oświaty ( Dz. U. Nr 95, poz. 425 oraz z 1992 r. Nr 26, poz. 113 i Nr 54, poz. 254 ) w art. 104 wprowadza się następujące zmiany: 1) w ust. 1 wyrazy „chyba że szkoły te zostaną wcześniej przekazane w trybie określonym w ust. 2” zastępuje się wyrazami „z zastrzeżeniem ust. 2” ; 2) ust. 2 otrzymuje brzmienie: „ 2. Gmina może ustalić inny termin przejęcia szkół niż określony w ust. 1, nie później jednak niż 1 stycznia 1996 r. O nieprzejęciu prowadzenia szkół podstawowych z dniem 1 stycznia 1994 r. gmina zawiadamia właściwego kuratora oświaty do dnia 30 grudnia 1993 r. ” ; 3) w ust. 6 wyrazy „31 grudnia 1993 r.” zastępuje się wyrazami „31 grudnia 1995 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

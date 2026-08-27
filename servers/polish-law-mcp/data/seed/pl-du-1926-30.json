@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1926-30",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 grudnia 1925 r. w przedmiocie zmiany niektórych, dotyczących państwowego podatku dochodowego i podatku emisyjnego, przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 25 czerwca 1924 r. o bilansowaniu w złotych oraz określeniu w złotych kapitałów własnych przedsiębiorstw, obowiązanych do prowadzenia ksiąg handlowych.",
+  "title_en": "",
+  "short_name": "pl-du-1926-30",
+  "status": "in_force",
+  "issued_date": "1925-12-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/30",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "O ile na dzień bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 25 czerwca 1924 roku (Dz. U. R. P. № 55, poz. 542), został zestawiony markowy podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego w takiej sumie złotych, jaka wypadnie z oszacowania wspomnianych pozostałości nie wyżej ceny nabycia lub kosztu własnego, a gdyby ta cena była wyższa od ceny rynkowej w dacie bilansu otwarcia w złotych, to nie wyżej ceny rynkowej, przyczem wartość walut zagranicznych oraz należności i zobowiązań w tych walutach może być wykazana również bez dopłaty podatku dochodowego, nie wyżej przeciętnego kursu giełdowego z daty bilansu otwarcia w złotych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy (frankowy) podatkowy bilans zamknięcia, który przyjęto za podstawę wymiaru podatku dochodowego za rok podatkowy 1924, to pozostałości rachunków mieszanych (bilansowo-wynikowych) mogą być w bilansie otwarcia w złotych wykazane bez dopłaty podatku dochodowego, w szacunku, przekraczającym ich wartość, przyjętą do zlotowego (frankowego) podatkowego bilansu zamknięcie: a) o różnicę między rzeczywistą wartością pozostałości, posiadanych w dacie podatkowego bilansu otwarcia, obliczoną według cen ich nabycia (kosztu własnego), a ich wartością, przyjętą do podatkowego bilansu otwarcia, albo b) w razie nieustalenia w powyższy sposób różnicy wartości pozostałości, posiadanych w dniu frankowego (podatkowego) bilansu otwarcia, o sumę, nieprzekraczającą 20% wartości pozostałości, wykazanej w złotowym (frankowym) podatkowym bilansie zamknięcia. Tego rodzaju nadwyżki w bilansie otwarcia w złotych, przekraczające granice wyżej zakreślone, podlegają podatkowi dochodowemu za rok podatkowy 1924."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "O ile na dzień, bezpośrednio poprzedzający datę bilansu otwarcia w złotych, sporządzonego na zasadzie powołanego rozporządzenia Prezydenta Rzeczypospolitej, został zestawiony złotowy podatkowy bilans zamknięcia, który przyjęto za podstawą wymiaru podatku dochodowego za rok podatkowy 1925, to wartość pozostałości rachunków mieszanych (bilansowo-wynikowych) winna być wykazana w bilansie otwarcia w złotych w sumie, przyjętej do złotowego podatkowego bilansu zamknięcia. Nadwyżka podlega podatkowi dochodowemu za rok podatkowy 1925."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Z powodu ułożenia pierwszego bilansu otwarcia w złotych nie będą pobrane opłata stemplowa ani podatek giełdowy. Jeżeli o samo walne zgromadzenie spółki, które zatwierdzi pierwszy bilans otwarcia w złotych, uchwali też przelanie funduszów odrębnych lub ich części do kapitału zakładowego, to również od tego powiększenia kapitału zakładowego nie będą pobrane opłata stemplowa ani podatek giełdowy. Postanowienie to zastosowane będzie także i w tych przypadkach, w których zatwierdzenie bilansu otwarcia w złotych nastąpiło przed wejściem niniejszej ustawy w życie, a uchwała w przedmiocie przelania funduszów odrębnych zapadnie w ciągu 6 miesięcy od ogłoszenia niniejszej ustawy. Sumy, pobrane na podstawie § 40 powołanego rozporządzenia Prezydenta Rzeczypospolitej, zostaną płatnikom zaliczone na poczet innych należytości skarbowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W związku z postanowieniami niniejszej ustawy uchyla się przepisy punktów 1, 2 i 3 § 36, § 37 oraz § 40 powołanego rozporządzenia Prezydenta Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

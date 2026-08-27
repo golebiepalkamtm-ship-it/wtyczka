@@ -1,0 +1,134 @@
+{
+  "id": "pl-du-1925-609",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lipca 1925 r. o państwowym funduszu kredytu na meljoracje rolne.",
+  "title_en": "",
+  "short_name": "pl-du-1925-609",
+  "status": "repealed",
+  "issued_date": "1925-07-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/609",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się państwowy fundusz kredytu na melioracje rolne w celu udzielania pożyczek na meljoracje rolne na zasadach, ustalonych w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na państwowy fundusz kredytu na meljoracje rolne składać się będą: a) coroczne bezprocentowe i bezzwrotne dotacje ze Skarbu Państwa (art. 3), b) sumy, powstałe ze zwrotu pożyczek (art. 11), c) odsetki od pożyczek oraz sumy, pobierane tytułem kar za zwłokę w opłacaniu odsetek i spłacaniu pożyczek (art. 12 i 13)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wysokość dotacji ze Skarbu Państwa określać będzie corocznie ustawa skarbowa. Przekazywanie sum z dotacji następować będzie w 2 ratach półrocznych zgóry."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Administrację państwowego funduszu kredytu na meljoracje rolne sprawować będzie Państwowy Bank Rolny na zasadach, które z uwzględnieniem postanowień niniejszej ustawy ustali Minister Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrami Skarbu i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Z państwowego funduszu kredytu na meljoracje rolne udzielane będą pożyczki na: a) drenowanie, b) odwodnianie i nawodnianie gruntów, c) meljoracje torfowisk."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Na cele, wyszczególnione w art. 5, otrzymywać będą pożyczki przedewszystkiem spółki wodne w rozumieniu art. 133 ustawy wodnej z dnia 19 września 1922 r. (Dz. U. R. P. № 102 poz. 936), tudzież gminy i wsie, a także osoby fizyczne i prawne, użytkujące tereny rolne i dające dostateczne gwarancje wypłacalności."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Pożyczki z państwowego funduszu kredytu na meljoracje rolne będą udzielane na podstawie szczegółowego projektu technicznego urządzeń meljoracyjnych i ich kosztorysu, opracowanych zgodnie z postanowieniami przepisów, wydanych w tej mierze przez Ministra Rolnictwa i Dóbr Państwowych; projekt ten i kosztorys winny stwierdzać celowość, racjonalność pod względem technicznym i opłacalność zamierzonych urządzeń. Projekt techniczny urządzeń meljoracyjnych i kosztorys winny być sporządzone przez osoby lub instytucje ukwalifikowane do wykonywania meljoracji rolnych, przedsiębranych z pomocą pożyczek lub zasiłków państwowych. Kwalifikacje, jakim winny odpowiadać wyszczególnione w ustępie drugim osoby i instytucje, określi Minister Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrem Robót Publicznych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "O przyznaniu pożyczki z państwowego funduszu kredytu na meljoracje rolne decyduje Państwowy Bank Rolny."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Pożyczka na meljoracje rolne może być udzielona w wysokości do 100% sumy kosztorysu urządzeń meljoracyjnych (art. 7)."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Pożyczki na meljoracje rolne wypłacane będą w gotówce ratami w miarę postępu robót meljoracyjnych."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Pożyczki z państwowego funduszu kredytu na meljoracje rolne mogą być udzielane na urządzenia meljoracyjne (art. 5) na okres czasu od 6 do 12 lat w zależności od przewidywanego okresu amortyzacji uskutecznionych na te urządzenia nakładów. Pożyczki te ulegają zwrotowi w ratach, których termin i wysokość określi Państwowy Bank Rolny, stosownie do zasad, ustalonych zgodnie z art. 4 niniejszej ustawy, z tem jednak zastrzeżeniem, że termin płatności pierwszej raty nie może być wcześniejszy niż po upływie 3 lat, licząc od dnia otrzymania pierwszej raty pożyczkowej. W wypadkach klęsk żywiołowych i nieurodzaju, któremi zostały dotknięte grunty dłużnika, Państwowy Bank Rolny ma prawo udzielania dłużnikowi ulg co do terminów płatności odsetek ze zwrotu rat pożyczki."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Pożyczki na meljoracje rolne podlegają oprocentowaniu w wysokości do 5% od sta w stosunku rocznym. Państwowy Bank Rolny pobiera nadto od dłużników na swoje dobro dodatek administracyjny w wysokości, określonej przez Ministra Reform Rolnych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Od zaległych sum z tytułu odsetek oraz zwrotu udzielonych pożyczek pobierana będzie kara za zwłokę w wysokości, odpowiadającej stopie dyskontowej Banku Polskiego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Otrzymujący pożyczką z państwowego funduszu na meljoracje rolne ma obowiązek: a) użycia pożyczki wyłącznie na cel, na który została mu udzielona (art. 5); b) przeprowadzenia robót meljoracyjnych zgodnie z projektem technicznym urządzeń meljoracyjnych (art. 7); c) powierzenie kierownictwa robót meljoracyjnych osobom lub instytucjom, wyszczególnionym w art. 7. Nieuczynienie zadość powyższym obowiązkom przez dłużnika uprawnia Państwowy Bank Rolny do powzięcia decyzji o bezzwłocznem wstrzymaniu wypłacenia następnej raty pożyczki oraz ściągnięciu udzielonych rat wraz z przypadającemi odsetkami. Ponadto dłużnik obowiązany jest do utrzymywania w należytym porządku urządzeń meljoracyjnych aż do czasu ostatecznej spłaty pożyczki. Gdyby jednak pod tym względem nastąpiło zaniedbanie przez dłużnika, Państwowy Bank Rolny zawiadamia go pisemnie o spostrzeżonych uchybieniach z jednoczesnem wezwaniem do naprawy uszkodzonych urządzeń meljoracyjnych w ściśle określonym terminie, po upływie którego, w razie niewykonania naprawy, Państwowy Bank Rolny ma prawo żądania natychmiastowego zwrotu całej pożyczki wraz z odsetkami."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zaległe sumy z tytułu odsetek oraz zwrotu udzielonych pożyczek będą ściągane od użytkowników gospodarstw rolnych, niezrzeszonych w spółkach wodnych, trybem przepisanym dla ściągania bezspornych należności skarbowych."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Nadzór i kontrolę nad prawidłowem użyciem pożyczek, udzielonych z państwowego funduszu kredytu na meljoracje rolne, sprawuje oddział meljoracyjny przy województwie. W tym celu upoważnione przez oddział meljoracyjny przy województwie organy mają prawo wstępu w każdym czasie na grunt, podlegający meljoracji, badania postępu robót i żądania potrzebnych wyjaśnień. Te same prawa służą organom i instytucjom, upoważnionym w tym celu przez Ministra Rolnictwa i Dóbr Państwowych."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Ministrowi Rolnictwa i Dóbr Państwowych i upoważnionym przez niego organom służy prawo nadzoru i kontroli działalności osób i instytucyj, upoważnionych do wykonywania meljoracyj rolnych, przedsiębranych z pomocą pożyczek lub zasiłków państwowych (art. 7), w zakresie tych meljoracyj."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Podania o udzielenie pożyczek z państwowego funduszu kredytu na meljoracje rolne oraz akta i dokumenty, dotyczące tych pożyczek, wolne są od wszelkich opłat skarbowych i komunalnych."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrami: Skarbu, Reform Rolnych i Robót Publicznych w zakresie przyznanych im w tej ustawie uprawnień."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiegoo. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_14-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_14-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

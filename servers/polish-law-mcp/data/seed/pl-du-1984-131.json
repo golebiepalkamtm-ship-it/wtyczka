@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1984-131",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 kwietnia 1984 r. o ustanowieniu \"Medalu 40-lecia Polski Ludowej\".",
+  "title_en": "",
+  "short_name": "pl-du-1984-131",
+  "status": "repealed",
+  "issued_date": "1984-04-26",
+  "in_force_date": "1984-05-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1984/131",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się odznaczenie „Medal 40-lecia Polski Ludowej”, zwany dalej „Medalem”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Medal nadawany będzie w okresie od dnia 22 lipca 1984 r. do dnia 22 lipca 1985 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Medal nadaje się za całokształt zasług położonych w długoletniej, wyróżniającej się pracy zawodowej oraz działalności społeczno-politycznej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Medal nadaje Rada Państwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Państwa określi opis, wymiary i wzór rysunkowy odznaki Medalu, szczegółowe zasady jego nadawania, tryb przedstawiania wniosków o nadanie Medalu, a także sposób jego noszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W sprawach nie uregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 17 lutego 1960 r. o orderach i odznaczeniach ( Dz. U. Nr 10, poz. 66 oraz z 1982 r. Nr 7, poz. 61 ) ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

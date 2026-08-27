@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-283",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 kwietnia 1919 r. o organizacji i zakresie działania Ministerstwa Robót Publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1919-283",
+  "status": "in_force",
+  "issued_date": "1919-04-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/283",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do zakresu działania Ministerstwa Robót Publicznych, utworzonego dekretem Naczelnika Państwa z 16 stycznia 1919 r. (Dz. Pr. № 8 poz. 118), należą następujące sprawy: 1) budownictwo wodne, a w szczególności: budowa i utrzymanie dróg wodnych śródziemnych, regulacja rzek spławnych i granicznych, budowa i utrzymanie portów i przystani rzecznych, żegluga śródziemna, regulacja rzek niespławnych, budowa zbiorników wody, kataster sił wodnych, państwowe stacje doświadczalne wodne, zużytkowanie sił wodnych dla uzyskania energji elektrycznej, meljoracje pierwszorzędne, zabudowanie potoków górskich, współdziałanie w meljoracjach rolnych i opinjowanie odnośnych projektów, nadzór nad gospodarką wodną organów samorządnych i osób prywatnych; 2) budowa i utrzymanie publicznych dróg kołowych i mostów, tudzież nadzór nad gospodarką drogową organów samorządnych; 3) budowa, utrzymanie i zarząd wszelkich budynków państwowych z wyjątkiem kolejowych, górniczych i strategicznych, nadzór nad gospodarką budowlaną organów samorządnych i instytucji o charakterze publicznym; 4) osadnictwo ludzkie, a w szczególności regulacja i zabudowanie miast, wsi i zdrojowisk, kanalizacja i wodociągi, polityka budowlana; 5) odbudowa osad, zniszczonych przez wojnę i klęski elementarne; 6) pomiary ogólne kraju i szczegółowe zdjęcia geometryczne dla sporządzenia map katastralnych, poszukiwanie i badanie materjałów budowlanych; 7) popieranie ruchu turystycznego; 8) ogólna administracja i policja techniczna, z wyjątkiem policji kolejowej, górniczej i przemysłowej, wydawanie zezwoleń administracyjno - technicznych, wydawanie przepisów budowlanych w interesie dobra i bezpieczeństwa publicznego, wreszcie przygotowanie projektów ustawodawczych w powyższych sprawach technicznych; 9) współdziałanie z innemi ministerstwami w sprawach technicznych, a mianowicie: a) z Ministerstwem Wyznań Religijnych i Oświecenia Publicznego w organizacji szkolnictwa technicznego i zawodowego, b) z Ministerstwem Przemysłu i Handlu w sprawach patentowych, miar i wag, tudzież elektryfikacji kraju, c) z Ministerstwem Zdrowia w sprawach osiedleńczo - mieszkaniowych i hygienicznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Jako druga instancja w sprawach technicznych, należących do zakresu działania Ministerstwa Robót Publicznych, będą utworzone okręgowe Dyrekcje robót publicznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wewnętrzną organizację Ministerstwa Robót Publicznych, tudzież organizację podległych mu urzędów technicznych przeprowadzi Minister Robót Publicznych w granicach budżetu, oraz na podstawie etatu płac i osób przez Sejm uchwalonego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Dla prowadzenia polityki gospodarczej w dziedzinie robót publicznych utworzona będzie, jako organ doradczy Ministerstwa Robót Publicznych, państwowa Rada techniczna, w skład której wejdą wybitni specjaliści fachowi oraz przedstawiciele wyższych szkół technicznych, instytucji fachowych, stowarzyszeń technicznych, ciał samorządnych, organizacji społecznych i Ministerstw interesowanych. Skład tej Rady uchwali Rada Ministrów na wniosek Ministra Robót Publicznych. Nadto Minister Robót Publicznych może powoływać w miarą potrzeby specjalne komitety fachowe dla zaopinjowania ważniejszych projektów technicznych i ustaw, przedkładanych Sejmowi."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Sprzeczne z tą ustawą dekrety i rozporządzenia tracą moc obowiązującą."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Robót Publicznych i Ministrom interesowanym. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\",\"children\": [{\"id\": \"arti_1-pint_9-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_9-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_9-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

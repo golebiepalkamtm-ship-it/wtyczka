@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2022-727",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o dozorze technicznym oraz ustawy o transporcie kolejowym",
+  "title_en": "",
+  "short_name": "pl-du-2022-727",
+  "status": "in_force",
+  "issued_date": "2022-02-24",
+  "in_force_date": "2022-04-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/727",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 21 grudnia 2000 r. o dozorze technicznym ( Dz. U. z 2021 r. poz. 272 i 2269 ) w art. 44 w ust. 1 w pkt 1 w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) urządzeniami do przewozu osób lub rzeczy poruszającymi się po jednej szynie lub na poduszkach powietrznych lub magnetycznych oraz związanymi z tym przewozem urządzeniami technicznymi, innymi niż używane w transporcie kolejowym i transporcie linowo-terenowym; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 28 marca 2003 r. o transporcie kolejowym ( Dz. U. z 2021 r. poz. 1984 ) w art. 3 w ust. 1 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) transportu wykonywanego z wykorzystaniem urządzeń do przewozu osób lub rzeczy poruszających się po jednej szynie lub na poduszkach powietrznych lub magnetycznych oraz związanych z tym przewozem urządzeń technicznych, innych niż używane w transporcie kolejowym i transporcie linowo-terenowym. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

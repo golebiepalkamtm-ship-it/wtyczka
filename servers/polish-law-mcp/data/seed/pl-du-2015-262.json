@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-262",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lutego 2015 r. o zmianie ustawy - Prawo o aktach stanu cywilnego",
+  "title_en": "",
+  "short_name": "pl-du-2015-262",
+  "status": "in_force",
+  "issued_date": "2015-02-06",
+  "in_force_date": "2015-02-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/262",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 listopada 2014 r. - Prawo o aktach stanu cywilnego ( Dz. U. poz. 1741 i 1888 ) w art. 119 w pkt 2, w załączniku do ustawy w części II w ust. 1 w kol. 4 pkt 2 otrzymuje brzmienie: „ 2) odpisy skrócone wydawane w sprawach dokumentów stwierdzających tożsamość oraz wydawane w sprawach Karty Dużej Rodziny; zwolnienie to przysługuje również cudzoziemcom, którym udzielono zezwolenia na osiedlenie się lub nadano status uchodźcy w Rzeczypospolitej Polskiej, oraz obywatelom tych państw obcych, z którymi Rzeczpospolita Polska zawarła odpowiednie porozumienia ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 marca 2015 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

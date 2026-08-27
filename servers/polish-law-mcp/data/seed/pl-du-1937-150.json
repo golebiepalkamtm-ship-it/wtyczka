@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-150",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1937 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. o Najwyższym Trybunale Administracyjnym.",
+  "title_en": "",
+  "short_name": "pl-du-1937-150",
+  "status": "in_force",
+  "issued_date": "1937-03-24",
+  "in_force_date": "1937-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/150",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. o Najwyższym Trybunale Administracyjnym (Dz. U. R. P. Nr 94, poz. 806) wprowadza się zmiany następujące: 1) w art. 18 ustęp (3) otrzymuje brzmienie: „ (3) Pierwszego Prezesa zastępuje wyznaczony przez niego prezes lub sędzia; w razie przerwy w urzędowaniu Pierwszego Prezesa. zastępcę wyznacza Prezes Rady Ministrów spośród prezesów Trybunału. ” ; 2) artykuł 92 otrzymuje brzmienie; „ Art. 92. (1) Opłata od skargi do Trybunału wynosi: 1) przy wartości przedmiotu sporu do 1.000 zł - 40 zł, 2) przy wartości przedmiotu sporu od 1.000 do 3.000 zł - 60 zł, 3) przy wartości przedmiotu sporu od 3000 do 10.000 zł - 75 zł, 4) przy wartości wyższej niż 10.000 zł - od pierwszych 10.000 zł - 75 zł, a od reszty 0,5%, przy czym rozpoczęty tysiąc liczy się za cały. (2) Od skarg o nieokreślonej wartości przedmiotu sporu opłatę oznacza Trybunał w kwocie od 40 zł do 200 zł. ” ; 3) artykuł 95 otrzymuje brzmienie: „ Art. 95. (1) W razie uwzględnienia skargi w całości albo w razie umorzenia postępowania z powodu cofnięcia przez władzę administracyjną zaskarżonego orzeczenia lub zarządzenia Trybunał zarządza zwrot wniesionej opłaty. (2) Mając na względzie okoliczności sprawy, Trybunał może w razie częściowego uwzględnienia skargi zarządzić zwrot opłaty w całości lub w części, w razie zaś oddalenia skargi - zwrot części opłaty, nie więcej jednakże, niż połowę. ” ; 4) artykuł 101 otrzymuje brzmienie: „ Art. 101. Przyznania prawa ubogich domagać się może osoba fizyczna lub prawna, która wykaże swe zupełne ubóstwo na podstawie zaświadczenia władzy publicznej o jej stanie rodzinnym, majątku i dochodach; od przewodniczącego izby zależy uznanie tego zaświadczenia za dostateczny dowód zupełnego ubóstwa tej osoby. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów wporozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1937 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

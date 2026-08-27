@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2019-81",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 grudnia 2018 r. o zmianie ustawy o Policji",
+  "title_en": "",
+  "short_name": "pl-du-2019-81",
+  "status": "amended",
+  "issued_date": "2018-12-06",
+  "in_force_date": "2019-01-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/81",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 kwietnia 1990 r. o Policji ( Dz. U. z 2017 r. poz. 2067 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15 i 53. ) w art. 96 ust. 4 otrzymuje brzmienie: „ 4. Policjantowi przeniesionemu z urzędu do służby w innej miejscowości, który w poprzednim miejscu pełnienia służby nie zwolnił zajmowanego lokalu mieszkalnego lub domu, o którym mowa w ust. 1, można przydzielić tymczasową kwaterę według przysługujących norm, bez uwzględnienia zamieszkałych z nim członków rodziny. Koszty zakwaterowania pokrywane są ze środków budżetowych Policji. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W sprawach dotyczących kosztów zakwaterowania policjantów przeniesionych z urzędu do służby w innej miejscowości stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2405 oraz z 2018 r. poz. 106, 138, 416, 650, 730, 1039, 1544, 1669, 2077, 2102, 2245 i 2399 oraz z 2019 r. poz. 15 i 53. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

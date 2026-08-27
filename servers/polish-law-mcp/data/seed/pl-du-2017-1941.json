@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2017-1941",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 września 2017 r. o zmianie ustawy - Kodeks wykroczeń",
+  "title_en": "",
+  "short_name": "pl-du-2017-1941",
+  "status": "amended",
+  "issued_date": "2017-09-15",
+  "in_force_date": "2017-10-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1941",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ( Dz. U. z 2015 r. poz. 1094 , 1485 , 1634 i 1707 oraz z 2017 r. poz. 966 ) w art. 66 § 1 otrzymuje brzmienie: „ § 1. Kto: 1) chcąc wywołać niepotrzebną czynność, fałszywą informacją lub w inny sposób wprowadza w błąd instytucję użyteczności publicznej albo organ ochrony bezpieczeństwa, porządku publicznego lub zdrowia, 2) umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego - podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

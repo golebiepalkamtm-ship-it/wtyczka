@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-1552",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej",
+  "title_en": "",
+  "short_name": "pl-du-2010-1552",
+  "status": "amended",
+  "issued_date": "2010-11-25",
+  "in_force_date": "2010-12-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1552",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 września 2006 r. o uruchamianiu środków pochodzących z budżetu Unii Europejskiej przeznaczonych na finansowanie wspólnej polityki rolnej ( Dz. U. Nr 187, poz. 1381 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349, z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 57, poz. 351 i Nr 123, poz. 835. ) w art. 10i: 1) w ust. 1 po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) przywracanie potencjału produkcji rolnej zniszczonego w wyniku wystąpienia klęsk żywiołowych oraz wprowadzenie odpowiednich działań zapobiegawczych; ” ; 2) w ust. 2 pkt 1 otrzymuje brzmienie: „ 1) jeżeli wnioskował o jej wypłatę we wniosku o przyznanie pomocy, o którym mowa w art. 24 ust. 1 ustawy PROW; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 52, poz. 304 i Nr 214, poz. 1349, z 2009 r. Nr 157, poz. 1241 i Nr 219, poz. 1706 oraz z 2010 r. Nr 57, poz. 351 i Nr 123, poz. 835. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

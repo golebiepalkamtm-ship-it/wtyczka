@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2002-975",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 maja 2002 r. o zmianie ustawy o ułatwieniu zatrudnienia absolwentom szkół.",
+  "title_en": "",
+  "short_name": "pl-du-2002-975",
+  "status": "repealed",
+  "issued_date": "2002-05-23",
+  "in_force_date": "2002-07-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/975",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 września 2001 r. o ułatwieniu zatrudnienia absolwentom szkół ( Dz. U. Nr 122, poz. 1325 i Nr 154, poz. 1793 ) wprowadza się następujące zmiany: 1) po art. 4 dodaje się art. 4a w brzmieniu: „ Art. 4a. 1. Absolwent, który podjął działalność gospodarczą, podlega, na swój wniosek, zwolnieniu z obowiązku opłacania składek na ubezpieczenie emerytalne, o którym mowa w ustawie o systemie ubezpieczeń społecznych, przez okres 12 miesięcy od dnia podjęcia tej działalności. 2. Wniosek o zwolnienie z obowiązku opłacania składek na ubezpieczenie emerytalne absolwent składa w Zakładzie Ubezpieczeń Społecznych. 3. Absolwent zwolniony z obowiązku opłacania składek na ubezpieczenie emerytalne może zgłosić w Zakładzie Ubezpieczeń Społecznych rezygnację z tego zwolnienia. Zwolnienie ustaje od dnia wskazanego przez absolwenta. 4. Absolwent w okresie zwolnienia z obowiązku opłacania składek na ubezpieczenie emerytalne jest zwolniony także z obowiązku przystąpienia do otwartego funduszu emerytalnego. 5. Przepisy ust. 1-4 stosuje się także do absolwentów niezamieszkałych w rejonach uznanych za zagrożone szczególnie wysokim bezrobociem strukturalnym. ” ; 2) po art. 5 dodaje się art. 5a w brzmieniu: „ Art. 5a. Przepisy ustawy stosuje się do absolwentów, którzy podjęli zatrudnienie lub działalność gospodarczą do dnia 31 grudnia 2005 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dokumenty określone w art. 47a ust. 1 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ( Dz. U. Nr 137, poz. 887 i Nr 162, poz. 1118 i 1126 , z 1999 r. Nr 26, poz. 228 , Nr 60, poz. 636 , Nr 72, poz. 802 , Nr 78, poz. 875 i Nr 110, poz. 1256 , z 2000 r. Nr 9, poz. 118 , Nr 95, poz. 1041 , Nr 104, poz. 1104 i Nr 119, poz. 1249 , z 2001 r. Nr 8, poz. 64 , Nr 27, poz. 298 , Nr 39, poz. 459 , Nr 72, poz. 748 , Nr 100, poz. 1080 , Nr 110, poz. 1189 , Nr 111, poz. 1194 , Nr 130, poz. 1452 i Nr 154, poz. 1792 oraz z 2002 r. Nr 25, poz. 253 , Nr 41, poz. 365 i Nr 74, poz. 676 ) , zawierające dane dotyczące absolwenta zwolnionego z obowiązku opłacania składek na ubezpieczenie emerytalne, powinny być przekazywane do Zakładu Ubezpieczeń Społecznych w formie dokumentu pisemnego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zwolnienie, o którym mowa w art. 1, nie dotyczy absolwentów, którzy podjęli działalność gospodarczą przed dniem wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

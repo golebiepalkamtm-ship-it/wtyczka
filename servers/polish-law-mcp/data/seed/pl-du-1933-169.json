@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-169",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1933 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 15 kwietnia 1931 r. w sprawie uregulowania roszczeń obywateli polskich do niemieckich zakładów ubezpieczeń z tytułu umów ubezpieczeń na życie, wymienionych w art. 21 polsko-niemieckiego układu waloryzacyjnego z dnia 5 lipca 1928 r.",
+  "title_en": "",
+  "short_name": "pl-du-1933-169",
+  "status": "in_force",
+  "issued_date": "1933-03-18",
+  "in_force_date": "1933-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/169",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 15 kwietnia 1931 r. w sprawie uregulowania roszczeń obywateli polskich do niemieckich zakładów ubezpieczeń z tytułu umów ubezpieczeń na życie, wymienionych w art. 21 pol-sko-niemieckiego układu waloryzacyjnego z dnia 5 lipca 1928 r. (Dz. U. R. P. Nr. 33, poz. 235) wprowadza się zmiany następujące: 1) W art. 4 pkt. 1) ust. 3 po wyrazach „została przerwana” dodaje się wyrazy „przed 1 grudnia 1918 r.” . W pkt. 6) tegoż artykułu wyrazy „kwartalnych i do 95% przy ratach miesięcznych” zastępuje się wyrazami „kwartalnych, do 95% przy ratach miesięcznych i do 90% przy ratach tygodniowych” , wyrazy „opiewa” zastępuje się wyrazami „pierwotnie opiewała” , a ostatnie zdanie tego punktu skreśla się. W pkt. 8) tegoż artykułu po wyrazach „podlegały unieważnieniu” dodaje się wyrazy „przed 1 grudnia 1918 r.” . W pkt. 9) tegoż artykułu dodaje się na końcu tabeli kursów, jako ostatni wiersz: „1922 - 1924 według kursów, podanych w pkt. 11)”. Do tegoż artykułu dodaje się pkt. 11) o brzmieniu następującemu „ 11) Należność z umów, zawartych po roku 1921, oblicza się według zasad, podanych w punktach poprzednich, z tą różnicą, że do sumy ubezpieczenia lub renty, bez względu na rok zawarcia umowy, oraz do składek, bez względu na daty ich wpłacenia, stosuje się przy przerachowaniu następujące kursy: 1.000. 000 marek polskich - 0,56 zł 10. 000 koron - 0,73 zł 1.000.000. 000 marek niemieckich - 0,00123 zł ” . 2) W art. 7, ust. 3 wyrazy „W przypadkach uznania przez komisarza roszczenia za wygasłe” zastępuje się wyrazami „W przypadkach oddalenia roszczenia przez komisarza lub uznania go za wygasłe” . W ust. 4 tegoż artykułu po wyrazach „wytoczonego z powodu” wstawia się wyrazy „oddalenia lub”. 3) W art. 9 dodaje się na końcu artykułu zdanie: „Sumy, nie podjęte z depozytu sądowego w ciągu lat 10, przechodzą na własność Skarbu Państwa”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu i Ministrowi Sprawiedliwości, każdemu z nich we właściwym mu zakresie działania."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,470 @@
+{
+  "id": "pl-du-1984-242",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 września 1984 r. o ubezpieczeniach majątkowych i osobowych.",
+  "title_en": "",
+  "short_name": "pl-du-1984-242",
+  "status": "repealed",
+  "issued_date": "1984-09-20",
+  "in_force_date": "1984-10-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1984/242",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady ubezpieczenia majątkowego i osobowego oraz zasady tworzenia, organizacji i działania zakładów ubezpieczeń."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W ubezpieczeniu majątkowym zakład ubezpieczeń udziela ochrony osobom fizycznym, prawnym oraz innym jednostkom organizacyjnym nie posiadającym osobowości prawnej przed skutkami zdarzeń losowych w ubezpieczonym mieniu oraz z tytułu odpowiedzialności cywilnej. 2. W ubezpieczeniu osobowym zakład ubezpieczeń udziela ochrony osobom fizycznym w razie zajścia określonych zdarzeń losowych dotyczących życia, zdrowia lub zdolności do pracy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Ubezpieczenie powstaje z mocy ustawy (ubezpieczenie ustawowe) lub na podstawie umowy (ubezpieczenie umowne). 2. Rada Ministrów, w drodze rozporządzenia, może nałożyć na jednostki gospodarki uspołecznionej obowiązek zawierania umów ubezpieczenia w określonych rodzajach ubezpieczeń, w szczególności umów, w których składka lub odszkodowanie albo świadczenie są ustalane w walutach obcych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ubezpieczenia są realizowane ze scentralizowanych środków tworzonych ze składek ubezpieczeniowych, a przeznaczonych na: 1) wypłatę odszkodowań i świadczeń, 2) pokrywanie kosztów działalności prewencyjnej, 3) pokrywanie kosztów działalności ubezpieczeniowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Odszkodowanie z tytułu ubezpieczenia nie może być wyższe od poniesionej szkody, chyba że ustawa lub umowa stanowią inaczej. Rozdział 2 Ubezpieczenia ustawowe"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Z mocy ustawy ubezpieczeniu podlegają: 1) budynki - od ognia, huraganu, powodzi i innych zdarzeń losowych, 2) mienie ruchome związane z prowadzeniem gospodarstwa rolnego, jak również mienie ruchome posiadaczy budynków na działkach o powierzchni do 0,5 ha - od ognia, huraganu, powodzi i innych zdarzeń losowych, 3) uprawy zbóż oraz roślin okopowych i pastewnych - od gradobicia, ognia, powodzi i zalania wskutek nadmiernych opadów atmosferycznych, 4) konie i bydło w wieku przydatności produkcyjnej oraz trzoda chlewna, z wyjątkiem prosiąt - od padnięcia i uboju z konieczności, 5) odpowiedzialność cywilna rolników za szkody powstałe w związku z prowadzeniem indywidualnego gospodarstwa rolnego oraz za szkody wyrządzone w życiu prywatnym, 6) odpowiedzialność cywilna posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów, 7) następstwa nieszczęśliwych wypadków powstałe u osób fizycznych w związku z ruchem pojazdów mechanicznych, 8) pojazdy mechaniczne - od uszkodzenia, zniszczenia i utraty (autocasco), chyba że pojazd zostanie wyłączony z ubezpieczenia w trybie określonym w rozporządzeniu Rady Ministrów, o którym mowa w art. 7, 9) środki trwałe przedsiębiorstw państwowych - od ognia, huraganu, powodzi i innych zdarzeń losowych. 2. Wojewódzkie rady narodowe mogą rozszerzyć ustawowe ubezpieczenia na konie i bydło inne niż określone w ust. 1 pkt 4 oraz na prosięta, jak również rozszerzyć zakres zdarzeń objętych ubezpieczeniem, w szczególności na koszty leczenia. Wprowadzenie w życie tych ubezpieczeń powinno przypadać na początek roku kalendarzowego, a ich ogłoszenie - na 3 miesiące przed upływem roku poprzedzającego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa w sposób szczegółowy grupy osób, rodzaje mienia, zakres zdarzeń losowych objętych ubezpieczeniem, postępowanie w razie wypadku, zasady ustalania szkód i wysokości odszkodowań oraz sposób ich wypłaty, jak również zakres obowiązków wynikających ze stosunku ubezpieczenia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Finansów, w drodze rozporządzenia, ustala taryfy składek za ubezpieczenia ustawowe oraz zasady ich opłacania."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Do składek za ubezpieczenia ustawowe stosuje się odpowiednio przepisy o zobowiązaniach podatkowych. 2. Zakład ubezpieczeń z należnego odszkodowania lub świadczenia może potrącić nie uiszczoną składkę wraz z odsetkami za zwłokę."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "W sprawach nie uregulowanych ustawą do ubezpieczeń ustawowych stosuje się odpowiednio przepisy Kodeksu cywilnego . Rozdział 3 Ubezpieczenia umowne"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Umowne ubezpieczenia majątkowe i osobowe są prowadzone na warunkach ustalonych w umowie z ubezpieczającym, zawartej na podstawie przepisów Kodeksu cywilnego , z uwzględnieniem zasad określonych w ogólnych warunkach ubezpieczenia i taryfie składek, a w odniesieniu do ubezpieczeń morskich - na podstawie przepisów Kodeksu morskiego ."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. W ogólnych warunkach ubezpieczenia określa się w szczególności przedmiot i zakres ubezpieczenia, sposób zawierania umów ubezpieczenia, zakres i czas trwania odpowiedzialności zakładu ubezpieczeń, prawa i obowiązki stron, sposób ustalania szkód oraz wypłaty odszkodowań lub świadczeń. 2. Ogólne warunki nie mogą być sprzeczne z bezwzględnie obowiązującymi przepisami prawa, z zastrzeżeniem art. 807 § 1 Kodeksu cywilnego . 3. Ogólne warunki i taryfy składek ubezpieczeń umownych ustala zakład ubezpieczeń. Ogólne warunki i taryfy składek ubezpieczeń umownych prowadzonych przez państwowe zakłady ubezpieczeń, po zatwierdzeniu przez radę ubezpieczeniową, podlegają opublikowaniu w Dzienniku Urzędowym Polskiej Rzeczypospolitej Ludowej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "W umowie ubezpieczenia mogą być wprowadzone postanowienia dodatkowe lub odmienne od ustalonych w ogólnych warunkach ubezpieczenia, z tym że przepis art. 12 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W ubezpieczeniach, w których składka, odszkodowanie lub świadczenie są ustalane w walutach obcych, mogą być stosowane warunki przyjęte w międzynarodowych stosunkach ubezpieczeniowych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zakład ubezpieczeń nie może udzielać informacji w sprawie ubezpieczenia umownego osoby fizycznej osobom innym niż ubezpieczający lub osoba trzecia, na której rzecz została zawarta umowa ubezpieczenia; nie dotyczy to informacji udzielanych na żądanie sądu lub prokuratora. Rozdział 4 Tworzenie, organizacja i działalność zakładów ubezpieczeń"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Zakłady ubezpieczeń prowadzą działalność ubezpieczeniową, prewencyjną oraz reasekuracyjną."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Zakład ubezpieczeń działa na podstawie ustawy i statutu. 2. Zakład ubezpieczeń uzyskuje osobowość prawną z chwilą wpisania do właściwego rejestru. 3. Państwowe zakłady ubezpieczeń podlegają wpisowi do rejestru przedsiębiorstw państwowych; w tym zakresie do państwowych zakładów ubezpieczeń stosuje się odpowiednio przepisy ustawy o przedsiębiorstwach państwowych."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Nadzór nad działalnością zakładów ubezpieczeń sprawuje Minister Finansów."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Państwowy zakład ubezpieczeń tworzy i likwiduje Minister Finansów. 2. Akt o utworzeniu państwowego zakładu ubezpieczeń określa jego nazwę, siedzibę oraz zakres działania. 3. Kierownika państwowego zakładu ubezpieczeń powołuje i odwołuje Minister Finansów. 4. Organizację i szczegółowy zakres działania państwowego zakładu ubezpieczeń określa statut zatwierdzony przez Ministra Finansów na wniosek kierownika zakładu. 5. Rada Ministrów, w drodze rozporządzenia, może określać warunki i tryb łączenia, podziału i likwidacji państwowych zakładów ubezpieczeń."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Zakład ubezpieczeń może być utworzony także w formie spółdzielni w trybie i na zasadach określonych w prawie spółdzielczym (spółdzielczy zakład ubezpieczeń). 2. Utworzenie spółdzielczego zakładu ubezpieczeń wymaga zgody Ministra Finansów."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Minister Finansów może również wyrazić zgodę na utworzenie zakładu ubezpieczeń w formie spółki z udziałem Skarbu Państwa. Udział Skarbu Państwa w kapitale zakładu powinien wynosić co najmniej 51%. 2. Utworzenie i likwidacja zakładu następuje na zasadach i w trybie określonych w przepisach Kodeksu handlowego dotyczących spółek."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Minister Finansów, wyrażając zgodę na utworzenie niepaństwowego zakładu ubezpieczeń, określa jego nazwę, siedzibę oraz terytorialny i rzeczowy zakres działania. 2. Zgody Ministra Finansów wymagają także zmiany nazwy, siedziby oraz terytorialnego i rzeczowego zakresu działania zakładu. 3. Zgoda na utworzenie niepaństwowego zakładu ubezpieczeń może być cofnięta w razie naruszenia przez zakład jej warunków. Cofając zgodę Minister Finansów określi termin zaprzestania przez zakład działalności ubezpieczeniowej, nie krótszy niż 6 miesięcy."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Działalność w zakresie ubezpieczeń ustawowych prowadzą państwowe zakłady ubezpieczeń. 2. Rada Ministrów, w drodze rozporządzenia, może upoważnić do prowadzenia ubezpieczeń ustawowych również inne niż określone w ust. 1 zakłady ubezpieczeń."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Ubezpieczenie w zagranicznym zakładzie ubezpieczeń mienia osoby krajowej, znajdującego się na obszarze Polskiej Rzeczypospolitej Ludowej, wymaga zezwolenia Ministra Finansów. 2. Mienie jednostek gospodarki uspołecznionej znajdujące się za granicą podlega ubezpieczeniu w polskim zakładzie ubezpieczeń, chyba że przepisy danego państwa wymagają ubezpieczenia mienia w zagranicznym zakładzie ubezpieczeń."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Zakłady ubezpieczeń mogą wzajemnie odstępować i przyjmować udziały w ubezpieczeniach (reasekuracja). 2. Odstępowanie udziałów zagranicznym zakładom ubezpieczeń i przyjmowanie udziałów od tych zakładów wymaga zezwolenia Ministra Finansów."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Działalność prewencyjna zakładów ubezpieczeń ma na celu zapobieganie powstawaniu szkód i ograniczenie ich rozmiarów, w szczególności przez: 1) ustalanie zasad ubezpieczenia sprzyjających dbałości o ubezpieczone mienie, zdrowie i życie, 2) podejmowanie przedsięwzięć popularyzacyjno-informacyjnych i gospodarczo-inwestycyjnych przyczyniających się do zwiększenia bezpieczeństwa osób lub mienia, jak również udział w finansowaniu tych przedsięwzięć. 2. Działalność prewencyjną wykonują zakłady ubezpieczeń samodzielnie lub za pośrednictwem zainteresowanych jednostek organizacyjnych."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Zakłady ubezpieczeń przy realizacji zadań współdziałają z organami administracji państwowej, jednostkami gospodarki uspołecznionej oraz organizacjami społecznymi, politycznymi i zawodowymi. 2. Rada Ministrów, w drodze rozporządzenia, określa zasady współdziałania państwowych jednostek organizacyjnych z zakładami ubezpieczeń."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Interesy ubezpieczonych reprezentuje w państwowych zakładach ubezpieczeń rada ubezpieczeniowa. 2. Do zadań rady ubezpieczeniowej należy w szczególności ustalanie kierunków działalności ubezpieczeniowej i prewencyjnej oraz zatwierdzanie planów tej działalności, opiniowanie projektów aktów normatywnych w zakresie ubezpieczeń ustawowych, zatwierdzanie taryf oraz ogólnych warunków poszczególnych rodzajów ubezpieczeń umownych, opiniowanie bilansów zakładu, zatwierdzanie rocznych sprawozdań zakładu ubezpieczeń oraz ocena jego działalności. 3. W skład rady ubezpieczeniowej wchodzą przedstawiciele osób objętych ochroną ubezpieczeniową i przedstawiciele zainteresowanych instytucji państwowych, przedstawiciele nauki, organizacji spółdzielczych, społecznych, politycznych i zawodowych, przedstawiciel Ministra Finansów oraz przedstawiciel organizacji związkowej działającej w zakładzie ubezpieczeń. 4. Rada ubezpieczeniowa wybiera spośród swego grona przewodniczącego. 5. Kadencja rady ubezpieczeniowej trwa 4 lata. 6. Zasady tworzenia rady ubezpieczeniowej, sposób wyboru jej członków oraz szczegółowy zakres uprawnień rady ubezpieczeniowej określa statut zakładu ubezpieczeń."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Jeżeli uchwała rady ubezpieczeniowej narusza przepisy prawa bądź ważny interes gospodarki narodowej, Minister Finansów z urzędu lub na wniosek kierownika zakładu ubezpieczeń zawiesza jej wykonanie. 2. Minister Finansów w trybie określonym w ust. 1 może również zawiesić uchwałę rady ubezpieczeniowej, jeżeli narusza ona równowagę finansową w danej grupie ubezpieczeń. 3. Za odrębne grupy ubezpieczeń, o których mowa w ust. 2, uważa się: 1) w odniesieniu do jednostek gospodarki uspołecznionej - ubezpieczenia środków trwałych przedsiębiorstw państwowych, pojazdów mechanicznych, mienia w transporcie oraz pozostałe ubezpieczenia, 2) w odniesieniu do jednostek gospodarki nie uspołecznionej i ludności - ubezpieczenia mienia w gospodarstwach rolnych, na życie i rentowe, pojazdów mechanicznych, wypadkowe oraz pozostałe ubezpieczenia. 4. W razie zawieszenia uchwały Minister Finansów terminie 30 dni uchyla uchwałę i rozstrzyga ostatecznie w sprawie albo cofa zawieszenie. Rozdział 5 Gospodarka finansowa państwowych zakładów ubezpieczeń"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Zakład ubezpieczeń prowadzi samodzielnie gospodarkę finansową zgodnie z zasadą samofinansowania. 2. Zakład ubezpieczeń prowadzi rachunkowość oraz sporządza na jej podstawie bilans. 3. Bilans zakładu ubezpieczeń, po zaopiniowaniu przez radę ubezpieczeniową, zatwierdza Minister Finansów."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Skarb Państwa nie odpowiada za zobowiązania zakładu ubezpieczeń. 2. Zakład ubezpieczeń nie odpowiada za zobowiązania Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Składka ubezpieczeniowa powinna być ustalona w wysokości zapewniającej środki finansowe na: 1) wypłatę odszkodowań i świadczeń, 2) tworzenie rezerw techniczno-ubezpieczeniowych i funduszów rezerwowych, 3) tworzenie funduszu prewencyjnego, 4) pokrycie kosztów działalności ubezpieczeniowej, wydatków na rozwój zakładu ubezpieczeń oraz na inne potrzeby. 2. Szczegółowy rachunek kalkulacyjny składek zawiera plan techniczny danego rodzaju ubezpieczenia, przy czym część składki przeznaczona na wypłaty odszkodowań i świadczeń powinna odpowiadać wielkości ryzyka ponoszonego przez zakład ubezpieczeń i nie może być przeznaczona na inne cele."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Zakład ubezpieczeń tworzy rezerwy finansowe i fundusze zapewniające jego wypłacalność."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Zakład ubezpieczeń tworzy: 1) fundusz statutowy, 2) rezerwy techniczno-ubezpieczeniowe, 3) fundusz rezerwowy, 4) fundusz prewencyjny, 5) fundusz rozwoju, 6) fundusz premiowy, 7) fundusze zakładowe: a) socjalny, b) mieszkaniowy, c) nagród."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Fundusz statutowy odzwierciedla wartość środków trwałych i obrotowych zakładu ubezpieczeń."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Rezerwy techniczno-ubezpieczeniowe są przeznaczone na pokrycie przyszłych zobowiązań wynikających z działalności ubezpieczeniowej. 2. Na rezerwy techniczno-ubezpieczeniowe składają się: 1) rezerwy techniczno-ubezpieczeniowe ubezpieczeń na życie i rentowych, tworzone w drodze odpisów z wpływów bieżących składek z tych ubezpieczeń według zasad kalkulacyjnych oraz z oprocentowania lokat tych rezerw, 2) rezerwy techniczno-ubezpieczeniowe przewidziane w technicznych planach innych ubezpieczeń."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Fundusz rezerwowy jest przeznaczony na pokrycie strat bilansowych. 2. Fundusz rezerwowy tworzy się z nadwyżek bilansowych w wysokości ustalonej w planach technicznych ubezpieczeń oraz z oprocentowania lokat tego funduszu. 3. Fundusz rezerwowy tworzy się do wysokości przeciętnej rocznej kwoty należnych składek ubezpieczeniowych z okresu ostatnich trzech lat, z uwzględnieniem podziału na: 1) część pochodzącą z ubezpieczeń jednostek gospodarki uspołecznionej, 2) część pochodzącą z ubezpieczeń jednostek gospodarki nie uspołecznionej i ludności, z podziałem na podstawowe grupy ubezpieczeń."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Fundusz rezerwowy i rezerwy techniczno-ubezpieczeniowe lokuje się na rachunkach bankowych i w papierach wartościowych emitowanych przez Państwo. 2. Lokaty rezerw techniczno-ubezpieczeniowych ubezpieczeń osobowych mogą być dokonywane również w pożyczkach pod zastaw własnych polis w ubezpieczeniach na życie, na warunkach określonych w umowie ubezpieczenia."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Fundusz prewencyjny jest przeznaczony na finansowanie działalności zapobiegawczej. 2. Fundusz prewencyjny tworzy się z odpisów od składek oraz w przypadkach określonych w art. 43 ust. 2 - także z nadwyżki bilansowej. 3. Odpisy od składek wynoszą: 1) do 6% od składek zainkasowanych za ubezpieczenia ustawowe, 2) do 3% od składek zainkasowanych za ubezpieczenia umowne. 4. Rodzaje ubezpieczeń, w których dokonuje się odpisów od składek na fundusz prewencyjny, oraz wysokość tych odpisów w granicach określonych w ust. 3 zatwierdza rada ubezpieczeniowa."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Do funduszu statutowego i funduszu rozwoju stosuje się odpowiednio przepisy dotyczące gospodarki finansowej przedsiębiorstw państwowych. 2. Zasady tworzenia i wykorzystywania zakładowych funduszów: socjalnego, mieszkaniowego i nagród określają odrębne przepisy. 3. Zasady wykorzystania funduszów wymienionych w art. 34 pkt 6 i 7 ustala kierownik zakładu ubezpieczeń w porozumieniu ze związkiem zawodowym."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Fundusz premiowy tworzy się z części nadwyżki bilansowej powstałej w wyniku obniżki kosztów i wydatków, z przeznaczeniem na premie regulaminowe dla pracowników, do wysokości 10% funduszu na wynagrodzenia."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "W rocznej nadwyżce bilansowej wyodrębnia się: 1) część nadwyżki stanowiącą dodatnią różnicę pomiędzy faktyczną wielkością składek i innych przychodów przeznaczonych na odszkodowania i świadczenia a faktyczną wielkością odszkodowań i świadczeń oraz dodatnią różnicę pomiędzy odpisem na fundusz prewencyjny przyjętym w planach technicznych ubezpieczeń a faktycznie osiągniętym, 2) część nadwyżki stanowiącą różnice pomiędzy przychodami przeznaczonymi na sfinansowanie kosztów działalności i innych potrzeb a faktyczną ich wielkością."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Część nadwyżki bilansowej, o której mowa w art. 42 pkt 1, przeznacza się na: 1) fundusz statutowy w części dotyczącej środków obrotowych - do 5% tej nadwyżki, 2) fundusz rezerwowy, 3) fundusz prewencyjny. 2. Po osiągnięciu przez fundusz rezerwowy wysokości górnej granicy określonej w planach technicznych poszczególnych ubezpieczeń nadwyżkę przeznacza się na fundusz prewencyjny. 3. W razie utrzymywania się przez okres 3 lat funduszu rezerwowego w górnej granicy określonej w planach technicznych ubezpieczeń, następuje obniżenie składki lub rozszerzenie zakresu ochrony ubezpieczeniowej."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Część nadwyżki bilansowej, o której mowa w art. 42 pkt 2, przeznacza się na: 1) fundusz rozwoju - do 30% nadwyżki, 2) fundusz premiowy - do 60% nadwyżki, 3) wpłatę do budżetu."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Podziału nadwyżki dokonuje rada ubezpieczeniowa na wniosek kierownika zakładu ubezpieczeń, w terminie do dnia 31 maja roku następnego po roku sprawozdawczym."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Zakłady ubezpieczeń ustalają wielkość i formy zatrudnienia oraz rodzaje środków na wynagrodzenia w ramach posiadanych funduszów, zgodnie z zasadami wynagradzania ustalonymi dla banków i instytucji finansowych. 2. Wielkość funduszu na wynagrodzenia jest ustalana w relacji do rozwoju usług ubezpieczeniowych na zasadach określonych przez Ministra Finansów na wniosek kierownika zakładu ubezpieczeń; ustaleń tych Minister Finansów dokonuje w uzgodnieniu z Przewodniczącym Komisji Planowania przy Radzie Ministrów oraz Ministrem Pracy, Płac i Spraw Socjalnych."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Za prawidłowe ustalanie stanu i wyniku finansowego zakładu ubezpieczeń oraz przestrzeganie zasad gospodarki finansowej odpowiada kierownik zakładu ubezpieczeń oraz główny księgowy."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Do praw i obowiązków głównego księgowego zakładu ubezpieczeń stosuje się odpowiednio przepisy w sprawie głównych księgowych przedsiębiorstw i innych państwowych jednostek organizacyjnych."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. W zakresie nie unormowanym ustawą do gospodarki finansowej państwowych zakładów ubezpieczeń stosuje się odpowiednio przepisy o gospodarce finansowej przedsiębiorstw państwowych. 2. Zasady opodatkowania państwowych zakładów ubezpieczeń regulują przepisy dotyczące opodatkowania jednostek gospodarki uspołecznionej. Rozdział 6 Gospodarka finansowa niepaństwowych zakładów ubezpieczeń"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Spółdzielczy zakład ubezpieczeń prowadzi samodzielnie gospodarkę finansową na zasadach określonych w prawie spółdzielczym i statucie zakładu."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Zakład ubezpieczeń w formie spółki prowadzi samodzielnie gospodarkę finansową na zasadach określonych w Kodeksie handlowym i statucie."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Zasady opodatkowania zakładów ubezpieczeń, o których mowa w art. 50 i 51, regulują przepisy dotyczące opodatkowania jednostek gospodarki uspołecznionej. Rozdział 7 Ogólne zasady postępowania w sprawach roszczeń z tytułu ubezpieczenia"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. W razie zgłoszenia przez osobę uprawnioną roszczenia o świadczenie (odszkodowanie) lub zdarzenia objętego ubezpieczeniem, zakład ubezpieczeń podejmuje czynności mające na celu ustalenie odszkodowania lub świadczenia. 2. W razie wystąpienia szkód masowych zakład ubezpieczeń z własnej inicjatywy podejmuje czynności mające na celu ustalenie odszkodowania lub świadczenia."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Jeżeli osoba uprawniona nie zgadza się z ustaleniami jednostki organizacyjnej zakładu ubezpieczeń co do odmowy zaspokojenia roszczenia albo co do wysokości odszkodowania lub świadczenia, może w terminie 30 dni od dnia otrzymania zawiadomienia w tej sprawie zgłosić na piśmie żądanie ponownego rozpatrzenia sprawy przez bezpośrednio nadrzędną jednostkę organizacyjną zakładu. 2. Zakład ubezpieczeń jest obowiązany poinformować w zawiadomieniu osobę uprawnioną o terminie wymienionym w ust. 1 oraz wskazać jednostkę organizacyjną, do której może być wniesione żądanie ponownego rozpatrzenia sprawy. W razie niedopełnienia tego obowiązku termin przewidziany w ust. 1 nie biegnie. 3. Nadrzędna jednostka organizacyjna jest obowiązana rozpatrzyć sprawę i zawiadomić o wyniku osobę uprawnioną w terminie 30 dni od dnia otrzymania wniosku."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. Osoba uprawniona może również dochodzić roszczenia na drodze sądowej bez zachowania trybu, o którym mowa w art. 54, jednak nie wcześniej niż po upływie 30 dni od dnia zgłoszenia roszczenia do zakładu ubezpieczeń. 2. Jeżeli osobą uprawniona jest jednostka gospodarki uspołecznionej podlegająca państwowemu arbitrażowi gospodarczemu, może ona dochodzić roszczenia w drodze postępowania arbitrażowego nie wcześniej niż po rozpatrzeniu roszczenia przez nadrzędną jednostkę organizacyjną zakładu ubezpieczeń, chyba że nie został przez nią zachowany termin określony w art. 54 ust. 3."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Przepisów art. 53 ust. 2, art. 54 i 55 nie stosuje się do dochodzenia roszczeń osób uprawnionych, mających siedzibę lub miejsce zamieszkania za granicą. Osoby te mogą dochodzić swych roszczeń na zasadach wynikających z warunków lub umów ubezpieczenia albo ze zwyczajów przyjętych w ubezpieczeniach międzynarodowych."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Uprawniony do odszkodowania w związku z wypadkiem objętym ubezpieczeniem odpowiedzialności cywilnej może dochodzić roszczenia bezpośrednio od zakładu ubezpieczeń. 2. Przepisu ust. 1 nie stosuje się do odszkodowań przysługujących osobom wymienionym w art. 56 w związku z wypadkiem objętym umownym ubezpieczeniem odpowiedzialności cywilnej, prowadzonym przez zakład ubezpieczeń, o którym mowa w art. 64 ust. 1 pkt 2."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Osoby objęte ubezpieczeniem są obowiązane stosować się do przepisów przeciwpożarowych, ruchu drogowego, bezpieczeństwa i higieny pracy i innych przepisów mających na celu zapobieganie powstawaniu szkód."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Zakład ubezpieczeń może odmówić odszkodowania lub świadczenia osobie objętej ubezpieczeniem, jeżeli niewykonanie obowiązku wynikającego ze stosunku ubezpieczenia, jak również obowiązku, o którym mowa w art. 58, nastąpiło z winy umyślnej i było wyłączną przyczyną powstania szkody. Zakład może zmniejszyć odszkodowanie lub świadczenie, jeżeli niewykonanie obowiązku przyczyniło się do powstania szkody i miało wpływ na jej rozmiar."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Jednostki organizacyjne zakładu ubezpieczeń właściwe do załatwiania sprawy odszkodowania lub świadczenia działają samodzielnie w postępowaniu sądowym i arbitrażowym."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Zakład ubezpieczeń jest obowiązany umożliwić osobie uprawnionej i jej pełnomocnikowi wgląd w siedzibie zakładu ubezpieczeń do akt sprawy i sporządzenie odpisów z dokumentów."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Koszty związane z przeprowadzeniem przez zakład ubezpieczeń lub za jego zgodą przez osobę uprawnioną czynności mających na celu ustalenie odszkodowania lub świadczenia ponosi zakład ubezpieczeń."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Sądy, organy prokuratury i administracji państwowej, jak również organy i jednostki organizacyjne podległe Ministrowi Spraw Wewnętrznych oraz jednostki Wojskowej Służby Wewnętrznej, inne instytucje i jednostki, które ustalają okoliczności wypadku lub zbierają i zabezpieczają dowody - są obowiązane na wniosek zakładu ubezpieczeń udzielić informacji i udostępnić materiały niezbędne do ustalenia okoliczności wypadku i rozmiaru świadczeń zakładu ubezpieczeń. Organ lub jednostka prowadząca postępowanie przygotowawcze może jednak odmówić udostępnienia materiałów i informacji ze względu na interes śledztwa lub dochodzenia, z tym że po jego zakończeniu jest obowiązana udzielić odpowiedzi. Rozdział 8 Przepisy szczególne dotyczące Państwowego Zakładu Ubezpieczeń i Towarzystwa Ubezpieczeń i Reasekuracji „Warta” Spółka Akcyjna"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. W dniu wejścia w życie ustawy działalność ubezpieczeniową prowadzą: 1) Państwowy Zakład Ubezpieczeń, zwany dalej „PZU”, 2) Towarzystwo Ubezpieczeń i Reasekuracji „WARTA” Spółka Akcyjna, zwane dalej TUiR „WARTA”. 2. PZU prowadzi działalność ubezpieczeniową na obszarze Polskiej Rzeczypospolitej Ludowej, a TUiR „WARTA” - także za granicą. 3. TUiR „WARTA” prowadzi reasekurację w zakresie przyjmowania udziału w ubezpieczeniach zagranicznych oraz reasekurację w zakresie odstępowania ubezpieczeń za granicę. 4. Przepisy ustawy dotyczące państwowych zakładów ubezpieczeń oraz zakładów ubezpieczeń w formie spółki, w sprawach nie uregulowanych w niniejszym rozdziale, stosuje się do PZU oraz TUiR „WARTA”."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "1. PZU jest samodzielną i samofinansującą się jednostką gospodarczą, posiadającą osobowość prawną. 2. PZU nie podlega wpisowi do rejestru przedsiębiorstw państwowych. 3. Działalnością PZU kieruje Prezes. 4. Prezesa PZU powołuje i odwołuje Prezes Rady Ministrów na wniosek Ministra Finansów. 5. Wiceprezesów PZU powołuje i odwołuje Minister Finansów na wniosek Prezesa PZU."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Do zadań Rady Ubezpieczeniowej działającej w PZU należy w szczególności: 1) ustalanie kierunków działalności ubezpieczeniowej PZU, 2) zatwierdzanie planów technicznych, ogólnych warunków i taryf składek ubezpieczeń umownych, 3) zatwierdzanie planów i sprawozdań z działalności ubezpieczeniowej i prewencyjnej, regulaminów i kierunków działalności prewencyjnej, 4) opiniowanie bilansów PZU, 5) opiniowanie projektów aktów normatywnych, projektu statutu PZU oraz projektów planów technicznych i projektów taryf składek w ubezpieczeniach ustawowych, 6) opiniowanie warunków reasekuracji, 7) ocena działalności PZU, zwłaszcza w zakresie wykorzystania funduszów na świadczenie usług ubezpieczeniowych oraz zgodności tej działalności z ustalonymi kierunkami, 8) ocena załatwiania przez PZU skarg i wniosków, 9) opiniowanie kandydatów na stanowisko Prezesa PZU oraz wyrażanie opinii w sprawie odwołania Prezesa PZU, 10) opiniowanie innych spraw przekazanych Radzie Ubezpieczeniowej przez Ministra Finansów lub Prezesa PZU."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Rada Ubezpieczeniowa PZU składa się z 60 do 70 członków, wybranych po jednym przedstawicielu przez poszczególne wojewódzkie rady narodowe oraz wyznaczonych przez instytucje państwowe, organizacje spółdzielcze, społeczne i zawodowe. Z wnioskiem do poszczególnych organów, instytucji i organizacji o wybranie lub wyznaczenie przedstawiciela do Rady Ubezpieczeniowej występuje Minister Finansów. W skład Rady wchodzą również przedstawiciel Ministra Finansów oraz przedstawiciel organizacji związkowej działającej w PZU."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Organizację i szczegółowy zakres działania PZU oraz zasady działania Rady Ubezpieczeniowej określa statut nadany przez Radę Ministrów na wniosek Ministra Finansów."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1. TUiR „WARTA” prowadzi działalność na podstawie statutu uchwalonego przez Walne Zgromadzenie Akcjonariuszy i zatwierdzonego przez Ministra Finansów. 2. W zakresie nie uregulowanym w niniejszej ustawie do TUiR „WARTA” stosuje się przepisy Kodeksu handlowego dotyczące spółek. 3. Udział Skarbu Państwa w kapitale akcyjnym TUiR „WARTA” powinien wynosić co najmniej 51%."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. W razie stwierdzenia, że działalność TUiR „WARTA” narusza prawo lub statut, Minister Finansów może zawiesić w czynnościach Zarząd TUiR „WARTA”, przy jednoczesnym zwołaniu z urzędu Walnego Zgromadzenia Akcjonariuszy, oraz może ustanowić tymczasowy Zarząd do czasu przeprowadzenia nowych wyborów władz przez Walne Zgromadzenie Akcjonariuszy. 2. Przepis ust. 1 stosuje się odpowiednio do innych zakładów ubezpieczeń prowadzonych w formie spółki. Rozdział 9 Zmiany w obowiązujących przepisach"
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "W Kodeksie cywilnym wprowadza się następujące zmiany: 1) art. 808 otrzymuje brzmienie: „ Art. 808. § 1. Umowę ubezpieczenia można zawrzeć także na rzecz osoby trzeciej. Osoba trzecia może nie być w umowie wymieniona. Ubezpieczający może w czasie trwania umowy wskazywać osoby, na których rzecz została zawarta umowa. § 2. Obowiązki wynikające z umowy na rzecz osoby trzeciej obciążają ubezpieczającego. Zakład ubezpieczeń może podnieść również przeciwko osobie trzeciej zarzuty, które mają wpływ na odpowiedzialność zakładu z tytułu umowy ubezpieczenia. § 3. Jeżeli nie umówiono się inaczej, osobie trzeciej przysługuje bezpośrednio od zakładu ubezpieczeń odszkodowanie lub świadczenie należne z tytułu tej umowy. § 4. Odszkodowanie lub świadczenie z tytułu umowy ubezpieczenia na rzecz osoby trzeciej zakład ubezpieczeń może wypłacić ubezpieczającemu za zgodą osoby, na której rzecz umowa ubezpieczenia została zawarta. ” ; 2) art. 819 otrzymuje brzmienie: „ Art. 819. § 1. Roszczenia z umowy ubezpieczenia osób prawnych nie będących jednostkami gospodarki uspołecznionej podlegającymi państwowemu arbitrażowi gospodarczemu oraz osób fizycznych przedawniają się z upływem lat trzech. § 2. Bieg przedawnienia roszczenia rozpoczyna się od dnia, w którym nastąpiło zdarzenie objęte ubezpieczeniem. § 3. W ubezpieczeniu odpowiedzialności cywilnej z tytułu szkód wyrządzonych czynem niedozwolonym roszczenia do zakładu ubezpieczeń o odszkodowanie na rzecz osoby trzeciej przedawniają się według przepisów dotyczących przedawnienia roszczeń o naprawienie szkody wyrządzonej czynem niedozwolonym, z tym że do terminu przedawnienia roszczeń jednostek gospodarki uspołecznionej podlegających państwowemu arbitrażowi gospodarczemu mają zastosowanie przepisy ogólne. § 4. Bieg przedawnienia roszczeń ubezpieczających jednostek gospodarki uspołecznionej podlegających państwowemu arbitrażowi gospodarczemu oraz jednostek gospodarki nie uspołecznionej i osób fizycznych przerywa się, także przez zgłoszenie do zakładu ubezpieczeń roszczenia o świadczenie lub zdarzenia objętego ubezpieczeniem. Bieg przedawnienia rozpoczyna się wówczas na nowo od dnia, w którym zgłaszający roszczenie o świadczenie lub zdarzenie objęte ubezpieczeniem otrzymał na piśmie zawiadomienie zakładu ubezpieczeń o załatwieniu sprawy. ” ; 3) skreśla się art. 825; 4) art. 827 otrzymuje brzmienie: „ Art. 827. § 1. Zakład Ubezpieczeń jest wolny od odpowiedzialności, jeżeli ubezpieczający albo osoba, z którą ubezpieczający pozostaje we wspólnym gospodarstwie domowym lub za którą ponosi odpowiedzialność, wyrządziła szkodę umyślnie. W razie rażącego niedbalstwa odszkodowanie nie należy się, chyba że zapłata odszkodowania odpowiada w danych okolicznościach zasadom współżycia społecznego albo interesom gospodarki narodowej. § 2. W ubezpieczeniu odpowiedzialności cywilnej można w drodze umowy ustalić inne zasady odpowiedzialności zakładu ubezpieczeń niż określone w § 1. ” ; 5) art. 828 otrzymuje brzmienie: „ Art. 828. § 1. Jeżeli nie umówiono się inaczej, z dniem zapłaty odszkodowania przez zakład ubezpieczeń roszczenie ubezpieczającego przeciwko osobie trzeciej odpowiedzialnej za szkodę przechodzi z mocy prawa na zakład ubezpieczeń do wysokości zapłaconego odszkodowania. Jeżeli zakład pokrył tylko część szkody, ubezpieczającemu przysługuje co do pozostałej części pierwszeństwo zaspokojenia przed roszczeniem zakładu ubezpieczeń. § 2. Nie przechodzą na zakład ubezpieczeń roszczenia ubezpieczającego przeciwko osobom, z którymi ubezpieczający pozostaje we wspólnym gospodarstwie domowym lub za które ponosi odpowiedzialność. ”"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "W Kodeksie postępowania cywilnego w art. 831 w § 1 pkt 5 otrzymuje brzmienie: „ 5) świadczenia z ubezpieczeń osobowych oraz odszkodowania z ubezpieczeń majątkowych, w granicach określonych w drodze rozporządzenia przez Ministrów Finansów i Sprawiedliwości; nie dotyczy to egzekucji mającej na celu zaspokojenie roszczeń z tytułu alimentów. ”"
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych ( Dz. U. Nr 24, poz. 122 , z 1982 r. Nr 45, poz. 289 oraz z 1983 r. Nr 36, poz. 165 i Nr 39, poz. 176 ) skreśla się w art. 6 pkt 4. Rozdział 10 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie zachowują moc dotychczasowe przepisy wydane na podstawie ustawy, o której mowa w art. 75, nie dłużej jednak niż przez okres 12 miesięcy od dnia wejścia w życie niniejszej ustawy. Przez ten okres zachowują również moc ogólne warunki ubezpieczeń umownych i taryfy składek za te ubezpieczenia, ustalone w trybie przewidzianym ustawą, o której mowa w art. 75. 2. Likwidację zakładów ubezpieczeń, które utraciły prawo wykonywania działalności ubezpieczeniowej przed dniem wejścia w życie ustawy, prowadzi się na podstawie przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Traci moc ustawa z dnia 2 grudnia 1958 r. o ubezpieczeniach majątkowych i osobowych ( Dz. U. Nr 72, poz. 357 , z 1964 r. Nr 16, poz. 94 i z 1975 r. Nr 16, poz. 91 ) ."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1985 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Ubezpieczenia ustawowe\",\"children\": [{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_2-arti_6-pass_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Ubezpieczenia umowne\",\"children\": [{\"id\": \"chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"chpt_3-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_3-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Tworzenie, organizacja i działalność zakładów ubezpieczeń\",\"children\": [{\"id\": \"chpt_4-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_4-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_4-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_4-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_4-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_19-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_19-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_4-arti_19-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_4-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_4-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_4-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_4-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_4-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_4-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_4-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_4-arti_26-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_26-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_4-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_4-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_4-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_28-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_28-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_4-arti_28-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_4-arti_28-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_4-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_4-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_29-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_4-arti_29-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_29-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_4-arti_29-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Gospodarka finansowa państwowych zakładów ubezpieczeń\",\"children\": [{\"id\": \"chpt_5-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_5-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_30-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_5-arti_30-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_5-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"chpt_5-arti_31-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_31-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"chpt_5-arti_32-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_5-arti_32-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_32-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_32-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_5-arti_32-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_5-arti_32-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"chpt_5-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"chpt_5-arti_34-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_34-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_34-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_5-arti_34-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_5-arti_34-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_5-arti_34-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_5-arti_34-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"chpt_5-arti_34-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_5-arti_34-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \""
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1922-781",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. w przedmiocie umów, dotyczących sprzedaży nieruchomości ziemskich i miejskich na obszarze Ziemi Wileńskiej, województw: nowogródzkiego, poleskiego i wołyńskiego i powiatów: białostockiego, bielskiego, sokólskiego, grodzieńskiego i wołkowyskiego województwa białostockiego.",
+  "title_en": "",
+  "short_name": "pl-du-1922-781",
+  "status": "repealed",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/781",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszelkie umowy przyrzeczenia sprzedaży (zaprodażne, rozpiski zadatkowe) oraz akty sprzedaży prywatne, akty niezatwierdzone przez starszego notarjusza i t. p., dotyczące nieruchomości miejskich i ziemskich, o zawarte przed 1 stycznia 1921 r. na obszarze Ziemi Wileńskiej, województw: nowogródzkiego, poleskiego i wołyńskiego i powiatów: białostockiego, bielskiego, sokólskiego, grodzieńskiego i wołkowyskiego województwa białostockiego, obowiązują sprzedawcę i nie mogą być rozwiązane na jego jednostronne żądanie, jeżeli będąca przedmiotem umowy nieruchomość została przez sprzedawcę oddana w posiadanie nabywcy. Przepisy ogólne, sprzeczne z zasadą, w artykule niniejszym wyrażoną, do powyższych wypadków nie mają zastosowania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Postanowienia art. 1 nie mają zastosowania: 1. jeśli wina niedotrzymania umowy spada wyłącznie na nabywcę, lub 2. jeżeli cena sprzedażna nie dosięga 5/12 ówczesnej ceny przeciętnej takich nieruchomości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Niedopłacona część sumy sprzedażnej powinna być zapłacona w sposób następujący: jeżeli wina niedotrzymania umowy spada wyłącznie na sprzedawcę, to niedopłacona część sumy sprzedażnej powinna być wypłacona w wysokości, oznaczonej w umowie, przyczem 1 rubel ma być liczony za 2,16 mk., jeżeli wina obciąża obie strony lub jeżeli obie strony nie są winne, to nabywca powinien zapłacić sprzedawcy 1/4 część wartości- takiej ilości żyta, jaką przedstawia niedopłacona część ceny kupna w odniesieniu, licząc ceny przeciętne, do danej miejscowości i do umówionego terminu, względnie terminów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Jeżeli sprzedawca uchyla się od zawarcia aktu sprzedaży, nabywca może w drodze powództwa żądać przyznania sobie prawa własności nieruchomości. W razie uwzględnienia powództwa wyrok prawomocny podlega opłacie stemplowej w wysokości 6% przewidzianej w pozycji 11 a) 1) rozporządzenia b. Generał-Gubernatora warszawskiego z dnia 19 lipca 1916 r. (Dz. Rozp. № 40 poz. 126) i w punkcie cie a) art. 6 ustawy z dnia 16 lipca 1920 r. (Dz. U. R. P. № 73 poz. 498), względnie w art. 11 dekretu № 446 Prezesa Tymczasowej Komisji Rządzącej Litwy Środkowej z dnia 27 grudnia 1921 r. (Dz. Urz. T. K. Rz. № 1 z 1922 r.), jak gdyby rezolucja sądu stanowiła treść umowy sprzedaży, zawartej między powodem a pozwanym. Sąd prześle odpis wyroku izbie skarbowej celem wymierzenia opłaty stemplowej, wyżej określonej, i wyda nabywcy tytuł wykonawczy dopiero po uiszczeniu tej opłaty i po zapłaceniu przez powoda zasądzonej należności na rzecz sprzedawcy (art. 3), względnie po złożeniu jej do depozytu sądowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje z dniem ogłoszenia i ma zastosowanie także do spraw sądowych, prawomocnie jeszcze nierozstrzygniętych. Jednocześnie uchyla się moc obowiązującą rozporządzeń Komisarza Naczelnego Ziem Wołynia i Frontu Podolskiego z dnia 19 maja 1920 r. w przedmiocie umów przyrzeczenia sprzedaży nieruchomości ziemskich i z dnia 23 czerwca 1920 r. w przedmiocie wstrzymania biegu spraw, wynikłych z umów przyrzeczenia sprzedaży nieruchomości ziemskich (Dz. U. Z. W. i F. P. № 9 poz. 123 i № 15 poz. 202)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

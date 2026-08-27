@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-678",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 1924 r. o przedłużeniu dawnego trybu egzaminów w szkołach akademickich.",
+  "title_en": "",
+  "short_name": "pl-du-1924-678",
+  "status": "in_force",
+  "issued_date": "1924-07-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/678",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 112 ustawy o szkołach akademickich z dnia 13 lipca 1920 r. (Dz. U. R. P. № 72 poz. 494) otrzymuje brzmienie następujące: „ Studenci, którzy rozpoczęli studja przed 15 września 1920 r., a na wydziałach filozoficznych przed 15 września 1922 r., mogą składać wszelkie egzaminy według dawnych przepisów, lecz tylko do 15 września 1926 r.; w szczególności nie obowiązują ich do tego czasu nowe przepisy w sprawie doktoratu (art. 95) ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza obowiązuje z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

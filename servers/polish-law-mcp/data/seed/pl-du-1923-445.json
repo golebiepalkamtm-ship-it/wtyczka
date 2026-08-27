@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1923-445",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 czerwca 1923 r. dotycząca brzmienia ustaw o postępowaniu karnem w województwach: poznańskiem i pomorskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1923-445",
+  "status": "in_force",
+  "issued_date": "1923-06-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/445",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Niemiecka ustawa o postępowaniu karnem obowiązuje w województwach: poznańskiem i pomorskiem w brzmieniu rozporządzania Ministra Sprawiedliwości z dnia 16 czerwca 1922 r. zmieniającego dla górnośląskiej części województwa śląskiego niektóre przepisy niemieckiej ustawy o postępowaniu karnem (Dz. U. R. P. № 46, poz. 398), z wyjątkiem, wymienionym w art. 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustępy 1 i 2 § 447 niemieckiej ustawy e postępowaniu karnem w brzmieniu, nadanem im rozporządzeniem Ministra Sprawiedliwości z dnia 16 czerwca 1922 r. (Dz. U. R. P. № 46, poz. 398), Otrzymują brzmienie następujące: „ Izba karna w gronie dwóch sędziów zawodowych, sąd pokoju w pełnym składzie i sędzia powiatowy mogą wymierzyć karę, bez wyznaczenia rozprawy głównej, pisemnym mandatem karnym, jeżeli prokuratura podaje o to wniosek pisemny. W sprawach, w których prokurator może stworzyć właściwość sądu ławniczego (sądu pokoju) wedle § 29 ustawy o ustroju sądownictwa, może wniosek a mandat karny podać tylko prokurator; z podaniem wniosku uważa się sprawę za należącą do właściwości sądu ławniczego (sądu pokoju). Izba karna może orzec mandatem karnym jedynie grzywnę do wysokości pięciuset tysięcy marek, karę aresztu lub karę więzienia do sześciu miesięcy, z osobna lub łącznie, sędzia powiatowy (sąd pokoju) zaś jedynie grzywną do wysokości pięćdziesięciu tysięcy marek, karę aresztu lub karę więzienia do trzech miesięcy, z osobna lub łącznie. W każdym wypadku można orzec także oznaczoną w ustawie konfiskatę ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie w województwach: poznańskiem i pomorskiem z upływem miesiąca, następującego po miesiącu, w którym ją ogłoszono."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

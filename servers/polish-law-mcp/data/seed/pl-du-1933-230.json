@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1933-230",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1933 r. o wyłączeniu terenów budowlanych z pod działania przepisów o przebudowie ustroju rolnego.",
+  "title_en": "",
+  "short_name": "pl-du-1933-230",
+  "status": "in_force",
+  "issued_date": "1933-03-24",
+  "in_force_date": "1933-04-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/230",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Do gruntów prywatnych, stanowiących tereny budowlane w rozumieniu art. 53 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr. 23, poz. 202) w brzmieniu, nadanem rozporządzeniem Prezydenta Rzeczypospolitej z dnia 3 grudnia 1930 r. (Dz. U. R. P. Nr. 86, poz. 663), nie mają zastosowania: ustawa z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej (Dz. U. R. P. z 1926 r. Nr. 1, poz. 1), tymczasowe rozporządzenie Rady Ministrów z dnia 1 września 1919 r., normujące przenoszenie własności nieruchomości ziemskich (Dz. U. R. P. Nr. 73, poz. 428), prawo z dnia 11 czerwca 1891 r. o trybie sprzedaży, wydzierżawiania lub oddawania w zastaw osad i gruntów włościańskich oraz o dzieleniu tych majątków (Zb. Praw i Rozp. Rządu Nr. 76 z r. 1891) wraz z późniejszemi zmianami i uzupełnieniami, rozporządzenie Niemieckiej Rady Związkowej z dnia 15 marca 1918 r. (Dz. U. Rz. str. 123) oraz rozporządzenie Komisarjatu Naczelnej Rady Ludowej z dnia 25 czerwca 1919 r., dotyczące zezwolenia na przewłaszczenie nieruchomości (Tygodnik Urzędowy Nr. 27, poz. 85). (2) Przepis cz. 1 nie ogranicza stosowania rozporządzenia Ministra b. Dzielnicy Pruskiej z dnia 21 czerwca 1921 r. w przedmiocie zezwolenia na przewłaszczenie (przeniesienie własności) nieruchomości fabrycznych oraz nieruchomości miejskich (Dz. Urz. b. Dziel. Prusk. Nr. 23, poz. 149)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W przypadkach, gdy przy parcelacji nieruchomości ziemskiej tworzone są działki, składające się częściowo z terenu budowlanego, a częściowo z gruntów, podlegających działaniu przepisów o wykonaniu reformy rolnej, to projekt parcelacji, obejmujący te działki, zatwierdza właściwa władza ziemska w porozumieniu z władzą, powołaną do zatwierdzania planów parcelacji terenów budowlanych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych oraz Ministrowi Spraw Wewnętrznych, każdemu w zakresie jego właściwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

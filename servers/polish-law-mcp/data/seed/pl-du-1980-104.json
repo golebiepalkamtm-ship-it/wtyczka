@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1980-104",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 listopada 1980 r. o terminie zakończenia kadencji ławników ludowych oraz członków kolegiów do spraw wykroczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1980-104",
+  "status": "repealed",
+  "issued_date": "1980-11-21",
+  "in_force_date": "1980-12-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1980/104",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Kadencję czynnych w dniu wejścia w życie ustawy ławników ludowych w sądach powszechnych i w okręgowych sądach pracy i ubezpieczeń społecznych oraz członków kolegiów do spraw wykroczeń przy terenowych organach administracji państwowej, przedłuża się o jeden rok kalendarzowy. 2. Kadencja ławników ludowych w sądach powszechnych i w okręgowych sądach pracy i ubezpieczeń społecznych oraz członków kolegiów do spraw wykroczeń przy terenowych organach administracji państwowej, wybranych w 1980 r., upływa z dniem 31 grudnia 1981 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

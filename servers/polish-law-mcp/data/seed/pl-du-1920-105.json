@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1920-105",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 lutego 1920 r. w sprawie przyznania osobom wojskowym nadzwyczajnych dodatków drożyźnianych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-105",
+  "status": "in_force",
+  "issued_date": "1920-02-20",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/105",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm upoważnia Rząd do przyznania osobom wojskowym nadzwyczajnego dodatku drożyźnianego do pobieranej płacy w następującym miesięcznym wymiarze: a) oficerom i urzędnikom wojskowym w wysokości płacy zasadniczej (gaży) powiększonej dodatkiem sejmowym według ustawy z dnia 12 czerwca 1919 r.; b) podoficerom zawodowym, żandarmerji wojskowej, straży granicznej i majstrom wojskowym niepoborowym w wysokości żołdu miesięcznego, powiększonego dodatkiem sejmowym, według ustawy z dnia 12 czerwca 1919 r.; c) wszystkim innym szeregowym w wysokości dodatku sejmowego według ustawy z dnia 12 czerwca 1919 r.; d) sanitarjuszkom w wysokości obecnie pobieranej płacy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dla utrzymujących rodziny w miejsce dotychczasowych należytości rodzinnych ustanawia się dodatki, a mianowicie: a) dla oficerów i urzędników wojskowych na żoną 400 mk., na każde dziecko 100 mk. miesięcznie; b) dla podoficerów zawodowych, żandarmerji wojskowej, straży granicznej i majstrów wojskowych niepoborowych na żonę 300 mk., na każde dziecko 100 mk. miesięcznie. Osoby wojskowe wymienione pod a) i b), o ile ich żony, jako pracowniczki państwowe, pobierają uposażenie ze Skarbu Państwa, dodatku na żonę nie otrzymują."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Dla rodzin szeregowych, które pobierają zasiłek, ustanawia się miesięczny dodatek w wysokości pobieranego zasiłku, wyłączając rodziny, które pobierają zasiłek według norm wielkopolskich. Dla osób wymienionych w art. 2 pod a) i b), o ile utrzymują rodziców, a nie pobierają dodatków na żonę i dzieci, ustanawia się zasiłki w wymiarze jak dla szeregowych na tych samych warunkach."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na wypadek konieczności prowadzenia dwóch domów, wskutek pełnienia służby na froncie, lub przejściowo poza garnizonem, przyznaje się na mieszkanie dla rodziny w miejsce dotychczasowej należytości: a) oficerom i urzędnikom wojskowym 200 mk. miesięcznie; b) podoficerom zawodowym, żandarmom wojskowym, straży granicznej i majstrom wojskowym niepoborowym 100 mk. miesięcznie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Minister Spraw Wojskowych w porozumieniu z Ministrem Skarbu i Ministrem Aprowizacji określi wysokość strawnego, przeprowadzi zmniejszenie racji żywności oficerów i ich rodzin i ustali cenę za tę rację."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wymienione w art. od 1 do 4 dodatki przysługują od 1 stycznia 1920 r. Inne niewymienione wyżej należytości osób wojskowych nie ulegają podwyższeniu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

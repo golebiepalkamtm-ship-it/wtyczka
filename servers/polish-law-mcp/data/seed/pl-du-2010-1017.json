@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-1017",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lipca 2010 r. o zmianie ustawy - Kodeks wykroczeń",
+  "title_en": "",
+  "short_name": "pl-du-2010-1017",
+  "status": "amended",
+  "issued_date": "2010-07-22",
+  "in_force_date": "2010-08-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1017",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 maja 1971 r. - Kodeks wykroczeń ( Dz. U. z 2010 r. Nr 46, poz. 275 i Nr 106, poz. 672 ) w art. 144 § 1 otrzymuje brzmienie: „ § 1. Kto na terenach przeznaczonych do użytku publicznego niszczy lub uszkadza roślinność lub też dopuszcza do niszczenia roślinności przez zwierzęta znajdujące się pod jego nadzorem albo na terenach przeznaczonych do użytku publicznego depcze trawnik lub zieleniec w miejscach innych niż wyznaczone dla celów rekreacji przez właściwego zarządcę terenu, podlega karze grzywny do 1 000 złotych albo karze nagany. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

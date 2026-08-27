@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1919-389",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 lipca 1919 r. o tymczasowym sądownictwie wojskowem.",
+  "title_en": "",
+  "short_name": "pl-du-1919-389",
+  "status": "repealed",
+  "issued_date": "1919-07-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/389",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Aż do czasu zaprowadzenia jednolitego ustawodawstwa sądowo - wojskowego stosowane będą narazie w zakresie sądownictwa wojskowego przepisy wojskowe kodeksu niemieckiego z r. 1872 i wojskowej ustawy postępowania karnego austrjackiego z r. 1912."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Względem przestępstw pospolitych stosowane będą w sądownictwie wojskowem powszechne ustawy karne materjalne w poszczególnych dzielnicach obowiązujące."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rada Ministrów na wniosek Ministra Spraw Wojskowych, postawiony w porozumieniu z Ministrem Sprawiedliwości, wyda rozporządzenia wprowadzające w życie postanowienia art. 1 i 2 niniejszej ustawy, a zarazem władna będzie poczynić w ustawach wymienionych w powyższych artykułach, zmiany i uzupełnienia zarówno w zakresie organizacji sądownictwa wojskowego, jak i w prawie karnem materjalnem i procesowem; w szczególności określić należy, które z ustaw wymienionych w art. 2 obowiązywać będą tymczasowo w polu i na morzu, tudzież jakie ustawy stosowane być winny względem ludności poddanej sądownictwu wojskowemu na obszarach, na które moc obowiązująca ustaw w art. 2 wymienionych się nie rozciąga, względnie przewidzieć sposób określenia tychże ustaw."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rozporządzenia przewidziane w art. 3 zyskują moc obowiązującą z chwilą ogłoszenia ich w Dzienniku Praw, o ile w rozporządzeniach tych inaczej postanowione nie będzie co do początku ich mocy obowiązującej i nie mogą wychodzić na niekorzyść podsądnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Ministrów władna będzie wydawać rozporządzenia przewidziane w artykule 3 niniejszej ustawy przez czas 4 miesięcy, licząc od dnia wejścia w życie niniejszej ustawy; rozporządzenia te winny być następnie przedłożone Sejmowi do zatwierdzenia na najbliższym jego posiedzeniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ażdo chwili wejścia w życie rozporządzeń, wymienionych w art. 3 niniejszej ustawy, stosowane będą nadal dotychczasowe przepisy w zakresie sądownictwa wojskoweqo. ogłoszone w Dzienniku Rozkazów Wojskowych po dzień 10 marca 1819 r. łącznie z mocą obowiązującą od dnia ich ogłoszenia w tymże dzienniku, względnie dnia późniejszego, wskazanego w nich jako początek mocy obowiązującej. Czynności sądowe na podstawie tych przepisów przedsięwzięte nadal według nich oceniane będą."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Przepis artykułu 6 niniejszej ustawy nie odnosi się jednak do ogłoszonych w Dzienniku Rozkazów Wojskowych przepisów o wojskowych sądach doraźnych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Wykonanie jej należy do Ministra Spraw Wojskowych i Ministra Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

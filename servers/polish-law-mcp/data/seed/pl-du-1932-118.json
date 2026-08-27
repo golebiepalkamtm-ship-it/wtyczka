@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-118",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1932 r. w sprawie zmiany rozporządzenia Rady Ministrów z dnia 10 maja 1920 r. w przedmiocie wprowadzenia w życie na obszarze Rzeczypospolitej ustawy wojskowego postępowania karnego.",
+  "title_en": "",
+  "short_name": "pl-du-1932-118",
+  "status": "repealed",
+  "issued_date": "1932-01-21",
+  "in_force_date": "1932-03-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/118",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Rady Ministrów z dnia 10 maja 1920 r. (Dz. U. R. P. Nr 59, poz. 368) wprowadza się następujące zmiany; 1) w art. 60, zmienionym p. V art. 153 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie kodeksu karnego wojskowego (Dz. U. R. P. Nr 36, poz. 328), wprowadza się po p. 2) lit. b) nowe postanowienie jako p. 3 o następującem brzmieniu: „3) przeciw osobom, wymienionym w art. 75 - za przestępstwa, tam wyszczególnione”; 2) w poszczególnych artykułach tegoż rozporządzenia tytuł „prezydent najwyższego sądy wojskowego” zmienią się na „prezes najwyższego sądu wojskowego”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawą niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,370 @@
+{
+  "id": "pl-du-2003-595",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 marca 2003 r. o stopniach naukowych i tytule naukowym oraz stopniach i tytule w zakresie sztuki",
+  "title_en": "",
+  "short_name": "pl-du-2003-595",
+  "status": "repealed",
+  "issued_date": "2003-03-14",
+  "in_force_date": "2003-04-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/595",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Stopniami naukowymi są stopnie doktora i doktora habilitowanego określonej dziedziny nauki w zakresie danej dyscypliny naukowej. 2. Stopniami w zakresie sztuki są stopnie doktora i doktora habilitowanego określonej dziedziny sztuki w zakresie danej dyscypliny artystycznej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Tytułem naukowym jest tytuł profesora określonej dziedziny nauki. 2. Tytułem w zakresie sztuki jest tytuł profesora określonej dziedziny sztuki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Centralna Komisja do Spraw Stopni i Tytułów, zwana dalej „Centralną Komisją”, określa, w drodze uchwały, dziedziny nauki i dziedziny sztuki oraz dyscypliny naukowe i artystyczne. Dyscyplina naukowa (artystyczna) może być tożsama z dziedziną nauki (sztuki). 2. Uchwałę Centralnej Komisji, o której mowa w ust. 1, ogłasza Centralna Komisja w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ilekroć w ustawie jest mowa o: 1) „stopniach doktora i doktora habilitowanego” bez bliższego określenia - rozumie się przez to stopnie naukowe doktora i doktora habilitowanego oraz stopnie doktora i doktora habilitowanego sztuki; 2) „tytule profesora” bez bliższego określenia - rozumie się przez to tytuł naukowy profesora i tytuł profesora sztuki; 3) „jednostce organizacyjnej” bez bliższego określenia - rozumie się przez to wydział, inną jednostkę organizacyjną szkoły wyższej albo inną placówkę naukową; 4) „radzie jednostki organizacyjnej” bez bliższego określenia - rozumie się przez to radę wydziału, radę innej jednostki organizacyjnej szkoły wyższej albo radę naukową innej placówki naukowej; 5) „rozprawie doktorskiej i rozprawie habilitacyjnej” - rozumie się przez to również pracę doktorską i habilitacyjną w zakresie sztuki. Rozdział 2 Stopnie naukowe i stopnie w zakresie sztuki"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Stopnie doktora i doktora habilitowanego są nadawane w jednostkach organizacyjnych, które posiadają uprawnienie do ich nadawania. 2. Uprawnienie, o którym mowa w ust. 1, nadaje Centralna Komisja na wniosek jednostki organizacyjnej, biorąc pod uwagę poziom działalności naukowej lub artystycznej jednostki oraz liczbę zatrudnionych w niej osób posiadających tytuł profesora lub stopień doktora habilitowanego określoną w art. 6. W odniesieniu do jednostek organizacyjnych szkół wyższych Centralna Komisja nadaje to uprawnienie po zasięgnięciu opinii Rady Głównej Szkolnictwa Wyższego, wyrażonej w terminie trzech miesięcy od dnia otrzymania przez Radę wniosku o wyrażenie opinii. 3. Centralna Komisja rozstrzyga o nadaniu uprawnienia, o którym mowa w ust. 1, w terminie sześciu miesięcy od dnia otrzymania wniosku o przyznanie uprawnienia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Uprawnienie do nadawania stopnia doktora może otrzymać jednostka organizacyjna, która zatrudnia w pełnym wymiarze czasu pracy co najmniej osiem osób posiadających tytuł profesora lub stopień doktora habilitowanego, reprezentujących dziedzinę nauki lub dziedzinę sztuki, w zakresie której jednostka organizacyjna ma otrzymać uprawnienie. 2. Uprawnienie do nadawania stopnia doktora habilitowanego może otrzymać jednostka organizacyjna, która zatrudnia w pełnym wymiarze czasu pracy co najmniej dwanaście osób posiadających tytuł profesora lub stopień doktora habilitowanego, reprezentujących dziedzinę nauki lub dziedzinę sztuki, w zakresie której jednostka organizacyjna ma otrzymać uprawnienie, w tym co najmniej sześć osób posiadających tytuł profesora. 3. Uprawnienie do nadawania stopni doktora i doktora habilitowanego może obejmować tylko te dyscypliny naukowe lub artystyczne, które w danej jednostce organizacyjnej są reprezentowane przez co najmniej pięć osób zatrudnionych w pełnym wymiarze czasu pracy, posiadających tytuł profesora lub stopień doktora habilitowanego. 4. Osoby posiadające tytuł profesora lub stopień doktora habilitowanego mogą być wliczane do minimalnej liczby osób zatrudnionych, o której mowa w ust. 1-3, tylko w jednej jednostce organizacyjnej i o ile są zatrudnione w tej jednostce nie krócej niż rok."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, tryb zgłaszania wniosków o przyznanie uprawnienia do nadawania stopni doktora i doktora habilitowanego, uwzględniając w szczególności wzór wniosku o przyznanie tych uprawnień oraz dokumentację, obejmującą w szczególności: 1) sprawozdanie jednostki ubiegającej się o przyznanie uprawnień z działalności naukowo-badawczej lub twórczości artystycznej w okresie trzech lat bezpośrednio poprzedzających złożenie wniosku; 2) imienny wykaz osób posiadających tytuł profesora lub stopień doktora habilitowanego zatrudnionych w tej jednostce; 3) imienny skład rady tej jednostki; 4) charakterystykę osiągnięć w zakresie kształcenia kadr i osiągnięć naukowych osób, o których mowa w pkt 2 i 3; 5) charakterystykę bazy badawczej tej jednostki. 2. Wykaz jednostek organizacyjnych uprawnionych do nadawania stopni doktora i doktora habilitowanego wraz z określeniem nazw nadawanych stopni ogłasza Centralna Komisja w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Jednostka organizacyjna zawiadamia niezwłocznie Centralną Komisję o zmianach w stanie zatrudnienia wpływających na uprawnienie do nadawania stopni doktora i doktora habilitowanego. 2. Uprawnienie do nadawania stopni doktora i doktora habilitowanego ulega zawieszeniu z mocy prawa od dnia, w którym liczba pracowników zatrudnionych w jednostce organizacyjnej zmniejszyła się poniżej minimum określonego w art. 6. Centralna Komisja określa termin, nie dłuższy niż dwa lata, w którym jednostka jest obowiązana spełnić warunki do przywrócenia zawieszonych uprawnień. 3. Jeżeli jednostka organizacyjna w wyznaczonym terminie nie spełni warunków, o których mowa w ust. 2, Centralna Komisja cofa uprawnienie. 4. Centralna Komisja określa warunki kontynuowania przewodów doktorskich i habilitacyjnych wszczętych przed dniem, o którym mowa w ust. 2, przez tę jednostkę organizacyjną albo wskazuje inną jednostkę organizacyjną, w której przewody te są kontynuowane."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Centralna Komisja dokonuje okresowej oceny poziomu działalności naukowej lub artystycznej jednostki organizacyjnej, która stanowi podstawę do nadawania stopni doktora i doktora habilitowanego, a także zasadności uchwał, o których mowa w art. 14 ust. 2 pkt 5 i art. 18 ust. 2 pkt 5, w sprawie nadawania tych stopni. 2. Jeżeli ocena, o której mowa w ust. 1, jest negatywna, Centralna Komisja może: 1) ograniczyć uprawnienie przez zobowiązanie jednostki organizacyjnej do przedstawiania Centralnej Komisji do zatwierdzenia każdej uchwały o nadaniu stopnia doktora; 2) zawiesić uprawnienie na czas określony, nie dłuższy niż trzy lata; 3) cofnąć uprawnienie. 3. W przypadku zawieszenia lub cofnięcia uprawnienia czynności związane z zakończeniem przewodów doktorskich i habilitacyjnych przeprowadza jednostka organizacyjna wskazana przez Centralną Komisję. 4. Ponowne nadanie uprawnienia po jego cofnięciu, przywrócenie zawieszonego uprawnienia przed upływem określonego czasu lub uchylenie ograniczenia uprawnienia następuje w trybie i na zasadach obowiązujących przy nadawaniu uprawnienia. 5. Jeżeli ocena, o której mowa w ust. 1, jest szczególnie wysoka, Centralna Komisja może postanowić, że uchwały rady tej jednostki o nadaniu stopnia doktora habilitowanego nie wymagają zatwierdzenia, o którym mowa w art. 19 ust. 1, i stają się prawomocne z chwilą ich podjęcia. Postanowienie to może być uchylone w razie zmiany oceny, o której mowa w ust. 1. 6. Uchwały Centralnej Komisji w sprawach, o których mowa w ust. 2 pkt 2 i 3 oraz w ust. 4 i 5, ogłasza Centralna Komisja w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "W razie braku w kraju jednostki organizacyjnej właściwej dla przeprowadzenia określonego przewodu doktorskiego lub habilitacyjnego Centralna Komisja, działając na wniosek jednostki organizacyjnej lub z urzędu, może zarządzić uzupełnienie składu rady wskazanej przez siebie jednostki o osoby niebędące członkami tej rady. Osoby te mają uprawnienia członka danej rady w sprawach tego przewodu doktorskiego lub habilitacyjnego."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Stopień doktora i doktora habilitowanego jest nadawany w drodze przewodu wszczętego na wniosek osoby ubiegającej się o nadanie stopnia. 2. Przewód habilitacyjny może być również wszczęty, za zgodą zainteresowanego, na wniosek jednostki zatrudniającej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Stopień doktora nadaje się osobie, która: 1) posiada tytuł zawodowy magistra, magistra inżyniera, lekarza lub inny równorzędny; 2) zdała egzaminy doktorskie w zakresie określonym przez radę jednostki organizacyjnej; 3) przedstawiła i obroniła rozprawę doktorską. 2. Egzaminy doktorskie są przeprowadzane w zakresie: 1) dyscypliny podstawowej odpowiadającej tematowi rozprawy doktorskiej; 2) dyscypliny dodatkowej; 3) języka obcego nowożytnego."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Rozprawa doktorska, przygotowywana pod opieką promotora, powinna stanowić oryginalne rozwiązanie problemu naukowego lub artystycznego oraz wykazywać ogólną wiedzę teoretyczną kandydata w danej dyscyplinie naukowej lub artystycznej, a także umiejętność samodzielnego prowadzenia pracy naukowej lub artystycznej. 2. Rozprawę doktorską może stanowić praca projektowa, konstrukcyjna, technologiczna lub artystyczna, jeżeli odpowiada warunkom określonym w ust. 1. 3. Rozprawę doktorską może także stanowić samodzielna i wyodrębniona część pracy zbiorowej, jeżeli wykazuje ona indywidualny wkład kandydata, odpowiadający warunkom określonym w ust. 1."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Przewód doktorski przeprowadza i stopień doktora nadaje: 1) w szkole wyższej - rada wydziału lub rada innej jej jednostki organizacyjnej; 2) w innej placówce naukowej - rada naukowa. 2. Czynności przewodu doktorskiego kończą się uchwałami rady jednostki organizacyjnej w przedmiocie: 1) wszczęcia przewodu doktorskiego i wyznaczenia promotora; 2) wyznaczenia recenzentów; 3) przyjęcia rozprawy doktorskiej i dopuszczenia jej do publicznej obrony; 4) przyjęcia publicznej obrony rozprawy doktorskiej; 5) nadania stopnia doktora. 3. Nieprzyjęta rozprawa doktorska nie może być podstawą do ubiegania się o nadanie stopnia doktora w innych jednostkach organizacyjnych. 4. Jeżeli osoba ubiegająca się o nadanie stopnia doktora w wyznaczonym terminie nie przystąpi do egzaminów doktorskich albo nie przedstawi rozprawy doktorskiej, rada jednostki organizacyjnej może podjąć uchwałę o zamknięciu przewodu doktorskiego. 5. Uprawnienie do podejmowania uchwał, o których mowa w ust. 2 pkt 3 i 4, rada jednostki organizacyjnej może przekazać powołanej w tym celu komisji. W przypadku gdy obrona rozprawy doktorskiej odbyła się przed komisją, komisja ta przygotowuje projekt uchwały w sprawie nadania stopnia doktora i przedstawia go radzie jednostki organizacyjnej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Uchwała o nadaniu stopnia doktora staje się prawomocna z chwilą jej podjęcia. 2. Uchwała o nadaniu stopnia doktora podjęta przez radę jednostki organizacyjnej, której uprawnienia do nadawania stopnia doktora zostały ograniczone zgodnie z art. 9 ust. 2 pkt 1, staje się prawomocna z chwilą jej zatwierdzenia przez Centralną Komisję. Uchwała jest przedstawiana Centralnej Komisji, wraz z aktami przewodu doktorskiego, w terminie jednego miesiąca od dnia jej podjęcia. O zatwierdzeniu uchwały Centralna Komisja rozstrzyga w terminie do sześciu miesięcy od dnia otrzymania uchwały. 3. W przypadku niezatwierdzenia uchwały o nadaniu stopnia doktora rada jednostki organizacyjnej lub osoba ubiegająca się o nadanie tego stopnia może, w terminie trzech miesięcy od dnia doręczenia jej rozstrzygnięcia, wystąpić do Centralnej Komisji z wnioskiem o ponowne rozpatrzenie sprawy. 4. Centralna Komisja rozpatruje wniosek, o którym mowa w ust. 3, w terminie czterech miesięcy od dnia jego doręczenia. 5. W postępowaniu, o którym mowa w ust. 4, mogą brać udział recenzenci powołani w przewodzie doktorskim."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Do przewodu habilitacyjnego może być dopuszczona osoba, która posiada stopień doktora i uzyskała znaczny dorobek naukowy lub artystyczny, a ponadto przedstawiła rozprawę habilitacyjną."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Rozprawa habilitacyjna powinna stanowić znaczny wkład autora w rozwój określonej dyscypliny naukowej lub artystycznej. 2. Rozprawę habilitacyjną może stanowić powstałe po uzyskaniu stopnia doktora dzieło, opublikowane w całości lub zasadniczej części, albo jednotematyczny cykl publikacji. 3. Rozprawę habilitacyjną może stanowić zrealizowane oryginalne osiągnięcie projektowe, konstrukcyjne, technologiczne lub artystyczne, jeżeli spełnia wymaganie określone w ust. 1. 4. Rozprawę habilitacyjną może stanowić część pracy zbiorowej, jeżeli opracowanie wydzielonego zagadnienia jest indywidualnym wkładem osoby ubiegającej się o nadanie stopnia doktora habilitowanego, odpowiadającym wymaganiu określonemu w ust. 1. 5. Obowiązek publikacji nie dotyczy rozprawy habilitacyjnej, której przedmiot jest objęty tajemnicą państwową."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Przewód habilitacyjny przeprowadza i stopień doktora habilitowanego nadaje: 1) w szkole wyższej - rada wydziału lub rada innej jej jednostki organizacyjnej; 2) w innej placówce naukowej - rada naukowa. 2. Czynności przewodu habilitacyjnego kończą się uchwałami rady jednostki organizacyjnej w przedmiocie: 1) wszczęcia przewodu habilitacyjnego; 2) wyznaczenia recenzentów; 3) dopuszczenia do kolokwium habilitacyjnego; 4) przyjęcia kolokwium habilitacyjnego; 5) nadania stopnia doktora habilitowanego. 3. W przypadku podjęcia przez radę jednostki organizacyjnej uchwały o niedopuszczeniu do kolokwium habilitacyjnego rozprawa habilitacyjna nie może stanowić podstawy do wszczęcia przewodu habilitacyjnego w innej jednostce organizacyjnej. 4. Przed podjęciem przez radę jednostki organizacyjnej uchwały o nadaniu stopnia doktora habilitowanego osoba ubiegająca się o nadanie tego stopnia wygłasza na posiedzeniu tej rady wykład habilitacyjny."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Uchwała o nadaniu stopnia doktora habilitowanego staje się prawomocna z chwilą jej zatwierdzenia przez Centralną Komisję, z zastrzeżeniem art. 9 ust. 5. Uchwała jest przedstawiana Centralnej Komisji wraz z aktami przewodu habilitacyjnego w terminie jednego miesiąca od dnia podjęcia uchwały. O zatwierdzeniu uchwały Centralna Komisja rozstrzyga w terminie do sześciu miesięcy od dnia otrzymania uchwały. 2. W przypadku niezatwierdzenia uchwały o nadaniu stopnia doktora habilitowanego, rada jednostki organizacyjnej lub osoba ubiegająca się o nadanie tego stopnia może, w terminie trzech miesięcy od dnia doręczenia jej rozstrzygnięcia, wystąpić do Centralnej Komisji z wnioskiem o ponowne rozpatrzenie sprawy. 3. Centralna Komisja rozpatruje wniosek, o którym mowa w ust. 2, w terminie sześciu miesięcy od dnia jego doręczenia. 4. W postępowaniu, o którym mowa w ust. 3, mogą brać udział recenzenci powołani w przewodzie habilitacyjnym."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Uchwały, o których mowa w art. 14 ust. 2 i art. 18 ust. 2, są podejmowane w głosowaniu tajnym i zapadają bezwzględną większością oddanych głosów przy obecności co najmniej połowy ogólnej liczby osób uprawnionych do głosowania. 2. Do głosowania, o którym mowa w ust. 1, w przewodach o nadanie stopnia naukowego doktora i doktora habilitowanego są uprawnieni członkowie rady właściwej jednostki organizacyjnej posiadający tytuł naukowy profesora lub stopień naukowy doktora habilitowanego, a w przewodach o nadanie stopnia doktora i doktora habilitowanego sztuki - członkowie rady właściwej jednostki organizacyjnej posiadający tytuł profesora lub stopień doktora habilitowanego sztuki. 3. Uprawnienie, o którym mowa w ust. 2, przysługuje ponadto osobom wymienionym w art. 10 oraz recenzentom, a w czynnościach przewodu doktorskiego - także promotorowi rozprawy doktorskiej. 4. W przewodach doktorskich prowadzonych w ramach współpracy międzynarodowej lub w przypadku przygotowywania interdyscyplinarnej rozprawy doktorskiej rada jednostki organizacyjnej może powołać drugiego promotora. 5. W przewodach doktorskich powołuje się co najmniej dwóch, a w przewodach habilitacyjnych co najmniej trzech recenzentów, w tym nie więcej niż jednego zatrudnionego w tej samej szkole wyższej lub w innej placówce naukowej, której pracownikiem jest osoba ubiegająca się o nadanie stopnia doktora lub doktora habilitowanego, albo będącego członkiem rady jednostki organizacyjnej przeprowadzającej przewód. 6. Promotorem w przewodzie doktorskim oraz recenzentem rozprawy doktorskiej lub habilitacyjnej w dziedzinie nauki może być osoba posiadająca tytuł naukowy profesora lub stopień naukowy doktora habilitowanego w zakresie danej lub pokrewnej dyscypliny naukowej, a w dziedzinie sztuki - osoba posiadająca tytuł profesora sztuki lub stopień doktora habilitowanego sztuki w zakresie danej lub pokrewnej dyscypliny artystycznej. 7. Promotorem w przewodzie doktorskim oraz jednym z recenzentów rozprawy doktorskiej lub habilitacyjnej może być również osoba będąca pracownikiem zagranicznej szkoły wyższej lub instytucji naukowej, nieposiadająca polskiego stopnia doktora habilitowanego lub tytułu profesora, jeżeli rada jednostki organizacyjnej przeprowadzająca przewód uzna, że osoba ta jest wybitnym znawcą problematyki, której dotyczy rozprawa doktorska lub habilitacyjna."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Osoba ubiegająca się o nadanie stopnia doktora lub doktora habilitowanego może wnieść od uchwał, o których mowa w art. 14 ust. 2 i art. 18 ust. 2, jeżeli są one odmowne, odwołanie do Centralnej Komisji za pośrednictwem rady właściwej jednostki organizacyjnej w terminie jednego miesiąca od dnia powiadomienia o treści uchwały. Rada przekazuje odwołanie Centralnej Komisji wraz ze swoją opinią i aktami przewodu w terminie trzech miesięcy od dnia złożenia odwołania. 2. Po rozpatrzeniu odwołania, w terminie nie dłuższym niż sześć miesięcy, Centralna Komisja albo utrzymuje w mocy zaskarżoną uchwałę, albo uchylając ją, przekazuje sprawę do ponownego rozpatrzenia radzie tej samej lub innej jednostki organizacyjnej."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Osobom, którym wszczęto przewód doktorski lub które przygotowują się do wszczęcia przewodu habilitacyjnego, mogą być przyznawane stypendia. 2. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki przyznawania stypendiów, o których mowa w ust. 1, a w szczególności: 1) tryb i kryteria przyznawania stypendiów, uzależniając możliwość ich otrzymania od stopnia zaawansowania rozprawy; 2) tryb i kryteria cofania i zwrotu stypendiów w przypadku niewykazywania dostatecznych postępów w pracy naukowej lub podjęcia dodatkowego zatrudnienia; 3) organ uprawniony do podejmowania decyzji w sprawach, o których mowa w pkt 1 i 2; 4) maksymalny okres, na jaki stypendia mogą być przyznane; 5) wysokość stypendiów doktorskich w relacji do minimalnej stawki wynagrodzenia zasadniczego określonego dla asystenta w przepisach o wynagradzaniu nauczycieli akademickich, a stypendium habilitacyjnego w relacji do minimalnej stawki wynagrodzenia zasadniczego adiunkta."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Pracownikowi niebędącemu nauczycielem akademickim lub pracownikiem naukowym, przygotowującemu rozprawę doktorską lub habilitacyjną, przysługuje, na jego wniosek, w uzgodnionym z pracodawcą terminie, urlop w wymiarze dwudziestu ośmiu dni roboczych, w rozumieniu art. 154 § 2 Kodeksu pracy , na przygotowanie obrony rozprawy doktorskiej lub kolokwium habilitacyjnego oraz zwolnienie od pracy na przeprowadzenie obrony rozprawy doktorskiej lub kolokwium habilitacyjnego. 2. Za okres urlopu oraz za czas zwolnienia od pracy, o których mowa w ust. 1, przysługuje pracownikowi wynagrodzenie ustalane jak za urlop wypoczynkowy."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Zasady uznawania stopni naukowych i stopni w zakresie sztuki nadanych za granicą za równorzędne ze stopniami, o których mowa w ustawie, określają umowy międzynarodowe. 2. W przypadku braku umów międzynarodowych stopnie naukowe i stopnie w zakresie sztuki uzyskane za granicą mogą być uznane, w drodze nostryfikacji, za równorzędne ze stopniami określonymi w ustawie, z zastrzeżeniem ust. 4 pkt 5. 3. Osoby ubiegające się o uznanie stopni naukowych lub stopni w zakresie sztuki uzyskanych za granicą za równorzędne ze stopniami określonymi w ustawie w trybie, o którym mowa w ust. 2, wnoszą opłaty związane z przeprowadzeniem postępowania nostryfikacyjnego w wysokości nieprzekraczającej 50% maksymalnego wynagrodzenia zasadniczego profesora zwyczajnego określonego w przepisach o wynagradzaniu nauczycieli akademickich. Wysokość opłat ustala kierownik jednostki organizacyjnej przeprowadzającej to postępowanie. 4. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia: 1) jednostki organizacyjne uprawnione do przeprowadzania postępowania nostryfikacyjnego oraz zakres kompetencji ich organów, uwzględniając przepisy określające zasady i tryb przeprowadzania przewodów doktorskich i habilitacyjnych; 2) tryb nostryfikacji stopni naukowych i stopni w zakresie sztuki uzyskanych za granicą, uwzględniając w szczególności możliwość i warunki zwalniania z całości lub części postępowania nostryfikacyjnego; 3) rodzaje dokumentów, które powinny być dołączone do podań o nostryfikację stopni naukowych i stopni w zakresie sztuki; 4) warunki ustalania odpłatności za przeprowadzenie postępowania nostryfikacyjnego, uwzględniając koszty recenzji rozpraw doktorskich i habilitacyjnych oraz przeprowadzenia egzaminów doktorskich lub kolokwium habilitacyjnego, możliwość obniżania lub zwalniania z opłat oraz sposób wnoszenia opłat; 5) warunki, w których stopnie naukowe i stopnie w zakresie sztuki nadane za granicą będą uznawane za równorzędne ze stopniami określonymi w ustawie bez konieczności przeprowadzania postępowania nostryfikacyjnego. Rozdział 3 Tytuł naukowy i tytuł w zakresie sztuki"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Tytuł profesora nadaje Prezydent Rzeczypospolitej Polskiej w oparciu o wniosek Centralnej Komisji, o którym mowa w art. 28 ust. 4."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Tytuł profesora może być nadany osobie, która uzyskała stopień doktora habilitowanego, ma osiągnięcia naukowe lub artystyczne znacznie przekraczające wymagania stawiane w przewodzie habilitacyjnym oraz posiada poważne osiągnięcia dydaktyczne, w tym w kształceniu kadry naukowej lub artystycznej, z zastrzeżeniem ust. 2 i 3. 2. Centralna Komisja może, w szczególnych przypadkach, na wniosek rady właściwej jednostki organizacyjnej posiadającej uprawnienie do nadawania stopnia doktora habilitowanego, dopuścić do wszczęcia postępowania o nadanie tytułu profesora osobie, która uzyskała stopień doktora i posiada wybitne osiągnięcia naukowe lub artystyczne. 3. Za dorobek naukowy uważa się również wybitne zrealizowane osiągnięcia projektowe, konstrukcyjne lub technologiczne, a za dorobek artystyczny - wybitne dzieło artystyczne."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Postępowanie o nadanie tytułu profesora przeprowadzają rady jednostek organizacyjnych posiadających uprawnienie do nadawania stopnia doktora habilitowanego w zakresie danej dziedziny nauki lub sztuki. Art. 10 stosuje się odpowiednio. 2. Rada jednostki organizacyjnej, o której mowa w ust. 1, może wszcząć postępowanie o nadanie tytułu profesora z własnej inicjatywy, za zgodą zainteresowanego albo na wniosek: 1) rady jednostki organizacyjnej niespełniającej wymagań, o których mowa w ust. 1, zatrudniającej osobę ubiegającą się o nadanie tytułu, za jej zgodą; 2) zainteresowanego, poparty opiniami trzech osób posiadających tytuł profesora danej dziedziny nauki lub sztuki. 3. Czynności postępowania w sprawach o nadanie tytułu profesora kończą się uchwałami rady w przedmiocie: 1) wszczęcia postępowania o nadanie tytułu profesora; 2) wyznaczenia recenzentów; 3) poparcia wniosku o nadanie tytułu profesora. 4. W postępowaniu o nadanie tytułu profesora powołuje się co najmniej trzech recenzentów, w tym nie więcej niż jednego zatrudnionego w tej samej szkole wyższej lub w innej placówce naukowej, której pracownikiem jest osoba ubiegająca się o nadanie tytułu profesora, albo będącego członkiem rady jednostki organizacyjnej przeprowadzającej postępowanie. Recenzentem może być osoba posiadająca tytuł profesora w zakresie danej lub pokrewnej dziedziny nauki lub sztuki. 5. W postępowaniu o nadanie tytułu profesora stosuje się odpowiednio przepisy art. 20 ust. 1-3 oraz art. 21."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Rada właściwej jednostki organizacyjnej po podjęciu uchwały popierającej wniosek o nadanie tytułu profesora przesyła go wraz z aktami postępowania, w terminie jednego miesiąca od podjęcia uchwały, do Centralnej Komisji. 2. Centralna Komisja przeprowadza postępowanie w przedmiocie przedstawienia kandydata do tytułu profesora. Do tego postępowania stosuje się odpowiednio przepisy art. 19. 3. Centralna Komisja podejmuje uchwałę o przedstawieniu albo o odmowie przedstawienia kandydata do tytułu profesora. 4. Centralna Komisja, w terminie jednego miesiąca od podjęcia uchwały o przedstawieniu kandydata do tytułu, składa do Prezydenta Rzeczypospolitej Polskiej wniosek o nadanie tytułu profesora. Rozdział 4 Przepisy wspólne"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. W postępowaniach dotyczących nadania stopnia doktora i doktora habilitowanego albo tytułu profesora oraz ograniczenia, zawieszenia i pozbawienia uprawnienia do nadawania tych stopni w zakresie nieuregulowanym w ustawie stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego . Do zaskarżenia decyzji wydanych w tych postępowaniach stosuje się przepisy o zaskarżaniu decyzji administracyjnych do sądu administracyjnego. 2. Przesłankami do wznowienia postępowania o nadanie stopni doktora i doktora habilitowanego albo tytułu profesora mogą być także, oprócz wymienionych w Kodeksie postępowania administracyjnego , ujawnione okoliczności wskazujące na to, że stopień doktora lub doktora habilitowanego albo tytuł profesora został nadany na podstawie dorobku powstałego z naruszeniem prawa, w tym praw autorskich, lub dobrych obyczajów w nauce. 3. W przypadku zaistnienia przesłanek do wznowienia postępowania o nadanie stopnia doktora i doktora habilitowanego albo tytułu profesora organem wydającym postanowienie o wznowieniu postępowania jest Centralna Komisja."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Przyjęcie funkcji promotora, członka komisji egzaminacyjnej w przewodzie doktorskim, recenzenta w przewodzie doktorskim lub habilitacyjnym oraz w postępowaniu o nadanie tytułu profesora, a także sporządzenie opinii na wniosek Centralnej Komisji jest obowiązkiem nauczyciela akademickiego lub innego pracownika naukowego. W uzasadnionych przypadkach może nastąpić zwolnienie od tego obowiązku. 2. Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, wysokość i warunki wypłacania wynagrodzenia promotorowi oraz za recenzje i opinie, o których mowa w ust. 1, uwzględniając w szczególności, że: 1) wysokość wynagrodzenia ustala się w relacji do minimalnej stawki wynagrodzenia zasadniczego profesora zwyczajnego, określonego w przepisach o wynagradzaniu nauczycieli akademickich; 2) wynagrodzenie wypłaca jednostka powołująca promotora lub zlecająca opracowanie recenzji lub opinii, z tym że jednostka zatrudniająca kandydata do stopnia doktora lub doktora habilitowanego albo tytułu profesora może przejąć ten obowiązek."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Minister właściwy do spraw szkolnictwa wyższego, po zasięgnięciu opinii Centralnej Komisji, określi, w drodze rozporządzenia, szczegółowy tryb przeprowadzania czynności w przewodach doktorskim i habilitacyjnym oraz w postępowaniu o nadanie tytułu profesora, uwzględniając w szczególności: 1) dokumenty, jakie powinna przedstawić osoba ubiegająca się o wszczęcie przewodu doktorskiego, habilitacyjnego lub postępowania o nadanie tytułu profesora; 2) skład oraz tryb działania komisji i zespołów powoływanych przez rady jednostek organizacyjnych przeprowadzających przewody doktorskie i habilitacyjne lub postępowanie o nadanie tytułu profesora, a także możliwość powoływania do składu komisji i zespołów, w przewodach doktorskim i habilitacyjnym, z wyjątkiem komisji przeprowadzającej egzamin doktorski z języka obcego - osób posiadających tytuł profesora lub stopień doktora habilitowanego, a w przypadku postępowania o nadanie tytułu naukowego - wyłącznie osób z tytułem profesora; 3) możliwość i warunki powtórnego zdawania egzaminów doktorskich i kolokwiów habilitacyjnych; 4) wymagania, jakie powinny spełniać recenzje; 5) sposób przedstawiania i oceniania rozpraw doktorskich i habilitacyjnych będących pracami zbiorowymi, a także podejmowania uchwał o nadaniu stopnia doktora lub doktora habilitowanego; 6) wzory dyplomów doktorskiego i habilitacyjnego; 7) określenie wysokości opłat za wydanie dyplomu doktorskiego i habilitacyjnego oraz ich duplikatów i odpisów w języku obcym, a także organu uprawnionego do podejmowania decyzji w tym zakresie; 8) sposób powiadamiania ministra właściwego do spraw szkolnictwa wyższego o nadaniu stopni doktora i doktora habilitowanego, wzór odpowiednich zawiadomień oraz sposób ogłaszania nazwisk osób, którym nadano te stopnie."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Za wyróżnione rozprawy doktorskie i habilitacyjne oraz za działalność naukową, naukowo-techniczną lub artystyczną mogą być przyznawane nagrody Prezesa Rady Ministrów, zwane dalej „nagrodami”. 2. Prezes Rady Ministrów określi, w drodze rozporządzenia, liczbę, wysokość oraz warunki i tryb przyznawania nagród, o których mowa w ust. 1, uwzględniając w szczególności: 1) skład i kompetencje zespołu do spraw nagród, zwanego dalej „zespołem”; 2) czas trwania kadencji zespołu; 3) wysokość wynagrodzenia członków zespołu oraz osób opiniujących wnioski, a także warunki zwrotu kosztów podróży członkom zespołu i opiniodawcom; 4) sposób obsługi i finansowania prac zespołu; 5) jednostki uprawnione do występowania z wnioskiem o przyznanie nagrody; 6) wykaz niezbędnej dokumentacji oraz sposób i termin jej przekazywania; 7) datę przyznawania nagród. Rozdział 5 Centralna Komisja do Spraw Stopni i Tytułów"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Centralna Komisja działa przy Prezesie Rady Ministrów i w zakresie wydawanych przez siebie decyzji pełni funkcje centralnego organu administracji rządowej. 2. Centralna Komisja opiniuje projekty aktów normatywnych dotyczących spraw związanych z nadawaniem stopni doktora i doktora habilitowanego oraz tytułu profesora, a także wyraża opinie w sprawie zatrudnienia w szkole wyższej na stanowisku profesora nadzwyczajnego osób nieposiadających stopnia doktora habilitowanego. 3. Przewodniczącego Centralnej Komisji powołuje Prezes Rady Ministrów spośród dwóch kandydatów przedstawionych przez Centralną Komisję z grona jej członków. 4. Obsługę Centralnej Komisji sprawują odpowiednie komórki organizacyjne urzędu obsługującego ministra właściwego do spraw szkolnictwa wyższego oraz Biuro Centralnej Komisji. Do pracowników Biura Centralnej Komisji stosuje się przepisy dotyczące pracowników urzędów państwowych, a w przypadku urzędników służby cywilnej - przepisy o służbie cywilnej. 5. Prezes Rady Ministrów, po zasięgnięciu opinii Centralnej Komisji, określi, w drodze rozporządzenia, sposób i zakres obsługi, w tym administracyjnej i finansowej, prac tej Komisji, wysokość wynagrodzenia jej członków oraz warunki zwrotu kosztów podróży jej członkom i wyznaczanym przez nią recenzentom, uwzględniając w szczególności, że wysokość wynagrodzenia członków Centralnej Komisji będzie ustalana w relacji do minimalnej stawki wynagrodzenia zasadniczego profesora zwyczajnego określonej w przepisach o wynagradzaniu nauczycieli akademickich."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Kadencja Centralnej Komisji trwa cztery lata i rozpoczyna się dnia 1 stycznia. 2. Członkiem Centralnej Komisji może zostać obywatel polski posiadający tytuł profesora. 3. Członkowie Centralnej Komisji są wybierani przez osoby posiadające tytuł profesora. Kandydatów na członków Centralnej Komisji mogą przedstawiać rady jednostek organizacyjnych posiadających uprawnienie do nadawania stopnia doktora. 4. W skład Centralnej Komisji wchodzi co najmniej trzech przedstawicieli każdej dziedziny nauki i sztuki, określonych na podstawie art. 3 ust. 1. 5. Prezes Rady Ministrów, po zasięgnięciu opinii Centralnej Komisji, określi, w drodze rozporządzenia, liczbę członków Centralnej Komisji oraz warunki i tryb ich wyboru, a w szczególności: 1) liczbę członków Centralnej Komisji reprezentujących poszczególne dziedziny nauki i dziedziny sztuki oraz dyscypliny naukowe i artystyczne; 2) liczbę kandydatów zgłaszanych z każdej dyscypliny naukowej i artystycznej, w której jednostka organizacyjna, określona w ust. 3, posiada uprawnienia; 3) możliwość wskazywania przez komisję wyborczą jednostek organizacyjnych, które będą zgłaszały dodatkowych kandydatów, w przypadku gdy liczba przedstawionych kandydatów nie przekracza liczby członków Centralnej Komisji ustalonej dla danej dziedziny nauki lub dziedziny sztuki oraz dyscypliny naukowej lub artystycznej; 4) skład i tryb działania komisji wyborczej powołanej przez Prezesa Rady Ministrów; 5) sposób podejmowania przez rady jednostek organizacyjnych uchwał w sprawie zgłoszenia kandydatów oraz warunki ważności głosów oddanych w czasie wyborów."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Centralna Komisja działa na posiedzeniach plenarnych lub przez swoje organy. 2. Organami Centralnej Komisji są: 1) przewodniczący Centralnej Komisji; 2) prezydium Centralnej Komisji; 3) sekcje Centralnej Komisji. 3. Centralna Komisja podejmuje uchwały po zasięgnięciu opinii co najmniej jednego recenzenta. Uchwały o odmowie nadania stopnia lub tytułu w sprawach, o których mowa w art. 15 ust. 2, art. 19 ust. 1 oraz art. 28 ust. 3, mogą być podjęte po zasięgnięciu opinii co najmniej dwóch recenzentów, w tym co najmniej jednego spoza składu Centralnej Komisji. 4. Centralna Komisja podejmuje uchwały w sprawach, o których mowa w art. 15 ust. 3 i 4, art. 19 ust. 2 i 3 oraz art. 27 ust. 5, po zasięgnięciu opinii co najmniej jednego recenzenta. 5. Kompetencje organów Centralnej Komisji, sposób wyboru prezydium Centralnej Komisji, jej organizację i tryb działania oraz sposób powoływania recenzentów określa uchwalony przez nią statut."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Centralna Komisja przesyła jednostkom organizacyjnym roczne sprawozdania ze swojej działalności. Rozdział 6 Studia doktoranckie"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Studia doktoranckie przygotowują do uzyskania stopnia doktora. 2. Studia doktoranckie mogą prowadzić jednostki organizacyjne posiadające uprawnienie do nadawania stopnia doktora habilitowanego. 3. Studia doktoranckie mogą być studiami środowiskowymi prowadzonymi przez jednostki, o których mowa w ust. 2, przy udziale innych jednostek organizacyjnych. Zadania poszczególnych jednostek organizacyjnych oraz sposób finansowania studiów doktoranckich określają umowy zawarte między tymi jednostkami. 4. Studia doktoranckie w szkole wyższej są tworzone przez rektora, a w innej placówce naukowej - przez jej dyrektora. 5. Nadzór merytoryczny nad studiami doktoranckimi sprawuje rada jednostki organizacyjnej prowadzącej te studia. 6. Studia doktoranckie są prowadzone jako studia dzienne lub zaoczne. 7. Studia doktoranckie dzienne są bezpłatne. 8. Wysokość opłat za studia doktoranckie zaoczne, jeżeli są one odpłatne, ustala organ tworzący te studia."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Do podstawowych obowiązków uczestników studiów doktoranckich należy: 1) uczestnictwo w realizacji programu studiów i składanie wyznaczonych egzaminów; 2) prowadzenie badań naukowych lub działalności artystycznej i składanie sprawozdań z ich przebiegu. 2. Uczestnicy dziennych studiów doktoranckich mają także obowiązek prowadzenia zajęć dydaktycznych lub uczestniczenia w ich prowadzeniu. Maksymalny wymiar zajęć dydaktycznych prowadzonych przez uczestnika studiów doktoranckich nie może przekraczać 90 godzin obliczeniowych rocznie. 3. Uczestnicy studiów doktoranckich, którzy nie wywiązują się z obowiązków, o których mowa w ust. 1 i 2, mogą zostać skreśleni z listy uczestników studiów. Decyzję o skreśleniu podejmuje kierownik studiów. Od tej decyzji służy odwołanie do organu, który utworzył te studia, w terminie czternastu dni od jej otrzymania. 4. Uczestnicy studiów doktoranckich podlegają odpowiednio odpowiedzialności dyscyplinarnej na zasadach określonych dla studentów w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Uczestnicy studiów doktoranckich mają prawo do: 1) corocznej przerwy w okresie wakacji, w wymiarze ośmiu tygodni; 2) ubezpieczenia społecznego i powszechnego ubezpieczenia zdrowotnego na zasadach określonych w odrębnych przepisach. 2. Okres odbywania studiów doktoranckich, niezależnie od daty ich zakończenia, nie dłuższy niż cztery lata, zalicza się do okresu pracy, od którego zależą uprawnienia pracownicze, jeżeli obrona rozprawy doktorskiej nastąpiła w ciągu roku od daty zakończenia tych studiów. 3. Do okresu, od którego zależą uprawnienia pracownicze, zalicza się również okres odbywania dziennych studiów doktoranckich, jeżeli zostały one przerwane z powodu podjęcia zatrudnienia w charakterze nauczyciela akademickiego lub pracownika naukowego i w okresie przewidzianym dla tych studiów został uzyskany stopień doktora. Przepis ust. 2 stosuje się odpowiednio. 4. Jeżeli regulamin, o którym mowa w art. 8 ust. 2 ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych ( Dz. U. z 1996 r. Nr 70, poz. 335 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717 oraz z 2002 r. Nr 135, poz. 1146. ) , tak stanowi, z zakładowego funduszu świadczeń socjalnych mogą korzystać także uczestnicy studiów doktoranckich."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Uczestnik studiów doktoranckich może otrzymać stypendium doktoranckie. 2. Minimalna wysokość stypendium, o którym mowa w ust. 1, nie może być niższa niż 60% minimalnego wynagrodzenia zasadniczego asystenta ustalonego w przepisach o wynagradzaniu nauczycieli akademickich. 3. Decyzję o przyznaniu stypendium doktoranckiego oraz jego wysokości podejmuje organ tworzący studia doktoranckie. 4. Uczestnicy dziennych studiów doktoranckich mogą podejmować pracę zarobkową, z zastrzeżeniem ust. 5. Wykonywanie tej pracy nie powinno kolidować z zajęciami wynikającymi z programu studiów doktoranckich. 5. Uczestnicy dziennych studiów doktoranckich otrzymujący stypendium mogą podejmować pracę zarobkową wyłącznie w niepełnym wymiarze czasu pracy, po uzyskaniu zgody kierownika tych studiów. 6. W przypadku skreślenia z listy uczestników studiów doktoranckich podmiot, który przyznał stypendium, może wystąpić o jego zwrot."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Minister właściwy do spraw szkolnictwa wyższego określi, w drodze rozporządzenia, warunki i tryb organizowania studiów doktoranckich, ich prowadzenia i odbywania oraz przyznawania stypendiów osobom je odbywającym, a także zwrot stypendiów, uwzględniając w szczególności: 1) określenie czasu trwania studiów i możliwość przedłużania go, w tym prawo do dodatkowego przedłużenia okresu odbywania studiów doktoranckich o czas trwania urlopu macierzyńskiego określonego w odrębnych przepisach; 2) sposób przeprowadzania rekrutacji; 3) szczegółowe uprawnienia organu tworzącego studia doktoranckie, rady jednostki organizacyjnej i kierownika studiów doktoranckich; 4) szczegółowe zasady powierzania uczestnikom studiów doktoranckich prowadzenia zajęć dydaktycznych; 5) wzór legitymacji uczestnika studiów doktoranckich i świadectwa ich ukończenia; 6) wysokość opłat za wydanie legitymacji i świadectwa. Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe ( Dz. U. Nr 20, poz. 101 , z późn. zm. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552, z 2001 r. Nr 154, poz. 1784 i 1800, z 2002 r. Nr 214, poz. 1805 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391. ) w art. 4 w ust. 1 wyrazy „tytuł naukowy profesora lub stopień naukowy doktora habilitowanego” zastępuje się wyrazami „tytuł naukowy profesora, tytuł profesora sztuki, stopień naukowy doktora habilitowanego lub stopień doktora habilitowanego sztuki” ."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ( Dz. U. Nr 65, poz. 385 , z późn. zm. 3) Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34, Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383 oraz z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683. ) wprowadza się następujące zmiany: 1) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. Występujące w ustawie pojęcia: 1) „nauka” i „badania naukowe” oznaczają także odpowiednio „sztukę” i „twórczość artystyczną”, 2) „stopień naukowy doktora” i „stopień naukowy doktora habilitowanego” oznaczają także odpowiednio „stopień doktora sztuki” i „stopień doktora habilitowanego sztuki”, 3) „tytuł naukowy profesora” oznacza także odpowiednio „tytuł profesora sztuki”. ” ; 2) w art. 5 skreśla się zdanie drugie."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych ( Dz. U. z 2000 r. Nr 14, poz. 176 , z późn. zm. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058 oraz z 2003 r. Nr 7, poz. 79 i Nr 45, poz. 391. ) w art. 21 w ust. 1 wprowadza się następujące zmiany: 1) w pkt 39 wyrazy „wydanych przez właściwego ministra w sprawie studiów doktoranckich i stypendiów naukowych” zastępuje się wyrazami „o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki” ; 2) w pkt 40 wyrazy „o tytule naukowym i stopniach naukowych” zastępuje się wyrazami „o stopniach naukowych i tytule naukowym oraz o stopniach i tytule w zakresie sztuki” ."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych ( Dz. U. Nr 96, poz. 590 , z późn. zm. 5) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194 oraz z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239. ) w art. 2 po ust. 2 dodaje się ust. 3 w brzmieniu: „ 3. Występujące w ustawie pojęcia: 1) badania oznaczają także odpowiednio twórczość artystyczną, 2) stopień naukowy doktora i stopień naukowy doktora habilitowanego oznaczają także odpowiednio stopień doktora sztuki i stopień doktora habilitowanego sztuki, 3) tytuł naukowy profesora oznacza także odpowiednio tytuł profesora sztuki. ” ."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "W ustawie z dnia 4 września 1997 r. o działach administracji rządowej ( Dz. U. z 1999 r. Nr 82, poz. 928 , z późn. zm. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136, Nr 43, poz. 489, Nr 48, poz. 550, Nr 62, poz. 718, Nr 70, poz. 816, Nr 73, poz. 852, Nr 109, poz. 1158 i Nr 122, poz. 1314 i 1321, z 2001 r. Nr 3, poz. 18, Nr 5, poz. 43 i 44, Nr 42, poz. 475, Nr 63, poz. 634, Nr 73, poz. 761, Nr 76, poz. 811, Nr 87, poz. 954, Nr 102, poz. 1116, Nr 113, poz. 1207, Nr 115, poz. 1229, Nr 123, poz. 1353, Nr 125, poz. 1371, Nr 126, poz. 1382, Nr 129, poz. 1441, Nr 130, poz. 1450 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 71, poz. 655, Nr 74, poz. 676, Nr 89, poz. 804, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 135, poz. 1145 oraz z 2003 r. Nr 52, poz. 450 i Nr 64, poz. 592. ) w art. 26 w ust. 1 skreśla się wyrazy „nadzoru nad przyznawaniem tytułów naukowych” ."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych ( Dz. U. Nr 137, poz. 887 , z późn. zm. 7) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498. ) w art. 7 pkt 4 otrzymuje brzmienie: „ 4) studentom oraz uczestnikom studiów doktoranckich, jeżeli nie podlegają ubezpieczeniom emerytalnemu i rentowym z innego tytułu, ” ."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "W ustawie z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych ( Dz. U. Nr 62, poz. 718 , z 2001 r. Nr 46, poz. 499 oraz z 2002 r. Nr 74, poz. 676 i Nr 113, poz. 984 ) w art. 10 w ust. 2 w pkt 4 w lit. j po wyrazie „profesora” dodaje się wyrazy „i tytułu profesora sztuki” ."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Jednostki organizacyjne uprawnione do nadawania stopni naukowych na podstawie dotychczasowych przepisów zachowują to uprawnienie, jeżeli spełniają wymagania określone w niniejszej ustawie. 2. Uprawnienia jednostek organizacyjnych do przeprowadzania przewodów kwalifikacyjnych I i II stopnia w zakresie sztuki i dyscyplin artystycznych, uzyskane na podstawie dotychczasowych przepisów, stają się uprawnieniami do nadawania stopni w zakresie sztuki, jeżeli dana jednostka organizacyjna spełnia wymagania określone w art. 6. 3. Jednostkom organizacyjnym uprawnionym do przeprowadzania przewodów kwalifikacyjnych I i II stopnia w zakresie sztuki i dyscyplin artystycznych, które nie spełniają wymagań co do liczby pracowników, określonych w art. 6, uprawnienia, o których mowa w ust. 2, przysługują w okresie roku od dnia wejścia w życie ustawy. Jeżeli w tym okresie jednostka organizacyjna nie spełni wymagań określonych w ustawie, traci uprawnienia. Przepis art. 8 ust. 3 stosuje się odpowiednio. 4. Nierozpatrzone do dnia wejścia w życie ustawy wnioski o przyznanie uprawnień do przeprowadzania przewodów kwalifikacyjnych I i II stopnia w zakresie sztuki i dyscyplin artystycznych rozpatruje się na podstawie przepisów niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Osoby, które uzyskały kwalifikacje I lub II stopnia na podstawie dotychczasowych przepisów, posiadają uprawnienia równoważne uprawnieniom wynikającym odpowiednio z nadania stopnia doktora sztuki lub doktora habilitowanego sztuki. 2. Osoby, które uzyskały kwalifikacje II stopnia na podstawie dotychczasowych przepisów, są uwzględniane przy ustalaniu warunków, o których mowa w art. 6, oraz mogą pełnić funkcję promotora i recenzenta w przewodach doktorskich i recenzenta w przewodach habilitacyjnych w zakresie sztuki. 3. Tytuł naukowy profesora danej dziedziny sztuki, nadany na podstawie dotychczasowych przepisów, staje się tytułem profesora sztuki, określonym w niniejszej ustawie, z tym że osoby posiadające tytuł naukowy profesora danej dziedziny sztuki zachowują prawo używania tego tytułu w dotychczasowym brzmieniu."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Przewody doktorskie i habilitacyjne, niezakończone do dnia wejścia w życie ustawy, są prowadzone na podstawie przepisów dotychczasowych. 2. Przewody kwalifikacyjne I i II stopnia w zakresie sztuki i dyscyplin artystycznych, niezakończone do dnia wejścia w życie ustawy, są prowadzone na podstawie przepisów dotychczasowych, jednakże w ich wyniku nadaje się stopnie, odpowiednio doktora i doktora habilitowanego sztuki. 3. Postępowania o nadanie tytułu naukowego danej dziedziny sztuki, niezakończone do dnia wejścia w życie ustawy, są prowadzone na podstawie przepisów dotychczasowych, jednakże w ich wyniku nadaje się tytuł profesora sztuki."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Z dniem wejścia w życie ustawy Centralna Komisja do Spraw Tytułu Naukowego i Stopni Naukowych staje się Centralną Komisją, w rozumieniu przepisów ustawy. Kadencja tej Komisji upływa z dniem 31 grudnia 2006 r."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy pozostają w mocy przepisy dotychczasowych aktów wykonawczych, jeżeli nie są z nią sprzeczne."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Traci moc ustawa z dnia 12 września 1990 r. o tytule naukowym i stopniach naukowych ( Dz. U. Nr 65, poz. 386 , z 1997 r. Nr 43, poz. 272 oraz z 2000 r. Nr 120, poz. 1268 ) ."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 24 ust. 4 pkt 5, który wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 1996 r. Nr 118, poz. 561, Nr 139, poz. 647 i Nr 147, poz. 686, z 1997 r. Nr 82, poz. 518 i Nr 121, poz. 770, z 1998 r. Nr 75, poz. 486 i Nr 113, poz. 717 oraz z 2002 r. Nr 135, poz. 1146. 2) Zmiany ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552, z 2001 r. Nr 154, poz. 1784 i 1800, z 2002 r. Nr 214, poz. 1805 i Nr 240, poz. 2052 oraz z 2003 r. Nr 45, poz. 391. 3) Zmiany ustawy zostały ogłoszone w Dz. U. z 1991 r. Nr 104, poz. 450, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34, Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943, z 1998 r. Nr 50, poz. 310, Nr 106, poz. 668 i Nr 162, poz. 1115 i 1118, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924, Nr 103, poz. 1129, Nr 111, poz. 1193 i 1194 i Nr 126, poz. 1383 oraz z 2002 r. Nr 4, poz. 33 i 34, Nr 150, poz. 1239, Nr 153, poz. 1271 i Nr 200, poz. 1683. 4) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 22, poz. 270, Nr 60, poz. 703, Nr 70, poz. 816, Nr 104, poz. 1104, Nr 117, poz. 1228 i Nr 122, poz. 1324, z 2001 r. Nr 4, poz. 27, Nr 8, poz. 64, Nr 52, poz. 539, Nr 73, poz. 764, Nr 74, poz. 784, Nr 88, poz. 961, Nr 89, poz. 968, Nr 102, poz. 1117, Nr 106, poz. 1150, Nr 110, poz. 1190, Nr 125, poz. 1363 i 1370 i Nr 134, poz. 1509, z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 89, poz. 804, Nr 135, poz. 1146, Nr 141, poz. 1182, Nr 169, poz. 1384, Nr 181, poz. 1515, Nr 200, poz. 1679 i Nr 240, poz. 2058 oraz z 2003 r. Nr 7, poz. 79 i Nr 45, poz. 391. 5) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 106, poz. 668, z 2000 r. Nr 120, poz. 1268 i Nr 122, poz. 1314, z 2001 r. Nr 85, poz. 924 i Nr 111, poz. 1194 oraz z 2002 r. Nr 4, poz. 33 i Nr 150, poz. 1239. 6) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2000 r. Nr 12, poz. 136, Nr 43, poz. 489, Nr 48, poz. 550, Nr 62, poz. 718, Nr 70, poz. 816, Nr 73, poz. 852, Nr 109, poz. 1158 i Nr 122, poz. 1314 i 1321, z 2001 r. Nr 3, poz. 18, Nr 5, poz. 43 i 44, Nr 42, poz. 475, Nr 63, poz. 634, Nr 73, poz. 761, Nr 76, poz. 811, Nr 87, poz. 954, Nr 102, poz. 1116, Nr 113, poz. 1207, Nr 115, poz. 1229, Nr 123, poz. 1353, Nr 125, poz. 1371, Nr 126, poz. 1382, Nr 129, poz. 1441, Nr 130, poz. 1450 i Nr 154, poz. 1800, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 71, poz. 655, Nr 74, poz. 676, Nr 89, poz. 804, Nr 93, poz. 820, Nr 130, poz. 1112 i Nr 135, poz. 1145 oraz z 2003 r. Nr 52, poz. 450 i Nr 64, poz. 592. 7) Zmiany ustawy zostały ogłoszone w Dz. U. z 1998 r. Nr 162, poz. 1118 i 1126, z 1999 r. Nr 26, poz. 228, Nr 60, poz. 636, Nr 72, poz. 802, Nr 78, poz. 875 i Nr 110, poz. 1256, z 2000 r. Nr 9, poz. 118, Nr 95, poz. 1041, Nr 104, poz. 1104 i Nr 119, poz. 1249, z 2001 r. Nr 8, poz. 64, Nr 27, poz. 298, Nr 39, poz. 459, Nr 72, poz. 748, Nr 100, poz. 1080, Nr 110, poz. 1189, Nr 111, poz. 1194, Nr 130, poz. 1452 i Nr 154, poz. 1792, z 2002 r. Nr 25, poz. 253, Nr 41, poz. 365, Nr 74, poz. 676, Nr 155, poz. 1287, Nr 169, poz. 1387, Nr 199, poz. 1673, Nr 200, poz. 1679 i Nr 241, poz. 2074 oraz z 2003 r. Nr 56, poz. 498. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Stopnie naukowe i stopnie w zakresie sztuki\",\"children\": [{\"id\": \"chpt_2-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_2-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_2-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_7-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_7-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_7-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_7-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_9-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_9-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_9-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_9-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_2-arti_9-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_12-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_12-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_12-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_12-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_14-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_14-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_14-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_2-arti_14-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_2-arti_14-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_2-arti_14-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_14-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_14-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_15-pass_2\",\""
+    }
+  ],
+  "definitions": [
+    {
+      "term": "„stopniach doktora i doktora habilitowanego” bez bliższego określenia",
+      "definition": "rozumie się przez to stopnie naukowe doktora i doktora habilitowanego oraz stopnie doktora i doktora habilitowanego sztuki",
+      "source_provision": "art4"
+    },
+    {
+      "term": "„tytule profesora” bez bliższego określenia",
+      "definition": "rozumie się przez to tytuł naukowy profesora i tytuł profesora sztuki",
+      "source_provision": "art4"
+    },
+    {
+      "term": "„jednostce organizacyjnej” bez bliższego określenia",
+      "definition": "rozumie się przez to wydział, inną jednostkę organizacyjną szkoły wyższej albo inną placówkę naukową",
+      "source_provision": "art4"
+    },
+    {
+      "term": "„radzie jednostki organizacyjnej” bez bliższego określenia",
+      "definition": "rozumie się przez to radę wydziału, radę innej jednostki organizacyjnej szkoły wyższej albo radę naukową innej placówki naukowej",
+      "source_provision": "art4"
+    },
+    {
+      "term": "„rozprawie doktorskiej i rozprawie habilitacyjnej”",
+      "definition": "rozumie się przez to również pracę doktorską i habilitacyjną w zakresie sztuki. Rozdział 2 Stopnie naukowe i stopnie w zakresie sztuki",
+      "source_provision": "art4"
+    }
+  ]
+}

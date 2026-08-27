@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1939-368",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 czerwca 1939 r. o Wojskowej Szkole Głównej Inżynierii.",
+  "title_en": "",
+  "short_name": "pl-du-1939-368",
+  "status": "repealed",
+  "issued_date": "1939-06-23",
+  "in_force_date": "1939-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/368",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Przekształca się istniejącą dotychczas Wyższą Szkołę Inżynierii na wojskową szkołę akademicką pod nazwą: „Wojskowa Szkoła Główna Inżynierii”. (2) Wojskowa Szkoła Główna Inżynierii posiada osobowość prawną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zadaniem Wojskowej Szkoły Głównej Inżynierii jest przygotowanie oficerów saperów drogą wyższych studiów techniczno-taktycznych na oficerów fortyfikatorów w ramach istniejących potrzeb na czas pokoju i wojny, na przyszłych dowódców saperów wielkich jednostek taktycznych i związków operacyjnych, oficerów sztabów saperskich, wchodzących w skład tych związków - na czas wojny oraz na dowódców jednostek, wykładowców i współpracowników instytucyj wojskowych na czas pokoju."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Spraw Wojskowych jest władzą naczelną Wojskowej Szkoły Głównej Inżynierii i sprawuje nad nią zwierzchni nadzór."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Wojskowa Szkoła Główna Inżynierii posiada statut, który określa jej ustrój, czas trwania studiów, organizację studiów i egzaminów warunki przyjęcia oraz prawa i obowiązki słuchaczów. (2) Minister Spraw Wojskowych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego nadaje statut oraz wprowadza w nim zmiany."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Na czele Wojskowej Szkoły Głównej Inżynierii stoi komendant szkoły, mianowany przez Prezydenta Rzeczypospolitej na wniosek Ministra Spraw Wojskowych. Komendantem szkoły może być tylko oficer w służbie stałej. Komendant szkoły jest przedstawicielem szkoły, przełożonym grona nauczycielskiego, pomocniczych sił naukowych oraz słuchaczów szkoły, jako też zwierzchnikiem urzędników i niższych funkcjonariuszów szkoły."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 lutego 1928 r. o stosunku służbowym profesorów państwowych szkół akademickich i pomocniczych sił naukowych tych szkół ( Dz. U. R. P. z 1933 r. Nr 76, poz. 551 ) określa stosunek służbowy niewojskowych profesorów i pomocniczych sił naukowych z tą zmianą, że przewidziane w przepisach tego rozporządzenia uprawnienia Ministra Wyznań Religijnych i Oświecenia Publicznego przechodzą na Ministra Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "(1) Słuchaczami rzeczywistymi Wojskowej Szkoły Głównej Inżynierii mogą być wyłącznie oficerowie służby stałej. (2) Oficerowie państw obcych mogą być przyjmowani w charakterze słuchaczy wyłącznie za każdorazową zgodą Ministra Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Wojskowa Szkoła Główna Inżynierii nadaje wojskowy stopień naukowy: „inżyniera wojskowego”. (2) Statut Wojskowej Szkoły Głównej Inżynierii ustala warunki uzyskiwania wojskowego stopnia naukowego inżyniera wojskowego. (3) Minister Spraw Wojskowych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego określa warunki i tryb nostryfikowania zagranicznych wojskowych stopni naukowych w zakresie wiedzy, określonej w art. 2."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Stopień inżyniera wojskowego uprawnia do wykonywania zawodów cywilnych, wymagających w myśl obowiązujących przepisów posiadania stopnia: „inżyniera budownictwa lądowego”."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Oficerom, którzy ukończyli z wynikiem pomvślnym Wyższą Szkołę Inżynierii w 1938 r., Wojskowa Szkoła Główna Inżynierii może nadać stopień inżyniera wojskowego w trvbie, statutem określonym."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_7-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

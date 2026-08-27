@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1922-257",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 kwietnia 1922 r. zmieniająca postanowienia §§ 152-162 ustawy dla Kościoła Ewangelicko-Augsburskiego w Królestwie Polskim z dnia 20 lutego 1849 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-257",
+  "status": "in_force",
+  "issued_date": "1922-04-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/257",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zamiast §§ 152 - 162 ustawy dla Kościoła Ewangelicko-Augsburskiego w Królestwie Polskiem z d. 20 lutego 1649 r. (Dz. Pr. Tom. 42, str. 11 i następne) wprowadza się następujące: Jako § 152: „ Synod Konstytucyjny Kościoła Ewangelicko-Augsburskiego w Polsce składa się: a) z członków Konsystorza, b) z profesorów wydziału teologicznego, c) z wszystkich duchownych urzędujących przy parafiach, d) z wybranych przez poszczególne parafje delegatów świeckich w ilości, odpowiadającej liczbie istniejących przy każdej z nich urzędów pastorskich, e) z wybranych przez filjały delegatów świeckich po jednym z każdego filjału, w którym liczba chrztów w roku 1913 wynosiła conajmniej 25 ” . Jako § 153: „ Wybory delegatów świeckich odbywają się w głosowaniu tajnem, bezpośredniem i równem. Prawo wybierania ma każdy członek Kościoła Ewangelicko-Augsburskiego bez różnicy płci, który w dniu ogłoszenia wyborów ma lat 24, od pół roku przynajmniej mieszka w obrębie danej parafji i we wskazanym terminie zapisał się na liście wyborczej. Głosować można tylko osobiście. Prawo wybieralności ma każdy członek Kościoła Ewangelicko - Augsburskiego. o ile ukończył lat 30 ” . Jako § 154: „ Przeprowadzenie wyborów jest obowiązkiem Konsystorza Ewangelicko-Augsburskiego w Warszawie. który zarazem wydaje przepisy i instrukcje w tym celu potrzebne i oznacza termin wyborów. Wybory odbyć się powinny w ciągu dwóch miesięcy od dnia wejścia w życie niniejszej ustawy ” . Jako § 155: „ Do udziału w Synodzie Konstytucyjnym powołane będą wszystkie parafje wyznania ewangelicko-augsburskiego w Rzeczypospolitej Polskiej ” . Jako § 156: „ Synod Konstytucyjny ma za zadanie przedewszystkiem nadanie Kościołowi Ewangelicko-Augsburskiemu w Polsce nowego „Statutu Organizacyjnego” oraz wypracowanie i zaprojektowanie sposobów uzgodnienia obowiązującego ustawodawstwa i położenia prawnego tego Kościoła z artykułem 115 Konstytucji Rzeczypospolitej ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, a wykonanie jej poleca się Ministrowi Wyznań Religijnych i Oświecenia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1936-237",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 kwietnia 1936 r. o uboju zwierząt gospodarskich w rzeźniach.",
+  "title_en": "",
+  "short_name": "pl-du-1936-237",
+  "status": "repealed",
+  "issued_date": "1936-04-17",
+  "in_force_date": "1936-04-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/237",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przy uboju w rzeźniach publicznych i prywatnych bydło rogate, świnie, owce, kozy, konie i inne zwierzęta ciepłokrwiste winny być ogłuszone lub w inny sposób pozbawione przytomności przed wykrwawieniem."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Nie wolno zwierzęcia wprowadzać na miejsce uboju przed zupełnem ukończeniem przygotowań, potrzebnych do natychmiastowego uboju zwierzęcia. (2) Wykrwawienie przy uboju można rozpocząć dopiero po całkowitej utracie przytomności przez zwierze. (3) Nie wolno oprawiać zwierzęcia przed stwierdzeniem jego śmierci."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ubój bydła i koni dokonywany być może wyłącznie w rzeźniach publicznych lub prywatnych, poza wypadkami dopuszczonemi w rozporządzeniu Ministra Rolnictwa i Reform Rolnych, wydanem w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu ustali w drodze rozporządzeń warunki, jakim powinno odpowiadać mięso przed dopuszczeniem do obrotu hurtowego i w obrocie hurtowym. Rozporządzenia te przewidzieć mogą w szczególności: a) że inne dzielenie tusz zwierzęcych niż na podłużne połowy zakazane będzie w rzeźniach publicznych i prywatnych, b) że wypuszczenie z rzeźni, jako też wszelki transport (oddawanie, przyjmowanie i wykonywanie transportu) poza obrębem rzeźni tusz mięsnych surowych, dzielonych inaczej niż na podłużne połowy, jest zabroniony."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Minister Rolnictwa i Reform Rolnych w drodze rozporządzenia, w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego oraz Ministrem Spraw Wewnętrznych ustali odmienny sposób i warunki dokonywania uboju zwierząt dla celów konsumcyjnych tych grup ludności, których wyznanie wymaga stosowania przy uboju specjalnych zabiegów. Rozporządzenie to ograniczy ilościowo ubój, dokonywany na powyższe cele, do faktycznych potrzeb wyżej wymienionych grup ludności i to w ten sposób, żeby cała ilość mięsa, pochodząca z tego uboju (części przednie i tylne), odpowiadała potrzebom konsumcji odnośnych grup ludności oraz potrzebom eksportu tego rodzaju mięsa i jego przetworów. (2) Obrót mięsem (i przetworami mięsnemi), pochodzącem z uboju, dokonywanego w myśl ust. (1), unormowany będzie rozporządzeniem Ministra Przemysłu i Handlu, działającego w porozumieniu z Ministrem Rolnictwa i Reform Rolnych. Rozporządzenie to w szczególności ustali, że mięso to powinno być w sposób specjalny znakowane, oraz że sprzedaż tego mięsa dokonywana być musi w określonych miejscach i przez firmy specjalnie koncesjonowane w tym celu, wreszcie że sprzedaż innego mięsa będzie w tych miejscach zabroniona. (3) Przepisu ust. (1) nie stosuje się na obszarze województw, w których ludność wyznań, wymagających stosowania przy uboju specjalnych zabiegów, wynosi mniej aniżeli 3% ogółu ludności. Na obszarach tych wprowadzenie odmiennych sposobów i warunków dokonywania uboju zależy od uchwały organu stanowiącego gminy; uchwała ta podlega zatwierdzeniu wojewody."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Kto wykracza przeciwko przepisom ustawy niniejszej lub wydanym na jej podstawie rozporządzeniom, podlega karze aresztu do trzech miesięcy lub karze grzywny do 3.000 złotych lub obu karom łącznie. (2) Orzecznictwo należy do władz administracyjnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych w porozumieniu z Ministrant:: Przemysłu i Handlu, Spraw Wewnętrznych oraz Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1937 r. (2) Na obszarze województwa śląskiego ustawa niniejsza wchodzi w życie z dniem ogłoszenia w Dzienniku Ustaw R. P. oświadczenia Prezesa Rady Ministrów o wyrażeniu zgody Sejmu Śląskiego na tę ustawę, nie wcześniej jednak niż z dniem 1 stycznia 1937 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_5-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

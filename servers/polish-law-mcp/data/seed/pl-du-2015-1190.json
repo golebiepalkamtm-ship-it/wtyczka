@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2015-1190",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lipca 2015 r. o zmianie ustawy o finansach publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2015-1190",
+  "status": "in_force",
+  "issued_date": "2015-07-22",
+  "in_force_date": "2015-08-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1190",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych ( Dz. U. z 2013 r. poz. 885 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130 i 1189. ) w art. 112aa: 1) w ust. 1 zdanie wstępne otrzymuje brzmienie: „Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1-3, pkt 8 z wyłączeniem Zakładu Ubezpieczeń Społecznych, i w pkt 9 oraz Funduszu Pracy, Bankowego Funduszu Gwarancyjnego, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru:”; 2) w ust. 3 w pkt 3 na końcu dodaje się przecinek i dodaje się pkt 4 w brzmieniu: „ 4) planowanych wydatków Bankowego Funduszu Gwarancyjnego określonych w planie finansowym Funduszu ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do obliczenia kwoty wydatków, o której mowa w art. 112aa ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, na rok 2016 przyjmuje się kwotę wydatków określoną w ustawie budżetowej na rok 2015 z dnia 15 stycznia 2015 r. ( Dz. U. poz. 153 ) , powiększoną o kwotę odpowiadającą wydatkom Bankowego Funduszu Gwarancyjnego w wysokości 3 292 932 570 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 938 i 1646, z 2014 r. poz. 379, 911, 1146, 1626 i 1877 oraz z 2015 r. poz. 238, 532, 1045, 1117, 1130 i 1189. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

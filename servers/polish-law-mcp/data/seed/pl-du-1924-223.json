@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-223",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 1924 r. w przedmiocie częściowej zmiany ustawy z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych, których śmierć znajduje się w związku przyczynowym ze służbą wojskową.",
+  "title_en": "",
+  "short_name": "pl-du-1924-223",
+  "status": "repealed",
+  "issued_date": "1924-02-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/223",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin, oraz o zaopatrzeniu rodzin po poległych i zmarłych, których śmierć znajduje się w związku przyczynowym ze służbą wojskową (Dz. U. R. P. № 32 poz. 195), wprowadza się następujące zmiany: 1) Tytuł ustawy otrzymuje brzmienie następujące: „ Ustawa o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych lub zaginionych bez własnej winy, których śmierć, względnie zaginięcie, pozostaje w związku przyczynowym ze służbą wojskową ” . 2) W art. 1 ustawy wstawia się jako ostatni ustęp: „ c) pozostali po zaginionych bez własnej winy na terenie i w czasie działań wojennych, których zaginięcie pozostaje w związku przyczynowym ze służbą wojskową ” . 3) Po art. 3 ustawy wstawia się nowe artykuły: „ Art. 3 a). Za zaginionego bez własnej winy na terenie i w czasie działań wojennych ma być uważany tylko ten, kto na żądanie pozostałych po nim (art. 3) po przeprowadzeniu osobnego postępowania orzeczeniem władzy wojskowej za takiego uznany zostanie. Przepisy o postępowaniu w sprawach o uznanie za zaginionego bez własnej winy, oraz o tem, które władze wojskowe powołane są do przeprowadzenia tego postępowania i orzekania, wyda Minister Spraw Wojskowych drogą rozporządzenia. Ogłoszenie o wdrożeniu postępowania w sprawie uznania za zaginionego bez własnej winy zamieszczone będzie w gazecie rządowej bezpłatnie. Art. 3 b). Sądy powiatowe, względnie sądy pokoju, obowiązane są na żądanie władz wojskowych przesłuchiwać świadków pod przysięgą: a) na stwierdzenie związku przyczynowego między uszkodzeniem zdrowia lub okaleczeniem, względnie śmiercią, a służbą wojskową; b) w postępowaniu o uznanie za zaginionego bez własnej winy na terenie i w czasie działań wojennych ” . 4) Po art. 25 ustawy wstawia się nowy artykuł; „ Art. 25 a). Uprawnienie do zaopatrzenia tymczasowego pozostałych po zaginionych bez własnej winy na terenie i w czasie działań wojennych rozpoczyna się od dnia 1 października 1923 r., uprawnienie zaś do zaopatrzenia stałego rozpoczyna się od daty wydania orzeczenia odnośnej władzy wojskowej o uznaniu za zaginionego, natomiast gaśnie: a) jeżeli zaginiony odnajdzie się; b) po upływie 3 lat, licząc od chwili wniesienia podania o uznanie za zaginionego, jeżeli w ciągu tego czasu nie przedłożono metryki jego śmierci, względnie nie uzyskano orzeczenia sądowego, uznającego zaginionego za zmarłego ” . 5) Po art. 57 ustawy wstawia się nowy artykuł: „ Art. 57 a). Wszelkie prawa i ograniczenia, odnoszące się w ustawie do wdów i osób, wymienionych w art. 3, odnoszą się do żony i osób, pozostałych po zaginionych ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych, Ministrowi Pracy i Opieki Społecznej, Ministrowi Skarbu i Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Niniejsza ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

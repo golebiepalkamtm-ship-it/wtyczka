@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1985-102",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 maja 1985 r. o ustanowieniu tytułu honorowego \"Zasłużony Rolnik Polskiej Rzeczypospolitej Ludowej\".",
+  "title_en": "",
+  "short_name": "pl-du-1985-102",
+  "status": "repealed",
+  "issued_date": "1985-05-10",
+  "in_force_date": "1985-05-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1985/102",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustanawia się tytuł honorowy „Zasłużony Rolnik Polskiej Rzeczypospolitej Ludowej”, zwany dalej „tytułem honorowym”. 2. Symbolem tytułu honorowego jest odznaka „Zasłużony Rolnik Polskiej Rzeczypospolitej Ludowej”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Tytuł honorowy „Zasłużony Rolnik Polskiej Rzeczypospolitej Ludowej” nadaje się rolnikom indywidualnym, członkom i pracownikom rolniczych spółdzielni produkcyjnych, pracownikom uspołecznionych gospodarstw rolnych i obsługi rolnictwa za wybitne zasługi w osiąganiu wysokich efektów w dziedzinie produkcji roślinnej lub zwierzęcej, obsługi techniczno-produkcyjnej rolnictwa, rozwoju postępu technicznego lub biologicznego. 2. Tytuł honorowy może być nadawany również członkom i pracownikom organizacji społecznych i społeczno-zawodowych, stowarzyszeń naukowo-technicznych, placówek naukowo-badawczych o charakterze rolniczym, którzy w wieloletniej pracy społecznej i zawodowej wyróżnili się szczególnymi osiągnięciami w rozwoju rolnictwa, upowszechnianiu wiedzy rolniczej i postępu społecznego na wsi."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Tytuł honorowy „Zasłużony Rolnik Polskiej Rzeczypospolitej Ludowej” nadaje Rada Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rada Państwa określa: 1) opis, wymiary i wzór rysunkowy odznaki tytułu honorowego, organy uprawnione do występowania z wnioskami oraz tryb przedstawiania wniosków o nadanie tego tytułu, 2) szczegółowe zasady nadawania oraz tryb wręczania odznaki i dyplomu o nadaniu tytułu, 3) sposób noszenia odznaki tytułu honorowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Osobie wyróżnionej tytułem honorowym przysługuje dodatek do emerytury lub renty, przewidziany odpowiednio w przepisach o: 1) zaopatrzeniu emerytalnym pracowników i ich rodzin, 2) ubezpieczeniu społecznym rolników indywidualnych i członków ich rodzin - z tytułu odznaczenia państwowego, w wysokości i na zasadach określonych w tych przepisach."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

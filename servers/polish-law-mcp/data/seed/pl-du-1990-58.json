@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-58",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 grudnia 1989 r. o zmianie ustawy o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-58",
+  "status": "repealed",
+  "issued_date": "1989-12-27",
+  "in_force_date": "1990-02-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/58",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1985 r. o obowiązkach i prawach posłów na Sejm Polskiej Rzeczypospolitej Ludowej ( Dz. U. Nr 37, poz. 173 i z 1989 r. Nr 42, poz. 230 ) wprowadza się następujące zmiany: 1) w art. 11 oznaczenie ust. 1 oraz ust. 2 skreśla się; 2) art. 12 otrzymuje brzmienie: „ Art. 12. 1. W celu umożliwienia posłom realizacji ich obowiązków wobec wyborców mogą być tworzone wojewódzkie biura klubów parlamentarnych, a także inne jednostki organizacyjne dla obsługi terenowej działalności posłów i senatorów. 2. Warunki techniczno-organizacyjne i finansowe pracy biur i jednostek, o których mowa w ust. 1, zapewnia Kancelaria Sejmu i Kancelaria Senatu we współdziałaniu z wojewodami (prezydentami miast: stołecznego Warszawy, Krakowa i Łodzi). ” ; 3) w art. 17: a) w ust. 1 wyrazy „poselskie, oparte na zasadzie przynależności partyjnej” zastępuje się wyrazami „parlamentarne, koła lub zespoły poselskie” , b) ust. 2 skreśla się; 4) w art. 22: a) ust. 1 otrzymuje brzmienie: „ 1. Poseł nie może być pociągnięty do odpowiedzialności karnosądowej ani aresztowany bez zgody Sejmu. ” , b) w ust. 2 wyrazy „lub Rady Państwa” skreśla się; 5) po art. 32 dodaje się art. 32a w brzmieniu: „ Art. 32a. 1. Przepisy ustawy stosuje się odpowiednio do obowiązków i praw senatorów. 2. Ilekroć w ustawie jest mowa o Prezydium Sejmu i Kancelarii Sejmu, należy rozumieć przez to również Prezydium Senatu i Kancelarię Senatu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin ( Dz. U. Nr 40, poz. 267 , z 1984 r. Nr 52, poz. 268 i 270 , z 1986 r. Nr 1, poz. 1 oraz z 1989 r. Nr 35, poz. 190 i 192 ) w art. 11 w ust. 2 w pkt 6 na końcu zdania dodaje się wyrazy „oraz mandatu senatora Senatu Polskiej Rzeczypospolitej Ludowej” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1990 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

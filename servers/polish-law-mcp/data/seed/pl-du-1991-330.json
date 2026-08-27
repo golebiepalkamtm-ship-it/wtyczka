@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1991-330",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 1991 r. o oprocentowaniu kapitału w jednoosobowych spółkach Skarbu Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1991-330",
+  "status": "repealed",
+  "issued_date": "1991-07-19",
+  "in_force_date": "1991-08-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/330",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Jednoosobowa spółka Skarbu Państwa, powstała w wyniku przekształcenia przedsiębiorstwa państwowego na podstawie ustawy z dnia 13 lipca 1990 r. o prywatyzacji przedsiębiorstw państwowych ( Dz. U. Nr 51, poz. 298 i z 1991 r. Nr 60, poz. 253 ) , zwana dalej „spółką”, jest obowiązana wpłacać Skarbowi Państwa odsetki od wniesionego przez Skarb Państwa kapitału, zwane dalej „odsetkami”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Podstawę naliczenia odsetek, o których mowa w art. 1, stanowi w spółce akcyjnej wartość kapitału akcyjnego, a w spółce z ograniczoną odpowiedzialnością - wartość kapitału zakładowego. 2. Odsetki wpłacane są z zysku po opodatkowaniu w wysokości 0,5% podstawy w stosunku miesięcznym, z zastrzeżeniem ust. 3. 3. Do ustalania odsetek w spółkach powstałych z przekształcenia przedsiębiorstw, o których mowa w art. 15 i 16 ustawy z dnia 31 stycznia 1989 r. o gospodarce finansowej przedsiębiorstw państwowych ( Dz. U. z 1990 r. Nr 26, poz. 152 i Nr 89, poz. 517 ) , stosuje się odpowiednio obniżki i zwolnienia przewidziane w tych przepisach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Odsetki wpłacane są zaliczkowo w ciągu roku w terminach przewidzianych dla wpłat zaliczek z tytułu podatku dochodowego i stanowią dochód budżetu państwa, z zastrzeżeniem art. 6. 2. Do odsetek stosuje się przepisy o zobowiązaniach podatkowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Odsetki mogą być przeznaczone na powiększenie kapitału rezerwowego, gdy spółka wykonuje inwestycje mające na celu restrukturyzację działalności gospodarczej. 2. Decyzję o przeznaczeniu należnych odsetek lub ich części na kapitał rezerwowy podejmuje, na umotywowany wniosek zainteresowanego, organ reprezentujący Skarb Państwa w spółce, w uzgodnieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli zysk po jego opodatkowaniu jest niższy od należnej kwoty odsetek, spółka wpłaca odsetki, pomniejszając kapitał zapasowy lub inne fundusze o podobnym charakterze."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Do spółek powstałych w trybie art. 16 ustawy wymienionej w art. 1, w których jedynym wspólnikiem jest jednoosobowa spółka Skarbu Państwa, przepisy ustawy stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Do Skarbu Państwa i jednoosobowej spółki Skarbu Państwa jako jedynego wspólnika nie stosuje się art. 190 i 354 Kodeksu handlowego ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wysokość odsetek, o których mowa w art. 2 ust. 2, w 1991 r. nie może być wyższa niż dywidenda za ostatni pełny miesiąc funkcjonowania przedsiębiorstwa państwowego przed jego przekształceniem."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa wchodzi w życie z pierwszym dniem miesiąca następującego po miesiącu, w którym została ogłoszona. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

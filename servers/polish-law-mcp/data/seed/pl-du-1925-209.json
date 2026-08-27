@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1925-209",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 marca 1925 r. o rozciągnięciu na część górnośląską województwa śląskiego mocy obowiązującej ustaw o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych lub zaginionych bez własnej winy, których śmierć, względnie zaginięcie, znajduje się w związku ze służbą wojskową.",
+  "title_en": "",
+  "short_name": "pl-du-1925-209",
+  "status": "repealed",
+  "issued_date": "1925-03-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozciąga się na część górnośląską województwa śląskiego moc obowiązującą: 1) ustawy z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych, których śmierć znajduje się w związku przyczynowym ze służbą wojskową (Dz. U. R. P. № 32, poz. 195); 2) ustawy z dnia 4 sierpnia 1922 r., zmieniającej niektóre postanowienia ustawy z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych, których śmierć znajduje się w związku przyczynowym ze służbą wojskową (Dz. U. R. P. № 67, poz. 608); 3) ustawy z dnia 12 lutego 1924 r. w przedmiocie częściowej zmiany ustawy z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych, których śmierć znajduje się w związku przyczynowym ze służbą wojskową (Dz. U. R, P. № 21, poz. 223)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Moc obowiązującą ustaw, wymienionych w art. 1 niniejszej ustawy, rozciąga się poza osobami, przewidzianemi w tych ustawach, również na wszystkie osoby, posiadające prawo przynależności państwowej polskiej, które do czasu wejścia w życie niniejszej ustawy miały prawo do zaopatrzenia w myśl art. 88 ustawy Rzeszy z dnia 12 maja 1920 r. o zaopatrzeniu (Dz. Ust. Rzeszy str. 989) przy uwzględnieniu rozporządzeń Międzysojuszniczej Komisji Rządzącej i Plebiscytowej odnośnie dopuszczenia na obszar plebiscytowy niemieckich ustaw wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Pracy i Opieki Społecznej, Ministrowi Skarbu i Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Od tej daty tracą na górnośląskiej części województwa śląskiego moc obowiązującą odmienne przepisy prawne, dotyczące spraw, które są przedmiotem ustaw, wymienionych w art. 1 niniejszej ustawy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2006-1432",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 października 2006 r. o zmianie ustawy o orderach i odznaczeniach",
+  "title_en": "",
+  "short_name": "pl-du-2006-1432",
+  "status": "amended",
+  "issued_date": "2006-10-18",
+  "in_force_date": "2006-10-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/1432",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 października 1992 r. o orderach i odznaczeniach ( Dz. U. Nr 90, poz. 450 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711. ) wprowadza się następujące zmiany: 1) po art. 12 dodaje się art. 12a w brzmieniu: „ Art. 12a. 1. Order Krzyża Wojskowego jest nagrodą za wybitne czyny bojowe połączone z wyjątkową ofiarnością i odwagą w czasie działań bojowych przeciwko aktom terroryzmu w kraju lub podczas użycia Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa w czasie pokoju. 2. Order Krzyża Wojskowego dzieli się na trzy klasy: klasa I - Krzyż Wielki Orderu Krzyża Wojskowego, klasa II - Krzyż Komandorski Orderu Krzyża Wojskowego, klasa III - Krzyż Kawalerski Orderu Krzyża Wojskowego. 3. Order Krzyża Wojskowego może być nadany: 1) Krzyż Wielki Orderu Krzyża Wojskowego - dowódcy jednostki bojowej za nadzwyczajne czyny bojowe lub wybitną inicjatywę, połączoną z umiejętnym i skutecznym dowodzeniem operacją lub akcją bojową, 2) Krzyż Komandorski Orderu Krzyża Wojskowego - dowódcy jednostki bojowej lub oficerowi za umiejętne i skuteczne dowodzenie jednostką bojową lub za inny czyn zapewniający sukces operacji lub akcji bojowej, wyjątkowo oficerowi sztabu za współpracę z dowódcą, jeżeli współpraca ta w sposób wybitny przyczyniła się do sukcesu operacji lub akcji bojowej, podoficerowi lub szeregowemu posiadającemu już Krzyż Kawalerski za czyn wybitnego męstwa połączony z narażeniem życia, 3) Krzyż Kawalerski Orderu Krzyża Wojskowego - dowódcy lub innemu żołnierzowi za śmiały czyn bojowy lub osobiste męstwo w czasie akcji bojowej, a także osobom cywilnym za okazanie niezwykłego męstwa. 4. Krzyż Kawalerski Orderu Krzyża Wojskowego może być nadany formacji walczącej. 5. Żołnierze formacji walczącej odznaczonej Krzyżem Kawalerskim Orderu Krzyża Wojskowego mają prawo do noszenia sznura orderowego Orderu Krzyża Wojskowego. ” ; 2) art. 20 otrzymuje brzmienie: „ Art. 20. 1. Na czele Orderu Orła Białego, Orderu Wojennego Virtuti Militari, Orderu Odrodzenia Polski i Orderu Krzyża Wojskowego stoją Kapituły. 2. Kapituła stoi na straży honoru orderu, dla którego została ustanowiona. ” ; 3) po art. 25 dodaje się art. 25a w brzmieniu: „ Art. 25a. 1. Kapitułę Orderu Krzyża Wojskowego tworzą Kanclerz Orderu i pięciu członków Kapituły. 2. Stojącego na czele Kapituły Kanclerza Orderu oraz członków Kapituły powołuje Prezydent spośród Kawalerów Orderu Krzyża Wojskowego na pięć lat. 3. Kapituła wybiera ze swego grona zastępcę Kanclerza Orderu oraz Sekretarza Kapituły. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Kanclerza oraz członków Kapituły Orderu Krzyża Wojskowego powoła Prezydent spośród dwunastu pierwszych odznaczonych Orderem Krzyża Wojskowego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 101, poz. 1177, z 2000 r. Nr 62, poz. 718, z 2002 r. Nr 74, poz. 676 oraz z 2006 r. Nr 104, poz. 708 i 711. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

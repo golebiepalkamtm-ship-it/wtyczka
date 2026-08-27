@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2011-1112",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 2011 r. o zmianie ustawy o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych",
+  "title_en": "",
+  "short_name": "pl-du-2011-1112",
+  "status": "amended",
+  "issued_date": "2011-07-28",
+  "in_force_date": "2011-09-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/1112",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych ( Dz. U. z 2009 r. Nr 153, poz. 1227 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887 i Nr 168, poz. 1001. ) wprowadza się następujące zmiany: 1) w art. 58 dodaje się ust. 4 w brzmieniu: „ 4. Przepisu ust. 2 nie stosuje się do ubezpieczonego, który udowodnił okres składkowy, o którym mowa w art. 6, wynoszący co najmniej 25 lat dla kobiety i 30 lat dla mężczyzny oraz jest całkowicie niezdolny do pracy. ” ; 2) w art. 81 ust. 2 i 3 otrzymują brzmienie: „ 2. Jeżeli zgłoszenie wniosku o zasiłek pogrzebowy w terminie określonym w ust. 1 było niemożliwe z powodu późniejszego odnalezienia zwłok lub zidentyfikowania osoby zmarłej albo z innych przyczyn całkowicie niezależnych od osoby uprawnionej, prawo do zasiłku pogrzebowego wygasa po upływie 12 miesięcy od dnia pogrzebu. 3. Dokumentem potwierdzającym okoliczności lub przyczyny, o których mowa w ust. 2, jest zaświadczenie Policji lub prokuratury, odpis zupełny aktu zgonu lub inny dokument urzędowy potwierdzający zaistnienie okoliczności lub przyczyn uniemożliwiających zgłoszenie wniosku. ” ; 3) w art. 174: a) ust. 3 otrzymuje brzmienie: „ 3. Podstawę wymiaru kapitału początkowego ustala się na zasadach określonych w art. 15, 16, 17 ust. 1 i 3 oraz art. 18, z tym że okres kolejnych 10 lat kalendarzowych ustala się z okresu przed dniem 1 stycznia 1999 r. ” , b) po ust. 3a dodaje się ust. 3b w brzmieniu: „ 3b. Jeżeli okres wskazany do ustalenia podstawy wymiaru kapitału początkowego obejmuje rok kalendarzowy, w którym ubezpieczony po raz pierwszy przystąpił do ubezpieczenia społecznego na podstawie przepisów prawa polskiego i dlatego pozostawał w ubezpieczeniu jedynie przez część miesięcy tego roku, do obliczenia stosunku sumy kwot podstaw wymiaru składek i kwot, o których mowa w art. 15 ust. 3, w okresie tego roku do przeciętnego wynagrodzenia, przyjmuje się sumę kwot przeciętnego miesięcznego wynagrodzenia ogłoszonego za ten rok kalendarzowy odpowiednią do liczby miesięcy pozostawania w ubezpieczeniu. ” , c) po ust. 9 dodaje się ust. 9a w brzmieniu: „ 9a. Staż ubezpieczeniowy i wymagany staż, o których mowa w ust. 8, określa się w dniach, jeżeli jest to dla ubezpieczonego korzystniejsze. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W sprawach, w których organ rentowy ustalił kapitał początkowy z uwzględnieniem przepisów art. 174 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, kapitał początkowy ustala się ponownie na wniosek osoby uprawnionej, a jeżeli osoba uprawniona nie wystąpi z takim wnioskiem - przy obliczaniu emerytury na zasadach określonych w art. 26 ustawy wymienionej w art. 1 niniejszej ustawy, jeżeli jest to korzystniejsze dla emeryta. 2. Decyzję w sprawie ponownego ustalenia wysokości emerytury, z uwzględnieniem przeliczonego kapitału początkowego, organ rentowy wydaje w ciągu 60 dni od dnia wyjaśnienia ostatniej okoliczności niezbędnej do wydania decyzji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2010 r. Nr 40, poz. 224, Nr 134, poz. 903, Nr 238, poz. 1578 i Nr 257, poz. 1726 oraz z 2011 r. Nr 75, poz. 398, Nr 149, poz. 887 i Nr 168, poz. 1001. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

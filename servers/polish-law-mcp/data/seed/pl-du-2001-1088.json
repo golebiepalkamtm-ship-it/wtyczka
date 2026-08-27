@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-2001-1088",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 2001 r. o utworzeniu Akademii Techniczno-Humanistycznej w Bielsku - Białej.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1088",
+  "status": "in_force",
+  "issued_date": "2001-07-19",
+  "in_force_date": "2001-09-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1088",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się z dniem 1 października 2001 r. Akademię Techniczno-Humanistyczną w Bielsku-Białej, zwaną dalej „Akademią”. 2. Siedzibą Akademii jest miasto Bielsko-Biała. 3. Akademia jest uczelnią państwową."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, ekonomicznych i technicznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Akademię tworzy się z Filii Politechniki Łódzkiej w Łodzi. 2. Z dniem utworzenia Akademii znosi się Filię Politechniki Łódzkiej w Bielsku-Białej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Mienie Politechniki Łódzkiej, obejmujące własność i inne prawa majątkowe będące w zarządzie Filii Politechniki Łódzkiej w Bielsku-Białej, staje się mieniem Akademii. 2. Akademia, z dniem utworzenia, przyjmuje prawa i zobowiązania Politechniki Łódzkiej dotyczące Filii Politechniki Łódzkiej w Bielsku-Białej. 3. Stan gospodarki finansowej jednostki wymienionej w art. 4 ust. 1 zostanie wykazany w bilansie sporządzonym przez tę jednostkę na dzień poprzedzający utworzenie Akademii."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Z dniem 1 października 2001 r.: 1) pracownicy Politechniki Łódzkiej zatrudnieni w Filii w Bielsku-Białej stają się pracownikami Akademii, 2) studenci Politechniki Łódzkiej studiujący w Filii w Bielsku-Białej stają się studentami Akademii. 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Politechniki Łódzkiej w Bielsku-Białej z dniem utworzenia Akademii stają się jej studentami. 3. Podstawowe jednostki organizacyjne Filii Politechniki Łódzkiej w Bielsku-Białej stają się podstawowymi jednostkami organizacyjnymi Akademii. 4. Jednostki organizacyjne Filii Politechniki Łódzkiej w Bielsku-Białej, które przed dniem utworzenia Akademii posiadały uprawnienia do nadawania stopni naukowych, zachowują te uprawnienia po utworzeniu Akademii."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Dotychczasowe organy kolegialne i jednoosobowe Filii Politechniki Łódzkiej w Bielsku-Białej stają się z dniem 1 października 2001 r. organami Akademii. 2. Członkowie Senatu Politechniki Łódzkiej reprezentujący Filię Politechniki Łódzkiej w Bielsku-Białej pełnią funkcję Senatu Akademii do dnia 31 grudnia 2001 r. 3. Do dnia 31 grudnia 2001 r. zostaną przeprowadzone wybory do Senatu Akademii oraz wybory dziekanów i rad wydziałów w trybie i na okres ustalony w statucie Akademii."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_6-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

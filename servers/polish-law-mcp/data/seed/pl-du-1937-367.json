@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-367",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1937 r. o dodatkowych kredytach na rok 1935/36.",
+  "title_en": "",
+  "short_name": "pl-du-1937-367",
+  "status": "in_force",
+  "issued_date": "1937-06-22",
+  "in_force_date": "1937-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/367",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 24 marca 1935 r. na okres od 1 kwietnia 1935 do 31 marca 1936 (Dz. U. R. P. Nr 21, poz. 121), zwiększa się w grupie A. Administracja o następujące kwoty: 1) w części 5 Ministerstwo Spraw Zagranicznych w wydatkach nadzwyczajnych w dziale 3 „Urzędy zagraniczne” w nowoutworzonym § 9 „Budowle” o ... 271.884 zł 2) w części 8 Ministerstwo Skarbu w wydatkach zwyczajnych w dziale 2 „Władze i urzędy skarbowe” w § 1 „Płace” o ... 72.100 zł 3) w części 16 „Emerytury i Zaopatrzenia” w wydatkach zwyczajnych w dziale 1 „Emerytury” w § 1 „Emerytury cywilne” o 384.053 zł w § 2 „Emerytury wojskowe” o 321.022 zł w § 4 „Pośmiertne” o 110.546 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Na pokrycie wydatków, ustalonych w art. 1, służą oszczędności, uzyskane ze zmniejszenia wydatków w innych paragrafach budżetu. (2) Podwyższenie wydatków o kwoty, wymienione w art. 1, nie powoduje zwiększenia ogólnej sumy wydatków, ustalonych w ustawie z dnia 9 kwietnia 1936 r. o dodatkowych kredytach na rok 1935/36 (Dz. U. R. P. Nr 27, poz. 215) w kwocie 2.235.929.557 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia 1 kwietnia 1935 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

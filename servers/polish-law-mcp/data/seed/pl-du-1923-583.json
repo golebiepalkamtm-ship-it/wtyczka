@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1923-583",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 lipca 1923 r. o organizacji i zakresie działania Głównego Urzędu Likwidacyjnego.",
+  "title_en": "",
+  "short_name": "pl-du-1923-583",
+  "status": "in_force",
+  "issued_date": "1923-07-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/583",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Główny Urząd Likwidacyjny, istniejący na mocy dekretu Naczelnika Państwa z 31 stycznia 1919 r. o utworzeniu Głównego Urzędu Likwidacyjnego (Dz. P. P. P. № 12, poz. 132), podlega Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Głównego Urzędu Likwidacyjnego należą następujące sprawy: 1) ustalenie wysokości strat, poniesionych wskutek wojny przez Państwo i poszczególnych jego obywateli; 2) przygotowanie i prowadzenie wszelkich spraw, tyczących się rozrachunku Państwa Polskiego z innemi państwami z powodu przynależności ziem Rzeczypospolitej Polskiej do byłych państw zaborczych lub z powodu okupacji; 3) uzyskanie wszelkich odszkodowań i rozrachunek z poszkodowanymi; 4) sprawy, które na mocy ustaw i rozporządzeń zostały przekazane do wykonania Głównemu Urzędowi Likwidacyjnemu; 5) inne sprawy likwidacyjne, wynikające z wojny światowej i polsko-rosyjskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wszystkie sprawy, wymienione w art. 2 niniejszej ustawy, o ile są prowadzone w innych ministerstwach, muszą podlegać przed ich załatwieniem lub przed ich wniesieniem na Radę Ministrów rozpatrzeniu przez Główny Urząd Likwidacyjny."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na czele Głównego Urzędu Likwidacyjnego stoi Prezes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Ministrów orzeknie na wniosek Ministra Skarbu, postawiony w porozumieniu z Ministrem Spraw Zagranicznych, zniesienie Głównego Urzędu Likwidacyjnego, ewentualnie wcielenie go do Ministerstwa Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Postanowienia dekretu Naczelnika Państwa z 31 stycznia 1919 r. o utworzeniu Głównego Urzędu Likwidacyjnego (Dz. P. P. P. № 12, poz. 132) w przedmiocie organizacji i zakresu działania Głównego Urzędu Likwidacyjnego uchyla się."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

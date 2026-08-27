@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2011-483",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 2011 r. o zmianie ustawy - Prawo o notariacie",
+  "title_en": "",
+  "short_name": "pl-du-2011-483",
+  "status": "amended",
+  "issued_date": "2011-02-25",
+  "in_force_date": "2011-04-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/483",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 lutego 1991 r. - Prawo o notariacie ( Dz. U. z 2008 r. Nr 189, poz. 1158 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458. ) art. 57 otrzymuje brzmienie: „ Art. 57. § 1. Postępowanie dyscyplinarne jest jawne. § 2. Sąd dyscyplinarny wyłącza jawność postępowania dyscyplinarnego ze względu na konieczność ochrony tajemnicy określonej w art. 18 lub innej prawnie chronionej tajemnicy, jeżeli ujawnienie tych tajemnic zagrażałoby dobru państwa albo ważnemu interesowi prywatnemu. Sąd dyscyplinarny wyłącza również jawność postępowania dyscyplinarnego, jeżeli jawność mogłaby obrażać dobre obyczaje. § 3. W razie wyłączenia jawności postępowania dyscyplinarnego orzeczenie ogłaszane jest publicznie. § 4. Protokolantem może być notariusz lub asesor notarialny, wyznaczony przez przewodniczącego sądu dyscyplinarnego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Postępowanie dyscyplinarne wszczęte przed dniem wejścia w życie ustawy toczy się do końca postępowania w danej instancji według przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2009 r. Nr 37, poz. 286 i Nr 166, poz. 1317, z 2010 r. Nr 182, poz. 1228 oraz z 2011 r. Nr 85, poz. 458. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

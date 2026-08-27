@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2024-1828",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 listopada 2024 r. o zmianie ustawy o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych",
+  "title_en": "",
+  "short_name": "pl-du-2024-1828",
+  "status": "amended",
+  "issued_date": "2024-11-27",
+  "in_force_date": "2024-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1828",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 grudnia 2020 r. o promowaniu wytwarzania energii elektrycznej w morskich farmach wiatrowych ( Dz. U. z 2024 r. poz. 182 ) w art. 31 w ust. 11 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw klimatu, po zasięgnięciu opinii ministra właściwego do spraw aktywów państwowych oraz ministra właściwego do spraw finansów publicznych, określi, w drodze rozporządzenia, maksymalną cenę za energię elektryczną wytworzoną w morskiej farmie wiatrowej i wprowadzoną do sieci, wyrażoną w złotych za 1 MWh, jaka może być wskazana w ofertach złożonych w aukcji przez wytwórców, przy czym cena ta może być określona odmiennie dla poszczególnych obszarów, grupy obszarów lub grup obszarów wskazanych w załączniku nr 1 lub 2 do ustawy, uwzględniając: ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

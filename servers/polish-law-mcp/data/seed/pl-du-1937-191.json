@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-191",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1937 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o państwowych zakładach chowu koni i o premiowaniu ogierów.",
+  "title_en": "",
+  "short_name": "pl-du-1937-191",
+  "status": "in_force",
+  "issued_date": "1937-03-29",
+  "in_force_date": "1937-04-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/191",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o państwowych zakładach chowu koni i o premiowaniu ogierów (Dz. U. R. P. Nr 48, poz. 435) wprowadza się zmiany następujące: 1) tytuł rozporządzenia otrzymuje brzmienie: „ Rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o państwowych zakładach chowu koni i o dostarczaniu ogierów dla hodowli. ” ; 2) w art. 1 lit, b) otrzymuje brzmienie: „ b) używanie do hodowli ogierów na podstawie umów, zawieranych z właścicielami. ” ; 3) w art. 11 ust. (2) otrzymuje brzmienie: „ (2) Dochody z nieruchomości państwowych, przeznaczonych na prowadzenie państwowych zakładów chowu koni, przeznacza się na akcję podniesienia hodowli koni; dochodami tymi rozporządza Minister Rolnictwa i Reform Rolnych. ” ; 4) po art. 12 tytuł otrzymuje brzmienie: „ Umowy z właścicielami ogierów. ” ; 5) art. 13 otrzymuje brzmienie: „ Art. 13 (1) Z właścicielami ogierów, wyróżniających się dodatnio pod względem hodowlanym, Państwo będzie zawierało umowy zobowiązujące tych właścicieli do pokrywania ogierami cudzych klaczy za wynagrodzeniem i na warunkach, określonych w umowach. Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Spraw Wojskowych będzie ustalał zasady umów powyższych, w szczególności ustali także tryb postępowania przy zawieraniu umów i nadzór nad ich wykonaniem. (2) Ilość ogierów, objętych umowami określonymi w ust. (1), powinna być nie mniejsza od połowy ogólnej liczby ogierów państwowych zakładów chowu koni. ” ; 6) art. 14, 15 i 16 skreśla się; 7) art. 17 otrzymuje brzmienie: „ Art. 17. Wydatki na zakładanie i utrzymanie państwowych zakładów chowu koni oraz na wynagradzanie właścicieli ogierów za świadczenia, wynikające z umów, określonych w art. 13, będą pokrywane z ogólnych dochodów Państwa. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Rolnictwa i Reform Rolnych do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o państwowych zakładach chowu koni i o premiowaniu ogierów (Dz. U. R. P. Nr 48, poz. 435) z uwzględnieniem zmian, wynikających z przepisów, wydanych do dnia ogłoszenia jednolitego tekstu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1938-170",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1938 r. o konwersji obligacyj 7% pożyczki stabilizacyjnej, opiewających na funty szterlingów.",
+  "title_en": "",
+  "short_name": "pl-du-1938-170",
+  "status": "in_force",
+  "issued_date": "1938-03-29",
+  "in_force_date": "1938-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/170",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do zaofiarowania i do przeprowadzenia na zasadach, ustalonych w ustawie niniejszej, konwersji tych obligacyj 7°/o pożyczki stabilizacyjnej, wypuszczonych dnia, 15 października 1927 r. na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 października 1927 r. ( Dz. U. R. P. Nr 88, poz. 789 ) , których wartość imienna jest wyrażona w funtach szterlingów. Konwersja może być przeprowadzona drogą przestemplowania obligacyj konwertowanych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Oprocentowanie obligacyj obniżone będzie na 4 1/2 od sta w stosunku rocznym. (2) Kupony od obligacyj płatne będą w Londynie - w funtach szterlingów, w New Yorku - w dolarach Stanów Zjednoczonych Ameryki i w Paryżu - we frankach francuskich, według zasad, ustalonych w ust. (3) i (4). (3) Wartość nominalna kuponu, przedstawionego do zapłaty w Londynie, obliczana będzie od wartości nominalnej obligacji) oznaczonej w funtach szterlingów, bądź - na żądanie posiadacza - od jej równowartości, obliczonej we frankach szwajcarskich, florenach holenderskich lub koronach szwedzkich według stosunku: 25.189 franków szwajcarskich = 1 Ł 12.092 florenów holenderskich = 1 Ł. 18.133 koron szwedzkich = 1 Ł W razie obliczenia równowartości kuponu we frankach szwajcarskich, florenach holenderskich lub koronach szwedzkich - wypłata w funtach szterlingów nastąpi - na żądanie posiadacza - bądź po kursie kupna wypłaty na Zurich, Amsterdam lub Sztokholm, stosowanym w Londynie w dniu przedstawienia kuponu do zapłaty, bądź po stałych kursach według stosunku: 20.609 franków szwajcarskich = 1 Ł. 9.892 florenów holenderskich = 1 Ł. 14.836 koron szwedzkich = 1 Ł. (4) Kupony, przedstawione do zapłaty w New Yorku, płatne będą według stałego stosunku 4.86 dolarów za 1 Ł., a przedstawione do zapłaty w Paryżu - według kursu kupna wypłaty na Londyn, stosowanego w Paryżu w dniu przedstawienia kuponu do zapłaty, przy czym wartość nominalna kuponu obliczana będzie od wartości nominalnej obligacji, oznaczonej w funtach szterlingów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Spłata obligacyj nastąpi w ciągu lat 30, poczynając od dnia 15 kwietnia 1938 r. przez częściowe umarzanie w terminach półrocznych, bądź w drodze losowania, bądź w drodze skupu z wolnej ręki. Obligacje, wylosowane do umorzenia, płatne będą po kursie 103 ich wartości nominalnej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Obligacje korzystają do czasu ich spłaty z zabezpieczenia, ustanowionego dla obligacyj 7% pożyczki stabilizacyjnej w umowie, zawartej przez Ministra Skarbu na podstawie art. 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 października 1927 r. ( Dz. U. R. P. Nr 88, poz. 789 ) ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Postanowienia umowy, zawartej przez Ministra Skarbu na podstawie art. 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 października 1927 r. ( Dz. U. R. P. Nr 88, poz. 789 ) , mają zastosowanie do obligacyj, objętych konwersją, przewidzianą w ustawie niniejszej z uwzględnieniem zmian, wprowadzonych w art. 2 i 3."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Upoważnia się Ministra Skarbu do ustalenia w umowie lub w umowach, jakie w tym celu będą potrzebne, innych szczegółowych warunków, na jakich konwersja, przewidziana w art. 1, będzie zaofiarowana."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Czynności, związane z konwersją, jak również obligacje, skonwertowane na zasadzie art. 1, wolne będą od jakichkolwiek podatków i danin państwowych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_2-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

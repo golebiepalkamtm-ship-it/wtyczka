@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1996-490",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 1996 r. o urzędzie Ministra Gospodarki.",
+  "title_en": "",
+  "short_name": "pl-du-1996-490",
+  "status": "repealed",
+  "issued_date": "1996-06-21",
+  "in_force_date": "1996-08-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/490",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Do zadań Ministra Gospodarki należy inicjowanie polityki Państwa w zakresie gospodarczego rozwoju kraju, jej realizacja oraz zapewnienie koordynacji działań w tym zakresie. 2. Minister Gospodarki jest właściwy w sprawach gospodarki, w tym handlu międzynarodowego i energetyki oraz współpracy z organizacjami samorządu gospodarczego, z wyjątkiem spraw zastrzeżonych odrębnymi przepisami do kompetencji innych organów administracji rządowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Gospodarki należy w szczególności: 1) przygotowywanie i przedstawianie Radzie Ministrów: a) krótko- i średniookresowych programów gospodarczych i społeczno-gospodarczych o charakterze: - ogólnym, - sektorowym, - regionalnym, uwzględniających działania proeksportowe i promocję polskiej gospodarki za granicą oraz wymogi zrównoważonego rozwoju, b) założeń polityki społeczno-gospodarczej na rok budżetowy, c) założeń polityki energetycznej Państwa, d) projektów ustaw i rozporządzeń Rady Ministrów dotyczących gospodarki, chyba że odrębne przepisy stanowią inaczej, e) ocen stanu gospodarki, w tym handlu międzynarodowego oraz skuteczności realizacji polityki gospodarczej, 2) podejmowanie i rozwijanie, w stosunkach wielostronnych i dwustronnych, działań na rzecz dostępu do rynków zagranicznych dla polskich towarów, usług i kapitału oraz na rzecz rozwoju współpracy z właściwymi organizacjami, a także tworzenie i utrzymywanie w tym celu placówek ekonomiczno-handlowych za granicą, 3) inicjowanie polityki przemysłowej Państwa i kierowanie jej realizacją, w tym polityki proeksportowej, sprzyjającej rozwojowi małych i średnich przedsiębiorstw, 4) inicjowanie polityki Państwa i realizowanie zadań Rady Ministrów w zakresie współpracy gospodarczej z zagranicą, w tym: napływu kapitału zagranicznego oraz umów o ochronie i popieraniu inwestycji, kształtowania polityki taryfowej i pozataryfowej, regulacji i kontroli, na podstawie odrębnych przepisów, obrotu z zagranicą, w tym obrotu specjalnego, 5) współdziałanie z Ministrem Spraw Zagranicznych w reprezentowaniu Rządu w stosunkach gospodarczych z zagranicą, 6) udział w ustalaniu cen urzędowych, jeżeli wynika to z odrębnych przepisów, 7) prowadzenie spraw związanych z działalnością w dziedzinie handlu i usług, na warunkach i w trybie określonych w odrębnych przepisach, 8) wykonywanie zadań z zakresu obronności i bezpieczeństwa państwa, stosownie do kompetencji określonych w odrębnych przepisach, 9) wykonywanie innych zadań z zakresu gospodarczego rozwoju kraju i stosunków gospodarczych z zagranicą, określonych w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Gospodarki odpowiada, na zasadach i w trybie oraz w granicach określonych odrębnymi przepisami, w szczególności za: 1) stan rezerw państwowych, 2) funkcjonowanie krajowych systemów energetycznych z uwzględnieniem zasad racjonalnej gospodarki i potrzeb bezpieczeństwa energetycznego kraju."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W celu realizacji swoich zadań Minister Gospodarki współdziała, na zasadach i w trybie określonych w odrębnych przepisach, z: 1) Rządowym Centrum Studiów Strategicznych, organami administracji rządowej i samorządu terytorialnego oraz innymi państwowymi osobami prawnymi, 2) organami: samorządu gospodarczego, zawodowego, związków zawodowych i organizacji pracodawców."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Prezes Rady Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres działania Ministra Gospodarki. 2. Organizację Ministerstwa Gospodarki, wykaz organów i jednostek organizacyjnych podporządkowanych lub nadzorowanych przez Ministra Gospodarki określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministrów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa wchodzi w życie w terminie i na zasadach określonych w ustawie - Przepisy wprowadzające ustawy reformujące funkcjonowanie gospodarki i administracji publicznej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_2-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-pint_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

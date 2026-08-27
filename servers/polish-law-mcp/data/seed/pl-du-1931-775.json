@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1931-775",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. w sprawie skracania i przedłużania czasu pracy na obszarze górnośląskiej części województwa śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-775",
+  "status": "repealed",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-11-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/775",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) W wypadkach, spowodowanych koniecznościami państwowemi lub gospodarczemi, Rada Ministrów może w drodze rozporządzeń, wydawanych na wniosek Ministra Pracy i Opieki Społecznej, zgłoszony po zasięgnięciu opinji izb przemysłowo-handlowych i izb rzemieślniczych oraz organizacyj zawodowych pracowników i pracodawców, zezwalać na przedłużenie lub nakazać skrócenie czasu pracy w dniu lub w tygodniu w stosunku do norm, ustalonych w przepisach o czasie pracy. (2) Rozporządzenia te będą wydawane na określony przeciąg czasu, nie dłużej jednak niż na 1 rok, i mogą dotyczyć poszczególnych gałęzi pracy lub poszczególnych kategoryj zakładów pracy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Winni przekroczenia przepisów rozporządzeń, wydanych na podstawie art. 1 niniejszej ustawy, będą karani za pierwszym razem grzywną od 200 zł. do 1.000 zł. lub aresztem do 3 miesięcy, w razie zaś powtórzenia przekroczenia aresztem na czas od 2 tygodni do 3 miesięcy. Przepisy o łagodzeniu kar, zawarte w ustawach karnych, nie będą miały zastosowania do przestępstw, przewidzianych w niniejszym artykule, w okresie do dnia 31 grudnia 1932 r. (2) Do orzekania o czynach, przewidzianych w ust. 1 niniejszego artykułu, powołani są obwodowi inspektorzy pracy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) W wypadkach, gdy zakład pracy nie jest zarządzany osobiście przez właściciela, odpowicdzalnym za przestępstwa, wymienione w art. 2, jest kierownik zakładu pracy. (2) Właściciel jest odpowiedzialny narówni z kierownikiem, jeżeli przestępstwo było popełnione za jego wiedzą, bądź gdy właściciel nie dobrał odpowiedniego kierownika. (3) W wypadkach, gdy właściciel zakładu pracy nie wyznaczył kierownika zakładu pracy, odpowiedzialnym jest właściciel zakładu pracy. (4) Jeżeli właścicielem zakładu jest osoba prawna, odpowiedzialnemi są te osoby, które powołane są do zawiadywania interesami osoby prawnej. (5) Przepisy niniejszego artykułu nie uchylają postanowień, dotyczących udziału (współwiny) w przestępstwie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Pracy i Opieki Społecznej w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie po ogłoszeniu zgody na nią Sejmu Śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_3-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_3-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_3-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

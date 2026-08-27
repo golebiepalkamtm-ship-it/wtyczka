@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1921-448",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 lipca 1921 r. w przedmiocie przeznaczenia terenów za cytadelą oraz pasa ziemi wzdłuż ulicy Górnej w Warszawie pod budowę domów.",
+  "title_en": "",
+  "short_name": "pl-du-1921-448",
+  "status": "repealed",
+  "issued_date": "1921-07-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/448",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Celem ułatwienia zabudowy miasta stołecznego Warszawy z gruntów, do państwa należących, przeznacza się pod budowę domów mieszkalnych tereny, za cytadelą położone; przestrzeni 76 hektarów 5640 metrów kwadratowych oraz pas ziemi wzdłuż ulicy Górnej na jej spadku przestrzeni około 6845 metrów kwadratowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przeznaczone pod budowę domów tereny za cytadelą graniczą: od północy z Wisłą i gruntami Marymontu, od wschodu z projektowaną ulicą Skarbową i gruntami cytadeli, od zachodu z gruntami wojskowemi, wreszcie od południa z terenami państwowemi, zaś pas ziemi przy ulicy Górnej ciągnie się od domu № 5917 w dól do projektowanej nowej ulicy i posiada głębokości 30, a długości 228 metrów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Ministra Robót Publicznych w porozumieniu z zarządem miasta stoł. Warszawy do ustalenia planu zabudowy wymienionych w poprzednich artykułach terenów za cytadelą, z wyłączeniem odpowiednich przestrzeni pod ulice i place oraz dla instytucji użyteczności publicznej, jak również do ustalenia planu zabudowy pasa ziemi wzdłuż ulicy Górnej. Nie należą do terenów, za cytadelą pod budową przeznaczonych, tereny przylegające, na których wznosi się i które otaczają fort Norberta."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przestrzenie, przeznaczone pod ulice i place oraz na pomieszczenie instytucji użyteczności publicznej, będą oddane gminie miasta Warszawy do dyspozycji gminy, bezpłatnie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Co się tyczy terenów i parcel, na których mają być wznoszone domy mieszkalne, upoważnia się Rząd, a w szczególności Ministra Robót Publicznych w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych i z Ministrem Skarbu, do sprzedawania tych terenów i parcel czy to na własność, czy pod tytułem wieczystej dzierżawy, z wolnej ręki, bez odbywania licytacji, albo w drodze licytacji, wedle uznania tychże ministrów, częściami lub kawałkami i za ceny, ustalane również wedle uznania tychże ministrów spółdzielczym stowarzyszeniom budowlanym, a przedewszystkiem spółdzielczemu stowarzyszeniu mieszkaniowemu urzędników państwowych oraz stowarzyszeniom urzędników komunalnych i prywatnych, kooperatywom budowlanym robotniczym i spółdzielniom budowlanym. O ile przelew będzie dokonany pod formą wieczystej dzierżawy, pobrać należy odpowiednią sumę tytułem wkupnego i ustalić odpowiedni czynsz wieczysty, jak również inne warunki, o ile można, zbliżone do praktykowanych na terenie b. Królestwa Polskiego zasad wieczystej dzierżawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Nadając nabywcom prawo zakładania ksiąg hipotecznych czy to dla nabywanej przez nich całej przestrzeni, czy dla pojedyńczych parcel, zastrzedz należy, że tereny te są przeznaczone na budowę domów mieszkalnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Po dokonanej sprzedaży dalszy obrót temi gruntami pozostaje pod kontrolą Rządu. W razie sprzedaży tych gruntów lub pojedynczych części Skarbowi przysługiwać będzie prawo pierwokupu; bez zezwolenia Skarbu żadna aljenacja i żaden dalszy przelew miejsca mieć nie może."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrom Skarbu, Rolnictwa i Dóbr Państwowych, oraz Robót Publicznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia, Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

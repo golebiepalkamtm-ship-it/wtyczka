@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-1164",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 czerwca 2015 r. o zmianie ustawy o usługach turystycznych",
+  "title_en": "",
+  "short_name": "pl-du-2015-1164",
+  "status": "amended",
+  "issued_date": "2015-06-12",
+  "in_force_date": "2015-08-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1164",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o usługach turystycznych ( Dz. U. z 2014 r. poz. 196 i 822 oraz z 2015 r. poz. 390 ) w art. 5 po ust. 5 dodaje się ust. 5a w brzmieniu: „ 5a. W przypadku niewypłacalności organizatora turystyki lub pośrednika turystycznego marszałek województwa lub wskazana przez niego jednostka upoważniona do wydawania dyspozycji wypłaty zaliczki na pokrycie kosztów powrotu klientów do kraju, o której mowa w ust. 4, prowadzi działania związane z organizacją powrotu klientów z imprezy turystycznej do miejsca wyjazdu lub planowanego powrotu z imprezy turystycznej, jeżeli organizator turystyki lub pośrednik turystyczny, wbrew obowiązkowi, nie zapewnia tego powrotu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

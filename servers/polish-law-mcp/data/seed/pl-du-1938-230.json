@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1938-230",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1938 r. o utworzeniu Sądu Apelacyjnego w Toruniu.",
+  "title_en": "",
+  "short_name": "pl-du-1938-230",
+  "status": "in_force",
+  "issued_date": "1938-04-09",
+  "in_force_date": "1938-04-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/230",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Tworzy się Sąd Apelacyjny w Toruniu. (2) Sąd Apelacyjny w Toruniu obejmuje okręgi sądów okręgowych w Bydgoszczy, Chojnicach, Gdyni, Grudziądzu i Toruniu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Sprawy z okręgów sądów, wymienionych w artykule poprzedzającym, które przed dniem rozpoczęcia czynności przez Sąd Apelacyjny w Toruniu nie zostaną ukończone prawomocnie w sądzie dotychczasowym, przechodzą do właściwości Sądu Apelacyjnego w Toruniu; Sąd Apelacyjny w Poznaniu pozostaje jednak nadal właściwy dla czynności, zastrzeżonych ustawami procesowymi temu samemu składowi sądzącemu, który już rozpatrywał sprawę. (2) Sąd Apelacyjny w Toruniu rozstrzygać będzie należące do właściwości sądów apelacyjnych sprawy o wznowienie postępowania, które pochodzą z okręgów sądów, wymienionych w artykule poprzedzającym. (3) W sprawach, wymienionych w ustępach poprzedzających, strona może skutecznie dokonywać czynności procesowych w Sądzie Apelacyjnym w Poznaniu, do chwili otrzymania jakiegokolwiek pisma w sprawie od Sądu Apelacyjnego w Toruniu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sąd Apelacyjny w Poznaniu pozostaje nadal wyłącznie właściwy do rozstrzygania spraw z zakresu sądownictwa niespornego, przekazanych mu rozporządzeniem Ministra b. dzielnicy pruskiej z dnia 6 kwietnia 1920 r. (Dz. Urzęd. b. dz. pr. Nr 16, poz. 169)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Sprawiedliwości, zwijając odpowiednią ilość stanowisk w Sądzie Apelacyjnym w Poznaniu, może przenieść sędziów, zajmujących te stanowiska, bez ich zgody, na równorzędne stanowiska w Sądzie Apelacyjnym w Toruniu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Termin rozpoczęcia czynności przez Sąd Apelacyjny w Toruniu określi rozporządzenie Ministra Sprawiedliwości. (2) Minister Sprawiedliwości określi również w drodze rozporządzenia termin i tryb ukonstytuowania się Izby Notarialnej w Toruniu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Rada adwokacka w Poznaniu powoła w ciągu sześciu tygodni od dnia wejścia w życie niniejszej ustawy radę adwokacką oraz sąd dyscyplinarny izby adwokackiej w Toruniu; kadencja tych organów wygasa z mocy prawa"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

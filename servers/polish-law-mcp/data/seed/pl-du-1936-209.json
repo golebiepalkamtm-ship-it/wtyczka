@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1936-209",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 kwietnia 1936 r. o zaciągnięciu pożyczek na cele inwestycyjne przedsiębiorstwa Polskie Koleje Państwowe.",
+  "title_en": "",
+  "short_name": "pl-du-1936-209",
+  "status": "in_force",
+  "issued_date": "1936-04-02",
+  "in_force_date": "1936-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Komunikacji do zaciągnięcia w imieniu przedsiębiorstwa Polskie Koleje Państwowe pożyczek długoterminowych do ogólnej wysokości 70.000.000 zł na cele inwestycyjne tegoż przedsiębiorstwa, przewidziane w planie finansowo-gospodarczym przedsiębiorstwa Polskie Koleje Państwowe (fundusz inwestycyjny) na rok 1936."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Warunki zaciągnięcia pożyczek, przewidzianych w art. 1, w szczególności wysokość oprocentowania, terminy i sposób spłaty tych pożyczek, ustali Minister Komunikacji w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sprawozdanie ze sposobu zużycia pożyczek, zaciągniętych na podstawie art. 1, będzie objęte sprawozdaniem rocznem Ministra Komunikacji z wykonania planu finansowo-gospodarczego przedsiębiorstwa Polskie Koleje Państwowe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Komunikacji i Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

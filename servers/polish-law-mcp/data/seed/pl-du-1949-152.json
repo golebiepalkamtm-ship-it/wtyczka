@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1949-152",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 kwietnia 1949 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy.",
+  "title_en": "",
+  "short_name": "pl-du-1949-152",
+  "status": "repealed",
+  "issued_date": "1949-04-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1949/152",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do wydawania dekretów z mocą ustawy według zasad, ustalonych w przepisach art. 4 ustawy konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej ( Dz. U. R. P. Nr 18, poz. 71 ) na okres od dnia zamknięcia sesji Sejmu Ustawodawczego, otwartej w dniu 28 października 1948 r., do dnia otwarcia następnej sesji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów i wszystkim ministrom."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-6",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 grudnia 1919 r. w sprawie zmian w ustawie z dnia 27 maja 1919 roku o ustalaniu i wynagradzaniu nauczycieli publicznych szkół powszechnych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-6",
+  "status": "in_force",
+  "issued_date": "1919-12-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/6",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 maja 1919 roku (Dz. Pr. P. P. № 44 z 1919 roku poz. 311) o ustalaniu i wynagradzaniu nauczycieli publicznych szkół powszechnych wprowadza się następujące zmiany: a) W art. 6, w ustępie pierwszym na końcu po słowach: „z chwilą wysłużenia lat 12 w kategorji IX...” należy wstawić: „do VII zaś z chwilą wysłużenia lat 6 w kategorji VIII”. b) W art. 6, w ustępie drugim na końcu po słowach: „60% pełnego dodatku...” wstawić: „otrzymują również podwyżkę dodatku ekonomicznego wojennego, przyznaną urzędnikom państwowym mocą uchwały Rady Ministrów z dnia 13 grudnia 1918 r.” c) Artykuł 13 skreśla się. d) W art. 14 cyfrę „90” zastąpić przez cyfrę „240”. e) W art. 14 dodać drugi ustęp w brzmieniu następującem: „Etatowy nauczyciel religji, duchowny, jest obowiązany również do 30 godzin pracy, z których sześć odlicza się na zajęcia duszpasterskie. Nieetatowy nauczyciel religji pobiera za każdą godzinę tygodniowo 240 mk. rocznie”. f) W art. 15 cyfrę „90” zastąpić przez cyfrę „240”. g) W art. 23 § 9 cyfrę „1800” zastąpić przez cyfrę „2700”. h) W art. 23 § 9 po słowach: „w pozostałych miejscowościach - 360 mk.” wstawić: „otrzymują również podwyżkę dodatku ekonomicznego wojennego, przyznaną urzędnikom państwowym mocą uchwały Rady Ministrów z dnia 13 grudnia 1918 roku”. i) W art. 23 § 16 skreśla się zakończenie od słów: „z wyłączeniem zakresu dodatkowych wyposażeń” i t. d. - do końca. j) Wobec skreślenia art. 13 należy zmienić numerację następnych artykułów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 listopada 1919 roku."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministerstwu Wyznań Religjinych i Oświecenia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"},{\"id\": \"arti_1-lett_h\",\"symbol\": \"lett_h\",\"type\": \"lett\",\"name\": \"h\",\"title\": \"h)\"},{\"id\": \"arti_1-lett_i\",\"symbol\": \"lett_i\",\"type\": \"lett\",\"name\": \"i\",\"title\": \"i)\"},{\"id\": \"arti_1-lett_j\",\"symbol\": \"lett_j\",\"type\": \"lett\",\"name\": \"j\",\"title\": \"j)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

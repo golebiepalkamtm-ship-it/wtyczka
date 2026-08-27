@@ -1,0 +1,506 @@
+{
+  "id": "pl-du-1989-176",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 1989 r. Prawo o notariacie.",
+  "title_en": "",
+  "short_name": "pl-du-1989-176",
+  "status": "repealed",
+  "issued_date": "1989-05-24",
+  "in_force_date": "1989-06-02",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/176",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1. Dokonywanie czynności notarialnych należy do notariusza działającego w państwowym biurze notarialnym oraz do notariusza prowadzącego indywidualną kancelarię notarialną. § 2. Notariusz dokonując czynności notarialnych działa jako osoba zaufania publicznego. § 3. Czynności notarialne dokonane przez notariusza w formie dokumentu zgodnie z prawem mają charakter dokumentu urzędowego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Państwowe biura notarialne oraz ich oddziały tworzy i znosi oraz ustala ich siedziby Minister Sprawiedliwości. Zarządzenie Ministra Sprawiedliwości w tej sprawie podlega ogłoszeniu w Dzienniku Urzędowym Polskiej Rzeczypospolitej Ludowej „Monitor Polski”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Państwowym biurem notarialnym kieruje notariusz powoływany na stanowisko dyrektora i odwoływany z tego stanowiska przez Ministra Sprawiedliwości - na wniosek prezesa sądu wojewódzkiego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Oddziałem państwowego biura notarialnego kieruje notariusz powoływany na stanowisko kierownika i odwoływany z tego stanowiska przez prezesa sądu wojewódzkiego - na wniosek dyrektora państwowego biura notarialnego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "§ 1. Minister Sprawiedliwości może tworzyć i znosić indywidualne kancelarie notarialne, prowadzone przez notariusza. Decyzje o zniesieniu kancelarii Minister Sprawiedliwości podejmuje po zasięgnięciu opinii kolegium notariuszy. § 2. Notariusz prowadzący kancelarię, o której mowa w § 1, zatrudnia personel kancelarii, zapewnia jego utrzymanie, a także właściwe warunki lokalowe kancelarii. § 3. Wydatki kancelarii, o której mowa w § 1, notariusz pokrywa z opłat notarialnych w sposób określony w odrębnych przepisach. § 4. Funkcję kierownika zakładu pracy dla notariusza prowadzącego indywidualną kancelarię notarialną sprawuje prezes sądu wojewódzkiego, w którego okręgu kancelaria ma swoją siedzibę."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "§ 1. Minister Sprawiedliwości sprawuje zwierzchni nadzór nad działalnością notariuszy i państwowych biur notarialnych przez powołane w tym celu organy nadzoru lub przez wyznaczone osoby. § 2. Bezpośredni nadzór nad działalnością notariuszy i państwowych biur notarialnych sprawuje prezes sądu wojewódzkiego na obszarze właściwości sądu wojewódzkiego. § 3. Osoby powołane do nadzoru mają prawo wglądu w czynności notarialne i badania ich zgodności z prawem, a także mogą żądać wyjaśnień oraz zarządzać usunięcie uchybień i usterek, a w razie dostrzeżenia naruszenia przez notariusza jego obowiązków - żądać wszczęcia postępowania dyscyplinarnego. § 4. Minister Sprawiedliwości kieruje działalnością organów i osób powołanych do nadzoru oraz kontroluje wykonywanie wydanych w trybie nadzoru zarządzeń. § 5. Minister Sprawiedliwości, w drodze rozporządzenia, określa szczegółowe zasady wykonywania nadzoru nad działalnością notariuszy i państwowych biur notarialnych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Minister Sprawiedliwości ustala regulamin określający tryb wewnętrznego urzędowania państwowych biur notarialnych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "§ 1. Państwowe biura notarialne prowadzą gospodarkę finansową w trybie i na zasadach określonych w przepisach prawa budżetowego. § 2. Minister Sprawiedliwości, w porozumieniu z Ministrem Finansów, określa szczegółowe zasady i sposób finansowania państwowych biur notarialnych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Do indywidualnych kancelarii notarialnych stosuje się odpowiednio przepisy dotyczące państwowych biur notarialnych, chyba że przepisy niniejszej ustawy stanowią inaczej. Rozdział 2 Mianowanie i zwalnianie notariuszy"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Notariuszy mianuje Minister Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Na stanowisko notariusza może być mianowany ten, kto: 1) posiada obywatelstwo polskie i korzysta z pełni praw obywatelskich i cywilnych, 2) jest nieskazitelnego charakteru, 3) ukończył wyższe studia prawnicze, 4) odbył aplikację notarialną, 5) złożył egzamin notarialny, 6) daje rękojmię należytego wykonywania obowiązków notariusza, 7) pracował w charakterze asesora notarialnego co najmniej rok, 8) ukończył 26 lat."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Wymagania określone w art. 11 pkt 4, 5 i 7 nie dotyczą: 1) profesorów i docentów nauk prawnych posiadających stopień naukowy doktora habilitowanego w polskich szkołach wyższych, w Polskiej Akademii Nauk oraz w jednostkach badawczo-rozwojowych, 2) sędziów i prokuratorów, 3) asesorów sądowych, którzy orzekali w sprawach z zakresu prawa cywilnego co najmniej przez okres roku, 4) adwokatów i radców prawnych, którzy wykonywali ten zawód co najmniej trzy lata."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "§ 1. Stosunek pracy z notariuszem nawiązuje się z dniem doręczenia mu aktu mianowania. § 2. Notariusz powinien zgłosić się w celu objęcia stanowiska w ciągu 14 dni od dnia doręczenia mu aktu mianowania, jeżeli nie oznaczono innego terminu."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Małżonkowie oraz osoby pozostające ze sobą w stosunku pokrewieństwa do drugiego stopnia lub powinowactwa pierwszego stopnia nie mogą być notariuszami w tym samym państwowym biurze notarialnym, jeżeli podlegają sobie służbowo."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "§ 1. Obejmując stanowisko notariusz składa wobec Ministra Sprawiedliwości ślubowanie według następującej roty: „Ślubuję uroczyście na powierzonym mi stanowisku notariusza dochować wierności Polskiej Rzeczypospolitej Ludowej, służyć państwu i obywatelom, a powierzone mi obowiązki wypełniać sumiennie i zgodnie z prawem, dochować tajemnicy państwowej i służbowej, w postępowaniu swym kierować się zasadami godności, uczciwości oraz unikać wszystkiego, co mogłoby przynieść ujmę notariuszowi lub naruszyć powagę sprawowanego urzędu.” § 2. Minister Sprawiedliwości może upoważnić prezesa sądu wojewódzkiego do przyjęcia ślubowania."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "§ 1. Minister Sprawiedliwości rozwiązuje stosunek pracy z notariuszem, jeżeli notariusz: 1) zrzeknie się swojego stanowiska, 2) nie daje rękojmi należytego wykonywania obowiązków notariusza, 3) z powodu choroby lub ułomności został, orzeczeniem komisji lekarskiej do spraw inwalidztwa i zatrudnienia, uznany za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się badaniu lekarskiemu takiej komisji, mimo postanowienia kolegium notariuszy o potrzebie poddania się takiemu badaniu, 4) przekroczył wiek emerytalny, chyba że Minister Sprawiedliwości, na wniosek notariusza, wyraził zgodę na dalsze zajmowanie stanowiska, nie dłużej jednak niż do ukończenia 70 lat. § 2. Minister Sprawiedliwości może rozwiązać stosunek pracy z notariuszem, jeżeli z powodu choroby lub płatnego urlopu dla poratowania zdrowia nie pełnił obowiązków nieprzerwanie przez okres dłuższy niż rok. Do okresu tego wlicza się okresy poprzedniej przerwy w pełnieniu obowiązków wskutek choroby lub płatnego urlopu dla poratowania zdrowia, jeżeli okres pełnienia obowiązków nie przekroczył trzydziestu dni. § 3. Rozwiązanie stosunku pracy z notariuszem z z przyczyn wymienionych w § 1 pkt 2 i 3 następuje po jego wysłuchaniu, chyba że jest to niemożliwe, a w przypadku rozwiązania stosunku pracy z przyczyny wymienionej w § 1 pkt 2 - także po zasięgnięciu opinii kolegium notariuszy. § 4. Rozwiązanie stosunku pracy z notariuszem z przyczyn wymienionych w § 1 pkt 2-4 oraz § 2 następuje po upływie trzech miesięcy od dnia doręczenia zawiadomienia o zwolnieniu. Rozwiązanie stosunku pracy w przypadku określonym w § 1 pkt 1 następuje w dniu oznaczonym w decyzji Ministra Sprawiedliwości o rozwiązaniu stosunku pracy."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "§ 1. Notariusz może być przeniesiony z państwowego biura notarialnego do jednego z jego oddziałów, do innego biura, do oddziału innego biura lub z oddziału do biura - za jego zgodą, a bez jego zgody: 1) jeżeli wymaga tego zakres czynności wykonywanych przez te jednostki lub zmiany w zakresie ich działania, na czas niezbędny, nie dłuższy jednak niż rok, 2) w razie zniesienia biura lub jego oddziału, 3) dla utrzymania powagi stanowiska notariusza na podstawie postanowienia kolegium notariuszy; przed wydaniem postanowienia kolegium wysłuchuje wyjaśnień notariusza, chyba że nie jest to możliwe, 4) jeżeli przeniesienie zostało orzeczone jako kara dyscyplinarna. § 2. Przeniesienie zarządza Minister Sprawiedliwości. § 3. Przeniesienie bez zgody notariusza może nastąpić po uprzedzeniu na trzy miesiące przed terminem przeniesienia, a do oddziału danego biura - po uprzedzeniu w terminie jednego miesiąca. Uprzedzenie nie jest wymagane, jeżeli przeniesienie zostało orzeczone jako kara dyscyplinarna."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "§ 1. Minister Sprawiedliwości może delegować notariusza, za jego zgodą, do pełnienia obowiązków notariusza w jednostkach, do których może być przeniesiony na podstawie art. 17 § 1, lub w Ministerstwie Sprawiedliwości. § 2. Minister Sprawiedliwości może delegować notariusza bez jego zgody, jednak na czas nie dłuższy niż trzy miesiące w ciągu roku. § 3. Prezes sądu wojewódzkiego może delegować notariusza bez jego zgody do pełnienia obowiązków notariusza w innym państwowym biurze notarialnym na obszarze właściwości tego samego sądu wojewódzkiego, na czas nie dłuższy niż miesiąc w ciągu roku. § 4. Łączny czas delegacji, na podstawie przepisów § 2 i 3, nie może przekraczać trzech miesięcy w ciągu roku. § 5. Minister Sprawiedliwości określa szczegółowe zasady delegowania notariuszy do pełnienia obowiązków w Ministerstwie Sprawiedliwości. Rozdział 3 Obowiązki i prawa notariuszy"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Notariusz jest obowiązany wiernie służyć Polskiej Rzeczypospolitej Ludowej, sumiennie wypełniać obowiązki wynikające ze ślubowania oraz stale podnosić poziom swoich kwalifikacji."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "§ 1. Przy dokonywaniu czynności notarialnych notariusz jest obowiązany czuwać nad należytym zabezpieczeniem praw i słusznych interesów stron. § 2. Notariusz jest obowiązany udzielać stronom potrzebnych wyjaśnień dotyczących dokonywanej czynności notarialnej."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "§ 1. Notariusz nie może podejmować dodatkowego zatrudnienia bez uzyskania uprzedniej zgody prezesa właściwego sądu wojewódzkiego, z wyjątkiem zatrudnienia w charakterze pracownika naukowo-dydaktycznego, dydaktycznego lub naukowego, jeżeli wykonywanie tego zatrudnienia nie przeszkadza w pełnieniu obowiązków notariusza. § 2. Notariuszowi nie wolno także podejmować innego zajęcia, które by przeszkadzało w pełnieniu obowiązków notariusza albo mogło uchybiać jego godności. § 3. O zamiarze podjęcia dodatkowego zatrudnienia, a także o podjęciu innego zajęcia, notariusz jest obowiązany zawiadomić prezesa właściwego sądu wojewódzkiego. Prezes sądu wojewódzkiego decyduje o tym, czy podjęcie dodatkowego zatrudnienia, o którym mowa w § 1, nie przeszkadza w pełnieniu obowiązków notariusza. § 4. Jeżeli prezes sądu wojewódzkiego nie wyrazi zgody na zatrudnienie lub na zajęcie, o których mowa w § 1 i 2, sprawę, na wniosek notariusza, rozstrzyga Minister Sprawiedliwości po zasięgnięciu opinii kolegium notariuszy."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Czas pracy notariusza jest określony wymiarem jego zadań."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "§ 1. Zasady wynagradzania notariuszy określa Rada Ministrów, z tym że zasady corocznego podwyższania przeciętnego wynagrodzenia notariuszy określają przepisy o kształtowaniu środków na wynagrodzenia w sferze budżetowej. Rada Ministrów zapewnia corocznie środki finansowe na wzrost wynagrodzeń notariuszy. § 2. Notariuszom przysługuje dodatkowe wynagrodzenie prowizyjne, określone, w drodze rozporządzenia, przez Ministra Sprawiedliwości w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Do notariuszy stosuje się odpowiednio przepisy art. 58 § 3, art. 60, 65, 72, 73, 75-80, 82 oraz 113-116 ustawy - Prawo o ustroju sądów powszechnych ."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Notariusz, który przeszedł na emeryturę lub rentę, może używać tytułu „emerytowany notariusz”."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Dyrektor państwowego biura notarialnego może upoważnić do sporządzania poświadczeń emerytowanego notariusza lub sędziego; o upoważnieniu tym dyrektor zawiadamia prezesa sądu wojewódzkiego."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "§ 1. W wypadku niemożliwości pełnienia czynności przez notariuszy w danym państwowym biurze notarialnym, prezes sądu wojewódzkiego może powierzyć pełnienie obowiązków notariusza emerytowanemu notariuszowi albo innej osobie spełniającej wymagania określone w art. 11 lub 12 - na czas niezbędny, nie dłuższy jednak niż rok. § 2. Dyrektor państwowego biura notarialnego w wypadkach nagłych może również powierzyć osobom wymienionym w § 1 pełnienie obowiązków notariusza, nie dłużej jednak niż na siedem dni. Dyrektor biura niezwłocznie zawiadamia o tym prezesa sądu wojewódzkiego. Rozdział 4 Odpowiedzialność dyscyplinarna notariuszy"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Za naruszenie swych obowiązków notariusz odpowiada dyscyplinarnie."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Za naruszenie obowiązków mniejszej wagi prezes sądu wojewódzkiego może nałożyć karę porządkową upomnienia bez wszczynania postępowania dyscyplinarnego. Kara ta może być nałożona po uprzednim wysłuchaniu notariusza. Jeżeli notariusz nie godzi się z zastosowaną karą, może domagać się w terminie 7 dni wszczęcia postępowania dyscyplinarnego. W takim przypadku sąd dyscyplinarny utrzymuje w mocy nałożoną karę porządkową bądź ją uchyla."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "§ 1. Po upływie roku od chwili czynu nie można wszcząć w stosunku do notariusza postępowania dyscyplinarnego. § 2. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego ."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "§ 1. Karami dyscyplinarnymi są: 1) nagana, 2) usunięcie ze stanowiska kierowniczego w państwowym biurze notarialnym, 3) przeniesienie do pracy w innej miejscowości na koszt ukaranego, 4) wydalenie z pracy. § 2. Wymierzenie kary określonej w § 1 pkt 1-3 pociąga za sobą pozbawienie możliwości awansowania przez okres trzech lat, a także niemożność udziału w tym okresie w kolegium notariuszy i sądzie dyscyplinarnym oraz uzyskania utraconego stanowiska."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "§ 1. Do zasad i trybu orzekania w sprawach dyscyplinarnych notariuszy oraz do zawieszania w pełnieniu obowiązków stosuje się odpowiednio przepisy ustawy - Prawo o ustroju sądów powszechnych , dotyczące sędziów rejonowych, ze zmianami wynikającymi z niniejszego rozdziału. § 2. Wojewódzkie sądy dyscyplinarne orzekają w pierwszej instancji w składzie trzech notariuszy. § 3. Rzecznikiem dyscyplinarnym w sądzie dyscyplinarnym I i II instancji jest notariusz wyznaczony przez Ministra Sprawiedliwości. § 4. Obwiniony może ustanowić obrońcę spośród notariuszy lub sędziów. § 5. Przepisy rozdziału 5 działu II ustawy - Prawo o ustroju sądów powszechnych , dotyczące uprawnień kolegium sądu wojewódzkiego, stosuje się do kolegium notariuszy. Rozdział 5 Aplikanci i asesorzy notarialni"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "§ 1. Stosunek pracy z aplikantem notarialnym nawiązuje się na podstawie mianowania, z dniem określonym w akcie mianowania. Aplikantem notarialnym może być mianowany ten, kto odpowiada warunkom określonym w art. 11 pkt 1-3 i 6. § 2. Przystępując do pracy aplikant składa wobec prezesa sądu wojewódzkiego ślubowanie według roty przepisanej dla pracowników urzędów państwowych."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Aplikanta mianuje, przydziela do określonego państwowego biura notarialnego i zwalnia prezes sądu wojewódzkiego."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "§ 1. Aplikacja notarialna trwa dwa lata. Po upływie okresu aplikacji aplikant składa egzamin notarialny. § 2. Minister Sprawiedliwości może w szczególnych przypadkach skrócić aplikację do roku."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "§ 1. Minister Sprawiedliwości może mianować asesorem notarialnym aplikanta, który ukończył aplikację i zdał egzamin notarialny. § 2. Minister Sprawiedliwości może powierzyć asesorowi notarialnemu pełnienie czynności notarialnych na czas określony, nie przekraczający łącznie dwóch lat. § 3. Asesor notarialny pełni swoje obowiązki w okręgu sądu wojewódzkiego wymienionym w akcie mianowania. Prezes sądu wojewódzkiego przydziela asesora notarialnego do określonego państwowego biura notarialnego. § 4. Do asesorów notarialnych stosuje się odpowiednio przepisy dotyczące notariuszy. Minister Sprawiedliwości może jednak zwolnić asesora po uprzednim wypowiedzeniu; przepis art. 16 § 4 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Do aplikantów notarialnych stosuje się odpowiednio przepisy art. 22 i 23 niniejszej ustawy oraz art. 72 § 1 i art. 82 ustawy - Prawo o ustroju sądów powszechnych ."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "§ 1. Aplikant za naruszenie swoich obowiązków ponosi odpowiedzialność porządkową lub dyscyplinarną. § 2. Karę porządkową za przewinienie mniejszej wagi stanowi upomnienie. Upomnienia udziela prezes sądu wojewódzkiego. § 3. Karami dyscyplinarnymi w stosunku do aplikantów są: 1) nagana, 2) nagana z ostrzeżeniem, 3) wydalenie z pracy. § 4. Do odpowiedzialności dyscyplinarnej stosuje się odpowiednio przepis art. 30."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "§ 1. Minister Sprawiedliwości, w drodze rozporządzenia, określa tryb postępowania dyscyplinarnego i zawieszania w pełnieniu obowiązków aplikanta. § 2. Minister Sprawiedliwości, w drodze rozporządzenia, określa tryb postępowania w zakresie mianowania, zmiany warunków pracy i rozwiązania stosunku pracy z aplikantem notarialnym oraz organizację aplikacji notarialnej, zakres egzaminu notarialnego, skład komisji egzaminacyjnej, sposób powoływania jej członków, wysokość ich wynagrodzenia i postępowanie komisji egzaminacyjnej. Rozdział 6 Pracownicy notarialni"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "§ 1. W państwowych biurach notarialnych są zatrudnieni radcowie i sekretarze notarialni, inni pracownicy administracyjni oraz pracownicy obsługi. § 2. Na stanowisku radcy i sekretarza notarialnego może być zatrudniony pracownik, który odbył praktykę i złożył egzamin. § 3. Minister Sprawiedliwości określa, w drodze rozporządzenia, szczegółowe warunki przyjęcia na stanowisko radcy i sekretarza notarialnego, organizację praktyki, zakres egzaminu, skład, powoływanie i postępowanie Komisji egzaminacyjnej oraz zasady zwalniania od odbycia określonej praktyki. Rozdział 7 Samorządowe organy notariuszy"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Organami samorządowymi notariuszy są: 1) okręgowe zgromadzenie notariuszy, 2) Rada do Spraw Notariuszy przy Ministrze Sprawiedliwości, 3) kolegium notariuszy."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "§ 1. Okręgowe zgromadzenie notariuszy składa się z notariuszy działających w państwowych biurach notarialnych w jednym lub więcej okręgach sądów wojewódzkich. § 2. Okręgi sądów wojewódzkich, o których mowa w § 1, określa Minister Sprawiedliwości, uwzględniając liczbę państwowych biur notarialnych oraz działających w tych biurach notariuszy. § 3. Przewodniczącym okręgowego zgromadzenia notariuszy jest notariusz wybrany na tym zgromadzeniu spośród notariuszy działających w danym okręgu. Kadencja przewodniczącego zgromadzenia trwa dwa lata. § 4. Członkowie okręgowego zgromadzenia notariuszy są obowiązani brać udział w posiedzeniach zgromadzenia. Asesorzy notarialni mogą brać udział w posiedzeniach bez prawa głosu i wyboru. § 5. Do podejmowania uchwał okręgowego zgromadzenia notariuszy jest wymagana obecność przynajmniej dwu trzecich liczby jego członków. Uchwały zgromadzenia zapadają większością głosów; w razie równości głosów, decyduje głos przewodniczącego zgromadzenia. Głosowanie jest tajne na żądanie co najmniej jednej czwartej liczby członków obecnych na zgromadzeniu. § 6. Zgromadzenie notariuszy zbiera się co najmniej raz do roku. Posiedzenie zgromadzenia zwołuje przewodniczący z własnej inicjatywy, z zalecenia prezesów sądów wojewódzkich poszczególnych okręgów sądowych lub na wniosek jednej piątej liczby notariuszy działających w okręgu, o którym mowa w § 1."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Do zadań okręgowego zgromadzenia notariuszy należy: 1) podejmowanie działań zmierzających do wykonywania przez notariuszy, asesorów i aplikantów notarialnych ich zadań przez tworzenie jednolitej praktyki i odpowiednich form szkolenia oraz doskonalenia kwalifikacji zawodowych notariuszy w państwowych biurach notarialnych, 2) wybór notariuszy do składu wojewódzkich sądów dyscyplinarnych, 3) wybór kandydatów na członków Rady do Spraw Notariuszy przy Ministrze Sprawiedliwości, 4) wybór członków kolegium notariuszy."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "§ 1. Notariusze działający w państwowych biurach notarialnych na obszarze właściwości danego sądu wojewódzkiego wybierają na okręgowym zgromadzeniu kolegium notariuszy w składzie przewodniczącego i dwóch członków. § 2. Kadencja kolegium notariuszy trwa dwa lata. § 3. Kolegium notariuszy zbiera się w zależności od potrzeb, a co najmniej raz na kwartał. Posiedzenie kolegium zwołuje przewodniczący z własnej inicjatywy, na wniosek prezesa sądu wojewódzkiego lub na wniosek członka kolegium. § 4. W posiedzeniu kolegium może uczestniczyć prezes sądu wojewódzkiego."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Do zadań kolegium notariuszy należy: 1) wyrażanie opinii o pracy zawodowej notariuszy i asesorów oraz aplikantów notarialnych, w oparciu o wnioski wynikające z wizytacji i lustracji państwowych biur notarialnych, 2) zajmowanie stanowiska w sprawach płacowych dotyczących notariuszy, asesorów i aplikantów notarialnych, 3) ocena warunków pracy w państwowych biurach notarialnych, 4) prowadzenie rozmów kwalifikacyjnych z kandydatami na aplikację notarialną, 5) zajmowanie stanowiska w innych sprawach określonych w ustawie."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "§ 1. Jeżeli liczba notariuszy pełniących obowiązki w państwowych biurach notarialnych działających na obszarze właściwości danego sądu wojewódzkiego nie przekracza 10, notariusze wybierają męża zaufania. § 2. Do zadań męża zaufania, o którym mowa w § 1, stosuje się odpowiednio przepisy dotyczące kolegium notariuszy."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "§ 1. Rada do Spraw Notariuszy przy Ministrze Sprawiedliwości, zwana dalej „Radą”, jest organem opiniodawczo-doradczym w sprawach notariatu. § 2. Rada składa się z dziewięciu członków - notariuszy, powoływanych przez Ministra Sprawiedliwości z grona kandydatów przedstawionych przez okręgowe zgromadzenie notariuszy. § 3. Przewodniczącym Rady jest Minister Sprawiedliwości lub wyznaczony przez niego podsekretarz stanu. § 4. Kadencja Rady trwa dwa lata. § 5. Rada przedstawia Ministrowi Sprawiedliwości swoje opinie i propozycje w sprawach: 1) oceny pracy zawodowej notariuszy, asesorów, aplikantów i pracowników notarialnych oraz warunków jej wykonywania, 2) zasad wynagradzania w państwowych biurach notarialnych, 3) warunków socjalno-bytowych osób wymienionych w pkt 1 oraz notariuszy - emerytów i rencistów, 4) szkolenia zawodowego notariuszy, asesorów, aplikantów oraz pracowników państwowych biur notarialnych, 5) oceny i opinii o podjętych przez okręgowe zgromadzenia notariuszy oraz kolegia notariuszy uchwał i postanowień dotyczących praktyki notarialnej, 6) współpracy międzynarodowej z notariatami innych państw, 7) innych, przewidzianych w ustawie lub zleconych przez Ministra Sprawiedliwości. Rozdział 8 Rada Pracownicza"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "§ 1. Notariusze, asesorzy i aplikanci notarialni oraz pracownicy notarialni mogą, stosownie do art. 134 ustawy - Prawo o ustroju sądów powszechnych , uczestniczyć w radach pracowniczych działających przy sądach rejonowych, łącznie z sędziami i pracownikami tych sądów. § 2. W państwowych biurach notarialnych, w których jest zatrudnionych co najmniej 25 pracowników, może być utworzona odrębna rada pracownicza; przepisy art. 135-138 ustawy - Prawo o ustroju sądów powszechnych stosuje się odpowiednio. Dział II Czynności notarialne Rozdział 1 Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "§ 1. Notariusze dokonują następujących czynności: 1) sporządzają akty notarialne, 2) sporządzają poświadczenia, 3) spisują protokoły, 4) sporządzają protesty weksli i czeków, 5) przyjmują na przechowanie dokumenty, 6) sporządzają odpisy i wyciągi, 7) sporządzają na żądanie stron projekty aktów, oświadczeń i innych dokumentów. § 2. Notariusze dokonują również czynności określonych w przepisach o postępowaniu wieczysto-księgowym oraz o postępowaniu spadkowym. § 3. Notariusze prowadzący indywidualne kancelarie notarialne dokonują czynności wymienionych w § 1, z wyjątkiem przechowywania dokumentów, oraz czynności wymienionych w § 2."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Notariusz odmówi dokonania czynności notarialnej sprzecznej z prawem albo naruszającej zasady współżycia społecznego."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Osobę, której odmówiono dokonania czynności notarialnej, należy pouczyć o prawie i trybie zaskarżenia odmowy, a na jej pisemne żądanie - podać w terminie 7 dni na piśmie przyczyny odmowy."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "§ 1. Na odmowę dokonania czynności notarialnej osoba zainteresowana może wnieść w terminie 7 dni zażalenie do sądu wojewódzkiego właściwego dla siedziby państwowego biura notarialnego. Zażalenie wnosi się za pośrednictwem notariusza, który jest obowiązany ustosunkować się do zażalenia w terminie 7 dni i wraz z zażaleniem przedstawić swoje stanowisko sądowi wojewódzkiemu. Sąd wojewódzki rozpoznaje zażalenie na rozprawie, stosując przepisy Kodeksu postępowania cywilnego o środkach odwoławczych. Postanowienie sądu wojewódzkiego nie podlega zaskarżeniu. § 2. Notariusz może, jeżeli uzna zażalenie za słuszne, dokonać czynności notarialnej; w tym przypadku nie nadaje zażaleniu dalszego biegu. § 3. Przy rozpoznawaniu zażalenia przez sąd wojewódzki przepis art. 391 § 1 Kodeksu postępowania cywilnego stosuje się odpowiednio. § 4. W razie dostrzeżenia w toku dokonywania czynności notarialnej, że przedstawiona przez stronę decyzja administracyjna lub zaświadczenie organu administracji państwowej budzą wątpliwości co do ich zgodności z prawem, notariusz wstrzymuje się z dokonaniem czynności oraz w ciągu 14 dni zwraca się do prokuratora, powiadamiając o tym równocześnie organ administracji państwowej, który wydał decyzję lub zaświadczenie. Notariusz dokonuje czynności, jeżeli w terminie 30 dni prokurator nie wniesie sprzeciwu od decyzji lub nie wniesie skargi na decyzję do sądu administracyjnego albo nie zakwestionuje prawnej mocy zaświadczenia."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "§ 1. Notariuszowi nie wolno dokonywać czynności notarialnych, które dotyczą: 1) samego notariusza, 2) jego małżonka, 3) krewnych lub powinowatych notariusza w linii prostej bez ograniczenia stopnia, w linii bocznej zaś krewnych i powinowatych do trzeciego stopnia włącznie, 4) osób związanych z notariuszem z tytułu przysposobienia, opieki lub kurateli. § 2. Zakaz przewidziany w § 1 stosuje się również wobec osoby, której powierzono pełnienie czynności notarialnych. § 3. Niezależnie od przyczyn wymienionych w § 1 sąd wojewódzki, w którego okręgu znajduje się siedziba państwowego biura notarialnego, wyłącza notariusza na jego żądanie lub na wniosek strony, jeżeli między nim a jedną ze stron lub jej przedstawicielem zachodzi stosunek osobisty tego rodzaju, że mógłby wywołać wątpliwości co do bezstronności notariusza. Przed wydaniem orzeczenia sąd wojewódzki wysłucha wyjaśnień notariusza. § 4. Jeżeli wyłączenie dotyczy dyrektora państwowego biura notarialnego lub notariusza w biurze jednoosobowym albo notariusza prowadzącego indywidualną kancelarię notarialną, to notariusza wyznacza prezes sądu wojewódzkiego; w pozostałych wypadkach notariusza wyznacza dyrektor. § 5. Ograniczenia wymienione w § 1 pkt 2-4 trwają także po ustaniu małżeństwa, powinowactwa, przysposobienia, opieki lub kurateli. Rozdział 2 Tryb dokonywania czynności notarialnych"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "§ 1. Czynności notarialnych dokonuje się w lokalu państwowego biura notarialnego. § 2. Poza tym lokalem czynność notarialna może być dokonana wyjątkowo, jeżeli wymaga tego charakter czynności albo jeżeli strona nie może stawić się do państwowego biura notarialnego. § 3. Minister Sprawiedliwości może zarządzić dokonywanie czynności notarialnych poza lokalem i siedzibą państwowego biura notarialnego."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "§ 1. Przy dokonywaniu czynności notarialnej notariusz jest obowiązany stwierdzić tożsamość osób biorących udział w czynności. § 2. Stwierdzenie tożsamości powinno nastąpić na podstawie prawem przewidzianych dokumentów, a w braku takich dokumentów - w sposób wyłączający wszelką wątpliwość co do określenia tożsamości osoby biorącej udział w czynności notarialnej. § 3. Sposób stwierdzenia tożsamości notariusz określa w sporządzanym dokumencie."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "§ 1. Jeżeli osoba biorąca udział w czynnościach: 1) nie zna języka polskiego i do czynności nie jest dołączony przekład na inny, znany tej osobie język, notariusz powinien przetłumaczyć akt lub inny dokument, osobiście lub przy pomocy tłumacza, 2) jest głucha lub głuchoniema, notariusz jest obowiązany dokonać czynności przy udziale biegłego, 3) jest niewidoma, notariusz, na życzenie takiej osoby, powinien przywołać do czynności wskazaną przez nią zaufaną osobę; o powyższym notariusz powinien uprzedzić osobę niewidomą, 4) nie umie lub nie może pisać, powinna na dokumencie złożyć odcisk palca, obok tego zaś odcisku inna osoba wpisze imię i nazwisko osoby nie umiejącej lub nie mogącej pisać, umieszczając swój podpis, 5) może złożyć podpis jedynie w alfabecie nie znanym notariuszowi, należy stwierdzić, że jest to podpis tej osoby. § 2. O zachowaniu warunków przewidzianych w § 1 pkt 2 i 3 oraz o sposobie stwierdzenia okoliczności, o których mowa w § 1, notariusz czyni stosowną wzmiankę w treści sporządzanego dokumentu."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "§ 1. Jeżeli do dokonania czynności notarialnej jest niezbędny dokument właściwego organu administracji państwowej, na wniosek notariusza organ ten sporządza odpis lub wyciąg z takiego dokumentu, z przeznaczeniem na potrzeby czynności notarialnej. § 2. Przepis § 1 nie wyłącza obowiązku uiszczenia przez zainteresowanego stosownych opłat lub poniesienia innych kosztów związanych ze sporządzeniem dokumentu przez organ administracji państwowej."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Podpisy na aktach notarialnych i poświadczanych dokumentach są składane w obecności notariusza. Jeżeli podpis na poświadczonym dokumencie był złożony nie w obecności notariusza, osoba, która podpisała, powinna uznać przed notariuszem złożony podpis za własnoręczny. Okoliczność tę notariusz zaznacza w sporządzanym dokumencie."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "§ 1. Za dokonanie czynności notarialnych państwowe biura notarialne pobierają opłaty. § 2. Opłaty nie uiszczone ściąga sąd rejonowy, tak jak należności sądowe. Na postanowienie państwowego biura notarialnego o obowiązku uiszczenia opłat przysługuje zażalenie do sądu wojewódzkiego. Do zażalenia stosuje się art. 52 § 2. § 3. W przypadkach dotyczących indywidualnych kancelarii notarialnych postanowienie o ściągnięciu nie uiszczonych opłat wydaje sąd rejonowy. § 4. Wysokość opłat, tryb ich pobierania oraz zasady zwalniania od opłat i wprowadzania ulg, a także przypadki, w których nie pobiera się opłat, określa w drodze rozporządzenia Minister Sprawiedliwości w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "§ 1. Niezależnie od opłaty za dokonanie czynności notarialnych, państwowe biuro notarialne pobiera, na rzecz Skarbu Państwa, podatki i opłatę skarbową należne w związku z dokonywaną czynnością. § 2. Strony czynności notarialnej odpowiadają solidarnie wobec Skarbu Państwa za opłatę przypadającą za dokonanie tej czynności. § 3. Notariusz wymienia na każdym sporządzonym dokumencie wysokość pobranych opłat, podatków i kosztów, powołując podstawę prawną. Rozdział 3 Akty notarialne"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "§ 1. Notariusz sporządza akt notarialny, jeżeli wymaga tego przepis prawa lub taka jest wola stron."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "§ 1. Akt notarialny powinien zawierać: 1) dzień, miesiąc i rok sporządzenia aktu, a w razie potrzeby lub na żądanie strony - godzinę i minutę rozpoczęcia i podpisania aktu, 2) miejsce sporządzenia aktu, 3) oznaczenie państwowego biura notarialnego oraz imię i nazwisko notariusza, jeżeli zaś akt sporządza osoba, której powierzono pełnienie czynności notarialnych - imię i nazwisko tej osoby, 4) imiona, nazwiska, imiona rodziców i miejsce zamieszkania osób fizycznych, nazwę i siedzibę osób prawnych lub innych podmiotów biorących udział w akcie, imiona, nazwiska i miejsce zamieszkania ich przedstawicieli lub pełnomocników, a także innych osób obecnych przy sporządzaniu aktu, 5) oświadczenia stron z powołaniem się, w razie potrzeby, na dołączone do aktu dokumenty, 6) stwierdzenie, na żądanie stron, faktów i istotnych okoliczności, które zaszły przy spisywaniu aktu, 7) stwierdzenie, że akt został odczytany, przyjęty i podpisany, 8) podpisy biorących udział w akcie oraz osób obecnych przy sporządzaniu aktu, 9) podpis notariusza. § 2. Jeżeli akt notarialny dotyczy czynności prawnej, akt ten powinien zawierać treści istotne dla tej czynności. Ponadto akt notarialny powinien zawierać inne stwierdzenia, których potrzeba umieszczenia w akcie wynika z niniejszej ustawy i przepisów szczególnych. § 3. Do aktu notariusz dołącza wyłącznie dokumenty wymagane przez prawo dla danej czynności. Dokumenty te parafują osoby podpisujące akt oraz notariusz."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Jeżeli akt notarialny jest sporządzony na dwóch lub więcej arkuszach, to arkusze te powinny być ponumerowane, parafowane i połączone."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Akt notarialny przed podpisaniem powinien być odczytany przez notariusza lub w jego obecności. Przy odczytaniu aktu notariusz powinien się przekonać, że osoby biorące udział w czynności dokładnie rozumieją treść oraz znaczenie aktu i akt jest zgodny z ich wolą. Na żądanie powinny być odczytane również załączniki do aktu."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Oryginały aktów notarialnych nie mogą być wydawane poza państwowe biuro notarialne. Rozdział 4 Poświadczenia"
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "§ 1. Notariusz poświadcza: 1) własnoręczność podpisu, 2) zgodność odpisu wyciągu lub kopii z okazanym dokumentem, 3) datę okazania dokumentu, 4) pozostawanie osoby przy życiu lub w określonym miejscu. § 2. Rada Ministrów może, w drodze rozporządzenia, upoważnić organy administracji państwowej i banki mające swoją siedzibę w miejscowościach, w których nie ma państwowego biura notarialnego, do sporządzania niektórych poświadczeń dokonywanych przez państwowe biura notarialne."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Każde poświadczenie notarialne powinno zawierać datę i oznaczenie miejsca jego sporządzenia, na żądanie - również godzinę dokonania czynności, oznaczenie państwowego biura notarialnego, podpis notariusza i pieczęć biura. Przepis art. 63 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Notariusz poświadcza zgodność odpisu, wyciągu lub kopii z okazanym dokumentem. Jeżeli okazany dokument zawiera cechy szczególne (dopiski, poprawki, uszkodzenia), notariusz stwierdza to w poświadczeniu."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "§ 1. Notariusz poświadcza na okazanym mu dokumencie datę, a na żądanie stron - także godzinę i minutę okazania tego dokumentu. § 2. W poświadczeniu notariusz stwierdza tożsamość osoby okazującej dokument."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Pozostawanie osoby przy życiu lub w określonym miejscu poświadcza notariusz w razie stawiennictwa tej osoby w państwowym biurze notarialnym albo w razie przekonania się o tym fakcie przez notariusza poza biurem. Notariusz w poświadczeniu ustala tożsamość tej osoby oraz określa dzień, godzinę i minutę stwierdzenia pozostawania osoby przy życiu lub w określonym miejscu. Rozdział 5 Protokoły"
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "§ 1. Notariusz spisuje protokoły walnych zgromadzeń organizacji społecznych, stowarzyszeń, spółdzielni, spółek i innych osób prawnych w przypadkach prawem przewidzianych. § 2. Jeżeli statut osoby prawnej, o której mowa w § 1, lub przepis szczególny nie stanowią inaczej, protokół podpisują przewodniczący zgromadzenia i notariusz. § 3. Notariusz również spisuje protokoły w celu stwierdzenia przebiegu pewnych czynności i zdarzeń wywołujących skutki prawne, a w szczególności dotyczące stawiennictwa stron i złożonych przez nie oświadczeń, a także - na żądanie strony stawającej - niestawiennictwa strony drugiej. § 4. Protokoły spisuje się w formie aktu notarialnego. Rozdział 6 Protesty"
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Przy sporządzaniu protestów weksli, czeków i innych dokumentów notariusz stosuje przepisy prawa właściwe dla tych czynności. Rozdział 7 Przyjmowanie dokumentów na przechowanie."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Z przyjęcia dokumentu na przechowanie spisuje się protokół, w którym wymienia się datę przyjęcia, ustala tożsamość osoby składającej dokument oraz wskazuje, komu i pod jakimi warunkami dokument bądź jego odpis ma być wydany. Przyjęty na przechowanie dokument wydaje się wyłącznie osobie wymienionej w protokole lub jej następcy prawnemu. Rozdział 8 Wydawanie odpisów i wyciągów oraz przechowywanie aktów notarialnych"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "§ 1. Odpisy aktu notarialnego wydaje się stronom aktu lub osobom, dla których zastrzeżono w akcie prawo otrzymania odpisu, a także ich następcom prawnym. § 2. Za zgodą stron lub na podstawie prawomocnego postanowienia sądu wojewódzkiego, w którego okręgu znajduje się państwowe biuro notarialne, odpis aktu notarialnego może być wydany także innym osobom. Sąd orzeka w tym przedmiocie, w trybie postępowania nieprocesowego, po wysłuchaniu stron aktu notarialnego, jeżeli stawią się na wezwanie. Postanowienie sądu wojewódzkiego nie podlega zaskarżeniu. § 3. W nagłówku odpisu aktu zaznacza się, że wydany dokument jest odpisem. Odpis powinien być dosłownym powtórzeniem oryginału, jednak poprawek i przekreśleń znajdujących się w oryginale nie należy zamieszczać na odpisie. Na końcu odpisu zaznacza się, komu i kiedy odpis wydano. Odpis podpisuje notariusz i opatruje pieczęcią. Odpis mający więcej niż jeden arkusz powinien być ponumerowany, połączony, parafowany i spojony pieczęcią."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "§ 1. Informacje pisemne i inne dokumenty wydaje się osobom, na których żądanie zostały dokonane czynności notarialne; jeżeli z treści stosunku prawnego to wynika, wydaje się je stronie, której czynność notarialna dotyczy. § 2. W przypadkach prawem przewidzianych państwowe biuro notarialne przesyła sądom i innym organom państwowym informacje pisemne o sporządzanych dokumentach i odpisy tych dokumentów. § 3. Informacji ustnych o dokonanych czynnościach notariusz może udzielić jedynie instytucjom i osobom, które mają prawo otrzymać odpisy dokumentów stwierdzających te czynności."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "§ 1. Do wydawania wyciągów stosuje się te same zasady, na jakich wydaje się odpisy. § 2. Przepis art. 74 § 3 stosuje się odpowiednio do wyciągów."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Minister Sprawiedliwości wydaje, w drodze rozporządzenia, szczegółowe przepisy o przechowywaniu w państwowych biurach notarialnych aktów notarialnych i składaniu ich do archiwum ksiąg wieczystych oraz o księgach notarialnych, trybie ich prowadzenia, a także o sposobie czynienia wzmianek o wydaniu odpisów, wyciągów i innych dokumentów przez państwowe biura notarialne. Dział III Przepisy szczególne, zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "W sprawach nie uregulowanych niniejszą ustawą do notariuszy i innych pracowników państwowych biur notarialnych stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych ( Dz. U. Nr 31, poz. 214 , z 1984 r. Nr 35, poz. 187 , z 1988 r. Nr 19, poz. 132 i z 1989 r. Nr 4, poz. 24 ) , a w sprawach nie uregulowanych także tą ustawą - przepisy Kodeksu pracy ."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "W ustawie z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych ( Dz. U. Nr 27, poz. 111 , z 1982 r. Nr 45, poz. 289 , z 1984 r. Nr 52, poz. 268 , z 1985 r. Nr 12, poz. 50 , z 1988 r. Nr 41, poz. 325 i z 1989 r. Nr 4, poz. 23 ) wprowadza się następujące zmiany: 1) art. 14 otrzymuje brzmienie: „ Art. 14. 1. Z zastrzeżeniem ust. 2 i 3, podatnik odpowiada całym swoim majątkiem za ciążące na nim podatki. 2. Płatnik nie będący pracownikiem w rozumieniu Kodeksu pracy odpowiada całym swoim majątkiem za podatek nie pobrany od podatnika lub pobrany w kwocie niższej od należnej, chyba że nastąpiło to z winy podatnika. Płatnik taki odpowiada również za niewpłacenie w terminie pobranego podatku. 3. Płatnik będący pracownikiem odpowiada za podatek nie pobrany od podatnika, pobrany w kwocie niższej od należnej lub za niewpłacenie w terminie pobranego podatku - na zasadach i w granicach odpowiedzialności materialnej pracowników, określonych w Kodeksie pracy w stosunku do zakładu pracy. Za pozostałą część podatku nie pobranego lub pobranego w kwocie niższej od należnej odpowiada podatnik. 4. Inkasent odpowiada całym swoim majątkiem za podatki pobrane i nie wpłacone na właściwy rachunek. ” , 2) art. 25 skreśla się."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Postępowanie dyscyplinarne, wszczęte w stosunku do notariusza przed wejściem w życie niniejszej ustawy, będzie się toczyło na zasadach i w trybie tej ustawy. Czynności dokonane przed jej wejściem w życie są skuteczne, jeżeli odpowiadają przepisom dotychczasowym."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "§ 1. Traci moc ustawa z dnia 25 maja 1951 r. - Prawo o notariacie ( Dz. U. z 1963 r. Nr 19, poz. 106 , z 1964 r. Nr 41, poz. 278 , z 1965 r. Nr 52, poz. 318 , z 1974 r. Nr 50, poz. 317 , z 1982 r. Nr 31, poz. 214 i z 1985 r. Nr 31, poz. 137 ) . § 2. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie pozostają w mocy dotychczasowe przepisy wykonawcze w zakresie, w jakim nie są z nią sprzeczne."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Ustrój notariatu\",\"children\": [{\"id\": \"bran_I-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_1-arti_1-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_1-arti_1-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"bran_I-chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"bran_I-chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_5-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_1-arti_5-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_1-arti_5-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_1-arti_5-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"bran_I-chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_6-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_1-arti_6-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_1-arti_6-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_1-arti_6-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"},{\"id\": \"bran_I-chpt_1-arti_6-para_5\",\"symbol\": \"para_5\",\"type\": \"para\",\"name\": \"5\",\"title\": \"§ 5.\"}]},{\"id\": \"bran_I-chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_8-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_1-arti_8-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"}]},{\"id\": \"bran_I-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Mianowanie i zwalnianie notariuszy\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_I-chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_11-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_I-chpt_2-arti_11-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"bran_I-chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_12-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_2-arti_12-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_I-chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_13-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_2-arti_13-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_I-chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_15-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_2-arti_15-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_16-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_16-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_16-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_16-para_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_2-arti_16-para_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_I-chpt_2-arti_16-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_2-arti_16-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_2-arti_16-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"bran_I-chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_17-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_17-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_17-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_17-para_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_2-arti_17-para_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_I-chpt_2-arti_17-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_2-arti_17-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"bran_I-chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_18-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_2-arti_18-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_2-arti_18-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_2-arti_18-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"},{\"id\": \"bran_I-chpt_2-arti_18-para_5\",\"symbol\": \"para_5\",\"type\": \"para\",\"name\": \"5\",\"title\": \"§ 5.\"}]}]},{\"id\": \"bran_I-chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Obowiązki i prawa notariuszy\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"bran_I-chpt_3-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_20-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_3-arti_20-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_21-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_3-arti_21-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_3-arti_21-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_3-arti_21-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"bran_I-chpt_3-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_I-chpt_3-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_23-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_3-arti_23-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"bran_I-chpt_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"bran_I-chpt_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_I-chpt_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_27-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_3-arti_27-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"bran_I-chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Odpowiedzialność dyscyplinarna notariuszy\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_I-chpt_4-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_I-chpt_4-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_30-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_4-arti_30-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_4-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_31-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_31-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_4-arti_31-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_4-arti_31-para_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_4-arti_31-para_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_I-chpt_4-arti_31-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"bran_I-chpt_4-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_32-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"bran_I-chpt_4-arti_32-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"bran_I-chpt_4-arti_32-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"bran_I-chpt_4-arti_32-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"},{\"id\": \"bran_I-chpt_4-arti_32-para_5\",\"symbol\": \"para_5\",\"type\": \"para\",\"name\": \"5\",\"title\": \"§ 5.\"}]}]},{\"id\": \"bran_I-chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Aplikanci i asesorzy notarialni\",\"children\": [{\"id\": \"bran_I-chpt_5-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"bran_I-chpt_5-arti_33-para_1\",\"symbol\": \"para_1\",\"ty"
+    }
+  ],
+  "definitions": []
+}

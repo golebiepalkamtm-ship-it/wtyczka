@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2011-1204",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy - Prawo prasowe",
+  "title_en": "",
+  "short_name": "pl-du-2011-1204",
+  "status": "amended",
+  "issued_date": "2011-08-19",
+  "in_force_date": "2011-09-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/1204",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 stycznia 1984 r. - Prawo prasowe ( Dz. U. Nr 5, poz. 24 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590, z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551 oraz z 2011 r. Nr 85, poz. 459 i Nr 156, poz. 934. ) w art. 13 po ust. 3 dodaje się ust. 4 w brzmieniu: „ 4. Na postanowienie w przedmiocie ujawnienia danych osobowych i wizerunku osób, przeciwko którym toczy się postępowanie przygotowawcze lub sądowe przysługuje zażalenie. Zażalenie na postanowienie prokuratora rozpoznaje sąd rejonowy, w którego okręgu toczy się postępowanie. Postanowienie wydane w toku postępowania przygotowawczego staje się wykonalne z chwilą upramocnienia. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 34, poz. 187, z 1990 r. Nr 29, poz. 173, z 1991 r. Nr 100, poz. 442, z 1996 r. Nr 114, poz. 542, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 770, z 1999 r. Nr 90, poz. 999, z 2001 r. Nr 112, poz. 1198, z 2002 r. Nr 153, poz. 1271, z 2004 r. Nr 111, poz. 1181, z 2005 r. Nr 39, poz. 377, z 2007 r. Nr 89, poz. 590, z 2010 r. Nr 182, poz. 1228 i Nr 235, poz. 1551 oraz z 2011 r. Nr 85, poz. 459 i Nr 156, poz. 934. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

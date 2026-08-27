@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1931-760",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 października 1931 r. o kryzysowym dodatku do państwowego podatku dochodowego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-760",
+  "status": "repealed",
+  "issued_date": "1931-10-22",
+  "in_force_date": "1931-11-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/760",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Od dochodów, ustalanych dla wymiaru państwowego podatku dochodowego według działu I ustawy o państwowym podatku dochodowym (Dz. U. R. P. z 1925 r. Nr 58, poz. 411), ustanawia się nadzwyczajny dodatek do państwowego podatku dochodowego, który wynosi: przy dochodzie rocznym ponad 1.500 do 3.600 zł - 0.5%, przy dochodzie rocznym ponad 3.600 do 10.000 zł - 1%, przy dochodzie rocznym ponad 10.000 do 36.000 zł - 2%, przy dochodzie rocznym ponad 36.000 do 60.000 zł - 2,5%, przy dochodzie rocznym ponad 60.000 do 160.000 zł - 3%, przy dochodzie rocznym ponad 160.000 zł - 4% dochodu. (2) Dodatek ten pobiera się, poczynając od dochodów, ustalonych dla wymiaru podatku na 1932 rok podatkowy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Od dochodów, opodatkowanych według działu II ustawy o państwowym podatku dochodowym, ustanawia się nadzwyczajny dodatek do państwowego podatku dochodowego, który wynosi przy wynagrodzeniu, obliczonem w stosunku rocznym: ponad 2.500 zł do 3.600 zł - 0,5% 3.600 „ „ 10.400 „ - 1% 10.400 „ „ 36.000 „ - 2% 36.000 „ „ 60.000 „ - 2,5% 60.000 „ „ 80.000 „ - 3% 80.000 „ „ 104.000 „ - 4% „ 104.000 „ „ 144.000 „ - 5% „ 144.000 „ „ 184.000 „ - 6% „ 184.000 „ „ 200.000 „ - 1% „ 200.000 „ „ 220.000 „ - 8% „ 220.000 „ „ 250.000 „ - 9% „ 250.000 „ „ - „ -10% wypłacanego wynagrodzenia. (2) Dochody z uposażeń służbowych, emerytur, rent i wynagrodzeń za najemną pracę, wypłacane z funduszów Państwa, wolne są od dodatku, przypadającego do zapłaty w myśl ustępu pierwszego, z wyjątkiem dochodów, wypłacanych z funduszów tych przedsiębiorstw państwowych, które określi rozporządzenie Ministra Skarbu. (3) Dochody z uposażeń służbowych, emerytur, rent i wynagrodzeń za najemną pracę, wypłacane z funduszów związków komunalnych, a pobierane na tych samych zasadach, na jakich się oblicza pobory funkcjonarjuszów państwowych (rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 r. Dz. U. R. P. Nr 118, poz. 1073), wolne są od dodatku, przypadającego do zapłaty w myśl ustępu pierwszego. (4) Podatek w myśl ustępu pierwszego pobiera się od uposażeń służbowych, emerytur, rent i wynagrodzeń za najemną pracę, wypłacanych począwszy od uposażeń służbowych, rent i wynagrodzeń za najemną pracę, przypadających na miesiąc styczeń 1932 r. lub też wypłacanych od dnia 1 stycznia 1932 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Obliczenie i pobór nadzwyczajnego dodatku z art. 1 i 2 uskutecznia się jednocześnie z obliczeniem i poborem właściwego podatku dochodowego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Od dochodów, od których pobiera się nadzwyczajny dodatek do państwowego podatku dochodowego (art. 1 i 2), nie pobiera się w czasie obowiązywania niniejszej ustawy 10% dodatku, opłacanego w myśl ustawy z dnia 12 lutego 1931 r. o poborze 10% -go dodatku do niektórych podatków i opłat stemplowych (Dz. U. R. P. Nr 16, poz. 82)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie na całym obszarze Rzeczypospolitej z dniem ogłoszenia i traci moc obowiązującą w terminie, który zostanie określony przez rozporządzenie Rady Ministrów. Prezes Rady Ministrów: A. Prystor Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_2-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

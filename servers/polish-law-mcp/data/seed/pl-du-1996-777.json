@@ -1,0 +1,92 @@
+{
+  "id": "pl-du-1996-777",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 grudnia 1996 r. o Polskim Instytucie Spraw Międzynarodowych.",
+  "title_en": "",
+  "short_name": "pl-du-1996-777",
+  "status": "in_force",
+  "issued_date": "1996-12-20",
+  "in_force_date": "1996-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1996/777",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się państwową jednostkę organizacyjną pod nazwą „Polski Instytut Spraw Międzynarodowych” z siedzibą w Warszawie. 2. Polski Instytut Spraw Międzynarodowych, zwany dalej „Instytutem”, ma osobowość prawną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zadań Instytutu należy: 1) prowadzenie badań naukowych w zakresie spraw międzynarodowych, 2) przygotowywanie analiz, ekspertyz i studiów prognostycznych z zakresu spraw międzynarodowych, 3) doskonalenie zawodowe kadr wykonujących zadania w zakresie stosunków międzynarodowych i polityki zagranicznej Rzeczypospolitej Polskiej, 4) upowszechnianie w społeczeństwie polskim wiedzy z dziedziny współczesnych stosunków międzynarodowych, 5) utrzymywanie kontaktów z ośrodkami szkoleniowych, naukowymi i politycznymi w Rzeczypospolitej Polskiej i za granicą, 6) gromadzenie specjalistycznego księgozbioru i dokumentacji naukowej, a także prowadzenie otwartej działalności bibliotecznej, 7) działalność wydawnicza."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Szczegółowy zakres działania i organizację Instytutu określa statut Instytutu, nadany, w drodze rozporządzenia, przez Radę Ministrów na wniosek Ministra Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Organami Instytutu są: 1) Dyrektor Instytutu, 2) Rada Instytutu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Dyrektor Instytutu kieruje Instytutem i reprezentuje go na zewnątrz. 2. Dyrektora Instytutu powołuje i odwołuje Prezes Rady Ministrów, po zasięgnięciu opinii Ministra Spraw Zagranicznych. 3. Kandydatów na stanowisko Dyrektora Instytutu wyłania się w drodze konkursu, którego warunki określa statut Instytutu. 4. Dyrektor Instytutu jest powoływany na kadencję określoną w statucie Instytutu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Zadania, kompetencje i skład Rady Instytutu oraz czas trwania jej kadencji określa statut Instytutu. 2. Członków Rady Instytutu powołuje i odwołuje Minister Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. W skład Instytutu mogą wchodzić oddziały zamiejscowe jako wyodrębnione jednostki organizacyjne. 2. Oddział zamiejscowy Instytutu tworzy, w drodze rozporządzenia, Minister Spraw Zagranicznych, na wniosek Dyrektora Instytutu, po zasięgnięciu opinii Rady Instytutu. 3. Organizację oddziału zamiejscowego i zakres jego zadań określa, z zastrzeżeniem art. 3, regulamin oddziału nadany przez Ministra Spraw Zagranicznych na wniosek Dyrektora Instytutu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Dla realizacji celów określonych w art. 2 Instytutowi przekazuje się majątek byłego Polskiego Instytutu Spraw Międzynarodowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Przychodami Instytutu są w szczególności: 1) środki otrzymywane zgodnie z odrębnymi przepisami na zadania, o których mowa w art. 2 pkt 1, 2) dotacje z budżetu państwa na zadania, o których mowa w art. 2 pkt 2-7, 3) spadki i darowizny."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Nadzór nad Instytutem w zakresie zgodności jego działania z przepisami ustawowymi i postanowieniami statutu sprawuje Minister Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Minister Spraw Zagranicznych określa, w drodze rozporządzenia, w porozumieniu z Ministrem Pracy i Polityki Socjalnej, wykaz stanowisk w Instytucie, wymagane kwalifikacje oraz zasady wynagradzania pracowników Instytutu i przyznawania im innych świadczeń."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "W sprawach nie uregulowanych niniejszą ustawą do Instytutu stosuje się odpowiednio przepisy dotyczące jednostek badawczo-rozwojowych. Ministrem właściwym, w rozumieniu tych przepisów, w odniesieniu do Instytutu jest Minister Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1997 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

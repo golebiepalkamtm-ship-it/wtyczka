@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1987-210",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 grudnia 1987 r. o zmianie ustawy budżetowej na rok 1987.",
+  "title_en": "",
+  "short_name": "pl-du-1987-210",
+  "status": "repealed",
+  "issued_date": "1987-12-05",
+  "in_force_date": "1987-12-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1987/210",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie budżetowej na rok 1987 z dnia 18 grudnia 1986 r. ( Dz. U. Nr 46, poz. 225 ) wprowadza się następujące zmiany: 1) w art. 1: a) w ust. 1: - kwotę „5.967.166.489 tys. zł” zastępuje się kwotą „5.734.466.489 tys. zł” - w pkt 1 kwotę „4.860.133.499 tys. zł” zastępuje się kwotą „4.527.133.499 tys. zł” - dodaje się pkt 10 w brzmieniu: „ 10) lokata z centralnych funduszów rozwoju nauki i techniki 100.000.000 tys. zł ” b) w ust. 2: - kwotę „5.966.754.455 tys. zł” zastępuje się kwotą „6.031.754.455 tys. zł” - w pkt 1 kwotę „1.006.179.209 tys. zł” zastępuje się kwotą „1.245.926.209 tys. zł” - w pkt 2 kwotę „586.685.664 tys. zł” zastępuje się kwotą „480.938.664 tys. zł” - w pkt 5 kwotę „35.500.774 tys. zł” zastępuje się kwotą „10.500.774 tys. zł” - w pkt 16 kwotę „149.000.000 tys. zł” zastępuje się kwotą „105.000.000 tys. zł” c) ust. 3 i 4 otrzymują brzmienie: „ 3. Niedobór budżetu państwa wynikający z niedoboru budżetu centralnego wynosi 297.587.966 tys. zł. 4. Źródłem pokrycia niedoboru budżetu centralnego będzie kredyt zaciągnięty przez Ministra Finansów w Narodowym Banku Polskim. ” ; 2) w art. 2: w ust. 1 kwotę „4.783.893.028 tys. zł” zastępuje się kwotą „4.550.893.028 tys. zł” a kwotę „4.797.908.622 tys. zł” zastępuje się kwotą „4.862.908.622 tys. zł” ; 3) w art. 4 w ust. 1 kwotę „1.007.191.000 tys. zł” zastępuje się kwotą „1.199.191.000 tys. zł” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Finansów do szczegółowego podziału, w układzie klasyfikacji budżetowej, wprowadzonych zmian dochodów i wydatków."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

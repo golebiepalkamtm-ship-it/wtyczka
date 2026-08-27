@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-624",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o komornikach sądowych i egzekucji",
+  "title_en": "",
+  "short_name": "pl-du-2015-624",
+  "status": "repealed",
+  "issued_date": "2015-04-09",
+  "in_force_date": "2015-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/624",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji ( Dz. U. z 2011 r. Nr 231, poz. 1376 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544, z 2013 r. poz. 829 i 1513, z 2014 r. poz. 993 i 1710 oraz z 2015 r. poz. 218. ) wprowadza się następujące zmiany: 1) w art. 8: a) ust. 8 otrzymuje brzmienie: „ 8. Komornik wybrany przez wierzyciela odmawia jednak wszczęcia egzekucji, wykonania postanowienia o udzieleniu zabezpieczenia lub podjęcia innych czynności wchodzących w zakres jego ustawowych zadań, jeżeli: 1) w zakresie prowadzonych przez niego egzekucji zaległość przekracza sześć miesięcy; 2) wpływ wszystkich spraw w danym roku przekroczył 5000, a skuteczność w zakresie prowadzonych przez niego egzekucji w roku poprzednim nie przekroczyła 35%; 3) wpływ wszystkich spraw w danym roku przekroczył 10 000. ” , b) po ust. 8 dodaje się ust. 8a i 8b w brzmieniu: „ 8a. Zaległość, o której mowa w ust. 8 pkt 1, oblicza się dzieląc liczbę spraw niezałatwionych w poprzednim półroczu przez średni miesięczny wpływ spraw w poprzednim półroczu, wyłączając sprawy o egzekucję świadczeń powtarzających się. Skuteczność, o której mowa w ust. 8 pkt 2, oblicza się ustalając procentowy stosunek liczby spraw załatwionych poprzez wyegzekwowanie świadczenia w roku poprzednim do liczby spraw, które wpłynęły w roku poprzednim. 8b. W stosunku do komornika, który rozpoczął działalność, zaległość, o której mowa w ust. 8 pkt 1, i skuteczność, o której mowa w ust. 8 pkt 2, oblicza się po upływie roku następującego po roku, w którym złożył ślubowanie. ” ; 2) w art. 32 w ust. 7a pkt 2 otrzymuje brzmienie: „ 2) powstanie zaległość, o której mowa w art. 8 ust. 8 pkt 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1 lit. a w zakresie ust. 8 pkt 3, który wchodzi w życie z dniem 1 stycznia 2016 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 759 i 1544, z 2013 r. poz. 829 i 1513, z 2014 r. poz. 993 i 1710 oraz z 2015 r. poz. 218. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

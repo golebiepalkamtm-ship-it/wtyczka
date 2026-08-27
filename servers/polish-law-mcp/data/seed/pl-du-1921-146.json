@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-146",
+  "type": "statute",
+  "title": "Ustawa konstytucyjna z dnia 8 marca 1921 r. dotycząca uzupełnienia Ustawy Konstytucyjnej z dnia 15 lipca 1920 r. zawierającej Statut Organiczny Województwa Śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1921-146",
+  "status": "repealed",
+  "issued_date": "1921-03-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/146",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawę Konstytucyjną z dnia 15 lipca 1920 r., zawierającą Statut Organiczny Województwa Śląskiego (Dz. Ust. № 73, poz. 497) uzupełnia się w sposób następujący: A) Po art. 8 umieszcza się następujący art. 8 a): „ Wszelkie zmiany ustaw, dotyczących górnictwa, przemysłu, handlu i rękodzielnictwa, obowiązujących w Województwie Śląskiem w dniu przyjęcia Górnego Śląska przez Polskę, mogą nastąpić tylko za zgodą Sejmu Śląskiego ” . B) Art. 33 otrzymuje następujący ustęp 3: „ Urzędnicy państwowi, urzędujący w Województwie Śląskiem, powinni w zasadzie pochodzić z Województwa Śląskiego. Przy. obsadzaniu urzędów administracji państwowej na obszarze Województwa Śląskiego mają przy równych kwalifikacjach pierwszeństwo urzędnicy, pochodzący z Województwa Śląskiego. Urzędnicy i pracownicy, tudzież robotnicy z Województwa Śląskiego, zatrudnieni w administracji państwowej, lub w przedsiębiorstwach państwowych w Województwie Śląskiem, mogą zostać przeniesieni do innych dzielnic Rzeczypospolitej Polskiej wbrew swej woli tylko wtenczas, jeżeli wymaga tego koniecznie ich wyszkolenie, lub wydoskonalenie, albo przeważający interes służby państwowej ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa, zmieniająca niniejszą Ustawę Konstytucyjną, wymagać będzie zgody Sejmu Śląskiego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezydentowi Ministrów. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_A\",\"symbol\": \"lett_A\",\"type\": \"lett\",\"name\": \"A\",\"title\": \"A)\"},{\"id\": \"arti_1-lett_B\",\"symbol\": \"lett_B\",\"type\": \"lett\",\"name\": \"B\",\"title\": \"B)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

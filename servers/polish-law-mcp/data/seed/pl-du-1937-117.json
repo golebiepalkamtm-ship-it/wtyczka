@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-117",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1937 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 29 października 1930 r. o Krzyżu i Medalu Niepodległości.",
+  "title_en": "",
+  "short_name": "pl-du-1937-117",
+  "status": "in_force",
+  "issued_date": "1937-03-10",
+  "in_force_date": "1937-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/117",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 29 października 1930 r. o Krzyżu i Medalu Niepodległości (Dz. U. R. P. Nr 75, poz. 591), zmienionym ustawą z dnia 21 marca 1931 r. (Dz. U. R. P. Nr 31, poz. 216) i rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 października 1932 r. (Dz. U. R. P. Nr 94, poz. 820) wprowadza się zmiany następujące: 1) artykuł 7 otrzymuje brzmienie: „Krzyż i Medal Niepodległości można nadawać do dnia 30 czerwca 1938 r. na podstawie zgłoszeń, złożonych najpóźniej do dnia 31 grudnia 1937 r.”; 2) po art. 7 dodaje się, jako nowe artykuły 8, 9, 10, 11, 12 i 13, przepisy następujące: „ Art. 8. Komitet Krzyża i Medalu Niepodległości po zakończeniu prac rozwiązuje się własną uchwałą i przekazuje swoje archiwa Instytutowi Józefa Piłsudskiego, poświęconemu badaniu najnowszej historii Polski. Art. 9. Krzyż lub Medal Niepodległości traci się: 1) z mocy prawomocnego wyroku sądowego, powodującego utratę orderów i odznaczeń, 2) z mocy zatwierdzonego przez Prezydenta Rzeczypospolitej orzeczenia Sądu Honorowego odznaczonych Krzyżem lub Medalem Niepodległości. Art. 10. Sąd Honorowy orzeka utratę odznaczenia za czyny nie licujące z honorem. Art. 11. (1) Członkowie Sądu Honorowego powoływani będą spośród osób odznaczonych Krzyżem Niepodległości. (2) Pierwszy skład Sądu Honorowego powoła Komitet Krzyża i Medalu Niepodległości. (3) Z pierwszego składu ustępuje corocznie 1/3 członków Sądu w drodze losowania. (4) Na miejsce członków ustępujących Sąd Honorowy powoływać będzie nowych członków na okres trzechletni. (5) Członkowie ustępujący mogą być ponownie powoływani. (6) Organizację Sądu Honorowego i tryb postępowania przed nim określi statut, opracowany przez Komitet i zatwierdzony przez Prezesa Rady Ministrów. Zmiany statutu przeprowadza na wniosek Sądu Honorowego Prezes Rady Ministrów. Art. 12. (1) Sąd Honorowy ma prawo wzywać osoby do stawienia się z oznajmieniem skutków, przewidzianych w art. 117 kodeksu postępowania karnego. Grzywnę za niestawiennictwo orzeka i przymusowe sprowadzenie zarządza właściwy sąd grodzki na wniosek Sądu Honorowego. (2) W razie nieusprawiedliwionej odmowy, zeznań, Sąd Honorowy zwraca się do właściwego sądu grodzkiego z wnioskiem o ukaranie świadka w myśl art. 118 kodeksu postępowania karnego. (3) Sąd Honorowy może zwrócić się de miejscowego sądu grodzkiego o przesłuchanie świadka, zamieszkałego poza Warszawą. (4) Sądowi Honorowemu należy przesyłać co do osób odznaczonych Krzyżem lub Medalem Niepodległości: a) odpisy wyroków, skazujących za zbrodnię lub występki, b) odpisy orzeczeń oficerskich sądów honorowych o wykluczenie z korpusu oficerskiego, c) odpisy orzeczeń dyscyplinarnych o przeniesieniu funkcjonariusza publicznego w stan spoczynku lub o wydaleniu go ze służby, (5) Na żądanie Sądu Honorowego należy udzielić mu do przejrzenia akta sprawy karnej, honorowej lub dyscyplinarnej. Art. 13. (1) O utracie Krzyża lub Medalu Niepodległości ogłasza się w gazecie rządowej. (2) Odebrania odznaki, dyplomu i legitymacji dokonywają władze administracji ogólnej. ” ; 3) art. 8 i 9 otrzymują numerację 14 i 15."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Prezesa Rady Ministrów do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 29 października 1930 r. o Krzyżu i Medalu Niepodległości (Dz. U. R. P. Nr 75, poz. 591) z uwzględnieniem zmian, wynikających z przepisów, wydanych do dnia ogłoszenia jednolitego tekstu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

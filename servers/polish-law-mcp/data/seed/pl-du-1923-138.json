@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1923-138",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 1923 r. o prowizorjum budżetowem za czas od 1 stycznia do 31 marca 1923 r.",
+  "title_en": "",
+  "short_name": "pl-du-1923-138",
+  "status": "in_force",
+  "issued_date": "1923-02-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/138",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do czynienia wydatków państwowych w czasie od 1 stycznia do 31 marca 1923 roku według dołączonego zestawienia kredytów rzeczowych w ogólnej kwocie Mk. 709,062,473,065 oraz wydatków osobowych w ogólnej kwocie Marek 450,000,000,000. Łączną zatem sumą wydatków na okres od 1 stycznia do 31 marca 1923 roku ustala się na kwotę Mk. 1,159,062,473,065. Objęte powyższą kwotą kredyty inwenstycyjne i kredyty nowe mogą być uruchomione tylko za uprzednią zgodą Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przekroczenie kredytów prowizorycznych, ustalonych w art. 1, może nastąpić tylko w razie dalszego wzrostu drożyzny, w granicach dwudziestu procentów tych kredytów. Otwieranie nowych kredytów może nastąpić tylko na wniosek Ministra Skarbu, zatwierdzony na drodze ustawodawczej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wymienione w art. 1 i 2 wydatki państwowe mają być dokonywane na poczet konstytucyjnie mającego się zatwierdzić budżetu na r. 1923."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Rząd do pokrycia wydatków państwowych w okresie od 1 stycznia do 31 marca 1923 r. dochodami państwowemi, przewidzianemi w preliminarzu na rok 1922, przy uwzględnieniu podwyżki tych dochodów, oraz dochodami, opartemi na nowych tytułach prawnych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Minister Skarbu upoważniony jest do przedsiębrania operacji finansowych celem pokrycia wymienionych w art. 1 i 2 wydatków, nie znajdujących pokrycia w dochodach państwowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1923 r."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Załącznik - Zestawienie kredytów, preliminowanych w okresie od 1 stycznia do 31 marca 1923 roku № CZĘŚĆ Kredyty preliminowane w 1 kwartale 1923 roku 1 Prezydent Rzeczypospolitej 70,136,962 2 Sejm i Senat 1,206,652,838 3 Kontrola Państwowa 908,076,400 4 Prezydjum Rady Ministrów 2,680,077,000 5 Min. Spraw Zagranicznych 11,227,578,000 6 „ „ Wojskowych 293,752,202,379 7 „ „ Wewnętrznych 19,581,408,443 8 „ Skarbu 56,370,340,000 9 Sprawiedliwości 10,056,697,125 10 Przemysłu i Handlu 1,562,344,675 11 „ Kolei Żelaznych 165,991,987,000 12 „ Rolnictwa i Dóbr Państw. 18,193,520,220 13 „ Wyzn. Rei. i Ośw. Publ. 21,555,316,996 14 „ Poczt i Telegrafów 12,178,383,000 15 „ Zdrowia Publicznego 6,182,080,480 16 „ Robót Publicznych 67,254,379,350 17 „ Pracy i Opieki Społecznej 8,069,259,500 18 Główny Urząd Likwidacyjny 730,792,547 19 Główny Urząd Ziemski 11,491,240,150 Razem 709,062,473,065 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Zestawienie kredytów, preliminowanych w okresie od 1 stycznia do 31 marca 1923 roku\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

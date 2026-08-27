@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-983",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 czerwca 2002 r. o zmianie ustawy - Prawo własności przemysłowej.",
+  "title_en": "",
+  "short_name": "pl-du-2002-983",
+  "status": "amended",
+  "issued_date": "2002-06-20",
+  "in_force_date": "2002-07-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/983",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 czerwca 2000 r. - Prawo własności przemysłowej ( Dz. U. z 2001 r. Nr 49, poz. 508 oraz z 2002 r. Nr 74, poz. 676 i Nr 108, poz. 945 ) wprowadza się następujące zmiany: 1) w art. 163: a) w ust. 1 zdanie drugie otrzymuje brzmienie: „ Do umowy tej stosuje się odpowiednio przepisy art. 76 oraz art. 78 i 79. ” , b) ust. 2 otrzymuje brzmienie: „ 2. Licencjobiorca może udzielić sublicencji na używanie znaku towarowego w zakresie udzielonego mu upoważnienia. ” ; 2) w art. 296: a) w ust. 4 dodaje się zdanie drugie w brzmieniu: „ Przepis stosuje się odpowiednio do sublicencji. ” . b) dodaje się ust. 5 w brzmieniu: „ 5. Uprawniony z prawa ochronnego na znak towarowy może wystąpić z roszczeniami, o których mowa w ust. 1, przeciwko licencjobiorcy lub sublicencjobiorcy w razie naruszenia tych postanowień umowy sublicencyjnej, o których mowa w ust. 4, a także w przypadku gdy umowa ta zawarta została z naruszeniem przepisu art. 163 ust. 2. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

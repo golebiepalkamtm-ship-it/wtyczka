@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-1192",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 lipca 2015 r. o zmianie ustawy o Rzeczniku Praw Dziecka",
+  "title_en": "",
+  "short_name": "pl-du-2015-1192",
+  "status": "amended",
+  "issued_date": "2015-07-09",
+  "in_force_date": "2015-08-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/1192",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 stycznia 2000 r. o Rzeczniku Praw Dziecka ( Dz. U. Nr 6, poz. 69 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1345, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 168, poz. 1004. ) wprowadza się następujące zmiany: 1) w art. 10: a) w ust. 1 pkt 2 otrzymuje brzmienie: „ 2) żądać od organów władzy publicznej, organizacji lub instytucji złożenia wyjaśnień, udzielenia informacji lub udostępnienia akt i dokumentów, w tym zawierających dane osobowe, także do wglądu w Biurze Rzecznika Praw Dziecka, ” , b) ust. 2 otrzymuje brzmienie: „ 2. Rzecznik może odmówić ujawnienia danych osobowych osoby, od której uzyskał informację wskazującą na naruszenie praw lub dobra dziecka, oraz osoby, której naruszenie dotyczy, a także dokumentacji zgromadzonej w toku badania sprawy, w tym także wobec organów władzy publicznej, jeżeli uzna to za niezbędne dla ochrony wolności, praw i interesów jednostki. ” ; 2) po art. 10b dodaje się art. 10c w brzmieniu: „ Art. 10c. Rzecznik może przetwarzać wszelkie informacje, w tym dane osobowe, o których mowa w art. 27 ust. 1 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych ( Dz. U. z 2014 r. poz. 1182 i 1662 ) , niezbędne do realizacji swoich ustawowych zadań. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2008 r. Nr 214, poz. 1345, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 168, poz. 1004. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

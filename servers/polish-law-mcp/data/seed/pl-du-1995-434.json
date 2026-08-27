@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1995-434",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 czerwca 1995 r. o zmianie ustawy - Prawo celne.",
+  "title_en": "",
+  "short_name": "pl-du-1995-434",
+  "status": "repealed",
+  "issued_date": "1995-06-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1995/434",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 grudnia 1989 r. - Prawo celne ( Dz. U. z 1994 r. Nr 71, poz. 312 ) wprowadza się następujące zmiany: 1) w art. 2 skreśla się pkt 8; 2) w art. 14: a) w ust. 1 pkt 7 otrzymuje brzmienie: „ 7) rzeczy stanowiące mienie: a) osoby fizycznej będącej w rozumieniu przepisów prawa dewizowego osobą krajową, przebywającej czasowo za granicą za zgodą władz kraju pobytu przez co najmniej 12 miesięcy, które służyły jej do użytku osobistego lub domowego, b) osoby fizycznej będącej w rozumieniu przepisów prawa dewizowego osobą zagraniczną przez okres co najmniej 12 miesięcy, przybywającej do kraju na pobyt stały, które służyły jej do użytku osobistego lub domowego, - z zastrzeżeniem nieodstępowania przez okres 2 lat, licząc od dnia dokonania odprawy celnej, ” b) w ust. 1 pkt 40 otrzymuje brzmienie: „ 40) sprzęt i urządzenia sportowe, a także aparatura i środki do odnowy biologicznej oraz rehabilitacji ruchowej, przeznaczone dla reprezentacji narodowych i olimpijskich oraz do celów ratownictwa, przywożone przez organizacje i stowarzyszenia kultury fizycznej o zasięgu ogólnopolskim, za uprzednią zgodą Prezesa Urzędu Kultury Fizycznej i Turystyki, z przeznaczeniem do niegospodarczej działalności statutowej - z zastrzeżeniem nieodstępowania przez okres 2 lat, licząc od dnia dokonania odprawy celnej, ” c) w ust. 1 skreśla się pkt 41, d) w ust. 2 w pkt 2 skreśla się powołanie pkt 7, e) w ust. 2 pkt 4 otrzymuje brzmienie: „ 4) określi, w porozumieniu z Ministrem Spraw Zagranicznych, tryb, warunki, okres zwolnienia od cła, normy ilościowe lub wartościowe oraz dokumenty wymagane do stwierdzenia podstawy stosowania zwolnienia, o którym mowa w ust. 1 pkt 7, a także wykaz rzeczy podlegających, stosownie do tego przepisu, zastrzeżeniu nieodstępowania. ” , f) w ust. 2 skreśla się pkt 5; 3) w art. 52 w ust. 1 wyrazy „osoby przesiedlające się” zastępuje się wyrazami „osoby, o których mowa w art. 14 ust. 1 pkt 7 lit. b)” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Zwolnienia określone w art. 14 ust. 1 pkt 7 w brzmieniu nadanym niniejszą ustawą stosuje się, jeżeli pobyt za granicą osób, o których mowa w tych przepisach, zakończył się nie wcześniej niż w dniu wejścia w życie ustawy. 2. Dotychczasowy art. 14 ust. 1 pkt 7 stosuje się do czasu wejścia w życie art. 14 ust. 1 pkt 7 lit. b) w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Tracą moc przepisy wykonawcze, dotyczące osób przesiedlających się w rozumieniu dotychczasowych przepisów, wydane na podstawie obowiązującego przed dniem wejścia w życie niniejszej ustawy art. 14 ust. 2 pkt 2 i 4 ustawy z dnia 28 grudnia 1989 r. - Prawo celne ( Dz. U. z 1994 r. Nr 71, poz. 312 ) , z tym że stosuje się je w odniesieniu do tych osób w sprawach wszczętych przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie: 1) po upływie 14 dni od dnia ogłoszenia w zakresie przepisów: a) art. 1 pkt 2 lit. a), dotyczącego art. 14 ust. 1 pkt 7 lit. a) w brzmieniu nadanym niniejszą ustawą, b) art. 1 pkt 2 lit. b), c), e), f), c) art. 2 ust. 1, w części dotyczącej osób, o których mowa w art. 14 ust. 1 pkt 7 lit. a) w brzmieniu nadanym niniejszą ustawą, d) art. 2 ust. 2, 2) po upływie 3 miesięcy od dnia ogłoszenia w zakresie przepisów: a) art. 1 pkt 1, b) art. 1 pkt 2 lit. a), dotyczącego art. 14 ust. 1 pkt 7 lit. b) w brzmieniu nadanym niniejszą ustawą, c) art. 1 pkt 2 lit. d) oraz pkt 3, d) art. 2 ust. 1, w części dotyczącej osób, o których mowa w art. 14 ust. 1 pkt 7 lit. b) w brzmieniu nadanym niniejszą ustawą, e) art. 3. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-pint_2-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_4-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_4-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_4-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_4-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_4-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_4-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_4-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

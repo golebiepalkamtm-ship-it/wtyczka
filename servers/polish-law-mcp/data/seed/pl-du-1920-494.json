@@ -1,0 +1,698 @@
+{
+  "id": "pl-du-1920-494",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 lipca 1920 r. o szkołach akademickich.",
+  "title_en": "",
+  "short_name": "pl-du-1920-494",
+  "status": "repealed",
+  "issued_date": "1920-07-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/494",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa niniejsza określa zasady ustroju szkół akademickich w sposób jednolity. W granicach jej zostaje przyznany każdej z nich samorząd i możność wydawania własnego statutu, zawierającego przepisy szczegółowe i rozwijającego podane tu zasady. Przepisy te nie mogą jadnak sprzeciwiać się zawartym tu postanowieniom. Statut każdej szkoły akademickiej podlega zatwierdzeniu przez Ministra Wyznań Religijnych i Oświecenia Publicznego, jako wykonywającego zwierzchnią władzę rządową nad szkołami akademickiemi."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W szkołach akademickich wykładać mogą w charakterze profesorów i docentów uczeni bez różnicy płci, którzy się przyczynili do rozwoju nauk teoretycznych lub praktycznych, - studjować zaś osoby, które ukończyły ogólnokształcącą szkołę średnią państwową lub takąż szkołę prywatną, mającą prawo wydawania świadectw, uznanych przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego za równorzędne ze świadectwami szkół państwowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Szkoły akademickie posiadają prawo udzielania stopni akademickich zawodowych i naukowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Założenie szkoły akademickiej wymaga aktu ustawodawczego, powziętego na wniosek rządu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Szkoły akademickie posiadają charakter osób prawnych, mogą więc przyjmować zapisy i darowizny i samodzielnie zarządzać swoim, w ten sposób uzyskanym majątkiem. Mają one prawo rozporządzać sumami, które rząd im przeznaczył, w jamach zatwierdzonego przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego budżetu. W obrębie tych ram przeznaczenie poszczególnych sum może być zmienione za zezwoleniem Ministerstwa Wyznań Religijnych i Oświecenia Publicznego. Mają też prawo używać będących własnością państwową gmachów i zakładów wraz z urządzeniami i inwentarzem. Pod temi względami podlegają one jedynie kontroli rządowej ze strony Ministerstwa Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Szkołom akademickim przysługuje prawo wolności nauki i nauczania. Każdy profesor i docent szkoły akademickiej ma prawo podawać i oświetlać z katedry według swego naukowego przekonania i sposobem naukowym wszelkie zagadnienia, wchodzące w zakres gałęzi wiedzy, których jest przedstawicielem; tak samo ma zupełną swobodę w wyborze metod wykładów i ćwiczeń."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Szkoły akademickie dzielą się pod względem ustroju wewnętrznego na wydziały, w których obrębie mogą istnieć oddziały."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Samorządowemi władzami szkół akedemickich są: 1) zebranie ogólne profesorów (w tych szkołach, w których statut szkoły je przewiduje); 2) senat w szkołach, składających się z więcej niż jednego wydziału; 3) rektor; 4) rady wydziałowe; 5) dziekani."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Językiem wykładowym szkół akademickich - o ile ustawa ich dotycząca inaczej nie rozporządza, jest język polski. O tem, czy niektóre przedmioty mogą być wyjątkowo wykładane w innym języku, rozstrzyga senat szkoły."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Prawo używania pieczęci, opatrzonej herbem państwa, posiadają jedynie samorządowe władze szkół akademickich, wymienione w art. 8. II. Władze samorządowe szkół akademickich. 1. Zebranie ogólne profesorów."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "W tych szkołach akademickich, których statuty szczegółowe przewidują zebranie ogólne profesorów, składa się ono z profesorów honorowych, zwyczajnych, nadzwyczajnych i docentów, należących do rad wydziałowych. Przewodniczącym jest rektor lub jego zastępca."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Do zakresu działania zebrania ogólnego profesorów należy: 1) uchwalanie statutu szczegółowego szkoły w ramach niniejszej ustawy; 2) uchwalanie budżetu szkoły; 3) wybór rektora; 4) zatwierdzanie wniosków rad wydziałowych o powołaniu profesorów zwyczajnych, nadzwyczajnych, honorowych oraz docentów i przedstawianie ich Ministerstwu Wyznań Religijnych i Oświecenia Publicznego do zatwierdzenia; 5) zatwierdzanie honorowych stopni naukowych, przyczem nadanie honorowego stopnia naukowego za zasługi społeczne lub polityczne wymaga zatwierdzenia przez Ministra Wyznań Religijnych i Oświecenia Publicznego; 6) uchwalanie wniosków, dotyczących tworzenia osobnych wydziałów, oddziałów i nowych katedr; 7) przyjmowanie do wiadomości sprawozdań rocznych rektora ze stanu szkoły i sprawozdań dziekanów z działalności wydziałów; 8) uchwalanie wniosków, dotyczących usuwania profesorów z katedr; 9) rozpatrywanie innych spraw ogólno akademickich, które rektor według uznania przekaże dla ich ważności zebraniu ogólnemu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Warunkami ważności uchwał zebrania ogólnego są: 1) imienne zawiadomienie przez przewodniczącego przynajmniej na 24 godziny przed terminem zebrania wszystkich członków, nie przebywających na urlopie, przyczem ma być podany do ich wiadomości porządek obrad; 2) obecność conajmniej połowy wszystkich uprawnionych do wzięcia udziału w zebraniu wraz z przewodniczącym; 3) bezwzględna większość głosów wszystkich uczestników zebrania, przyczem głos przewodniczącego liczy się i w razie równości głosów przeważa; wyjątek stanowi uchwała o usunięcie profesora z katedry, gdyż uchwała taka wymaga większości dwóch trzecich głosów obecnych, przyczem nie liczy się kartek białych."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Wybory są tajne. Na wniosek poparty przez czwartą część członków obecnych, głosowanie także w innych sprawach jest tajne. W łajnem głosowaniu przy równości głosów wniosek upada. Uchwały w sprawach, nie wymienionych w porządku obrad, a wniesionych przez rektora, mogą zapadać, gdy wszyscy obecni zgodzą się na ich rozważanie i rozstrzyganie, wyłączone są jednak w takich razach sprawy osobiste i dotyczące nieobecnego członka."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Terminy zebrań ogólnych oznacza przewodniczący, który obowiązany jest zwołać zebranie ogólne, jeżeli tego żąda uchwała przynajmniej jednej rady wydziałowej."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Z każdego zebrania ogólnego sporządza się sprawozdanie, które jest przesyłane do wiadomości Ministerstwa Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Przewodniczący z ważnych powodów ma prawo zawiesić wykonanie uchwały zebrania ogólnego, obowiązany jest jednak w tym wypadku poddać sprawą ponownie pod obrady zebrania ogólnego najpóźniej w ciągu 14 dni jeżeli zebranie ogólne potwierdzi swoją pierwotną uchwałę - przewodniczący obowiązany jest ją wykonać. 2. SENAT."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Senat w tych szkołach, w których niema ogólnego zebrania profesorów, jest najwyższą władzą szkolną samorządową. Jeżeli obok senatu statut szczegółowy przewiduje również ogólne zebranie profesorów, do zakresu ogólnego zebrania profesorów należą sprawy, wymienione w art. 12. Senat składa się z rektora, prorektora i dziekanów. Statuty szczegółowe mogą przewidywać należenie do senatu także prodziekanów i delegatów rad wydziałowych oraz sędziego w tych szkołach, w których ten urząd został utworzony."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Do zakresu działania senatu należy: 1) układanie regulaminu senatu oraz zatwierdzanie regulaminu rad wydziałowych, archiwum i urzędów szkoły; 2) rozstrzyganie o tem czy niektóre przedmioty mogą być wykładane w innym języku, aniżeli polskim; 3) przedkładanie Ministerstwu Wyznań Religijnych i Oświecenia Publicznego programu wykładów do zatwierdzenia; 4) wydawanie składu osobowego i kroniki szkoły; 5) układanie preliminarza budżetu szkoły; 6) zarządzanie majątkiem szkolnym tak państwowym, jak własnym, oraz majątkiem szkole do administrowania powierzonym; 7) troska o zdrowie moralne młodzieży i opieka nad jej materjalnem położeniem (stypendja, domy akademickie); 8) zatwierdzanie umów o wykłady z docentami, nauczycielami i lektorami, o ile funduszów na pokrycie ich wynagrodzenia dostarcza szkoła; w innych przypadkach senat przygotowywa zawarcie tego rodzaju umów przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego; 9) uchwalanie wniosków, dotyczących mianowania dyrektora bibljoteki lub naczelnego bibljotekarza, sekretarza, kwestora, skarbnika i księgowego, dalej wniosków, dotyczących obsadzania urzędów dyrektora i zastępcy dyrektora innych ogólnych zakładów szkoły, wreszcie wniosków, dotyczących mianowania urzędników bibljoteki z kwalifikacjami bibljotekarskiemi, po wysłuchaniu zdania dyrektora bibljoteki, lub naczelnego bibljotekarza; 10) mianowanie, zawieszanie i usuwanie innych urzędników i służby stałej szkoły, a także w razie nagłej potrzeby zawieszanie kierowników zakładów; 11) mianowanie, zawieszanie i usuwanie adjunktów, konstruktorów, kustoszów, prosektorów, asystentów i ich zastępców na wniosek rady wydziałowej; 12) wyrokowanie w sprawach dyscyplinarnych studentów, urzędników i służby szkoły, przyczem w razie utworzenia osobnego sądu dla spraw studentów - kompetencja senatu ogranicza się do zatwierdzania wyroków i rozstrzygania odwołań; 13) mianowanie referentów do. spraw dyscyplinarnych i innych spraw szczególnych; 14) rozstrzyganie spraw kompetencyjnych między wydziałami; 15) uchwalanie wniosków w sprawach budowlanych i rozstrzyganie o przeznaczeniu pomieszczeń szkoły; 16) wykonywanie kontroli nad administracyjnem prowadzeniem wszystkich zakładów szkoły; 17) zatwierdzanie regulaminu wieców studenckich; 18) uchwalanie wszelkich innych spraw, tyczących się szkoły, jako całości, które rektor lub w jego zastępstwie prorektor senatowi przedłoży; 19) o ile statut szczegółowy szkoły nie przewiduje zebrania ogólnego profesorów - w zakres czynności senatu wchodzą nadto uprawnienia zebrania ogólnego profesorów w punktach art. 12 zawarte, z wyłączeniem 3 punktu, dotyczącego wyboru rektora. Senat ma prawo przelać część swoich uprawnień na rektora."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Warunkami ważności uchwał senatu są: 1) imienne zwołanie przez rektora członków senatu przynajmniej na 24 godziny przed terminem zebrania z podaniem porządku obrad; 2) obecność na posiedzeniu więcej niż połowy członków senatu; 3) przewodniczenie przez rektora lub jego zastępcę; 4) bezwzględna większość głosów członków głosujących, przyczem głos przewodniczącego liczy się i w razie równości głosów przeważa. Uchwały w sprawach, niewymienionych w porządku obrad mogą zapadać, gdy wszyscy obecni zgodzą się na ich rozważanie i zadecydowanie, wyłączone są jednak w takich razach sprawy osobiste i dotyczące nieobecnego członka."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Terminy zebrań senatu oznacza rektor, lub jego zastępca. Rektor jest obowiązany zwołać senat, jeżeli tego żąda jedna trzecia członków senatu, lub gdyby tego domagała się uchwała jednej z rad wydziałowych. Z każdego posiedzenia senatu sporządza się sprawozdanie, które jest przesyłane do wiadomości Ministerstwu Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Rektor z ważnych powodów ma prawo zawiesić wykonanie uchwały senatu. W tym razie przedstawia sprawę do uchwalenia na najbliższem posiedzeniu senatu, najpóźniej w ciągu dni 14. Gdyby senat potwierdził swą pierwotną uchwałę, rektor obowiązany jest ją wykonać. 3. REKTOR."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Rektor piastuje najwyższą godność w szkole akademickiej; jest przewodniczącym senatu i zebrania ogólnego profesorów; czuwa nad należytym biegiem spraw, wchodzących w zakres działania tych władz i ponosi przedewszystkiern odpowiedzialność za należyte przestrzeganie ustaw i rozporządzeń rządowych. Rektorowi przsługuje tytuł Magnificencji."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Rektor jest wybierany z grona profesorów zwyczajnych i honorowych, należących do rad wydziałowych, przez zebranie ogólne profesorów lub przez delegatów rad wydziałowych przyczem wyborcy nie są obowiązani liczyć się z kolejnością wydziałów. Szczegóły sposobu wybierania rektora określa statut każdej szkoły akademickiej."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Okres urzędowania rektora wynosi rok jeden, wszakże rektor może być ponownie wybierany. Wybór odbywa się w ciągu miesiąca czerwca, a urzędowanie swoje obejmuje rektor na dwa tygodnie przed rozpoczęciem roku akademickiego. W razie gdyby rektor w czasie urzędowania ustąpił, dokonywany jest wybór nowego rektora na pozostały okres roku akademickiego."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Rektor 1) jest przedstawicielem szkoły na zewnątrz; 2) zwołuje senat i zebranie ogólne profesorów, kieruje ich obradami, oraz wykonywa ich uchwały; 3) udziela urlopów do 14 dni profesorom, docentom i wogóle wszystkim pracownikom szkoły; 4) mianuje, zawiesza i usuwa tymczasowych rzemieślników i tymczasowych służących szkoły; 5) imatrykuluje studentów i udziela im urlopów. Ponadto załatwia te sprawy administracyjne i finansowe szkoły, które nie wymagają uchwał senatu. Przez ręce rektora przechodzi korespondencja z wszelkiemi władzami: wydziałów, profesorów, zakładów i wszystkich organów, podległych bezpośrednio senatowi. Rektor ma prawo zaopatrywać tę korespondencję w swoją opinję."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Rektor czuwa nad porządkiem na terytorjum szkoły przy pomocy organów szkolnych. W razie grożącego niebezpieczeństwa rektor może pozwolić na wkroczenie organów władz bezpieczeństwa: władze te mogą wkraczać same tylko w wypadkach wyjątkowo nagłych, zawiadamiając o tem natychmiast rektora."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Zastępcą rektora jest prorektor, którym zostaje rektor ustępujący. Gdyby zachodziła potrzeba zastąpienia prorektora - wyznacza jego zastępcę zebranie ogólne profesorów, a w tych szkołach, w których go niema, senat."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Rektor ma prawo w porozumieniu z prorektorem powierzać mu załatwianie pewnych spraw, związanych z zarządem szkoły, n. p.: uposażenia szkoły, spraw budowli. Układ taki zatwierdza senat i przed nim prorektor odpowiada za czynności, wykonywane w powierzonym mu zakresie."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Rektor i prorektor do załatwiania spraw, należących do zakresu ich czynności, posługują się urzędnikami i służbą szkoły. W szczególności rektorowi podlegają: 1) sekretarjat, 2) dział rachunkowy (kwestura), 3) dział techniczny (sprawy budowlane, ekonomat, intendentura), 4) archiwum. O organizacji tych działów rozstrzyga senat. 4. Rady wydziałowe."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Radę każdego wydziału stanowią należący do wydziału profesorowie zwyczajni i nadzwyczajni, tudzież dwaj docenci, wybierani na rok akademicki przez grono docentów wydziału. Docenci, będący członkami rady, mają na posiedzeniach taki sam głos, jak inni członkowie rady. Nadto do rady wydziałowej należą ci profesorowie honorowi, którzy, jako profesorowie zwyczajni lub nadzwyczajni, należeli do rady, zanim zostali profesorami honorowymi, a wreszcie rada wydziałowa ma prawo powoływać do swojego grona na rok także profesorów z innych wydziałów, wykładających na danym wydziale, oraz profesorów honorowych, którzy przedtem nie byli członkami rady wydziałowej. Przewodniczącym rady wydziałowej jest dziekan wydziału."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Do zakresu działania rad wydziałowych należy: 1) czuwanie nad rozwojem nauki i szerzenie wiedzy przez należytą organizację nauczania, oraz wykłady, odczyty publiczne i wydawnictwa; 2) przedstawianie wniosków o mianowanie profesorów; 3) załatwianie spraw habilitacyjnych; 4) przedstawianie wniosków o mianowanie, zawieszanie i usuwanie sił pomocniczych naukowych i służby wydziału; 5) wydawanie opinji naukowych w zakresie swojego wydziału, a o ile rada wydziałowa zostanie do tego wezwana przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego - ma obowiązek przedstawić swoją opinję; 6) oddzielanie honorowych stopni naukowych; 7) układanie corocznie preliminarza potrzeb finansowych wydziału celem przedstawienia go zebraniu ogólnemu profesorów, o ile statut szczegółowy szkoły je przewiduje, w przeciwnym razie senatowi, w szczególności zaś określanie sum potrzebnych na wydawnictwa prac naukowych profesorów, docentów, pomocniczych sił naukowych oraz studentów wydziału; 8) przedstawianie wniosków o udzielanie profesorom i pomocniczym siłom naukowym urlopów ponad dwa tygodnie i o przyznawanie profesorom, docentom i pomocniczym silom naukowym zasiłków rządowych na podróże naukowe; 9) przyznawanie stypendjów oraz nagród pieniężnych i medali studentom wydziału, nadto ogłaszanie co rok przynajmniej trzech tematów do prac konkursowych studenckich; 10) dopuszczanie studentów do egzaminu, zaliczanie im studjów lub pewnych przedmiotów oraz udzielanie zwolnień od wydanych przez rade. wydziałową przepisów o sposobie studjowania na wydziale; 11) powoływanie egzaminatorów i referentów; 12) uchwalanie regulaminu wydziału, podlegającego zatwierdzeniu przez senat; 13) zatwierdzanie regulaminów dla zakładów, należących do wydziału; 14) wybieranie dziekana wydziału, dalej delegatów do wyboru rektora w tych szkołach, w których niema zebrań ogólnych profesorów, a wreszcie, o ile statut szkoły przewiduje, również delegata do senatu. W ogólności rada wydziałowa rozstrzyga o wszelkich sprawach wydziału i jego uczniów, o ile to nie jest wyraźnie zastrzeżone dla innych władz szkolnych. Rada wydziałowa ma prawo przelać część swych uprawnień na dziekana."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "W szkołach akademickich, składających się z jednego wydziału, rada wydziałowa spełnia zadania zebrania ogólnego profesorów i senatu."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Warunkami ważności uchwał rady wydziałowej są: 1) imienne zwołanie przez dziekana lub jego zastępcę przynajmniej na 24 godziny przed terminem posiedzenia wszystkich członków rady, przyczem ma być podany do wiadomości porządek obrad; 2) obecność najmniej polowy członków rady, nie licząc profesorów honorowych; 3) przewodniczenie przez dziekana lub jego zastępcę; 4) bezwzględna większość głosów członków głosujących, przyczem głos przewodniczącego liczy się i w razie równości głosów rozstrzyga. Głosowanie w sprawach osobistych, tudzież w innych sprawach na życzenie czwartej części obecnych odbywa się tajnie. Uchwały w sprawach, nie wymienionych w porządku obrad, mogą zapadać tylko wtedy, gdy wszyscy obecni zgodzą się na ich rozważenie i rozstrzyganie; wyłączone są jednak sprawy, dotyczące: 1) powołania wykładających, 2) katedry nieobecnego na posiedzeniu profesora, 3) spraw osobistych."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Zebranie rady wydziałowej zwołuje przewodniczący w terminie, uznanym przez siebie za właściwy. Dziekan jest obowiązany zwołać posiedzenie rady, jeżeli tego zażąda najmniej czwarta część członków rady, lub jeżeli domaga się tego senat, albo rektor, lub zastępujący go w urzędowaniu prorektor. Z każdego posiedzenia rady wydziałowej sporządza się sprawozdanie, które jest przesyłane do wiadomości Ministerstwu Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Dziekan z ważnych powodów ma prawo zawiesić wykonanie uchwały rady wydziałowej. W tym razie przedstawia sprawę do uchwalenia na najbliższem posiedzeniu rady najpóźniej w ciągu dni 14. Gdyby rada potwierdziła swą pierwotną uchwałę dziekan obowiązany jest ją wykonać. 5. Dziekan."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Dziekan posiada takie samo stanowisko wobec wydziału i jego rady, jak rektor wobec całej szkoły i senatu. Nadto należy do niego nadzór nad wpisami studentów i wolnych słuchaczy, nad tokiem ich studjów oraz nad odbywaniem się egzaminów w sposób przepisany."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Dziekanem może być wybrany profesor zwyczajny, nadzwyczajny lub honorowy, należący do rady wydziału. Czas urzędowania dziekana trwa rok jeden, jednak ustępujący dziekan może być ponownie wybrany. Wyboru dziekana dokonywa rada wydziałowa w ciągu miesiąca czerwca, a urzędowanie swoje obejmuje dziekan na dwa tygodnie przed rozpoczęciem roku akademickiego. W razie gdyby dziekan w ciągu roku urzędowania ustąpił - dokonywane są nowe wybory na pozostający okres roku akademickiego."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Do zakresu działania dziekana należy: 1) zwoływanie posiedzeń rady wydziałowej, kierowanie jej obradami, przygotowywanie wniosków na posiedzenie i wykonywanie powziętych uchwał; 2) udzielanie jednotygodniowych urlopów profesorom i docentom, którzy ogłosili wykłady, oraz wszystkim innym pracownikom wydziału; 3) przyjmowanie studentów na wydział, prowadzenie spisu ich oraz wykazu ich studjów; 4) wyznaczanie terminów egzaminacyjnych i przewodniczenie w komisjach egzaminów doktorskich oraz w czasie innych egzaminów, odbywających się w szkole, o ile tego wymagają specjalne przepisy; 5) Składanie w końcu roku szkolnego zebraniu ogólnemu profesorów a w szkołach, gdzie go niema, senatowi - wyczerpującego sprawozdania z działalności wydziału, po poprzedniem podaniu go do wiadomości radzie wydziałowej. Przez ręce dziekana przechodzi wszelka urzędowa korespondencja kierowników zakładów wydziałowych i profesorów. Dziekan ma prawo zaopatrywać tę korespondencję w swoją opinję."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Zastępcą dziekana jest prodziekan, którym zostaje dziekan ustępujący. Gdyby zachodziła potrzeba zastąpienia prodziekana w urzędowaniu - rada wydziałowa wyznacza jego zastępcę. III. Grono nauczycielskie."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Do grona nauczycielskiego szkół akademickich należą: po pierwsze - nauczyciele akademiccy t. j. 1) profesorowie honorowi, 2) profesorowie zwyczajni, 3) profesorowie nadzwyczajni, 4) docenci; powtóre - nauczyciele w ściślejszem znaczeniu np. lektorzy."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Profesorów zwyczajnych i nadzwyczajnych mianuje naczelna władza państwowa na wniosek rady odpowiedniego wydziału, przyjęty przez zebranie ogólne profesorów, względnie senat, przedstawiony do zatwierdzenia Ministrowi Wyznań Religijnych i Oświecenia Publicznego. Wniosek powinien opierać się na referacie komisji, wyznaczonej przez radę wydziałową specjalnie dla rozważenia kandydatur. Komisja przed wygotowaniem swojego referatu zwraca się do wszystkich profesorów honorowych, zwyczajnych i nadzwyczajnych, wykładających przedmiot, o którego katedrę chodzi, we wszystkich państwowych szkołach akademickich polskich, z żądaniem nadesłania uzasadnionej opinji, jakich kandydatów uznać należy za najodpowiedniejszych. Po upływie dwóch miesięcy od daty rozesłania wezwań komisja może przystąpić do rozpatrzenia nadesłanych wniosków, przygotować referat i wystąpić z nim ną radę wydziału. Na tej podstawie rada wydziału wybiera kandydata i przedstawia go zebraniu ogólnemu, względnie senatowi, do przyjęcia i przedstawienia Ministrowi Wyznań Religijnych i Oświecenia Publicznego do zatwierdzenia. Wniosek rady powinien zawierać nazwiska dwóch kandydatów, jeżeli uchwała nie zapadła jednomyślnie, a mniejszość żąda, aby jej kandydat został we wniosku uwzględniony. Do wniosku należy dołączyć prace naukowe kandydata, dokumenty osobiste, życiorys, referat komisji, tudzież wszystkie nadesłane referaty profesorów, wezwanych przez komisję. Jeżeli jednak rada wydziału przedstawia do mianowania osobę, która jest lub była profesorem zwyczajnym, nadzwyczajnym lub honorowym w jednej z państwowych szkół akademickich polskich - może odstąpić od obowiązku zasięgania opinji wszystkich profesorów, wykładających odnośny przedmiot w państwowych szkołach akademickich. Gdyby Minister Wyznań Religijnych i Oświecenia Publicznego z jakichś powodów nie uważał wniosku rady wydziałowej za trafny, rada ma prawo ponawiać wniosek aż do osiągnięcia obustronnego porozumienia. w każdym zaś razie wbrew woli rady i bez jej wniosku nie może nastąpić mianowanie."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Nowomianowani profesorowie składają przysięgę służbową na ręce rektora."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Profesor nadzwyczajny może być przedstawiony przez radę wydziałową do nominacji na profesora zwyczajnego, jeżeli dorobek jego naukowy powiększy się w czasie profesury nadzwyczajnej."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Profesorami honorowymi mogą być mianowani wybitni uczeni, zwłaszcza z grona profesorów, ustępujących z katedr. Mianowanie profesora honorowego należy do władzy naczelnej państwowej na podstawie wniosku rady wydziałowej, przyjętego przez zebranie ogólne, względnie senat i przedstawionego Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Do najważniejszych obowiązków każdego profesora należy: 1) prowadzenie badań naukowych i twórcza praca naukowa; 2) wykładanie i prowadzenie ćwiczeń conajmniej w liczbie godzin wskazanej w dekrecie nominacyjnym; 3) kierowanie związanym z katedrą zakładem lub seminarjum; 4) egzaminowanie z wykładanego przedmiotu; 5) branie udziału w posiedzeniach rady wydziału i zebrania ogólnego profesorów, o ile je statut szkoły przewiduje; 6) obejmowanie referatów i piastowanie urzędów akademickich, obowiązki, wymienione w punktach 2, 3, 4, 5 i 6 - nie dotyczą profesorów honorowych. Objęcie stałego płatnego zajęcia ubocznego przez profesora, - z wyjątkiem profesorów honorowych, może nastąpić jedynie za zezwoleniem Ministerstwa Wyznań Religijnych i Oświecenia Publicznego na zgodny wniosek rady wydziału i senatu."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Profesorowie, którzy przebyli 35 lat w zawodzie nauczycielskim, poczynając od daty mianowania na profesora, ustępują z katedry, otrzymując pełną emeryturę. Minister Wyznań Religijnych i Oświecenia Publicznego może jednak na wniosek rady wydziałowej, przyjęty przez zebranie ogólne, względnie senat, zatwierdzić ich na dalsze pięć lat, po upływie których, mogą być w ten sam sposób powoływani nadal na okres pięcioletni, nie dłużej wszakże, niż do 65 roku życia. Profesorowie którzy z powodu kresu wieku muszą ustąpić z katedry, mogą być przez radę wydziałową powoływani w charakterze profesorów honorowych, a profesorowie, którzy ustąpili po 35 latach, nie tracą veniam legendi. Profesorowie, którzy byli już zwyczajnymi lub nadzwyczajnymi profesorami w polskich albo innych równorzędnych szkołach akademickich przed rokiem 1915, mają prawo pozostawać profesorami zwyczajnymi lub nadzwyczajnymi i po upływie 35 lat pracy profesorskiej bez ponownego powoływania, wszakże tylko do 65 roku życia włącznie."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Podstawą do usunięcia profesora z katedry przez zwierzchnią władzę rządową może być tylko uchwała przynajmniej dwóch trzecich głosów zebrania ogólnego profesorów lub senatu, wydana po przeprowadzeniu dochodzenia dyscyplinarnego, albo postępowania honorowego."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Gdyby z powodu ustąpienia profesora z katedry lub z innego powodu powstała przerwa w wykładach jakiegoś przedmiotu, rada wydziału może powierzyć obowiązek zastępczego wykładania tego przedmiotu innemu profesorowi, docentowi, lub odpowiedniemu specjaliście. Do zastępstwa w wykładzie mogą być powoływani wyjątkowo także adjunkci, prosektorzy, kustosze, konstruktorzy i starsi asystenci. Takie powierzanie zastępstwa i umowa co do wysokości wynagrodzenia musi uzyskać zatwierdzenie Ministerstwa Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Rada wydziałowa może udzielić ubiegającemu się o to kandydatowi prawa wykładania (venia legendi); postępowanie, prowadzące do tego celu, nazywa się habilitacją, kandydat zaś, któremu zostało przyznane prawo wykładania w szkole akademickiej, otrzymuje tytuł docenta. Prawo wykładania obejmować ma całość pewnej nauki lub takiej jej części, która może być uważana za całość w sobie zamkniętą; nie może natomiast ograniczać się do dowolnego działu pewnej nauki."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Warunkiem dopuszczenia do habilitacji są odpowiednie osobiste kwalifikacje kandydata, o których rozstrzyga rada wydziału przez jawne głosowanie przed rozpatrzeniem jego kwalifikacji naukowych."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Kandydat, pragnący przystąpić do habilitacji, musi złożyć dowód posiadania tytułu doktorskiego, uzyskanego w jednej ze szkół akademickich polskich. Za równorzędny z tym tytułem rada wydziału może uznać bądź tytuł doktorski, uzyskany w szkole akademickiej, zagranicznej, bądź jakiś inny tytuł naukowy. Od obowiązku wykazania się tytułem doktorskim mogą być uwolnieni uchwałą rady wydziałowej wyjątkowo wybitni badacze naukowi."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Habilitacja składa się z trzech aktów: 1) z oceny rozprawy habilitacyjnej, która musi być wydrukowaną w języku polskim, lub w języku wykładowym przedmiotu. Ma ona stanowić istotny postęp nauki i świadczyć o samodzielności naukowego myślenia autora. Przy ocenie mogą być wzięte pod uwagę także inne prace naukowe kandydata. Rozprawa doktorska nie może być rozprawą habilitacyjną; 2) z dyskusji habilitacyjnej, która może objąć nietylko temat rozprawy habilitacyjnej, lecz całość przedmiotu, z którego kandydat się habilituje; w dyskusji habilitacyjnej mogą brać udział, oprócz referentów pracy habilitacyjnej, także wszyscy członkowie rady wydziałowej; 3) z wykładu habilitacyjnego, który się odbywa wobec członków wydziału na temat, obrany przez kandydata, a zatwierdzony przez radę wydziału; wykład ten ma na celu stwierdzenie umiejętności jasnego przedstawienia zagadnień naukowych w świetle współczesnego stanu nauki."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Przed przeprowadzeniem tych trzech aktów rada wydziału wybiera z pośród, swojego grona conajmniej dwóch referentów, aby na podstawie ich oceny powziąć odpowiednie uchwały."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Akty habilitacyjne mają się odbywać w powyżej wskazanym porządku i mają być protokułowane. W razie niepomyślnej uchwały rady wydziału co do pierwszego lub drugiego aktu, odpada możność odbywania habilitacji. Od drugiego i trzeciego aktu rada wydziału może wyjątkowo kandydata uwolnić."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "W razie pomyślnej uchwały co do wszystkich trzech aktów habilitacji, zapada na wniosek referentów postanowienie rady wydziałowej, nadające kandydatowi prawo wykładania; postanowienie to zarazem orzeka, na jaki zakres nauki nadane prawo się rozciąga. Uchwała rady wydziałowej, nadająca kandydatowi prawo wykładania, wymaga przyjęcia przez zebranie ogólne, względnie senat, poczem podlega zatwierdzeniu przez Ministra Wyznań Religijnych i Oświecenia Publicznego, któremu należy przesłać prace naukowe kandydata, życiorys, akta osobiste oraz protokuły, dotyczące habilitacji."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Docent ma prawo wykładania w oznaczonym zakresie; żadnego jednak obowiązku wykładania przez habilitację wobec szkoły nie zaciąga. Jeżeli wszakże nadanego mu prawa wykładania nie wykonywa w przeciągu całego roku akademickiego, to jego prawo wykładania gaśnie, przez co traci on prawo do tytułu docenta, o ile nie otrzymał urlopu od Ministerstwa Wyznań Religijnych i Oświecenie Publicznego. Prawo to jednak może mu być przez radę wydziałową ponownie przyznane bez powtórnej habilitacji."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Prawo wykładania może być rozszerzone na inną dziedzinę za zgodą rady wydziałowej, zatwierdzoną przez Ministra Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Prawo wykładania, nadane w jednej z polskich szkół akademickich, może być uznane za ważne w innej - uchwałą rady odpowiedniego wydziału. Uchwała taka wymaga zatwierdzenia przez senat."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Lektorów języków i nauczycieli umiejętności praktycznych mianuje na wniosek rady wydziałowej senat, a obowiązki ich określa umowa z nimi zawarta."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Każdy profesor, zastępca profesora, docent i nauczyciel (lektor) ogłasza wykłady na tym wydziale, na którym został mianowany, lub na którym otrzymał prawo wykładania, albo z którym wiąże go umowa. Wolno mu jednak ogłosić także wykłady na innym wydziale za zezwoleniem obu zainteresowanych rad wydziałowych. IV. Pomocnicze siły naukowe."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Asystentów starszych i młodszych (demonstratorów, elewów) tudzież zastępców asystentów mianuje senat na wniosek odpowiedniej rady wydziałowej. Stanowiska te są ograniczone pod względem czasu trwania: zastępcy asystenta do lat dwóch, młodszego asystenta do trzech, a starszego do lat sześciu. Po sześciu latach starsi asystenci mogą być wyjątkowo mianowani na dalsze cztery lata, lecz tylko wówczas, jeżeli zostaną docentami przed upływem szóstego roku asystentury."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Adjunktów, kustoszów, konstruktorów i prosektorów na wniosek odpowiedniej rady wydziałowej mianuje senat na okres trzyletni, który może być powtarzany. Najwcześniej po sześciu latach może nastąpić ostateczne mianowanie."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Adjunkci, kustosze, konstruktorzy i prosektorzy w prawach emerytalnych są zrównani z urzędnikami państwowymi."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Bliższe oznaczenie obowiązków tych pomocniczych sił naukowych należy do regulaminu odnośnych zakładów. Dopuszczenie adjunkta, kustosza, konstruktora, prosektora i starszego asystenta do wykładów w zastępstwie profesora lub do kierowania ćwiczeniami może nastąpić tylko na podstawie uchwały rady wydziału i na czas ściśle określony."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Adjunktami, kustoszami, konstruktorami, prosektorami i starszymi asystentami mogą być wyłącznie osoby, które posiadają dyplom szkoły akademickiej. Bez takiego dyplomu pomocnicze siły naukowe mogą być tylko młodszymi asystentami (demonstratorami, elewami) lub zastępcami asystentów. V. Zakłady szkół akademickich."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Szkoły akademickie posiadają zakłady (instytuty), potrzebne do celów nauczania; mogą też być przy nich tworzone zakłady, poświęcone wyłącznie badaniom naukowym."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Na czele każdego zakładu wydziałowego stoi profesor, któremu rada wydziału powierzyła kierownictwo. Jeśli zachodzi potrzeba ustanowienia prowizorycznego zastępstwa, rada wydziału powołuje zastępcę kierownika."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Każdy zakład wydziałowy powinien prowadzić inwentarz, który podlega kontroli zwierzchniej Ministerstwa Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Z końcem roku budżetowego kierownik zakładu wydziałowego powinien złożyć radzie wydziału i senatowi sprawozdanie z użycia dotacji wraz z wykazem nabytków i strat w inwentarzu. Sprawozdania te mogą być podstawą do przeprowadzenia z ramienia senatu postępowania kontrolującego za pośrednictwem osobnych referentów lub komisji. Gdyby senat miał wątpliwości w przyjęciu sprawozdania kierownika zakładu wydziałowego, ma zażądać wyjaśnień od rady wydziału i przedstawienia wniosku celem usunięcia dostrzeżonych nieprawidłowości. W razie potrzeby może senat każdego czasu zawiesić kierownika w wykonywaniu czynności kierowania zakładem, a sprawę oddać do rozstrzygnięcia Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Archiwum szkoły przechowuje wszystkie dokumenty i pamiątki oraz akta, które nie są już potrzebne w bieżącem urzędowaniu biur szkoły. Senat ma prawo mianować archiwistę z odpowiedniem uposażeniem."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Bibljoteki uniwersyteckie są bibljotekami naukowemi, mającemi służyć zarówno celom nauczania, jak gromadzeniu pomników wiedzy i piśmiennictwa; w miarę możności powinny być ich zbiory uprzystępnione publiczności. Są one zakładami ogólno uniwersyteckiemi."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Na czele bibljoteki uniwersyteckiej stoi dyrektor bibljoteki, mianowany przez zwierzchnią władzę państwową, na wniosek senatu, zatwierdzony przez Ministra Wyznań Religijnych i Oświecenia Publicznego. Dyrektor bibljoteki uniwersyteckiej powinien mieć stopień doktorski."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Urzędnicy bibljoteki z kwalifikacjami bibljotekarskiemi mianowani są przez Ministra Wyznań Religijnych i Oświecenia Publicznego na wniosek dyrektora bibljoteki, poparty przez senat. Warunkiem mianowania urzędnika w bibljotece uniwersyteckiej jest wykazanie się poza wymaganiami ogólnemi dla urzędników państwowych świadectwem ze złożonego z postępem dobrym egzaminu państwowego ze studjów bibljotekarskich. Od urzędników rachunkowych i kancelaryjnych bibljoteki świadectwo takie nie jest wymagane. Mianuje ich senat. Urzędnicy bibljoteki i służba otrzymują urlopy do 8 dni od dyrektora bibljoteki."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Dyrektorowi bibljoteki w zakresie jego czynności kierownika zakładu uniwersyteckiego podlegają urzędnicy i służba; do jego zarządzeń powinni się również stosować w sprawach korzystania z bibljoteki profesowie, studenci i publiczność."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Bibljoteka posiada regulamin porządkowy, określający warunki i sposób korzystania z jej zbiorów. Regulamin ten, opracowany przez dyrektora bibljoteki, a przyjęty przez senat, podlega zatwierdzeniu przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Dyrektor bibljoteki ma prawo osobistego referowania w senacie wszystkich spraw, dotyczących bibljoteki."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Do wydawania opinji w sprawach bibliotecznych, z wyjątkiem spraw osobowych, a przedewszystkiem do przedstawiania wniosków co do zakupu dzieł i czasopism, odpowiadających potrzebom grona nauczycielskiego, studentów i publiczności, senat wyznacza komisją bibljoteczną, obradującą pod przewodnictwem dyrektora bibljoteki, a złożoną z przedstawicieli wydziałów i delegata, mianowanego przez Ministra Wyznań Religijnych i Oświecenia Publicznego z grona członków jednej z miejscowych instytucji naukowych."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Bibljoteki wszystkich szkół akademickich, z wyłączeniem bibljotek uniwersyteckich, nie są bibljotekami publicznemi, ale mogą być udostępniane dla osób kształcących się i pracujących naukowo. Na czele ich stoją bibljotekarze naczelni, mianowani przez Ministra Wyznań Religijnych i Oświecenia Publicznego na wniosek senatu. VI. Urzędnicy i służba szkół akademickich."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Wszyscy pracownicy szkoły akademickiej podlegają władzy rektora."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Sekretarza, naczelnego bibljotekarza, kwestora, skarbnika, księgowego i urzędników bibljoteki z zawodpwemi kwalifikacjami mianuje na wniosek senatu Minister Wyznań Religijnych i Oświecenia Publicznego, wszystkich innych urzędników i służbę stałą szkoły mianuje senat."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Urzędnicy etatowi szkoły akademickiej oraz służba etatowa korzystają z praw pracowników państwowych. VII. Studja i studenci."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Rok szkolny dzieli się w uniwersytetach na trzy trymestry (kwartały) po 10 tygodni wykładowych każdy, w innych szkołach akademickich na dwa semestry (półrocza) po 15 tygodni wykładowych każdy, lub na trzy trymestry po 10 tygodni wykładowych każdy. W roku szkolnym powinno być najmniej 180 dni wykładowych, nie licząc okresu, przeznaczonego na egzaminy."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Nauczanie w szkołach akademickich obejmuje wykłady i ćwiczenia, odbywane pod kierunkiem profesorów lub docentów."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Aby uzyskać prawo studjowania, trzeba się zapisać w szkole bądź w charakterze studenta (studentki), bądź wolnego słuchacza (wolnej słuchaczki). Warunkiem przyjęcia w poczet studentów jest wykazanie się świadectwem dojrzałości, uzyskanem w jednej z państwowych szkół średnich ogólnokształcących. Uczniowie szkół prywatnych oraz szkół obcych mogą być przyjęci do szkół akademickich w charakterze studentów tylko wtedy, jeżeli świadectwa szkół średnich, które ukończyli, uznane zostały przez Ministerstwo Wyznań Religijnych i Oświecenia Publicznego za równoważne ze świadectwami szkół państwowych."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Rada wydziału ma prawo ograniczania liczby przyjmowanych studentów za zgodą Ministerstwa Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Studenci jednej z państwowych szkół akademickich mogą się przenosić do innych po uzyskaniu świadectwa wystąpienia."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "O przyjęciu wolnych słuchaczów rozstrzyga rada wydziałowa. Wolni słuchacze mogą być dopuszczani narówni ze studentami nietylko do wykładów, lecz i do ćwiczeń. Nie mają oni prawa składania egzaminów, lecz studja ich, odbyte w charakterze wolnych słuchaczów, mogą im być w wypadkach, godnych uwzględnienia, zaliczone, o ile zostaną studentami."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Zarówno studenci, jak wolni słuchacze, zapisują się według wyboru na jeden z wydziałów; studenci i wolni słuchacze jednego wydziału mogą się zapisywać na wykłady Innego wydzjału."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "Aby być dopuszczonym do udziału w ćwiczeniach, student musi uzyskać pozwolenie kierującego profesora. Warunki dopuszczenia i korzystania z ćwiczeń oznaczą osobne przepisy, zatwierdzone przez radę wydziałową."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "Każdy zapisujący się do szkoły akademickiej w charakterze studenta podlega aktowi i matrykulacji Ma on złożyć rektorowi przez podanie ręki lub na piśmie uroczyste ślubowanie przestrzegania przepisów szkoły i godności akademickiej. Wolnym słuchaczom nie przysługuje prawo imatrykulacji, ale powinni oni także złożyć piśmienne przyrzeczenie przestrzegania przepisów i zarządzeń akademickich."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "Każdy student i wolny słuchacz po przyjęciu go do szkoły akademickiej opłaca wpisowe. Studenci i wolni słuchacze wnoszą nadto na początku roku szkolnego opłatę, której wysokość niezależna jest od liczby godzin wykładów, na które się zapisali. Sumy stąd uzyskane są przeznaczone na domy profesorskie i studenckie, oraz współdzielnie profesorskie i studenckie. Sumy te rozdziela Ministerstwo Wyznań Religijnych i Oświecenia Publicznego. Za ćwiczenia w pracowniach i seminarjach studenci i wolni słuchacze uiszczają osobne opłaty, które są przeznaczone w całości na potrzeby pracowni i seminarjów; również za egzaminy uiszczają studenci osobną opłatę. Niezamożnej a pilnej młodzieży po złożeniu piśmiennego zobowiązania zwrotu może być odroczona opłata za wykłady, ćwiczenia, seminarja i egzaminy w całości, lub częściowo do czasu, w którym osiągną stanowiska, umożliwiające' spłacenia zaciągniętego długu, niedłużej jednak, niż na lat dziesięć. Wpisowe muszą wnosić wszyscy. Wysokość wszystkich opłat, uiszczonych przez studentów i wolnych słuchaczów, ustanawia Ministerstwo Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Student ma prawo zdawania egzaminów oraz ubiegania się o stopnie akademickie."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Student zapisany do szkoły akademickiej otrzymuje odpowiednie zaświadczenie (legitymację). Student opuszczający szkołę, otrzymuje świadectwo wystąpienia, w którem są wymienione wykłady jakich słuchał, oraz ćwiczenia, na jakie uczęszczał, egzaminy, jakie w ciągu swych studjów odbył, nagrody, jakie pozyskał, wreszcie kary dyscyplinarne, o ile im podlegał i o ile senat akademicki zamieszczenie ich w świadectwie zarządził."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "Stopnie naukowe są dwa: niższy i wyższy. Stopniem wyższym we wszystkich szkołach akademickich jest stopień doktora, który można otrzymać po uzyskaniu stopnia niższego, złożeniu egzaminów doktorskich, przedstawieniu pracy naukowej, wydrukowanej w języku polskim, łacińskim lub języku wykładowym przedmiotu, z którego napisana jest praca doktorska. Z zezwolenia Ministra Wyznań Religijnych i Oświecenia Publicznego rozprawa doktorska może być wyjątkowo pisana i w innym języku cudzoziemskim z dołączeniem streszczenia w języku polskim. Pozatem będą udzielane tytuły zawodowe na podstawie osobnego regulaminu."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "Nieprawnie używający stopni akademickich są karani ustawowo."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "Osoba, posiadająca tytuł naukowy doktora, w razie zasądzenia jej przez sąd za przestępstwo kryminalne, uwłaczające czci, zostaje przez senat akademicki szkoły, która stopień nadała, stopnia tego pozbawiona."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Naruszenie przepisów lub godności akademickiej pociąga za sobą odpowiedzialność dyscyplinarną studentów i wolnych słuchaczów. Władze, dyscyplinarną sprawuje rektor i senat akademicki, który może polecić częściowe lub zupełne jej wykonywanie specjalnym sądom akademickim do spraw studentów. Do kar dyscyplinarnych należy napomnienie, nagana, niezaliczenie bieżącego kwartału (trymestru) lub półrocza w poczet czasu studjów, pozbawienie prawa ubiegania się o stopnie akademickie, usuniecie ze szkoły na czas ograniczony lub na stałe, pozbawienie prawa studjów w państwowych szkołach akademickich."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Studenci każdej szkoły akademickiej mają prawo zakładania stowarzyszeń akademickich i korporacji. Nazwa stowarzyszeń akademickich przysługuje tylko takim stowarzyszeniom, które zastosują się do przepisów, w ustawie niniejszej zawartych."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "Stowarzyszeniom akademickim nie wolno mieć celów politycznych; należeć do nich może w charakterze członków zwyczajnych tylko młodzież akademicka i członkowie gron nauczycielskich, a do korporacji także byli członkowie czynni stowarzyszeń akademickich."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "Powstanie stowarzyszeń i korporacji akademickich jest zależne od zatwierdzenia ich statutu przez senat akademicki. Każdą zmianę statutu należy również przedstawić senatowi do zatwierdzenia. Stowarzyszenia i korporacje, obejmujące akademików rozmaitych szkół, muszą uzyskać zatwierdzenie statutu w Ministerstwie Wyznań Religijnych i Oświecenia Publicznego; otwarcie oddziału w poszczególnej szkole wymaga zgody senatu, a stowarzyszenia takie podlegają nadzorowi Ministerstwa Wyznań Religijnych i Oświecenia Publicznego i szkół, w których posiadają oddziały."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "Z początkiem roku akademickiego powinno każde stowarzyszenie i korporacja podać do wiadomości rektora listę członków jego zarządu, a także w ciągu roku donosić bezzwłocznie o zmianach, dokonanych w tym zarządzie."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "Opiekę nad stowarzyszeniami i korporacjami akademickiemi wykonywa senat za pośrednictwem swego delegata. Stowarzyszenia akademickie i korporacje nie podlegają. ogólnym przepisom policyjnym, dotyczącym stowarzyszeń i zebrań."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "W murach szkół akademickich mogą się odbywać zgromadzenia młodzieży (wiece) bez udziału osób z poza szkoły i tylko za każdorazowem zezwoleniem rektora. Prawo nadzoru nad takiemi wiecami przysługuje wyłącznie władzom akademickim. Na każdym wiecu może rektor być obecnym osobiście lub delegować swojego zastępcę."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "Ma wiecu jest dozwolone omawianie tylko spraw, ściśle z życiem akademickiem związanych, zgodnie z treścią przewidzianych obrad. VIII. Zjazdy delegatów szkół akademickich."
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "W celu roztrząsania pytań i opinjowania w sprawach, wspólnych wszystkim szkołom akademickim, albo pewnym ich kategorjom, albo też wydziałom lub katedrom, mogą być zwoływane zjazdy delegatów tych szkół. IX. Szkoły akademickie prywatne."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "Poza państwowemi mogą być zakładane szkoły akademickie prywatne."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "Statuty prywatnych szkół akademickich podlegają zatwierdzeniu Ministra Wyznań Religijnych i Oświecenia Publicznego po wysłuchaniu opinji ogólnych zebrań (względnie senatów) wszystkich państwowych szkół i już uznanych szkół prywatnych tego samego typu."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "Szkoły akademickie prywatne mogą otrzymywać niektóre lub wszystkie prawa szkół akademickich państwowych tylko w drodze osobnej ustawy, na wniosek Ministra Wyznań Religijnych i Oświecenia Publicznego, wniesiony po wysłuchaniu opinji rad wydziałowych wszystkich państwowych szkół i już uznanych szkół prywatnych tego samego typu, o ile: 1) są należycie wyposażone; 2) przyjmują w poczet studentów kandydatów, którzy ukończyli szkołę średnią ogólną kształcącą, państwową lub prywatną, mającą prawa szkoły państwowej; 3) jeżeli profesorowie powoływani są za zgodą Ministra Wyznań Religijnych i Oświecenia Publicznego; 4) jeżeli plan studjów nie różni się zasadniczo od planu studjów w państwowych szkołach akademickich i jeżeli liczba wykładających jest dostateczna. Uznane osobną ustawą za równorzędne państwowym szkoły akademickie prywatne mogą otrzymać prawo habilitowania po zupełnem zorganizowaniu wydziałów szkoły najwcześniej w 5 lat po ich założeniu na mocy rozporządzenia Ministra Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "Nazw szkół akademickich, wszechnic, uniwersytetów, szkół głównych, politechnik i akademji używać, ani tytułów akademickich udzielać nie wolno prywatnym szkołom, nie uznanym osobną ustawą za równorzędne państwowym. PRZEPISY PRZEJŚCIOWE."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "Przepisy, określające zasady ustroju w sposób jednolity dla państwowych szkół akademickich, odnoszą się do następujących uczelni: 1) Uniwersytetu Jagielońskiego w Krakowie, 2) Uniwersytetu Stefana Batorego w Wilnie, 3) Uniwersytetu Jana Kazimierza we Lwowie, 4) Uniwersytetu warszawskiego, 5) Uniwersytetu poznańskiego, 6) Szkoły Politechnicznej we Lwowie, 7) Politechniki warszawskiej. 8) Akademji Weterynarji we Lwowie, 9) Szkoły Głównej Gospodarstwa wiejskiego w Warszawie, 10) Akademji Górniczej w Krakowie. Rozciągnięcie tych przepisów na inne państwowe szkoły akademickie następuje w drodze aktu ustawodawczego."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "Studenci, którzy rozpoczęli studja przed 15 września 1920 r. mogą składać wszelkie egzaminy według dawniejszych przepisów, lecz tylko do 15 września 1926 r.; w szczególności nie obowiązują ich do tego czasu nowe przepisy w sprawie doktoratu (art. 95)."
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "Przedstawianie przez kandydatów, ubiegających się o posady urzędników w bibljotekach szkół akademickich, świadectwa ze złożonego z postępem dobrym egzaminu państwowego ze studjów bibliotekarskich, będzie obowiązywało dopiero w rok po utworzeniu państwowych kursów bibljotekarskich (por. art. 74)."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 15 września 1920 r. i z tą datą tracą moc dotychczasowe przepisy prawne, regulujące sprawy określone tą ustawą. Inne przepisy prawne, dotyczące szkół akademickich, których przedmiot nie jest tą ustawą określony, zatrzymują moc obowiązującą aż do zastąpienia ich przez przepisy nowe wydane przez Ministra Wyznań Religijnych i Oświecenia Publicznego, lub władze samorządowe akademickie w zakresie ich kompetencji. Przepisy, odnoszące sie do organizacji i reformy studjów, wyda Minister Wyznań Religijnych i Oświecenia Publicznego, przyczem, o ile chodzi o studja techniczne, handlowe i rolnicze, przepisy te wyda w porozumieniu z zainteresowanemi Ministerstwami. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\",\"children\": [{\"id\": \"none_I-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"none_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"none_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"none_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"none_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"none_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"none_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"none_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"none_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"none_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"none_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"}]},{\"id\": \"none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\",\"children\": [{\"id\": \"none_II-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"none_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"none_II-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"none_II-arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_12-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_12-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"none_II-arti_12-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"none_II-arti_12-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"none_II-arti_12-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"none_II-arti_12-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"none_II-arti_12-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"none_II-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"none_II-arti_13-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_13-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_13-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"none_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"none_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"none_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"none_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"none_II-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"none_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"none_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"none_II-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_19-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"none_II-arti_19-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"none_II-arti_19-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"none_II-arti_19-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"none_II-arti_19-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"none_II-arti_19-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"none_II-arti_19-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"none_II-arti_19-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"none_II-arti_19-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"none_II-arti_19-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"none_II-arti_19-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"},{\"id\": \"none_II-arti_19-pint_15\",\"symbol\": \"pint_15\",\"type\": \"pint\",\"name\": \"15\",\"title\": \"15)\"},{\"id\": \"none_II-arti_19-pint_16\",\"symbol\": \"pint_16\",\"type\": \"pint\",\"name\": \"16\",\"title\": \"16)\"},{\"id\": \"none_II-arti_19-pint_17\",\"symbol\": \"pint_17\",\"type\": \"pint\",\"name\": \"17\",\"title\": \"17)\"},{\"id\": \"none_II-arti_19-pint_18\",\"symbol\": \"pint_18\",\"type\": \"pint\",\"name\": \"18\",\"title\": \"18)\"},{\"id\": \"none_II-arti_19-pint_19\",\"symbol\": \"pint_19\",\"type\": \"pint\",\"name\": \"19\",\"title\": \"19)\"}]},{\"id\": \"none_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"none_II-arti_20-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_20-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_20-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_20-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"none_II-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"none_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"none_II-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"none_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"none_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"none_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"none_II-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"none_II-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"none_II-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"none_II-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"none_II-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"none_II-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"none_II-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"none_II-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"none_II-arti_32-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_32-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_32-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_32-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"none_II-arti_32-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"none_II-arti_32-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"none_II-arti_32-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"none_II-arti_32-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"none_II-arti_32-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"none_II-arti_32-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"none_II-arti_32-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"none_II-arti_32-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"none_II-arti_32-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"none_II-arti_32-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"}]},{\"id\": \"none_II-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"none_II-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"none_II-arti_34-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_34-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_34-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_34-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"none_II-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"none_II-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"none_II-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"none_II-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"none_II-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"none_II-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\",\"children\": [{\"id\": \"none_II-arti_39-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_II-arti_39-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_II-arti_39-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_II-arti_39-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"none_II-arti_39-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"none_II-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\"}]},{\"id\": \"none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III.\",\"children\": [{\"id\": \"none_III-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"},{\"id\": \"none_III-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"},{\"id\": \"none_III-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"none_III-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"},{\"id\": \"none_III-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\"},{\"id\": \"none_III-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\",\"children\": [{\"id\": \"none_III-arti_46-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_III-arti_46-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_III-arti_46-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_III-arti_46-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"none_III-arti_46-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"none_III-arti_46-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint"
+    }
+  ],
+  "definitions": []
+}

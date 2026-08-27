@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-229",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 marca 1929 r. zmieniająca częściowo brzmienie art. 24 ustawy z dnia 18 marca 1921 r. o zaopatrzeniu inwalidów wojennych i ich rodzin oraz o zaopatrzeniu rodzin po poległych i zmarłych lub zaginionych bez własnej winy, których śmierć, względnie zaginięcie, pozostaje w związku przyczynowym ze służbą wojskową.",
+  "title_en": "",
+  "short_name": "pl-du-1929-229",
+  "status": "repealed",
+  "issued_date": "1929-03-07",
+  "in_force_date": "1929-04-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/229",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 24 ustawy z dnia 18 marca 1921 r. (Dz. U. R. P. Nr 32, poz. 195) w brzmieniu art. 4 ustawy z dnia 4 sierpnia 1922 r. (Dz. U. R. P. Nr 67, poz. 608) wprowadza się następujące zmiany: 1) po ustępie czwartym dodaje się ustęp nowy w brzmieniu: „ Osoby, roszczące prawo do zaopatrzenia z tytułu choroby, okaleczenia lub śmierci, zaszłych przed dniem 1 lipca 1929 r., mogą dochodzić swych praw aż do 31 grudnia 1930 r. włącznie. ” 2) Ostatni ustęp otrzymuje następujące brzmienie: „ O ile roszczenie do zaopatrzenia zostało zgłoszone na zasadzie postanowienia poprzedniego ustępu niniejszego artykułu, uprawnienie do zaopatrzenia rozpoczyna się od pierwszego dnia miesiąca, następującego po zgłoszeniu roszczenia ” . 3) W końcu art. 24 wstawia się nowy ustęp: „ Rejestracja, dokonana na zasadzie rozporządzenia Prezydenta Ministrów i Ministra Spraw Zagranicznych w porozumieniu z Ministrem Spraw Wojskowych, Ministrem Spraw Wewnętrznych i Prezesem Głównego Urzędu Likwidacyjnego z dnia 25 listopada 1920 r. w przedmiocie rejestracji należności, przypadających Rzeczypospolitej od Niemiec z tytułu emerytur i zapomóg dla wojskowych ofiar wojny zb. armji rosyjskiej oraz osób, które były przez tych wojskowych utrzymywane (Monitor Polski Nr. 271 z 1920 r.), nie ma skutków prawnych zgłoszenia, wymaganego postanowieniami niniejszego artykułu, a osoby, zgłoszone do tej rejestracji, nie mające przyznanych praw do zaopatrzenia, winny w celu uzyskania zaopatrzenia zgłosić swoje roszczenia do 31 grudnia 1930 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych, Ministrowi Pracy i Opieki Społecznej, Ministrowi Skarbu i Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie w dniu 1 lipca 1929 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

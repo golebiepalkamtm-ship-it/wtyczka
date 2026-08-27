@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1924-719",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 1924 r. o wprowadzeniu niektórych zmian w ustawie z dnia 11 sierpnia 1923 r. o tymczasowym uregulowaniu finansów komunalnych.",
+  "title_en": "",
+  "short_name": "pl-du-1924-719",
+  "status": "in_force",
+  "issued_date": "1924-07-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/719",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dozwala się gminom wiejskim b. zaboru rosyjskiego pobrać w drugiem półroczu 1924 r. na pokrycie niedoborów budżetowych samoistny podatek z gruntów, przemysłu, handlu i budynków, opodatkowanych na rzecz gminy. Ogólna suma tego podatku nie może w każdej gminie przewyższać deficytu rzeczywistego w budżecie gminnym na rok 1924, ani nie może być wyższa od sumy złotych równej ilości morgów, zaś w województwach: nowogródzkiem, poleskiem, wileńskiem i wołyńskiem, jakoteż w powiatach: białostockim, bielskim, grodzieńskim, sokolskim i wołkowyskim województwa białostockiego - ilości dziesięcin, opodatkowanych na rzecz gminy. Ogólna suma samoistnego podatku podlega podziałowi pomiędzy poszczególnych podatników w stosunku do przypadającego na każdego z nich zasadniczego podatku gruntowego, względnie ceny świadectw przemysłowych i handlowych lub podatku budynkowego (rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 czerwca 1924 r. - Dz. U. R. P. № 51)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Znosi się postanowienie art. 7 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P. № 94, poz. 747) odnośnie do poboru i wymiaru podatku od lokali w gminach wiejskich b. zaboru rosyjskiego. Pobrany na zasadzie art. 7 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P. № 94, poz. 747) podatek od lokali będzie zaliczony na poczet podatku, ustanowionego w art. 1 ustawy niniejszej. Prawo poboru przez gminę m. Lwowa i Krakowa samoistnego podatku spożywczego od tych artykułów, które w dniu 1 lipca 1923 r. były obłożone miejskim podatkiem linjowym, a nie są obciążone państwowym podatkiem od spożycia i zużycia, względnie produkcji, wygasa ostatecznie dopiero z dniem 31 grudnia 1925 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wymiar i pobór podatku wojewódzkiego od obrotu trunkami w wyszynku i drobnej sprzedaży trunków (art. 25 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych - Dz. U. R. P. № 94, poz. 747) dokonywany będzie przez organa skarbowe łącznie z podatkiem przemysłowym. Przepisy wykonawcze określą sposób zeznania obrotu przez płatników."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

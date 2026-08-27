@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2018-1284",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 maja 2018 r. o zmianie ustawy o kierujących pojazdami",
+  "title_en": "",
+  "short_name": "pl-du-2018-1284",
+  "status": "amended",
+  "issued_date": "2018-05-10",
+  "in_force_date": "2018-07-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1284",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami ( Dz. U. z 2017 r. poz. 978 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098 i 1099. ) wprowadza się następujące zmiany: 1) w art. 11 w ust. 1 w pkt 5 w lit. d kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „ 6) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że: a) nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych, b) nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem, c) nie ma cofniętego uprawnienia do kierowania pojazdami. ” ; 2) w art. 16 w ust. 2 w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „ 5) uprzedzona o odpowiedzialności karnej za zeznanie nieprawdy lub zatajenie prawdy oświadcza, że: a) nie został orzeczony w stosunku do niej, prawomocnym wyrokiem sądu, zakaz prowadzenia pojazdów mechanicznych, b) nie ma zatrzymanego prawa jazdy ani pozwolenia na kierowanie tramwajem, c) nie ma cofniętego uprawnienia do kierowania pojazdami. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do postępowań w sprawie wydania prawa jazdy i pozwolenia na kierowanie tramwajem wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wnioski o wydanie prawa jazdy i pozwolenia na kierowanie tramwajem, których wzór został określony na podstawie przepisów dotychczasowych, oraz dokumenty stanowiące załączniki do wniosków o wydanie prawa jazdy i pozwolenia na kierowanie tramwajem złożone przed dniem wejścia w życie niniejszej ustawy zachowują ważność."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957, 1039, 1098 i 1099. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

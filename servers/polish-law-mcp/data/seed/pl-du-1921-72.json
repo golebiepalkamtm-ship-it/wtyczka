@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1921-72",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1921 r. zmieniająca art. 8 ustawy z dnia 18 lipca 1919 r. w brzmieniu ustawy z dnia 15 lipca 1920 r. o pomocy państwowej na odbudowę gospodarstw, zniszczonych lub uszkodzonych skutkiem wojny.",
+  "title_en": "",
+  "short_name": "pl-du-1921-72",
+  "status": "repealed",
+  "issued_date": "1921-01-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/72",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 8 ustawy z dnia 18 lipca 1919 r. (Dz. Pr. № 63, poz. 368) w brzmieniu ustawy z dnia 15 lipca 1920 roku (Dz. Ust. № 62, poz. 405) zostaje uchylony i opiewać ma jak następuje: „ Bezzwrotna zapomoga państwowa na odbudowę, z wyjątkiem kościołów, szkół i domów ludowych, nie może przekraczać w materjałach i gotówce 20 tysięcy marek, a w granicach tej sumy z tytułu strat w ruchomościach domowych wartości dwuch tysięcy marek, licząc materjały według cen w chwili wydania ustawy z 18 lipca 1919 r. Bezzwrotna zapomoga na odbudowę kościołów wynosić będzie 50% oszacowanych strat wojennych, a do czasu przeszacowania i ustalenia kursu waluty w myśl art. 9 ustawy z 18 lipca 1919 roku (Dz. Pr. № 68, poz. 368) zapomoga wynosić będzie 50% rzeczywistych kosztów odbudowy. Przy odbudowie szkół i domów ludowych pokrywać będzie Państwo całkowite koszty materjałów i fachowej robocizny, natomiast gminy obowiązane będą dostarczać robocizny pomocniczej i środków przewozowych. Ponadto poszkodowani mogą otrzymać jeszcze pomoc państwową tytułem pożyczki ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrom: Skarbu, Robót Publicznych, Rolnictwa i Dóbr Państwowych, Przemysłu i Handlu oraz Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

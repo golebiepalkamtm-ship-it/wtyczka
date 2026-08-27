@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 grudnia 1931 r. o sprzedaży gruntów państwowych, znajdujących się w użytkowaniu Liceum Krzemienieckiego.",
+  "title_en": "",
+  "short_name": "pl-du-1932-17",
+  "status": "in_force",
+  "issued_date": "1931-12-17",
+  "in_force_date": "1932-01-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż stanowiącego własność Skarbu Państwa, a znajdującego się w użytkowaniu Liceum Krzemienieckiego i nie posiadającego uregulowanej hipoteki gruntu państwowego w Leśnictwie „Iwanicze” w obrębie „Bożkiewicze - Kosarewo”, uroczysko „Kozie - Góry” w gminie młynowskiej, powiatu dubieńskiego, województwa wołyńskiego, o powierzchni 51.5946 ha, graniczącego: od północy częściowo z gruntami włościan wsi Kosarewo i gruntami rządowemi, oddanemi pod osadę wojskową „Bożkiewicze - Kosarewo”, od wschodu z gruntami rządowemi, oddanemi pod osadę wojskową „Bożkiewicze - Kosarewo”, od południa z gruntami włościan wsi Bożkiewicze i od zachodu z pozostałą częścią gruntów państwowych uroczyska „Kozie - Góry”. Suma, uzyskana ze sprzedaży tego gruntu, użyta będzie na zakupno dla Skarbu Państwa nieruchomości w mieście Krzemieńcu, które będą oddane Liceum Krzemienieckiemu na użytkowanie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Rolnictwa oraz Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza obowiązuje z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

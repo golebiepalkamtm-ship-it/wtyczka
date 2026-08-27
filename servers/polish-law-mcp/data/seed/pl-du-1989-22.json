@@ -1,0 +1,506 @@
+{
+  "id": "pl-du-1989-22",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1989 r. o Narodowym Banku Polskim.",
+  "title_en": "",
+  "short_name": "pl-du-1989-22",
+  "status": "repealed",
+  "issued_date": "1989-01-31",
+  "in_force_date": "1989-02-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/22",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Narodowy Bank Polski, zwany dalej „NBP”, jest centralnym bankiem państwa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "NBP jest bankiem emisyjnym państwa oraz centralną instytucją kredytową, rozliczeniową i centralną bankową instytucją dewizową."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "NBP działa na podstawie niniejszej ustawy, a w sprawach, które nie zostały w niej uregulowane, na podstawie ustawy - Prawo bankowe i innych ustaw."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. NBP działa na obszarze Polskiej Rzeczypospolitej Ludowej. Siedzibą NBP jest m. st. Warszawa. 2. NBP ma osobowość prawną i ma prawo używania pieczęci z wizerunkiem orła, ustalonym dla godła Polskiej Rzeczypospolitej Ludowej. 3. NBP nie podlega wpisowi do rejestru przedsiębiorstw państwowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Działalność NBP ma na celu w szczególności umacnianie pieniądza polskiego. 2. NBP współdziała w realizacji polityki gospodarczej państwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Działalność NBP obejmuje emitowanie znaków pieniężnych Polskiej Rzeczypospolitej Ludowej, udzielanie kredytu refinansowego innym bankom, przyjmowanie lokat, przeprowadzanie rozliczeń pieniężnych, organizowanie obrotu walutami obcymi zgodnie z przepisami ustawy - Prawo dewizowe, wykonywanie obsługi kasowej budżetu państwa oraz innych czynności przewidzianych w ustawie. 2. W zakresie swojej działalności NBP: 1) współdziała w kształtowaniu polityki gospodarczej państwa oraz w jej realizacji, kierując się ustawami i uchwałami Sejmu, 2) inicjuje kierunki polityki pieniężno-kredytowej, 3) czuwa nad prawidłowym funkcjonowaniem i rozwojem systemu bankowego, 4) realizuje interesy państwa w zakresie współpracy z międzynarodowymi instytucjami bankowymi i bankami zagranicznymi. Rozdział 2 Emisja znaków pieniężnych"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Prawo emitowania znaków pieniężnych Polskiej Rzeczypospolitej Ludowej przysługuje wyłącznie NBP. 2. Znakami pieniężnymi są banknoty (bilety NBP) i monety opiewające na złote i grosze."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Znaki pieniężne emitowane przez NBP są prawnym środkiem płatniczym na obszarze Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Wzory i wartość nominalną banknotów (biletów NBP) oraz wzory, wartość nominalną, stop, próbę i wagę monet, jak również terminy wprowadzania ich do obiegu, ustala Prezes NBP, w porozumieniu z Ministrem Finansów. 2. Prezes NBP może wycofać z obiegu poszczególne rodzaje znaków pieniężnych. Po upływie terminu określonego przez Prezesa NBP znaki te przestają być prawnym środkiem płatniczym na obszarze Polskiej Rzeczypospolitej Ludowej i podlegają wymianie w wyznaczonych przez Prezesa NBP bankach."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Znaki pieniężne, nie odpowiadające wskutek zużycia lub uszkodzenia warunkom ustalonym przez Prezesa NBP, tracą moc prawnego środka płatniczego na obszarze Polskiej Rzeczypospolitej Ludowej i podlegają wymianie. 2. Zasady i tryb wymiany znaków pieniężnych, o których mowa w ust. 1, określa Prezes NBP."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Fałszywe znaki pieniężne podlegają zatrzymaniu bez prawa zwrotu ich równowartości. 2. Prezes NBP określa zasady i tryb postępowania przy zatrzymaniu fałszywych znaków pieniężnych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Prawo emitowania monet numizmatycznych przysługuje wyłącznie NBP. 2. NBP może prowadzić w kraju i za granicą sprzedaż monet, banknotów i numizmatów przeznaczonych na cele kolekcjonerskie oraz na inne cele, na warunkach i według zasad ustalonych przez Prezesa NBP, w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "NBP organizuje obieg gotówkowy oraz podejmuje odpowiednie środki w celu regulowania ilości pieniądza w obiegu."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Prezes NBP w porozumieniu z Ministrem Finansów ustala zasady: 1) obsługi kasowej budżetu państwa oraz współdziała w kontroli jej wykonania, 2) gospodarki kasowej i organizuje nadzór nad funkcjonowaniem obsługi kasowej jednostek gospodarki uspołecznionej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Prezes NBP ustala zasady: 1) klasyfikacji obrotów pieniężnych na rachunkach bankowych, 2) sprawozdawczości z obrotów gotówkowych, dokonywanych z pominięciem rachunków osób prawnych zobowiązanych do przeprowadzania rozliczeń pieniężnych za pośrednictwem rachunków bankowych. Rozdział 3 Współudział w kształtowaniu polityki gospodarczej i polityki pieniężno-kredytowej państwa"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. NBP współdziała z właściwymi organami władzy i administracji państwowej w ustalaniu i realizowaniu polityki gospodarczej państwa, mając na względzie w szczególności umacnianie pieniądza polskiego. 2. NBP opiniuje projekty planów społeczno-gospodarczych i budżetu państwa. 3. NBP opracowuje okresowe oceny sytuacji pieniężnej państwa i wraz z wnioskami przekazuje je naczelnym organom władzy i administracji państwowej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "NBP sporządza projekty planu kredytowego oraz założeń polityki pieniężno-kredytowej państwa, określające w szczególności rozmiary działalności kredytowej, jej kierunki i podstawowe proporcje, politykę oprocentowania kredytów, metody kształtowania działalności kredytowej oraz wytyczne dotyczące ustalania kursów walutowych."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Prezes NBP: 1) współdziała z Ministrem Finansów w opracowaniu: a) bilansu pieniężnych przychodów i wydatków ludności, b) planu bilansu płatniczego, 2) opracowuje sprawozdawczy bilans płatniczy oraz bilanse należności i zobowiązań zagranicznych państwa."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Projekt planu kredytowego wraz z założeniami polityki pieniężno-kredytowej Prezes NBP przedstawia: 1) Radzie Ministrów, która zgłasza do niego swoje stanowisko, 2) Sejmowi wraz ze stanowiskiem Rady Ministrów. 2. Prezes NBP w imieniu Rady Banków przedstawia Radzie Ministrów i Sejmowi opinie do planu bilansu płatniczego."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Prezes NBP: 1) czuwa nad realizacją uchwalonych przez Sejm założeń polityki pieniężno-kredytowej państwa i w związku z tym ustala stopę rezerw obowiązkowych banków oraz wielkość kredytu refinansowego i jego oprocentowanie, a w razie konieczności również rozmiary działalności kredytowej banków oraz górne granice oprocentowania kredytów, pożyczek oraz wysokości prowizji, 2) przedstawia Sejmowi i Radzie Ministrów roczne sprawozdania z realizacji: a) założeń polityki pieniężno-kredytowej państwa, b) bilansu płatniczego, 3) w porozumieniu z Ministrem Finansów przedstawia Radzie Ministrów kwartalne lub miesięczne informacje z zakresu bilansu pieniężnych przychodów i wydatków ludności, 4) przedstawia Radzie Ministrów kwartalne informacje o wykonaniu bilansu płatniczego. 2. Informacje wymienione w ust. 1 pkt 3 Prezes NBP przedstawia również właściwej komisji sejmowej."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "NBP ma prawo żądać od banków oraz od osób prawnych i fizycznych prowadzących działalność w zakresie handlu zagranicznego, a ponadto od osób prawnych dokonujących obrotów niehandlowych w stosunkach z zagranicą, danych niezbędnych przy sporządzaniu projektu założeń polityki pieniężno-kredytowej państwa oraz przy opracowywaniu sprawozdań i informacji o wykonaniu tych założeń i bilansu płatniczego, jak również bilansów należności i zobowiązań zagranicznych państwa. Rozdział 4 Działalność kredytowa"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. NBP może udzielać innym bankom kredytu refinansowego w celu uzupełnienia ich zasobów pieniężnych. 2. NBP może udzielać kredytu w walutach obcych. 3. Na zasadach określonych w ustawach NBP udziela innych kredytów niż przewidziane w ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "1. Przy udzielaniu kredytu refinansowego NBP kieruje się założeniami polityki pieniężno-kredytowej państwa oraz zdolnością banku do spłaty kredytu refinansowego wraz z odsetkami w umownych terminach spłaty. 2. Udzielenie kredytu refinansowego następuje na podstawie umowy określającej wysokość kredytu, termin jego spłaty, oprocentowanie i inne warunki oraz zakres uprawnień NBP związanych z wykorzystaniem tego kredytu i zabezpieczeniem jego spłaty. 3. Banki mogą zaciągać kredyt refinansowy za pośrednictwem banku, w którym są zrzeszone."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Kredyt refinansowy może być udzielony: 1) do określonej wysokości w rachunku kredytu, 2) pod zastaw papierów wartościowych, do wysokości równej określonej części nominalnej wartości tych papierów, 3) w innej formie, określonej przez Prezesa NBP."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "NBP może przyjmować do redyskonta weksle od innych banków. Prezes NBP ustala warunki, którym powinny odpowiadać redyskontowane weksle."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Oprocentowanie kredytu refinansowego może być różnicowane, przy uwzględnieniu zdolności banku do spłaty kredytu wraz z odsetkami w umownych terminach spłaty. 2. Kredyt refinansowy, udzielany na pokrycie kredytów przeznaczonych na finansowanie celów uznanych w założeniach polityki pieniężno-kredytowej państwa za preferowane, podlega oprocentowaniu według stopy niższej od podstawowej tego kredytu, jeżeli zostało zapewnione pokrycie z budżetu państwa lub z innych źródeł różnicy wynikłej z zastosowania niższej od podstawowej stopy oprocentowania. 3. Prezes NBP może określić jednolitą dla wszystkich banków relację między kredytem refinansowym a sumą niepodzielnych funduszy własnych banku zaciągającego kredyt i zgromadzonych w nim środków pieniężnych. Kredyt refinansowy udzielony bankowi nie może przekraczać kwoty wynikającej z tej relacji."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Jeżeli sytuacja finansowa banku korzystającego z kredytu refinansowego ulega pogorszeniu w stopniu zagrażającym terminowej spłacie kredytu albo bank ten nie przestrzega istotnych postanowień umowy kredytowej, NBP może wypowiedzieć tę umowę i zażądać wcześniejszej spłaty kredytu w całości lub w części."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Pożyczki i kredyty zaciągnięte przez NBP w zagranicznych instytucjach bankowych i finansowych mogą być przeznaczone na udzielanie kredytu w walutach obcych innym bankom. 2. Stosunki pieniężno-kredytowe między NBP a międzynarodowymi instytucjami bankowymi i finansowymi oraz między NBP a kredytobiorcami, o których mowa w ust. 1, regulują zawarte między nimi umowy. Do stosunków tych stosuje się odpowiednio przepisy niniejszego rozdziału, jeżeli umowa nie stanowi inaczej. Rozdział 5 Prowadzenie rachunków bankowych"
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. NBP prowadzi rachunki: 1) innych banków, 2) budżetu i jednostek budżetowych, 3) określonych przez Prezesa NBP w porozumieniu z Ministrem Finansów państwowych jednostek organizacyjnych, których środki pieniężne podlegają gromadzeniu w NBP, 4) innych osób prawnych oraz osób fizycznych za zgodą Prezesa NBP, 5) do których mają zastosowanie przepisy ustawy - Prawo dewizowe. 2. Na rachunkach określonych w ust. 1 mogą być gromadzone środki pieniężne płatne na każde żądanie i lokaty terminowe oraz środki w walutach obcych. Rozdział 6 Gromadzenie rezerw obowiązkowych"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. W celu kształtowania obiegu pieniężnego i działalności kredytowej banków NBP gromadzi rezerwy obowiązkowe innych banków. 2. Rezerwę obowiązkową stanowi wyrażona w procentach część środków pieniężnych zgromadzonych w złotych w banku na rachunkach: 1) wkładów płatnych na każde żądanie, 2) wkładów terminowych, 3) wkładów oszczędnościowych. 3. Rezerwy obowiązkowe są obliczane w okresach kwartalnych i gromadzone na rachunku rezerw w NBP. Prezes NBP może wyrazić zgodę na przekazywanie rezerw obowiązkowych banków spółdzielczych za pośrednictwem banku państwowo-spółdzielczego, w którym są one zrzeszone. 4. Bankowi nie służy prawo dysponowania środkami pieniężnymi, które odprowadził na rachunek rezerw."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Kwota rezerwy obowiązkowej: 1) nie może przekraczać 30% sumy środków pieniężnych określonych w art. 30 ust. 2, 2) nie podlega oprocentowaniu. 2. Prezes NBP: 1) ustala jednakową dla wszystkich banków wysokość procentową środków pieniężnych podlegających odprowadzeniu na rachunek rezerw, z tym że dla każdego rodzaju wkładów wymienionych w art. 30 ust. 2 rezerwa może być ustalona w innej wysokości, 2) ustala zasady i tryb odprowadzania środków pieniężnych na rachunek rezerw."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Utrzymywanie rezerwy obowiązkowej w wysokości nie niższej od określonej zgodnie z art. 31 ust. 2 pkt 1 należy do podstawowych obowiązków banków. W razie naruszenia tego obowiązku bank uiszcza na rzecz NBP odsetki od różnicy między kwotą, która podlegała odprowadzeniu na rachunek rezerw, a kwotą odprowadzoną na ten rachunek. 2. Stawkę odsetek, o których mowa w ust. 1, ustala Prezes NBP w granicach określonych w założeniach polityki pieniężno-kredytowej. Rozdział 7 Emisja i obrót papierami wartościowymi"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "NBP ma prawo emitowania bankowych papierów wartościowych."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "NBP może kupować i sprzedawać obligacje, weksle, bony skarbowe i inne papiery wartościowe emitowane przez Skarb Państwa albo za które Skarb Państwa przyjął odpowiedzialność z tytułu poręczenia."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "NBP może być powierzona obsługa pożyczki państwowej, zaciągniętej przez wypuszczenie papierów wartościowych."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Papiery wartościowe mogą być przyjmowane przez NBP do przechowywania i administrowania. Rozdział 8 Działalność w sprawach dewizowych i w zakresie współpracy z zagranicą"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Narodowy Bank Polski 1) w zakresie określonym w przepisach ustawy - Prawo dewizowe udziela zezwoleń dewizowych oraz wykonuje kontrolę dewizową, 2) udziela zezwoleń na prowadzenie punktów obrotu walutami obcymi oraz sprawuje nadzór nad ich działalnością, 3) może udzielać i zaciągać kredyty zagraniczne oraz udzielać i przyjmować poręczenia i gwarancje w obrotach z zagranicą, 4) może posiadać wartości dewizowe i dokonywać obrotu tymi wartościami na własny rachunek oraz na rachunek innych podmiotów, jak również wykonywać operacje walutowe i dewizowe zgodnie z zasadami określonymi w ustawie - Prawo dewizowe i międzynarodowymi porozumieniami, których uczestnikiem jest Polska Rzeczpospolita Ludowa, 5) organizuje współpracę z bankami zagranicznymi, 6) w zakresie określonym w ustawie kontroluje czynności dewizowe banków."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Interesy Polskiej Rzeczypospolitej Ludowej w Międzynarodowym Banku Współpracy Gospodarczej, Międzynarodowym Banku Inwestycyjnym, Banku Światowym i innych międzynarodowych instytucjach bankowych reprezentuje Prezes NBP."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Zasady ustalania i stosowania podstawowego kursu złotego w stosunku do walut obcych ustala Rada Ministrów, a podstawowy kurs złotego ustala Prezes NBP, w porozumieniu z Ministrem Finansów i Ministrem Współpracy Gospodarczej z Zagranicą. 2. Bieżące kursy walut obcych w złotych ustala i ogłasza Prezes NBP."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Prezes NBP, po zasięgnięciu opinii Rady Banków, może upoważnić bank do dokonywania czynności polegających na: 1) dokonywaniu rozliczeń międzynarodowych i innych czynności związanych z udziałem Polski w międzynarodowych instytucjach bankowych, 2) finansowaniu, kredytowaniu i rozliczaniu obrotów towarowych i usługowych z zagranicą, 3) udzielaniu i zaciąganiu kredytów zagranicznych oraz udzielaniu i przyjmowaniu poręczeń i gwarancji w obrotach zagranicznych, 4) prowadzeniu obsługi dewizowej i walutowej ludności. 2. Czynności banków określone w ust. 1 podlegają kontroli NBP. 3. W razie stwierdzenia, że czynności bankowe, o których mowa w ust. 1, są wykonywane z naruszeniem przepisów prawa, statutu lub udzielonego upoważnienia, Prezes NBP może zakazać bankowi dokonywania określonych czynności albo cofnąć w całości lub określonej części upoważnienie udzielone na podstawie ust. 1."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. NBP koordynuje współpracę innych banków z międzynarodowymi instytucjami bankowymi i bankami zagranicznymi. 2. Banki obowiązane są przekazywać NBP informacje dotyczące współpracy z międzynarodowymi instytucjami bankowymi i bankami zagranicznymi."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. NBP administruje państwową rezerwą dewizową. 2. Uruchamianie środków państwowej rezerwy dewizowej następuje na podstawie decyzji Prezesa Rady Ministrów, podjętej na wniosek Prezesa NBP, w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "NBP organizuje oraz prowadzi obsługę dewizową i walutową ludności, jak również może upoważnić do wykonywania tej obsługi inne niż banki osoby prawne i podmioty nie będące osobami prawnymi. Przepisy art. 40 ust. 2 i 3 stosuje się odpowiednio. Rozdział 9 Wykonywanie nadzoru nad działalnością banków"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "W zakresie określonym w ustawie - Prawo bankowe NBP sprawuje nadzór nad działalnością innych banków."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "W ramach nadzoru NBP dokonuje oceny działalności banku w oparciu o zebrane dane oraz może podejmować czynności określone w ustawie - Prawo bankowe."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Wszelkie uwagi i spostrzeżenia poczynione w ramach nadzoru powinny być przekazywane prezesowi (prezesowi zarządu) banku i omówione z zarządem banku."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Czynności w zakresie nadzoru wykonują upoważnieni pracownicy NBP, którym przysługuje prawo wstępu na teren banku i jego jednostek organizacyjnych w celu wykonywania tych czynności. 2. Nadzór bankowy podlega bezpośrednio Prezesowi NBP. 3. Organizację nadzoru bankowego i tryb jego wykonywania określa Prezes NBP. Rozdział 10 Organizacja oraz szczególne obowiązki i uprawnienia NBP"
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Działalnością NBP kieruje Prezes NBP."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Prezesa NBP powołuje i odwołuje Sejm na wniosek Prezesa Rady Ministrów. 2. Wiceprezesów NBP powołuje i odwołuje Prezes Rady Ministrów na wniosek Prezesa NBP, a pozostałych członków Zarządu NBP - Prezes NBP."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Prezes NBP uczestniczy w posiedzeniach Sejmu i Rady Ministrów."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Zarząd NBP składa się z Prezesa NBP, wiceprezesa - pierwszego zastępcy Prezesa NBP, wiceprezesów NBP oraz członków. 2. Zarząd NBP rozpatruje główne zagadnienia z zakresu działalności NBP i podejmuje uchwały niezbędne do wykonywania zadań NBP, dotyczące w szczególności: 1) planów kredytowych i bilansu płatniczego, 2) funkcjonowania systemu kredytowego i pieniężnego, 3) polityki pieniężno-kredytowej państwa, 4) obiegu pieniężnego i rozliczeń pieniężnych, 5) projektów podstawowych aktów normatywnych i przepisów dotyczących działalności NBP, 6) okresowych ocen sytuacji pieniężnej państwa, 7) polityki stopy procentowej, 8) prowizji i opłat bankowych, 9) bilansów oraz planów finansowych i gospodarczych NBP, 10) polityki kadrowej i płacowej NBP, 11) organizacji i rachunkowości, 12) instrumentów oddziaływania NBP na inne banki, 13) rocznych sprawozdań z działalności NBP. 3. W razie nieobecności Prezesa NBP jego funkcje pełni wiceprezes - pierwszy zastępca Prezesa NBP. 4. Wiceprezesi NBP nadzorują i kierują wyznaczonymi przez Prezesa NBP odcinkami pracy. 5. Szczegółowy zakres i tryb działania Zarządu NBP oraz tryb podejmowania uchwał określa regulamin wydany przez Prezesa NBP."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Prezes NBP: 1) ustala jednolite zasady rachunkowości, typowy plan kont dla banków oraz jednolite zasady rozrachunków międzybankowych i numeracji jednostek organizacyjnych banków, a także zasady, zakres i terminy przekazywania do NBP informacji przez banki, 2) realizuje zadania wynikające z przepisów o powszechnym obowiązku obrony PRL oraz nadzoruje i koordynuje działalność innych banków w tym zakresie, 3) w porozumieniu z Ministrem Spraw Wewnętrznych i Ministrem Obrony Narodowej ustala zasady przechowywania wartości pieniężnych w bankach i przedsiębiorstwach produkujących znaki pieniężne oraz transportowania tych wartości przez banki i te przedsiębiorstwa, 4) w porozumieniu z Ministrem Spraw Wewnętrznych ustala wymagania, jakim powinny odpowiadać stosowane w uspołecznionych jednostkach organizacyjnych środki ochrony wartości pieniężnych."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Prezes NBP na podstawie upoważnień ustawowych wydaje zarządzenia, które są ogłaszane w Monitorze Polskim, z wyjątkiem zarządzeń określonych w ust. 2 oraz w art. 54 ust. 1 pkt 1. 2. Prezes NBP wydaje zarządzenia wewnętrzne, instrukcje służbowe oraz inne przepisy regulujące działalność i organizację NBP."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Prezes NBP wydaje Dziennik Urzędowy Narodowego Banku Polskiego, w którym publikowane są w szczególności: 1) zarządzenia Prezesa NBP dotyczące wyłącznie funkcjonowania banków, 2) uchwalone przez Radę Banków zalecenia dotyczące działalności banków, 3) bilanse NBP i innych banków państwowych, 4) obwieszczenia w sprawie utworzenia, likwidacji i upadłości banku. 2. Za zgodą Prezesa NBP w Dzienniku Urzędowym Narodowego Banku Polskiego mogą być publikowane także regulaminy banków."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Na zabezpieczenie zaciągniętych kredytów bądź udzielonego poręczenia lub gwarancji NBP może ustanowić zastaw na poszczególnych składnikach swego majątku."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Egzekucja należności pieniężnych, przypadających od NBP, jest niedopuszczalna. 2. Wierzyciel NBP, w celu otrzymania należności pieniężnych, składa tytuł egzekucyjny sądowy, arbitrażowy lub administracyjny bezpośrednio w NBP, który jest obowiązany bezzwłocznie należność uiścić."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "NBP, na równi z jednostkami budżetowymi, korzysta ze zwolnienia od podatków oraz od opłat sądowych i skarbowych."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "W odniesieniu do związanych z działalnością własną banku: 1) przedsiębiorstw państwowych NBP spełnia funkcje organu założycielskiego w rozumieniu przepisów ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych ( Dz. U. z 1987 r. Nr 35, poz. 201 ) , 2) jednostek badawczo-rozwojowych NBP spełnia funkcje organu nadzoru w rozumieniu przepisów ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych ( Dz. U. Nr 36, poz. 170 , z 1987 r. Nr 22, poz. 128 i z 1988 r. Nr 41, poz. 328 ) ."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "NBP inicjuje i organizuje badania naukowe oraz prowadzi działalność wydawniczą w zakresie wynikającym z zadań banków, współpracując w tych sprawach z instytucjami naukowymi."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "1. Przy Prezesie NBP, w charakterze organu opiniodawczo-doradczego, działa Rada Naukowa. 2. Prezes NBP ustala liczbę członków Rady Naukowej oraz powołuje i odwołuje przewodniczącego i członków Rady. 3. Rada Naukowa działa na podstawie regulaminu wydanego przez Prezesa NBP."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Prezes NBP jest przełożonym wszystkich pracowników NBP. Prawa i obowiązki pracowników NBP określają Kodeks pracy oraz ustalona przez Radę Ministrów, w drodze rozporządzenia, pragmatyka służbowa. 2. Prezes NBP: 1) mianuje pracowników NBP na stanowiska, których obsadę zastrzegł do swojej decyzji, i odwołuje ich z tych stanowisk, po zasięgnięciu opinii właściwej rady pracowniczej, 2) udziela pełnomocnictw i ustala sposób podpisywania dokumentów w NBP."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Do składania oświadczeń w zakresie praw i obowiązków majątkowych NBP są upoważnieni: 1) Prezes NBP, 2) dwie osoby działające łącznie spośród: a) pozostałych członków Zarządu NBP, b) pełnomocników powołanych przez Prezesa NBP lub osobę przez niego do tego upoważnioną, działających w granicach udzielonych im pełnomocnictw. 2. Do wykonywania czynności określonego rodzaju lub czynności szczególnych osoby wymienione w ust. 1 mogą ustanowić pełnomocnika działającego samodzielnie w granicach udzielonego pełnomocnictwa."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. NBP wykonuje zadania przez Centralę, oddziały okręgowe i inne jednostki organizacyjne NBP. 2. Rewizję działalności jednostek organizacyjnych NBP przeprowadza aparat rewizyjny NBP, powołany przez Prezesa NBP. Organizację, zadania oraz zakres działalności aparatu rewizyjnego NBP ustala Prezes NBP."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. W skład Centrali NBP wchodzą departamenty i inne równorzędne komórki organizacyjne. 2. Decyzje o powołaniu, przekształceniu i likwidacji komórek organizacyjnych Centrali, oddziałów okręgowych i innych jednostek organizacyjnych NBP podejmuje Prezes NBP."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Centrala NBP wykonuje zadania NBP, z wyjątkiem zadań powierzonych oddziałom okręgowym i innym jednostkom organizacyjnym."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Do zadań oddziałów okręgowych NBP należy w szczególności: 1) realizowanie czynności związanych z funkcją emisyjną NBP, 2) dokonywanie analiz sytuacji pieniężnej w okręgu, 3) obsługa kasowa jednostek budżetu centralnego i innych jednostek określonych przez Prezesa NBP, 4) prowadzenie rachunków innych banków oraz wykonywanie czynności w zakresie stosunków pieniężno-kredytowych z tymi bankami, 5) przeprowadzanie rozrachunków międzybankowych, 6) organizowanie i wykonywanie obsługi walutowo-dewizowej ludności, 7) współpraca z terenowymi organami administracji państwowej. 2. Oddziałowi okręgowemu mogą być powierzone czynności związane z udzielaniem i kontrolą wykorzystania kredytu refinansowego, udzielonego przez NBP."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Szczegółowy zakres działania oraz organizację wewnętrzną Centrali i innych jednostek organizacyjnych NBP określają regulaminy wydawane przez Prezesa NBP. Rozdział 11 Fundusze własne, własna gospodarka finansowa, rachunkowość i sprawozdawczość bilansowa"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Funduszami własnymi NBP są: fundusz statutowy, fundusz rezerwowy, fundusz środków trwałych i fundusze specjalne."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Fundusz statutowy NBP wynosi 100.000 mln zł i tworzony jest z odpisów z rocznego zysku."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Fundusz rezerwowy NBP tworzony jest z odpisów z rocznego zysku do wysokości funduszu statutowego. Fundusz rezerwowy przeznaczony jest na pokrycie mogących powstać strat bilansowych. Dalsze wpływy na fundusz rezerwowy mogą być dokonywane tylko wówczas, gdy fundusz rezerwowy został w całości lub w części zużyty na pokrycie strat bilansowych."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Fundusz środków trwałych NBP stanowi pokrycie wartości środków trwałych, wartości niematerialnych i prawnych oraz innych wartości trwałych, pomniejszonych o wartość ich zużycia. Zwiększenie lub zmniejszenie stanu tego funduszu następuje w wyniku zmiany wartości rzeczywistej środków trwałych."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "1. Funduszami specjalnymi NBP są: 1) fundusz inwestycyjny, 2) fundusz dewizowy, 3) fundusz ryzyka, 4) fundusz premiowy, 5) zakładowy fundusz nagród, 6) zakładowy fundusz socjalny, 7) zakładowy fundusz mieszkaniowy, 8) fundusz postępu techniczno-ekonomicznego, 9) fundusz zapomóg. 2. Fundusz inwestycyjny tworzony jest z odpisów amortyzacyjnych środków trwałych oraz wartości niematerialnych i prawnych, likwidacji i sprzedaży środków trwałych oraz z innych źródeł określonych odrębnymi przepisami. Fundusz ten uzupełniany jest odpisem z rocznego zysku. Fundusz inwestycyjny przeznaczony jest na finansowanie nakładów związanych z uruchomieniem nowych jednostek organizacyjnych NBP, modernizacją bądź rozbudową istniejących jednostek organizacyjnych oraz na zakupy maszyn i urządzeń. Decyzje o inwestycjach własnych podejmuje Prezes NBP. 3. Fundusz dewizowy NBP tworzony jest z odpisów z rocznego zysku w wysokości wpływów uzyskiwanych przez NBP z tytułu własnych operacji walutowo-dewizowych, 50% premii uzyskiwanych w dewizach ze sprzedaży monet i numizmatów oraz z dywidend z tytułu udziałów w instytucjach zagranicznych. Fundusz dewizowy przeznaczony jest na zakup niezbędnych dla NBP maszyn specjalistycznych, urządzeń, części do maszyn i zakup materiałów eksploatacyjnych oraz na inne wydatki dewizowe związane z prowadzoną działalnością. 4. Fundusz ryzyka NBP jest tworzony z odpisów z rocznego zysku. Fundusz ryzyka przeznaczony jest na pokrycie: 1) kosztów różnic kursowych oraz strat mogących powstać z tytułu obsługi pożyczek Banku Światowego oraz międzynarodowych instytucji finansowych, 2) nie zawinionych różnic powstałych w rozliczeniach z bankami zagranicznymi z tytułu własnych operacji walutowo-dewizowych. 5. Fundusz premiowy tworzony jest z odpisów z rocznego zysku w wysokości dostosowanej do planowanego funduszu wynagrodzeń. Fundusz premiowy przeznaczony jest na wypłatę premii regulaminowych dla pracowników NBP. 6. Zakładowy fundusz nagród, zakładowy fundusz socjalny i zakładowy fundusz mieszkaniowy tworzone są na zasadach określonych w odrębnych przepisach. 7. Fundusz postępu techniczno-ekonomicznego NBP tworzony jest z narzutów obciążających koszty działalności NBP. Fundusz postępu techniczno-ekonomicznego przeznaczony jest na finansowanie racjonalizacji stosowanych metod i technik pracy, a w szczególności na finansowanie prac badawczych, rozwojowych i wdrożeniowych w zakresie postępu techniczno-organizacyjnego, wytwarzanie i zakupy prototypowych maszyn i urządzeń, zwłaszcza służących emisji znaków pieniężnych, mechanizacji i automatyzacji operacji bankowych, obsługi klientów i zabezpieczenia mienia bankowego. 8. Fundusz zapomóg NBP tworzony jest w ciężar kosztów NBP w wysokości ustalanej przez Prezesa NBP. Fundusz zapomóg przeznaczony jest na zapomogi dla pracowników NBP. 9. Wysokość odpisu z rocznego zysku na fundusz określony w ust. 1 pkt 4 oraz wysokość narzutów, z których tworzone są fundusze określone w ust. 1 pkt 8 i 9, ustala Prezes NBP a wysokość odpisów z rocznego zysku na fundusze określone w ust. 1 pkt 1 i 3 ustala Prezes NBP w porozumieniu z Ministrem Finansów. 10. Prezes NBP w porozumieniu z Ministrem Finansów może tworzyć inne fundusze specjalne. 11. Zasady wykorzystania funduszy: inwestycyjnego, dewizowego, ryzyka i postępu techniczno-ekonomicznego ustala Prezes NBP, a funduszu premiowego i funduszu zapomóg - Prezes NBP, w porozumieniu z radami pracowniczymi i związkami zawodowymi. 12. Zasady wykorzystywania zakładowych funduszy: nagród, socjalnego i mieszkaniowego regulują odrębne przepisy."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "NBP prowadzi własną gospodarkę finansową z uwzględnieniem założeń narodowego planu społeczno-gospodarczego. Plan finansowy na każdy rok uchwala Zarząd NBP."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. Wielkość środków finansowych na wynagrodzenia ustalana jest w relacji do zadań bankowych. Zasady kształtowania tych środków ustala Prezes NBP, w porozumieniu z Ministrem Pracy i Polityki Socjalnej. 2. Zasady wynagradzania pracowników NBP ustala Prezes NBP po zasięgnięciu opinii Ministra Pracy i Polityki Socjalnej."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "NBP prowadzi rachunkowość według planu kont i jednolitych zasad rachunkowości ustalanych przez Prezesa NBP."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Rada Ministrów, na wniosek Ministra Finansów, powołuje komisję rewizji bilansu NBP, której zadaniem jest zbadanie i ocena bilansu rocznego. 2. Prezes NBP w terminie do 30 kwietnia roku następnego po okresie sprawozdawczym przedstawia do zatwierdzenia Radzie Ministrów bilans NBP. 3. Roczne sprawozdanie z działalności NBP Prezes NBP przedstawia do rozpatrzenia Sejmowi."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Część zysku bilansowego NBP, po dokonaniu przewidzianych w ustawie odpisów na fundusze, podlega odprowadzeniu do budżetu centralnego w terminie 30 dni od daty zatwierdzenia bilansu NBP przez Radę Ministrów. Rozdział 12 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "W ustawie z dnia 26 lutego 1982 r. o planowaniu społeczno-gospodarczym ( Dz. U. z 1987 r. Nr 4, poz. 26 i Nr 33, poz. 181 oraz z 1988 r. Nr 20, poz. 134 i Nr 41, poz. 327 ) w art. 27 ust. 3 otrzymuje brzmienie: „ 3. Prezes NBP przedstawia Sejmowi, po rozpatrzeniu przez Radę Ministrów, projekt planu kredytowego i projekt założeń polityki pieniężno-kredytowej państwa. ”"
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "1. Zadania NBP określone w ustawie z dnia 26 lutego 1982 r. - Prawo bankowe ( Dz. U. Nr 7, poz. 56 , z 1983 r. Nr 71, poz. 318 i z 1987 r. Nr 33, poz. 181 ) oraz w ustawie z dnia 26 lutego 1982 r. o statucie Narodowego Banku Polskiego ( Dz. U. Nr 7, poz. 57 , z 1985 r. Nr 32, poz. 141 i Nr 36, poz. 170 oraz z 1986 r. Nr 39, poz. 192 ) , polegające na otwieraniu i prowadzeniu rachunków bankowych dla jednostek gospodarki uspołecznionej, prowadzeniu rozliczeń pieniężnych tych jednostek oraz udzielaniu im kredytów, przechodzą do zakresu działania banków państwowych rozpoczynających działalność, zwanych dalej „bankami państwowymi”. 2. Jednostki organizacyjne wykonujące zadania określone w ust. 1 zostają wydzielone z NBP i włączone w skład banków państwowych przejmujących te zadania. 3. Pracownicy jednostek organizacyjnych określonych w ust. 2 oraz pracownicy innych jednostek i komórek organizacyjnych NBP, których listę ustali Prezes NBP, stają się z mocy prawa pracownikami banków państwowych. Do praw i obowiązków tych pracowników stosuje się przepisy pragmatyki służbowej NBP. 4. Prezes NBP ustali: 1) szczegółowy zakres zadań przechodzących z NBP do zakresu działania poszczególnych banków państwowych, 2) jednostki organizacyjne podlegające wydzieleniu z NBP wraz ze składnikami majątkowymi i przekazaniu poszczególnym bankom państwowym, 3) zakres, w jakim poszczególne banki państwowe przejmą wierzytelności i długi NBP, oraz uprawnienia i obowiązki wynikające z umów zawartych przez NBP, 4) wielkość kwot, jakie NBP przekaże poszczególnym bankom państwowym na utworzenie lub powiększenie ich funduszy statutowego i rezerwowego oraz określonych funduszy specjalnych, 5) tymczasową strukturę organizacyjną poszczególnych banków państwowych oraz tryb przejęcia przez nie z NBP składników majątkowych."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Traci moc ustawa z dnia 26 lutego 1982 r. o statucie Narodowego Banku Polskiego ( Dz. U. Nr 7, poz. 57 , z 1985 r. Nr 32, poz. 141 i Nr 36, poz. 170 oraz z 1986 r. Nr 39, poz. 192 ) ."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "1. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie obowiązują dotychczasowe przepisy wykonawcze, o ile nie są sprzeczne z przepisami tej ustawy. 2. Prezes NBP w terminie do 30 września 1989 r. ogłosi w Dzienniku Urzędowym Narodowego Banku Polskiego wykaz obowiązujących dotychczasowych przepisów wykonawczych."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z wyjątkiem art. 79 ust. 4, który wchodzi w życie z mocą od dnia 1 lutego 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_6-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_6-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_6-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Emisja znaków pieniężnych\",\"children\": [{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_2-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_2-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_15-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Współudział w kształtowaniu polityki gospodarczej i polityki pieniężno-kredytowej państwa\",\"children\": [{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"chpt_3-arti_18-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_3-arti_18-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_3-arti_18-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_3-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_19-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_19-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_3-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_3-arti_20-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_20-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_3-arti_20-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_3-arti_20-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_3-arti_20-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_20-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_3-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Działalność kredytowa\",\"children\": [{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_4-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_4-arti_23-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_23-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_23-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_4-arti_24-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_24-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_24-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_4-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_4-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_4-arti_26-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_4-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_4-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_4-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Prowadzenie rachunków bankowych\",\"children\": [{\"id\": \"chpt_5-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_5-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_5-arti_29-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_29-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_29-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_5-arti_29-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_5-arti_29-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_5-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_6\",\"symbol\": \"chpt_6\",\"type\": \"chpt\",\"name\": \"6\",\"title\": \"Rozdział 6 - Gromadzenie rezerw obowiązkowych\",\"children\": [{\"id\": \"chpt_6-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_6-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_6-arti_30-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_6-arti_30-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_6-arti_30-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_6-arti_30-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_6-arti_30-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_6-arti_30-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_6-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"chpt_6-arti_31-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_6-arti_31-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_6-arti_31-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_6-arti_31-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_6-arti_31-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_6-arti_31-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_6-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"chpt_6-arti_32-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_6-arti_32-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]"
+    }
+  ],
+  "definitions": []
+}

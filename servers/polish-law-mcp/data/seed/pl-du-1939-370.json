@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1939-370",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 czerwca 1939 r. o uregulowaniu stanu prawnego majątków Kościoła Prawosławnego.",
+  "title_en": "",
+  "short_name": "pl-du-1939-370",
+  "status": "repealed",
+  "issued_date": "1939-06-23",
+  "in_force_date": "1939-06-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/370",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa niniejsza stosuje się do nieruchomości i praw rzeczowych (prawa użytkowania, służebności, ciężary realne, hipoteki itp.), które w dniu 11 listopada 1918 r. należały do osób prawnych Kościoła Prawosławnego na obszarze Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Nieruchomości i prawa (art. 1), które w dniu 19 listopada 1938 r. znajdowały się w posiadaniu osób prawnych Polskiego Autokefalicznego Kościoła Prawosławnego bez sprzeciwu właściwych władz państwowych lub osób trzecich, uznaje się za własność tych osób prawnych. Przez posiadanie rozumie się władanie faktyczne jawne, spokojne, we własnym imieniu i w dobrej wierze, tak jakby się było właścicielem, jeżeli władanie to nie było sprzeczne z innym przeznaczeniem tych nieruchomości, wynikającym z obowiązujących przepisów, a w szczególności z rozporządzenia Komisarza Generalnego Ziem Wschodnich z dnia 22 października 1919 r. (Dz. U. Z. C. Z. W. Nr 25, poz. 256). (2) Nieruchomości i prawa (art. 1): 1) objęte w zarząd państwowy na podstawie dekretu z dnia 16 grudnia 1918 r. ( Dz. P. P. P. Nr 21, poz. 67 ) , 2) przejęte na własność Państwa na podstawie ustawy z dnia 17 grudnia 1920 r. ( Dz. U. R. P. z 1921 r. Nr 4, poz. 17 ) , które w dniu 19 listopada 1938 r. znajdowały się za wiedzą i bez sprzeciwu właściwych władz państwowych w faktycznym i spokojnym władaniu osób prawnych Polskiego Autokefalicznego Kościoła Prawosławnego, uznaje się również za własność tych osób prawnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Nieruchomości i prawa (art. 1), nie podpadające pod przepisy art. 2, uznaje się za własność Skarbu Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wzajemne roszczenia prywatnoprawne między Skarbem Państwa a osobami prawnymi Polskiego Autokefalicznego Kościoła Prawosławnego z tytułu użytkowania nieruchomości i wykonywania praw, o których mowa w art. 1, ulegają umorzeniu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Wpisania do księgi hipotecznej na rzecz osób prawnych Polskiego Autokefalicznego Kościoła Prawosławnego nieruchomości i praw, o których mowa w art. 2, dokonywa się na rzecz tych osób prawnych, które w dniu 19 listopada 1938 r. te nieruchomości i prawa posiadały, wyłącznie na podstawie deklaracji właściwego biskupa diecezjalnego, poświadczonej przez właściwego wojewodę. (2) Deklaracja powinna zawierać dokładne określenie nieruchomości, podanie okoliczności i dowodów, stwierdzających istnienie warunków art. 1 i 2 oraz wymienienie osoby prawnej Polskiego Autokefalicznego Kościoła Prawosławnego, na rzecz której zgodnie z ust. (1) nastąpi wpis hipoteczny, (3) Deklaracja ta powinna być przedłożona właściwemu wojewodzie w okresie lat pięciu od dnia wejścia w życie ustawy niniejszej. Nieruchomości i prawa, podpadające pod przepisy art. 2, a nie zgłoszone deklaracją w tym terminie, przechodzą na własność Skarbu Państwa. (4) Deklaracje biskupów diecezjalnych oraz wpisy hipoteczne, dokonane na podstawie tych deklaracyj, są wolne od opłat stemplowych i sądowych. (5) Opłaty pisarzy hipotecznych ponoszą osoby prawne Polskiego Autokefalicznego Kościoła Prawosławnego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Przepisy ustawy niniejszej nie naruszają praw osób trzecich."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza nie narusza praw osób prawnych Polskiego Autokefalicznego Kościoła Prawosławnego do majątków, nabytych przez te osoby prawne po dniu 11 listopada 1918 r."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego w porozumieniu z Ministrami: Sprawiedliwości, Spraw Wewnętrznych oraz Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_(1\",\"symbol\": \"pint_(1\",\"type\": \"pint\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pint_(2\",\"symbol\": \"pint_(2\",\"type\": \"pint\",\"name\": \"(2\",\"title\": \"(2)\",\"children\": [{\"id\": \"arti_2-pint_(2-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_(2-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pint_(1\",\"symbol\": \"pint_(1\",\"type\": \"pint\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pint_(2\",\"symbol\": \"pint_(2\",\"type\": \"pint\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_5-pint_(3\",\"symbol\": \"pint_(3\",\"type\": \"pint\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_5-pint_(4\",\"symbol\": \"pint_(4\",\"type\": \"pint\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_5-pint_(5\",\"symbol\": \"pint_(5\",\"type\": \"pint\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

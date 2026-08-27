@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1931-810",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 listopada 1931 r. o opłatach sądowych w sprawach rejestrowego zastawu rolniczego.",
+  "title_en": "",
+  "short_name": "pl-du-1931-810",
+  "status": "in_force",
+  "issued_date": "1931-11-07",
+  "in_force_date": "1931-12-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/810",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Za wpis prawa zastawu do rejestru zastawu rolniczego pobierana będzie opłata według następujących stawek: przy wierzytelnościach: do 2.000 zł. włącznie: za każde rozpoczęte 200 zł . 40 gr. ponad 2.000 zł. do 20.000 zł. włącznie: za pierwsze 2.000 zł. 4 zł. od nadwyżki za każde rozpoczęte 1.000 zł. 1 zł. 50 gr. ponad 20.000 zł. do 100.000 zł. włącznie: za pierwsze 20.000 zł. 31 zł. od nadwyżki za każde rozpoczęte 5.000 zł. 5 zł. ponad 100.000 zł.: za pierwsze 100.000 zł. 111 zł. od nadwyżki za każde rozpoczęte 10.000 zł. 5 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Za wpis prawa zastawu dla kaucji, jako też za wpis przeniesienia prawa zastawu na rzecz innej osoby pobierana będzie połowa opłaty, przewidzianej w poprzednim artykule."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wszelkie inne wpisy w rejestrze zastawowym poza wymienionemi w poprzednich artykułach nie podlegają opłacie."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Opłata za wpis tego samego prawa pobierana będzie raz jeden, choćby wpis dokonany został w dwu lub więcej rejestrach zastawowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W razie odmówienia wpisu lub opłacenia wpisu wolnego od opłaty będzie wnioskodawcy na jego żądanie zwrócona opłata za wpis, zgóry uiszczona. Również podlega zwrotowi nadwyżka opłaty, jeżeli uiszczono opłatę w sumie wyższej niż przewiduje niniejsza ustawa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Wszelkie wnioski, składane do sądu rejestrowego, podlegają opłacie: przy wartości: do 1.000 zł. włącznie 1 zł. ponad 1.000 zł. do 5.000 zł. włącznie 3 zł. ponad 5.000 zł. 5 zł. (2) Opłacie powyższej podlega jedynie pierwszy egzemplarz wniosku. Odpisy wniosku, jak również załączniki do niego wolne są od opłaty."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Środki odwoławcze od uchwał (decyzyi), wydanych w postępowaniu rejestrowem, podlegają podwójnej opłacie, oznaczonej w poprzednim artykule."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Za wyciągi z rejestru zastawowego pobierana będzie opłata w wysokości 3 zł. od każdego arkusza. (2) Wolne są od opłaty poświadczenia zgodności z oryginałem odpisów, przeznaczonych dla księgi załączników. (3) Opłata ryczałtowa pobierana nie będzie."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "(1) W sprawach rejestrowego zastawu opłaty sądowe winny być uiszczane równocześnie ze złożeniem wniosku. Nieuiszczenie opłaty w sumie należnej powoduje wstrzymanie czynności, której wniosek dotyczy. O powyższem należy zawiadomić wnioskodawcę i wezwać go do uiszczenia opłaty w terminie tygodniowym. Od tych zarządzeń niema odwołania. (2) W razie nieuiszczenia w powyższym terminie należnej opłaty wniosek będzie pozostawiony bez uwzględnienia."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "O ile niniejsza ustawa nie stanowi inaczej, w sprawach rejestrowego zastawu rolniczego będą miały zastosowanie ogólne przepisy o opłatach sądowych."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom Sprawiedliwości i Skarbu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie siedmiu dni po dniu ogłoszenia. Z dniem tym tracą moc wszelkie sprzeczne z nią przepisy. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_9-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

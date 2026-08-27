@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1921-99",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lutego 1921 r. w sprawie delegatów od miast w sejmikach powiatowych.",
+  "title_en": "",
+  "short_name": "pl-du-1921-99",
+  "status": "repealed",
+  "issued_date": "1921-02-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/99",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do ustępu 1 art. 1 dekretu o tymczasowej ordynacji wyborczej do sejmików powiatowych z dnia 5 grudnia 1918 r. (Dz. Praw № 19, poz. 51) dodać należy następujące słowa: „ Jednakże miasta, liczące od 10,001 do 15 000 mieszkańców, wybierają trzech, miasta, liczące od 15 001 do 20,000 mieszkańców, wybierają czterech, a liczące więcej niż 20,000 mieszkańców, wybierają pięciu delegatów ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie jej powierza się Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

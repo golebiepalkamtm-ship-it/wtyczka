@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-11",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 grudnia 1924 r. w przedmiocie przyłączenia miejscowości Bursztych, Janowo, Kramrowo, Nowe Lignowy i Małe Polko do obwodu sądowego sądu powiatowego w Gniewie.",
+  "title_en": "",
+  "short_name": "pl-du-1925-11",
+  "status": "in_force",
+  "issued_date": "1924-12-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/11",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Miejscowości Bursztych, Janowo, Kramrowo, Nowe Lignowy i Małe Polko, położone w powiecie gniewskim, województwie pomorskiem, przyłącza się do obwodu sądowego sądu powiatowego w Gniewie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie z chwilą jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

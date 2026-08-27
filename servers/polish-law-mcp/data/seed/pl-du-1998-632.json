@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-632",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lipca 1998 r. o zmianie ustawy o statystyce publicznej.",
+  "title_en": "",
+  "short_name": "pl-du-1998-632",
+  "status": "amended",
+  "issued_date": "1998-07-25",
+  "in_force_date": "1998-08-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/632",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej ( Dz. U. Nr 88, poz. 439 , z 1996 r. Nr 156, poz. 775 oraz z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 ) wprowadza się następujące zmiany: 1) w art. 7 w ust. 1 wyrazy „w trybie art. 31 i 32” zastępuje się wyrazami „w tym programie” ; 2) art. 18 otrzymuje brzmienie: „ Art. 18. Program badań statystycznych statystyki publicznej ustala Rada Ministrów, w drodze rozporządzenia, określając dla każdego badania: 1) temat i organ prowadzący badanie, 2) rodzaj badania, 3) zakres podmiotowy i przedmiotowy oraz źródła zbieranych danych statystycznych, 4) podmioty gospodarki narodowej i osoby fizyczne nie prowadzące działalności gospodarczej zobowiązane do udzielania informacji i przekazywania danych statystycznych lub uczestniczące w badaniu na zasadzie dobrowolności, 5) formy, częstotliwość, terminy i miejsce przekazywania danych statystycznych, 6) rodzaje wynikowych informacji statystycznych oraz formy i terminy ich udostępnienia, 7) koszty i sposób finansowania. ” ; 3) w art. 30 w pkt 3 wyrazy „w przepisach wydanych na podstawie art. 31-33” zastępuje się wyrazami „w programie badań statystycznych statystyki publicznej oraz w przepisach wydanych na podstawie art. 31” ; 4) art. 31 otrzymuje brzmienie: „ Art. 31. Prezes Rady Ministrów określa, w drodze rozporządzenia, wzory formularzy sprawozdawczych i objaśnienia co do sposobu ich wypełniania oraz wzory kwestionariuszy i ankiet statystycznych stosowanych w badaniach statystycznych ustalonych w programie badań statystycznych statystyki publicznej. ” ; 5) skreśla się art. 32-34; 6) w art. 38 ust. 3 otrzymuje brzmienie: „ 3. Prezes Rady Ministrów określa, w drodze rozporządzenia, tryb i formy ogłaszania, udostępniania i rozpowszechniania wynikowych informacji statystycznych. ” ; 7) w art. 40 skreśla się ust. 4-6; 8) w art. 42 skreśla się ust. 3 i 9; 9) w art. 43 skreśla się ust. 4; 10) w art. 44 w ust. 2 w pkt 2 wyrazy „i Narodowemu Bankowi Polskiemu” zastępuje się wyrazami „, Narodowemu Bankowi Polskiemu, Państwowej Inspekcji Pracy oraz Generalnemu Inspektorowi Ochrony Danych Osobowych” ; 11) w art. 45 ust. 1 otrzymuje brzmienie: „ 1. W zakresie informacji, o których mowa w art. 42 ust. 1 pkt 1 i 3-6 (z wyłączeniem identyfikatora systemu ewidencji ludności oraz miejsca zamieszkania osoby fizycznej prowadzącej działalność gospodarczą), oraz numeru identyfikacyjnego rejestr podmiotów jest jawny i dostępny dla osób trzecich w formach określonych w ust. 2 i 3. ” ; 12) art. 46 otrzymuje brzmienie: „ Art. 46. Rada Ministrów określa, w drodze rozporządzenia, sposób i metodologię prowadzenia i aktualizacji rejestru podmiotów, w tym wzory wniosków, ankiet i zaświadczeń, oraz szczegółowe warunki i tryb współdziałania służb statystyki publicznej z innymi organami prowadzącymi urzędowe rejestry i systemy informacyjne administracji publicznej. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy wykonawcze wydane przed dniem wejścia w życie ustawy na podstawie upoważnień zawartych w ustawie, o której mowa w art. 1, zmienionych niniejszą ustawą, zachowują moc do czasu wydania przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, jeżeli nie są z nią sprzeczne, nie dłużej jednak niż do dnia 30 czerwca 1999 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 września 1998 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"arti_1-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

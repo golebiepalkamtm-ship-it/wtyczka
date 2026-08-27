@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-40",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 stycznia 1920 r. w sprawie zmiany art. 3 Ustawy z dnia 18 listopada 1919 roku o obrocie ziemiopłodami w roku gospodarczym 1919/20.",
+  "title_en": "",
+  "short_name": "pl-du-1920-40",
+  "status": "repealed",
+  "issued_date": "1920-01-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/40",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 3 Ustawy z dnia 18 listopada 1919 roku o obrocie ziemiopłodami w roku gospodarczym 1919/20 (Dz. Ustaw Rzeczypospolitej Polskiej z 1919 r. № 89, poz. 485) otrzymuje brzmienie następujące: „ Zboża, dostarczone w wykonaniu Ustawy z dnia 29 lipca 1919 r. (Dz. Praw № 64, poz. 381) o obrocie ziemiopłodami, muszą być zaliczone na poczet kontyngentów, nałożonych w myśl niniejszej Ustawy. Zwrot nadwyżki, któraby się z porównania obu kontygentów okazać miała, w żadnym wypadku nie może mieć miejsca. Handel ziemiopłodami, pozostającemi u wytwórców po odstawieniu kontyngentów, jest w granicach Rzeczypospolitej Polskiej wolny z ograniczeniami w niniejszej Ustawie zawartemi. Wytwórcy rolni zamieszkali w poszczególnych miejscowościach (wsiach, osadach, przysiółkach, miasteczkach), mogą pozostałe po oddaniu kontyngentu ilości zboża pozbywać w wolnym handlu dopiero wtedy, gdy wszyscy inni zobowiązani w tejże miejscowości do odstawienia kontyngentu obowiązkowi temu zadośćuczynią. Powiatowa władza administracyjna oznaczy i w sposób zwyczajem przyjęty ogłosi ten termin dla każdej miejscowości, a nadto posiadaczom gospodarstw, obejmujących powyżej sto morgów, którzy swój kontyngent odstawili, udziela indywidualnego zezwolenia na prowadzenie wolnego handlu płodami rolnemi, kontyngentowaniu podlegającemi. Ministrowi Aprowizacji przysługuje prawo zarządzić przymusowy wykup u producentów, posiadających gospodarstwa powyżej 40 morgów ziemi ornej po cenach, oznaczonych przez Ministerstwo Aprowizacji i Ministerstwo Rolnictwa i Dóbr Państwowych, po wysłuchaniu opinji Państwowej Rady Aprowizacyjnej, wszelkich jadalnych ziemiopłodów, tak nieobjętych zarówno jak i objętych niniejszą Ustawą, a pozostałych po dostarczeniu kontyngentu, z uwzględnieniem istotnych potrzeb spożywczych i gospodarczych producentów. Prawo przymusowego wykupu może być stosowane i do ziemiopłodów, znajdujących się w posiadaniu nabywców"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej Ustawy poleca się Ministrowi Aprowizacji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

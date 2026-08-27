@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-18",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 listopada 2014 r. o zmianie ustawy o podatku akcyzowym",
+  "title_en": "",
+  "short_name": "pl-du-2015-18",
+  "status": "amended",
+  "issued_date": "2014-11-28",
+  "in_force_date": "2015-01-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/18",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ( Dz. U. z 2014 r. poz. 752 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877. ) po art. 110 dodaje się art. 110a w brzmieniu: „ Art. 110a. 1. Zwalnia się od akcyzy samochód osobowy stanowiący specjalistyczny środek transportu sanitarnego, przeznaczony do działalności leczniczej polegającej na udzielaniu świadczeń zdrowotnych przez podmioty lecznicze wpisane do rejestru podmiotów wykonujących działalność leczniczą w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej ( Dz. U. z 2013 r. poz. 217 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146, 1491 i 1626. ) , spełniający cechy techniczne i jakościowe określone w Polskich Normach przenoszących europejskie normy zharmonizowane, których szczegółowe dane zostały określone w Polskiej Normie PN-EN 1789+A1. 2. Zwolnienie, o którym mowa w ust. 1, dotyczy ambulansów drogowych: 1) typu B - ambulans ratunkowy; 2) typu C - ruchoma jednostka intensywnej opieki. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 24, 423, 619, 1138, 1146, 1491 i 1626. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

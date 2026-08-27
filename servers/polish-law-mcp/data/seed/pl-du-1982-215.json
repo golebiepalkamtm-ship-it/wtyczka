@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1982-215",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 września 1982 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych.",
+  "title_en": "",
+  "short_name": "pl-du-1982-215",
+  "status": "repealed",
+  "issued_date": "1982-09-16",
+  "in_force_date": "1982-10-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1982/215",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. Nr 24, poz. 110 ) wprowadza się następujące zmiany: 1) art. 37 otrzymuje brzmienie: „ Art. 37. Minister Sprawiedliwości określa w drodze rozporządzenia wysokość wpisów w poszczególnych rodzajach spraw. ” ; 2) w art. 39 po ust. 2 dodaje się ust. 3 i 4 w brzmieniu: „ 3. W razie złożenia rewizji nadzwyczajnej opłata kancelaryjna od podania podlega zwrotowi. 4. Organ, do którego wniesione zostało podanie o złożenie rewizji nadzwyczajnej, może zwolnić od obowiązku uiszczenia opłaty kancelaryjnej od podania osobę fizyczną, która wykazała, że ze względu na swoją sytuację rodzinną, majątkową i wysokość dochodów nie jest w stanie uiścić tej opłaty. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

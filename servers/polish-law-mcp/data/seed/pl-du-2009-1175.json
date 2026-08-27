@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-1175",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 2009 r. o zmianie ustawy o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi",
+  "title_en": "",
+  "short_name": "pl-du-2009-1175",
+  "status": "amended",
+  "issued_date": "2009-07-16",
+  "in_force_date": "2009-09-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1175",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi ( Dz. U. z 2007 r. Nr 70, poz. 473 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 115, poz. 793 i Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97. ) w art. 40 ust. 3b otrzymuje brzmienie: „ 3b. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca doprowadzenia lub zatrzymania. Do rozpoznania zażalenia stosuje się przepisy Kodeksu postępowania karnego . Skarżący ma prawo wziąć udział w posiedzeniu sądu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2007 r. Nr 115, poz. 793 i Nr 176, poz. 1238, z 2008 r. Nr 227, poz. 1505 oraz z 2009 r. Nr 18, poz. 97. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

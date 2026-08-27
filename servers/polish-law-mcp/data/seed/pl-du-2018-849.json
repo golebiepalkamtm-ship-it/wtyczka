@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2018-849",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego",
+  "title_en": "",
+  "short_name": "pl-du-2018-849",
+  "status": "in_force",
+  "issued_date": "2018-04-12",
+  "in_force_date": "2018-05-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/849",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 13 grudnia 2016 r. - Przepisy wprowadzające ustawę o organizacji i trybie postępowania przed Trybunałem Konstytucyjnym oraz ustawę o statusie sędziów Trybunału Konstytucyjnego ( Dz. U. poz. 2074 ) art. 19 otrzymuje brzmienie: „ Art. 19. Rozstrzygnięcia Trybunału podjęte z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym ( Dz. U. z 2016 r. poz. 293 ) albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym ( Dz. U. poz. 1157 ) , wydane przed dniem wejścia w życie ustawy, o której mowa w art. 1, podlegają ogłoszeniu w odpowiednich dziennikach urzędowych po zarządzeniu ich ogłoszenia przez Prezesa Trybunału albo sędziego pełniącego obowiązki Prezesa Trybunału. Jeżeli rozstrzygnięcia, podjęte z naruszeniem przepisów, o których mowa w zdaniu pierwszym, dotyczyły aktów normatywnych, które utraciły moc obowiązującą, ogłasza się je w odpowiednich dziennikach urzędowych z zaznaczeniem tych okoliczności. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prezes Trybunału Konstytucyjnego zarządza ogłoszenie w odpowiednim dzienniku urzędowym rozstrzygnięć Trybunału Konstytucyjnego wydanych z naruszeniem przepisów ustawy z dnia 25 czerwca 2015 r. o Trybunale Konstytucyjnym ( Dz. U. z 2016 r. poz. 293 ) albo ustawy z dnia 22 lipca 2016 r. o Trybunale Konstytucyjnym ( Dz. U. poz. 1157 ) , stosownie do art. 1 niniejszej ustawy, w terminie 7 dni od dnia jej wejścia w życie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

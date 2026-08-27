@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-2000-1188",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 2000 r. o sposobie obliczania wartości rocznego produktu krajowego brutto.",
+  "title_en": "",
+  "short_name": "pl-du-2000-1188",
+  "status": "in_force",
+  "issued_date": "2000-10-26",
+  "in_force_date": "2000-12-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2000/1188",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa sposób obliczania wartości rocznego produktu krajowego brutto."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sposób obliczania wartości rocznego produktu krajowego brutto, zwanego dalej „PKB”, polega na oszacowaniu trzech równych co do wartości kategorii makroekonomicznych, określających PKB poprzez: 1) rozmiary działalności produkcyjnej, 2) końcowy rezultat działalności produkcyjnej, 3) sumę dochodów pierwotnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. PKB w przypadku, o którym mowa w art. 2 pkt 1, obliczany jest w cenach rynkowych i równa się sumie wartości dodanej krajowych jednostek produkcyjnych powiększonej o podatki od produktów i pomniejszonej o dotacje do produktów. 2. PKB w przypadku, o którym mowa w art. 2 pkt 2, obliczany jest jako suma popytu finalnego, tj. spożycia, akumulacji oraz salda wymiany produktów z zagranicą. 3. PKB w przypadku, o którym mowa w art. 2 pkt 3, obliczany jest jako suma dochodów pierwotnych jednostek krajowych uzyskiwanych przez sektory instytucjonalne działające na terytorium Rzeczypospolitej Polskiej oraz dochodów pierwotnych netto sektora zagranica."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rada Ministrów określi, w drodze rozporządzenia, szczegółową metodykę obliczania wartości rocznego PKB, w tym w szczególności kategorie, jednostki klasyfikacyjne i schematy rachunków stosowane do obliczania PKB, uwzględniając obowiązujące standardy międzynarodowe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prezes Głównego Urzędu Statystycznego oblicza wartość rocznego PKB w sposób, o którym mowa w art. 2 i art. 3, zgodnie z metodyką, o której mowa w art. 4, i ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” pierwszy szacunek za dany rok w terminie do dnia 15 maja roku następnego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Prezes Głównego Urzędu Statystycznego oblicza średnią wartość PKB na jednego mieszkańca zgodnie z metodyką, o której mowa w art. 4, za okres ostatnich trzech lat dla obszarów określonych w trybie ust. 2 i ogłasza w drodze obwieszczenia w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” w terminie do dnia 31 października drugiego roku po roku kończącym okres ostatnich trzech lat, z zastrzeżeniem ust. 3. 2. Rada Ministrów określi, w drodze rozporządzenia, obszary, o których mowa w ust. 1, z uwzględnieniem Nomenklatury Jednostek Terytorialnych do Celów Statystycznych na poziomie województw (NTS2) i podregionów (NTS3). 3. W pierwszych trzech latach obowiązywania ustawy Prezes Głównego Urzędu Statystycznego jest obowiązany do obliczenia i ogłoszenia szacunku PKB, o którym mowa w ust. 1: 1) za rok 1998 - w terminie do dnia 31 grudnia 2000 r., 2) za lata 1998-1999 - w terminie do dnia 31 października 2001 r., 3) za lata 1998-2000 - w terminie do dnia 31 października 2002 r."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_6-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

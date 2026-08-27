@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-433",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 2009 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi",
+  "title_en": "",
+  "short_name": "pl-du-2009-433",
+  "status": "amended",
+  "issued_date": "2009-02-12",
+  "in_force_date": "2009-04-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/433",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ( Dz. U. Nr 153, poz. 1270 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650 oraz z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367. ) art. 73 otrzymuje brzmienie: „ Art. 73. § 1. W razie niemożności doręczenia pisma w sposób przewidziany w art. 65-72, pismo składa się na okres czternastu dni w placówce pocztowej albo w urzędzie gminy, dokonując jednocześnie zawiadomienia określonego w § 2. § 2. Zawiadomienie o złożeniu pisma wraz z informacją o możliwości jego odbioru w placówce pocztowej albo w urzędzie gminy w terminie siedmiu dni od dnia pozostawienia zawiadomienia, umieszcza się w oddawczej skrzynce pocztowej, a gdy to nie jest możliwe, na drzwiach mieszkania adresata lub w miejscu wskazanym jako adres do doręczeń, na drzwiach biura lub innego pomieszczenia, w którym adresat wykonuje swoje czynności zawodowe. § 3. W przypadku niepodjęcia pisma w terminie, o którym mowa w § 2, pozostawia się powtórne zawiadomienie o możliwości odbioru pisma w terminie nie dłuższym niż czternaście dni od dnia pierwszego zawiadomienia o złożeniu pisma w placówce pocztowej albo w urzędzie gminy. § 4. Doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w § 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 162, poz. 1692, z 2005 r. Nr 94, poz. 788, Nr 169, poz. 1417, Nr 250, poz. 2118 i Nr 264, poz. 2205, z 2006 r. Nr 38, poz. 268, Nr 208, poz. 1536 i Nr 217, poz. 1590, z 2007 r. Nr 120, poz. 818, Nr 121, poz. 831 i Nr 221, poz. 1650 oraz z 2008 r. Nr 190, poz. 1171 i Nr 216, poz. 1367. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

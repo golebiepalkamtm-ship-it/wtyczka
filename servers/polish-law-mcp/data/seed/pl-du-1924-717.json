@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1924-717",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lipca 1924 r. w przedmiocie uzupełnienia art. 20 konwencji handlowej między Polską a Francją, podpisanej dnia 6 lutego 1922 r.",
+  "title_en": "",
+  "short_name": "pl-du-1924-717",
+  "status": "in_force",
+  "issued_date": "1924-07-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/717",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na uzupełnienie przez Prezydenta Rzeczypospolitej art. 20 konwencji handlowej polsko - francuskiej z dnia 6 lutego 1922 r. (Dz. U. R. P. № 50 poz. 442) przez dodanie trzeciego ustępu o brzmieniu następującem: „ Od dnia uprawomocnienia się rozporządzenia Prezydenta Rzeczypospolitej, wprowadzającego zrewidowaną taryfę celną, do dnia 19 września 1924 r. włącznie konwencja niniejsza może być wypowiedziana każdego dnia i wygasa w miesiąc po wypowiedzeniu ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Z dniem 20 września 1924 r. przywraca się pierwotne brzmienie art. 20 powyższej konwencji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

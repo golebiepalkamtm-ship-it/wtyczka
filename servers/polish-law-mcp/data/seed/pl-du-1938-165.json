@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1938-165",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 marca 1938 r. o finansowaniu niektórych inwestycyj z funduszów państwowych w okresie do 31 marca 1939 r.",
+  "title_en": "",
+  "short_name": "pl-du-1938-165",
+  "status": "in_force",
+  "issued_date": "1938-03-25",
+  "in_force_date": "1938-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/165",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się: A) Ministra Skarbu do przeprowadzenia operacyj kredytowych do wysokości 65.080.000 zł na pokrycie w okresie do dnia 31 marca 1939 r. wydatków na następujące cele inwestycyjne: a) na elektryfikację kraju do wysokości.......12.000.000 zł b) na gazyfikację kraju do wysokości........ 4.000.000 zł c) na inwestycje morskie do wysokości........ 4.300.000 zł d) na budowle wodne śródlądowe do wysokości.....18.000.000 zł e) na melioracje wodne w rolnictwie do wysokości... 3.000000 zł f) na budownictwo wiejskie do wysokości.......5.000.000 zł g) na budownictwo państwowe: 1) w zarządzie Ministerstwa Spraw Wewnętrznych do wysokości......5.000.000 zł 2) w zarządzie Ministerstwa Skarbu do wysokości.. 1.000.000 zł 3) w zarządzie Ministerstwa Sprawiedliwości do wysokości........ 4.000000 zł 4) w zarządzie Ministerstwa Wyznań Religijnych i Oświecenia Publicznego do wysokości ......7.780.000 zł 5) w zarządzie Ministerstwa Opieki Społecznej do wysokości....... 1.000.000 zł. B) Ministra Komunikacji do przeprowadzenia w imieniu przedsiębiorstwa „Polskie Koleje Państwowe” operacyj kredytowych do wysokości 60.000.000 zł na pokrycie w okresie do dnia 31 marca 1939 r. wydatków na cele inwestycyjne tegoż przedsiębiorstwa; C) Ministra Poczt i Telegrafów do przeprowadzenia w imieniu przedsiębiorstwa „Polska Poczta, Telegraf i Telefon” operacyj kredytowych do wysokości 10.000.000 zł na pokrycie w okresie do dnia 31 marca 1939 r. wydatków na cele inwestycyjne tegoż przedsiębiorstwa oraz na udzielenie dotacyj na inwestycje przedsiębiorstwa „Państwowe Zakłady Tele- i Radiotechniczne”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Bliższe warunki operacyj kredytowych, przewidzianych w art. 1 pkt A), oraz zasady wydatkowania uzyskanych funduszów ustali Minister Skarbu w porozumieniu z właściwymi ministrami. Analogiczne uprawnienia co do operacyj kredytowych, przewidzianych w art. 1 pkt B), służą Ministrowi Komunikacji w porozumieniu z Ministrem Skarbu, a w art. 1 pkt C) - Ministrowi Poczt i Telegrafów w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podział miesięczny funduszów, uzyskanych w drodze operacyj kredytowych na cele, wymienione w art. 1, przeprowadza Minister Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Minister Skarbu ma prawo kwoty niewyzyskane przy wykonaniu poszczególnych inwestycyj, wymienionych w art. 1, przeznaczyć na pokrycie kosztów innych inwestycyj, ustalonych w art. 1, z wyjątkiem wymienionych w art. 1 pkt A) pod lit. g) punkty 1), 2), 3) i 5)."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wydatki na cele inwestycyjne (art. 1) mogą być w razie niewyczerpania przewidzianych na ten cel funduszów dokonywane po dniu 31 marca 1939 r., jednakże nie dłużej niż do dnia 31 grudnia 1939 r."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Sprawozdanie ze sposobu zużycia wpływów, uzyskanych z operacyj kredytowych, przeprowadzonych na podstawie art. 1, będzie włączone do ogólnego zamknięcia rachunków, sporządzonego przez właściwego ministra i podlega ogólnym przepisom o zamknięciach rachunków państwowych oraz absolutorium dla Rządu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu i innym ministrom, każdemu we właściwym mu zakresie działania."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_A\",\"symbol\": \"lett_A\",\"type\": \"lett\",\"name\": \"A\",\"title\": \"A)\",\"children\": [{\"id\": \"arti_1-lett_A-none_a\",\"symbol\": \"none_a\",\"type\": \"none\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_A-none_b\",\"symbol\": \"none_b\",\"type\": \"none\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_A-none_c\",\"symbol\": \"none_c\",\"type\": \"none\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_A-none_d\",\"symbol\": \"none_d\",\"type\": \"none\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-lett_A-none_e\",\"symbol\": \"none_e\",\"type\": \"none\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_1-lett_A-none_f\",\"symbol\": \"none_f\",\"type\": \"none\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_1-lett_A-none_g\",\"symbol\": \"none_g\",\"type\": \"none\",\"name\": \"g\",\"title\": \"g)\",\"children\": [{\"id\": \"arti_1-lett_A-none_g-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-lett_A-none_g-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-lett_A-none_g-none_3\",\"symbol\": \"none_3\",\"type\": \"none\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-lett_A-none_g-none_4\",\"symbol\": \"none_4\",\"type\": \"none\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-lett_A-none_g-none_5\",\"symbol\": \"none_5\",\"type\": \"none\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"arti_1-lett_B\",\"symbol\": \"lett_B\",\"type\": \"lett\",\"name\": \"B\",\"title\": \"B)\"},{\"id\": \"arti_1-lett_C\",\"symbol\": \"lett_C\",\"type\": \"lett\",\"name\": \"C\",\"title\": \"C)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

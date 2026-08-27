@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1988-136",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 maja 1988 r. o ustanowieniu Krzyża Bitwy pod Lenino.",
+  "title_en": "",
+  "short_name": "pl-du-1988-136",
+  "status": "repealed",
+  "issued_date": "1988-05-26",
+  "in_force_date": "1988-07-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1988/136",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustanawia się Krzyż Bitwy pod Lenino."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Krzyż Bitwy pod Lenino, zwany dalej „Krzyżem”, nadaje się uczestnikom bitwy pod Lenino. 2. Krzyż może być nadawany pośmiertnie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Krzyż nadawany jest obywatelom polskim. Może być także nadawany obywatelom innych państw."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Krzyż nadaje się z okazji Dnia Zwycięstwa - 9 maja oraz Dnia Wojska Polskiego - 12 października."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Rada Państwa nadaje Krzyż na wniosek: 1) Ministra Obrony Narodowej - w odniesieniu do osób pełniących czynną służbę wojskową oraz pracowników cywilnych zatrudnionych w jednostkach organizacyjnych podległych Ministrowi Obrony Narodowej, 2) Ministra Spraw Zagranicznych - w odniesieniu do obywateli polskich zamieszkałych za granicą oraz obywateli innych państw, 3) Zarządu Głównego Związku Bojowników o Wolność i Demokrację - w odniesieniu do pozostałych osób. 2. Rada Państwa określa szczegółowy tryb przedstawiania wniosków o nadanie Krzyża oraz sposób jego noszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Odznaką Krzyża jest krzyż równoramienny prosty, o wymiarach 42 mm, srebrzony, oksydowany; na stronie licowej krzyża w części środkowej umieszczony jest orzeł piastowski; na odwrotnej stronie znajduje się napis „Lenino, 12.X.1943”. 2. Krzyż nosi się na wstążce szerokości 37 mm w kolorze żółtym, oblamowanej z dwóch stron wąskimi paskami w kolorze granatowym oraz z pionowym biało-czerwonym paskiem pośrodku szerokości 10 mm. 3. Wzór rysunkowy odznaki Krzyża zawiera załącznik do ustawy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "W sprawach nie uregulowanych w niniejszej ustawie stosuje się przepisy ustawy z dnia 17 lutego 1960 r. o orderach i odznaczeniach ( Dz. U. Nr 10, poz. 66 oraz z 1982 r. Nr 7, poz. 61 ) ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Załącznik - Tekst załącznika (Załącznik do ustawy stanowi oddzielną wkładkę) Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_5-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tekst załącznika\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

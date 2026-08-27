@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2014-929",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 maja 2014 r. o zmianie ustawy o spłacie niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2014-929",
+  "status": "amended",
+  "issued_date": "2014-05-30",
+  "in_force_date": "2014-07-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/929",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 czerwca 2012 r. o spłacie niektórych niezaspokojonych należności przedsiębiorców, wynikających z realizacji udzielonych zamówień publicznych ( Dz. U. poz. 891 oraz z 2013 r. poz. 792 ) wprowadza się następujące zmiany: 1) w art. 4 pkt 1 otrzymuje brzmienie: „ 1) przedsiębiorca - przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ( Dz. U. z 2013 r. poz. 672 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. ) oraz usługodawcę w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ( Dz. U. Nr 47, poz. 278 , z późn. zm. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. ) , który zawarł umowę z wykonawcą udzielonego zamówienia publicznego; ” ; 2) art. 12 otrzymuje brzmienie: „ Art. 12. Jeżeli zabezpieczenie, o którym mowa w art. 147 ustawy z dnia 29 stycznia 2004 r. - Prawo zamówień publicznych , zostało wniesione w pieniądzu, nie wchodzi w skład masy upadłości, w przypadku gdy upadłość wykonawcy ogłoszono po dniu wejścia w życie ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W przypadku gdy termin na dokonywanie zgłoszeń, otwarty zgodnie z art. 5 ust. 3 ustawy zmienianej w art. 1, upłynął przed dniem wejścia w życie niniejszej ustawy, Generalny Dyrektor Dróg Krajowych i Autostrad spłaca niezaspokojone przez wykonawcę należności główne przedsiębiorcy, który zawarł umowę z wykonawcą w związku z realizacją zamówienia publicznego na roboty budowlane udzielonego przez Generalnego Dyrektora Dróg Krajowych i Autostrad, wyłącznie za zrealizowane i odebrane prace, według zasad spłat określonych w przepisach dotychczasowych. 2. W przypadku gdy w dniu wejścia w życie niniejszej ustawy nie upłynął termin na dokonywanie zgłoszeń, otwarty zgodnie z art. 5 ust. 3 ustawy zmienianej w art. 1, przedsiębiorcy inni niż określeni w art. 4 pkt 1 ustawy zmienianej w art. 1, w brzmieniu dotychczasowym, mogą zgłaszać Generalnemu Dyrektorowi Dróg Krajowych i Autostrad należności, o których mowa w ust. 1, w terminie 21 dni od dnia wejścia w życie niniejszej ustawy. Po upływie tego terminu Generalny Dyrektor Dróg Krajowych i Autostrad sporządza listę przedsiębiorców, o której mowa w art. 5 ust. 3 ustawy zmienianej w art. 1, i zawiadamia przedsiębiorców o umieszczeniu ich na liście."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "w art. 4 pkt 1 otrzymuje brzmienie: „ 1) przedsiębiorca",
+      "definition": "przedsiębiorcę w rozumieniu art. 4 ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej ( Dz. U. z 2013 r. poz. 672 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2013 r. poz. 675, 983, 1036, 1238, 1304 i 1650 oraz z 2014 r. poz. 822. ) oraz usługodawcę w rozumieniu art. 2 ust. 1 pkt 2 ustawy z dnia 4 marca 2010 r. o świadczeniu usług na terytorium Rzeczypospolitej Polskiej ( Dz. U. Nr 47, poz. 278 , z późn. zm. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 112, poz. 654, Nr 227, poz. 1367 i Nr 228, poz. 1368. ) , który zawarł umowę z wykonawcą udzielonego zamówienia publicznego; ”",
+      "source_provision": "art1"
+    }
+  ]
+}

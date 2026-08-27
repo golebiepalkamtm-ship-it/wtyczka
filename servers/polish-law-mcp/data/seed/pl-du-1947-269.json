@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1947-269",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1947 r. o normach i standartach budowlanych.",
+  "title_en": "",
+  "short_name": "pl-du-1947-269",
+  "status": "repealed",
+  "issued_date": "1947-07-03",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1947/269",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dla zapewnienia celowości technicznej, gospodarczej i społecznej budownictwa mogą być w miarę potrzeby ustanawiane normy i standarty budowlane w zakresie wytwórczości materiałów i elementów budowlanych oraz projektowania i budowy budynków."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Normy budowlane mogą określać: a) kształt, wymiary, części składowe, konstrukcję, granice wytrzymałości oraz warunki produkcji, odbioru i zastosowania materiałów i elementów budowlanych lub ich zespołów; b) technikę wykonania projektów robót budowlanych. 2. Standarty budowlane mogą określać minimalny i maksymalny poziom zaspokajania potrzeb w zakresie przestrzeni mieszkalnej i użytkowej oraz wyposażenia budynków."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Normy i standarty budowlane ustanawia Minister Odbudowy. 2. Normy dla wytwórczości, znajdującej się w zakresie działania innego ministra, jak również normy i standarty dla budynków użytkowych, które mają służyć specjalnemu celowi w dziedzinie, administrowanej przez innego ministra, ustanawia Minister Odbudowy w porozumieniu z właściwym ministrem."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Normy i standarty ogłasza się w Monitorze Polskim. 2. Ogłoszenie zawierać będzie określenie rodzaju i zakresu zastosowania normy lub standartu oraz termin, od którego norma lub standart obowiązuje."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. W razie ustanowienia normy lub standartu do stosowania ich obowiązani są: a) w zakresie wytwórczości - wszystkie zakłady, wytwarzające wyroby, których norma dotyczy; b) w zakresie budownictwa - budujący oraz kierownicy budowy i wykonawcy robót budowlanych. 2. Projekty budowli powinny uwzględniać obowiązujące normy i standarty budowlane."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Władze budowlane nadzorują stosowanie obowiązujących norm i standartów w budownictwie. 2. W szczególności władze budowlane nie pozwolą na budowę oraz wstrzymają roboty budowlane w przypadku niezastosowania obowiązujących norm i standartów. 3. Minister Odbudowy może zezwolić na podjęcie wstrzymywanych robót z jednoczesnym pozbawieniem budującego prawa do ulg, wynikających z art. 7, 8 i 9 ustawy o popieraniu budownictwa ."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Prócz norm obowiązujących mogą być wydawane normy zalecone, których stosowanie będzie wskazane dla ułatwienia celowej zabudowy kraju. 2. Normy te zawierać mogą wzorowe projekty budynków, w szczególności dla osiedli wiejskich i pracowniczych. 3. Art. 3 stosuje się odpowiednio. 4. Złożenie projektu, określonego w ust. 2, wraz ze szkicem sytuacyjnym wystarcza przy ubieganiu się o pozwolenie na budowę."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Kto buduje, kieruje budową, wykonywa roboty budowlane lub wytwarza wyroby bez zastosowania obowiązujących w tym zakresie norm lub standartów budowlanych, ulega w trybie administracyjnym karze aresztu do trzech miesięcy lub grzywny do 300.000 zł albo obu tym karom łącznie. 2. Zasądzone kary pieniężne przypadają na rzecz budżetów inwestycyjnych gminy lub związków samorządowych, orzekających karę."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Odbudowy w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-pass_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_5-pass_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-pass_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

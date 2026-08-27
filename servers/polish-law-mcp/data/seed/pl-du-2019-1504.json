@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2019-1504",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 lipca 2019 r. o zmianie ustawy - Kodeks wyborczy oraz ustawy o referendum ogólnokrajowym",
+  "title_en": "",
+  "short_name": "pl-du-2019-1504",
+  "status": "in_force",
+  "issued_date": "2019-07-31",
+  "in_force_date": "2019-08-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1504",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ( Dz. U. z 2019 r. poz. 684 ) wprowadza się następujące zmiany: 1) w art. 244 po § 1 dodaje się § 1a w brzmieniu: „ § 1a. W sprawach, o których mowa w § 1, Sąd Najwyższy orzeka w składzie całej właściwej izby. ” ; 2) w art. 250 w § 2 zdanie pierwsze otrzymuje brzmienie: „ Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. ” ; 3) w art. 282 w § 2 zdanie pierwsze otrzymuje brzmienie: „ Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. ” ; 4) w art. 324: a) § 1 otrzymuje brzmienie: „ § 1. Sąd Najwyższy na podstawie sprawozdania z wyborów przedstawionego przez Państwową Komisję Wyborczą oraz po rozpoznaniu protestów rozstrzyga o ważności wyboru Prezydenta Rzeczypospolitej. ” , b) po § 1 dodaje się § 1a w brzmieniu: „ § 1a. W sprawie, o której mowa w § 1, Sąd Najwyższy orzeka w składzie całej właściwej izby. ” ; 5) w art. 367 w § 2 zdanie pierwsze otrzymuje brzmienie: „ Sąd Najwyższy rozpatruje odwołanie, o którym mowa w § 1, i orzeka w sprawie w terminie 7 dni w postępowaniu nieprocesowym. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym ( Dz. U. z 2019 r. poz. 1444 ) art. 35 otrzymuje brzmienie: „ Art. 35. 1. Sąd Najwyższy rozstrzyga o ważności referendum, podejmując w tej sprawie uchwałę nie później niż w 60 dniu od dnia ogłoszenia wyniku referendum. 2. W sprawie, o której mowa w § 1, Sąd Najwyższy orzeka w składzie całej właściwej izby. 3. Uchwałę o ważności referendum przedstawia się niezwłocznie Prezydentowi Rzeczypospolitej, Marszałkowi Sejmu, Marszałkowi Senatu i Prezesowi Rady Ministrów, a także Państwowej Komisji Wyborczej. 4. Uchwałę o ważności referendum ogłasza się w Dzienniku Ustaw Rzeczypospolitej Polskiej. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do postępowania w sprawie stwierdzenia ważności wyborów do Parlamentu Europejskiego niezakończonego przed dniem wejścia w życie niniejszej ustawy art. 244 ustawy zmienianej w art. 1 stosuje się w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

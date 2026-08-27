@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1922-135",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lutego 1922 r. w przedmiocie dalszych dodatków drożyźnianych do rent ubezpieczeniowych inwalidów, z powodu starości i dla rodzin po ubezpieczonych, zapewnionych ordynacją ubezpieczeniową Rzeszy Niemieckiej z dnia 19 lipca 1911 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-135",
+  "status": "in_force",
+  "issued_date": "1922-02-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/135",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dodatek drożyźniany do renty inwalidów, renty z powodu starości, renty wdów, wdowców i sierot po ubezpieczonych, ustalonych w art. 1 ustawy z dnia 17 marca 1921 r. (Dz. U. R. P. №31, poz. 180) w wysokości dziesięciokrotnej renty ustawowej, podwyższa się na cały czas trwania wyjątkowych wojną wywołanych warunków ekonomicznych do wysokości trzydziestodziewięciokrotnej renty ustawowej, o ile pobierający rentę nie są cudzoziemcami, przebywającymi za granicą."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Udział Państwa w pokryciu świadczeń, określony w §1285 ordynacji ubezpieczeniowej Rzeszy Niemieckiej z dnia 19 lipca 1911 r. (Dz. U. Rz. Niem. str. 509), pomnaża się piętnastokrotnie na czas płacenia dodatków drożyźnianych, ustanowionych w art. 1 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Składka tygodniowa wynosić będzie od dnia 27 lutego 1922 r. na czas płacenia dodatków drożyźnianych, ustanowionych w art. 1 niniejszej ustawy: w klasie zarobkowej I - 10 mk. „ „ II - 15 „ „ „ III - 20 „ „ „ IV - 25 „ „ „ V - 30 „"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Od dnia 27 lutego 1922 r. pracodawcy i pracownicy winni do wnoszenia składek tygodniowych używać wyłącznie znaczków, opiewających na kwoty, wyszczególnione w art. 3 niniejszej ustawy. Znaczki dotychczas ważne, które zasadniczo z dniem 26 lutego 1922 r. tracą wartość, mogą być użyte po dniu 26 lutego 1922 r. tylko do wniesienia składek za czas do dnia 26 lutego 1922 r. włącznie i to najdalej w przeciągu następnych 6 miesięcy. Wyszłe z obiegu znaczki Ubezpieczalni Krajowej można aż do 31 sierpnia 1922 r. wymienić na znaczki nowe równej wartości ogólnej w miejscach sprzedaży znaczków."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Rada Ministrów winna w miarę pogorszenia lub polepszenia się warunków ekonomicznych podwyższyć lub zniżyć, względnie znieść dodatek drożyźniany, przewidziany w art. 1, podwyższyć lub zredukować udział Państwa w pokryciu świadczeń, przewidzianych w art. 2, oraz podwyższyć lub zniżyć składkę, przewidzianą w art. 3 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Z dniem tym tracą swą moc obowiązującą przepisy ustawy z dnia 17 marca 1921 r. (Dz. U. R. P. № 31, poz. 180), o ile są w sprzeczności z niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Prawa, wynikające dla pobierających rentę z art. 1 niniejszej ustawy, obowiązują od 1 marca 1922 r."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,542 @@
+{
+  "id": "pl-du-1936-283",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 kwietnia 1936 r. - Prawo czekowe.",
+  "title_en": "",
+  "short_name": "pl-du-1936-283",
+  "status": "in_force",
+  "issued_date": "1936-04-28",
+  "in_force_date": "1936-05-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/283",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Czek zawiera: 1) nazwę „czek” w samym tekście dokumentu, w języku, w jakim go wystawiono; 2) polecenie bezwarunkowe zapłacenia oznaczonej sumy pieniężnej; 3) nazwisko osoby, która ma zapłacić (trasata); 4) oznaczenie miejsca płatności; 5) oznaczenie daty i miejsca wystawienia czeku; 6) podpis wystawcy czeku."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nie będzie uważany za czek dokument, któremu brak jednej z cech, wskazanych w artykule poprzedzającym, wyjąwszy przypadki, określone w ustępach następujących. W braku osobnego oznaczenia, miejsce wymienione obok nazwiska trasata, uważa się za miejsce płatności. Jeżeli obok nazwiska trasata wymieniono kilka miejsc, czek jest płatny w miejscu, wymienionem najpierw. W braku takiego lub wszelkiego innego oznaczenia, czek jest płatny w miejscu wystawienia. Czek, w którym nie oznaczono miejsca wystawienia, uważa się za wystawiony w miejscu, podanem obok nazwiska wystawcy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Czek wystawia się na bankiera, który ma fundusze do rozporządzenia wystawcy, zgodnie z wyraźną lub dorozumianą umową, uprawniającą wystawcę do rozporządzania temi funduszami zapomocą czeku. Wszakże dokument, wystawiony bez zachowania tego przepisu, pozostaje mimo to ważny jako czek. W czekach, wystawionych i płatnych w Polsce, można jako trasata wskazać jedynie bankiera. Polecenie zapłaty, które nie odpowiada temu przepisowi, jest jako czek nieważne."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Czek nie ulega przyjęciu. Wzmiankę o przyjęciu, umieszczoną na czeku, uważa się za nienapisaną."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Czek może być wystawiony: na określoną osobę z dodaniem wyraźnego zastrzeżenia „na zlecenie” lub bez takiego zastrzeżenia; na określoną osobę z dodaniem zastrzeżenia „nie na zlecenie” lub innego równoznacznego; na okaziciela. Czek na rzecz określonej osoby z dodaniem wyrazów „lub okazicielowi” albo innego zwrotu równoznacznego uważa się za czek na okaziciela. Za czek na okaziciela uważa się również czek, nie wskazujący, komu ma być uiszczona zapłata."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Czek może być wystawiony na własne zlecenie wystawcy. Czek może być wystawiony na rachunek osoby trzeciej. Czek na okaziciela, w którym wystawca jest zarazem trasatem, jest nieważny."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zastrzeżenie oprocentowania, umieszczone w czeku, uważa się za nienapisane."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Czek może być płatny w miejscu zamieszkania osoby trzeciej, bądź w miejscowości, w której trasat ma miejsce zamieszkania, bądź w innej miejscowości, z tem jednak zastrzeżeniem, że osoba trzecia jest bankierem."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Czek, w którym sumę czekową napisano literami i liczbami, w razie różnicy ważny jest na sumę, napisaną literami. W razie różnicy sum, napisanych kilkakrotnie literami lub kilkakrotnie liczbami, czek jest ważny na sumę mniejszą."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Jeżeli na czeku znajdują się podpisy osób, niezdolnych do zaciągania zobowiązań czekowych, podpisy fałszywe, podpisy osób nieistniejących albo podpisy, które z jakiejkolwiek innej przyczyny nie zobowiązują osób, które czek podpisały lub których nazwiskiem czek został podpisany, nie uchybia to ważności innych podpisów."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Kto podpisał czek jako przedstawiciel innej osoby, nie będąc umocowanym do działania w jej imieniu, odpowiada sam czekowo, a jeżeli zapłacił, ma takie same prawa, jakieby miała osoba, której jest rzekomo przedstawicielem. Zasady te stosuje się również do przedstawiciela, który przekroczył granice swego umocowania."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Wystawca odpowiada za zapłatę czeku. Zastrzeżenie, którem wystawca zwalnia się od tej odpowiedzialności, uważa się za nienapisane."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Jeżeli czek, niezupełny w chwili wystawienia, uzupełniony został niezgodnie z zawartem porozumieniem, nie można wobec posiadacza zasłaniać się zarzutem, że nie zastosowano się do tego porozumienia, chyba że posiadacz nabył czek w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa. Dział II Przeniesienie"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Czek, który został wystawiony na określoną osobę z dodaniem wyraźnego zastrzeżenia „na zlecenie” lub bez takiego zastrzeżenia, można przenieść przez indos. Czek, wystawiony na określoną osobę z dodaniem zastrzeżenia „nie na zlecenie” lub innego równoznacznego, można przenieść tylko w formie i ze skutkami zwykłego przelewu. Czek można indosować także na wystawcę lub na każdą inną osobę, czekowo zobowiązaną. Osoby te mogą czek dalej indosować."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Indos powinien być bezwarunkowy. Warunki, od których uzależniono indos, uważa się za nienapisane. Indos częściowy jest nieważny. Nieważny jest również indos, dokonany przez trasata. Indos na okaziciela jest równoznaczny z indosem in blanco. Indos na rzecz trasata ma znaczenie pokwitowania, wyjąwszy przypadek, że trasat ma kilka zakładów, a czek indosowano na rzecz zakładu innego, niż zakład, na który czek wystawiono."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Indos powinien być napisany na czeku lub na złączonej z nim karcie dodatkowej (przedłużku) i podpisany przez indosanta. Indos może nie wymieniać indosatarjusza lub może ograniczać się tylko do podpisu indosanta (indos in blanco). W tym przypadku indos jest ważny tylko, jeżeli został napisany na odwrotnej stronie czeku lub na przedłużku."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Indos przenosi wszystkie prawa z czeku. Jeżeli indos jest in blanco, posiadacz czeku może: 1) wypełnić indos nazwiskiem własnem lub innej osoby; 2) indosować czek dalej in blanco lub na inną osobę; 3) przenieść czek na inną osobę bez wypełnienia indosu in blanco i bez indosowania."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Indosant odpowiada w braku przeciwnego zastrzeżenia za zapłatę czeku. Indosant może zabronić dalszego indosowania; w tym przypadku nie odpowiada wobec następnych indosatarjuszy."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Kto ma czek, przenośny przez indos, będzie uważany za prawnego posiadacza, jeżeli wykaże prawo swoje nieprzerwanym szeregiem indosów, chociażby ostatni indos był in blanco. Przekreślone indosy uważa się w tym względzie za nieistniejące. Gdy po indosie in blanco następuje dalszy indos, uważa się, że indosant, który go podpisał, nabył czek na mocy indosu in blanco."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Indos, umieszczony na czeku na okaziciela, zobowiązuje indosanta według przepisów o zwrotnem poszukiwaniu; nie zmienia on zresztą dokumentu na czek na zlecenie."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Jeżeli kto przez jakikolwiek wypadek utracił posiadanie czeku, posiadacz, w którego ręce czek się dostał - bez względu na to, czy chodzi o czek na okaziciela, czy też o czek na zlecenie, którego posiadacz wykaże swe prawo w sposób, wskazany w art. 19 - będzie obowiązany do wydania czeku tylko, jeżeli go nabył w złej wierze albo przy nabyciu dopuścił się rażącego niedbalstwa."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Osoby, przeciw którym dochodzi się praw z czeku, nie mogą wobec posiadacza zasłaniać się zarzutami, opartemi na swych stosunkach osobistych z wystawcą lub z posiadaczami poprzednimi, chyba że posiadacz, nabywając czek, działał świadomie na szkodę dłużnika."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Jeżeli indos zawiera wzmiankę „waluta do odebrania”, „do inkasa”, „per procura” lub inną wzmiankę, oznaczającą tylko pełnomocnictwo, natenczas posiadacz może wykonywać wszystkie prawa z czeku; nie może go jednak indosować inaczej, jak tylko ze skutkami pełnomocnictwa. W tym przypadku dłużnicy czekowi mogą zasłaniać się wobec posiadacza tylko zarzutami, służącemi im przeciw indosantowi. Pełnomocnictwo, zawarte w indosie pełnomocniczym, nie wygasa przez śmierć mocodawcy ani przez to, że mocodawca utracił zdolność do działań prawnych."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Indos, dokonany po proteście lub po równoznacznem stwierdzeniu albo po upływie terminu do przedstawienia, ma tylko skutki zwykłego przelewu. Aż do dowodu przeciwnego indos bez daty uważa się za dokonany przed protestem lub równoznacznem stwierdzeniem albo przed upływem terminu, wspomnianego w ustępie poprzedzającym. Dział III Poręczenie czekowe"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Zapłatę czeku można zabezpieczyć poręczeniem czekowem (aval) co do całości sumy czekowej lub co do jej części. Poręczenie może dać osoba trzecia, z wyjątkiem trasata, lub nawet osoba, podpisana na czeku."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Poręczenie umieszcza się na czeku albo na przedłużku. Poręczenie oznacza się wyrazem „poręczam” lub innym zwrotem równoznacznym; podpisuje je poręczyciel. Sam podpis na przedniej stronie czeku uważa się za udzielenie poręczenia, wyjąwszy gdy jest to podpis wystawcy. Poręczenie powinno wskazywać, za kogo je dano. W braku takiej wskazówki uważa się, że poręczenia udzielono za wystawcę."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Poręczyciel czekowy odpowiada tak samo, jak ten, za kogo poręczył. Zobowiązanie poręczyciela jest ważne, chociażby nawet zobowiązanie, za które poręcza, było nieważne z jakiejkolwiek przyczyny z wyjątkiem wady formalnej. Poręczyciel czekowy, który zapłacił czek, nabywa prawa, wynikające z czeku, przeciw osobie, za którą poręczył, i przeciw tym, którzy wobec tej osoby odpowiadają z czeku. Dział IV Przedstawienie i zapłata"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Czek jest płatny za okazaniem. Wszelką wzmiankę przeciwną uważa się za nienapisaną. Czek, przedstawiony do zapłaty przed dniem, wskazanym jako data wystawienia, jest płatny w dniu przedstawienia."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Czek, wystawiony i płatny w tym samym kraju, powinien być przedstawiony do zapłaty w ciągu dni dziesięciu. Czek wystawiony w innym kraju niż ten, w którym jest płatny, powinien być przedstawiony w ciągu bądź to dwudziestu, bądź to siedemdziesięciu dni, zależnie od tego, czy miejsce wystawienia i miejsce płatności znajdują się w tej samej, czy w różnych częściach świata. W tym względzie czeki, wystawione w jednym z krajów europejskich, a płatne w kraju, położonym nad Morzem Śródziemnem, i naodwrót, uważa się za wystawione i płatne w tej samej części świata. Dniem początkowym oznaczonych wyżej terminów jest dzień, wskazany w czeku, jako data wystawienia."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Przy czeku, przekazanym z jednego miejsca na inne, w którem obowiązuje kalendarz odmienny, przelicza się dzień wystawienia na dzień, odpowiadający kalendarzowi miejsca płatności."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Przedstawienie w izbie rozrachunkowej jest równoznaczne z przedstawieniem do zapłaty."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Odwołanie czeku może mieć skutek tylko po upływie terminu do przedstawienia. Odwołanie czeku, płatnego w Polsce, może mieć skutek także, jeżeli czek, wystawiony na nazwisko lub na zlecenie i przesłany przez wystawcę bezpośrednio trasatowi, odwołano, zanim trasat wykonał otrzymane polecenie. Jeżeli odwołanie nie nastąpiło, trasat może zapłacić również po upływie terminu do przedstawienia."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Ani śmierć wystawcy, ani utrata przez wystawcę po wystawieniu czeku zdolności do działań prawnych nie naruszają ważności czeku."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Trasat może przy zapłacie żądać wydania czeku, pokwitowanego przez posiadacza. Posiadacz nie może odmówić przyjęcia zapłaty częściowej. W razie zapłaty częściowej trasat może żądać wzmianki o niej na czeku i osobnego pokwitowania."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Trasat, który płaci czek, przenośny przez indos, obowiązany jest do sprawdzenia prawidłowości szeregu indosów, lecz nie do sprawdzenia podpisów indosantów."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Jeżeli czek wystawiono na walutę, która nie jest walutą miejsca płatności, sumę czekową można zapłacić w ciągu terminu do przedstawienia czeku w walucie krajowej podług jej wartości w dniu zapłaty. Jeżeli czek nie został zapłacony za przedstawieniem, posiadacz może żądać zapłaty sumy czekowej w walucie krajowej według swego wyboru albo podług jej kursu w dniu przedstawienia, albo podług jej kursu w dniu zapłaty. Wartość waluty zagranicznej oznacza się podług zwyczajów miejsca płatności. Wystawca jednak może zastrzec, że suma, przypadająca do zapłaty, ma być obliczona podług kursu, ustanowionego w czeku. Zasad powyższych nie stosuje się do przypadku, gdy wystawca zastrzegł, że zapłata ma być uiszczona w oznaczonej walucie (zastrzeżenie zapłaty rzeczywistej w walucie zagranicznej). Jeżeli czek wystawiono na walutę, mającą w kraju wystawienia i w kraju zapłaty tę samą nazwę, lecz inną wartość, domniemywa się, że miano na myśli walutę miejsca płatności. Dział V Czek zakreślony i czek rozrachunkowy"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Wystawca lub posiadacz czeku mogą zakreślić go ze skutkami, wskazanemi w artykule następnym. Zakreślenia dokonywa się przez umieszczenie na przedniej stronie czeku dwu linij równoległych. Zakreślenie może być ogólne lub szczególne. Zakreślenie jest ogólne, jeżeli między dwiema linjami niema żadnej wzmianki albo jeżeli znajduje się między niemi wyraz „bankier” lub inny równoznaczny; zakreślenie jest szczególne, jeżeli między dwiema linjami napisano nazwisko bankiera. Zakreślenie ogólne może być zmienione na szczególne, natomiast zakreślenia szczególnego nie można zmienić na ogólne. Przekreślenie zakreślenia albo nazwiska oznaczonego bankiera uważa się za niebyłe."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Trasat może czek z zakreśleniem ogólnem zapłacić tylko do rąk bankiera lub swojego stałego klienta. Czek z zakreśleniem szczególnem może trasat zapłacić tylko do rąk oznaczonego bankiera, a w przypadku, gdy oznaczonym bankierem jest trasat, tylko do rąk swojego stałego klienta. Oznaczony bankier może jednakże zainkasować czek za pośrednictwem innego bankiera. Bankierowi wolno nabywać czeki zakreślone tylko od swoich stałych klientów lub od innych bankierów. Nie wolno mu ich inkasować na rachunek innych osób. Jeżeli na czeku znajduje się kilka zakreśleń szczególnych, trasatowi wolno zapłacić czek tylko w przypadku, gdy na czeku są dwa zakreślenia, z których jedno udzielone zostało w celu inkasa za pośrednictwem izby rozrachunkowej. W razie niezastosowania się do powyższych przepisów trasat lub bankier odpowiadają za szkodę do wysokości sumy czekowej."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Wystawca lub posiadacz czeku mogą zabronić zapłaty czeku w gotówce przez zamieszczenie wpoprzek na przedniej stronie czeku zastrzeżenia „przelać na rachunek” lub innego równoznacznego. W tym przypadku czek może być przez trasata użyty tylko do rozrachunku księgowego (przez uznanie na rachunku, rozliczenie lub potrącenie). Rozrachunek księgowy ma skutki zapłaty. Przekreślenie zastrzeżenia „przelać na rachunek” uważa się za niebyłe. W razie niezastosowania się do powyższych przepisów trasat odpowiada za szkodę do wysokości sumy czekowej. Dział VI Zwrotne poszukiwanie spowodu niezapłacenia"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Posiadacz może wykonywać zwrotne poszukiwanie przeciwko indosantom, wystawcy, tudzież innym dłużnikom, jeżeli czek, mimo przedstawienia do zapłaty we właściwym czasie, nie został zapłacony, a odmowę zapłaty stwierdzono: 1) albo aktem publicznym (protestem); 2) albo oświadczeniem trasata na czeku, datowanem i wymieniającem dzień przedstawienia; 3) albo oświadczeniem izby rozrachunkowej, datowanem i stwierdzającem, że czek został we właściwym czasie złożony do rozrachunku i że go nie wykupiono."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Protest lub równoznaczne z nim stwierdzenie powinny być dokonane przed upływem terminu do przedstawienia. W razie przedstawienia czeku w ostatnim dniu terminu protest lub równoznaczne stwierdzenie mogą być dokonane w pierwszym dniu powszednim, po nim następującym."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Posiadacz czeku powinien o niezapłaceniu zawiadomić swojego indosanta i wystawcę w ciągu czterech dni powszednich, następujących po dniu protestu lub równoznacznego stwierdzenia, a w przypadku zastrzeżenia „bez kosztów” - po dniu przedstawienia. Każdy indosant powinien w ciągu dwóch dni powszednich, następujących po dniu, w którym otrzymał zawiadomienie, podać do wiadomości swojego poprzednika otrzymane zawiadomienie, wskazując nazwiska i adresy tych, którzy dokonali zawiadomień poprzednich, i tak kolejno aż do wystawcy. Terminy powyższe biegną od otrzymania zawiadomienia poprzedniego. Ilekroć w myśl ustępu poprzedzającego zawiadamia się osobę, podpisaną na czeku, należy tak samo w tymże terminie zawiadomić jej poręczyciela. Jeżeli indosant nie wskazał swego adresu lub podał go w sposób nieczytelny, wystarczy zawiadomienie poprzedzającego go indosanta. Zawiadomienia można dokonać w jakikolwiek sposób, nawet przez proste odesłanie czeku. Obowiązany do zawiadomienia ma udowodnić, że dokonał go w przepisanym terminie. Termin ten uważa się jako zachowany, jeżeli pismo z zawiadomieniem oddano na pocztę w przepisanym terminie. Kto nie zawiadomi w czasie powyżej oznaczonym, nie traci praw z czeku, odpowiada jednak za szkodę, spowodowaną przez swe niedbalstwo tylko do sumy, na jaką czek jest wystawiony."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Wystawca, indosant albo poręczyciel przez zastrzeżenie „bez kosztów”, „bez protestu” lub przez inne równoznaczne, napisane na czeku i podpisane, mogą zwolnić posiadacza czeku od protestu lub od równoznacznego stwierdzenia, jako warunku zwrotnego poszukiwania. Zastrzeżenie takie nie zwalnia posiadacza ani od przedstawienia czeku w przepisanym terminie, ani od obowiązku zawiadomienia. Dowód niezachowania terminu przedstawienia ciąży na tym, kto się na tę okoliczność powołuje wobec posiadacza. Zastrzeżenie, pochodzące od wystawcy, skuteczne jest wobec wszystkich dłużników czekowych; jeżeli pochodzi od indosanta lub od poręczyciela, ma skutek tylko wobec niego. Gdyby mimo zastrzeżenia, pochodzącego od wystawcy, posiadacz dokonał protestu lub równoznacznego stwierdzenia, sam ponosi koszty. Jeżeli zastrzeżenie pochodzi od indosanta lub od poręczyciela, koszty dokonanego protestu lub równoznacznego stwierdzenia obciążają wszystkich dłużników czekowych."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Wszystkie osoby, zobowiązane z czeku, odpowiadają wobec posiadacza solidarnie. Posiadacz może dochodzić roszczeń przeciw jednemu, kilku lub wszystkim dłużnikom bez potrzeby zachowania porządku, w jakim się zobowiązali. Takie samo prawo ma każdy dłużnik czekowy, który czek wykupił. Dochodzenie sądowe roszczeń przeciw jednemu dłużnikowi nie tamuje dochodzenia przeciw innym dłużnikom, nawet następującym po dłużniku, przeciw któremu wpierw skierowano dochodzenie sądowe."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Posiadacz czeku może żądać od zobowiązanego zwrotnie: 1) niezapłaconej sumy czekowej; 2) odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od dnia przedstawienia; 3) kosztów protestu lub równoznacznego stwierdzenia, dokonanych zawiadomień, tudzież innych kosztów; 4) prowizji komisowej, która w braku umowy wynosi jedną szóstą od sta od sumy czekowej i nie może przekroczyć tej stopy."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Kto czek wykupił, może żądać od swoich poprzedników: 1) całkowitej sumy zapłaconej; 2) odsetek w wysokości sześć od sta, a przy czekach, wystawionych i płatnych w Polsce, odsetek ustawowych od powyższej sumy, licząc od dnia wykupienia czeku; 3) własnych kosztów; 4) prowizji komisowej od sumy czekowej, obliczonej według art. 45 pkt 4)."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Każdy dłużnik czekowy, przeciw któremu wykonywa się lub wykonać można zwrotne poszukiwanie, może żądać, aby mu za zapłatą sumy regresowej wydano czek z protestem lub równoznacznem stwierdzeniem, tudzież rachunek pokwitowany. Indosant, który czek wykupił, może przekreślić indos własny oraz indosy następnych indosantów."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Jeżeli przedstawienie czeku, protest lub równoznaczne stwierdzenie nie mogą być dokonane w terminach przepisanych spowodu przeszkody nie do przezwyciężenia (ustawowego przepisu któregokolwiek państwa albo innego wypadku siły wyższej), terminy te ulegają przedłużeniu. Posiadacz obowiązany jest zawiadomić bez zwłoki swego indosanta o wypadku siły wyższej i o tem zawiadomieniu zaznaczyć na czeku lub na przedłużku z dodaniem daty i swego podpisu; pozatem stosuje się przepisy art. 42. Po ustaniu siły wyższej posiadacz czeku powinien bez zwłoki przedstawić czek do zapłaty, a w razie potrzeby dokonać protestu lub równoznacznego stwierdzenia. Jeżeli siła wyższa trwa dłużej niż piętnaście dni, licząc od dnia, w którym posiadacz zawiadomił swego indosanta o wypadku siły wyższej, chociażby nawet zawiadomienie takie nastąpiło jeszcze przed upływem terminu do przedstawienia, można wykonać zwrotne poszukiwanie bez przedstawienia czeku i bez protestu lub równoznacznego stwierdzenia. Okoliczności czysto osobistych, dotyczących posiadacza czeku lub osoby, której zlecił on przedstawienie czeku albo dokonanie protestu lub równoznacznego stwierdzenia, nie uważa się za wypadki siły wyższej. Dział VII Wtóropisy"
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Z wyjątkiem czeków na okaziciela każdy czek, wystawiony w jednym, a płatny w drugim kraju lub w części zamorskiej tego samego kraju i odwrotnie, albo też wystawiony i płatny w tej samej części zamorskiej lub w różnych częściach zamorskich tego samego kraju, może być wystawiony w kilku jednobrzmiących egzemplarzach. Jeżeli czek wystawia się w kilku egzemplarzach, powinny one być ponumerowane w samym tekście dokumentu, w przeciwnym razie każdy z egzemplarzy uważa się za czek odrębny."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Zapłata, dokonana na jeden z egzemplarzy, zwalnia nawet wtedy, gdyby nie było na czeku zastrzeżenia, że taka zapłata pozbawia ważności inne egzemplarze. Indosant, który przeniósł egzemplarze na różne osoby, jako też następni indosanci odpowiadają ze wszystkich podpisanych przez siebie egzemplarzy, których im nie zwrócono. Dział VIII Zmiany"
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "W razie zmiany tekstu czeku osoby, które czek podpisały po dokonaniu zmiany, odpowiadają według brzmienia tekstu zmienionego; osoby, które czek poprzednio podpisały, odpowiadają według brzmienia tekstu pierwotnego. Dział IX Przedawnienie"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Roszczenia z tytułu zwrotnego poszukiwania, służące posiadaczowi przeciw indosantom, wystawcy oraz innym dłużnikom, ulegają przedawnieniu z upływem sześciu miesięcy, licząc od końca terminu przedstawienia. Roszczenia z tytułu zwrotnego poszukiwania dłużników, zobowiązanych do zapłaty czeku, między sobą ulegają przedawnieniu z upływem sześciu miesięcy, licząc od dnia, w którym dłużnik wykupił czek albo w którym sam został pociągnięty z czeku do odpowiedzialności sądowej."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Prawo powszechne określa przyczyny przerwania i zawieszenia biegu przedawnienia roszczeń czekowych. Przerwanie przedawnienia ma skutek jedynie wobec tego dłużnika czekowego, którego dotyczy przyczyna przerwania. Dział X Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Wyraz „bankier” w rozumieniu prawa niniejszego oznacza: a) państwowe i samorządowe zakłady kredytowe i kasy oszczędności; b) przedsiębiorstwa bankowe z wyjątkiem kantorów wymiany i zakładów zastawniczych."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Przedstawienie czeku i protest mogą być dokonane tylko w dnie powszednie. Jeżeli ostatni dzień terminu, oznaczonego przez prawo do dokonania czynności, dotyczących czeków, w szczególności do przedstawienia albo do dokonania protestu lub równoznacznego stwierdzenia, przypada na dzień ustawowo uznany za świąteczny, termin przedłuża się do najbliższego dnia powszedniego, następującego po upływie terminu. Dni świąteczne, przypadające w ciągu terminu, wlicza się do tego terminu."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Do terminów, przewidzianych w prawie niniejszem, nie wlicza się dnia początkowego."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Nie są dopuszczalne dni ulgowe ani na podstawie ustawy, ani według uznania sędziego."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Trasat jest obowiązany odmówić zapłaty czeku, jeżeli doszło do jego wiadomości, że ogłoszono upadłość wystawcy. Dział XI Roszczenie z tytułu niesłusznego zbogacenia"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "Wystawca, którego zobowiązanie czekowe wygasło wskutek przedawnienia lub zaniedbania czynności zachowawczych, jest zobowiązany wobec posiadacza czeku, o ile z jego szkodą niesłusznie się zbogacił. Roszczenie z tytułu niesłusznego zbogacenia ulega przedawnieniu z upływem lat trzech, licząc od dnia wygaśnięcia zobowiązania czekowego. Dział XII Skutki braku pokrycia"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Jeżeli zapłata czeku nie nastąpiła spowodu, że wystawca, wystawiając czek, nie miał u trasata potrzebnego funduszu do rozporządzenia, lub spowodu, że po wystawieniu czeku rozporządził pokryciem, wystawca odpowiada wobec posiadacza za wszelką szkodę, co najmniej zaś powinien mu zapłacić odsetki w wysokości sześć od sta od sumy niepokrytej. Roszczenia powyższe ulegają przedawnieniu z upływem lat trzech, licząc od dnia, w którym trasat odmówił zapłaty."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Kto wystawia czek, nie mając u trasata potrzebnego funduszu do rozporządzenia, lub po wystawieniu czeku rozporządza pokryciem, jeżeli skutkiem tego zapłata czeku nie nastąpiła, podlega karze więzienia do 2 lat i grzywny lub aresztu do 2 lat i grzywny. Jeżeli sprawca działa nieumyślnie, podlega karze aresztu do 3 miesięcy lub grzywny do 5.000 złotych. Dział XIII Kolizja ustaw"
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Zdolność osoby do zaciągania zobowiązań czekowych ocenia się według jej prawa ojczystego. Jeżeli prawo to uznaje za właściwe prawo innego kraju, należy je stosować. Kto według prawa, określonego w ustępie poprzedzającym, nie ma zdolności czekowej, mimo to jest ważnie zobowiązany, jeżeli podpisał czek w kraju, według którego ustaw miałby zdolność czekową. Przepisu tego nie stosuje się do obywatela polskiego, który zaciągnął zobowiązanie czekowe zagranicą."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Prawo kraju miejsca płatności czeku rozstrzyga o tem, na kogo można czek wystawić. Jeżeli według tego prawa dokument ze względu na osobę, na którą został wystawiony, jest nieważny jako czek, zobowiązania, wynikające z podpisów, umieszczonych na tym dokumencie w innych krajach, których ustawy nie zawierają takiego przepisu, są mimo to ważne."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Formę oświadczenia czekowego ocenia się podług ustaw kraju, w którym oświadczenie zostało podpisane; jednakże wystarcza zachowanie formy, wymaganej przez prawo miejsca płatności. Jeżeli jednak oświadczenie czekowe, nieważne ze względu na przepisy ustępu poprzedzającego, odpowiada prawu kraju, w którym zostało podpisane późniejsze oświadczenie, ważności późniejszego oświadczenia nie uchybia okoliczność, że forma wcześniejszego oświadczenia była nieprawidłowa. Zobowiązania czekowe, zaciągnięte zagranicą przez obywatela polskiego, są ważne w Polsce w stosunku do innego obywatela polskiego także wówczas, jeżeli zostały zaciągnięte z zachowaniem formy, przewidzianej w prawie niniejszem."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Skutki zobowiązań czekowych określa się według ustaw kraju, w którym zobowiązania te zostały zaciągnięte."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Terminy wykonywania zwrotnego poszukiwania określa w stosunku do wszystkich osób, które czek podpisały, prawo miejsca wystawienia czeku."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Prawo miejsca płatności czeku określa: 1) czy czek może być płatny tylko za okazaniem, czy też może być płatny w pewien czas po okazaniu oraz jakie są skutki umieszczenia w czeku późniejszej daty wystawienia; 2) termin do przedstawienia; 3) czy czek może być przyjęty, certyfikowany, potwierdzony lub wizowany oraz jakie są skutki tych oświadczeń; 4) czy posiadacz może żądać zapłaty częściowej oraz czy jest zobowiązany do jej przyjęcia; 5) czy czek może być zakreślony albo zaopatrzony zastrzeżeniem „przelać na rachunek” lub innem równoznacznem oraz jakie są skutki tych oświadczeń; 6) czy posiadacz ma szczególne prawa do pokrycia oraz jaki jest ich charakter; 7) czy wystawca może czek odwołać lub sprzeciwić się jego zapłacie; 8) jakie środki należy przedsięwziąć w razie zaginięcia lub kradzieży czeku; 9) czy protest lub równoznaczne stwierdzenie jest potrzebne do zachowania prawa zwrotnego poszukiwania przeciw indosantom, wystawcy oraz innym zobowiązanym."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "Formę i terminy protestu, tudzież formę innych czynności, potrzebnych do wykonania lub do zachowania praw czekowych, ocenia się podług ustaw kraju, w którym protest ma być dokonany lub czynność przedsięwzięta. Dział XIV Protest"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Protest sporządza notarjusz."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Protest zawiera: 1) nazwisko osoby, która żąda protestu, oraz osoby, przeciw której protest ma być dokonany; 2) stwierdzenie, że osoba, przeciw której protest ma być dokonany, nie uczyniła zadość wezwaniu, skierowanemu do niej, a nadto oświadczenie, złożone przez tę osobę, albo stwierdzenie, że jej nie zastano albo że nie było można odnaleźć lokalu jej przedsiębiorstwa; 3) oznaczenie miejsca i dnia, w którym wezwania dokonano lub bezskutecznie starano się go dokonać; 4) oznaczenie, ile egzemplarzy czeku przedstawiono i jakie; 5) podpis notarjusza, pieczęć urzędową i numer protestu."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Przedstawienia czeku, wezwania do wydania egzemplarza, tudzież wszystkich innych czynności zachowawczych należy - w braku odmiennego wskazania w czeku - dokonać w lokalu przedsiębiorstwa. W innem miejscu, np. „na giełdzie”, można tych czynności dokonać jedynie za zgodą stron interesowanych. Notariusz obowiązany jest dokonać poszukiwania lokalu przedsiębiorstwa i odpowiada za szkodę, spowodowaną brakiem należytej staranności. Jednakże zaniedbanie lub niedokładność poszukiwań nigdy nie mogą stanowić przyczyny nieważności protestu."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Protest należy napisać na odwrotnej stronie czeku albo na osobnej karcie, połączonej z czekiem. Jeżeli na odwrotnej stronie niema żadnych oświadczeń, należy pisanie protestu zacząć od brzegu, w przeciwnym zaś razie bezpośrednio po ostatniem oświadczeniu. Jeżeli protest ma być napisany w całości lub w części na osobnej karcie dodatkowej, należy tę kartę połączyć z czekiem w ten sposób, aby nie było wolnych miejsc na odwrotnej stronie czeku; połączenie czeku z kartą dodatkową powinno być przypieczętowane pieczęcią urzędową lub przepisane treścią aktu protestowego."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Jeżeli zobowiązanemu przedstawiono równocześnie kilka egzemplarzy czeku, wystarczy umieszczenie protestu na jednym egzemplarzu. Notarjusz zaznaczy na innych egzemplarzach, gdzie protest umieszczono, i tę uwagę podpisze."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "Notarjusz jest upoważniony i obowiązany do odbioru zapłaty i do pokwitowania. W przypadku takiej zapłaty połączone z nią koszty notarjusza ponosi osoba, przeciw której protest miał być dokonany."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Jeżeli notariusz nie zastanie osoby, do której wezwanie ma być skierowane, w lokalu jej przedsiębiorstwa, powinien zostawić tam zawiadomienie o dokonaniu protestu, zawierające nazwisko i miejsce zamieszkania posiadacza czeku, nazwisko wystawcy, sumę czekową oraz nazwisko i lokal urzędowy notarjusza."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Przy dokonywaniu czynności zachowawczych notarjusz może posługiwać się pomocnikami, których prezes sądu okręgowego na wniosek notarjusza do tego upoważni. Za działalność pomocnika w tym zakresie notarjusz odpowiada solidarnie z pomocnikiem."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Notarjusz obowiązany jest przechowywać osobno odpisy protestów wraz z wypisem istotnej treści czeku, zaopatrzone numerem, i odpisy te składać w porządku chronologicznym, w jakim protesty zostały sporządzone. Interesowanym mogą być na żądanie wydawane odpisy tych dokumentów z ich uwierzytelnieniem lub bez niego. Minister Sprawiedliwości określi w drodze rozporządzenia termin, po upływie którego dokumenty, wymienione w ustępie pierwszym, mogą być zniszczone, oraz sposób ich zniszczenia. Dział XV Czeki zaginione"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Ten, komu czek zaginął, może żądać od sądu grodzkiego miejsca płatności czeku uznania go za umorzony. We wniosku należy podać istotną treść czeku oraz uprawdopodobnić jego utratę, jak również interes prawny, który uzasadnia żądanie umorzenia. Sąd przez ogłoszenie w Monitorze Polskim wezwie posiadacza zaginionego czeku do zgłoszenia się w ciągu sześćdziesięciu dni i do okazania czeku sądowi. Termin ten biegnie od dnia ogłoszenia. Końcowy dzień terminu powinien być oznaczony w ogłoszeniu według daty kalendarza. Jeżeli w ciągu terminu, oznaczonego w wezwaniu, nikt nie zgłosi się z czekiem, sąd wyda orzeczenie, uznające czek za umorzony. Jeżeli natomiast posiadacz czeku zgłosi się przed wydaniem orzeczenia, sąd umorzy dalsze postępowanie po przesłuchaniu interesowanych i po okazaniu czeku żądającemu umorzenia. Zarówno o wszczęciu postępowania, jako też o jego wyniku sąd zawiadomi trasata i wszystkich dłużników czekowych, wskazanych przez żądającego umorzenia czeku."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Dłużnik czekowy oraz trasat, który po otrzymaniu zawiadomienia o wszczęciu postępowania płaci czek, czyni to na własne niebezpieczeństwo; wolno mu jednak sumę czekową złożyć do depozytu sądowego miejsca płatności i zwolnić się przez to z zobowiązania."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Jeżeli po ogłoszeniu wezwania żądający umorzenia zgłosi się do trasata z żądaniem zapłaty, trasat może złożyć sumę czekową do depozytu sądowego albo zapłacić ją żądającemu umorzenia za zabezpieczeniem. Gdyby trasat jednego i drugiego odmówił, żądający umorzenia może, na podstawie odpisu czeku, dokonać protestu lub równoznacznego stwierdzenia, a następnie wykonać zwrotne poszukiwanie; może jednak domagać się od zobowiązanych zwrotnie jedynie złożenia sumy czekowej do depozytu albo zapłaty za zabezpieczeniem, według wyboru dłużnika."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Na podstawie orzeczenia, uznającego czek za umorzony, można wykonywać wszystkie prawa z czeku. Dział XVI Przepisy końcowe i przejściowe"
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Z dniem wejścia w życie prawa niniejszego traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie czekowem ( Dz. U. R. P. Nr 100, poz. 927 ) ."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "Ilekroć przepisy prawne powołują się na dotychczasowe prawo czekowe, stosuje się odpowiednio przepisy prawa niniejszego."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Rozporządzenie Ministra Skarbu, wydane w porozumieniu z Ministrem Sprawiedliwości, ustali, które instytucje są izbami rozrachunkowemi."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Pozostają w mocy przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych ( Dz. U. R. P. Nr 59, poz. 509 ) , z wyjątkiem przepisu art. 2 ust. (3), który traci moc w stosunku do czeków, wystawionych po wejściu w życie prawa niniejszego."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Przepisów prawa niniejszego nie stosuje się do czeków, wystawionych przed jego wejściem w życie."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Wykonanie prawa niniejszego porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 lipca 1936 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Wystawienie i forma czeku\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"bran_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"bran_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"bran_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II - Przeniesienie\",\"children\": [{\"id\": \"bran_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"bran_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"bran_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_II-arti_17-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-arti_17-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-arti_17-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"bran_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"bran_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"bran_II-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"bran_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"}]},{\"id\": \"bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III - Poręczenie czekowe\",\"children\": [{\"id\": \"bran_III-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"bran_III-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_III-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"}]},{\"id\": \"bran_IV\",\"symbol\": \"bran_IV\",\"type\": \"bran\",\"name\": \"IV\",\"title\": \"Dział IV - Przedstawienie i zapłata\",\"children\": [{\"id\": \"bran_IV-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_IV-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_IV-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_IV-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"bran_IV-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_IV-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"bran_IV-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"bran_IV-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"bran_IV-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"}]},{\"id\": \"bran_V\",\"symbol\": \"bran_V\",\"type\": \"bran\",\"name\": \"V\",\"title\": \"Dział V - Czek zakreślony i czek rozrachunkowy\",\"children\": [{\"id\": \"bran_V-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"bran_V-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"bran_V-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"}]},{\"id\": \"bran_VI\",\"symbol\": \"bran_VI\",\"type\": \"bran\",\"name\": \"VI\",\"title\": \"Dział VI - Zwrotne poszukiwanie spowodu niezapłacenia\",\"children\": [{\"id\": \"bran_VI-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\",\"children\": [{\"id\": \"bran_VI-arti_40-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_VI-arti_40-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_VI-arti_40-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_VI-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"},{\"id\": \"bran_VI-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"},{\"id\": \"bran_VI-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"bran_VI-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"},{\"id\": \"bran_VI-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\",\"children\": [{\"id\": \"bran_VI-arti_45-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_VI-arti_45-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_VI-arti_45-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_VI-arti_45-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_VI-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\",\"children\": [{\"id\": \"bran_VI-arti_46-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_VI-arti_46-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_VI-arti_46-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_VI-arti_46-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_VI-arti_47\",\"symbol\": \"arti_47\",\"type\": \"arti\",\"name\": \"47\",\"title\": \"Art. 47.\"},{\"id\": \"bran_VI-arti_48\",\"symbol\": \"arti_48\",\"type\": \"arti\",\"name\": \"48\",\"title\": \"Art. 48.\"}]},{\"id\": \"bran_VII\",\"symbol\": \"bran_VII\",\"type\": \"bran\",\"name\": \"VII\",\"title\": \"Dział VII - Wtóropisy\",\"children\": [{\"id\": \"bran_VII-arti_49\",\"symbol\": \"arti_49\",\"type\": \"arti\",\"name\": \"49\",\"title\": \"Art. 49.\"},{\"id\": \"bran_VII-arti_50\",\"symbol\": \"arti_50\",\"type\": \"arti\",\"name\": \"50\",\"title\": \"Art. 50.\"}]},{\"id\": \"bran_VIII\",\"symbol\": \"bran_VIII\",\"type\": \"bran\",\"name\": \"VIII\",\"title\": \"Dział VIII - Zmiany\",\"children\": [{\"id\": \"bran_VIII-arti_51\",\"symbol\": \"arti_51\",\"type\": \"arti\",\"name\": \"51\",\"title\": \"Art. 51.\"}]},{\"id\": \"bran_IX\",\"symbol\": \"bran_IX\",\"type\": \"bran\",\"name\": \"IX\",\"title\": \"Dział IX - Przedawnienie\",\"children\": [{\"id\": \"bran_IX-arti_52\",\"symbol\": \"arti_52\",\"type\": \"arti\",\"name\": \"52\",\"title\": \"Art. 52.\"},{\"id\": \"bran_IX-arti_53\",\"symbol\": \"arti_53\",\"type\": \"arti\",\"name\": \"53\",\"title\": \"Art. 53.\"}]},{\"id\": \"bran_X\",\"symbol\": \"bran_X\",\"type\": \"bran\",\"name\": \"X\",\"title\": \"Dział X - Przepisy ogólne\",\"children\": [{\"id\": \"bran_X-arti_54\",\"symbol\": \"arti_54\",\"type\": \"arti\",\"name\": \"54\",\"title\": \"Art. 54.\",\"children\": [{\"id\": \"bran_X-arti_54-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"bran_X-arti_54-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"bran_X-arti_55\",\"symbol\": \"arti_55\",\"type\": \"arti\",\"name\": \"55\",\"title\": \"Art. 55.\"},{\"id\": \"bran_X-arti_56\",\"symbol\": \"arti_56\",\"type\": \"arti\",\"name\": \"56\",\"title\": \"Art. 56.\"},{\"id\": \"bran_X-arti_57\",\"symbol\": \"arti_57\",\"type\": \"arti\",\"name\": \"57\",\"title\": \"Art. 57.\"},{\"id\": \"bran_X-arti_58\",\"symbol\": \"arti_58\",\"type\": \"arti\",\"name\": \"58\",\"title\": \"Art. 58.\"}]},{\"id\": \"bran_XI\",\"symbol\": \"bran_XI\",\"type\": \"bran\",\"name\": \"XI\",\"title\": \"Dział XI - Roszczenie z tytułu niesłusznego zbogacenia\",\"children\": [{\"id\": \"bran_XI-arti_59\",\"symbol\": \"arti_59\",\"type\": \"arti\",\"name\": \"59\",\"title\": \"Art. 59.\"}]},{\"id\": \"bran_XII\",\"symbol\": \"bran_XII\",\"type\": \"bran\",\"name\": \"XII\",\"title\": \"Dział XII - Skutki braku pokrycia\",\"children\": [{\"id\": \"bran_XII-arti_60\",\"symbol\": \"arti_60\",\"type\": \"arti\",\"name\": \"60\",\"title\": \"Art. 60.\"},{\"id\": \"bran_XII-arti_61\",\"symbol\": \"arti_61\",\"type\": \"arti\",\"name\": \"61\",\"title\": \"Art. 61.\"}]},{\"id\": \"bran_XIII\",\"symbol\": \"bran_XIII\",\"type\": \"bran\",\"name\": \"XIII\",\"title\": \"Dział XIII - Kolizja ustaw\",\"children\": [{\"id\": \"bran_XIII-arti_62\",\"symbol\": \"arti_62\",\"type\": \"arti\",\"name\": \"62\",\"title\": \"Art. 62.\"},{\"id\": \"bran_XIII-arti_63\",\"symbol\": \"arti_63\",\"type\": \"arti\",\"name\": \"63\",\"title\": \"Art. 63.\"},{\"id\": \"bran_XIII-arti_64\",\"symbol\": \"arti_64\",\"type\": \"arti\",\"name\": \"64\",\"title\": \"Art. 64.\"},{\"id\": \"bran_XIII-arti_65\",\"symbol\": \"arti_65\",\"type\": \"arti\",\"name\": \"65\",\"title\": \"Art. 65.\"},{\"id\": \"bran_XIII-arti_66\",\"symbol\": \"arti_66\",\"type\": \"arti\",\"name\": \"66\",\"title\": \"Art. 66.\"},{\"id\": \"bran_XIII-arti_67\",\"symbol\": \"arti_67\",\"type\": \"arti\",\"name\": \"67\",\"title\": \"Art. 67.\",\"children\": [{\"id\": \"bran_XIII-arti_67-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_XIII-arti_67-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_XIII-arti_67-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_XIII-arti_67-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_XIII-arti_67-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_XIII-arti_67-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_XIII-arti_67-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_XIII-arti_67-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"bran_XIII-arti_67-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"}]},{\"id\": \"bran_XIII-arti_68\",\"symbol\": \"arti_68\",\"type\": \"arti\",\"name\": \"68\",\"title\": \"Art. 68.\"}]},{\"id\": \"bran_XIV\",\"symbol\": \"bran_XIV\",\"type\": \"bran\",\"name\": \"XIV\",\"title\": \"Dział XIV - Protest\",\"children\": [{\"id\": \"bran_XIV-arti_69\",\"symbol\": \"arti_69\",\"type\": \"arti\",\"name\": \"69\",\"title\": \"Art. 69.\"},{\"id\": \"bran_XIV-arti_70\",\"symbol\": \"arti_70\",\"type\": \"arti\",\"name\": \"70\",\"title\": \"Art. 70.\",\"children\": [{\"id\": \"bran_XIV-arti_70-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_XIV-arti_70-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_XIV-arti_70-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_XIV-arti_70-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_XIV-arti_70-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"bran_XIV-arti_71\",\"symbol\": \"arti_71\",\"type\": \"art"
+    }
+  ],
+  "definitions": []
+}

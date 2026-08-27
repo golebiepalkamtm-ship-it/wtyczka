@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2002-1286",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 sierpnia 2002 r. o zmianie ustawy o czasie pracy kierowców oraz ustawy - Prawo o miarach.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1286",
+  "status": "in_force",
+  "issued_date": "2002-08-29",
+  "in_force_date": "2002-09-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1286",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 sierpnia 2001 r. o czasie pracy kierowców ( Dz. U. Nr 123, poz. 1354 ) wprowadza się następujące zmiany: 1) po art. 38 dodaje się art. 38a w brzmieniu: „ Art. 38a. Przepisy art. 31 ust. 1, w zakresie karty drogowej, stosuje się do dnia 31 grudnia 2002 r. - w odniesieniu do pojazdów, które w dniu wejścia w życie ustawy nie były wyposażone w przyrząd kontrolny, o którym mowa w art. 35 ust. 1. ” ; 2) art. 39 otrzymuje brzmienie: „ Art. 39. Ustawa wchodzi w życie z dniem 1 października 2002 r., z tym że rozdział czwarty oraz art. 37 wchodzą w życie z dniem 1 stycznia 2003 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 11 maja 2001 r. - Prawo o miarach ( Dz. U. Nr 63, poz. 636 i Nr 154, poz. 1800 ) art. 27 otrzymuje brzmienie: „ Art. 27. Przyrządy pomiarowe zalegalizowane lub uwierzytelnione przed dniem wejścia w życie ustawy, niespełniające jej przepisów, mogą być nadal legalizowane, o ile spełniają wymagania dotychczasowych przepisów, lecz nie dłużej niż przez 10 lat od dnia wejścia w życie ustawy, z wyłączeniem przyrządów kontrolnych, o których mowa w przepisach o czasie pracy kierowców. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 30 września 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

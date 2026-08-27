@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1925-563",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 1925 r. o przerachowaniu wkładek oszczędnościowych, złożonych w Pocztowej Kasie Oszczędności.",
+  "title_en": "",
+  "short_name": "pl-du-1925-563",
+  "status": "in_force",
+  "issued_date": "1925-07-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/563",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Niepodjęte wkładki oszczędnościowe w Pocztowej Kasie Oszczędności, złożone przed 31 grudnia 1923 r., przerachowuje się na złote na 20% sumy, obliczonej według skali § 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42, poz. 441), przy zastosowaniu stawki, obowiązującej w dniu zapisania odnośnej wkładki."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wyjątek od postanowień art. 1 stanowią wkładki oszczędnościowe: a) będące własnością mas spadkowych lub stanowiące depozyty sądowe sierocińskie, które przelicza się na 50%; b) pochodzące z przerachowania na polskie marki walut zagranicznych, które przelicza się na 80% - sumy, obliczonej według skali § 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42 poz. 441), przy zastosowaniu stawki, obowiązującej w dniu zapisania odnośnej wkładki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Na pokrycie wydatku, spowodowanego tem przerachowaniem, przeznacza się: a) kwotę dopisaną wkładcom w 1923 r., stanowiącą t. zw. premję oszczędnościową Pocztowej Kasy Oszczędności; b) kwotę, powstałą wskutek zwaloryzowania wkładek na zasadach rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. (Dz. U. R. P. № 42, poz. 441 § 17 ustęp 5); c) obligacje, o których mowa w art. 4."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia osobno na ten cel przeznaczonej 5% państwowej pożyczki w złotych na ogólną sumę przerachowanych należności z dwudziestoletnim terminem wykupu. Obligacje tej pożyczki będą wypuszczane serjami w odcinkach, których wysokość ustali Minister Skarbu. Umarzanie obligacyj rozpocznie się od dnia 1 stycznia 1926 r. w drodze losowania lub wykupu. Wykup przedterminowy jest dozwolony. Obligacje wylosowane przedawniają się z upływem 30 lat, kupony z upływem lat 5 od dnia ich płatności. Kupony wolne są od podatku od kapitałów i rent."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Na pokrycie wydatków, spowodowanych oprocentowaniem i umarzaniem obligacyj, wymienionych w art. 4, przeznacza się czysty coroczny zysk Pocztowej Kasy Oszczędności, przypadający w myśl § 23 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 czerwca 1924 r. (Dz. U. R. P. № 55, poz. 545) na rzecz Skarbu Państwa, brakujące zaś pokrycie uzupełni Skarb Państwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Posiadacze wkładek, przerachowanych zgodnie z art. 1 i 2 niniejszej ustawy, otrzymują za kwoty, wynikłe z tego przerachowania obligacje pożyczki w nominalnej ich wartości, wypuszczone w myśl art. 4 w odcinkach nie niższych od 20 złotych. Wkładki, których wysokość po przerachowaniu nie dosięgnie tej kwoty, jak również końcówki do 20 złotych będą zapisane na konto oszczędnościowe wkładcy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

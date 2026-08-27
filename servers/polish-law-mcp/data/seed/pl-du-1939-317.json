@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1939-317",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 maja 1939 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej o ustanowieniu Krzyża Zasługi za Dzielność.",
+  "title_en": "",
+  "short_name": "pl-du-1939-317",
+  "status": "in_force",
+  "issued_date": "1939-05-25",
+  "in_force_date": "1939-06-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/317",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 7 marca 1928 r. o ustanowieniu Krzyża Zasługi za Dzielność ( Dz. U. R. P. Nr 30, poz. 279 ) w brzmieniu, nadanym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. ( Dz. U. R. P. Nr 84, poz. 631 ) , wprowadza się zmiany następujące: 1) art. 1 otrzymuje brzmienie; „ Art. 1. Ustanawia się Krzyż Zasługi za Dzielność, jako odmianę Krzyża Zasługi celem szczególnego wyróżnienia żołnierzy wojska i marynarki wojennej, funkcjonariuszów Policji Państwowej i Policji Województwa Śląskiego oraz funkcjonariuszów Straży Granicznej za czyny, spełnione w specjalnie ciężkich warunkach z wykazaniem wyjątkowej odwagi, z narażeniem życia lub zdrowia w obronie prawa, nietykalności granic państwowych oraz życia i mienia obywateli. ” ; 2) po art. 5 dodaje się art. 5a w brzmieniu: „ Art. 5a. Krzyż Zasługi za Dzielność nosi się po Krzyżu Walecznych, a przed Złotym Krzyżem Zasługi. ” ; 3) art. 7 otrzymuje brzmienie: „ Art. 7. Krzyż Zasługi za Dzielność nadaje Prezes Rady Ministrów na podstawie wniosku właściwego ministra. ” ; 4) art. 13 otrzymuje brzmienie: „ Art. 13. Wykonanie rozporządzenia niniejszego porucza się Prezesowi Rady Ministrów w porozumieniu z Ministrami: Spraw Wewnętrznych, Spraw Wojskowych i Skarbu, a co do wypłaty pensyj - Prezesowi Rady Ministrów i Ministrowi Skarbu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prezes Rady Ministrów ogłosi w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej o ustanowieniu Krzyża Zasługi za Dzielność z uwzględnieniem zmian, wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów i ustępów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów i właściwym ministrom."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

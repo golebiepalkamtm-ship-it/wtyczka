@@ -1,0 +1,350 @@
+{
+  "id": "pl-du-1962-90",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1962 r. o drogach publicznych.",
+  "title_en": "",
+  "short_name": "pl-du-1962-90",
+  "status": "repealed",
+  "issued_date": "1962-03-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1962/90",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Drogą publiczną jest droga, z której mogą korzystać zgodnie z jej przeznaczeniem wszyscy na równych prawach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Drogi publiczne dzielą się na następujące kategorie: 1) drogi o ogólnopaństwowym lub regionalnym znaczeniu ekonomiczno-komunikacyjnym - zwane drogami państwowymi; 2) drogi o miejscowym znaczeniu ekonomiczno-komunikacyjnym - zwane drogami lokalnymi; 3) drogi stanowiące dojazdy od dróg państwowych lub lokalnych do określonych przedsiębiorstw, zakładów, instytucji, uspołecznionych gospodarstw, zespołu lub zespołów gospodarstw uspołecznionych (nazywanych dalej w skróceniu zakładami), a służące przede wszystkim do użytku tych zakładów - zwane drogami zakładowymi. 2. Dojazdy do stacji i przystanków kolejowych, do portów morskich i śródlądowych oraz do lotnisk, na przestrzeni od drogi publicznej, od której dojazd został wybudowany, do granicy obszaru kolejowego, portu lub lotniska, należą do tej samej kategorii dróg publicznych, do której należy droga, która dojazd łączy ze stacją, przystankiem kolejowym, portem lub lotniskiem."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do kategorii dróg państwowych należy zaliczyć w szczególności: 1) drogi łączące m. st. Warszawę z miejscowościami będącymi siedzibami wojewódzkich rad narodowych, 2) drogi łączące ze sobą miejscowości będące siedzibami wojewódzkich rad narodowych, 3) drogi łączące miejscowości będące siedzibami powiatowych rad narodowych ze sobą oraz z miejscowościami będącymi siedzibami wojewódzkich rad narodowych, 4) drogi łączące ważne ośrodki gospodarcze, przemysłowe, kulturalne i uzdrowiskowo-wypoczynkowe z miejscowościami będącymi siedzibami wojewódzkich lub powiatowych rad narodowych albo z siecią dróg państwowych i między sobą, 5) drogi łącznikowe o większym znaczeniu komunikacyjnym między drogami państwowymi, 6) drogi służące do ruchu tranzytowego między państwami, 7) drogi (ulice) miejskie, osiedlowe i wiejskie, leżące w ciągu dróg państwowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do kategorii dróg lokalnych należy zaliczać w szczególności: 1) drogi łączące miejscowości będące siedzibami gromadzkich rad narodowych z miastami i osiedlami i z siecią dróg państwowych, 2) drogi łączące między sobą miejscowości będące siedzibami gromadzkich rad narodowych, 3) drogi łączące wsie z osiedlami i miastami oraz drogi łączące wsie, osiedla i miasta między sobą i z siecią dróg państwowych, 4) drogi łącznikowe o mniejszym znaczeniu komunikacyjnym między drogami państwowymi oraz drogi łącznikowe między drogami lokalnymi, 5) drogi (ulice) miejskie, osiedlowe i wiejskie nie leżące w ciągu dróg państwowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Do kategorii dróg zakładowych należy zaliczać w szczególności: 1) drogi stanowiące dojazdy do zakładów od dróg państwowych i lokalnych, 2) drogi na obszarze lasów, stanowiące połączenie tych obszarów z drogami państwowymi lub lokalnymi, 3) drogi na obszarze państwowych gospodarstw rolnych i rolniczych spółdzielni produkcyjnych, stanowiące połączenie tych obszarów z drogami państwowymi lub lokalnymi, 4) drogi na obszarze portów morskich i śródlądowych. 2. Do kategorii dróg zakładowych nie zalicza się dojazdów do obiektów wojskowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Zaliczenie drogi do kategorii dróg państwowych oraz pozbawienie jej tego charakteru następuje w drodze zarządzenia Prezesa Rady Ministrów. 2. Droga, która została pozbawiona charakteru drogi państwowej w trybie określonym w ust. 1, staje się drogą lokalną."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Zaliczenie drogi do kategorii dróg lokalnych, poza przypadkiem określonym w art. 6 ust. 2, oraz pozbawienie jej tego charakteru następuje w drodze uchwały: 1) powiatowej rady narodowej, podjętej we własnym zakresie lub na wniosek gromadzkiej rady narodowej, rady narodowej osiedla lub rady narodowej miasta nie stanowiącego powiatu miejskiego albo 2) rady narodowej miasta stanowiącego powiat miejski lub rady narodowej miasta wyłączonego z województwa."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Zaliczenie drogi do kategorii dróg zakładowych oraz pozbawienie jej tego charakteru następuje w drodze uchwały właściwej, ze względu na miejsce położenia drogi, gromadzkiej lub miejskiej rady narodowej albo rady narodowej osiedla, podjętej po zasięgnięciu opinii lub na wniosek zainteresowanego zakładu, a w stosunku do drogi na obszarze portów morskich - po zasięgnięciu opinii lub na wniosek właściwego terytorialnie organu administracji morskiej. 2. W przypadku gdy droga przebiega przez obszar kilku gromad albo gdy opinia lub wniosek zainteresowanego zakładu co do zaliczenia drogi do kategorii dróg zakładowych lub pozbawienia jej tego charakteru (ust. 1) są sprzeczne ze stanowiskiem gromadzkiej rady narodowej lub miejskiej rady narodowej miasta nie wyłączonego z województwa i nie stanowiącego powiatu miejskiego albo rady narodowej osiedla - uchwałę o zaliczeniu drogi do kategorii dróg zakładowych lub o pozbawieniu jej tego charakteru podejmuje właściwa ze względu na miejsce położenia drogi powiatowa rada narodowa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Droga niezbędna dla komunikacji publicznej, która nie została zaliczona do kategorii dróg lokalnych lub zakładowych w trybie określonym w art. 7 lub art. 8, może być w uzasadnionych przypadkach uchwałą właściwej wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa) zaliczona do kategorii dróg lokalnych lub zakładowych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Droga, która została pozbawiona charakteru drogi lokalnej w trybie określonym w art. 7, traci charakter drogi publicznej, o ile uchwałą właściwej rady narodowej nie zostanie zaliczona do kategorii dróg zakładowych (art. 8). 2. W przypadku sporu co do publicznego charakteru drogi lokalnej lub zakładowej decyduje uchwała wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa)."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Gospodarka na drogach państwowych objęta jest planem i budżetem centralnym, z wyjątkiem odcinków dróg pozostających w zarządzie właściwych do spraw gospodarki komunalnej organów prezydiów rad narodowych. 2. Gospodarka na drogach lokalnych oraz na odcinkach dróg państwowych pozostających w zarządzie właściwych do spraw gospodarki komunalnej organów prezydiów rad narodowych objęta jest planem i budżetem terenowym. 3. Gospodarka na drogach zakładowych objęta jest planem finansowym lub budżetem właściwych dla danej drogi zakładów, a jeżeli zakłady są jednostkami gospodarki nie uspołecznionej - prowadzona jest na koszt właścicieli tych zakładów. 4. W przypadku gdy droga zakładowa stanowi dojazd do kilku zakładów, koszty budowy i utrzymania takiej drogi pokrywane są przez zainteresowane zakłady. 5. Rada Ministrów wyda szczegółowe przepisy w sprawie udziału poszczególnych zakładów w kosztach, o których mowa w ust. 4."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Zasady, zakres i sposób prowadzenia ewidencji poszczególnych kategorii dróg publicznych ustalą: 1) w stosunku do dróg określonych w art. 13 - Minister Komunikacji, 2) w stosunku do dróg określonych w art. 14 - Minister Gospodarki Komunalnej. Rozdział 2 Organy administracji państwowej właściwe w zakresie budowy, przebudowy, ochrony i utrzymania dróg publicznych"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Naczelnym organem administracji państwowej w zakresie budowy, przebudowy, ochrony i utrzymania: 1) dróg państwowych i dróg lokalnych, z wyjątkiem określonych w art. 14 pkt 1 i 2, 2) jezdni dróg przelotowych (państwowych i lokalnych) określonych w art. 14 pkt 2, oraz mostów, wiaduktów i przepustów na tych drogach, 3) dróg zakładowych z wyjątkiem określonych w art. 14 pkt 3 - jest Minister Komunikacji."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Naczelnym organem administracji państwowej w zakresie budowy, przebudowy, ochrony i utrzymania: 1) dróg państwowych i dróg lokalnych (ulic i placów) w granicach administracyjnych miast stanowiących powiaty miejskie i miast wyłączonych z województw, 2) dróg państwowych i dróg lokalnych (ulic i placów): a) w granicach administracyjnych miast innych niż wymienione w pkt 1, b) w granicach administracyjnych osiedli, c) w granicach zabudowy wsi - z wyjątkiem jezdni dróg przelotowych (państwowych i lokalnych) oraz mostów, wiaduktów i przepustów na tych drogach, 3) dróg zakładowych w granicach administracyjnych miast i osiedli oraz w granicach zabudowy wsi - jest Minister Gospodarki Komunalnej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Budowa, przebudowa, ochrona i utrzymanie: 1) dróg państwowych wymienionych w art. 13 pkt 1, 2) jezdni dróg państwowych przelotowych wymienionych w art. 13 pkt 2 oraz mostów, wiaduktów i przepustów na tych drogach - należy do organów podległych Ministrowi Komunikacji. 2. Budowa, przebudowa, ochrona i utrzymanie: 1) dróg lokalnych wymienionych w art. 13 pkt 1, 2) jezdni dróg lokalnych przelotowych wymienionych w art. 13 pkt 2 oraz mostów, wiaduktów i przepustów na tych drogach - należy do właściwych do spraw drogowych organów prezydiów rad narodowych. 3. Budowa, przebudowa, ochrona i utrzymanie dróg państwowych i lokalnych (ulic i placów) wymienionych w art. 14 pkt 1 i 2 - należy do właściwych do spraw gospodarki komunalnej organów prezydiów rad narodowych. 4. Budowa, przebudowa, ochrona i utrzymanie dróg zakładowych należy do zakładów określonych w uchwałach, o których mowa w art. 8, z tym że nadzór państwowy w tym zakresie nad zakładami sprawują: 1) w stosunku do dróg zakładowych wymienionych w art. 13 pkt 3 - właściwe do spraw drogowych organy prezydiów powiatowych rad narodowych; 2) w stosunku do dróg zakładowych wymienionych w art. 14 pkt 3 - właściwe do spraw gospodarki komunalnej organy prezydiów powiatowych (miejskich) rad narodowych."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Szczegółowe przepisy w sprawie organizacji i zakresu działania drogowej służby liniowej wydają: 1) w stosunku do dróg określonych w art. 13 - Minister Komunikacji; 2) w stosunku do dróg określonych w art. 14 - Minister Gospodarki Komunalnej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Ilekroć w dalszych przepisach niniejszej ustawy jest mowa o zarządzie drogi, należy przez to rozumieć określone w art. 15 organy właściwe w sprawach budowy, przebudowy, ochrony i utrzymania dróg publicznych. Rozdział 3 Pasy drogowe"
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Pasem drogowym jest pas gruntu zajęty pod drogę publiczną wraz z jej częściami składowymi i przynależnościami, jak jezdnia drogi, mosty, wiadukty i przepusty znajdujące się w ciągu drogi, pobocza, skarpy i urządzenia odwadniające, zadrzewienia, drogi letnie, chodniki, ścieżki dla pieszych i rowerzystów, znaki drogowe i urządzenia ostrzegawczo-zabezpieczające oraz sygnalizacyjne; w pasie drogowym mogą znajdować się budynki i urządzenia związane z utrzymaniem dróg oraz z obsługą ruchu drogowego. 2. Pas drogowy oraz wszelkie urządzenia i budynki drogowe znajdujące się w granicach pasa drogowego poza obszarem miast i osiedli oraz poza obszarem wsi o zabudowie ciągłej lub skupionej nie mogą być zajmowane na cele nie związane z gospodarką lub komunikacją drogową. 3. W uzasadnionych przypadkach umieszczenie urządzeń nie związanych z gospodarką lub komunikacją drogową lub pozostawienie takich urządzeń w pasie drogowym (ust. 2) może nastąpić za zezwoleniem: 1) Ministra Komunikacji lub upoważnionego przez niego organu - w stosunku do drogi państwowej, 2) właściwego do spraw komunikacji organu prezydium wojewódzkiej rady narodowej - w stosunku do drogi lokalnej, 3) właściwego ze względu na nadzór państwowy (art. 15 ust. 4) organu prezydium powiatowej lub miejskiej rady narodowej - w stosunku do drogi zakładowej."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Prowadzenie wszelkich robót w pasie drogowym dopuszczalne jest tylko za zezwoleniem zarządu drogi. 2. Prowadzący roboty obowiązany jest przywrócić pas drogowy do stanu pełnej użyteczności w sposób i w terminie określonym w zezwoleniu, o którym mowa w ust. 1, i odpowiada za wszelkie szkody wynikłe z prowadzenia robót bez zezwolenia lub niezgodnie z warunkami zezwolenia, jak również za nienależyte lub nieterminowe przywrócenie pasa do stanu użyteczności."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "O przywróceniu pasa drogowego do stanu pierwotnego w razie jego naruszenia orzeka: 1) w stosunku do dróg określonych w art. 13 - właściwy do spraw drogowych organ prezydium powiatowej rady narodowej, 2) w stosunku do dróg określonych w art. 14 - właściwy do spraw gospodarki komunalnej organ prezydium powiatowej (miejskiej) rady narodowej."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Rada Ministrów wydaje przepisy dotyczące pasów drogowych, w szczególności ich szerokości, sposobu zagospodarowania oraz usytuowania wzdłuż pasów lub w ich granicach urządzeń telekomunikacyjnych, energetycznych, melioracyjnych i innych. Rozdział 4 Zajmowanie i zwalnianie gruntów zajętych na cele drogowe"
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Zajmowanie oraz nabywanie i przekazywanie nieruchomości niezbędnych do budowy, przebudowy i utrzymania dróg publicznych odbywa się zgodnie z obowiązującymi w tym zakresie przepisami. 2. Grunty pozostałe po zlikwidowanej drodze mogą być: 1) wykorzystane jako nieruchomość zamienna za grunty zajęte pod nową drogę; 2) przekazane w trybie obowiązujących przepisów zainteresowanym jednostkom administracji państwowej lub gospodarki uspołecznionej; 3) przekazane właściwemu prezydium powiatowej rady narodowej na rzecz Państwowego Funduszu Ziemi. 3. Grunty pozostałe po zlikwidowanej drodze, przebiegającej przez obszar państwowego gospodarstwa leśnego lub rolnego, podlegają przekazaniu na rzecz tych gospodarstw. 4. Na obszarze miast i osiedli dysponowanie gruntami po zlikwidowanej drodze odbywa się w trybie przepisów o gospodarce terenami w miastach i osiedlach. Rozdział 5 Ochrona i utrzymanie dróg publicznych"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Zabrania się dokonywania w obrębie pasa drogowego wszelkich czynności, które mogłyby powodować niszczenie lub uszkodzenie drogi i jej urządzeń albo zmniejszenie trwałości tych urządzeń lub zagrażać bezpieczeństwu ruchu drogowego, a w szczególności: 1) zaorywania lub zwężania w inny sposób pasa drogowego oraz pasa gruntu, o którym mowa w art. 33 ust. 1; 2) włóczenia po drogach lub porzucania na drogach przedmiotów lub używania pojazdów niszczących nawierzchnię drogi; 3) tratowania rowów, skarp, nasypów i wykopów oraz samowolnego rozkopywania drogi; 4) wypasania bydła w pasie drogowym; 5) rozniecania ognisk w pobliżu mostów (wiaduktów) drewnianych i przejeżdżania przez te mosty (wiadukty) z otwartym ogniem lub z nie zamkniętym paleniskiem."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. W przypadkach uzasadnionych stanem technicznym dróg lub mostów zarząd drogi może zamykać lub ograniczać ruch na poszczególnych odcinkach drogi. 2. W stosunku do dróg zakładowych decyzje w sprawach określonych w ust. 1 podejmuje właściwy do spraw nadzoru państwowego nad tymi drogami organ prezydium rady narodowej (art. 15 ust. 4) na wniosek zainteresowanego zakładu lub z własnej inicjatywy."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. W razie potrzeby usunięcia nie należącego do zarządu drogi zadrzewienia lub innych przedmiotów i urządzeń pogarszających widoczność drogi oraz widoczność przejazdu kolejowego i pociągów (tramwajów) z drogi, właściwy do spraw wewnętrznych organ prezydium powiatowej (miejskiej) rady narodowej zarządzi usunięcie zadrzewienia lub urządzenia na wniosek zarządu drogi za odszkodowaniem. 2. Odszkodowanie przewidziane w ust. 1 nie przysługuje, jeśli zadrzewienie lub założenie urządzenia nastąpiło po wybudowaniu drogi publicznej z naruszeniem przepisów o warunkach i dopuszczalnych odległościach wznoszenia urządzeń i zadrzewienia gruntów w pobliżu dróg publicznych."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Ustawianie i utrzymywanie znaków, sygnałów i urządzeń ostrzegawczo-zabezpieczających na drogach publicznych, jak również rogatek i znaków na przejściach granicznych należy do zarządu drogi."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Ministrowie Komunikacji i Gospodarki Komunalnej w porozumieniu z Ministrem Spraw Wewnętrznych wydadzą w drodze rozporządzenia szczegółowe przepisy o ochronie dróg publicznych i technicznych urządzeń drogowych. 2. Ministrowie Komunikacji i Gospodarki Komunalnej w stosunku do dróg objętych ich zakresem działania wydają przepisy w sprawie utrzymania dróg publicznych i technicznych urządzeń drogowych. Rozdział 6 Zadrzewienie dróg publicznych"
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Zarządy dróg powinny sadzić i utrzymywać zadrzewienie (zakrzewienie) przydrożne wzdłuż dróg publicznych poza koroną drogi. 2. Sadzenie drzew nie jest obowiązujące: 1) na odcinkach dróg przebiegających przez tereny zabudowy; 2) na odcinkach dróg przebiegających przez lasy. 3. Zarządy dróg mogą sadzić drzewa i krzewy: 1) w obrębie pasa drogowego (art. 18); 2) na pasach przydrożnych wolnych od uprawy (art. 33 ust. 1); 3) na gruntach przyległych do drogi, gdy jest przewidywane poszerzenie istniejącej drogi. 4. Drzewa i krzewy na gruntach wymienionych w ust. 3 pkt 1 są sadzone i utrzymywane przez zarząd drogi i stanowią własność Państwa. 5. Drzewa i krzewy na gruntach wymienionych w ust. 3 pkt 2 są sadzone i utrzymywane przez zarząd drogi i stanowią własność Państwa, z tym że: 1) utrzymywanie drzew owocowych należy do właściciela pasa przydrożnego, a owoce z tych drzew stanowią jego własność; 2) po wycięciu drzew lub krzewów, które może nastąpić po uzyskaniu zgody właściwego zarządu drogi, drewno z tych drzew przechodzi na własność właściciela pasa przydrożnego. 6. Drzewa i krzewy na gruntach wymienionych w ust. 3 pkt 3 są sadzone przez zarząd drogi. Stanowią one własność właścicieli tych gruntów i są przez nich utrzymywane. 7. Na drogach lokalnych gruntowych obowiązek sadzenia drzew przydrożnych należy do gromadzkich rad narodowych, przy czym miejsca sadzenia drzew ustala właściwy do spraw drogowych organ prezydium powiatowej rady narodowej."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. W celu niedopuszczenia do zagrożenia lub przerwania komunikacji na drogach publicznych na skutek zasp śnieżnych oraz w celu ochrony dróg przed zawiewaniem piaskiem, zarząd drogi ma prawo: 1) urządzać i utrzymywać na gruntach przyległych do drogi zasłony odśnieżne i żywopłoty; 2) zakładać i utrzymywać na gruntach przyległych do drogi pasy zadrzewień ochronnych; 3) wstępu na grunty przyległe do drogi w celu wykonywania czynności określonych w pkt 1 i 2. 2. Zadrzewienia ochronne określone w ust. 1 pkt 2 stanowią własność właścicieli gruntów, na których są założone. 3. Urządzenie zasłon odśnieżnych, żywopłotów i pasów zadrzewień ochronnych (ust. 1) na gruntach kolejowych wymaga zgody właściwego zarządu kolei. 4. W razie wyrządzenia szkody przy urządzaniu, utrzymywaniu lub zdejmowaniu zasłon odśnieżnych oraz zakładaniu i utrzymywaniu żywopłotów i pasów zadrzewień ochronnych osobom poszkodowanym przysługuje odszkodowanie."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Szczegółowe przepisy o zadrzewianiu (zakrzewianiu) dróg publicznych, o utrzymywaniu zadrzewień, sadzeniu i utrzymywaniu żywopłotów i pasów zadrzewień ochronnych, o ochronie zadrzewienia (zakrzewienia) przed niszczeniem, o warunkach sadzenia drzew na gruntach przyległych do drogi (art. 28 ust. 3 pkt 3) oraz o zasadach i trybie usuwania drzew (krzewów) przy drogach publicznych wydają w drodze rozporządzenia Ministrowie Komunikacji i Gospodarki Komunalnej w stosunku do dróg objętych ich zakresem działania w porozumieniu z Ministrem Leśnictwa i Przemysłu Drzewnego, Ministrem Rolnictwa i Przewodniczącym Komitetu Budownictwa, Urbanistyki i Architektury. Rozdział 7 Obowiązki właścicieli gruntów przyległych do drogi publicznej"
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Właściciele gruntów przyległych do drogi obowiązani są dozwolić organom służby drogowej wstępu na te grunty, jeżeli to jest potrzebne do wykonania czynności związanych z utrzymaniem dróg publicznych. 2. Szkody wyrządzone wskutek wstępu na grunt pokrywa zarząd drogi."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. W razie powstania przerwy w komunikacji na drodze publicznej właściciele gruntów obowiązani są zezwolić na urządzenie czasowego przejazdu przez ich grunty, o ile zarząd drogi uzna to za konieczne. 2. Właścicielowi gruntu przysługuje odszkodowanie od zarządu drogi za szkody wyrządzone w związku z urządzeniem czasowego przejazdu."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Na odcinkach dróg, na których nie ustalono pasów drogowych, właściciele przyległych do drogi gruntów powinni pozostawić wolne od uprawy pasy gruntów o szerokości 0,75 m (pasy przydrożne), licząc od zewnętrznej krawędzi rowu lub stopy nasypu. Usuwanie chwastów w pasach przydrożnych należy do obowiązków właścicieli tych pasów. 2. Właściciele pasów przydrożnych (ust. 1) obowiązani są zezwolić na bezpłatne, czasowe składanie na tych pasach ziemi, błota, śniegu, lodu i kurzu zgarniętego z drogi oraz na sadzenie drzew przydrożnych. 3. Właściciele gruntów przyległych do drogi obowiązani są zezwolić na rozrzucanie błota lub kurzu złożonego wzdłuż drogi na ich grunty; rozrzucanie błota lub kurzu na pola uprawne lub łąki może być dokonane tylko w czasie, kiedy to nie będzie szkodziło uprawom lub łąkom. 4. W razie wyrządzenia szkody przez rozrzucenie błota lub kurzu na gruntach przyległych do drogi (ust. 3) osobom poszkodowanym przysługuje odszkodowanie."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Właściciele albo osoby lub jednostki, sprawujące zarząd przyległych do drogi nieruchomości, obowiązane są na odcinkach dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, do oczyszczania i usuwania z tych dróg błota, kurzu oraz do usuwania śniegu i lodu na pobocza. 2. Obowiązek określony w ust. 1 obejmuje oczyszczanie dróg do połowy jezdni, o ile po obu stronach drogi przyległe nieruchomości należą do różnych osób lub różnych jednostek sprawujących zarząd tymi nieruchomościami. 3. Nad utrzymaniem czystości i porządku na odcinkach dróg wymienionych w ust. 1 czuwają gromadzkie rady narodowe. W uzasadnionych przypadkach gromadzkie rady narodowe organizują wywóz śniegu i lodu we własnym zakresie. 4. Odpowiedzialność za wykonywanie czynności określonych w ust. 1 ponoszą właściciele, osoby, które w drodze umowy z zarządem nieruchomości podjęły się wykonywania tych czynności, albo też pracownicy jednostek sprawujących zarząd nieruchomości, którym powierzono wykonywanie tych czynności. 5. Oczyszczanie dróg publicznych na terenie miast i osiedli normują odrębne przepisy. Rozdział 8 Odszkodowania"
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Wysokość odszkodowania przewidzianego w art. 25 ust. 1, art. 29 ust. 4, art. 31 ust. 2, art. 32 ust. 2, art. 33 ust. 4 ustala zarząd drogi w porozumieniu z osobami zainteresowanymi. 2. W razie niedojścia do porozumienia, wysokość odszkodowania określa właściwy do spraw wewnętrznych organ prezydium powiatowej (miejskiej miasta stanowiącego powiat miejski, dzielnicowej w mieście wyłączonym z województwa) rady narodowej przy odpowiednim zastosowaniu zasad i trybu obowiązującego przy wywłaszczaniu nieruchomości. 3. Ustalenie wysokości odszkodowania nie wstrzymuje wykonania czynności lub robót przewidzianych w art. 25 ust. 1, art. 29 ust. 1, art. 31 ust. 1, art. 32 ust. 1 i art. 33 ust. 3. Rozdział 9 Właściwość w zakresie budowy, przebudowy i utrzymania skrzyżowań dróg publicznych z kolejami, drogami wodnymi i innymi urządzeniami oraz zjazdów z drogi i urządzeń odwadniających"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Budowa, przebudowa i utrzymanie skrzyżowań torów kolejowych z drogami publicznymi w poziomie szyn wraz z rogatkami i znakami ostrzegawczymi oraz urządzeniami sygnalizacji świetlnej i dźwiękowej na przestrzeni między rogatkami, a w ich braku na długości do 10 m od skrajnych szyn po obu stronach torowiska, należy do zarządu kolei. 2. Budowa skrzyżowań drogi publicznej z torami kolejowymi w różnych poziomach, w razie budowy nowej drogi, należy do zarządu drogi, w razie zaś budowy nowej lub zmiany trasy istniejącej kolei albo zwiększenia ilości torów - do zarządu kolei. 3. Przebudowa jednopoziomowego skrzyżowania toru kolejowego z drogą publiczną na dwupoziomowe należy do zarządu kolei lub zarządu drogi, stosownie do porozumienia między tymi zarządami. 4. Odbudowa i przebudowa wiaduktów drogowych należy do zarządu drogi, a wiaduktów kolejowych do zarządu kolei. 5. Utrzymanie wiaduktów drogowych nad koleją wraz z dojazdami do nich należy do zarządu drogi, a utrzymanie wiaduktów kolejowych nad drogami publicznymi do zarządu kolei. 6. W zakresie utrzymania wiaduktów każdy z zarządów działa w porozumieniu z drugim zainteresowanym zarządem."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Budowa skrzyżowań dróg publicznych z istniejącymi drogami wodnymi należy do zarządu drogi. 2. Budowa skrzyżowania drogi wodnej z drogą publiczną w razie budowy nowej drogi wodnej lub w razie zmiany warunków wodnych istniejącej drogi wodnej należy do zarządu drogi wodnej. 3. Budowa skrzyżowania drogi publicznej z drogą wodną po koronie budowli wodnej (zapory lub jazu) należy do zarządu drogi publicznej względnie zarządu drogi wodnej, stosownie do porozumienia między tymi zarządami."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Budowa i przebudowa dróg publicznych w miejscach skrzyżowania się z liniami telekomunikacyjnymi, energetycznymi wysokiego i niskiego napięcia, gazowymi, wodociągowymi i innymi urządzeniami, jak również budowa tych linii i urządzeń w miejscach skrzyżowania się z drogami publicznymi następuje po porozumieniu się właściwych zarządów."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Utrzymywanie urządzeń odwadniających (przepustów, rowów itp.) na skrzyżowaniach dróg publicznych należy do zarządu drogi wyższej kategorii. W przypadku skrzyżowania się dróg zakładowych koszty utrzymania urządzeń odwadniających ponoszą zainteresowane zakłady. 2. Urządzenie zjazdów z drogi publicznej w przypadku budowy lub przebudowy drogi należy do zarządu drogi. 3. Urządzenie zjazdów z drogi istniejącej należy do właścicieli lub użytkowników gruntów przyległych do drogi po uzyskaniu zezwolenia zarządu drogi. 4. Utrzymywanie zjazdów z drogi publicznej należy do właścicieli lub użytkowników nieruchomości przyległych do drogi. Rozdział 10 Koszty budowy, przebudowy i utrzymania dróg publicznych stanowiących dojazdy i skrzyżowań tych dróg z innymi urządzeniami"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Koszty budowy, przebudowy i utrzymania dojazdów do stacji kolejowych, portów handlowych morskich lub śródlądowych i lotnisk pokrywają po połowie zarząd drogi oraz zarząd kolei, portu lub lotniska. 2. Koszty budowy, przebudowy i utrzymania placów przed dworcami kolejowymi oraz dróg łączących główny budynek dworca z innymi urządzeniami kolejowymi ponosi zarząd kolei. 3. Koszty budowy, przebudowy i utrzymania placów przed portami lotniczymi, pozostających w administracji portu lotniczego, oraz dróg łączących główny budynek lotniska z innymi urządzeniami lotniska ponosi zarząd lotniska."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Koszty: 1) budowy skrzyżowań drogi publicznej z torami kolejowymi w razie budowy kolei lub zmiany trasy kolei istniejącej albo zwiększenia ilości torów ponosi zarząd kolei; 2) budowy skrzyżowań drogi publicznej z torami kolejowymi, z drogą wodną lub z rowem odwadniającym w razie budowy drogi ponosi zarząd drogi; 3) przebudowy skrzyżowania drogi publicznej z kolejami z jednopoziomowego na dwupoziomowe w innych przypadkach niż przewidziane w pkt 1 ponosi zarząd kolei lub zarząd drogi, stosownie do porozumienia między tymi zarządami; 4) utrzymania skrzyżowań torów kolejowych z drogami publicznymi w poziomie szyn wraz z rogatkami i samoczynną sygnalizacją świetlną i dźwiękową oraz skrzyżowań bez rogatek i bez samoczynnej sygnalizacji świetlnej (art. 36 ust. 1) ponosi zarząd kolei; 5) przebudowy wiaduktów stałych w przypadkach zmiany warunków technicznych budowy tych obiektów ponosi zarząd drogi lub zarząd kolei w zależności od tego, który z tych zarządów zmienia warunki techniczne; 6) utrzymania wiaduktów drogowych nad koleją i wiaduktów dla pieszych nad koleją, stanowiących ciąg drogi publicznej, oraz mostów nad drogami wodnymi i rowami odwadniającymi wraz z dojazdami do nich ponosi zarząd drogi; koszty utrzymania prowizorycznych wiaduktów drogowych nad koleją, wybudowanych przez zarząd kolei, oraz przebudowy ich na obiekty stałe ponosi zarząd kolei, jeżeli zarząd ten miał obowiązek wybudowania wiaduktu; 7) budowy i utrzymania wiaduktów dla pieszych w obrębie stacji kolejowych, jeżeli nie stanowią one ciągów dróg publicznych, ponosi zarząd kolei; 8) utrzymania wiaduktów kolejowych nad drogami publicznymi wraz z urządzeniami zbudowanymi łącznie z wiaduktami i służącymi do odprowadzania wody ponosi zarząd kolei; 9) budowy i utrzymania wiaduktów drogowo-kolejowych nad koleją lub drogą ponoszą po połowie zarząd drogi i zarząd kolei; 10) budowy i utrzymania mostów drogowo-kolejowych ponoszą po połowie zarząd drogi i zarząd kolei; 11) utrzymania rogatek granicznych na drogach publicznych ponosi zarząd drogi; 12) zmiany trasy dróg publicznych spowodowanej realizacją inwestycji niedrogowej ponosi inwestor, który spowodował zmianę trasy. 2. Koszty budowy skrzyżowań dróg publicznych z kanałami żeglownymi lub z rowami odwadniającymi normują przepisy prawa wodnego. Rozdział 11 Świadczenia na rzecz utrzymania dróg publicznych"
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Na cele zwalczania zagrożenia lub przerwania komunikacji na skutek zasp śnieżnych, powodzi lub usuwisk, jeżeli środki techniczne, którymi dysponuje zarząd drogi, są niewystarczające, prezydium miejskiej, względnie gromadzkiej rady narodowej lub rady narodowej osiedla, właściwej ze względu na obszar zagrożony, może na wniosek zarządu drogi wprowadzić na określony czas w drodze uchwały obowiązek odpłatnych świadczeń osobistych i rzeczowych. 2. Świadczenia, o których mowa w ust. 1, polegają na obowiązku wykonywania określonych robót na drogach publicznych (świadczenia osobiste) albo na obowiązku dostarczania środków przewozowych i sprzętu niezbędnego do wykonania tych robót (świadczenia rzeczowe)."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Do wykonywania świadczeń osobistych na cele określone w art. 42 obowiązane są osoby fizyczne, zamieszkałe na terenie objętym uchwałą prezydium właściwej rady narodowej. 2. Do wykonywania świadczeń rzeczowych na cele określone w art. 42 obowiązani są posiadacze pojazdów samochodowych i zaprzęgowych, znajdujących się na terenie objętym uchwałą prezydium właściwej rady narodowej."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Od obowiązków określonych w art. 43 ust. 1 są zwolnione: 1) osoby niezdolne do pełnienia tych obowiązków wskutek inwalidztwa, choroby lub ułomności fizycznej, 2) kobiety w ciąży oraz w okresie 10 tygodni po odbyciu połogu, 3) matki lub inne osoby sprawujące opiekę nad dziećmi w wieku do lat 8 oraz osoby sprawujące opiekę nad chorymi, 4) osoby nieletnie do lat 16, 5) mężczyźni, którzy ukończyli 60 lat, a kobiety - 55 lat. 2. Od obowiązków określonych w art. 43 ust. 1 zwolnieni są ponadto: 1) szefowie i cudzoziemski personel przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych oraz inne osoby korzystające z immunitetów i przywilejów dyplomatycznych na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych, 2) żołnierze w czynnej służbie wojskowej oraz funkcjonariusze Milicji Obywatelskiej i Służby Więziennej."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Przepisy art. 43 ust. 2 nie dotyczą: 1) pojazdów będących w dyspozycji jednostek wojskowych, zakładów karnych oraz pojazdów jednostek podległych Ministrowi Spraw Wewnętrznych z wyjątkiem pojazdów Głównego Urzędu Geodezji i Kartografii, Instytutu Geodezji i Kartografii oraz przedsiębiorstw podległych Ministrowi Spraw Wewnętrznych; 2) pojazdów obsługi technicznej urządzeń komunalnych; 3) pojazdów przeznaczonych do niesienia pomocy w razie klęsk żywiołowych, nieszczęśliwych wypadków i awarii; 4) z zastrzeżeniem wzajemności - pojazdów należących do przedstawicielstw dyplomatycznych i urzędów konsularnych państw obcych, szefów i cudzoziemskiego personelu tych przedstawicielstw i urzędów, a także innych instytucji i osób korzystających z immunitetów i przywilejów dyplomatycznych na mocy ustaw, umów lub powszechnie ustalonych zwyczajów międzynarodowych."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Wykonującym usługi z tytułu świadczeń osobistych i rzeczowych przysługuje wynagrodzenie. 2. Rada Ministrów w drodze rozporządzenia określi zasady i tryb ustalania wysokości oraz wypłaty wynagrodzenia, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Osobom, które w związku z wykonywaniem obowiązków, o których mowa w art. 42, ulegną wypadkowi, oraz członkom ich rodzin przysługuje prawo do świadczeń z tytułu wypadku w zatrudnieniu, przewidziane w dekrecie z dnia 25 czerwca 1954 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin ( Dz. U. z 1958 r. Nr 23, poz. 97 ) z zastrzeżeniem art. 115 ust. 2 tego dekretu w stosunku do osób nie będących pracownikami w dniu wypadku. 2. Dla osób, które w dniu wypadku nie były pracownikami, za podstawę wymiaru renty przysługującej na podstawie przepisów ust. 1 przyjmuje się najniższą kwotę podstawy wymiaru renty określoną w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin. 3. Za zniszczenie, uszkodzenie lub utratę bez winy właściciela użytych do świadczeń pojazdów, inwentarza pociągowego i innych rzeczy zarząd drogi wypłaca odszkodowanie w pełnej wysokości szkody, obliczonej według rzeczywistej wartości mienia w dniu powstania szkody. Jeżeli jednak szkody te objęte są ubezpieczeniem, odszkodowanie zmniejsza się o kwotę przyznanego odszkodowania z tytułu ubezpieczenia. 4. Osoba zainteresowana, nie zgadzająca się z decyzją organu ustalającego odszkodowanie (ust. 3), może dochodzić swych roszczeń na zasadach ustalonych dla dochodzenia roszczeń z tytułu ubezpieczeń majątkowych i osobowych."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Rada Ministrów określi w drodze rozporządzenia: 1) szczegółowe zasady i tryb: a) powoływania do świadczeń osobistych i rzeczowych na cele wymienione w art. 42; b) zwalniania od obowiązku świadczeń osobistych innych osób oprócz wymienionych w art. 44; c) wyłączania od obowiązku świadczeń rzeczowych innych pojazdów oprócz wymienionych w art. 45; d) ustalania i wypłacania odszkodowań, o których mowa w art. 47 ust. 3; 2) szczegółowy sposób wykonywania świadczeń osobistych i rzeczowych; 3) organy właściwe w sprawach wymienionych w pkt 1."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Uspołecznione jednostki gospodarcze objęte planem centralnym i terenowym obowiązane są do udziału w kosztach: 1) inwestycji drogowych, o ile budowa lub przebudowa określonych odcinków dróg państwowych lub lokalnych jest związana bezpośrednio z potrzebami tych jednostek, 2) utrzymania dróg lokalnych, które są przez te jednostki szczególnie wykorzystywane."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Koszty wzmocnienia mostów i wiaduktów drogowych oraz koszty naprawy uszkodzeń tych mostów i wiaduktów, spowodowanych przewożeniem pojazdami ciężarów, przekraczających dopuszczalne obciążenie danego obiektu, ponoszą dokonujący tych przewozów."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Rada Ministrów wyda szczegółowe przepisy w sprawie udziału w kosztach wymienionych w art. 49 i 50, jak również określi organy właściwe do ustalania tych kosztów. Rozdział 12 Przepisy karne"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. Kto: 1) bez zezwolenia zajmuje pas drogowy lub urządzenia i budynki drogowe, znajdujące się zarówno w granicach pasa drogowego, jak i poza tym pasem, na cele nie związane z gospodarką i komunikacją drogową, 2) wbrew przepisom art. 19 prowadzi roboty w pasie drogowym bez zezwolenia lub nie przywraca tego pasa do stanu użyteczności, 3) zajmuje drogę na cele niezgodne z jej przeznaczeniem lub niszczy i uszkadza drogi i wszelkie przynależności i urządzenia drogowe, 4) roznieca ogniska w pobliżu mostów (wiaduktów) drewnianych albo przejeżdża przez te mosty (wiadukty) z otwartym ogniem lub z nie zamkniętym paleniskiem - podlega karze grzywny do 4.500 złotych. 2. Kto: 1) zaorywa lub w inny sposób zwęża pas drogowy lub pas przydrożny (art. 33 ust. 1), 2) włóczy po drogach, porzuca na drodze przedmioty lub używa pojazdów niszczących nawierzchnię drogi, 3) tratuje rowy, skarpy nasypów i wykopów oraz samowolnie rozkopuje drogę, 4) wypasa bydło w pasie drogowym - podlega karze grzywny do 3.000 złotych. 3. Kto mimo zamknięcia drogi używa tej drogi - podlega karze grzywny do 4.500 złotych. 4. Kto wbrew przepisom wydanym na podstawie art. 30 niszczy lub usuwa drzewa, zadrzewienia przydrożne i ochronne oraz krzewy, żywopłoty i zasłony odśnieżne - podlega karze grzywny do 4.500 złotych. 5. Kto, będąc obowiązany do oczyszczania i usuwania z odcinków dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, błota, kurzu, śniegu i lodu (art. 34), uchyla się od wykonywania tych czynności - podlega karze grzywny do 1.500 złotych. 6. Kto będąc obowiązany do utrzymania w należytym stanie zjazdów z dróg publicznych do przyległych nieruchomości uchyla się od tego obowiązku - podlega karze grzywny do 1.500 złotych. 7. Kto bez ważnej przyczyny uchyla się od nałożonego obowiązku świadczeń osobistych lub rzeczowych na cele zwalczania zagrożenia lub przerwania komunikacji na skutek zasp śnieżnych, powodzi lub usuwisk albo wykonuje je nienależycie - podlega karze grzywny do 4.500 złotych."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Orzekanie w sprawach określonych w art. 52 następuje w trybie przepisów o orzecznictwie karno-administracyjnym. Rozdział 13 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Drogi publiczne, zaliczone do kategorii dróg państwowych przed wejściem w życie niniejszej ustawy, stają się drogami państwowymi, zaliczone zaś do kategorii dróg lokalnych - drogami lokalnymi w rozumieniu niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "1. Tracą moc: 1) ustawa z dnia 10 grudnia 1920 r. o budowie i utrzymaniu dróg publicznych ( Dz. U. z 1948 r. Nr 54, poz. 433 , z 1950 r. Nr 21, poz. 185 i z 1956 r. Nr 35, poz. 158 ) , 2) ustawa z dnia 23 czerwca 1921 r. w przedmiocie rozszerzenia sieci dróg państwowych ( Dz. U. Nr 63, poz. 387 ) , 3) ustawa z dnia 7 października 1921 r. o przepisach porządkowych na drogach publicznych ( Dz. U. z 1921 r. Nr 89, poz. 656 , z 1928 r. Nr 18, poz. 151 i Nr 23, poz. 202 , z 1934 r. Nr 110, poz. 976 , z 1960 r. Nr 54, poz. 311 i z 1961 r. Nr 53, poz. 295 ) , 4) ustawa z dnia 29 stycznia 1948 r. o rozciągnięciu mocy obowiązującej ustawy z dnia 7 października 1921 r. o przepisach porządkowych na drogach publicznych na cały obszar województwa śląskiego ( Dz. U. Nr 10, poz. 73 ) , 5) rozporządzenie Prezydenta Rzeczypospolitej z dnia 1 czerwca 1927 r. o ustalaniu szerokości dróg publicznych na obszarze Rzeczypospolitej Polskiej, na którym obowiązują przepisy prawa cywilnego zawarte w tomie X cz. 1 Zbioru Praw cesarstwa rosyjskiego ( Dz. U. Nr 51, poz. 453 ) , 6) rozporządzenie Prezydenta Rzeczypospolitej z dnia 11 października 1927 r. o zmianach w sieci publicznych dróg państwowych ( Dz. U. Nr 91, poz. 817 ) , 7) dekret z dnia 4 sierpnia 1956 r. o podziale dróg publicznych ( Dz. U. Nr 35, poz. 158 ) . 2. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie niniejszej ustawy pozostają w mocy dotychczasowe przepisy."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_1-arti_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_1-arti_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_1-arti_4-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_5-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_5-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_5-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_11-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_11-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_1-arti_12-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_12-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Organy administracji państwowej właściwe w zakresie budowy, przebudowy, ochrony i utrzymania dróg publicznych\",\"children\": [{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"chpt_2-arti_13-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_13-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_13-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_14-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"chpt_2-arti_14-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-arti_14-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_2-arti_14-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_2-arti_14-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_15-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_15-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_15-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_15-pass_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_16-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Pasy drogowe\",\"children\": [{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_18-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"chpt_3-arti_18-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_18-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_18-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_3-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_3-arti_20-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_20-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Zajmowanie i zwalnianie gruntów zajętych na cele drogowe\",\"children\": [{\"id\": \"chpt_4-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"chpt_4-arti_22-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_22-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"chpt_4-arti_22-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_22-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_22-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_22-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_4-arti_22-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Ochrona i utrzymanie dróg publicznych\",\"children\": [{\"id\": \"chpt_5-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"chpt_5-arti_23-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_23-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_23-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_5-arti_23-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_5-arti_23-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"chpt_5-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_5-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_5-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_5-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_5-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_6\",\"symbol\": \"chpt_6\",\"type\": \"chpt\",\""
+    }
+  ],
+  "definitions": []
+}

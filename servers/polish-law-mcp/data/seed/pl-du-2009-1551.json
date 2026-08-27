@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2009-1551",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 września 2009 r. o zmianie ustawy o pomocy społecznej",
+  "title_en": "",
+  "short_name": "pl-du-2009-1551",
+  "status": "amended",
+  "issued_date": "2009-09-24",
+  "in_force_date": "2009-12-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/1551",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 marca 2004 r. o pomocy społecznej ( Dz. U. z 2009 r. Nr 175, poz. 1362 ) wprowadza się następujące zmiany: 1) art. 150 otrzymuje brzmienie: „ Art. 150. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się przepisy niniejszej ustawy, z zastrzeżeniem art. 150a. ” ; 2) po art. 150 dodaje się art. 150a w brzmieniu: „ Art. 150a. Do spraw o przyznanie zasiłku stałego, w których do dnia 30 kwietnia 2004 r. organ właściwy nie wydał decyzji ostatecznej, stosuje się przepisy ustawy z dnia 29 listopada 1990 r. o pomocy społecznej . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W sprawach, o których mowa w art. 150a ustawy z dnia 12 marca 2004 r. o pomocy społecznej , organ właściwy prowadzi postępowanie z urzędu. 2. Przyznając zasiłek stały, organ właściwy rozpatruje sprawę, przyjmując za podstawę stan faktyczny istniejący w dniu złożenia wniosku o przyznanie zasiłku stałego. 3. Zasiłek stały wypłaca się za okres, w którym osoba posiadała prawo do zasiłku stałego. 4. Osobie, która otrzymała zasiłek stały, o którym mowa w ust. 3, organ właściwy do wypłaty świadczeń rodzinnych ustala prawo do świadczenia pielęgnacyjnego na podstawie art. 58 ustawy z dnia 28 listopada 2003 r. o świadczeniach rodzinnych ( Dz. U. z 2006 r. Nr 139, poz. 992 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800. ) , jednak nie dłużej niż do końca miesiąca poprzedzającego miesiąc, za który osoba otrzymała świadczenie pielęgnacyjne, o którym mowa w art. 17 ustawy o świadczeniach rodzinnych ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Z dniem wejścia w życie ustawy tracą moc decyzje o umorzeniu postępowań w sprawie przyznania zasiłku stałego, wydane przed dniem 13 listopada 2007 r. w związku z art. 150 ustawy z dnia 12 marca 2004 r. o pomocy społecznej ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 222, poz. 1630, z 2007 r. Nr 64, poz. 427, Nr 105, poz. 720, Nr 109, poz. 747, Nr 192, poz. 1378 i Nr 200, poz. 1446, z 2008 r. Nr 70, poz. 416, Nr 138, poz. 872 i 875, Nr 223, poz. 1456 i Nr 237, poz. 1654 oraz z 2009 r. Nr 97, poz. 800. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

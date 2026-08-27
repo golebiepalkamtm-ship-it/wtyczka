@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1927-208",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 marca 1927 r. o samoistnym podatku wyrównawczym dla gmin wiejskich b. zaboru rosyjskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1927-208",
+  "status": "in_force",
+  "issued_date": "1927-03-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1927/208",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Gminom wiejskim b. zaboru rosyjskiego przysługuje prawo pobierania samoistnego podatku wyrównawczego od płatników państwowych podatków od gruntów, przemysłu, handlu i budynków oraz od płatników samoistnego podatku od gruntów państwowych, opłacanego na rzecz gminy i powiatowego związku komunalnego łącznie. Ogólna suma tego podatku nie może przewyższać deficytu, wykazanego w budżecie gminy, pomimo uwzględnienia wszystkich źródeł dochodowych, przewidzianych w ustawie z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych, ani nie może być wyższa od sumy złotych równej ilości ha gruntów, opodatkowanych w danej gminie. Ogólna suma podatku wyrównawczego podlega podziałowi pomiędzy poszczególnych podatników w stosunku do przypadającego na każdego z nich zasadniczego podatku gruntowego, ceny świadectw przemysłowych i handlowych i podatku budynkowego (rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 czerwca 1924 r. Dz. U. R. P. Nr 51, poz. 523 i ustawa z dnia 1 kwietnia 1925 r. Dz. G. R. P. Nr 43, poz. 296) oraz od gruntów państwowych, opłacanego na rzecz gminy i powiatowego związku komunalnego łącznie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Gminy wiejskie, które mimo wyczerpania wszystkich źródeł dochodowych łącznie z wpływami, z niniejszej ustawy wynikającemi, nie są w stanie pokryć normalnych wydatków, mają prawo, za zezwoleniem wojewody w porozumieniu z prezesem izby skarbowej, powiększyć wymiar podatku wyrównawczego o 50%."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i traci moc obowiązującą dnia 31 marca 1930 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

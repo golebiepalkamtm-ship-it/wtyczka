@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2002-1805",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 października 2002 r. o zmianie ustawy o wynagrodzeniu osób zajmujących kierownicze stanowiska oraz ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1805",
+  "status": "amended",
+  "issued_date": "2002-10-30",
+  "in_force_date": "2002-12-17",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1805",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. Nr 20, poz. 101, z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552 oraz z 2001 r. Nr 154, poz. 1784 i 1800. ) wprowadza się następujące zmiany: 1) w art. 2a dodaje się ust. 4 w brzmieniu: „ 4. W 2003 r. wynagrodzenie Prezydenta ustala się w wysokości wynagrodzenia przysługującego Prezydentowi w grudniu 2002 r. ” ; 2) w art. 3 dodaje się ust. 2c w brzmieniu: „ 2c. W 2003 r. wynagrodzenie osób zajmujących kierownicze stanowiska państwowe, wymienionych w art. 2 pkt 2-4, ustala się w wysokości wynagrodzenia przysługującego tym osobom w grudniu 2002 r. ” ; 3) w art. 4 ust. 1 otrzymuje brzmienie: „ 1. Osobie zajmującej kierownicze stanowisko państwowe może być przyznane wynagrodzenie ryczałtowe z tytułu stałej dodatkowej pracy w charakterze nauczyciela akademickiego w szkole wyższej albo pracownika naukowego w instytucie naukowym lub naukowo-badawczym, jeżeli osoba ta posiada tytuł naukowy profesora lub stopień naukowy doktora habilitowanego. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw ( Dz. U. Nr 110, poz. 1255 , z 2000 r. Nr 19, poz. 239 , z 2001 r. Nr 85, poz. 924 , Nr 100, poz. 1080 i Nr 154, poz. 1784 i 1799 oraz z 2002 r. Nr 74, poz. 676 , Nr 152, poz. 1267 i Nr 213, poz. 1802 ) dodaje się art. 29e w brzmieniu: „ Art. 29e. W 2003 r. kwota bazowa dla osób zajmujących kierownicze stanowiska państwowe nie jest waloryzowana. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2003 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1982 r. Nr 31, poz. 214, z 1985 r. Nr 22, poz. 98 i Nr 50, poz. 262, z 1987 r. Nr 21, poz. 123, z 1989 r. Nr 34, poz. 178, z 1991 r. Nr 100, poz. 443, z 1993 r. Nr 1, poz. 1, z 1995 r. Nr 34, poz. 163 i Nr 142, poz. 701, z 1996 r. Nr 73, poz. 350, Nr 89, poz. 402, Nr 106, poz. 496 i Nr 139, poz. 647, z 1997 r. Nr 75, poz. 469 i Nr 133, poz. 883, z 1998 r. Nr 155, poz. 1016 i Nr 160, poz. 1065, z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 6, poz. 69 i Nr 48, poz. 552 oraz z 2001 r. Nr 154, poz. 1784 i 1800. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

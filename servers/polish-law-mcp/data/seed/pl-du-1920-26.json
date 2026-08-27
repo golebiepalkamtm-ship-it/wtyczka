@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-26",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 stycznia 1920 r. w przedmiocie ustanowienia marki polskiej prawnym środkiem płatniczym na całym obszarze Rzeczypospolitej.",
+  "title_en": "",
+  "short_name": "pl-du-1920-26",
+  "status": "in_force",
+  "issued_date": "1920-01-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/26",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Marka polska jest prawnym środkiem płatniczym na całym obszarze Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W tych dzielnicach Rzeczypospolitej, w których dotychczas prawnym środkiem płatniczym była korona austrjacko - węgierska, wszelkie wypłaty dotąd należne w koronach mogą być dokonywane bądź w koronach, bądź w markach polskich w stosunku 70 marek polskich za 100 koron."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wszelkie zobowiązania płatnicze w koronach austrjacko - węgierskich mogą być uiszczane w markach polskich według stosunku w art. 2 wskazanego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zawieranie umów, sprzeciwiających się przepisom zawartym w art. 2 i 3, jakoteż żądanie przy wypłatach, należnych w koronach, a dokonywanych w markach polskich, innego kursu przerachowania lub odmówienie przyjęcia zapłaty w markach polskich - jest zakazane."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Winni wykroczenia lub usiłowania wykroczenia przeciwko zakazowi, zawartemu w art. 4 niniejszej ustawy, podlegają karze aresztu do 1 roku i grzywnie do miljona marek polskich. Nadto umowy zawarte wbrew temu zakazowi są nieważne. Do ścigania wykroczeń powołane są sądy powiatowe, względnie sądy pokoju."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

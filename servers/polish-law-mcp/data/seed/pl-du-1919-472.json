@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1919-472",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 października 1919 r. o wieku pełnoletności w b. zaborze austrjackim.",
+  "title_en": "",
+  "short_name": "pl-du-1919-472",
+  "status": "in_force",
+  "issued_date": "1919-10-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/472",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Pełnoletność osiąga się z ukończeniem dwudziestego pierwszego roku życia. Małoletni może być uznany za pełnoletniego po ukończeniu osiemnastego roku życia."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Stosownie do tego ulegają zmianie następujące postanowienia powszechnej ustawy cywilnej: 1. W § 21 słowa „dwudziestego czwartego” będą zastąpione słowami „dwudziestego pierwszego”. 2. § 174 będzie opiewał: „Dzieci, które ukończyły osiemnasty rok życia, mogą przed ukończeniem dwudziestego pierwszego roku wyjść z pod władzy ojcowskiej, jeżeli je ojciec zgodnie z ich wolą za zezwoleniem sądu wyraźnie uzna za pełnoletnie.” 3. W § 247 słowo „dwudziesty” będzie zastąpione słowem „osiemnasty”, a w § 248 „dwudziestego” - słowem „osiemnastego”. 4. § 252 będzie opiewał: „Małoletniemu, który ukończył osiemnasty rok, może sąd opiekuńczy po zasięgnięciu zdania opiekuna, a jeżeli możliwe także najbliższych krewnych, z jego przyzwoleniem opuścić brakujące lata i uznać go za pełnoletniego”. 5. W § 275 słowa: „dwudziestego piątego” będą zastąpione słowami: „dwudziestego drugiego.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W § 266 patentu z 9 sierpnia 1854, Dzien. Pr. p. Nr 208, będą skreślone słowa: „wtedy, gdy do tego w myśl § 174 p. u. c. potrzebne jest przyzwolenie sądu”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Osoby, które przed dniem wejścia w życie tej ustawy ukończyły dwudziesty pierwszy rok życia, a według obowiązujących dotychczas przepisów nie były jeszcze pełnoletnie, względnie upełnoletnione, uzyskują pełnoletność z dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli w akcie prawnym, zdziałanym przed czasem wejścia w życie tej ustawy, nabycie, przeniesienie, ograniczenie lub utratę pewnego prawa albo wykonanie zobowiązania uzależniono od osiągnięcia pełnoletności fizycznej, natenczas do ziszczenia takiego warunku czy czasokresu wymagane będzie nadal ukończenie dwudziestego czwartego roku życia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wydanie złożonego we wspólnej kasie sierocej majątku osobom, które osiągną pełnoletność od czasu wejścia w życie tej ustawy aż do dnia 31 marca 1921 roku., może być odroczone aż do tegoż dnia, osobom zaś, które w tym czasie ukończą dwudziesty czwarty rok życia, aż do dnia, w którym ten wiek osiągną."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 stycznia 1920 r., i obowiązuje na obszarze b. zaboru austrjackiego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_2-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_2-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

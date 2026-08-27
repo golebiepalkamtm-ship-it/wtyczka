@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2006-875",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 maja 2006 r. o zmianie ustawy o ochronie zabytków i opiece nad zabytkami oraz o zmianie ustawy o samorządzie województwa",
+  "title_en": "",
+  "short_name": "pl-du-2006-875",
+  "status": "in_force",
+  "issued_date": "2006-05-12",
+  "in_force_date": "2006-07-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/875",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 lipca 2003 r. o ochronie zabytków i opiece nad zabytkami ( Dz. U. Nr 162, poz. 1568 , z 2004 r. Nr 96, poz. 959 i Nr 238, poz. 2390 oraz z 2006 r. Nr 50, poz. 362 ) wprowadza się następujące zmiany: 1) w art. 81 ust. 1 otrzymuje brzmienie: „ 1. W trybie określonym odrębnymi przepisami dotacja na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru może być udzielona przez organ stanowiący gminy, powiatu lub samorządu województwa, na zasadach określonych w podjętej przez ten organ uchwale. ” ; 2) w art. 82 ust. 1 otrzymuje brzmienie: „ 1. Łączna kwota dotacji na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytku wpisanym do rejestru, udzielonych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, wojewódzkiego konserwatora zabytków bądź organ stanowiący gminy, powiatu lub samorządu województwa, nie może przekraczać wysokości 100% nakładów koniecznych na wykonanie tych prac lub robót. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa ( Dz. U. z 2001 r. Nr 142, poz. 1590 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759. ) w art. 14 w ust. 1 pkt 3 otrzymuje brzmienie: „ 3) kultury oraz ochrony zabytków i opieki nad zabytkami, ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 23, poz. 220, Nr 62, poz. 558, Nr 153, poz. 1271 i Nr 214, poz. 1806, z 2003 r. Nr 162, poz. 1568 oraz z 2004 r. Nr 102, poz. 1055, Nr 116, poz. 1206 i Nr 167, poz. 1759. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

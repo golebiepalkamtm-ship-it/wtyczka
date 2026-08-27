@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1991-279",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 czerwca 1991 r. o zmianie ustawy o przeciwdziałaniu praktykom monopolistycznym.",
+  "title_en": "",
+  "short_name": "pl-du-1991-279",
+  "status": "repealed",
+  "issued_date": "1991-06-28",
+  "in_force_date": "1991-07-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/279",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 24 lutego 1990 r. o przeciwdziałaniu praktykom monopolistycznym ( Dz. U. Nr 14, poz. 88 i Nr 34, poz. 198 ) wprowadza się następujące zmiany: 1) w art. 2: a) w pkt 4 po wyrazie „również” dodaje się wyrazy „opłaty o charakterze cen,” , b) w pkt 7 wyrazy „przekracza 30%” zastępuje się wyrazami „przekracza 40%,” ; 2) w art. 4: a) w ust. 1 w pkt 4 wyrazy „z których co najmniej jeden posiada ponad 10% udziału w rynku” zastępuje się wyrazami „jeżeli łączny udział tych podmiotów w rynku przekracza 10%.” , b) w ust. 2 w pkt 5 po wyrazach „przez konkurentów” dodaje się wyrazy „lub ich związki” ; 3) w art. 6 kropkę zastępuje się średnikiem i dodaje wyrazy „ciężar udokumentowania tych okoliczności spoczywa na podmiocie, który się na nie powołuje.” ; 4) w art. 7 w ust. 1 w pkt 1 na końcu po wyrazie „cen” dodaje się wyrazy „sprzedaży lub obniżania cen skupu,” ; 5) w art. 8: a) w ust. 1 wyraz „określa” zastępuje się wyrazami „może określić” oraz dodaje zdanie drugie w brzmieniu: „ Decyzji tej nie wydaje się, jeżeli od końca roku, w którym zaprzestano stosowania praktyki monopolistycznej upłynął rok. ” , b) w ust. 3: - na końcu zdania pierwszego kropkę zastępuje się przecinkiem i dodaje wyrazy „oraz określić w niej czas obowiązywania ceny i warunki jej zmiany przez podmiot gospodarczy w tym czasie.” , - w zdaniu drugim wyrazy „W decyzji tej, za okres” zastępuje się wyrazami „W decyzji za dotychczasowy okres” , a wyrazy „kwotę nienależną i kwotę dodatkową” zastępuje się wyrazami „kwotę nienależną albo kwotę nienależną i kwotę dodatkową” ; 6) w art. 11: a) w ust. 2 po wyrazie „uzyskałyby” dodaje się wyrazy „lub zachowały” , b) w ust. 5 wyrazy „oświadczy, że Urząd Antymonopolowy w terminie określonym w ust. 2 zawiadomił go” zastępuje się wyrazami „złoży w sądzie rejestrowym pisemne zawiadomienie Urzędu Antymonopolowego” ; 7) w art. 16: a) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Karze pieniężnej, o której mowa w ust. 1, może podlegać: 1) osoba kierująca podmiotem gospodarczym za nieudzielenie danych i informacji na żądanie Urzędu Antymonopolowego bądź jeżeli dane te i informacje są nierzetelne, 2) osoba działająca w imieniu osób prawnych lub spółek i innych jednostek organizacyjnych nie mających osobowości prawnej podejmujących działania zmierzające do łączenia, przekształcenia lub utworzenia podmiotów gospodarczych, jeżeli nie zgłosi zamiaru, o którym mowa w art. 11 ust. 1. ” , b) ust. 3 otrzymuje brzmienie: „ 3. Przepisy art. 10 i art. 15 ust. 3 stosuje się odpowiednio. ” ; 8) w art. 19 w ust. 1 pkt 4 otrzymuje brzmienie: „ 4) prowadzenie rejestru podmiotów gospodarczych, których udział w rynku krajowym przekracza 80%, ” ; 9) w art. 21 dodaje się ust. 4 w brzmieniu: „ 4. Nie wszczyna się postępowania administracyjnego, jeżeli z zawartych w żądaniu (wniosku) oraz posiadanych przez Urząd Antymonopolowy informacji wynika, iż nie zostały naruszone przepisy art. 4, art. 5, art. 7, art. 9, art. 11 ust. 2 oraz art. 12 ust. 2 i 4. W tym wypadku Urząd Antymonopolowy informuje na piśmie występującego z żądaniem (wnioskiem) o niewszczynaniu postępowania administracyjnego, podając uzasadnienie. Postępowanie jednak wszczyna się, jeżeli w terminie dwutygodniowym uprawniony lub zobowiązany żądanie (wniosek) podtrzyma. ” ; 10) w art. 23 skreśla się wyrazy „przez podmiot gospodarczy” ; 11) skreśla się art. 24;"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 25 lutego 1958 r. o Państwowej Inspekcji Handlowej ( Dz. U. z 1969 r. Nr 26, poz. 206 , z 1975 r. Nr 16, poz. 91 i z 1990 r. Nr 14, poz. 88 ) w art. 1 skreśla się pkt 4."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Prezes Rady Ministrów ogłosi w Dzienniku Ustaw jednolity tekst ustawy z dnia 24 lutego 1990 r. o przeciwdziałaniu praktykom monopolistycznym , z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\",\"children\": [{\"id\": \"arti_1-pint_6-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_6-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_1-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"arti_1-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,608 @@
+{
+  "id": "pl-du-1990-344",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 lipca 1990 r. o działalności ubezpieczeniowej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-344",
+  "status": "repealed",
+  "issued_date": "1990-07-28",
+  "in_force_date": "1990-08-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/344",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa ogólne warunki, zasady podejmowania i prowadzenia działalności w zakresie ubezpieczeń majątkowych i osobowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Działalność ubezpieczeniowa zarówno bezpośrednia, jak i pośrednia (reasekuracyjna) może być wykonywana wyłącznie za zezwoleniem Ministra Finansów. 2. Podmiot prowadzący działalność, o której mowa w ust. 1, jest zwany w dalszej treści „ubezpieczycielem”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Wprowadza się ubezpieczenia obowiązkowe lub dobrowolne. 2. Ochronę ubezpieczeniową ustanawia się na podstawie umowy zawieranej pomiędzy ubezpieczycielem a ubezpieczającym."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ubezpieczeniami obowiązkowymi są: 1) ubezpieczenie odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów, 2) ubezpieczenie budynków wchodzących w skład gospodarstwa rolnego od ognia i innych zdarzeń losowych, 3) ubezpieczenie odpowiedzialności cywilnej rolników z tytułu prowadzenia gospodarstwa rolnego, 4) inne ubezpieczenia przewidziane na mocy dotychczas obowiązujących ustaw lub ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Minister Finansów, w drodze rozporządzenia, określa ogólne warunki ubezpieczeń obowiązkowych. W szczególności rozporządzenie określa datę powstania obowiązku zawarcia umowy ubezpieczenia, podstawowy zakres odpowiedzialności ubezpieczyciela, minimalną sumę gwarancyjną ubezpieczenia, zakres praw i obowiązków ubezpieczającego i ubezpieczyciela, wynikających z umowy ubezpieczenia. Rozporządzenie określa również podstawowy system taryf, uzależniający stosowaną taryfę od długości okresu bezszkodowego i zapewniający porównywalność taryf różnych ubezpieczycieli. 2. Ubezpieczyciele mogą uwzględnić w systemie taryf również inne czynniki wpływające na szkodowość. 3. Wysokość stawek ubezpieczeniowych ustala ubezpieczyciel. 4. Minister Finansów określa sposób potwierdzenia spełnienia obowiązku zawarcia ubezpieczenia. 5. Ubezpieczyciel prowadzący działalność w zakresie ubezpieczenia obowiązkowego nie może odmówić zawarcia tego ubezpieczenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Ubezpieczyciele są obowiązani do opracowania standardowych ogólnych warunków ubezpieczeń. Standardowe ogólne warunki ubezpieczenia ubezpieczyciele przedstawiają do zatwierdzenia Ministrowi Finansów. 2. Minister Finansów określa tryb opracowania i publikacji standardowych ogólnych warunków ubezpieczeń. 3. Ogólne warunki ubezpieczeń i taryfy, z wyjątkiem ubezpieczeń wymienionych w art. 4, jak również wysokość stawek ubezpieczeniowych ustala ubezpieczyciel. Ogólne warunki ubezpieczeń mogą odbiegać od standardowych ogólnych warunków ubezpieczeń. 4. Ogólne warunki ubezpieczenia określają w szczególności przedmiot i zakres ubezpieczenia, sposób zawierania umów ubezpieczenia, zakres i czas trwania odpowiedzialności ubezpieczyciela, prawa i obowiązki stron umowy, sposób ustalania wysokości szkód oraz wypłaty odszkodowań lub świadczeń. 5. W ogólnych warunkach ubezpieczenia należy zastrzec możliwość odstąpienia od umowy ubezpieczenia przez ubezpieczającego w okresie 30 dni dla osób fizycznych i 7 dni dla osób prawnych od daty zawarcia umowy, jeżeli umowa jest zawarta na okres dłuższy niż 6 miesięcy; odstąpienie od umowy nie zwalnia ubezpieczającego z obowiązku opłacenia składki za okres, w jakim ubezpieczyciel udzielał ochrony ubezpieczeniowej. 6. Zastrzeżony w umowie ubezpieczenia okres, w którym wypowiedzenie umowy nie jest możliwe, nie może być dłuższy niż dwa lata. 7. Ubezpieczyciel jest obowiązany do oferowania umów ubezpieczenia odpowiadających standardowym ogólnym warunkom ubezpieczenia. Ubezpieczyciel może oferować umowy ubezpieczenia odpowiadające ogólnym warunkom ubezpieczeń."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Umowa ubezpieczeniowa może regulować prawa i obowiązki stron w sposób odbiegający od standardowych i ogólnych warunków ubezpieczenia. 2. Ubezpieczyciel jest obowiązany do przedstawienia ubezpieczającemu różnicy między standardowymi ogólnymi warunkami ubezpieczeń a ogólnymi warunkami ubezpieczeń stosowanymi przez ubezpieczyciela."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Odszkodowanie z tytułu ubezpieczenia majątkowego nie może być wyższe od poniesionej szkody, chyba że umowa stanowi inaczej. 2. W przypadku zbiegu świadczeń z tytułu dwóch lub więcej ubezpieczeń z tego samego zdarzenia, odszkodowanie wypłaca się do wysokości szkody w granicach sum ubezpieczenia w ramach każdego ze stosunków ubezpieczenia, z uwzględnieniem odszkodowań już wypłaconych z innego stosunku ubezpieczenia. 3. Przepis ust. 2 nie ma zastosowania przy ubezpieczeniach na życie i od następstw nieszczęśliwych wypadków. 4. Uprawniony do odszkodowania w związku ze zdarzeniem objętym ubezpieczeniem odpowiedzialności cywilnej może dochodzić roszczenia bezpośrednio od ubezpieczyciela. 5. W razie zaistnienia szkody objętej ubezpieczeniem, o którym mowa w art. 4 pkt 1 i 3, w przypadku określonym w art. 51 ust. 2 pkt 1 i 2, uprawniony do odszkodowania może dochodzić roszczeń bezpośrednio od Ubezpieczeniowego Funduszu Gwarancyjnego."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ubezpieczyciel nie może udzielać informacji dotyczących zawartych przez ubezpieczającego umów; nie dotyczy to informacji udzielanych na żądanie sądu, prokuratora lub osoby trzeciej, na której rzecz została zawarta umowa ubezpieczenia."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ubezpieczyciel nie może zajmować się bezpośrednio inną działalnością gospodarczą poza działalnością ubezpieczeniową i z nią związaną."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Ubezpieczyciel może prowadzić działalność ubezpieczeniową wyłącznie w formie spółki akcyjnej lub towarzystwa ubezpieczeń wzajemnych. 2. Akcje spółki akcyjnej, o której mowa w ust. 1, mogą być tylko akcjami imiennymi. 3. Do prowadzenia działalności ubezpieczeniowej w formie spółki akcyjnej w zakresie nie uregulowanym przez ustawę stosuje się odpowiednio przepisy Kodeksu handlowego . Rozdział 2 Towarzystwo ubezpieczeń wzajemnych"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Towarzystwo, które ubezpiecza swoich członków na zasadzie wzajemności, staje się z chwilą uzyskania zezwolenia na prowadzenie działalności ubezpieczeniowej towarzystwem ubezpieczeń wzajemnych, zwanym w dalszej treści „towarzystwem”. 2. Towarzystwo uzyskuje osobowość prawną z chwilą wpisania do rejestru towarzystw ubezpieczeń wzajemnych. 3. Rejestr towarzystw prowadzi Sąd Rejonowy dla Warszawy-Pragi. 4. Rejestr jest jawny i dostępny dla osób trzecich. 5. Minister Sprawiedliwości, w drodze rozporządzenia, określa zasady i tryb postępowania w sprawach rejestru towarzystw, dane podlegające wpisowi do rejestru, sposób jego prowadzenia oraz szczegółowe zasady udostępniania rejestru do wglądu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Statut towarzystwa ubezpieczeń wzajemnych powinien być sporządzony w formie aktu notarialnego pod rygorem nieważności."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Statut powinien określać nazwę i siedzibę towarzystwa. Nazwa powinna wskazywać, że towarzystwo działa na zasadzie wzajemności. 2. Statut powinien określać organizację władz zarządzających i nadzorczych towarzystwa."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Statut określa terytorialny zasięg działalności towarzystwa oraz wymienia dział ubezpieczeń, który towarzystwo będzie prowadziło. 2. Jeżeli towarzystwo zamierza prowadzić działalność reasekuracyjną, należy to zaznaczyć w statucie."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "W statucie należy określić zasady uzyskania i utraty członkostwa. Uzyskanie członkostwa musi być związane z zawarciem umowy ubezpieczenia. Utrata członkostwa następuje z wygaśnięciem stosunku ubezpieczenia, jeżeli statut nie stanowi inaczej."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Statut określa wysokość kapitału zakładowego. 2. Statut powinien przewidywać tworzenie kapitału zapasowego według zasad określonych w art. 427 § 1 Kodeksu handlowego , z tym że nadwyżka bilansowa zastępuje czysty zysk roczny, a kapitał zakładowy zastępuje kapitał akcyjny. 3. Statut określa system świadczeń członków na rzecz towarzystwa; przysługujące członkowi należności majątkowe od towarzystwa nie zwalniają go z obowiązku płacenia składek. 4. Jeżeli ma być dopuszczalne zmniejszenie świadczeń towarzystwa na rzecz członków z tytułu umów ubezpieczenia, należy to zaznaczyć w statucie. Zmniejszenie świadczeń nie jest dopuszczalne, jeżeli statut przewiduje nieograniczone dopłaty członków lub nieograniczony ich udział w pokryciu strat. 5. Członkowie towarzystwa nie odpowiadają za jego zobowiązania."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Statut towarzystwa określa zasady wykorzystania nadwyżki bilansowej oraz sposób pokrycia strat."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Świadczenia członków na rzecz towarzystwa oraz towarzystwa na rzecz członków są przy jednakowych warunkach określone na jednakowych zasadach. 2. Jeżeli towarzystwo prowadzi działalność w kilku grupach ubezpieczeń, należy zastrzec w statucie, że dopłaty członków na pokrycie strat oraz zwroty towarzystwa na rzecz członków są obliczane na podstawie zamknięć rachunkowych, osobnych dla każdej grupy ubezpieczeń."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Warunki uczestniczenia członków towarzystwa w walnym zgromadzeniu i zasady jego zwoływania określa statut."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Do walnego zgromadzenia towarzystwa stosuje się odpowiednio przepisy art. 390, 392-396, 401-403, 405-407, 411-417 Kodeksu handlowego z następującymi zmianami: 1) spółkę akcyjną zastępuje towarzystwo ubezpieczeń wzajemnych, akcjonariuszy - członkowie towarzystwa uprawnieni do udziału w walnym zgromadzeniu, 2) przyznane w powołanych przepisach uprawnienia mniejszości akcjonariuszy służą określonej statutem mniejszości członków uprawnionych do udziału w walnym zgromadzeniu, 3) przepisy o akcjach dotyczą tytułów uczestnictwa w walnym zgromadzeniu."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Do zarządu towarzystwa stosuje się odpowiednio przepisy art. 366, 367 § 3, art. 368-375 Kodeksu handlowego , przy czym spółkę akcyjną i akcjonariuszy zastępują towarzystwo i członkowie towarzystwa."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Do organu nadzorczego towarzystwa stosuje się odpowiednio przepisy art. 377 § 1, art. 378, 379 § 1 i 2, art. 380 § 1, art. 382-385, 386 § 1, art. 387 Kodeksu handlowego , przy czym spółkę akcyjną i akcjonariuszy zastępują towarzystwo i członkowie towarzystwa."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Zmiany statutu towarzystwa wymagają uchwały walnego zgromadzenia, powziętej większością przynajmniej trzech czwartych oddanych głosów. 2. Walne zgromadzenie może upoważnić organ nadzorczy towarzystwa do dokonania w jego uchwałach zmian o charakterze redakcyjnym lub zmian, których przed udzieleniem zezwolenia na zmianę statutu zażąda Minister Finansów. 3. Zmiany statutu nie mogą ograniczać praw wynikających z zawartych umów ubezpieczenia."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Statut towarzystwa powinien zawierać postanowienia co do ogłoszeń towarzystwa."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Statut towarzystwa powinien określać zasady i sposób likwidacji towarzystwa oraz tryb powołania, liczbę i uprawnienia likwidatorów. 2. Uchwały o rozwiązaniu towarzystwa lub połączeniu z innym towarzystwem zapadają większością przynajmniej trzech czwartych oddanych głosów."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Towarzystwo, posiadające ograniczony zakres działania ze względu na małą liczbę członków, niewielką liczbę lub niskie sumy zawieranych ubezpieczeń bądź też niewielki terytorialny zasięg działalności, może być uznane przez Ministra Finansów za małe towarzystwo ubezpieczeń wzajemnych. 2. Uznanie przez Ministra Finansów towarzystwa za małe towarzystwo ubezpieczeń wzajemnych podlega wpisowi do rejestru. 3. Do małych towarzystw ubezpieczeń wzajemnych nie stosuje się przepisów art. 17 ust. 2 oraz art. 21-23."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "W towarzystwie ogólne warunki ubezpieczenia mogą być włączone do statutu."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. W towarzystwie ogólne warunki ubezpieczenia uchwala walne zgromadzenie. 2. Walne zgromadzenie towarzystwa może upoważnić organ nadzorczy towarzystwa do dokonania w jego uchwale, dotyczącej ogólnych warunków ubezpieczenia, zmian o charakterze redakcyjnym. 3. Statut towarzystwa może upoważnić organ nadzorczy towarzystwa do wprowadzenia zmian w ogólnych warunkach ubezpieczenia, pod warunkiem że zmiany te będą przedstawione do zatwierdzenia na najbliższym walnym zgromadzeniu. Rozdział 3 Warunki podejmowania i prowadzenia działalności ubezpieczeniowej"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Minister Finansów wydaje na wniosek zainteresowanego zezwolenie na prowadzenie działalności ubezpieczeniowej. 2. Wniosek o wydanie zezwolenia przez Ministra Finansów na prowadzenie działalności ubezpieczeniowej powinien zawierać: 1) nazwę, siedzibę, terytorialny i rzeczowy zakres działania ubezpieczyciela, 2) dane o posiadaniu kapitału akcyjnego lub kapitału zakładowego, w który zostanie wyposażony ubezpieczyciel, 3) dane o szacunkowych kosztach związanych z utworzeniem administracji ubezpieczyciela oraz z zorganizowaniem sieci przedstawicielstw; ubezpieczyciel musi udowodnić, że dysponuje przeznaczonymi specjalnie na ten cel środkami w postaci funduszu organizacyjnego, 4) formę organizacyjną działalności, 5) dane o kwalifikacjach osób przewidzianych na stanowiska kierownicze, a także aktuariusza, w przypadku gdy ubezpieczyciel prowadzi ubezpieczenia na życie."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Do wniosku o wydanie zezwolenia powinien być dołączony plan działalności, w którym ubezpieczyciel udowodni posiadanie środków własnych w wysokości odpowiadającej minimum kapitału gwarancyjnego, o którym mowa w art. 46 ust. 1 pkt 3. 2. Plan działalności powinien zawierać: 1) statut ubezpieczyciela z zaznaczeniem faktu prowadzenia działalności w dziedzinie reasekuracji, jeżeli jest to przewidziane, 2) ogólne warunki ubezpieczenia, 3) program reasekuracji, 4) rachunek symulacyjny pierwszych 3 lat działalności, z uwzględnieniem przewidywanych wydatków, szkodowości, wpływów z tytułu składek oraz sytuacji finansowej ubezpieczyciela."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Zezwolenie jest wydawane na prowadzenie działalności ubezpieczeniowej w zakresie jednej lub więcej grup ubezpieczeń, wymienionych w załączniku do ustawy. 2. Zmiany rzeczowego bądź terytorialnego zakresu działania wymagają także zezwolenia."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Zezwolenie nie może być wydane, jeżeli osoby mające pełnić stanowiska kierownicze nie posiadają odpowiedniego wykształcenia lub doświadczenia zawodowego. 2. Zezwolenie nie może być wydane na jednoczesne prowadzenie działalności w dziale ubezpieczeń na życie i prowadzenie działalności w dziale pozostałych ubezpieczeń majątkowych i osobowych. 3. Wydanie zezwolenia na prowadzenie działalności w dziale ubezpieczeń na życie jest uzależnione od zatrudnienia przez ubezpieczyciela specjalisty w zakresie matematyki ubezpieczeniowej, finansowej i statystyki (aktuariusz). 4. Aktuariusz jest obowiązany do przeprowadzania obliczeń rezerwy techniczno-ubezpieczeniowej zgodnie z planem działalności."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Ubezpieczyciel może korzystać z usług pośrednictwa ubezpieczeniowego świadczonych przez osobę fizyczną bądź prawną. 2. Ubezpieczyciel może korzystać z usług maklera ubezpieczeniowego (brokera) lub brokera reasekuracyjnego, obejmujących również pośrednictwo ubezpieczeniowe. Działalność brokerską osoby fizyczne lub prawne mogą wykonywać wyłącznie po uzyskaniu zezwolenia Ministra Finansów. 3. Minister Finansów określi wymogi, jakie muszą spełniać osoby fizyczne i prawne ubiegające się o zezwolenie na prowadzenie działalności brokerskiej, oraz dopuszczalny zakres tej działalności, a także tryb wydawania zezwoleń, o których mowa w ust. 2."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Minister Finansów może cofnąć zezwolenie na prowadzenie działalności w zakresie jednej bądź kilku grup ubezpieczeń, jeżeli: 1) ubezpieczyciel przestał spełniać warunki wymagane do uzyskania zezwolenia, 2) ubezpieczyciel prowadzi działalność z naruszeniem przepisów prawa, 3) ubezpieczyciel nie zrealizuje w przewidzianym terminie planu finansowego lub krótkoterminowego planu wypłacalności, o którym mowa w art. 48 ust. 1 i 2."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Cofnięcie zezwolenia powoduje, że ubezpieczyciel nie może zawierać nowych umów ubezpieczeniowych, umowy już zawarte nie mogą być przedłużane, a suma ubezpieczenia nie może być podwyższana. Minister Finansów może nałożyć ograniczenia swobody gospodarki finansowej ubezpieczyciela lub przekazać zarząd majątkiem ubezpieczyciela wyznaczonej osobie. 2. Minister Finansów określa tryb, czas i sposób sprawowania zarządu. 3. Cofnięcie zezwolenia w zakresie całej działalności oznacza w przypadku towarzystw ubezpieczeń wzajemnych decyzję o likwidacji towarzystwa."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Osoba krajowa w rozumieniu przepisów prawa dewizowego może zawrzeć umowę ubezpieczenia jedynie z ubezpieczycielem działającym na podstawie zezwolenia wydanego zgodnie z niniejszą ustawą. 2. Osoba zagraniczna podejmująca działalność gospodarczą na terytorium Rzeczypospolitej Polskiej może ubezpieczyć tę działalność jedynie u ubezpieczyciela, o którym mowa w ust. 1. 3. Minister Finansów może określić przypadki dopuszczalności zawierania ubezpieczenia u ubezpieczyciela innego niż określony w ust. 1. Rozdział 4 Warunki podejmowania i prowadzenia działalności ubezpieczeniowej przez spółki z udziałem kapitału zagranicznego i ubezpieczycieli zagranicznych"
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Podejmowanie i prowadzenie działalności ubezpieczeniowej przez spółki z udziałem kapitału zagranicznego i ubezpieczycieli zagranicznych wymaga zezwolenia Ministra Finansów."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Zezwolenie na prowadzenie działalności ubezpieczeniowej przez spółkę z udziałem kapitału zagranicznego może być wydane, jeżeli: 1) spółka spełni warunki wymagane od ubezpieczycieli polskich, 2) wkład wniesiony przez udziałowca zagranicznego odpowiada co najmniej połowie wymaganego minimalnego kapitału gwarancyjnego. 2. Przepisu ust. 1 pkt 2 nie stosuje się w razie nabycia przez udziałowca zagranicznego akcji spółki prowadzącej już działalność ubezpieczeniową."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Fundusze ubezpieczeniowe, tworzone z tytułu zawieranych na terenie Rzeczypospolitej Polskiej umów ubezpieczenia, oraz środki własne są lokowane w Polsce bez prawa ich transferu za granicę, na zasadach określonych w rozdziale 6."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Ubezpieczyciel zagraniczny może prowadzić działalność ubezpieczeniową w Polsce jedynie za pośrednictwem ustanowionego przez siebie głównego przedstawiciela, mającego stałe miejsce zamieszkania w Polsce. 2. Ustanowienie głównego przedstawiciela podlega wpisaniu do rejestru handlowego. 3. Główny przedstawiciel jest obowiązany prowadzić rachunkowość dotyczącą działalności w Polsce w języku polskim, jak również publikować bilans i rachunek zysków i strat w języku polskim i udostępniać je na życzenie każdemu ubezpieczającemu. 4. Główny przedstawiciel jest obowiązany przechowywać wszelkie dokumenty dotyczące działalności, o której mowa w ust. 1, w swej siedzibie w Polsce."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Minister Finansów wydaje na wniosek zainteresowanego ubezpieczyciela zagranicznego zezwolenie na prowadzenie działalności, o której mowa w art. 41 ust. 1. 2. Zmiana rzeczowego lub terytorialnego zakresu działania wymaga zezwolenia Ministra Finansów. 3. W celu uzyskania zezwolenia ubezpieczyciel składa Ministrowi Finansów: 1) wniosek o wydanie zezwolenia zawierający dane, o których mowa w art. 30 ust. 2, oraz plan działalności, o którym mowa w art. 31 ust. 2, 2) zaświadczenie organu nadzorczego kraju, w którym ubezpieczyciel zagraniczny ma swoją siedzibę, o posiadaniu zezwolenia na prowadzenie działalności ubezpieczeniowej, przy czym zaświadczenie to powinno dokładnie określać grupę ubezpieczeń prowadzonych przez ubezpieczyciela zagranicznego, 3) bilans oraz rachunek zysków i strat trzech ostatnich lat działalności, 4) dowód posiadania środków własnych w wysokości co najmniej 50% minimum kapitału gwarancyjnego, o którym mowa w art. 46 ust. 1 pkt 3, 5) dowód, że ubezpieczyciele polscy mogą podjąć działalność ubezpieczeniową na terenie kraju pochodzenia ubezpieczyciela zagranicznego, 6) dane o kwalifikacjach osoby proponowanej na głównego przedstawiciela. 4. Ubezpieczyciel zagraniczny jest obowiązany do posiadania środków własnych w wysokości marginesu wypłacalności, o którym mowa w art. 45, przy czym podstawą do obliczenia marginesu wypłacalności jest działalność głównego przedstawiciela. Minimalny kapitał gwarancyjny ubezpieczyciela zagranicznego nie może być niższy niż 50% minimalnego kapitału gwarancyjnego, określonego na podstawie art. 46 ust. 1 pkt 3. 5. Ubezpieczyciel zagraniczny jest obowiązany do płacenia kaucji z tytułu zabezpieczenia przyszłych zobowiązań ubezpieczyciela. Kaucja wynosi 25% minimalnego kapitału gwarancyjnego, o którym mowa w art. 46 ust. 1 pkt. 3, i jest zaliczana na poczet posiadanych środków własnych. 6. Środki własne ubezpieczyciela zagranicznego, o których mowa w ust. 3 pkt 4 i ust. 4, są lokowane w Polsce. 7. Ubezpieczyciel zagraniczny jest obowiązany do tworzenia rezerw techniczno-ubezpieczeniowych, o których mowa w art. 49, z tytułu zobowiązań wynikających z działalności ubezpieczeniowej, które są lokowane w Polsce zgodnie z przepisami rozdziału 6. 8. Zezwolenie na podjęcie działalności może być wydane, jeżeli zostały spełnione warunki, o których mowa w art. 39 i w art. 41 ust. 1, oraz została wpłacona kaucja, o której mowa w ust. 5. 9. Minister Finansów może cofnąć zezwolenie na prowadzenie działalności ubezpieczeniowej przez ubezpieczyciela zagranicznego, jeżeli: 1) ubezpieczyciel zagraniczny utracił zezwolenie na prowadzenie działalności ubezpieczeniowej w kraju będącym jego siedzibą, a także w przypadkach określonych w art. 35, 2) za cofnięciem zezwolenia przemawiają względy ochrony interesów państwa. 10. Zezwolenie nie może być wydane ubezpieczycielowi zagranicznemu prowadzącemu jednocześnie działalność w dziale ubezpieczeń na życie i w dziale pozostałych ubezpieczeń."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Minister Finansów w zezwoleniu na podjęcie działalności ubezpieczeniowej przez spółkę z udziałem kapitału zagranicznego lub ubezpieczyciela zagranicznego określa część zysku, którą osoba zagraniczna bez odrębnego zezwolenia dewizowego może przekazać za granicę, przy czym część ta nie może być niższa niż 15% zysku wypłacanego osobie zagranicznej."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "W zakresie zatrudnienia i stosunków pracy u ubezpieczyciela, o którym mowa w art. 39, oraz ubezpieczeń społecznych pracowników będących osobami zagranicznymi w rozumieniu prawa dewizowego stosuje się odpowiednio przepisy o zatrudnieniu i ubezpieczeniu społecznym osób zagranicznych w spółkach z udziałem kapitału zagranicznego. Rozdział 5 Gospodarka finansowa ubezpieczyciela i fundusze ubezpieczeniowe"
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Ubezpieczyciel jest obowiązany posiadać środki własne w wysokości marginesu wypłacalności. 2. 1/3 marginesu wypłacalności stanowi kapitał gwarancyjny."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Minister Finansów, w drodze rozporządzenia, określa: 1) środki zaliczane do środków własnych, 2) sposób wyliczenia i wysokość marginesu wypłacalności, 3) minimalną wysokość kapitału gwarancyjnego dla każdego rodzaju ubezpieczeń oraz dla działalności reasekuracyjnej. 2. Ubezpieczyciel przedstawia Ministrowi Finansów razem z bilansem rocznym wyliczenie marginesu wypłacalności oraz dowód posiadania środków własnych w wysokości marginesu wypłacalności."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Ubezpieczyciel jest obowiązany zlecić dokonanie weryfikacji bilansu rocznego oraz rachunku zysków i strat niezależnemu biegłemu lub innej jednostce do tego uprawnionej."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. Jeżeli środki własne ubezpieczyciela są niższe niż wymagany margines wypłacalności, jest on obowiązany przedłożyć na żądanie Ministra Finansów plan przywrócenia prawidłowych stosunków finansowych (plan finansowy). 2. Jeżeli środki własne ubezpieczyciela są niższe niż wymagany kapitał gwarancyjny, ubezpieczyciel jest obowiązany przedstawić Ministrowi Finansów do zatwierdzenia plan krótkoterminowego podwyższenia środków własnych (krótkoterminowy plan wypłacalności). 3. Minister Finansów może w przypadku, o którym mowa w ust. 2, nałożyć czasowe ograniczenia działalności ubezpieczyciela, w tym w zakresie lokat środków."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Ubezpieczyciel tworzy: 1) kapitał zapasowy lub rezerwowy, 2) rezerwy techniczno-ubezpieczeniowe. 2. Ubezpieczyciel może tworzyć inne niż wymienione w ust. 1 fundusze i rezerwy specjalne, przewidziane w statucie. 3. Fundusze i rezerwy, o których mowa w ust. 1 pkt 2, zwane są funduszem ubezpieczeniowym. 4. Fundusze i rezerwy, o których mowa w ust. 1 pkt 2, oraz wpłaty na fundusze, o których mowa w art. 51 i 57, są zaliczane w ciężar kosztów."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Rezerwy techniczno-ubezpieczeniowe są przeznaczone na pokrycie bieżących i przyszłych zobowiązań wynikających z działalności ubezpieczeniowej. 2. Na rezerwy techniczno-ubezpieczeniowe składają się: 1) rezerwy na nie wypłacone odszkodowania i świadczenia, 2) rezerwa składek na pokrycie ryzyk niewygasłych, 3) rezerwa składek w dziale ubezpieczeń na życie, ustalona według zasad matematyki ubezpieczeniowej, 4) skapitalizowana wartość rent, 5) inne rezerwy techniczno-ubezpieczeniowe przewidziane w statucie. 3. Rezerwy, o których mowa w ust. 2 pkt 3, są zwiększane o dochody z tytułu lokat tych rezerw."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Tworzy się Ubezpieczeniowy Fundusz Gwarancyjny. 2. Zadaniem Ubezpieczeniowego Funduszu Gwarancyjnego jest wypłacanie odszkodowań z tytułu ubezpieczenia obowiązkowego, o którym mowa w art. 4 pkt 1 i 3: 1) za szkody na osobie, gdy sprawca szkody nie mógł być zidentyfikowany, 2) za szkody na mieniu i osobie, gdy sprawca szkody nie posiadał ubezpieczenia obowiązkowego."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Ubezpieczeniowy Fundusz Gwarancyjny ma osobowość prawną. Siedzibą Ubezpieczeniowego Funduszu Gwarancyjnego jest miasto stołeczne Warszawa."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Dochodami Ubezpieczeniowego Funduszu Gwarancyjnego są: 1) wpłaty ubezpieczycieli prowadzących działalność, o której mowa w art. 4 pkt 1 i 3, w wysokości procentu zebranej składki, określonego przez Ministra Finansów, 2) dochody z lokat środków Ubezpieczeniowego Funduszu Gwarancyjnego dokonywanych według zasad określonych w art. 61-64."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Organem Funduszu jest Zarząd Ubezpieczeniowego Funduszu Gwarancyjnego. 2. Zarząd Ubezpieczeniowego Funduszu Gwarancyjnego stanowią przedstawiciele ubezpieczycieli prowadzących ubezpieczenia obowiązkowe, o których mowa w art. 4 pkt 1 i 3."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Minister Finansów w porozumieniu z Izbą Ubezpieczeń określa tryb powoływania Zarządu Ubezpieczeniowego Funduszu Gwarancyjnego oraz jego organizację."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Koszty działalności Ubezpieczeniowego Funduszu Gwarancyjnego są pokrywane z dochodów Funduszu. 2. Dochody z działalności Ubezpieczeniowego Funduszu Gwarancyjnego są zwolnione z podatku dochodowego."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Minister Finansów w porozumieniu z Izbą Ubezpieczeń powołuje Fundusz Ochrony Ubezpieczonych, określa jego organizację i tryb działania, a także procent składki wnoszonej przez ubezpieczycieli na ten fundusz. 2. Ubezpieczyciele są obowiązani finansować Fundusz Ochrony Ubezpieczonych, po jednym dla działu ubezpieczeń na życie i dla działu pozostałych ubezpieczeń majątkowych i osobowych. Fundusz Ochrony Ubezpieczonych zaspokaja roszczenia ubezpieczonych osób fizycznych w przypadku niewypłacalności ubezpieczyciela w wysokości 100% w dziale ubezpieczeń na życie, 90% w przypadku ubezpieczeń obowiązkowych i 50% w dziale innych ubezpieczeń. 3. Wpłaty na Fundusz Ochrony Ubezpieczonych są dokonywane w przypadku niewypłacalności ubezpieczyciela. 4. Zarząd Funduszu Ochrony Ubezpieczonych powoływany jest przez wszystkich ubezpieczycieli działających w Polsce."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "Minister Finansów, w drodze rozporządzenia, określa: 1) zasady rachunkowości ubezpieczeniowej i sprawozdawczości finansowej ubezpieczycieli, 2) zasady reasekuracji ryzyka u ubezpieczycieli zagranicznych."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Wynik finansowy stanowi różnica między przychodami osiągniętymi przez ubezpieczyciela a kosztami skorygowanymi o straty i zyski nadzwyczajne. 2. Minister Finansów, w drodze rozporządzenia, określa zasady obliczania wyniku finansowego. 3. Dochód podlega opodatkowaniu podatkiem dochodowym według zasad obowiązujących osoby prawne, określonych w odrębnych przepisach. Rozdział 6 Lokaty"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Ubezpieczyciel może dokonywać lokaty środków na warunkach przewidzianych w niniejszym rozdziale."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "1. Ubezpieczyciel powinien lokować swoje środki w taki sposób, aby uwzględniając rodzaj i strukturę prowadzonych ubezpieczeń osiągnąć jak największy stopień bezpieczeństwa i rentowności przy jednoczesnym zachowaniu płynności środków. 2. Ubezpieczyciel zawiadamia Ministra Finansów o: 1) nabyciu udziałów bądź akcji podmiotu gospodarczego, jeżeli przekraczają one 10% wartości nominalnego kapitału zakładowego, 2) lokatach w przedsiębiorstwach zależnych od ubezpieczyciela lub od których on jest zależny."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Minister Finansów, w przypadkach określonych w art. 61 ust. 2, może zakazać nabycia dalszych udziałów ubezpieczyciela w tym przedsiębiorstwie lub ograniczyć zakres udziału, jeżeli może to zagrozić gospodarce finansowej ubezpieczyciela. 2. Przepis ust. 1 stosuje się także, gdy członek zarządu bądź rady nadzorczej ubezpieczyciela jest członkiem zarządu przedsiębiorstwa wymienionego w ust. 1, jest poważnym udziałowcem przedsiębiorstwa lub wywiera istotny wpływ na politykę zarządu przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Z zastrzeżeniem ust. 3, ubezpieczyciel lokuje fundusz ubezpieczeniowy wyłącznie w kraju: 1) w papierach wartościowych emitowanych lub gwarantowanych przez państwo, w wekslach bądź depozytach skarbowych oraz w pożyczkach udzielanych państwu bądź gwarantowanych przez państwo, 2) w obligacjach przedsiębiorstw krajowych, 3) w pożyczkach hipotecznych, 4) w nieruchomościach, wyłączając nieruchomości rolne, 5) w akcjach notowanych na giełdach, przy czym udział ubezpieczyciela w przedsiębiorstwie nie może przewyższać 10% wartości nominalnej kapitału akcyjnego tego przedsiębiorstwa, 6) w krajowych akcjach nie notowanych na giełdzie oraz w udziałach w krajowych spółkach kapitałowych prawa handlowego, pod warunkiem że spółki te przedstawią i będą przedstawiać w przyszłości ubezpieczycielowi bilans roczny, rachunek zysków i strat, sporządzone według wymagań stosowanych wobec spółek akcyjnych, 7) w terminowych wkładach pieniężnych w bankach, 8) w pożyczkach pod zastaw własnych umów ubezpieczeniowych na życie, 9) w innych lokatach wskazanych przez Ministra Finansów. 2. Fundusze ubezpieczeniowe z tytułu ubezpieczeń zawieranych w walutach obcych są lokowane w tych walutach. 3. Minister Finansów może wydać zezwolenie ogólne na lokatę funduszy ubezpieczeniowych poza granicami kraju i określić warunki zezwolenia."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "1. Udział lokat wymienionych w art. 63 ust. 1 pkt 5 i 6 nie może przekraczać 30% funduszu ubezpieczeniowego, przy czym udział lokat wymienionych w pkt 6 nie może być wyższy niż 15%. 2. Udział lokat wymienionych w art. 63 ust. 1 pkt 4 nie może przekraczać 25% funduszu ubezpieczeniowego. 3. Ograniczenia, o których mowa w ust. 1 i 2, nie dotyczą ubezpieczeń na życie, jeżeli są one związane z funduszem inwestycyjnym. Rozdział 7 Łączenie się ubezpieczycieli, przeniesienie umów ubezpieczenia oraz likwidacja przymusowa i dobrowolna"
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Minister Finansów wydaje zezwolenie na połączenie ubezpieczycieli. Ubezpieczyciele są obowiązani udowodnić, że po połączeniu będą dysponować środkami własnymi w wysokości wymaganego marginesu wypłacalności."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "1. Ubezpieczyciel może zawrzeć z innym ubezpieczycielem umowę o przeniesienie całości lub części ubezpieczeń (przeniesienie portfela). Umowa wymaga zatwierdzenia przez Ministra Finansów. 2. Ubezpieczyciel przejmujący portfel ubezpieczeniowy jest obowiązany udowodnić, że po przeniesieniu portfela będzie dysponował środkami własnymi w wysokości wymaganego marginesu wypłacalności. 3. O zamiarze przejęcia portfela ubezpieczeń ubezpieczyciel przejmujący portfel jest obowiązany powiadomić ubezpieczających. Ubezpieczającym przysługuje prawo sprzeciwu. Ubezpieczający, którzy zgłosili sprzeciw, mają prawo wypowiedzenia umowy ubezpieczenia w ciągu 3 miesięcy od daty zatwierdzenia umowy, o której mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Likwidacja ubezpieczyciela może być dobrowolna lub przymusowa."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1. W razie wystąpienia przyczyny powodującej likwidację ubezpieczyciela, jest on obowiązany zawiadomić o tym niezwłocznie Ministra Finansów oraz podać skład organu likwidacyjnego. 2. Minister Finansów może wyznaczyć likwidatora z urzędu."
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "Likwidatorzy są obowiązani do składania sprawozdań o przebiegu likwidacji w terminach i w sposób określony przez Ministra Finansów."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "1. Do likwidacji towarzystw ubezpieczeń wzajemnych, z wyjątkiem małych towarzystw ubezpieczeń wzajemnych, stosuje się odpowiednio przepisy art. 445 § 1, art. 446, 447 § 1, art. 448 § 1 i 2, art. 449-451 § 1 zdanie pierwsze i drugie, § 2 i 3, art. 452-454, 457, 459 i 460 Kodeksu handlowego , przy czym spółkę akcyjną i akcjonariuszy zastępuje się przez towarzystwo ubezpieczeń wzajemnych i jego członków. 2. O zakończeniu likwidacji małego towarzystwa ubezpieczeń wzajemnych likwidator zawiadamia niezwłocznie Ministra Finansów."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "Środki wchodzące w skład funduszów ubezpieczeniowych służą zaspokojeniu roszczeń z tytułu ubezpieczenia. Inne zobowiązania ubezpieczyciela mogą być pokryte ze środków funduszów ubezpieczeniowych dopiero po zaspokojeniu wszystkich roszczeń z tytułu ubezpieczenia."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "Minister Finansów może zarządzić likwidację przymusową w przypadku, gdy: 1) działalność ubezpieczyciela jest prowadzona z naruszeniem przepisów prawa bądź jest sprzeczna z planem działalności, 2) walne zgromadzenie nie podejmie uchwały o pokryciu straty bilansowej lub pomimo podjęcia takiej uchwały strata ta nie zostanie pokryta w określonym terminie, 3) ubezpieczyciel nie realizuje w terminie zatwierdzonego krótkoterminowego planu wypłacalności, a wysokość kapitału gwarancyjnego jest mniejsza niż wymagany minimalny kapitał gwarancyjny, 4) ubezpieczyciel nie spełnia świadczeń ubezpieczeniowych albo spełnia je z opóźnieniem lub częściowo."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "W razie zarządzenia likwidacji przymusowej, Minister Finansów wyznacza likwidatora."
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "W razie ogłoszenia lub zarządzenia likwidacji ubezpieczyciela, niedopuszczalne jest zawieranie nowych umów ubezpieczenia, przedłużanie umów zawartych lub podwyższanie sum ubezpieczenia. Rozdział 8 Upadłość"
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "Do upadłości ubezpieczycieli stosuje się przepisy prawa upadłościowego ze zmianami przewidzianymi w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "1. Jeżeli ubezpieczyciel przestał płacić długi lub gdy majątek ubezpieczyciela nie wystarcza na zaspokojenie długów, jest on obowiązany zawiadomić o tym Ministra Finansów. 2. Ogłoszenie upadłości ubezpieczyciela może nastąpić tylko za zgodą Ministra Finansów. 3. Minister Finansów może zgłosić wniosek o ogłoszenie upadłości."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "W dziale pozostałych ubezpieczeń majątkowych i osobowych pierwszeństwo w zaspokojeniu mają roszczenia o odszkodowanie z tytułu ubezpieczenia obowiązkowego, a w dalszej kolejności roszczenia o odszkodowania za szkody na osobie."
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "1. W trakcie prowadzenia postępowania upadłościowego ubezpieczyciela prowadzącego działalność w zakresie ubezpieczeń na życie interesy ubezpieczających i uprawnionych z tytułu umowy ubezpieczenia reprezentuje kurator wyznaczony przez sąd. 2. Kurator dokonuje wszystkich czynności niezbędnych do zaspokojenia roszczeń osób, o których mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "Kurator, o którym mowa w art. 78 ust. 1, jest uprawniony do zawarcia z innym ubezpieczycielem umowy o przeniesienie ubezpieczeń."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "Jeżeli w ciągu czterech miesięcy od dnia ogłoszenia upadłości nie nastąpi przeniesienie ubezpieczeń, o których mowa w art. 78 ust. 1, to po upływie tego terminu umowy ubezpieczeniowe ulegają rozwiązaniu."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "W przypadku ogłoszenia upadłości ubezpieczyciela, umowy ubezpieczenia, z wyjątkiem ubezpieczeń na życie, rozwiązują się z mocy prawa z upływem miesiąca od daty ogłoszenia upadłości. Rozdział 9 Nadzór ubezpieczeniowy"
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "Nadzór nad działalnością ubezpieczycieli sprawuje Minister Finansów."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "1. Minister Finansów może przeprowadzić w każdym czasie kontrolę stanu majątkowego, z zastrzeżeniem przepisu art. 9. 2. Minister Finansów może żądać od ubezpieczycieli wyjaśnień i informacji dotyczących ubezpieczyciela i jego gospodarki finansowej oraz zarządzić przekazywanie wymaganych, niezbędnych danych."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "Koszty nadzoru nad działalnością ubezpieczycieli ponoszą w 50% ubezpieczyciele proporcjonalnie do zbioru składek."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "Od decyzji Ministra Finansów wydanych w sprawach określonych w niniejszej ustawie ubezpieczycielom przysługuje skarga do Naczelnego Sądu Administracyjnego na zasadach określonych w przepisach Kodeksu postępowania administracyjnego . Rozdział 10 Przedstawicielstwo ubezpieczycieli"
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Ubezpieczyciele mogą się zrzeszać w Izbie Ubezpieczeń."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Statut Izby Ubezpieczeń określa szczegółowe zadania i zasady działania Izby, jej organy, tryb ich powoływania, zakres działania oraz zasady gospodarki finansowej."
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Izba Ubezpieczeń posiada osobowość prawną."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "Do zadań Izby Ubezpieczeń należy w szczególności: 1) opiniowanie aktów prawnych dotyczących ubezpieczeń, 2) wnioskowanie o podjęcie przez Ministra Finansów działań, o których mowa w art. 48, 3) reprezentowanie interesów gospodarczych członków Izby oraz podejmowanie działań mających na celu ochronę tych interesów, 4) realizacja innych zadań wynikających z przepisów szczególnych."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "Działalność Izby Ubezpieczeń finansowana jest przez ubezpieczycieli-członków Izby. Rozdział 11 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "Kto bez wymaganego zezwolenia bądź wbrew jego warunkom prowadzi działalność ubezpieczeniową, podlega karze ograniczenia wolności lub grzywny."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Osoba fizyczna lub prawna, która nie wypełnia obowiązku zawarcia umowy ubezpieczenia, o której mowa w art. 4, jest obowiązana wnieść opłatę w wysokości trzykrotnej rocznej składki ubezpieczenia. 2. Rada Ministrów, w drodze rozporządzenia, określa organy uprawnione do przeprowadzania kontroli wykonania obowiązku, o którym mowa w art. 4, oraz tryb ustalania i egzekwowania opłaty, o której mowa w ust. 1. 3. Wpływy z tytułu opłaty, o której mowa w ust. 1, stanowią dochód Ubezpieczeniowego Funduszu Gwarancyjnego. 4. Wniesienie opłaty, o której mowa w ust. 1, nie zwalnia z obowiązku zawarcia umowy ubezpieczenia, o której mowa w art. 4."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Skarb Państwa uczestniczy w okresie do 31 grudnia 1991 r. w wydatkach Ubezpieczeniowego Funduszu Gwarancyjnego, jeżeli przewyższają one dochody tego Funduszu."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "1. Spory wynikające z umów ubezpieczeniowych rozpatrują sądy właściwe dla siedziby ubezpieczonego, o ile umowa ubezpieczenia albo ogólne warunki ubezpieczeń nie stanowią inaczej. 2. Przepis ust. 1 nie dotyczy osób zagranicznych."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "1. Ubezpieczyciele, którzy prowadzili działalność ubezpieczeniową przed dniem wejścia w życie niniejszej ustawy, prowadzą nadal tę działalność, jeżeli: 1) do dnia 30 czerwca 1991 r. spełnią warunki przewidziane w art. 33 ust. 2 i 3, 2) do dnia 30 września 1991 r. udowodnią posiadanie środków własnych w wysokości wymaganego kapitału gwarancyjnego, 3) do dnia 31 grudnia 1991 r. spełnią warunki przewidziane w art. 11. 2. Ubezpieczyciele, o których mowa w ust. 1, nie spełniający w chwili wejścia w życie ustawy wymagań przewidzianych w art. 45 ust. 1 i których środki własne są niższe od wymaganego minimalnego kapitału gwarancyjnego, są obowiązani przedstawić Ministrowi Finansów w terminie do dnia 31 marca 1991 r. dowód posiadania środków własnych w wysokości wymaganego minimalnego kapitału gwarancyjnego oraz krótkoterminowego planu wypłacalności. 3. Utworzenie nowego ubezpieczyciela, dokonane w ramach realizacji przepisu art. 33 ust. 2 przez ubezpieczyciela prowadzącego działalność ubezpieczeniową przed wejściem w życie ustawy, wymaga zezwolenia Ministra Finansów, przy czym przepisy ust. 1 i 2 stosuje się odpowiednio. 4. Likwidacja ubezpieczycieli, którzy utracili prawo wykonywania działalności ubezpieczeniowej przed dniem wejścia w życie niniejszej ustawy, jest prowadzona na podstawie dotychczasowych przepisów."
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Spółdzielnie prowadzące działalność ubezpieczeniową na podstawie ustawy z dnia 20 września 1984 r. o ubezpieczeniach majątkowych i osobowych ( Dz. U. Nr 45, poz. 242 oraz z 1989 r. Nr 30, poz. 160 ) zobowiązane są z mocy niniejszej ustawy przekształcić się w spółki akcyjne w terminie do dnia 31 grudnia 1991 r., z zastrzeżeniem ust. 2 i 3. 2. Warunkiem przekształcenia w spółkę akcyjną jest uchwała walnego zgromadzenia członków spółdzielni, podjęta bezwzględną większością głosów w trybie i na zasadach przewidzianych dla podejmowania uchwał w statucie spółdzielni, oraz uchwalenie statutu spółki. 3. Fundusz udziałowy przekształca się w kapitał akcyjny, który obejmują dotychczasowi członkowie spółdzielni na zasadach określonych przez walne zgromadzenie i statut spółki."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "1. Państwowy Zakład Ubezpieczeń przekształca się w spółkę akcyjną Skarbu Państwa. 2. Minister Finansów, w drodze rozporządzenia, określa tryb i zasady przekształcenia Państwowego Zakładu Ubezpieczeń oraz tryb i zasady przejęcia zobowiązań z tytułu zawartych ubezpieczeń. 3. Do czasu przekształcenia Państwowego Zakładu Ubezpieczeń, nie później niż do 31 grudnia 1991 r., zakład ten działa na podstawie przepisów dotychczasowych, z uwzględnieniem przepisów niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "1. Traci moc ustawa z dnia 20 września 1984 r. o ubezpieczeniach majątkowych i osobowych ( Dz. U. Nr 45, poz. 242 i z 1989 r. Nr 30, poz. 160 ) , z zastrzeżeniem ust. 2. 2. Pozostają w mocy przepisy: 1) art. 24 ust. 3, art. 71 i 72, 2) art. 6 ust. 1 pkt 2 i 3, pkt 7-9 - do dnia 30 września 1990 r. 3) art. 6 ust. 1 pkt 1, 5 i 6 - do dnia 31 grudnia 1990 r."
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z tym że przepisy art. 41 i 42 wchodzą w życie z dniem 1 stycznia 1993 r. Załącznik - Podział ryzyka według działów, grup i rodzajów ubezpieczeń Dział I Ubezpieczenia na życie 1) ubezpieczenie na życie, 2) ubezpieczenie posagowe, zaopatrzenia dzieci, 3) ubezpieczenie na życie, jeżeli jest związane z funduszem inwestycyjnym. Dział II Pozostałe ubezpieczenia majątkowe i osobowe 1. Wypadek, w tym wypadek przy pracy i choroba zawodowa: 1) świadczenia jednorazowe, 2) świadczenia powtarzające się, 3) świadczenia kombinowane, 4) przewóz osób. 2. Choroba: 1) świadczenia jednorazowe, 2) świadczenia powtarzające się, 3) świadczenia kombinowane. 3. Casco pojazdów lądowych, z wyjątkiem pojazdów szynowych, obejmujące szkody w: 1) pojazdach samochodowych, 2) pojazdach lądowych bez własnego napędu. 4. Casco pojazdów szynowych obejmujące szkody w pojazdach szynowych. 5. Casco statków powietrznych obejmujące szkody w pojazdach powietrznych. 6. Casco żeglugi morskiej i śródlądowej obejmujące szkody w: 1) statkach żeglugi morskiej, 2) statkach żeglugi śródlądowej. 7. Przedmioty w transporcie obejmujące szkody na transportowanych przedmiotach, niezależnie od każdorazowo stosowanych środków transportu. 8. Szkody spowodowane żywiołami obejmujące szkody rzeczowe, nie ujęte w grupach 3-7, spowodowane przez: 1) ogień, 2) eksplozję, 3) burzę, 4) inne żywioły, 5) energię jądrową, 6) obsunięcia ziemi lub tąpnięcia. 9. Pozostałe szkody rzeczowe (jeżeli nie zostały ujęte w grupie 3, 4, 5, 6 lub 7), wywołane przez grad lub mróz oraz przez inne przyczyny (jak np. kradzież), jeżeli przyczyny te nie są ujęte w grupie 8. 10. Odpowiedzialność cywilna wszelkiego rodzaju, wynikająca z posiadania i użytkowania pojazdów lądowych z napędem własnym, łącznie z odpowiedzialnością przewoźnika. 11. Odpowiedzialność cywilna wszelkiego rodzaju, wynikająca z posiadania i użytkowania pojazdów powietrznych, łącznie z odpowiedzialnością przewoźnika. 12. Odpowiedzialność cywilna za żeglugę morską i śródlądową, wynikająca z posiadania i użytkowania statków żeglugi śródlądowej i statków morskich, łącznie z odpowiedzialnością przewoźnika. 13. Odpowiedzialność cywilna (odpowiedzialność cywilna ogólna) nie ujęta w grupach 10-12. 14. Kredyt, w tym: 1) ogólna niewypłacalność, 2) kredyt eksportowy, 3) spłaty, 4) pożyczki hipoteczne, 5) pożyczki rolnicze. 15. Gwarancja: 1) gwarancja bezpośrednia, 2) gwarancja pośrednia. 16. Różne straty finansowe, w tym: 1) ryzyko zawodowe, 2) niewystarczające dochody, 3) złe warunki atmosferyczne, 4) utrata zysku, 5) pośrednie straty komercyjne, 6) niekomercyjne straty pieniężne, 7) pozostałe straty finansowe. 17. Ochrona prawna. 18. Świadczenia pomocy na korzyść osób, które popadły w trudności w czasie podróży lub podczas nieobecności w miejscu zamieszkania lub miejscu stałego pobytu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_1-arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_5-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_5-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_6-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_6-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"chpt_1-arti_6-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"chpt_1-arti_6-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_1-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"chpt_1-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_1-arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_1-arti_8-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Towarzystwo ubezpieczeń wzajemnych\",\"children\": [{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_2-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_2-arti_17-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_2-arti_17-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_2-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_2-arti_21-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_21-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_21-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_2-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_2-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"chpt_2-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_2-arti_26-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_26-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_2-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_27-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_2-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_2-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_29-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Warunki podejmowania i prowadzenia działalności ubezpieczeniowej\",\"children\": [{\"id\": \"chpt_3-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_3-arti_30-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id"
+    }
+  ],
+  "definitions": []
+}

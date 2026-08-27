@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-240",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 kwietnia 1922 r. o przedłużeniu terminów dla zachowania i przywrócenia praw własności przemysłowej, dotkniętych przez wojnę światową.",
+  "title_en": "",
+  "short_name": "pl-du-1922-240",
+  "status": "in_force",
+  "issued_date": "1922-04-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/240",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Terminy, określone w art. 1, 2 i 3 Porozumienia z Państwami, należącemi do Konwencji Międzynarodowej, o ochronie własności przemysłowej, podpisanego w Bernie dnia 30 czerwca 1920 r. w przedmiocie zachowania i przywrócenia praw własności przemysłowej, dotkniętych przez wojnę światową, przedłuża się na rzecz posiadaczy praw, przyznanych przez pomienioną Konwencję, lub na rzecz ich następców prawnych na okres trzech miesięcy od dat, które oznaczy drogą rozporządzenia Minister Przemysłu i Handlu; przedłużenie to przyznaje powyższe dobrodziejstwa obywatelom lub poddanym obcym bez względu na to, czy im przysługują prawa, wypływające z powyższego Porozumienia, lub nie, jednakże na termin nie dłuższy niż ten, na który dobrodziejstwa te są lub będą przyznane przez dany kraj obywatelom Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,392 @@
+{
+  "id": "pl-du-1938-480",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 sierpnia 1938 r. o wyborze radnych miejskich.",
+  "title_en": "",
+  "short_name": "pl-du-1938-480",
+  "status": "in_force",
+  "issued_date": "1938-08-16",
+  "in_force_date": "1938-08-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/480",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wybory radnych miejskich są oparte na zasadzie głosowania powszechnego, równego, tajnego i bezpośredniego na nazwiska kandydatów, uprzednio należycie zgłoszonych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Potrójne terminy poszczególnych czynności wyborczych, wymienione w ustawie niniejszej, należy rozumieć w ten sposób, iż liczba pierwsza określa termin dla miast do 15.000 mieszkańców, liczba druga - dla miast ponad 15.000 do 60.000 mieszkańców, liczba zaś trzecia - dla miast ponad 60.000 mieszkańców, chyba że z przepisów ustawy niniejszej wynika inaczej. Liczba radnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Liczba radnych wynosi w miastach: 1) do 5.000 mieszkańców - dwunastu; 2) ponad 5.000 do 10.000 mieszkańców - szesnastu; 3) ponad 10.000 do 25.000 mieszkańców - dwudziestu czterech; 4) ponad 25.000 do 40.000 mieszkańców - trzydziestu dwóch; 5) ponad 40.000 do 60.000 mieszkańców - czterdziestu; 6) ponad 60.000 do 120.000 mieszkańców - czterdziestu ośmiu; 7) ponad 120.000 do 180.000 mieszkańców - pięćdziesięciu sześciu; 8) ponad 180.000 do 400.000 mieszkańcówsiedemdziesięciu dwóch; 9) ponad 400.000 mieszkańców - osiemdziesięciu czterech; 10) w m. st. Warszawie - stu. (2) Liczbę mieszkańców ustala się na podstawie ostatniego urzędowego powszechnego spisu ludności. Prawo wybierania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Prawo wybierania dorady miejskiej służy każdemu obywatelowi polskiemu bez różnicy płci, który ma prawo wybierania do Sejmu i przynajmniej od roku, licząc wstecz od przedednia zarządzenia wyborów, mieszka na obszarze miasta. (2) Warunek jednorocznego zamieszkania nie dotyczy: 1) zamieszkałych w przededniu zarządzenia wyborów na obszarze miasta właścicieli lub posiadaczy nieruchomości, położonych na obszarze miasta; 2) pracowników umysłowych i fizycznych. niezależnie od rodzaju i charakteru pełnionej pracy, pozostających w stosunku służbowym do Państwa lub instytucji publicznoprawnych, tudzież żołnierzy służby stałej, duchowieństwa świeckiego i zakonnego, jeżeli osoby te pełnią swe funkcje na obszarze miasta i mieszkały na tym obszarze w przededniu zarządzenia wyborów; 3) członków rodzin osób, wymienionych w pkt 2), zamieszkałych z nimi we wspólnocie gospodarczej na obszarze miasta w przededniu zarządzenia wyborów; 4) obywateli honorowych miasta. (3) Przy ustalaniu faktu zamieszkania stosuje się przepisy o ewidencji i kontroli ruchu ludności, przy czym na równi z zapisanymi do rejestru mieszkańców traktuje się osoby, które powinny być zapisane do tego rejestru. (4) Prawo wybierania ulega zawieszeniu na czas trwania postępowania karnego w sprawach o zbrodnie, zagrożone karą dodatkową utraty praw publicznych i obywatelskich praw honorowych, od chwili doręczenia aktu oskarżenia. (5) Prawo wybierania nie przysługuje żołnierzom, pozostającym w czynnej służbie wojskowej, a nie będącym żołnierzami służby stałe). Prawo wybieralności."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prawo wybieralności służy każdemu obywatelowi, mającemu prawo wybierania, który przed dniem zarządzenia wyborów ukończył lat 30 i włada językiem polskim w słowie i piśmie. Okręgi wyborcze i obwody głosowania."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Miasto dzieli się na okręgi wyborcze, a okręgi na obwody głosowania, liczące najwyżej 3,000 mieszkańców. (2) Okręg wyborczy, liczący do 3.000 mieszkańców, może stanowić jeden obwód głosowania. (3) Każdy okręg wyborczy oraz każdy obwód głosowania powinien tworzyć jedną ciągłą całość terytorialną; warunek ten nie dotyczy części miasta, stanowiących enklawy na obszarze gmin sąsiednich. (4) Miasto, liczące do 5.000 mieszkańców, może stanowić jeden okręg wyborczy. (5) W mieście, podzielonym na okręgi wyborcze, na jeden okręg nie może przypadać więcej niż 8 mandatów,"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "(1) Podziału na okręgi i obwody głosowania dokonywa przed zarządzeniem wyborów władza zarządzająca wybory, a na obszarze m. st. Warszawy - Komisarz Rządu, ustalając dla każdego okręgu ilość mandatów w zależności od liczby mieszkańców. (2) Liczbę mieszkańców w okręgu i obwodzie ustala się na podstawie prowadzonej przez miasto ewidencji ludności. (3) Okręgi wyborcze oznacza się cyframi rzymskimi, a obwody głosowania - cyframi arabskimi. Zarządzenie wyborów."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wybory zarządza w miastach nie wydzielonych z powiatowego związku samorządowego starosta powiatowy, w miastach wydzielonych wojewoda, a w m. st. Warszawie - Minister Spraw Wewnętrznych, ustalając dzień zarządzenia wyborów i dzień głosowania."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "(1) Nadzór nad czynnościami wyborczymi sprawuje władza zarządzająca wybory. (2) Nadzór uprawnia do żądania wyjaśnień, uchylania sprzecznych z prawem uchwał komisyj wyborczych lub postanowień przewodniczących oraz do usuwania lub żądania usunięcia dostrzeżonych uchybień. Komisje wyborcze."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "(1) Do przeprowadzenia wyborów w miastach, podzielonych na okręgi wyborcze i obwody głosowania, powołuje się: główną, okręgowe i obwodowe komisje wyborcze. (2) W miastach, stanowiących jeden okręg wyborczy, czynności okręgowych komisyj wyborczych spełnia główna komisja wyborcza, w miastach zaś, stanowiących jeden okręg wyborczy i jeden obwód głosowania, czynności głównej, okręgowych i obwodowych komisyj wyborczych spełnia jedna komisja wyborcza; w okręgach, stanowiących jeden obwód głosowania, czynności okręgowej i obwodowej komisyj wyborczych spełnia jedna komisja wyborcza. (3) Główna, okręgowe i obwodowe komisje wyborcze składają się z przewodniczącego i 4 członków. Przewodniczącego oraz 1 członka każdej komisji wyborczej powołuje władza, zarządzająca wybory; pozostałych członków wybiera magistrat. W m. st. Warszawie przewodniczącego głównej komisji wyborczej powołuje Minister Spraw Wewnętrznych, przewodniczących zaś okręgowych i obwodowych komisyj wyborczych oraz po 1 członku każdej komisji wyborczej powołuje Komisarz Rządu na m. st. Warszawę. (4) Przewodniczący i członkowie komisyj wyborczych powinni być powołani nie później niż 7 - 12 - 16 dnia po zarządzeniu wyborów. (5) W razie niepowołania przez Magistrat członków komisyj w terminie ustawowym, przewodniczący odnośnych komisyj uzupełniają ich skład członkami przez siebie powołanymi; mandat tych członków wygasa z chwilą otrzymania przez przewodniczącego zawiadomienia o powołaniu członków w trybie, przewidzianym w ust. (3)."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "(1) Przewodniczącym lub członkiem komisji wyborczej może być tylko wyborca, władający językiem polskim w słowie i piśmie. (2) W miastach, stanowiących siedzibę sądów powszechnych, przewodniczącego głównej komisji wyborczej powołuje się w miarę możności spośród sędziów; powołanie na przewodniczącego głównej komisji wyborczej sędziego sądu grodzkiego może nastąpić tylko w porozumieniu z prezesem sądu okręgowego, sędziów zaś sądu okręgowego, apelacyjnego i Najwyższego - w porozumieniu z prezesem właściwego sądu. (3) Wyborca, zgłoszony na kandydata lub wpisany na listę kandydatów, traci z chwilą podpisania oświadczenia o wyrażeniu zgody na zgłoszenie jego kandydatury prawo piastowania godności przewodniczącego lub członka komisji wyborczej."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "(1) Od przyjęcia godności członków komisyj wyborczych nikt nie może się uchylać bez usprawiedliwionych przyczyn. (2) Zezwolenia na złożenie godności członka komisji może udzielić władza, która go powołała. (3) Władza, wskazana w ust. (2), ma prawo nałożyć na osobę, która uchyli się od przyjęcia lub złoży godność członka komisji wyborczej bez zezwolenia, jednorazowo świadczenie pieniężne w wysokości od 10 do 100 zł na korzyść miasta. Stronie służy prawo wniesienia odwołania do władzy bezpośrednio wyższej bądź do właściwej władzy nadzorczej. (4) Świadczenie pieniężne, nakładane w myśl przepisu ust. (3), ściąga się w trybie postępowania przymusowego w administracji."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "(1) Godność przewodniczącego i członków komisji wyborczej jest honorowa. (2) Przewodniczący i członkowie komisji wyborczej, którzy utrzymują się z zarobku dziennego, pobierają diety za dnie rzeczywistej pracy w komisji, nadto przewodniczącemu i członkom komisji wyborczej, zamieszkałym poza miejscem urzędowania, służy prawo do zwrotu kosztów podróży. (3) Wysokość diet i kosztów podróży oraz zasady pobierania tych należności ustala wydział powiatowy dla miast nie wydzielonych z powiatowego związku samorządowego, wojewoda przy współudziale wydziału wojewódzkiego (izby wojewódzkiej) z głosem stanowczym - dla miast wydzielonych, a Minister Spraw Wewnętrznych - w m. st. Warszawie."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "(1) Jednocześnie z przewodniczącymi i członkami komisyj wyborczych będą powołani w tym samym trybie i tej samej liczbie ich zastępcy. (2) Zastępcom służy prawo obecności na posiedzeniach właściwych komisyj; w głosowaniu zastępcy biorą udział tylko w razie nieobecności osób, które zastępują. (3) Przepisy art. 11, 12 i 13 stosuje się odpowiednio do zastępców przewodniczących i zastępców członków komisyj wyborczych."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "(1) Do ważności uchwał komisyj wyborczych niezbędna jest obecność przewodniczącego i co najmniej 2 członków. Uchwały zapadają zwykłą większością głosów obecnych. W razie równości głosów przeważa głos przewodniczącego. (2) Jeden z członków komisji sporządza protokół obrad; protokoły podpisują przewodniczący oraz członkowie komisji, obecni na posiedzeniu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Po uprawomocnieniu się aktu wyborczego komisje wyborcze rozwiązują się z samego prawa. Spis wyborców."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "(1) Spisy wyborców, oddzielne dla każdego obwodu głosowania, sporządzi w 2 egzemplarzach przełożony gminy. (2) Obywatele honorowi będą wciągnięci do spisu pierwszego obwodu pierwszego okręgu. (3) Przełożony gminy doręczy właściwe spisy wyborców przewodniczącym okręgowych komisyj wyborczych nie później niż 14 - 20 - 25 dnia po zarządzeniu wyborów. Ogłoszenie o czynnościach wyborczych."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "(1) Najpóźniej 10 - 16 - 20 dnia po zarządzeniu wyborów główna komisja wyborcza ogłosi plakatami: 1) podział miasta na okręgi wyborcze i obwody głosowania; 2) skład głównej, okręgowych i obwodowych komisyj wyborczych; 3) lokale i godziny urzędowania głównej i okręgowych komisyj; 4) dnie, godziny i miejsce wyłożenia spisu wyborców i wnoszenia reklamacyj; 5) liczbę radnych, jaka ma być wybrana w każdym okręgu wyborczym; 6) dnie, godziny i miejsce zgłaszania kandydatów lub list kandydatów; 7) liczbę wyborców uprawnionych do zgłoszenia kandydatów lub list kandydatów dla każdego okręgu wyborczego. (2) W ogłoszeniu należy podać treść art. 19 i 23 ust. (2). Wyłożenie spisów i wnoszenie reklamacyj."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "(1) Spisy wyborców będą wyłożone w lokalu okręgowej komisji od 16 - 22- 27 dnia po zarządzeniu wyborów nieprzerwanie przez dni 5 w godzinach od 10 do 12 i od 17 do 21. (2) Podczas wyłożenia spisów każdy obywatel, mający prawo wybierania, może je przeglądać, robić z nich wyciągi oraz wnosić reklamacje."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "(1) Reklamacje można wnosić z powodu: 1) pominięcia w spisie uprawnionego do głosowania; 2) wciągnięcia do spisu osoby nie uprawnionej do głosowania. (2) Reklamacje będą wnoszone na piśmie lub ustnie do protokołu ze wskazaniem przyczyn. (3) Komisja okręgowa załatwia reklamacje niezwłocznie; w razie potrzeby komisja może zażądać przedłożenia, a także uzupełnienia dowodów."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Komisja okręgowa po załatwieniu reklamacji z powodu pominięcia w spisie uprawnionego do głosowania: 1) uzupełni spis wyborców, bądź 2) zawiadomi osobę, pominiętą w spisie, że reklamacja nie została uwzględniona."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "(1) Komisja okręgowa po załatwieniu reklamacji z powodu wciągnięcia do spisu osoby nie uprawnionej do głosowania: 1) zwróci reklamację, jako nieuwzględnioną, bądź 2) zawiadomi osobę, której reklamacja dotyczy, że będzie skreślona ze spisu wyborców. (2) Każdy, kogo dotyczy reklamacja, ma prawo w ciągu następnych 2 dni po doręczeniu zawiadomienia wnieść sprzeciw do okręgowej komisji wyborczej. (3) Komisja okręgowa po rozpatrzeniu sprzeciwu: 1) uchyli swą poprzednią uchwałę, bądź 2) potwierdzi ją."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "(1) Okręgowa komisja wyborcza nie później niż 25 - 31 - 40 dnia po zarządzeniu wyborów poczyni w spisach wyborców zmiany, dokonane wskutek reklamacyj; z tą chwilą spisy wyborców będą uznane za ostatecznie ustalone i odtąd żadnych zmian czynić w nich nie wolno. (2) Do glosowania będą uprawnione tylko osoby, wpisane do ustalonego ostatecznie spisu wyborców. (3) Ostatecznie ustalony spis wyborców będzie wyłożony do publicznego przeglądu w lokalu okręgowej komisji wyborczej przez 2 dni, począwszy od 27 - 33 - 42 dnia po zarządzeniu wyborów, w godzinach, określonych w art. 19 ust. (1). (4) W razie podziału na obwody głosowania przewodniczący okręgowej komisji wyborczej prześle przewodniczącym obwodowych komisyj wyborczych przed dniem głosowania ustalone spisy wyborców właściwych obwodów. Zgłaszanie kandydatów i list kandydatów."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Najpóźniej 20 - 26 - 32 dnia po zarządzeniu wyborów wyborcy mają prawo zgłaszania w godzinach urzędowania do głównej komisji wyborczej: 1) kandydatów w okręgach o 1 i 2 mandatach; 2) list kandydatów w okręgach o 3 i więcej mandatach."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "(1) Kandydaci powinni posiadać prawo wybieralności w którymkolwiek okręgu wyborczym. (2) Kandydować można tylko w jednym okręgu. (3) W okręgach o 3 i więcej mandatach kandydować można tylko z jednej listy. Jeżeli tego samego kandydata zamieszczono na kilku listach, uznaje się go za prawidłowo zgłoszonego na tej liście, do której dołączona jest jego zgoda z datą najpóźniejszą."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "(1) Zgłoszenie kandydatów lub lista kandydatów powinny zawierać numer okręgu wyborczego, imię, nazwisko, wiek, zawód i dokładny adres zamieszkania każdego kandydata. Nazwiska kandydatów opatruje się kolejno numerami. Do zgłoszenia kandydatów lub listy kandydatów należy dołączyć oświadczenie każdego kandydata, opatrzone datą i własnoręcznym podpisem, że zgadza się na zgłoszenie jego kandydatury w danym okręgu wyborczym i że posiada prawo wybieralności. (2) Zgłoszenie kandydatów lub lista kandydatów powinna zawierać liczbę nazwisk kandydatów, odpowiadającą podwójnej ilości mandatów, przypadającej na dany okręg wyborczy. (3) Każde zgłoszenie i każda lista kandydatów powinna być podpisana własnoręcznie co najmniej przez 25 - 50 - 75, a w miastach: Krakowie, Lwowie, Łodzi, Poznaniu, m. st. Warszawie i Wilnie przez 100 wyborców, wpisanych do spisu wyborców okręgu. (4) Każdy wyborca może podpisać tylko jedno zgłoszenie lub jedną listę, podając miejsce swego zamieszkania. Zgłoszenie lub listę może podpisać również i ten wyborca, który został wpisany do spisu wyborców dopiero w drodze reklamacji. W razie podpisania 2 lub więcej zgłoszeń bądź list ważny jest tylko podpis na zgłoszeniu lub liście najwcześniejszej. Śmierć wyborcy lub utrata przezeń prawa wybierania nie powoduje nieważności uprzednio złożonego podpisu. (5) Po podpisaniu zgłoszenia kandydatów lub listy kandydatów nie można wpisywać nowych kandydatów pod rygorem nieważności wpisanej kandydatury. (6) Cofnięcie przez wyborcę podpisu nie ma żadnego skutku prawnego. (7) Wnoszący zgłoszenie lub listę mogą wyznaczyć spośród siebie pełnomocnika, upoważnionego do porozumiewania się z komisją wyborczą. W razie niewyznaczeina za pełnomocnika uważa się wyborcę, podpisanego na pierwszym miejscu zgłoszenia lub listy."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "(1) Przewodniczący głównej komisji wyborczej wyda na żądanie pełnomocnika pisemne poświadczenie wniesienia zgłoszenia lub listy i złożenia oświadczenia kandydatów. (2) Lista kandydatów otrzymuje numer porządkowy w kolejności jej zgłoszenia. Numeracja list odbywa się dla każdego okręgu wyborczego oddzielnie. Ustalenie zgłoszeń kandydatów i list kandydatów."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "(1) Główna komisja wyborcza bada, czy zgłoszenia kandydatów lub listy kandydatów odpowiadają obowiązującym przepisom. (2) Przewodniczący może wezwać bezpośrednio lub za pośrednictwem pełnomocnika listy wyborcę, który podpisał zgłoszenie lub listę i zbadać własnoręczność jego podpisu oraz uznać za nieważny podpis tego, który nie stawił się na wezwanie w odpowiednio wyznaczonym terminie, nie krótszym niż 3 dni. (3) W przypadku uzasadnionej wątpliwości przewodniczący głównej komisji wyborczej celem stwierdzenia, czy kandydat włada językiem polskim w słowie i piśmie, może go wezwać bezpośredniolub za pośrednictwem pełnomocnika, wyznaczając mu odpowiedni termin, nie krótszy niż 3 dni. Główna komisja wyborcza może skreślić kandydata, który nie zjawi się na wezwanie w tym terminie, (4) Wystarczającym dowodem władania językiem polskim w słowie i piśmie jest stwierdzenie uczęszczania co najmniej przez 3 lala do szkoły powszechnej bądź innej równorzędnej lub wyższej, jeżeli język polski był wykładowy, albo nauka tego języka była obowiązkowa. W braku takiego dowodu sprawdzianem jest napisanie w obecności przewodniczącego głównej komisji wyborczej paru zdań po polsku, przy czym ani charakter pisma, ani błędy gramatyczne i ortograficzne nie mogą wpływać na ocenę władania językiem."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "(1) Główna komisja wyborcza skreśli kandydata: 1) jeżeli brak jest jego oświadczenia, wymaganego w myśl art. 26 ust. (1); 2) jeżeli zamieszczono go na kilku listach, a oświadczenia jego są opatrzone jednakową datą; 3) wpisanego po podpisaniu zgłoszenia lub listy. (2) W przypadku stwierdzenia innych braków lub wad, mogących spowodować nieważność zgłoszenia lub listy, bądź nieważność poszczególnych kandydatów, główna komisja wyborcza wezwie pełnomocnika najpóźniej 26 - 32 - 41 dnia po zarządzeniu wyborów do usunięcia tych braków lub wad, przy czym może zwrócić zgłoszenie lub listę, a obowiązana jest wymienić, jakie braki lub wady zawiera. (3) Jeżeli pełnomocnik nie usunie wskazanych przez główną komisję wyborczą braków i wad najpóźniej 29 - 35 - 44 dnia po zarządzeniu wyborów, główna komisja wyborcza stwierdzi nieważność zgłoszenia kandydatów lub listy kandydatów w całości bądź nieważność tych kandydatur, co do których stwierdziła braki i wady. (4) O decyzjach, wydanych na podstawie przepisów ustępów poprzedzających, komisja zawiadomi pełnomocników. Ogłoszenie kandydatur i termin głosowania."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "(1) Nie później niż 3 - 5 - 7 dnia przed dniem głosowania główna komisja wyborcza ogłosi plakatami: 1) w okręgach o 3 lub więcej mandatach listy kandydatów, a w okręgach o 1 i 2 mandatach kandydatury, uznane za ważne - z podaniem imienia i nazwiska kandydatów, ich wieku, zawodu i adresu zamieszkania; listy kandydatów będą umieszczone w ogłoszeniu w kolejności numerów, które im nadano, a kandydaci na nich w kolejności, ustalonej na listach; podpisów osób ogłaszających kandydatów lub listy nie zamieszcza się; kandydatury w okręgach o 1 i 2 mandatach zamieszcza się w ogłoszeniu w kolejności alfabetycznej nazwisk; 2) dzień i czas trwania głosowania; 3) lokale, w których odbędzie się głosowanie; 4) treść art. 33, 36 i 43. (2) Głosowanie odbędzie się w niedzielę lub dzień świąteczny jednego dnia we wszystkich okręgach wyborczych najpóźniej 34 - 453 - a w miastach, liczących ponad 60.000 mieszkańców - nie wcześniej niż 60 i nie później niż 78 dnia po zarządzeniu wyborów. Głosowanie."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "(1) Głosowanie odbędzie się w lokalach obwodowych komisyj wyborczych i trwać będzie bez przerwy od godziny 9 do 21; głosowanie może być jednak zamknięte wcześniej, jeżeli wszyscy wyborcy oddali swe głosy. (2) Od chwili rozpoczęcia głosowania aż do ustalenia jego wyniku w lokalu wyborczym będą obecni bez przerwy przewodniczący i co najmniej 2 członkowie komisji."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Podczas sprawdzania urny wyborczej (art. 35 i 39), aktu głosowania i ustalania jego wyniku w lokalu wyborczym mogą być obecni mężowie zaufania lub ich zastępcy, zgłoszeni przez pełnomocników po jednym dla każdej komisji. Mąż zaufania (zastępca) powinien mieć prawo wybierania w danym mieście i okazać przewodniczącemu komisji wyborczej imienne pismo delegacyjne, wydane przez pełnomocnika i potwierdzone przez przewodniczącego okręgowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "W dniu głosowania nie wolno; 1) wygłaszać przemówień, rozdawać ulotek ani też w inny sposób agitować tak wewnątrz jak i na zewnątrz lokalu wyborczego w promieniu 100 metrów; 2) wchodzić do lokalu wyborczego osobom, nie biorącym udziału w głosowaniu lub czynnościach wyborczych."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "(1) Przewodniczący komisji wyborczej czuwa nad zapewnieniem porządku w czasie głosowania. (2) Przewodniczący może: 1) usunąć z lokalu wyborczego każdego wykraczającego przeciwko przepisom porządkowym, zawartym w artykule poprzedzającym, wszakże nie pozbawiając go, w miarę możności, prawa oddania głosu, w szczególności wezwać go do wypełnienia karty do głosowania poza lokalem wyborczym; 2) wydawać zarządzenia, zmierzające do zapewnienia wyborcom dostępu do lokalu i urny wyborczej. (3) W celu zapewnienia wykonania zarządzeń przewodniczącego, zmierzających do zabezpieczenia spokoju i porządku głosowania, starostowie (Komisarz Rządu na m. st. Warszawę) oddadzą do jego rozporządzenia straż w odpowiedniej sile."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "(1) Przed rozpoczęciem głosowania komisja wyborcza zbada, czy urna jest próżna, po czym urnę zamknie. (2) Od tej chwili aż do ukończenia głosowania urny otwierać nie wolno."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "(1) Wyborca głosuje osobiście. (2) Głosowanie odbywa się przez oddanie karty do głosowania. (3) Karty do głosowania nie mogą być koloru oczywiście innego niż biały. Treść karty do głosowania może być odbita mechanicznie bądź pisana ręcznie w lokalu wyborczym lub poza nim. (4) W lokalu wyborczym będą urządzane osłony, zabezpieczające tajność głosowania. (5) Kartę do głosowania wkłada wyborca do koperty, otrzymanej od komisji wyborczej, po czym kopertę oddaje przewodniczącemu, który wrzuca ją do urny. (6) Wszystkie koperty są sporządzane z papieru nieprzezroczystego o jednakowej barwie, posiadają jednakowy format i są ostemplowane pieczęcią zarządu miejskiego; prócz pieczęci koperty nie mogą być oznaczone żadnym znakiem odróżniającym. (7) Przewodniczący głównej komisji wyborczej dostarcza wszystkim komisjom ostemplowanych kopert."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "(1) Przewodniczący oraz członkowie komisji mogą przed oddaniem przez wyborcę głosu zażądać ustalenia jego tożsamości. (2) Wyborca, nie posiadający dokumentów, uznanych przez komisję za wystarczające, może się powołać na świadectwo 2 wiarogodnych osób, znanych komisji."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Przewodniczący, członkowie obwodowej komisji wyborczej, osoby pełniące straż przy komisjach wyborczych oraz mężowie zaufania i ich zastępcy mogą zamiast we właściwym obwodzie oddać głos w obwodzie, w którym w dzień głosowania urzędują; w tym celu obwodowa komisja wyborcza wciągnie ich do spisu wyborców dodatkowo, po przedstawieniu zaświadczenia właściwej komisji, że zostali skreśleni ze spisu w swoim obwodzie."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "(1) Głosowania przerywać nie wolno. (2) Komisja wyborcza może odroczyć głosowanie jedynie z powodu wydarzeń siły wyższej i nie dłużej niż do dnia następnego. Zarządzenie takie powinno być natychmiast ogłoszone publicznie w sposób, w danym mieście zwyczajem przyjęty. (3) W przypadku odroczenia głosowania komisja wyborcza opieczętuje akty i urnę wyr borczą i odda na przechowanie przewodniczącemu pod jego osobistą odpowiedzialnością. (4) Przed ponownym podjęciem glosowania komisja zbada, czy pieczęcie nie zostały naruszone."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "(1) Przewodniczący zarządzi o godzinie 21 zamknięcie lokalu wyborczego. (2) Odtąd głosować mogą ci tylko wyborcy, którzy przybyli do lokalu przed godziną 21."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "(1) W okręgach o 1 i 2 mandatach wyborca może glosować tylko na jednego ze zgłoszonych w danym okręgu kandydatów na radnego oraz tylko na jednego kandydata na zastępcę radnego. Kandydaci zgłoszeni na radnych są jednocześnie kandydatami na zastępców radnych. (2) Na karcie do głosowania wyborca wpisuje: u góry pod tytułem „na radnego” nazwisko kandydata na radnego, - u dołu pod tytułem „na zastępcę radnego” nazwisko kandydata na zastępcę radnego. (3) Obok nazwiska niezbędne jest podanie imienia tylko wówczas, jeżeli zgłoszono w okręgu 2 lub więcej kandydatów tego samego nazwiska. W przypadku zgłoszenia 2 lub więcej kandydatów tego samego nazwiska i imienia, należy podać również wiek i adres kandydata. (4) W razie nieoznaczenia na karcie, na którego kandydata wyborca głosuje jako na radnego, na którego zaś jako na zastępcę radnego, komisja wyborcza uzna kandydata wpisanego na początku karty, jako kandydata na radnego, następnego zaś w kolejności wpisania jako kandydata na zastępcę radnego."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "(1) W okręgach o 3 lub więcej mandatach wyborca rozporządza tylu głosami, ilu radnych wybiera się w okręgu wyborczym, może jednak oddać swe głosy na mniejszą ilość kandydatów na radnych, rezygnując w ten sposób z pozostałych rozporządzalnych swych głosów. (2) Wyborca może głosować na nazwiska kandydatów danego okręgu wyborczego, ogłoszonych plakatami komisji wyborczej, bez względu na to, na jakich listach nazwiska te są umieszczone. Na 1 kandydata wyborca może oddać tylko 1 głos. (3) Karta do głosowania powinna zawierać nazwiska kandydatów, na których wyborca oddaje głos. (4) Przepis art. 41 ust. (3) stosuje się tu odpowiednio. Nieważne karty do głosowania"
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "(1) Nieważność karty do głosowania stwierdza komisja wyborcza, przed którą odbyło się głosowanie. (2) Nieważne są karty do głosowania: 1) włożone do koperty urzędownie nieostemplowanej lub wrzucone do urny bez kopert; 2) koloru oczywiście innego niż biały; 3) niewypełnione lub zupełnie nieczytelne. (3) Z kilku znalezionych w kopercie prawidłowo wypełnionych i o jednakowej treści kart do głosowania komisja wyborcza uzna za ważną tylko jedną kartę; jeżeli zaś w kopercie znaleziono 2 lub więcej kart różnej treści, łączna zaś suma nazwisk kandydatów przekracza rozporządzalną przez wyborcę ilość głosów, komisja wyborcza wszystkie znajdujące się w kopercie karty uzna za nieważne. (4) Umieszczenie na karcie do głosowania nazwisk kandydatów w ilości, przekraczającej liczbę głosów, jaką wyborca rozporządza, nie powoduje nieważności karty. Nadliczbowe nazwiska kandydatów, umieszczone na końcu, komisja wyborcza skreśla. (5) Umieszczenie na karcie do głosowania poza nazwiskami kandydatów również nazwisk osób, których nie zgłoszono ważnie, nie powoduje unieważnienia karty do głosowania, nazwiska jednak tych osób komisja wyborcza skreśla. Jeżeli karta zawiera 2 lub więcej razy nazwisko tego samego kandydata, komisja uwzględni to nazwisko tylko raz jeden. (6) Nazwiska kandydatów, wpisane na kartę do glosowania w sposób, nie ustalający niewątpliwie osoby kandydata, komisja wyborcza skreśla. (7) Błędy i niedokładności pisowni nie powodują nieważności głosu, jeżeli nie ma wątpliwości co do tożsamości kandydata. Ustalenie wyniku głosowania."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "(1) Obliczenia oddanych głosów dokonywają te same komisje wyborcze, przed którymi odbywa się głosowanie. Obliczenie jest dokonywane zaraz po zakończeniu głosowania. (2) Komisja wyborcza, wskazana w ust. (1), sporządzi protokolarne zestawienie: 1) składu komisji wyborczej i nazwisk obecnych mężów zaufania; 2) liczby osób, uprawnionych do głosowania; 3) liczby wszystkich oddanych kart do głosowania; 4) liczby oddanych nieważnych kart do głosowania; 5) liczby wszystkich oddanych ważnych kart do głosowania; 6) liczby głosów ważnych, oddanych w okręgach o 3 i więcej mandatach na poszczególnych kandydatów, a w okręgach o 1 i 2 mandatach oddzielnie na poszczególnych kandydatów na radnych i na zastępców radnych; 7) w okręgach o 3 lub więcej mandatach liczby podsumowane ważnych głosów, oddanych na wszystkich kandydatów każdej listy. (3) Każdy z obecnych podczas ustalania wyniku głosowania może zgłosić uwagi do protokołu. (4) Jeżeli głosowanie odbyło się przed obwodową komisją wyborczą, komisja ta prześle niezwłocznie protokolarne zestawienie wyniku głosowania wraz z aktami wyborczymi okręgowej komisji wyborczej."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Okręgowa komisja wyborcza po zestawieniu wyników głosowania w okręgu wyborczym ustala, którzy kandydaci zostali wybrani na radnych miejskich."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "(1) W okręgach o 1 mandacie za wybranego uznaje się tego kandydata, który otrzymał największą ilość głosów, co najmniej 1/4 wszystkich ważnych głosów. W razie równości głosów rozstrzyga los, wyciągnięty przez przewodniczącego komisji wyborczej. (2) W okręgach o 2 mandatach za wybranych uznaje się tych kandydatów, którzy otrzymali kolejno największe ilości głosów, co najmniej po 1/8 wszystkich ważnych głosów. W razie równości głosów rozstrzyga los, wyciągnięty przez przewodniczącego komisji wyborczej. (3) Jeżeli w sposób, przewidziany w ustępach poprzedzających, nie wszystkie mandaty w okręgu zostały obsadzone, wówczas wyboru radnego albo radnych, których mandaty nie zostały obsadzone, dokonywa się w głosowaniu ściślejszym, przy czym skreśla się kandydatury, które w pierwszym głosowaniu otrzymały najmniejsze ilości głosów, w ten sposób, ażeby ilość pozostałych kandydatur nie była większa od podwójnej liczby mandatów, pozostałych do obsadzenia. Wybór kandydata w pierwszym głosowaniu na zastępcę radnego nie wyłącza jego kandydatury na radnego w głosowaniu ściślejszym; jeżeli w wyniku głosowania ściślejszego kandydat ten nie zostanie wybrany na radnego, zachowuje mandat zastępcy radnego. Głosowanie ściślejsze jest ostateczne i za wybranego lub wybranych uważa się tego lub tych kandydatów, którzy otrzymali kolejno największą ilość głosów. (4) Okręgowa komisja wyborcza ustali termin głosowania ściślejszego i ogłosi plakatami najpóźniej na 3 dni przed terminem tego głosowania, podając ewentualnie imię i nazwisko, wiele, zawód i adres wybranego w pierwszym głosowaniu kandydata oraz imiona i nazwiska, wieli, zawód i adres kandydatów, na których można będzie głosować w ściślejszym głosowaniu, oddzielnie jako na radnych, oddzielnie zaś jako na zastępców radnych. Jeżeli na podstawie przepisu ust. (3) kandydat, wybrany w głosowaniu pierwszym na zastępcę radnego, będzie kandydował na radnego w głosowaniu ściślejszym, wówczas komisja wyborcza zamiast niego uwzględni w miarę potrzeby na liście kandydatów na zastępców radnych kandydata, który w pierwszym głosowaniu na zastępców radnych otrzymał z kolei największą ilość głosów. Głosowanie ściślejsze odbędzie się w niedzielę lub święto, nie później aniżeli 14 dnia po dniu pierwszego głosowania. (5) W okręgach o 1 i 2 mandatach zastępców radnych wybiera się w ilości, odpowiadającej liczbie mandatów w okręgu. Przepisy, dotyczące wyboru radnych, stosuje się również do wyboru zastępców radnych. Kandydata, wybranego na radnego i na zastępcę radnego, uznaje się za wybranego na radnego. Zastępców powołuje się w kolejności otrzymanej ilości głosów."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "(1) W okręgach o 3 lub więcej mandatach okręgowa komisja wyborcza dokonywa podziału mandatów między listy kandydatów w sposób następujący: ogólną ilość ważnych głosów, oddanych w danym okręgu wyborczym na kandydatów każdej listy, dzieli się kolejno przez 1, 2, 3 itd. aż do chwili, gdy w ten sposób da się uszeregować tyle kolejno największych liczb (ilorazów), ile jest mandatów w okręgu do podziału. Poszczególnej liście kandydatów przyznaje się tyle mandatów, ile liczb (ilorazów) przypada na nią spośród ustalonego w powyższy sposób ich szeregu. O przyznaniu mandatów jednej z 2 lub więcej list, wykazujących jednakowe ilorazy końcowe, rozstrzyga los, wyciągnięty przez przewodniczącego komisji wyborczej. (2) O pierwszeństwie i kolejności wyboru poszczególnych kandydatów na radnych miejskich z danej listy w danym okręgu wyborczym rozstrzyga kolejna względna większość głosów ważnych, oddanych w tym okręgu na kandydatów tej listy. W razie oddania jednakowej ilości głosów na 2 lub więcej kandydatów, o pierwszeństwie do uzyskania mandatu rozstrzyga los, wyciągnięty przez przewodniczącego komisji wyborczej."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "(1) Jeżeli lista w wyniku obliczenia głosów na podstawie przepisów art. 47 ust. (1) nie otrzymała ani jednego mandatu, a ilość głosów, oddanych na któregokolwiek kandydata takiej listy, przekracza połowę wspólnego ilorazu wyborczego dla całego okręgu, wówczas kandydat taki otrzymuje mandat radnego, przypadający innej liście, lecz nie obsadzony w myśl przepisów art. 47. Jeżeli jednak wszystkie mandaty w myśl przepisów art. 47 zostaną obsadzone, w takim razie kandydat, który z listy nie uprawnionej do żadnego mandatu skupił powyżej określoną ilość głosów, otrzymuje mandat zamiast kandydata, uzyskującego z innej listy mniejszą ilość głosów i przy tym najmniejszą spośród kandydatów innych list, którzy mają prawo do mandatu w ostatniej kolejności, według przepisów art. 47 ust. (2). W przypadku, gdy 2 lub więcej listy albo 2 lub więcej kandydatów z innych list odpowiadałoby jednakowym warunkom, uzasadniającym utratę mandatu, wówczas traci mandat lista albo kandydat z listy, która otrzymała najmniejszą ilość głosów, a przy równej ilości głosów, otrzymanej przez 2 lub więcej list, o utracie mandatu rozstrzyga los, wyciągnięty przez przewodniczącego. Wspólny iloraz wyborczy dla całego okręgu uzyskuje się przez podzielenie ogólnej sumy ważnych głosów, oddanych na kandydatów wszystkich list, przez liczbę przypadających na okręg mandatów. (2) W okręgach o 3 lub więcej mandatach na zastępców radnych w poszczególnych okręgach będą uznani ci kandydaci z listy w ilości uzyskanych przez kandydatów tej listy mandatów radnych, którzy otrzymali z kolei po kandydatach, wybranych na radnych, największą ilość głosów. (3) Jeżeli liczba kandydatów, na których głosowano z danej listy, nie wyczerpie pełnej ilości przypadającej na tę listę mandatów zastępców radnych, wówczas pozostałe mandaty zastępców radnych przypadają innym kandydatom tej listy, w kolejności umieszczenia ich nazwisk na liście. Wybory bez głosowania."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "(1) Jeżeli w okręgu o 1 lub 2 mandatach zostanie dokonane tylko jedno zgłoszenie kandydatów głosowanie nie odbędzie się; w takim przypadku za wybranych na radnych uznaje się kandydatów, umieszczonych na początku zgłoszenia, w kolejności w nim ustalonej, a to w liczbie, odpowiadającej ilości mandatów w okręgu, na zastępców radnych zaś - pozostałych kandydatów. (2) Jeżeli w okręgu o 3 lub więcej mandatach zostanie zgłoszona tylko jedna lista kandydatów, głosowanie nie odbędzie się, a za wybranych na radnych uznaje się kandydatów, umieszczonych na początku listy w liczbie, odpowiadającej ilości mandatów w okręgu, na zastępców radnych zaś - kandydatów w tej samej ilości w dalszej kolejności umieszczenia ich nazwisk na liście. (3) Zastępców radnych do rady miejskiej powołuje się w kolejności, ustalonej w ust. (1) i (2). Protokół wyborczy."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "(1) Okręgowa komisja wyborcza sprawdza protokoły i obliczenia wyników głosowania, przy czym może wezwać przewodniczących obwodowych komisyj wyborczych do udzielenia wyjaśnień. Okręgowa komisja wyborcza może uchylić decyzję obwodowej komisji wyborczej o unieważnieniu lub uznaniu za ważną karty do głosowania lub poszczególnych głosów oraz powinna poprawić błędy arytmetyczne. (2) Po ustaleniu wyniku wyborów okręgowa komisja wyborcza sporządzi protokół wyborczy, który winien zawierać prócz danych, wymienionych w art. 44 ust. (2): 1) liczbę mandatów, uzyskanych przez poszczególne listy kandydatów; 2) imiona, nazwiska, wiek i miejsce zamieszkania wybranych radnych; 3) imiona, nazwiska, wiek i miejsce zamieszkania zastępców radnych. (3) Okręgowa komisja wyborcza niezwłocznie po ustaleniu wyniku wyborów prześle głównej komisji wyborczej protokół wyborczy wraz z aktami. Ustalenie i ogłoszenie ogólnego wyniku wyborów."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "(1) W przypadku wybrania kandydata w 2 lub więcej okręgach główna komisja wyborcza unieważni jego wybór we wszystkich okręgach. (2) Nie później niż 10 dnia po dniu ostatecznego glosowania główna komisja wyborcza ogłosi wyniki wyborów, podając dane, wymienione w art. 44 ust. (2) pkt 5) - 7) oraz w art. 50 ust. (2) pkt 1) - 3) w stosunku do każdego okręgu oddzielnie. Protesty wyborcze i unieważnienie wyborów."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Wybory są nieważne jeżeli: 1) zostanie stwierdzone, że dopuszczono się przy wyborach przestępstw przeciwko głosowaniu w sprawach publicznych, a popełnione przestępstwa mogły wpłynąć na wynik wyborów; 2) wybory zostały przeprowadzone niezgodnie z przepisami ustawy, a popełnione uchybienia mogły wpłynąć na wynik wyborów."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "O unieważnieniu wyborów w całości lub części orzeka władza zarządzająca wybory z urzędu, bądź wskutek protestu."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "(1) Protest przeciwko wyborom z żądaniem unieważnienia ich w całości albo też wyboru poszczególnego radnego ma prawo wnieść w ciągu 7 dni po ogłoszeniu ostatecznego wyniku wyborów przez główną komisję wyborczą co najmniej taka liczba wyborców danego okręgu wyborczego, jaka była uprawniona do zgłoszenia kandydatów lub listy kandydatów. Zbadanie własnoręczności podpisów, umieszczonych na proteście, może nastąpić tylko w sposób, wskazany w art. 28. Protesty przeciwko wyborom wnosi się na piśmie do głównej komisji wyborczej, która w terminie 7 dni prześle je z odpowiednimi wyjaśnieniami i aktami wyborczymi władzy, powołanej do rozstrzygnięcia protestu. Wniesienie protestu przeciwko wyborom wstrzymuje ukonstytuowanie się nowowybranej rady miejskiej. (2) Decyzje komisyj wyborczych i ich przewodniczących oraz zarządzenia nadzorcze, wydane na podstawie art. 9, mogą być zaskarżone jedynie łącznie z protestem wyborczym."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "(1) O unieważnieniu wyborów z urzędu bądź wskutek protestu, starosta powiatowy orzeka przy współudziale wydziału powiatowego z głosem stanowczym, a wojewoda przy współudziale wydziału wojewódzkiego (izby wojewódzkiej) z głosem stanowczym. (2) Decyzje, rozstrzygające protesty, są ostateczne w administracyjnym toku instancyj. (3) Utrzymuje się w mocy przepisy art. 97 ust. (2) ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorialnego (Dz. U. R. P. Nr 35, poz. 294) dla obszaru województw pomorskiego i poznańskiego w granicach sprzed wejścia w życie ustawy z dnia 12 czerwca 1937 r. o zmianie granic województw: poznańskiego, pomorskiego, warszawskiego i łódzkiego (Dz. U. R. P. Nr 46, poz. 350)."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "(1) W razie unieważnienia wyboru poszczególnych radnych wstępują w ich miejsce kolejno zastępcy. (2) W razie unieważnienia wyborów w danym okręgu wyborczym, władza zarządzająca wybory zarządzi w ciągu 14 dni nowe wybory w tym okręgu, lub w takim samym terminie zarządzi podjęcie niektórych czynności wyborczych, wskazując czynność, od której należy ponowić postępowanie wyborcze."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "W razie niewniesienia protestu przeciwko Wyborom w przepisanym terminie główna komisja wyborcza przekaże wszystkie akty wyborcze zarządowi miejskiemu do przechowania w archiwum. Wybory uzupełniające."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "(1) Jeżeli w ciągu kadencji liczby zastępców radnych w okręgach zostaną wyczerpane, a liczba radnych w mieście zmniejszy się nie więcej niż o 25%, władza zarządzająca wybory może zarządzić wybory uzupełniające wtychże okręgach. Władza jest obowiązana to uczynić, jeżeli liczba radnych zmniejszy się więcej niż o 2535, rada zaś nie będzie rozwiązana. (2) Wybory uzupełniające przeprowadza się na podstawie przepisów ustawy niniejszej. Podział na okręgi wyborcze może być utrzymany lub zmieniony zależnie od zmiany liczby mieszkańców. Koszty wyborów."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "(1) Koszty przeprowadzenia wyborów ponosi miasto. (2) Lokalu, urny, sprzętów i przyborów do pisania dla komisyj wyborczych dostarczy na koszt własny miasto. (3) Wszelkie pisma, podania, odpisy i pełnomocnictwa w sprawach wyborczych są wolne od opłat stemplowych oraz opłat administracyjnych związków samorządowych. (4) Zarząd miejski w miarę potrzeby przydzieli funkcjonariuszów miejskich do pracy głównej i okręgowej komisyj wyborczych. Przepisy końcowe."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "(1) Z dniem wejścia w życie ustawy niniejszej tracą moc przepisy art. 34 i 39 - 41 oraz w zakresie spraw unormowanych ustawą niniejszą - art. 3, 4, 42 i 97 ust. (1) ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorialnego (Dz. U. R. P. Nr 35, poz. 294). (2) Rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 listopada 1930 r. o ustroju miasta Gdyni (Dz. U. R, P. Nr 80, poz. 630) w brzmieniu ustawy z dnia 28 marca 1938 r. (Dz. U. R. P. Nr 22, poz. 190) pozostaje w mocy."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Ustawa niniejsza obowiązuje na obszarze całego Państwa z wyjątkiem województwa śląskiego."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_3-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pass_(1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pass_(1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_3-pass_(1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_3-pass_(1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_3-pass_(1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_3-pass_(1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_3-pass_(1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\",\"children\": [{\"id\": \"arti_4-pass_(2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_(2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_(2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pass_(2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_4-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_4-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_4-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_6-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_6-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_6-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_7-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_7-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_9-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_10-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_10-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_10-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_10-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"arti_11-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_11-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_11-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_12-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_12-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_12-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"arti_13-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_13-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_13-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"arti_14-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_14-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_14-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_15-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_17-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_17-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"arti_18-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_18-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_18-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_18-pass_(1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_18-pass_(1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_18-pass_(1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_18-pass_(1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_18-pass_(1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_18-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"arti_19-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_19-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"arti_20-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_20-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_20-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_20-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_20-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"arti_21-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_21-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"arti_22-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_22-pass_(1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_22-pass_(1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_22-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_22-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\",\"children\": [{\"id\": \"arti_22-pass_(3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_22-pass_(3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"arti_23-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_23-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_23-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_23-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"arti_24-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_24-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"arti_25-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_25-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_25-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"arti_26-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_26-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_26-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_26-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"},{\"id\": \"arti_26-pass_(5\",\"symbol\": \"pass_(5\",\"type\": \"pass\",\"name\": \"(5\",\"title\": \"(5)\"},{\"id\": \"arti_26-pass_(6\",\"symbol\": \"pass_(6\",\"type\": \"pass\",\"name\": \"(6\",\"title\": \"(6)\"},{\"id\": \"arti_26-pass_(7\",\"symbol\": \"pass_(7\",\"type\": \"pass\",\"name\": \"(7\",\"title\": \"(7)\"}]},{\"id\": \"arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"arti_27-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_27-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"arti_28-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_28-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_28-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_28-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \""
+    }
+  ],
+  "definitions": []
+}

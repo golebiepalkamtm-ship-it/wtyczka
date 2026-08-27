@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1986-72",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 kwietnia 1986 r. o zmianie ustawy o przedsiębiorstwach mieszanych.",
+  "title_en": "",
+  "short_name": "pl-du-1986-72",
+  "status": "in_force",
+  "issued_date": "1986-04-10",
+  "in_force_date": "1986-04-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1986/72",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 10 lipca 1985 r. o przedsiębiorstwach mieszanych ( Dz. U. Nr 32, poz. 142 ) w art. 35 ust. 2 otrzymuje brzmienie: „ 2. Z zysku do podziału dokonuje się obowiązkowego odpisu na fundusz zapasowy, a następnie na należną wpłatę podatku od ponadnormatywnych wypłat wynagrodzeń. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do odpisów z zysku za okres od dnia 1 stycznia 1986 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,320 @@
+{
+  "id": "pl-du-1962-54",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 1962 r. o Sądzie Najwyższym.",
+  "title_en": "",
+  "short_name": "pl-du-1962-54",
+  "status": "repealed",
+  "issued_date": "1962-02-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1962/54",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sąd Najwyższy jest naczelnym organem sądowym, który sprawuje nadzór nad działalnością sądów powszechnych i szczególnych w zakresie orzekania."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sąd Najwyższy ma siedzibę w Warszawie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. W skład Sądu Najwyższego wchodzą: Pierwszy Prezes, prezesi i sędziowie. 2. Liczbę prezesów i sędziów Sądu Najwyższego ustala Rada Państwa. 3. Ilekroć ustawa niniejsza mówi ogólnie o sędziach Sądu Najwyższego, rozumie się przez to także Pierwszego Prezesa i prezesów tego sądu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Sąd Najwyższy dzieli się na izby: Cywilną, Karną, Pracy i Ubezpieczeń Społecznych oraz Wojskową."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Na czele Sądu Najwyższego stoi Pierwszy Prezes. Pełni on czynności przewidziane w przepisach postępowania sądowego i regulaminie oraz wykonywa w stosunku do Sądu Najwyższego czynności administracji sądowej. Zastępcami Pierwszego Prezesa są prezesi Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Pracami każdej z izb Sądu Najwyższego kieruje jeden z prezesów tego Sądu powołany do pełnienia tej funkcji przez Radę Państwa."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Izba Cywilna sprawuje, w granicach i w trybie określonym przez właściwe przepisy, nadzór nad orzecznictwem sądowym w sprawach cywilnych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Izba Karna sprawuje, w granicach i w trybie określonym przez właściwe przepisy, nadzór nad orzecznictwem sądowym w sprawach karnych należących do właściwości sądów powszechnych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Izba Pracy i Ubezpieczeń Społecznych sprawuje, w granicach i w trybie określonym przez właściwe przepisy, nadzór nad orzecznictwem sądowym w sprawach ze stosunku pracy oraz nad orzecznictwem sądów ubezpieczeń społecznych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Izba Wojskowa sprawuje, w granicach i w trybie określonym przez właściwe przepisy, nadzór nad orzecznictwem sądów wojskowych. 2. W przypadkach w ustawie przewidzianych Izba Wojskowa rozpoznaje sprawy osób wojskowych jako sąd pierwszej instancji. 3. Sędziowie Izby Wojskowej są oficerami zawodowymi i podlegają w zakresie służby wojskowej Ministrowi Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. W Sądzie Najwyższym czynne jest Biuro Orzecznictwa, którym kieruje dyrektor powołany spośród sędziów Sądu Najwyższego na wniosek Pierwszego Prezesa tego Sądu przez Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej. 2. W skład Biura Orzecznictwa wchodzą osoby mające kwalifikacje sędziowskie, powołane przez Ministra Sprawiedliwości na wniosek Pierwszego Prezesa Sądu Najwyższego, a gdy chodzi o oficerów zawodowych w porozumieniu z Ministrem Obrony Narodowej. 3. Odwołanie dyrektora i członków Biura Orzecznictwa następuje w ten sam sposób."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Sąd Najwyższy wydaje zbiór swoich orzeczeń zawierających rozstrzygnięcie ważniejszych zagadnień prawnych."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Pierwszy Prezes zdaje Radzie Państwa sprawę z działalności Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "1. Sąd Najwyższy na życzenie Ministra Sprawiedliwości udziela mu wiadomości o sprawach, które znajdują się w tym Sądzie. Jeżeli Minister Sprawiedliwości uważa, iż zachodzą uchybienia w toku spraw, może zwrócić się do Pierwszego Prezesa Sądu Najwyższego z wnioskami dotyczącymi tych uchybień. 2. W stosunku do Izby Wojskowej uprawnienia Ministra Sprawiedliwości określone w ust. 1 przysługują również Ministrowi Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zasady wewnętrznej organizacji Sądu Najwyższego określa regulamin nadany przez Radę Państwa na wniosek Pierwszego Prezesa tego Sądu, złożony w porozumieniu z Ministrem Sprawiedliwości, a w części dotyczącej Izby Wojskowej także w porozumieniu z Ministrem Obrony Narodowej. Rozdział 2 Wybór Sądu Najwyższego i odwoływanie jego sędziów"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Rada Państwa wybiera Sąd Najwyższy w pełnym składzie na okres lat pięciu. 2. Sposób przeprowadzania wyboru ustala Rada Państwa."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Grono kandydatów przy wyborze Sądu Najwyższego stanowią: a) sędziowie Sądu Najwyższego upływającej kadencji, b) osoby, których kandydatury przedstawia Minister Sprawiedliwości, a gdy chodzi o Izbę Wojskową - Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej. 2. Rada Państwa może dokonać wyboru także spośród innych osób. 3. Wybór spośród osób wymienionych w ust. 1 lit. a) oraz w ust. 2 następuje po wysłuchaniu opinii Ministra Sprawiedliwości, a gdy chodzi o Izbę Wojskową po wysłuchaniu opinii Ministrów Sprawiedliwości i Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W okresie kadencji Sądu Najwyższego Rada Państwa wybiera poszczególnych sędziów na stanowiska opróżnione lub nowo utworzone. Przepisy artykułu poprzedzającego, z wyjątkiem ust. 1 lit. a), stosuje się odpowiednio. Wybór następuje na czas do końca danej kadencji."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Kandydat na stanowisko sędziego Sądu Najwyższego powinien posiadać przewidziane we właściwych przepisach kwalifikacje na stanowiska sędziowskie. Nadto powinien on wykazać się co najmniej dziesięcioletnim okresem pracy w sądownictwie, prokuraturze lub państwowej komisji arbitrażowej albo na innym stanowisku, z którym jest związana praktyka prawnicza; nie dotyczy to profesorów nauk prawnych na polskich uniwersytetach państwowych lub w Polskiej Akademii Nauk."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Rada Państwa odwołuje sędziego Sądu Najwyższego w czasie trwania kadencji, jeżeli sędzia: a) zrzeka się swego stanowiska, b) przekroczył siedemdziesiąt lat życia, c) z powodu choroby, ułomności lub upadku sił stał się trwale niezdolny do pełnienia obowiązków sędziego Sądu Najwyższego, d) nie daje rękojmi należytego wykonywania obowiązków sędziego Sądu Najwyższego. 2. Odwołanie następuje na wniosek Ministra Sprawiedliwości i po wysłuchaniu opinii Pierwszego Prezesa Sądu Najwyższego, a gdy chodzi o sędziego Izby Wojskowej na wniosek Ministra Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej i po wysłuchaniu opinii Pierwszego Prezesa Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Prawomocne skazanie na karę utraty praw publicznych, obywatelskich praw honorowych lub prawa wykonywania zawodu albo wydalenie przez sąd dyscyplinarny ze służby sędziowskiej pociąga za sobą z mocy prawa utratę stanowiska sędziego Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Sędzia Izby Wojskowej nie może być zwolniony z zawodowej służby wojskowej przed odwołaniem ze stanowiska sędziego Sądu Najwyższego lub przed utratą tego stanowiska."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Sędzia Sądu Najwyższego nie wybrany na następną kadencję tego Sądu ma prawo powrócić na stanowisko zajmowane poprzednio lub otrzymać stanowisko równorzędne: sędziego, prokuratora, arbitra w państwowym arbitrażu gospodarczym lub stanowisko w administracji państwowej. W stosunku do takiego sędziego nie stosuje się ograniczeń przewidzianych w art. 44 ustawy z dnia 27 czerwca 1950 r. o ustroju adwokatury ( Dz. U. z 1959 r. Nr 8, poz. 41 ) . Rozdział 3 Tryb wykonywania nadzoru przez Sąd Najwyższy"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Sąd Najwyższy wykonywa swe funkcje: a) przez rozpoznawanie środków odwoławczych od nieprawomocnych orzeczeń sądów wojewódzkich wydanych w pierwszej instancji oraz od nieprawomocnych orzeczeń sądów wojskowych, b) przez rozpoznawanie rewizji nadzwyczajnych od prawomocnych orzeczeń sądowych, c) przez ustalanie wytycznych wymiaru sprawiedliwości i praktyki sądowej, d) przez podejmowanie uchwał zawierających odpowiedzi na pytania prawne, e) przez rozpoznawanie innych spraw należących do jego właściwości na mocy przepisów postępowania sądowego lub ustaw szczególnych."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Sąd Najwyższy, w razie dostrzeżenia przy rozpoznawaniu sprawy oczywistej obrazy przepisów ustawowych w postępowaniu sądu powszechnego lub szczególnego, obowiązany jest - niezależnie od uprawnień przysługujących mu na mocy ustaw postępowania sądowego - stwierdzić uchybienie i wytknąć je właściwemu sądowi. Na żądanie Sądu Najwyższego sąd powszechny lub szczególny obowiązany jest udzielić wyjaśnień. Stwierdzenie i wytknięcie uchybienia nie ma wpływu na daną sprawę. 2. O wytknięciu uchybienia Sąd Najwyższy zawiadamia kierownika właściwego sądu, a w przypadkach ważniejszych także Ministra Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "W razie stwierdzenia w związku z rozpoznawaną sprawą poważnego uchybienia w czynnościach przedsiębiorstwa państwowego albo instytucji państwowej lub społecznej, Sąd Najwyższy zawiadamia o stwierdzonym uchybieniu organ powołany do sprawowania nadzoru nad danym przedsiębiorstwem lub instytucją."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Tryb rozpoznawania przez Sąd Najwyższy środków odwoławczych i rewizji nadzwyczajnych regulują przepisy postępowania sądowego. 2. Rozpoznawanie środków odwoławczych następuje w składzie trzech sędziów Sądu Najwyższego. 3. Rozpoznawanie rewizji nadzwyczajnych od orzeczeń Sądu Najwyższego następuje w składzie siedmiu sędziów Sądu Najwyższego, a rewizji nadzwyczajnych od orzeczeń Trybunału Ubezpieczeń Społecznych w składzie pięciu sędziów Sądu Najwyższego. Rewizje nadzwyczajne od orzeczeń innych sądów są rozpoznawane w składzie trzech sędziów Sądu Najwyższego. Od rozpoznawania rewizji nadzwyczajnych wyłączeni są sędziowie, którzy wydali zaskarżone orzeczenie. 4. Sędziowie Izby Wojskowej nie biorą udziału w rozpoznawaniu środków odwoławczych ani rewizji nadzwyczajnych, dla których rozpoznania jest właściwa inna izba, a sędziowie innych izb nie biorą udziału w rozpoznawaniu środków odwoławczych ani rewizji nadzwyczajnych, dla których jest właściwa Izba Wojskowa."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "1. Ustalane przez Sąd Najwyższy wytyczne wymiaru sprawiedliwości i praktyki sądowej mają na celu zapewnienie prawidłowego stosowania prawa oraz jednolitości orzecznictwa wszystkich sądów. Naruszenie wytycznych może stanowić podstawę uchylenia lub zmiany orzeczenia. 2. Sąd Najwyższy ustala wytyczne na wniosek Ministra Sprawiedliwości, Prokuratora Generalnego albo Pierwszego Prezesa Sądu Najwyższego. Pierwszy Prezes kieruje wniosek, zależnie od rodzaju i wagi zagadnienia, bądź pod rozpoznanie zgromadzenia ogólnego, bądź pod rozpoznanie dwóch połączonych izb, bądź też pod rozpoznanie jednej izby. 3. Wytyczne ogłasza Pierwszy Prezes Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Uchwały Sądu Najwyższego zawierające odpowiedzi na pytania prawne mają na celu wyjaśnienie przepisów prawnych, które budzą wątpliwości albo których stosowanie wywołało rozbieżność w orzecznictwie. 2. Wniosek o podjęcie uchwały może być postawiony przez Ministra Sprawiedliwości, Prokuratora Generalnego albo Pierwszego Prezesa lub prezesa Sądu Najwyższego. Pierwszy Prezes kieruje wniosek pod rozpoznanie bądź składu siedmiu sędziów, bądź też pełnego składu danej izby. Skład siedmiu sędziów może przedstawić zagadnienie pod rozpoznanie pełnego składu izby, a izba - pod rozpoznanie dwóch połączonych izb albo zgromadzenia ogólnego. 3. Uchwały zgromadzenia ogólnego lub izby wpisuje się do właściwej księgi zasad prawnych. Skład siedmiu sędziów może postanowić wpisanie swojej uchwały do księgi zasad prawnych."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Skład sądzący trzech sędziów Sądu Najwyższego może przedstawić zagadnienie prawne budzące wątpliwości do rozstrzygnięcia składowi siedmiu sędziów. Skład siedmiu sędziów może postanowić wpisanie swojej uchwały do księgi zasad prawnych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "1. Jeżeli jakikolwiek skład sądzący Sądu Najwyższego zamierza odstąpić od zasady prawnej wpisanej do księgi, przedstawia on pytanie lub zagadnienie prawne do rozstrzygnięcia pełnemu składowi izby. 2. Odstąpienie od zasady prawnej, uchwalonej przez izbę albo przez zgromadzenie ogólne, wymaga ponownego rozstrzygnięcia w drodze uchwały danej izby lub zgromadzenia ogólnego. 3. Jeżeli skład jednej izby Sądu Najwyższego zamierza odstąpić od zasady prawnej wpisanej do księgi innej izby, rozstrzygnięcie następuje w drodze uchwały obu izb. Izby mogą przedstawić pytanie lub zagadnienie prawne pod rozpoznanie zgromadzenia ogólnego. 4. Uchwały podjęte w trybie ust. 1-3 wpisuje się do właściwej księgi zasad prawnych."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "1. Do powzięcia uchwały zgromadzenia ogólnego Sądu Najwyższego potrzebna jest obecność przynajmniej połowy członków zgromadzenia. 2. Do powzięcia uchwały pełnego składu izby potrzebna jest obecność przynajmniej połowy jej członków, w każdym jednak razie nie mniej niż dziesięciu sędziów. Rozdział 4 Sądy dyscyplinarne"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Do orzekania w sprawach dyscyplinarnych sędziów Sądu Najwyższego powołane są następujące sądy dyscyplinarne: a) w pierwszej instancji Sąd Dyscyplinarny Wyższy, który orzeka w składzie trzech sędziów Sądu Najwyższego, b) w drugiej instancji Najwyższy Sąd Dyscyplinarny, który orzeka w składzie pięciu sędziów Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Przewodniczącym Sądu Dyscyplinarnego Wyższego jest jeden z prezesów Sądu Najwyższego. 2. Członków Sądu Dyscyplinarnego Wyższego w liczbie dwunastu, w tym czterech zastępców przewodniczącego, wybiera zgromadzenie ogólne Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Przewodniczącym Najwyższego Sądu Dyscyplinarnego jest Pierwszy Prezes Sądu Najwyższego. 2. Członków Najwyższego Sądu Dyscyplinarnego w liczbie dziesięciu, w tym dwóch zastępców przewodniczącego, wybiera zgromadzenie ogólne Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "1. Wniosek o wszczęcie postępowania dyscyplinarnego przeciwko sędziemu Sądu Najwyższego może być złożony przez Ministra Sprawiedliwości albo przez Pierwszego Prezesa Sądu Najwyższego, a przeciwko sędziemu Izby Wojskowej - również przez Ministra Obrony Narodowej. 2. Rzecznikiem dyscyplinarnym w Sądzie Dyscyplinarnym Wyższym i w Najwyższym Sądzie Dyscyplinarnym jest sędzia Sądu Najwyższego wyznaczony przez Ministra Sprawiedliwości, a gdy chodzi o sprawy dyscyplinarne sędziów Izby Wojskowej - przez Ministra Sprawiedliwości, w porozumieniu z Ministrem Obrony Narodowej."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Posiedzenia Sądu Dyscyplinarnego Wyższego oraz Najwyższego Sądu Dyscyplinarnego odbywają się z udziałem sędziego protokolanta."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Wykonanie wyroku orzekającego kary dyscyplinarne upomnienia lub nagany należy do Pierwszego Prezesa Sądu Najwyższego. Prawomocne wyroki orzekające inne kary dyscyplinarne przedstawia Pierwszy Prezes Radzie Państwa."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Orzeczenia dyscyplinarne mogą być podawane do wiadomości publicznej dopiero po ich uprawomocnieniu się, na podstawie uchwały sądu dyscyplinarnego i za zezwoleniem Pierwszego Prezesa Sądu Najwyższego. Rozdział 5 Przepisy wprowadzające i przejściowe"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "1. Do organizacji oraz do zakresu i trybu działania Sądu Najwyższego, jak również do sędziów tego Sądu stosuje się odpowiednio przepisy prawa o ustroju sądów powszechnych , o ile nie są one sprzeczne z przepisami ustawy niniejszej. 2. Jednakże do zakresu i trybu działania Izby Wojskowej oraz do sędziów tej Izby stosuje się odpowiednio przepisy o ustroju sądów wojskowych, o ile nie są one sprzeczne z przepisami ustawy niniejszej. Do wnoszenia wniosków rewizyjnych (art. 282 kodeksu wojskowego postępowania karnego) są uprawnieni Prokurator Generalny i Pierwszy Prezes Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Kolegium administracyjne w Sądzie Najwyższym składa się z przewodniczącego i sześciu członków. Trzech członków i jednego zastępcę członka kolegium wybiera spośród sędziów Sądu Najwyższego zgromadzenie ogólne tego Sądu, a trzech członków i jednego zastępcę powołuje spośród sędziów Sądu Najwyższego Pierwszy Prezes. Przewodniczącym Kolegium jest Pierwszy Prezes."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "1. Z zachowaniem przepisów prawa o ustroju sądów powszechnych Minister Sprawiedliwości, w porozumieniu z Pierwszym Prezesem Sądu Najwyższego, może delegować sędziego sądu wojewódzkiego lub sędziego Trybunału Ubezpieczeń Społecznych do pełnienia czynności sędziowskich w Sądzie Najwyższym, a sędziego Sądu Najwyższego w tym samym trybie i za jego zgodą - do pełnienia czynności w sądzie wojewódzkim lub Trybunale Ubezpieczeń Społecznych albo w Ministerstwie Sprawiedliwości. 2. Uprawnienia Ministra Sprawiedliwości określone w ust. 1 służą odpowiednio Ministrowi Obrony Narodowej w odniesieniu do sędziów sądów wojskowych i sędziów Izby Wojskowej Sądu Najwyższego w zakresie delegowania tych sędziów do pełnienia czynności w sądach wojskowych lub w Izbie Wojskowej Sądu Najwyższego."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "1. Sędziowie Sądu Najwyższego będący oficerami zawodowymi ponoszą odpowiedzialność dyscyplinarną na podstawie ustawy niniejszej. Odpowiedzialność ta rozciąga się także na czyny określone w wojskowych przepisach dyscyplinarnych i w statucie oficerskich sądów honorowych. 2. Wymierzenie kary wydalenia ze służby sędziowskiej pociąga za sobą w zakresie służby wojskowej i zaopatrzenia skutki wymierzenia kary usunięcia z zawodowej służby wojskowej."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Minister Obrony Narodowej w porozumieniu z Pierwszym Prezesem Sądu Najwyższego może poruczyć Prezesowi Izby Wojskowej sprawowanie wszystkich lub niektórych funkcji nadzoru administracyjnego nad sądami wojskowymi."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Wnioski rewizyjne od orzeczeń byłego Najwyższego Sądu Wojskowego rozpoznaje Izba Wojskowa w składzie siedmiu sędziów."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Regulamin Sądu Najwyższego określi w szczególności: 1) izby właściwe dla spraw przekazanych Sądowi Najwyższemu, poza sprawami określonymi w art. 7, 8, 9 i 10; 2) wewnętrzną organizację izb; 3) tryb powoływania przewodniczącego Sądu Dyscyplinarnego Wyższego; 4) organizację Biura Orzecznictwa i zakres czynności pomocniczych powierzonych jego członkom; 5) sposób prowadzenia księgi zasad prawnych; 6) zasady przekazywania przez Sąd Najwyższy akt spraw sądowych archiwom państwowym oraz tryb niszczenia akt w całości lub w części; 7) zasady prowadzenia wykazów służbowych dla sędziów Sądu Najwyższego; 8) strój urzędowy sędziów Sądu Najwyższego na rozprawach; 9) organizację i zakres działania sekretariatów sądowych i innych jednostek administracji sądowej Sądu Najwyższego oraz warunki przyjmowania pracowników administracji sądowej w tym Sądzie."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Rada Państwa określi dla sędziów Sądu Najwyższego, dla członków Biura Orzecznictwa oraz dla innych pracowników tego Sądu: 1) tabelę stanowisk służbowych i grupy uposażenia zasadniczego dla poszczególnych stanowisk; 2) zasady zaszeregowania do grup uposażenia zasadniczego; 3) kwoty miesięcznego uposażenia zasadniczego dla poszczególnych grup oraz wysokość i zasady przyznawania dodatków do uposażenia."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Uchyla się art. 20-28 prawa o ustroju sądów powszechnych . Ponadto tracą moc w stosunku do Sądu Najwyższego sprzeczne z ustawą niniejszą przepisy o ustroju sądów powszechnych i sądów wojskowych, jak również inne przepisy prawne w przedmiotach w niej uregulowanych."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. W prawie o sądach ubezpieczeń społecznych wprowadza się następujące zmiany: 1) wprowadza się nowy art. 355 1 w następującym brzmieniu: „ Art. 355 1 . § 1. W przypadku gdy przy rozpoznawaniu rewizji przez Trybunał Ubezpieczeń Społecznych powstanie zagadnienie prawne budzące poważne wątpliwości, Trybunał może odroczyć rozpoznanie sprawy i przekazać zagadnienie do rozstrzygnięcia Izbie Pracy i Ubezpieczeń Społecznych Sądu Najwyższego, która rozpoznaje sprawę w składzie trzech sędziów. § 2. Uchwała izby rozstrzygająca zagadnienie prawne wiąże w danej sprawie sądy niższego rzędu. ” ; 2) art. 376 otrzymuje brzmienie: „ Art. 376. Od każdego prawomocnego orzeczenia kończącego postępowanie w sprawie Minister Sprawiedliwości, Prokurator Generalny Polskiej Rzeczypospolitej Ludowej lub Pierwszy Prezes Sądu Najwyższego może założyć rewizję nadzwyczajną, jeżeli orzeczenie narusza interes Państwa Ludowego albo powzięte zostało z pogwałceniem istotnych przepisów prawa. ” ; 3) w nagłówku tytułu V oraz w art. 377 i 378 wyrazy „nadzwyczajna skarga rewizyjna” , „nadzwyczajną skargę rewizyjną” i „nadzwyczajnej skargi rewizyjnej” zastępuje się wyrazami „rewizja nadzwyczajna” , „rewizję nadzwyczajną” i „rewizji nadzwyczajnej” ; 4) wprowadza się nowy art. 378 1 w następującym brzmieniu: „ Art. 378 1 . Rewizję nadzwyczajną rozpoznaje Izba Pracy i Ubezpieczeń Społecznych Sądu Najwyższego stosując odpowiednio przepisy art. 397, 398 i 399 kodeksu postępowania cywilnego. ” ; 5) uchyla się art. 14 pkt 2, 18 i 19. 2. W ustawie z dnia 17 lutego 1960 r. o zmianie prawa o sądach ubezpieczeń społecznych ( Dz. U. Nr 11, poz. 70 ) uchyla się art. 3 i 4."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Pierwsze wybory Sądu Najwyższego na podstawie ustawy niniejszej odbędą się w ciągu trzech miesięcy od dnia ogłoszenia ustawy. Do tych wyborów stosuje się przepisy art. 17 z tą zmianą, że na miejsce kandydatur przewidzianych w ust. 1 lit. a) tego artykułu wchodzą kandydatury sędziów obecnego składu Sądu Najwyższego i Najwyższego Sądu Wojskowego."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Przepisy ustawy niniejszej dotyczące wyboru Sądu Najwyższego wchodzą w życie z dniem ogłoszenia ustawy, a pozostałe jej przepisy - z dniem dokonania wyboru tego Sądu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_1-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"chpt_1-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_1-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_1-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"chpt_1-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_10-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_1-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_1-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_1-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_1-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_1-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_1-arti_14-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_1-arti_14-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_1-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Wybór Sądu Najwyższego i odwoływanie jego sędziów\",\"children\": [{\"id\": \"chpt_2-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_2-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_2-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_17-pass_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-arti_17-pass_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_2-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_2-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_2-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"chpt_2-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"chpt_2-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_2-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"chpt_2-arti_20-pass_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_2-arti_20-pass_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_2-arti_20-pass_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_2-arti_20-pass_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"chpt_2-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_2-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"chpt_2-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_2-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Tryb wykonywania nadzoru przez Sąd Najwyższy\",\"children\": [{\"id\": \"chpt_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_3-arti_24-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_3-arti_24-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_3-arti_24-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_3-arti_24-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_3-arti_24-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"chpt_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_3-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_3-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"chpt_3-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_3-arti_27-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_27-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_27-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_27-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\",\"children\": [{\"id\": \"chpt_3-arti_28-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_28-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_28-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\",\"children\": [{\"id\": \"chpt_3-arti_29-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_29-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_29-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_3-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"chpt_3-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"chpt_3-arti_31-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_31-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_3-arti_31-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_3-arti_31-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_3-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\",\"children\": [{\"id\": \"chpt_3-arti_32-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_3-arti_32-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Sądy dyscyplinarne\",\"children\": [{\"id\": \"chpt_4-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"chpt_4-arti_33-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_4-arti_33-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"chpt_4-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\",\"children\": [{\"id\": \"chpt_4-arti_34-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_34-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\",\"children\": [{\"id\": \"chpt_4-arti_35-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_35-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\",\"children\": [{\"id\": \"chpt_4-arti_36-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_4-arti_36-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_4-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"chpt_4-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"chpt_4-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Przepisy wprowadzające i przejściowe\",\"children\": [{\"id\": \"chpt_5-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\",\"children\": [{\"id\": \"chpt_5-arti_40-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_40-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"},{\"id\": \"chpt_5-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\",\"children\": [{\"id\": \"chpt_5-arti_42-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_42-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\",\"children\": [{\"id\": \"chpt_5-arti_43-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_5-arti_43-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_5-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"},{\"id\": \"chpt_5-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\"},{\"id\": \"chpt_5-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\",\"children\": [{\"id\": \"chpt_5-arti_46-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_5-arti_46-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_5-arti_46-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_5-arti_46-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_5-arti_46-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_5-arti_46-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_5-arti_46-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_5-arti_46-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"chpt_5-arti_46-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\","
+    }
+  ],
+  "definitions": []
+}

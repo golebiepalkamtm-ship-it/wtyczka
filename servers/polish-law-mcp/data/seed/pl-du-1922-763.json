@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-763",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 września 1922 r. zmieniająca niektóre postanowienia ustawy z dnia 13 lipca 1920 r. o uposażeniu sędziów i prokuratorów (wymiar sprawiedliwości) Rzeczypospolitej Polskiej i nowel do tej ustawy z dnia 23 czerwca 1921 r. i z dnia 7 kwietnia 1922 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-763",
+  "status": "in_force",
+  "issued_date": "1922-09-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/763",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuł 10 a) ustawy z dnia 13 lipca 1920 r. (Dz. U. R. P. № 65, poz. 436), wprowadzony w życie artykułem 2 ustawy z dnia 23 czerwca 1921 r. (Dz. U. R. P. № 56, poz. 351), a następnie zmieniony art. 1 ustawy z dnia 7 kwietnia 1922 r. (Dz. U. R. P. № 26, poz. 214), otrzymuje brzmienie następujące: „ Przez czas wypłacania dodatku drożyźnianego, przewidzianego w art. 10 ustawy niniejszej, sędzia i prokurator pobierają uzupełnienie dodatku starszeństwa, określonego w art. 5 niniejszej ustawy, w wysokości: w I grupie - 130%, a w II, III i IV grupie - 100% tegoż dodatku, pomnożonego przez jedną setną każdorazowego mnożnika dodatku drożyźnianego pierwszej klasy ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uposażenie sędziego lub prokuratora nie może ulec zmniejszeniu wskutek przejścia do wyższej grupy. O ileby zatem sędzia lub prokurator, przechodząc z grupy I do II, miał skutkiem obniżenia procentu przy obliczaniu uzupełnienia dodatku starszeństwa otrzymać uposażenie ogółem niższe od dotychczasowego, zatrzymuje on swe uposażenie dotychczasowe aż do chwili, gdy wskutek przyznania dalszego dodatku starszeństwa należne mu uposażenie II grupy przewyższy uposażenie, pobierane przezeń ostatnio w grupie I-ej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej powierza się Prezydentowi Ministrów, Ministrowi Skarbu oraz Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 października 1922 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

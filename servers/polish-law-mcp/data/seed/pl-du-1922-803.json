@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-803",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 września 1922 r. w przedmiocie zmiany przepisów austrjackiej ustawy z dnia 16 grudnia 1906 r. o ubezpieczeniu pensyjnem funkcjonarjuszy w służbie prywatnej i niektórych funkcjonarjuszy w służbie publicznej w brzmieniu, ustalonem rozporządzeniem z dnia 25 czerwca 1914 r. i ustawą z dnia 10 czerwca 1921 roku.",
+  "title_en": "",
+  "short_name": "pl-du-1922-803",
+  "status": "in_force",
+  "issued_date": "1922-09-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/803",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wysokość kwot, wymienionych w §§ 3, 7 a), 8 (ustęp ostatni), 27 a), 33. 68, 81, 82 i 83 ustawy z dnia 16 grudnia 1906 r. o ubezpieczeniu pensyjnem funkcjonarjuszy w służbie prywatnej i niektórych funkcjonarjuszy w służbie publicznej (austr. Dz. U. P. z r. 1907 № 1) w brzmieniu, ustalonem rozporządzeniem cesarskiem z dnia 25 czerwca 1914 r. (austr. Dz. U. P. № 138) i ustawą z dnia 10 czerwca 1921 r. (Dz. U. R. P. № 59, poz. 370), może być zmieniana drogą rozporządzeń Rady Ministrów na wniosek Ministra Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W § 2 ustawy, powołanej w art. 1, wprowadza się zmiany następujące: Punkt 5 otrzymuje brzmienie: „ Funkcjonariusze państwowi, tudzież instytucji. i przedsiębiorstw państwowych, o ile mają zapewnione prawa emerytalne ” . W punkcie 6 (wiersz pierwszy) wyrazy: „Funkcjonariusze ciał samorządowych i wogóle funkcjonariusze” zastępuje się wyrazami: „Funkcjonarjusze związków komunalnych, tudzież ich zakładów i przedsiębiorstw, o ile mają zapewnione prawa emerytalne, analogiczne do praw emerytalnych urzędników państwowych; funkcjonarjusze...” W punkcie 6 (wiersz szósty) wyrazy: „funkcjonarjusze ci są zwolnieni od...” zastępuje się wyrazami: „wszyscy funkcjonarjusze wyżej wymienieni są zwolnieni od...” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Terminy, przewidziane w § 66 a) wyżej powołanej ustawy, przedłuża się o jeden rok."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 tego miesiąca, w którym nastąpi jej ogłoszenie, przepisy jednak Art. 2 i 3 obowiązują od dnia 1 sierpnia 1922 r. Z chwilą wejścia w życie niniejszej ustawy tracą moc obowiązującą dotychczasowe postanowienia sprzeczne z ustawą niniejszą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

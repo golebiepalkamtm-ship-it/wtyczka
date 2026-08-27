@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1990-255",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych.",
+  "title_en": "",
+  "short_name": "pl-du-1990-255",
+  "status": "in_force",
+  "issued_date": "1990-06-21",
+  "in_force_date": "1990-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/255",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Jeżeli wskutek czynności prawnej lub decyzji administracyjnej przenoszącej własność lub inne prawo majątkowe na niepaństwowe osoby prawne lub osoby fizyczne osoby te uzyskały niesłusznie korzyść z majątku Skarbu Państwa lub innych państwowych osób prawnych, sąd może oznaczyć sposób i wysokość wyrównania strat, a nawet rozwiązać umowę rozstrzygając o rozliczeniu między stronami. 2. Jeżeli ten, kto uzyskał korzyść, o której mowa w ust. 1, rozporządził tą korzyścią na rzecz osoby trzeciej pod tytułem darmym, wówczas obowiązana do wydania jest ta osoba trzecia. 3. Przepis ust. 1 ma zastosowanie do czynności i decyzji administracyjnych dokonanych po wejściu w życie ustawy z dnia 23 października 1987 r. o zmianie niektórych ustaw regulujących zasady funkcjonowania gospodarki narodowej ( Dz. U. Nr 33, poz. 181 ) , a przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Z żądaniami przewidzianymi w art. 1 osoba prawna, która poniosła stratę, jej organ założycielski, rada pracownicza lub organ samorządu terytorialnego może wystąpić do sądu w terminie jednego roku od wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sprawy określone w art. 1 rozpoznaje sąd wojewódzki właściwy ze względu na miejsce dokonania czynności prawnej lub siedzibę (miejsce zamieszkania) pozwanego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

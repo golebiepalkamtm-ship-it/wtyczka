@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-585",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 lipca 1923 r. w przedmiocie honorowego dożywotniego uposażenia Prezydenta Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1923-585",
+  "status": "in_force",
+  "issued_date": "1923-07-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/585",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustępujący ze swego stanowiska Prezydent Rzeczypospolitej Polskiej otrzymuje uposażenie dożywotnie w wysokości pełnego uposażenia, przywiązanego do 1 stopnia służbowego, płatne od dnia 1 miesiąca, następującego po ustąpieniu. Wdowa i sieroty po Prezydencie Rzeczypospolitej Polskiej pobierają na wypadek jego śmierci zaopatrzenie wdowie, względnie sieroce, obliczone w stosunku do honorowego uposażenia dożywotniego wedle zasad ustawy emerytalnej funkcjonarjuszów państwowych z dnia 28 lipca 1921 roku (Dz. U. R. P. № 70, poz. 466). Wszystkie inne postanowienia tej ustawy emerytalnej funkcjonarjuszów państwowych, z wyjątkiem ograniczenia czasu przebywania za granicami Państwa, mają zastosowanie do Prezydenta Rzeczypospolitej Polskiej, jakoteż pozostałych po nim wdowy i sierot."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prezydent Rzeczypospolitej Polskiej, który po złożeniu swej godności wstępuje do służby państwowej lub instytucji państwowej, pobiera wedle swego wyboru przez czas swej służby bądź honorowe uposażenie dożywotnie (art. 1), bądź uposażenie, przywiązane do odnośnego stanowiska służbowego. Uposażenia tego b. Prezydent Rzeczypospolitej nie traci wskutek wyboru do Sejmu lub Senatu. O ile jednak z urzędu swojego w służbie państwowej lub instytucji państwowej ustąpi, służy mu prawo od dnia 1 miesiąca, następującego po ustąpieniu, do dalszego poboru uposażenia, w art. 1 określonego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Prawa, w artykułach 1 i 2 określone, przysługują w całości naczelnikowi Państwa, powołanemu na to stanowisko uchwałą Sejmu Ustawodawczego z 20 lutego 1919 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Rady Ministrów i Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów w. z. Głąbiński Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

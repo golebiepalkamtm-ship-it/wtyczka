@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1922-307",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 1922 r. o rachubie czasu.",
+  "title_en": "",
+  "short_name": "pl-du-1922-307",
+  "status": "repealed",
+  "issued_date": "1922-05-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/307",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Doba zaczyna się legalnie w momencie dołowania słońca średniego w południku 15° na wschód od Greenwich. Godziny doby liczy się albo od początku do końca doby, albo też od początku do jej połowy, a następnie od połowy do końca doby, odróżniając godziny jednoimienne słowami po północy (ppn.) i po południu (ppd.)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Legalna rachuba czasu obowiązuje wszystkie władze i urzędy państwowe i samorządowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zegary, znajdujące się w miejscach publicznych, z wyjątkiem zegarów słonecznych, powinny wskazywać czas odpowiednio do art. 1 niniejszej ustawy z rzetelnością w rozumieniu art. 10 i 11 dekretu o miarach z dnia 8 lutego 1919 r. (Dz. P. P. P. № 15, poz. 211), wyznaczoną rozporządzeniem Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej powierza się wszystkim ministrom we właściwym każdemu z nich zakresie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 czerwca 1922 i obowiązuje na całym obszarze Rzeczypospolitej Polskiej. W dniu 31 maja tegoż roku zegary należy cofnąć o godz. 12 w nocy na godz. 11 ppd., względnie z 24 na 23, godziny te liczyć należy jako 11-a ppd., względnie 23-a. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

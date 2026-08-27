@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2004-1962",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego \"Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2019\"",
+  "title_en": "",
+  "short_name": "pl-du-2004-1962",
+  "status": "in_force",
+  "issued_date": "2004-07-22",
+  "in_force_date": "2004-09-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2004/1962",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. W związku z przypadającą w roku 2011 czterechsetną rocznicą utworzenia przez króla Polski Zygmunta III Wazę Uniwersytetu w Poznaniu ustanawia się program wieloletni „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004-2011”, zwany dalej „Programem”. 2. Ustala się okres realizacji Programu na lata 2004-2011."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Łączne nakłady budżetu państwa na dofinansowanie Programu w całym okresie jego realizacji nie mogą przekroczyć kwoty 311 726 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 415 726 tys. zł w cenach roku 2004. 2. Środki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

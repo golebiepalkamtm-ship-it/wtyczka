@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2024-1558",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 września 2024 r. o zmianie ustawy o paszach",
+  "title_en": "",
+  "short_name": "pl-du-2024-1558",
+  "status": "in_force",
+  "issued_date": "2024-09-27",
+  "in_force_date": "2024-10-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2024/1558",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 lipca 2006 r. o paszach ( Dz. U. z 2023 r. poz. 1149 ) w art. 65 wyrazy „1 stycznia 2025 r.” zastępuje się wyrazami „1 stycznia 2030 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2025 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

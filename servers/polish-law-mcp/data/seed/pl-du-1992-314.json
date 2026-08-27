@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1992-314",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 lipca 1992 r. o zmianie ustawy o szkolnictwie wyższym.",
+  "title_en": "",
+  "short_name": "pl-du-1992-314",
+  "status": "repealed",
+  "issued_date": "1992-07-24",
+  "in_force_date": "1992-08-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1992/314",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym ( Dz. U. Nr 65, poz. 385 ) wprowadza się następujące zmiany: 1) w art. 47 w ust. 3 po wyrazach „profesora nadzwyczajnego” dodaje się wyrazy „oraz inni nauczyciele akademiccy posiadający stopień naukowy doktora habilitowanego” , 2) w art. 95 w ust. 2 pkt 1 otrzymuje brzmienie: „ 1) nauczyciel akademicki ukończył 65 lat życia, jeżeli okres zatrudnienia umożliwia nabycie prawa do emerytury; jeżeli z ukończeniem 65 lat życia nauczyciel akademicki nie nabył prawa do emerytury, wygaśnięcie stosunku pracy następuje z końcem roku akademickiego, w którym nabył to prawo lub w którym ukończył 70 lat życia, ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Nauczyciel akademicki posiadający stopień naukowy doktora lub doktora habilitowanego, którego stosunek pracy wygasł z mocy art. 95 ust. 2 pkt 1 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, przed ukończeniem 65 lat życia, może żądać przywrócenia do pracy na ostatnio zajmowanym stanowisku. Wniosek o przywrócenie do pracy powinien być zgłoszony do rektora uczelni do dnia 30 września 1992 r. 2. Nauczyciel akademicki przywrócony do pracy na podstawie ust. 1 ma prawo do wynagrodzenia za czas pozostawania bez pracy, nie więcej jednak niż za 12 miesięcy. Wynagrodzenie to pomniejsza się o kwotę otrzymanego w tym czasie wynagrodzenia za pracę w innym miejscu pracy, emerytury lub renty. 3. Okres pozostawania bez pracy, za który nauczyciel akademicki przywrócony do pracy otrzymał wynagrodzenie, traktuje się jak okres zatrudnienia w szkole wyższej w rozumieniu przepisów prawa pracy oraz przepisów o ubezpieczeniu społecznym."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

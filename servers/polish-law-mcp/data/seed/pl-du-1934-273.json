@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1934-273",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 marca 1934 r. o oznaczaniu wyrobów wytwórczości polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1934-273",
+  "status": "in_force",
+  "issued_date": "1934-03-09",
+  "in_force_date": "1934-04-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/273",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu ułatwienia konsumentom rozpoznawania wyrobów wytwórczości polskiej upoważnia się Ministra Przemysłu i Handlu do zezwalania na oznaczanie takich wyrobów specjalnym znakiem rozpoznawczym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Przemysłu i Handlu ustala w drodze rozporządzenia warunki uzyskania prawa używania znaku rozpoznawczego, wzór rysunkowy tego znaku, jak również zasady oznaczania nim wyrobów i sposób prowadzenia rejestru wydanych zezwoleń."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Wytwórcy, pragnący uzyskać zezwolenie na oznaczanie swoich wyrobów znakiem rozpoznawczym, winni złożyć Ministrowi Przemysłu i Handlu według ustalonego przez niego wzoru pisemne oświadczenie, stwierdzające, że zgłoszona wyroby odpowiadają całkowicie warunkom, ustalonym w rozporządzeniu, przewidzianem w art. 2. (2) Minister Przemysłu i Handlu ma prawo badania prawdziwości zgłoszonych danych, żądania dodatkowych wyjaśnień technicznych, handlowych i organizacyjnych, jak również prawo zarządzania oględzin miejsca produkcji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Udzielenie i cofnięcie zezwolenia na oznaczanie wyrobów znakiem rozpoznawczym (art. 6) będzie wciągnięte do rejestru zezwoleń i ogłaszane w Monitorze Polskim i w czasopiśmie, wskazanem w rozporządzeniu Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Koszty rejestracji ogłoszeń, badania prawdziwości zgłoszenia oraz oględzin ponosi wytwórca według taryfy, którą ustali Minister Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W przypadku przekroczenia przez wytwórcę przepisów ustawy niniejszej lub rozporządzeń, na jej podstawie wydanych, Minister Przemysłu i Handlu może cofnąć udzielone zezwolenie na oznaczanie wyrobów znakiem rozpoznawczym."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Do wytwórców, składających nieprawdziwe oświadczenia, przewidziane w art. 3, stosują się postanowienia art. 140 i 142 kodeksu karnego."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Kto oznacza, wbrew przepisom ustawy niniejszej lub rozporządzeń, wydanych na jej podstawie, wyroby znakiem rozpoznawczym, stwierdzającym ich polskie pochodzenie, podlega, jeżeli za czyn ten nie grozi kara surowsza, karze aresztu do lat 2 i grzywny do 10.000 zł lub jednej z tych kaw. (2) Tej samej karze podlega ten, kto wystawia na sprzedaż lub sprzedaje wyroby, wiedząc, że zostały one oznaczone znakiem rozpoznawczym wbrew powołanym przepisom. (3) Obok kary sąd może orzec konfiskatę znaków i ich reprodukcyj (blankietów, etykiet, szyldów, katalogów i t. p.). Art. 9- Uprawnienia, zawarte w art. 1 i 3 ustawy niniejszej, Minister Przemysłu i Handlu może w całości lub w części przekazać wojewódzkim władzom przemysłowym lub instytucjom, mającym na celu popieranie wytwórczości polskiej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu oraz w odniesieniu do postanowień karnych Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_8-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_9-\",\"symbol\": \"arti_9-\",\"type\": \"arti\",\"name\": \"9-\",\"title\": \"Art. 9-\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1921-303",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 maja 1921 r. o nadzorze nad kotłami parowemi.",
+  "title_en": "",
+  "short_name": "pl-du-1921-303",
+  "status": "repealed",
+  "issued_date": "1921-05-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/303",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wszystkie kotły parowe podlegają nadzorowi władz rządowych"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy o budowie i ustawianiu kotłów parowych, jako też o nadzorze nad niemi, wydaje Minister Przemysłu i Handlu, z wyjątkiem przepisów o kotłach parowozowych i parostatkowych oraz kotłach, ustawianych w wagonach kolejowych i na statkach. Te ostatnie przepisy ustanawiają: Minister Kolei Żelaznych - przepisy o kotłach parowozowyci i wagonowych, Minister Spraw Wojskowych - przepisy o kotłach na statkach wojennych morskich i śródziemnych, Minister Przemysłu i Handlu zaś przepisy o kotłach na statkach żeglugi śródziemnej zarówno rządowych, jak handlowych oraz na statkach handlowych morskich"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonywanie bezpośredniego dozoru nad kotłami parowem władce rządowe mogą zlecić stowarzyszeniom właścicieli kotłów parowych. Stowarzyszenia te pozostają pod nadzorem Ministerstwa Przemysłu i Handlu, czynności zaś dotyczące dozoru nad kotłami sprawują: a) odnośnie do kotłów, należących do członków tych stowarzyszeń, na podstawie ich statutów, zatwierdzonych przez Ministerstwo Przemysłu i Handlu; b) odnośnie do innych kotłów, zarówno rządowych, jak prywatnych na podstawie zlecenia właściwych władz, wskazanych w art. 2."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Za dozór nad kotłami, wykonywany zarówno przez władze rządowe, jak przez stowarzyszenia właścicieli kotłów, działające na podstawie zlecenia władz, właściciele kotłów obowiązani są uiszczać opłatę, której wysokość i porządek pobierania ustala Minister Przemysłu i Handlu w porozumieniu z Ministrem Skarbu. Opłaty za dozór nad kotłami stowarzyszonych, ustanawiane przez stowarzyszenie, na podstawie własnych statutów, podlegają zatwierdzeniu Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Winni przekroczenia przepisów, na podstawie niniejszej ustawy wydanych ulegną karze aresztu do 3 miesięcy i grzywny do 10.000 mk. lub jednej z tych kar. W b. zaborze pruskim wymierzyć należy karą aresztu do 6 tygodni, lub wiezienia do trzech miesięcy i grzywnę, do 10.000 mk., lub jedną z tych kar. W b. zaborze austrjackim odwołanie od kary i wymiaru kary jest dopuszczalne bez względu na to, czy zastosowano prawo nadzwyczajnego złagodzenia kary. Sprawy powyższe podlegają decyzji sądów pokoju (powiatowych)."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wszystkie istniejące obecnie stowarzyszenia dozoru nad kotłami pa rowem i obowiązane są w ciągu dwuch miesiący od dnia wejścia niniejszej ustawy w życie złożyć swe statuty do zatwierdzenia Ministrowi Przemysłu i Handlu; do czasu zaś jego decyzji - sprawować nadal nadzór nad kotłami podług dotychczas obowiązujących przepisów technicznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Przemysłu i Handlu w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie w miesiąc po ogłoszeniu. Jednocześnie tracą moc wszelkie dotychczas na obszarach Rzeczypospolitej stosowane ustawy i zarządzenia w przedmiocie nadzoru nad kotłami parowemi. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

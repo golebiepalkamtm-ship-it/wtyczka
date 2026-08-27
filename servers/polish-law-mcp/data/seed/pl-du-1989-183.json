@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1989-183",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 maja 1989 r. zmieniająca ustawę o stopniach naukowych i innych tytułach naukowych.",
+  "title_en": "",
+  "short_name": "pl-du-1989-183",
+  "status": "repealed",
+  "issued_date": "1989-05-29",
+  "in_force_date": "1989-06-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/183",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 marca 1965 r. o stopniach naukowych i tytułach naukowych ( Dz. U. z 1985 r. Nr 42, poz. 202 , z 1987 r. Nr 22, poz. 128 i z 1989 r. Nr 29, poz. 154 ) wprowadza się następujące zmiany: 1) w art. 12 wyrazy „za zgodą Ministra Nauki i Szkolnictwa Wyższego” skreśla się; 2) w art. 19: a) w ust. 1 w pkt 1 lit. a) i w pkt 2 lit. a) wyraz „i” zastępuje się przecinkiem oraz dodaje na końcu wyrazy „i doktorzy habilitowani” , b) w ust. 2 dodaje się na końcu wyrazy „i doktor habilitowany” , c) ust. 3 otrzymuje brzmienie: „ 3. Recenzentami rozpraw doktorskich mogą być osoby posiadające tytuł naukowy, stopień naukowy doktora habilitowanego lub docenci ze stopniem naukowym doktora, a rozpraw habilitacyjnych - osoby posiadające tytuł naukowy lub stopień naukowy doktora habilitowanego. ” ; 3) w art. 21: a) ust. 1 otrzymuje brzmienie: „ 1. Z zastrzeżeniem ust. 3, uchwała o nadaniu stopnia naukowego doktora staje się prawomocna z chwilą jej podjęcia. ” , b) ust. 2 skreśla się, c) w ust. 3 wyrazy „lub złożenia sprzeciwu określonego w ust. 1” skreśla się, d) ust. 4 otrzymuje brzmienie: „ 4. Uchwała, o której mowa w ust. 3, powinna być przedstawiona Centralnej Komisji Kwalifikacyjnej wraz z aktami przewodu doktorskiego w terminie miesiąca od dnia podjęcia uchwały. ” , e) w ust. 5 wyrazy „w wypadkach określonych w ust. 1-4” zastępuje się wyrazami „w wypadku określonym w ust. 3” ; 4) w art. 31 w ust. 1 i w art. 32 w ust. 4 wyrazy „Rada Państwa” zastępuje się wyrazami „Prezydent Polskiej Rzeczypospolitej Ludowej” ; 5) użyte w przepisach ustawy w różnych przypadkach i liczbie wyrazy „instytut naukowo-badawczy” zastępuje się użytymi w tych samych przypadkach i liczbie wyrazami „jednostka badawczo-rozwojowa” ; 6) użyte w przepisach ustawy w różnych przypadkach wyrazy „Minister Nauki i Szkolnictwa Wyższego” zastępuje się użytymi w tych samych przypadkach wyrazami „Minister Edukacji Narodowej” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uchwały o nadaniu stopnia naukowego doktora, w stosunku do których został złożony sprzeciw określony w art. 21 ust. 1 ustawy o stopniach naukowych i tytułach naukowych, nie rozpatrzony przez Centralną Komisję Kwalifikacyjną do Spraw Kadr Naukowych do dnia wejścia w życie niniejszej ustawy, stają się prawomocne z dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Z zastrzeżeniem ust. 2, ustawa wchodzi w życie z dniem ogłoszenia. 2. Przepis art. 1 pkt 4 wchodzi w życie z dniem objęcia urzędu przez Prezydenta Polskiej Rzeczypospolitej Ludowej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_3-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

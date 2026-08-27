@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1991-25",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 grudnia 1990 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej.",
+  "title_en": "",
+  "short_name": "pl-du-1991-25",
+  "status": "amended",
+  "issued_date": "1990-12-21",
+  "in_force_date": "1991-01-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1991/25",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej ( Dz. U. Nr 12, poz. 49 i z 1989 r. Nr 35, poz. 192 ) wprowadza się następujące zmiany: 1) w art. 10: a) w ust. 1 w pkt 3 wyrazy „miast i gmin, miast oraz dzielnic w miastach podzielonych na dzielnice” skreśla się, b) w ust. 2 wyrazy „Ministrem Administracji i Gospodarki Przestrzennej” zastępuje się wyrazami „Ministrem-Szefem Urzędu Rady Ministrów” ; 2) w art. 13 w ust. 1 w pkt 4 wyrazy „socjalistycznego państwa” skreśla się; 3) w art. 16: a) w ust. 1 wyrazy „wojewódzkiej radzie narodowej” zastępuje się wyrazem „wojewodzie” , b) w ust. 2 wyrazy „terenowymi organami administracji państwowej” zastępuje się wyrazami „organami wykonawczymi gmin” ; 4) w art. 18 w ust. 1 wyraz „Komunikacji” zastępuje się wyrazami „Transportu i Gospodarki Morskiej” ; 5) w art. 20 w ust. 2 w pkt 2 wyrazy „Służby Bezpieczeństwa i Milicji Obywatelskiej” zastępuje się wyrazami „Urzędu Ochrony Państwa i Policji” ; 6) w art. 21 po wyrazie „śledczych” przecinek oraz wyrazy „ośrodków przystosowania społecznego” skreśla się; 7) w art. 30 w ust. 2 wyrazy „terenowy organ administracji państwowej o właściwości ogólnej stopnia wojewódzkiego” zastępuje się wyrazem „wojewodę” ; 8) w art. 41 wyrazy „stosuje się po upływie pięciu lat od dnia wejścia jej w życie” zastępuje się wyrazami „wchodzi w życie z dniem 1 września 1995 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

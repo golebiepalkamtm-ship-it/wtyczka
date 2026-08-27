@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1931-46",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 stycznia 1931 r. o zaciągnięciu 6,5% pożyczki zagranicznej.",
+  "title_en": "",
+  "short_name": "pl-du-1931-46",
+  "status": "in_force",
+  "issued_date": "1931-01-26",
+  "in_force_date": "1931-01-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1931/46",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W związku z przedłużeniem i zmianą warunków dzierżawy Państwowego Monopolu Zapałczanego upoważnia się Ministra Skarbu do zaciągnięcia pożyczki zagranicznej na sumę nominalną 32.400 000 dolarów Stanów Zjednoczonych Ameryki w złocie, do wypuszczenia w tym celu obligacyj państwowych z 35-letnim okresem umorzenia, w wysokości nominalnej sumy pożyczki, oprocentowanych na 6 1/2% w stosunku rocznym, oraz do sprzedania tych obligacyj."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Spłata kapitału i odsetek od obligacyj będzie zabezpieczona wszelkiemi dochodami i wpływami, które Skarb Państwa ma otrzymywać od dzierżawcy Państwowego Monopolu Zapałczanego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Szczegółowe warunki emisji, cenę sprzedaży i sposób zabezpieczenia obligacyj, koszty oraz wszelkie inne warunki, związane z emisją i spłatą pożyczki, zostaną ustalone szczegółowo w umowie lub w umowach, które będą zawarte w tym celu przez Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Obligacje i kupony pożyczki, oraz umowy, wymienione w poprzednim artykule, będą zwolnione od wszelkich państwowych i komunalnych podatków, stempli, opłat i innych należytości, zarówno już obowiązujących w Polsce, jak i tych, które mogą być w przyszłości wprowadzone."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Upoważnia się Rząd do użycia uzyskanych z pożyczki sum na następujące cele: a) na przedterminowe umorzenie 1% obligacyj skarbowych, emitowanych na podstawie ustawy z dnia 2 sierpnia 1926 r. (Dz. U. R. P. Nr 85, poz. 477) - dolarów Stanów Zjednoczonych Ameryki 4.350.000; b) na zwrot Bankowi Gospodarstwa Krajowego sum, wyłożonych przez Bank za Skarb Państwa na oprocentowanie i częściową amortyzację pożyczek, zaciągniętych przez Skarb Państwa w Banku na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 20 grudnia 1924 r. (Dz. U. R. P. Nr 118, poz. 1074) oraz rozporządzenia Prezydenta Rzeczypospolitej z dnia 4 marca 1927 r. (Dz. U. R. P. Nr 20, poz. 150) - 18.052 000 zł; c) na przedterminową spłatę innych długów państwowych - 50 miljonów złotych. W tym celu utworzony zostanie fundusz, przeznaczony na przedterminową spłatę długów państwowych, względnie przedterminowe wycofanie obligów tychże długów z obiegu. Z funduszu powyższego mogą być zakupywane obligacje pożyczek państwowych przed terminem ich umorzenia z tem, iż obligacje takie mogą być ponownie sprzedane po kursie nie niższym niż po jakim zostały zakupione. Minister Skarbu ustali statut powyższego funduszu i poda go do wiadomości Komisji Kontroli Długów Państwa, która otrzymywać będzie co pół roku sprawozdania z dokonywanych na tym funduszu obrotów; d) na budowę portu w Gdyni - 25 miljonów złotych; e) na budowę kabla telefonicznego Warszawa - Cieszyn z odnogami - 15 miljonów złotych; f) na inne inwestycje państwowe, które określi Rada Ministrów - 30 miljonów złotych; g) resztę na lokatę w krajowych papierach kredytu długoterminowego, jak w listach zastawnych i obligacjach."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Upoważnia się Ministra Skarbu do przeprowadzenia dyskonta wpływów pożyczki w terminie do dnia 1 lipca 1931 r. według stopy nie wyższej, niż 7%."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Minister Skarbu władny jest przelać upoważnienie do podpisania tekstu obligacyj na przedstawicieli dyplomatycznych Rzeczypospolitej Polskiej zagranicą."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów w porozumieniu z Ministrem Skarbu i innymi właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_5-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_5-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"arti_5-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"arti_5-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

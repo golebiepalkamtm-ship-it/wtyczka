@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1921-399",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 lipca 1921 r. w przedmiocie upoważnienia Rady Ministrów do zmiany niektórych przepisów, dotyczących ustawy o podatku dochodowym, przemysłowym i domokrążnym, obowiązującym na obszarze b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-399",
+  "status": "in_force",
+  "issued_date": "1921-07-07",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/399",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Radę Ministrów do zrównania stawek podatkowych w ustawach, obowiązujących w b. dzielnicy pruskiej, jako to: o podatku dochodowym z dnia 19 czerwca 1906 r. (Zb. Ust. prusk. str. 259), przemysłowym z dnia 24 czerwca 1891 r. (Zb. Ust. prusk. str. 205), domokrążnym z dnia 3 lipca 1876 r. (Zb. Ust. prusk. str. 247) ze stawkami analogicznych podatków, obowiązujących w innych dzielnicach Państwa, tak, aby obciążenie temi podatkami łącznie z dodatkami na korzyść samorządu było w całem Państwie równomierne."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnienie, wskazane w art. 1, dotyczy ustaw podatkowych, które obowiązują tylko na obszarze b. dzielnicy pruskiej, i rozporządzenia, wydane na jego podstawie, gasną z chwilą wejścia w życie w danej dziedzinie ogólno - państwowej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi b. Dzielnicy Pruskiej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 kwietnia 1921 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

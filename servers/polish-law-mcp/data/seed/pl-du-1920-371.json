@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1920-371",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. w przedmiocie zmian w ustawie z dnia 27 lipca 1919 roku o obowiązku zarządów gmin miejskich dostarczania pomieszczeń.",
+  "title_en": "",
+  "short_name": "pl-du-1920-371",
+  "status": "in_force",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/371",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uprawnienia i obowiązki, zastrzeżone Ministrowi Zdrowia Publicznego w ustawie z dnia 27 listopada 1919 roku o obowiązku zarządów gmin miejskich dostarczania pomieszczeń. (Dz. Ust. № 92, poz. 498), przechodzą na Ministra Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 13 ustawy, wymienionej w art. 1, skreśla się wyrazy „w porozumieniu z Ministrem Spraw Wewnętrznych” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Spraw Wewnętrznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

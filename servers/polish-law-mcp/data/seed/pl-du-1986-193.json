@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1986-193",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 października 1986 r. o zmianie niektórych przepisów prawa o wykroczeniach.",
+  "title_en": "",
+  "short_name": "pl-du-1986-193",
+  "status": "in_force",
+  "issued_date": "1986-10-24",
+  "in_force_date": "1986-10-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1986/193",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Kodeksie wykroczeń wprowadza się następujące zmiany: 1) w art. 25 w § 1 wyrazy „orzeka się” zastępuje się wyrazami „można orzec” , 2) po art. 52 dodaje się art. 52a w brzmieniu: „ Art. 52a. § 1. Kto: 1) bez wymaganego zezwolenia sporządza, wydaje, przewozi, przenosi lub rozpowszechnia utwory i inne informacje wyrażone za pomocą druku lub innych form służących do ich utrwalania i przekazywania, 2) podejmuje działanie w celu wywołania niepokoju publicznego lub rozruchów, 3) publicznie nawołuje do popełnienia przestępstwa lub je pochwala, 4) publicznie nawołuje do nieposłuszeństwa lub przeciwdziałania ustawie albo prawnemu rozporządzeniu organu państwowego, 5) bierze udział w związku, którego istnienie, ustrój lub cel ma pozostać tajemnicą wobec organów państwowych albo który rozwiązano lub któremu odmówiono zalegalizowania, jeżeli zasięg czynu albo jego skutki nie były znaczne - podlega karze aresztu, ograniczenia wolności albo grzywny. § 2. Usiłowanie, podżeganie i pomocnictwo są karalne. § 3. W razie popełnienia wykroczenia określonego w § 1, można orzec przepadek przedmiotów, które służyły lub były przeznaczone do jego popełnienia, chociażby nie były własnością sprawcy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W Kodeksie postępowania w sprawach o wykroczenia w art. 40 w § 1 po wyrazach „art. 52 § 1” dodaje się wyrazy „art. 52a” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

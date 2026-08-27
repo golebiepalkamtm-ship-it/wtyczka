@@ -1,0 +1,806 @@
+{
+  "id": "pl-du-1982-267",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracowników i ich rodzin.",
+  "title_en": "",
+  "short_name": "pl-du-1982-267",
+  "status": "repealed",
+  "issued_date": "1982-12-14",
+  "in_force_date": "1982-12-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1982/267",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Świadczenia na warunkach i w wysokości określonych w ustawie przysługują z tytułu zatrudnienia na obszarze Państwa Polskiego: 1) pracownikowi - w razie uzyskania uprawnień emerytalnych lub w razie powstania inwalidztwa - oraz członkom jego rodziny, 2) członkom rodziny pozostałym po pracowniku albo po osobie uprawnionej do emerytury lub renty przewidzianej w ustawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Świadczenia określone w ustawie przysługują również niektórym osobom nie będącym pracownikami: 1) adwokatom, osobom wykonującym pracę nakładczą, uczniom szkół ponadpodstawowych, studentom szkół wyższych i uczestnikom studiów doktoranckich oraz osobom pobierającym stypendia sportowe, z uwzględnieniem zasad przewidzianych w przepisach działu III rozdziału 3 ustawy, 2) osobom, które z tytułu działalności zawodowej objęte są odrębnymi przepisami o ubezpieczeniu społecznym, jeżeli - bez uwzględnienia okresów tej działalności - spełniają warunki do świadczeń określonych w ustawie, z uwzględnieniem art. 3 ust. 3, 3) członkom rodziny osób, o których mowa w pkt 1 i 2, oraz członkom rodziny pozostałym po tych osobach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Odrębne przepisy określają: 1) prawo do świadczeń w razie inwalidztwa lub śmierci pracownika spowodowanych wypadkiem przy pracy, wypadkiem w drodze do pracy lub z pracy albo chorobą zawodową, 2) prawo do świadczeń - w razie uzyskania uprawnień emerytalnych lub w razie powstania inwalidztwa - dla niektórych grup pracowników zatrudnionych w górnictwie i na kolei oraz dla członków ich rodzin. 2. Świadczenia na warunkach i w wysokości określonych w ustawie przysługują jednak: 1) pracownikom i członkom ich rodzin uprawnionym do renty inwalidzkiej lub renty rodzinnej na podstawie przepisów, o których mowa w ust. 1 pkt 1, jeżeli świadczenia określone w ustawie są dla nich korzystniejsze, 2) członkom rodziny pozostałym po osobach uprawnionych do renty inwalidzkiej na podstawie przepisów, o których mowa w ust. 1 pkt 1, jeżeli osoby te zmarły z innych przyczyn niż wypadek przy pracy, wypadek w drodze do pracy lub z pracy albo choroba zawodowa, nawet chociażby osoby te nie miały okresu zatrudnienia wymaganego do przyznania po nich renty rodzinnej stosownie do przepisów niniejszej ustawy, 3) pracownikom objętym odrębnymi przepisami, o których mowa w ust. 1 pkt 2, oraz członkom ich rodzin, jeżeli nie spełniają warunków wymaganych do uzyskania emerytury lub renty na podstawie tych odrębnych przepisów albo jeżeli świadczenia na podstawie niniejszej ustawy są dla tych osób korzystniejsze. 3. Świadczenia na warunkach i w wysokości określanych w ustawie przysługują również żołnierzom zawodowym, funkcjonariuszom Milicji Obywatelskiej i Służby Więziennej oraz członkom ich rodzin, jeżeli nie spełniają oni warunków do emerytury lub renty określonych w przepisach o zaopatrzeniu emerytalnym tych osób albo jeżeli świadczenia określone w niniejszej ustawie są dla tych osób korzystniejsze."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przepisów ustawy nie stosuje się do obywateli państw obcych, których pobyt w Polsce nie ma charakteru stałego oraz którzy są zatrudnieni w obcych przedstawicielstwach dyplomatycznych, urzędach konsularnych, misjach, misjach specjalnych lub międzynarodowych instytucjach, chyba że umowy międzynarodowe stanowią inaczej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Użyte w ustawie określenia oznaczają: 1) pracownik - osobę pozostającą w stosunku pracy w myśl Kodeksu pracy , 2) zatrudnienie - wykonywanie pracy w ramach stosunku pracy, 3) renta - rentę inwalidzką i rentę rodzinną, 4) emeryt - osobę mającą ustalone prawo do emerytury, 5) rencista - osobę mającą ustalone prawo do renty, 6) najniższe wynagrodzenie - najniższe wynagrodzenie pracowników jednostek gospodarki uspołecznionej za pełny miesięczny wymiar czasu pracy. Rozdział 2 Zakres świadczeń"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Świadczenia określone w ustawie obejmują świadczenia pieniężne i świadczenia w naturze."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Świadczenia pieniężne obejmują: 1) emeryturę, 2) rentę inwalidzką, 3) rentę rodzinną, 4) dodatki do emerytur i rent, 5) zasiłek pogrzebowy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Świadczenia w naturze obejmują: 1) świadczenia lecznicze, położnicze i rehabilitacyjne, 2) zaopatrzenie w leki, przedmioty ortopedyczne, protezy, środki opatrunkowe i pomocnicze, 3) pobyt w domu pomocy społecznej. 2. Minister Zdrowia i Opieki Społecznej, w drodze rozporządzenia, określa szczegółowe zasady i tryb udzielania świadczeń, o których mowa w ust. 1. Rozdział 3 Okresy zatrudnienia"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Za okresy zatrudnienia na obszarze Państwa Polskiego uważa się okresy zatrudnienia wykonywanego na terenach wchodzących w skład Polskiej Rzeczypospolitej Ludowej oraz zatrudnienia na terenach wchodzących w skład Państwa Polskiego przed ustaleniem jego obecnych granic."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Przy ustalaniu świadczeń określonych w ustawie uwzględnia się również okresy zatrudnienia obywateli polskich za granicą w polskich przedstawicielstwach dyplomatycznych i urzędach konsularnych, w stałych przedstawicielstwach przy Organizacji Narodów Zjednoczonych i innych misjach lub misjach specjalnych, a także w innych polskich placówkach, instytucjach lub przedsiębiorstwach, do których zostali delegowani lub skierowani; dotyczy to również członków rodziny delegowanego lub skierowanego tam pracownika, którzy podjęli zatrudnienie w tych placówkach w czasie pobytu za granicą. 2. Rada Ministrów, w drodze rozporządzenia, ustala okresy zatrudnienia obywateli polskich za granicą inne niż wymienione w ust. 1, w tym również okresy zatrudnienia repatriantów, które uwzględnia się przy ustalaniu prawa do świadczeń określonych w ustawie, oraz warunki i zasady udzielania świadczeń z tytułu tego zatrudnienia."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "1. Okresami zatrudnienia, wymaganymi do uzyskania świadczeń określonych w ustawie, są - z zastrzeżeniem art. 12 - okresy pozostawania w stosunku pracy, w czasie których pracownik pobierał wynagrodzenie lub zasiłki z ubezpieczenia społecznego: chorobowy, macierzyński albo opiekuńczy. 2. Za okresy równorzędne z okresami zatrudnienia uważa się okresy: 1) pobierania zasiłku chorobowego, macierzyńskiego lub opiekuńczego po ustaniu zatrudnienia wykonywanego w wymiarze czasu pracy nie niższym niż połowa obowiązującego w danym zawodzie, 2) pobierania renty chorobowej z tytułu zatrudnienia, o którym mowa w pkt 1, wprowadzonej przepisami ustawy z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa ( Dz. U. z 1975 r. Nr 34, poz. 188 ) , 3) wykonywanie przed dniem 1 stycznia 1975 r. pracy na podstawie umowy o naukę zawodu, przyuczania do określonej pracy lub odbywania wstępnego stażu pracy, 4) niewykonywania pracy, jeżeli za okresy te zostało wypłacone wynagrodzenie w wyniku przywrócenia do pracy bądź wypłacono z tego tytułu odszkodowanie, 5) uczęszczania do szkół związków zawodowych i szkół partyjnych pod warunkiem uprzedniego zatrudnienia do czasu wstąpienia do tych szkół, jeżeli nauka w tej szkole została ukończona przed dniem wejścia w życie ustawy, 6) sprawowania mandatu posła do Krajowej Rady Narodowej i na Sejm Polskiej Rzeczypospolitej Ludowej, 7) pracy adwokatów w zespołach adwokackich od dnia 1 stycznia 1964 r., 8) pracy członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych objętej odrębnymi przepisami o ubezpieczeniu społecznym, 9) opieki pielęgnacyjnej nad inwalidą wojennym zaliczonym do I grupy inwalidów, sprawowanej przez członka jego rodziny w wieku powyżej 16 lat, który w okresie sprawowania opieki nie osiągał dochodu przekraczającego miesięcznie połowę najniższego wynagrodzenia, 10) służby wojskowej pełnionej w Wojsku Polskim w okresie po dniu 1 listopada 1918 r. oraz służby w Milicji Obywatelskiej, organach bezpieczeństwa publicznego i Służbie Więziennej, 11) urlopu wychowawczego, urlopu bezpłatnego udzielonego na podstawie przepisów w sprawie bezpłatnych urlopów dla matek pracujących, opiekujących się małymi dziećmi, oraz innych udzielonych w tym celu urlopów bezpłatnych i trwania przerw w pracy spowodowanych opieką nad dzieckiem w wieku do lat 4 - łącznie nie dłużej jednak niż 6 lat, 12) pracy nakładczej, jeżeli spełnione zostały warunki określone w art. 61 pkt 1, 13) pobierania stypendium sportowego z tytułu wyczynowego uprawiania sportu, 14) czasowego pozostawania bez pracy z powodu niemożności jej otrzymania lub niemożności podjęcia szkolenia zawodowego, udowodnionej dokumentami, oraz pobierania zasiłków z funduszu aktywizacji zawodowej. 3. Okresy, o których mowa w ust. 2 pkt 10, ustala się w wymiarze i na zasadach określonych odpowiednio w przepisach o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin lub w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej i ich rodzin. Okresy zawodowej lub nadterminowej służby wojskowej, okresy służby w Milicji Obywatelskiej oraz w organach bezpieczeństwa publicznego i Służbie Więziennej uważa się za okresy pracy o szczególnym charakterze, uprawniającej do świadczeń określonych w art. 54."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Przy ustalaniu prawa do świadczeń określonych w ustawie nie uwzględnia się okresów zatrudnienia wykonywanego w wymiarze czasu pracy niższym niż połowa wymiaru obowiązującego pracownika w danym zawodzie; w razie wykonywania zatrudnienia równocześnie w więcej niż jednym zakładzie pracy bierze się pod uwagę łączny wymiar czasu pracy. 2. Przy ustalaniu prawa do świadczeń określonych w ustawie nie uwzględnia się okresów zatrudnienia w zakładzie prowadzonym na własny lub wspólny rachunek przez: 1) małżonka, 2) krewnego lub powinowatego, jeżeli osoba zatrudniona w tym zakładzie: a) podlega - jako osoba współpracująca - ubezpieczeniu społecznemu na podstawie odrębnych przepisów, b) pozostaje w czasie tego zatrudnienia we wspólnym gospodarstwie domowym z osobą prowadzącą zakład. 3. Krewnymi i powinowatymi w rozumieniu ust. 2 pkt 2 są: dzieci własne, dzieci drugiego małżonka i dzieci przysposobione, rodzeństwo, rodzice, macocha i ojczym, osoby przysposabiające, wnuki, dziadkowie, teściowie, zięciowie, synowe, bratowe, szwagierki i szwagrowie. 4. Przepisy ust. 2 i 3 stosuje się odpowiednio do zatrudnienia wykonywanego u osoby fizycznej. 5. Rada Ministrów może określać zasady uwzględniania okresu zatrudnienia wykonywanego u krewnego lub powinowatego, jeżeli nawet zachodzi okoliczność, o której mowa w ust. 2 pkt 2 lit. b)."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "1. Za okresy zaliczalne do okresu zatrudnienia uważa się okresy: 1) służby w oddziałach powstańczych w powstaniach śląskich w latach 1919-1921 oraz w powstaniu wielkopolskim, 2) służby pełnionej przez osoby posiadające obywatelstwo polskie w Armii Związku Socjalistycznych Republik Radzieckich oraz w okresie wojny 1939-1945 w innych armiach sojuszniczych, 3) działalności kombatanckiej, w szczególności w ruchu oporu, w walce o utrwalenie władzy ludowej oraz pobytu w obozie koncentracyjnym, 4) pobytu w niewoli lub w obozach dla internowanych żołnierzy w czasie od dnia 1 września 1939 r. do dnia 9 maja 1945 r. 2. Za okresy zaliczalne do okresu zatrudnienia uważa się także okresy pobytu w obozach pracy przymusowej w czasie od dnia 1 września 1939 r. do dnia 9 maja 1945 r. 3. Za okresy zaliczalne do okresów zatrudnienia uważa się również okresy: 1) przerwy w pracy, w granicach nie dłuższych jednak niż 6 lat, spowodowanej koniecznością osobistej opieki nad: a) dzieckiem, na które ze względu na jego stan fizyczny, psychiczny lub psychofizyczny przysługuje pielęgnacyjny zasiłek rodzinny, b) innym członkiem rodziny zaliczonym do I grupy inwalidów, z tym że okres sprawowania opieki nad dzieckiem, o którym mowa pod lit. a), sumuje się z okresem wymienionym w art. 11 ust. 2 pkt 11 w odniesieniu do tego samego dziecka, 2) nauki w szkole, do której pracownik został skierowany przez zakład pracy, oraz nauki w szkole wyższej pod warunkiem uprzedniego zatrudnienia, jeżeli nauka ta ukończona została przed dniem wejścia w życie ustawy, 3) studiów doktoranckich lub aspirantury naukowej, 4) wykonywania zawodu adwokata przed dniem 31 grudnia 1964 r., 5) działalności innej niż wymieniona w art. 11 ust. 2 pkt 8 i 10, objętej odrębnymi przepisami o ubezpieczeniu społecznym lub o zaopatrzeniu emerytalnym, z zastrzeżeniem art. 55, 6) inne uznane odrębnymi przepisami za okresy zaliczalne do okresu zatrudnienia. 4. Członkami rodziny, o których mowa w ust. 3 pkt 1, są osoby określone w art. 38. 5. Okresu przerwy w pracy, o którym mowa w ust. 3 pkt 1, nie zalicza się do okresu zatrudnienia, jeżeli osoba sprawująca opiekę osiągnęła w tym czasie dochód przekraczający połowę najniższego wynagrodzenia. 6. Okresy, o których mowa w ust. 1, ustala się w trybie i na zasadach określonych w przepisach o szczególnych uprawnieniach kombatantów. 7. Rada Ministrów może ustalać inne okresy, nie wymienione w ust. 1-3, zaliczalne do okresów zatrudnienia."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Jeżeli okresy, o których mowa w art. 11 i 13, zbiegają się w czasie, przy ustalaniu prawa do świadczeń określonych w ustawie uwzględnia się okres korzystniejszy."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Okresów działalności objętej odrębnymi przepisami o ubezpieczeniu społecznym lub o zaopatrzeniu emerytalnym, o których mowa w art. 13 ust. 3 pkt 5, nie uwzględnia się przy ustalaniu prawa do świadczeń określonych w ustawie, jeżeli z tytułu tej działalności zostały spełnione warunki do świadczeń na podstawie tych odrębnych przepisów. Rozdział 4 Podstawa wymiaru świadczeń"
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Podstawę wymiaru emerytury i renty stanowi - z zastrzeżeniem ust. 2 - przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres ostatnich 12 miesięcy zatrudnienia albo kolejnych 24 miesięcy zatrudnienia wybranych przez zainteresowanego z ostatnich 12 lat zatrudnienia. 2. Za podstawę wymiaru emerytury i renty ustalonej od wynagrodzenia, które stosownie do przepisów o składkach na ubezpieczenia społeczne jest ustalane w wysokości zryczałtowanej z możliwością podwyższenia, przyjmuje się: 1) kwotę ryczałtu obowiązującą w ostatnim miesiącu zatrudnienia, 2) przeciętne miesięczne wynagrodzenie z okresu ostatnich 36 miesięcy zatrudnienia, jeżeli do podstawy wymiaru składek na ubezpieczenie społeczne przyjęto wynagrodzenie wyższe od kwot ryczałtowych, nie niższe jednak od kwoty ryczałtu określonej w pkt 1. 3. Jeżeli przed przyznaniem emerytury pracownik miał ustalone prawo do renty inwalidzkiej, do obliczenia podstawy wymiaru emerytury przyjmuje się: 1) podstawę wymiaru poprzednio przyznanej renty inwalidzkiej albo 2) przeciętne miesięczne wynagrodzenie, o którym mowa w ust. 1 lub 2. 4. Przepis ust. 3 stosuje się odpowiednio do obliczenia podstawy wymiaru renty rodzinnej po emerycie lub renciście."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "1. Do obliczenia podstawy wymiaru świadczeń przyjmuje się - z uwzględnieniem ust. 2 i 3 - wynagrodzenie z tytułu zatrudnienia w jednym zakładzie pracy. 2. Do obliczenia podstawy wymiaru świadczeń przyjmuje się jednak łączne wynagrodzenie z tytułu zatrudnienia wykonywanego równocześnie w więcej niż jednym zakładzie pracy, jeżeli: 1) zatrudnienie wykonywane było w wymiarze czasu pracy nie przekraczającym łącznie obowiązującego w danym zawodzie albo 2) dodatkowe zatrudnienie wykonywane było nieprzerwanie co najmniej przez 5 lat w ciągu ostatnich 12 lat zatrudnienia. 3. Wynagrodzenie z tytułu dodatkowego zatrudnienia, o którym mowa w ust. 2 pkt 2, uwzględnia się przy obliczaniu podstawy wymiaru świadczeń, jednakże w wysokości nie przekraczającej 50% wynagrodzenia przyjętego do podstawy wymiaru z tytułu zatrudnienia w zakładzie pracy, w którym pracownik był zatrudniony w pełnym wymiarze czasu pracy."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Przy ustalaniu podstawy wymiaru świadczeń z tytułu zatrudnienia w uspołecznionym zakładzie pracy uwzględnia się wszystkie składniki wynagrodzenia w gotówce i w naturze z tytułu wykonywania pracy w ramach stosunku pracy, z wyjątkiem składników określonych w rozporządzeniu, o którym mowa w art. 22."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Przy ustalaniu podstawy wymiaru świadczeń z tytułu zatrudnienia w zakładzie pracy nie będącym zakładem uspołecznionym uwzględnia się wynagrodzenie, od którego ustalono składki na ubezpieczenie społeczne. 2. Przepis ust. 1 stosuje się odpowiednio przy ustalaniu podstawy wymiaru świadczeń z tytułu zatrudnienia wykonywanego u osoby fizycznej."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Jeżeli wynagrodzenie, od którego oblicza się podstawę wymiaru świadczeń, podlegało podatkowi od wynagrodzeń i składce na cele emerytalne, pomniejsza się je o kwotę tego podatku i składki."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Jeżeli w okresie, o którym mowa w art. 16 ust. 1, pracownik wykonywał działalność zawodową objętą odrębnymi przepisami o ubezpieczeniu społecznym lub o zaopatrzeniu emerytalnym, określoną w art. 11 ust. 2 pkt 8 oraz w art. 13 ust. 3 pkt 5, przy ustalaniu podstawy wymiaru świadczeń przewidzianych w ustawie uwzględnia się na wniosek pracownika kwotę, która byłaby przyjęta za podstawę wymiaru świadczeń stosownie do tych odrębnych przepisów. 2. 2, Przepis ust. 1 stosuje się odpowiednio do osób pełniących służbę, o której mowa w art. 11 ust. 2 pkt 10."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "1. Rada Ministrów po zasięgnięciu opinii właściwych komisji sejmowych, w drodze rozporządzenia, określa: 1) składniki wynagrodzenia wypłacanego z tytułu zatrudnienia, których nie uwzględnia się przy ustalaniu podstawy wymiaru świadczeń, 2) wypadki, w których przy ustalaniu podstawy wymiaru świadczeń uwzględnia się wypłaty nie będące wynagrodzeniem z tytułu zatrudnienia, i zasady uwzględniania tych wypłat, 3) wypadki, w których podstawę wymiaru świadczeń ustala się z okresu krótszego niż określony w art. 16 ust. 1, 4) zasady ustalania podstawy wymiaru świadczeń, gdy pracownik zatrudniony był za granicą, 5) inne szczegółowe zasady ustalania podstawy wymiaru świadczeń. 2. Rada Ministrów, w drodze rozporządzenia, może określać zasady ustalania podstawy wymiaru świadczeń w wypadkach, w których wskutek inwalidztwa zmniejszyła się w znacznym stopniu możliwość uzyskania przez pracownika wyższego wynagrodzenia w przyszłości. Rozdział 5 Inwalidztwo"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Inwalidą w rozumieniu ustawy jest osoba częściowo lub całkowicie niezdolna do wykonywania zatrudnienia z powodu stałego lub długotrwałego naruszenia sprawności organizmu."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Ustala się trzy grupy inwalidów w zależności od stopnia niezdolności do wykonywania zatrudnienia. 2. Do III grupy inwalidów zalicza się osoby: 1) częściowo niezdolne do wykonywania dotychczasowego zatrudnienia, jeżeli osoby te zachowały zdolność do wykonywania dotychczasowego zatrudnienia w zmniejszonym zakresie, 2) całkowicie niezdolne do wykonywania dotychczasowego zatrudnienia, jeżeli osoby te zachowały zdolność do wykonywania innego, niżej kwalifikowanego zatrudnienia, 3) dotknięte szczególnym naruszeniem sprawności organizmu, nawet jeżeli naruszenia te nie ograniczają zdolności do wykonywania dotychczasowego zatrudnienia. 3. Do II grupy inwalidów zalicza się osoby niezdolne do wykonywania jakiegokolwiek zatrudnienia. 4. Do I grupy inwalidów zalicza się osoby niezdolne do wykonywania jakiegokolwiek zatrudnienia, które ze względu na niemożność samodzielnej egzystencji wymagają stałej lub długotrwałej opieki innej osoby. 5. Zachowanie zdolności do wykonywania zatrudnienia w warunkach specjalnie stworzonych lub na specjalnych stanowiskach pracy nie stanowi przeszkody do zaliczenia do I lub II grupy inwalidów."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Ocena zdolności do wykonywania zatrudnienia, zaliczanie do jednej z grup inwalidów, ustalanie daty powstania inwalidztwa, a także wskazań i przeciwwskazań do zatrudnienia lub przeszkolenia zawodowego inwalidów należy do komisji lekarskich do spraw inwalidztwa i zatrudnienia. 2. Rada Ministrów, w drodze rozporządzenia, określa ustrój, zakres działania komisji lekarskich do spraw inwalidztwa i zatrudnienia, tryb odwoławczy oraz sposób i zakres sprawowania nadzoru nad działalnością tych komisji. 3. Minister Pracy, Płac i Spraw Socjalnych w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, w drodze rozporządzenia, określa szczegółowe zasady ustalania inwalidztwa, w tym również zasady zaliczania do grup inwalidów osób nie będących pracownikami, skład komisji lekarskich, ich szczegółowe zadania, tryb postępowania, tryb kierowania na badanie przez te komisje oraz sposób powoływania i zasady wynagradzania członków komisji lekarskich i lekarzy działających w zakresie orzecznictwa inwalidzkiego. 4. Minister Pracy, Płac i Spraw Socjalnych w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, w drodze rozporządzenia, może powierzać komisjom lekarskim przeprowadzanie badań dla celów innych niż rentowe. Dział II Warunki uzyskania oraz wysokość świadczeń Rozdział 1 Emerytura"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "1. Emerytura przysługuje pracownikowi, który spełnia łącznie następujące warunki: 1) osiągnął wiek emerytalny wynoszący 60 lat dla kobiet i 65 lat dla mężczyzn w czasie zatrudnienia lub w okresie równorzędnym z okresem zatrudnienia albo nie później niż w ciągu 5 lat od ustania tych okresów, 2) ma okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn. 2. Pracownikowi, który osiągnął wiek emerytalny po upływie 5 lat od ustania zatrudnienia lub okresów równorzędnych z okresem zatrudnienia, emerytura przysługuje, jeżeli: 1) ma okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej 30 lat dla kobiet i 35 lat dla mężczyzn albo 2) w chwili osiągnięcia tego wieku uprawniony był do renty inwalidzkiej lub renty rodzinnej i ma okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "1. Pracownik, który nie osiągnął wieku emerytalnego określonego w art. 26 ust. 1 pkt 1, może przejść na emeryturę: 1) kobieta - po osiągnięciu wieku 55 lat, jeżeli ma 30-letni okres zatrudnienia albo jeżeli ma 20-letni okres zatrudnienia i zaliczona została do I lub II grupy inwalidów, 2) mężczyzna - po osiągnięciu wieku 60 lat, jeżeli ma 25-letni okres zatrudnienia i zaliczony został do I lub II grupy inwalidów. 2. Okresy zatrudnienia, o których mowa w ust. 1. liczy się łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia. 3. Rada Ministrów, w drodze rozporządzenia, może określać zasady wcześniejszego przechodzenia na emeryturę na warunkach innych niż ustalone w ust. 1. 4. Odrębne przepisy określają zasady wcześniejszego przechodzenia na emeryturę: 1) inwalidów wojennych, kombatantów oraz inwalidów wojskowych, których inwalidztwo pozostaje w związku ze służbą wojskową, 2) inwalidów, których inwalidztwo powstało wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Pracownik, który nie osiągnął okresu zatrudnienia określonego w art. 26 ust. 1 pkt 2, może przejść na emeryturę w niepełnym wymiarze na następujących warunkach: 1) kobieta, jeżeli osiągnęła wiek 60 lat w czasie zatrudnienia lub w okresie równorzędnym z okresem zatrudnienia oraz ma okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej 15 lat, 2) mężczyzna, jeżeli osiągnął wiek 65 lat w okresie, o którym mowa w pkt 1, oraz ma okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej 20 lat."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "1. Emerytura wynosi 100% podstawy jej wymiaru do kwoty 3.000 zł oraz 55% nadwyżki ponad tę kwotę. 2. Emeryturę zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia w Polsce Ludowej ponad okres wynoszący 20 lat. Okresy zatrudnienia w Polsce Ludowej liczy się łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "1. Emerytura w niepełnym wymiarze wynosi miesięcznie 90% podstawy tej wymiaru do kwoty 3.000 zł oraz 50% nadwyżki ponad tę kwotę. 2. Przepis art. 29 ust. 2 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Rada Ministrów podwyższa kwoty podstawy wymiaru, o których mowa w art. 29 ust. 1 oraz art. 30 ust. 1, kierując się wzrostem najniższego wynagrodzenia. Rozdział 2 Renta inwalidzka"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Renta inwalidzka przysługuje - z uwzględnieniem art. 34 - pracownikowi, który spełnił łącznie następujące warunki: 1) jest inwalidą, 2) ma wymagany okres zatrudnienia, 3) inwalidztwo powstało w czasie zatrudnienia lub w okresie równorzędnym z okresem zatrudnienia albo nie później niż w ciągu 18 miesięcy od ustania tych okresów."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "1. Warunek posiadania wymaganego okresu zatrudnienia, w myśl art. 32 pkt 2, uważa się za spełniony, gdy pracownik osiągnął okres zatrudnienia wynoszący łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia co najmniej: 1) 1 rok - jeżeli inwalidztwo powstało przed ukończeniem 20 lat, 2) 2 lata - jeżeli inwalidztwo powstało w wieku powyżej 20 do 22 lat, 3) 3 lata - jeżeli inwalidztwo powstało w wieku powyżej 22 do 25 lat, 4) 4 lata - jeżeli inwalidztwo powstało w wieku powyżej 25 do 30 lat, 5) 5 lat - jeżeli inwalidztwo powstało w wieku powyżej 30 lat, z zastrzeżeniem ust. 4. 2. Okres 5 lat zatrudnienia, o którym mowa w ust. 1 pkt 5, powinien przypadać w ciągu ostatniego dziesięciolecia przed zgłoszeniem wniosku o rentę inwalidzką, a jeżeli zainteresowany w chwili zgłoszenia wniosku nie pozostaje w zatrudnieniu - przed dniem powstania inwalidztwa; do tego dziesięcioletniego okresu nie wlicza się okresów pobierania renty inwalidzkiej lub rodzinnej. 3. Jeżeli pracownik nie osiągnął okresu zatrudnienia, o którym mowa w ust. 1, warunek posiadania wymaganego okresu zatrudnienia uważa się za spełniony, gdy podjął on zatrudnienie przed osiągnięciem 18 lat albo w ciągu 6 miesięcy po ukończeniu nauki w szkole ponadpodstawowej lub w szkole wyższej oraz pozostawał w zatrudnieniu do dnia powstania inwalidztwa bez przerwy lub z przerwami nie przekraczającymi 6 miesięcy, z uwzględnieniem art. 34. 4. Okres zatrudnienia wymagany do przyznania renty inwalidzkiej wynosi 10 lat, w tym co najmniej 5 lat w okresie ostatniego dziesięciolecia, o którym mowa w ust. 2, jeżeli pracownik podjął zatrudnienie po raz pierwszy po ukończeniu 40 lat życia. 5. Przepis ust. 4 stosuje się odpowiednio do pracownika, który po ukończeniu 40 lat życia podjął zatrudnienie po upływie 10 lat od ustania poprzedniego zatrudnienia lub okresów równorzędnych z okresem zatrudnienia. Okresów zatrudnienia oraz okresów równorzędnych i zaliczalnych do okresów zatrudnienia sprzed tej przerwy nie wlicza się."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "1. Pracownikowi, który stał się inwalidą I lub II grupy przed podjęciem zatrudnienia po raz pierwszy, renta inwalidzka przysługuje po osiągnięciu okresu zatrudnienia wynoszącego łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia: 1) 5 lat w ciągu ostatniego dziesięciolecia przed zgłoszeniem wniosku o rentę inwalidzką albo 2) 10 lat, jeżeli zatrudnienie podjął po raz pierwszy po ukończeniu 40 lat. 2. Przepis ust. 1 stosuje się odpowiednio do pracownika, który stał się inwalidą I lub II grupy po upływie 18 miesięcy od ustania poprzedniego zatrudnienia (okresów równorzędnych z okresem zatrudnienia). Jeżeli podjęcie ponownego zatrudnienia nastąpiło po upływie 10 lat od ustania ostatniego zatrudnienia, okresów zatrudnienia oraz okresów równorzędnych i zaliczalnych do okresów zatrudnienia sprzed tej przerwy nie wlicza się."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "1. Renta inwalidzka wynosi miesięcznie: 1) dla inwalidów zaliczonych do I i II grupy - 100% podstawy jej wymiaru do kwoty 3.000 zł oraz 55% nadwyżki ponad tę kwotę, 2) dla inwalidów zaliczonych do III grupy - 85% podstawy jej wymiaru do kwoty 3.000 zł oraz 50% nadwyżki ponad tę kwotę. 2. Rentę inwalidzką zwiększa się o 1%podstawy jej wymiaru za każdy pełny rok zatrudnienia w Polsce Ludowej ponad okres wynoszący 20 lat. Okresy zatrudnienia w Polsce Ludowej liczy się łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia. 3. Przepis art. 31 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Prawo do renty inwalidzkiej, które ustało z powodu ustąpienia inwalidztwa, podlega przywróceniu, jeżeli w ciągu 18 miesięcy od ustania prawa do renty pracownik ponownie stał się inwalidą. Rozdział 3 Renta rodzinna"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "1. Renta rodzinna przysługuje uprawnionym członkom rodziny pracownika, który w chwili śmierci pozostawał w zatrudnieniu i miał okres zatrudnienia nie krótszy niż wymagany do uzyskania renty inwalidzkiej. 2. Renta rodzinna przysługuje również po osobie nie pozostającej w chwili śmierci w zatrudnieniu, jeżeli osoba ta miała ustalone prawo do emerytury lub renty inwalidzkiej albo spełniała warunki wymagane do uzyskania jednego z tych świadczeń. Przy ocenie prawa do renty inwalidzkiej przyjmuje się, że osoba zmarła była inwalidą."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "1. Do renty rodzinnej uprawnieni są następujący członkowie rodziny spełniający warunki określone w art. 39-42: 1) dzieci własne, dzieci drugiego małżonka oraz dzieci przy sposobione, 2) przyjęte na wychowanie i utrzymanie przed osiągnięciem pełnoletności wnuki, rodzeństwo i inne dzieci, w tym również w ramach rodziny zastępczej, 3) małżonek (wdowa i wdowiec), 4) rodzice. 2. Za rodziców w rozumieniu ustawy uważa się również ojczyma i macochę oraz osoby przysposabiające."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "1. Dzieci własne, dzieci drugiego małżonka i dzieci przysposobione mają prawo do renty rodzinnej; 1) do ukończenia 16 lat życia, 2) do ukończenia nauki w szkole, jeżeli przekroczyły 16 lat życia, nie dłużej jednak niż do osiągnięcie 25 lat życia, albo 3) bez względu na wiek, jeżeli stały się inwalidami I lub II grupy w okresie, o którym mowa w pkt 1 lub 2. 2. Jeżeli dziecko osiągnęło 25 lat życia będąc na ostatnim roku studiów w szkole wyższej, prawo do renty rodzinnej przedłuża się do zakończenia tego roku studiów."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Przyjęte na wychowanie i utrzymanie wnuki, rodzeństwo i inne dzieci mają prawo do renty rodzinnej, jeżeli spełniają warunki określone w art. 39, a ponadto: 1) zostały przyjęte na wychowanie i utrzymanie co najmniej na rok przed śmiercią pracownika (emeryta lub rencisty), chyba że śmierć była następstwem wypadku, oraz 2) nie mają prawa do renty po zmarłych rodzicach, a gdy rodzice żyją, jeżeli: a) nie mogą zapewnić im utrzymania albo b) pracownik (emeryt lub rencista) lub jego małżonek był ich opiekunem ustanowionym przez sąd."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "1. Wdowa ma prawo do renty rodzinnej, jeżeli: 1) w chwili śmierci męża osiągnęła wiek 50 lat lub była inwalidką albo 2) wychowuje co najmniej jedno z dzieci, wnuków lub rodzeństwa, uprawnione do renty rodzinnej po zmarłym mężu, które nie osiągnęło 16 lat, a jeżeli kształci się w szkole - 18 lat życia, lub jeżeli sprawuje pieczę nad dzieckiem zaliczonym do I lub II grupy inwalidów uprawnionych do renty rodzinnej. 2. Prawo do renty rodzinnej nabywa również wdowa, która osiągnęła wiek 50 lat lub stała się inwalidką po śmierci męża, nie później jednak niż w ciągu 5 lat od jego śmierci lub od zaprzestania wychowywania osób wymienionych w ust. 1 pkt 2. 3. Małżonka rozwiedziona lub wdowa, która w chwili śmierci męża nie pozostawała z nim we wspólności małżeńskiej, ma prawo do renty rodzinnej, jeżeli oprócz spełnienia warunków określonych w ust. 1 lub 2 miała w chwili śmierci męża prawo do alimentów z jego strony ustalone wyrokiem lub ugodą sądową. 4. Wdowa nie spełniająca warunków do renty rodzinnej określonych w ust. 1 lub 2 i nie mająca niezbędnych źródeł utrzymania ma prawo do okresowej renty rodzinnej: 1) przez okres jednego roku od chwili śmierci męża, 2) przez okres uczestniczenia w zorganizowanym szkoleniu mającym na celu uzyskanie kwalifikacji do wykonywania pracy zarobkowej, nie dłużej jednak niż przez 2 lata od chwili śmierci męża. 5. Przepisy ust. 1-3 stosuje się odpowiednio do wdowca, z tym że wiek uprawniający go do renty rodzinnej wynosi 65 lat."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Rodzice mają prawo do renty rodzinnej, jeżeli: 1) pracownik (emeryt lub rencista) bezpośrednio przed śmiercią przyczyniał się do ich utrzymywania, 2) spełniają odpowiednio warunki określone dla wdowy i wdowca w art. 41 ust. 1 i 2 oraz co do wieku również w ust. 5."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "W razie ustania prawa do renty rodzinnej z powodu ustąpienia inwalidztwa stosuje się odpowiednio przepis art. 36."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "1. Renta rodzinna dla 1 osoby wynosi miesięcznie 85% podstawy jej wymiaru do kwoty 3000 zł oraz 50% nadwyżki ponad tę kwotę. 2. Na każdą następną osobę uprawnioną do renty rodzinnej przysługuje zwiększenie tej renty o 5% podstawy jej wymiaru. 3. Rentę rodzinną zwiększa się o 1% podstawy jej wymiaru za każdy pełny rok zatrudnienia zmarłego pracownika w Polsce Ludowej ponad okres wynoszący 20 lat. Okresy zatrudnienia w Polsce Ludowej liczy się łącznie z okresami równorzędnymi i zaliczalnymi do okresów zatrudnienia. 4. Przepis art. 31 stosuje się odpowiednio."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "1. Wszystkim uprawnionym członkom rodziny przysługuje jedna łączna renta rodzinna. 2. Renta rodzinna podlega podziałowi między uprawnionych, jeżeli: 1) do renty uprawnione są osoby małoletnie, nad którymi opiekę sprawują różne osoby, 2) pełnoletni członek rodziny zażąda podziału renty, 3) zachodzą inne okoliczności uzasadniające podział renty. 3. Renta rodzinna podlega podziałowi na równe części, z tym że dodatki do renty wypłaca się w całości osobom do nich uprawnionym. Rozdział 4 Dodatki do emerytur i rent"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "1. Do emerytury i renty przysługują dodatki: 1) rodzinne, 2) pielęgnacyjny, 3) z tytułu odznaczeń państwowych, 2. Do renty rodzinnej przysługuje również dodatek dla sierot zupełnych."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "1. Dodatki rodzinne przysługują na zasadach i w wysokości przewidzianych w odrębnych przepisach dla zasiłków rodzinnych przysługujących pracownikom. 2. Jeżeli do renty rodzinnej uprawnione są sieroty zupełne, część renty przysługującą każdej z tych sierot zwiększa się o dodatek dla sierot zupełnych w wysokości 30% najniższej renty rodzinnej dla 1 osoby."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "1. Dodatek pielęgnacyjny przysługuje osobie uprawnionej do emerytury lub renty, jeżeli osoba taka zaliczona została do I grupy inwalidów albo ukończyła 75 lat życia. 2. Dodatek pielęgnacyjny wynosi miesięcznie kwotę odpowiadającą 30% najniższej emerytury."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "1. Dodatek z tytułu odznaczenia państwowego przysługuje osobie uprawnionej do emerytury lub renty, odznaczonej orderem: Budowniczy Polski Ludowej, Odrodzenia Polski, Virtuti Militari, Krzyża Grunwaldu, Sztandaru Pracy lub Krzyżem Walecznych albo tytułem honorowym: „Zasłużony Górnik PRL”, „Zasłużony Nauczyciel PRL”, „Zasłużony Hutnik PRL”, „Zasłużony Kolejarz PRL”, „Zasłużony Stoczniowiec PRL”, „Zasłużony Portowiec PRL”, „Zasłużony Lekarz PRL”, „Zasłużony dla Zdrowia Narodu”, „Lotnik Kosmonauta PRL”, lub „Zasłużony Pilot Wojskowy PRL”. 2. Dodatek z tytułu odznaczenia państwowego wynosi miesięcznie 20% podstawy wymiaru świadczenia, nie więcej jednak niż 3.000 zł. 3. Z tytułu odznaczenia orderami lub tytułami honorowymi przysługuje tylko jeden dodatek. Rozdział 5 Zasiłek pogrzebowy"
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "1. Zasiłek pogrzebowy przysługuje w razie śmierci osoby pobierającej emeryturę lub rentę albo członka rodziny takiej osoby. 2. Członkami rodziny, o których mowa w ust. 1, są osoby określone w art. 38. 3. Zasiłek pogrzebowy przysługuje również w razie śmierci osoby, która nie miała ustalonego prawa do emerytury lub renty, lecz spełniała warunki do ich uzyskania i pobierania. Przepis art. 37 ust. 2 zdanie drugie stosuje się odpowiednio. 4. Z tytułu śmierci osoby, o której mowa w ust. 1-3, przysługuje tylko jeden zasiłek pogrzebowy."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "1. Zasiłek pogrzebowy przysługuje osobie, która pokryła koszty pogrzebu. 2. W razie poniesienia kosztów pogrzebu przez więcej niż jedną osobę zasiłek pogrzebowy ulega podziałowi między te osoby - proporcjonalnie do poniesionych kosztów pogrzebu."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "1. W razie poniesienia kosztów pogrzebu przez członka rodziny, o którym mowa w art. 38, zasiłek pogrzebowy przysługuje w wysokości sześciokrotnej kwoty najniższej emerytury obowiązującej w dniu śmierci osoby, po której przysługuje zasiłek pogrzebowy. 2. W razie poniesienia kosztów pogrzebu przez inną osobę niż wymieniona w ust. 1, zasiłek pogrzebowy przysługuje w wysokości udokumentowanych kosztów pogrzebu, nie więcej jednak niż w wysokości określonej w ust. 1. 3. Jeżeli pogrzeb organizowany był na koszt Państwa, organizacji politycznej lub społecznej albo zakładu pracy, lecz osoby, o których mowa w ust. 1, poniosły również część jego kosztów, przysługuje im zasiłek w wysokości określonej w ust. 2. 4. Prawo do zasiłku pogrzebowego wygasa w wypadku niezgłoszenia wniosku o jego przyznanie w okresie 12 miesięcy od dnia śmierci osoby, po której zasiłek przysługuje. Dział III Przepisy szczególne dotyczące świadczeń dla niektórych grup osób Rozdział 1 Świadczenia dla pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze"
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "1. Pracownikom zatrudnionym w szczególnych warunkach lub w szczególnym charakterze przysługują świadczenia na zasadach i w wysokości określonych w ustawie, z uwzględnieniem art. 54 i 55. 2. Za pracowników zatrudnionych w szczególnych warunkach uważa się pracowników stale zatrudnionych przy pracach o znacznej szkodliwości dla zdrowia oraz o znacznym stopniu uciążliwości lub wymagających wysokiej sprawności psychofizycznej ze względu na bezpieczeństwo własne lub otoczenia, a w szczególności zatrudnionych: 1) pod ziemią, 2) bezpośrednio przy przetwórstwie azbestu, produkcji ołowiu i kadmu, 3) przy pracach technologicznych związanych z wytwarzaniem aluminium, 4) w zespołach formujących szkło, 5) w charakterze rybaków morskich i nurków, 6) w stoczniach morskich na niektórych stanowiskach pracy bezpośrednio przy budowie i remoncie statków morskich, 7) na statkach morskich w żegludze międzynarodowej i w polskim ratownictwie okrętowym, 8) na statkach żeglugi powietrznej, 9) w charakterze ratowników w Górskim Ochotniczym Pogotowiu Ratunkowym, 10) w morskich portach handlowych oraz w niektórych przedsiębiorstwach pomocniczych działających na rzecz tych portów, 11) na niektórych stanowiskach w budownictwie i przemyśle materiałów budowlanych. 3. Za pracowników zatrudnionych w szczególnym charakterze uważa się: 1) funkcjonariuszy pożarnictwa, 2) pracowników organów administracji celnej, 3) pracowników wykonujących działalność twórczą lub artystyczną, 4) dziennikarzy, 5) niektórych pracowników budownictwa i przemysłu materiałów budowlanych nie objętych przepisem ust. 2 pkt 11, 6) pracowników organów kontroli państwowej. 4. Odrębne przepisy regulują uprawnienia z tytułu szczególnego charakteru zatrudnienia nauczycieli, nauczycieli akademickich i innych pracowników naukowo-badawczych oraz pracowników naukowych."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "1. Z tytułu zatrudnienia w szczególnych warunkach lub w szczególnym charakterze może być: 1) przyznane prawo do emerytury w wieku niższym niż określony w art. 26 ust. 1 pkt 1, 2) przyznany wzrost emerytury lub renty inwalidzkiej w wysokości 10 lub 15% podstawy jej wymiaru. 2. Jeżeli wzrost, o którym mowa w ust. 1 pkt 2, przysługuje z dwóch lub więcej tytułów, wypłaca się tylko wzrost z jednego tytułu - korzystniejszy lub wybrany przez osobę zainteresowaną."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa rodzaje prac lub stanowisk pracy oraz warunki, na podstawie których osobom wymienionym w art. 11 ust. 3 oraz w art. 53 ust. 2 i 3 przysługuje: 1) prawo do emerytury w określonym wieku, niższym niż to wynika z art. 26 ust. 1 pkt 1, 2) wzrost emerytury lub renty, o którym mowa w art. 54 ust. 1 pkt 2. Rozdział 2 Świadczenia dla osób zajmujących kierownicze stanowiska"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "1. Osobom zajmującym kierownicze stanowiska państwowe przysługują świadczenia na zasadach i w wysokości określonych w ustawie, z uwzględnieniem art. 57 i 58. 2. Za stanowiska kierownicze w rozumieniu ust. 1 uważa się stanowiska określone przepisami o wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "1. Osobom, o których mowa w art. 56, emerytura przysługuje po osiągnięciu wieku: 55 lat dla kobiet i 60 lat dla mężczyzn oraz okresu zatrudnienia wynoszącego co najmniej 20 lat dla kobiet i 25 lat dla mężczyzn, w tym co najmniej 5 lat na kierowniczych stanowiskach państwowych. 2. Emerytura przysługuje również osobie odwołanej ze stanowiska kierowniczego, jeżeli osoba ta osiągnęła okres zatrudnienia wynoszący co najmniej 30 lat dla mężczyzn i 25 lat dla kobiet, w tym co najmniej 8 lat na kierowniczych stanowiskach państwowych."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "1. Emeryturę i rentę inwalidzką przysługującą osobom, o których mowa w art. 56, obliczoną stosownie do zasad określonych w art. 29 lub 35, zwiększa się o 1,5% podstawy wymiaru za każdy pełny rok pracy na stanowiskach kierowniczych. 2. W razie zbiegu u jednej osoby prawa do wzrostu emerytury lub renty inwalidzkiej, o którym mowa w art. 54, oraz do zwiększenia emerytury lub renty inwalidzkiej określonego w ust. 1, wypłaca się wzrost lub zwiększenie wyższe albo wybrane przez osobę zainteresowaną."
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "1. Przepisy art. 57 i 58 stosuje się również do osób zajmujących kierownicze stanowiska w: 1) naczelnych i wojewódzkich statutowych organach Polskiej Zjednoczonej Partii Robotniczej i stronnictw politycznych oraz w naczelnych wykonawczych organach tej Partii i stronnictw politycznych, 2) centralnych organach organizacji spółdzielczych. 2. Za stanowiska kierownicze w rozumieniu ust. 1 uważa się stanowiska określone przepisami o wynagrodzeniu osób zajmujących kierownicze stanowiska w tych organach. Rozdział 3 Świadczenia dla niektórych osób nie będących pracownikami"
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "Adwokatom wykonującym pracę w zespołach adwokackich oraz pozostałym po nich członkom rodzin przysługują świadczenia na zasadach i w wysokości określonych w ustawie, z tym że podstawę wymiaru świadczeń ustala się od przeciętnego miesięcznego wynagrodzenia adwokata z tytułu pracy w zespole, przyjętego do ustalenia składek na ubezpieczenie społeczne."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Osobom wykonującym pracę nakładczą oraz pozostałym po nich członkom rodzin przysługują świadczenia na zasadach i w wysokości określonych w ustawie, z tym że: 1) okresy pracy nakładczej uważa się za okresy równorzędne z okresami zatrudnienia w myśl art. 11 ust. 2 pkt 12, jeżeli osoba wykonująca pracę nakładczą podlega obowiązkowi ubezpieczenia społecznego na podstawie przepisów obowiązujących w czasie wykonywania tej pracy albo uzyskiwała wynagrodzenie w wysokości co najmniej 50% obowiązującego w tym okresie najniższego wynagrodzenia, 2) podstawę wymiaru świadczeń ustala się od przeciętnego miesięcznego wynagrodzenia osoby wykonującej pracę nakładczą, jednakże w kwocie nie wyższej niż czterokrotna kwota najniższego wynagrodzenia obowiązującego w dniu, od którego przysługuje prawo do świadczeń."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "1. Osobie, która stała się inwalidą w czasie pobierania stypendium sportowego z tytułu wyczynowego uprawiania sportu, przysługuje prawo do renty inwalidzkiej na zasadach i w wysokości określonych w ustawie. 2. Członkom rodziny osób, o których mowa w ust. 1, przysługuje prawo do renty rodzinnej na zasadach i w wysokości określonych w ustawie. 3. Podstawę wymiaru świadczeń, o których mowa w ust. 1 i 2, ustala się od miesięcznej kwoty ostatnio pobranego stypendium sportowego. 4. W razie śmierci osoby pobierającej świadczenia, o której mowa w ust. 1 i 2, albo spełniającej warunki do tych świadczeń oraz w razie śmierci członka rodziny tej osoby, zasiłek pogrzebowy przysługuje na zasadach i w wysokości określonych w ustawie."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "1. Uczniom szkół ponadpodstawowych, studentom szkół wyższych i uczestnikom studiów doktoranckich lub aspirantury naukowej, którzy stali się inwalidami I lub II grupy w czasie uczęszczania do szkoły lub odbywania studiów, przysługuje prawo do renty inwalidzkiej. 2. Członkom rodziny osób, o których mowa w ust. 1, przysługuje renta rodzinna na zasadach określonych w ustawie. 3. Świadczenia wymienione w ust. 1 i 2 przysługują w wysokości najniższej renty inwalidzkiej lub renty rodzinnej, o których mowa w art. 67. 4. W razie śmierci osoby pobierającej rentę, o której mowa w ust. 1 lub 2. albo spełniającej warunki do tych świadczeń oraz w razie śmierci członka rodziny tej osoby, zasiłek pogrzebowy przysługuje na zasadach i w wysokości określonych w ustawie. Rozdział 4 Świadczenia przyznawane w szczególnym trybie"
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Prezes Rady Ministrów, na wniosek władz naczelnych organizacji politycznych lub społecznych, ministrów (kierowników urzędów centralnych), może przyznać emeryturę lub rentę na warunkach i w wysokości innej niż określone w ustawie, jeżeli jest to uzasadnione szczególnymi zasługami, zwłaszcza w działalności politycznej, społecznej, gospodarczej, naukowej i kulturalnej osoby, której ta emerytura lub renta ma być przyznana."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Pracownikom oraz innym osobom objętym przepisami ustawy, a także pozostałym po nich członkom rodziny, którzy wskutek szczególnych okoliczności nie spełniają warunków wymaganych w ustawie do uzyskania prawa do emerytury lub renty, nie mogą - ze względu na inwalidztwo lub wiek - podjąć zatrudnienia i nie mają niezbędnych środków utrzymania, Prezes Zakładu Ubezpieczeń Społecznych może przyznać w drodze wyjątku świadczenia w wysokości nie przekraczającej odpowiednich świadczeń przewidzianych w ustawie."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Rada Ministrów, w drodze rozporządzenia, może określać zasady, wysokość oraz tryb przyznawania i wypłaty świadczenia socjalnego osobom, które nie nabyły uprawnień do emerytury lub renty określonej w ustawie, jeżeli ze względu na wiek lub inwalidztwo nie mogą zapewnić sobie niezbędnych środków utrzymania i nie ma osób zobowiązanych do ich alimentacji. Dział IV Przepisy wspólne dotyczące wysokości świadczeń Rozdział 1 Dolna i górna granica wysokości świadczeń"
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Rada Ministrów określa kwoty najniższej emerytury i renty, z tym że: 1) najniższa emerytura, renta inwalidzka I i II grupy oraz renta rodzinna, bez uwzględnienia dodatków, o których mowa w art. 46, nie może być niższa niż 90% najniższego wynagrodzenia, 2) najniższa renta inwalidzka III grupy bez uwzględnienia dodatków, o których mowa w art. 46 ust. 1 pkt 1 i 3, nie może być niższa niż 75% najniższego wynagrodzenia."
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Art. 68",
+      "content": "1. Kwota emerytury lub renty, bez uwzględnienia dodatków, o których mowa w art. 46 ust. 1 pkt 1 i 2 oraz ust. 2, nie może przekraczać 100% podstawy wymiaru emerytury lub renty. 2. Ograniczenie wysokości świadczeń do 100% podstawy ich wymiaru nie dotyczy emerytur i rent w wysokości określonej w art. 67. 3. Kwota emerytury i renty wraz z dodatkiem z tytułu odznaczeń państwowych nie może być niższa od kwoty odpowiedniego świadczenia określonej w art. 67 wraz z takim dodatkiem. Rozdział 2 Zbieg prawa do świadczeń"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Art. 69",
+      "content": "1. W razie zbiegu u jednej osoby prawa do emerytury i renty albo do dwóch rent przewidzianych w ustawie, wypłaca się jedno z tych świadczeń - wyższe lub wybrane przez zainteresowanego. 2. Przepis ust. 1 stosuje się również - z uwzględnieniem art. 70 - w razie zbiegu u jednej osoby prawa do emerytury lub renty określonych w ustawie z prawem do świadczeń przewidzianych w odrębnych przepisach o ubezpieczeniu społecznym lub o zaopatrzeniu emerytalnym."
+    },
+    {
+      "provision_ref": "art70",
+      "section": "70",
+      "title": "Art. 70",
+      "content": "Odrębne przepisy określają wypłatę świadczeń w razie zbiegu u jednej osoby prawa do: 1) emerytury określonej w ustawie z prawem do renty inwalidzkiej z tytułu inwalidztwa wojennego, inwalidztwa powstałego wskutek pobytu w obozie koncentracyjnym albo z tytułu inwalidztwa pozostającego w związku ze służbą wojskową oraz do renty rodzinnej przysługującej po osobach uprawnionych do takich rent, 2) emerytury określonej w ustawie z prawem do renty inwalidzkiej z tytułu inwalidztwa powstałego wskutek wypadku przy pracy, wypadku w drodze do pracy lub z pracy albo wskutek choroby zawodowej, 3) emerytury lub renty określonej w ustawie z prawem do emerytury lub renty z tytułu przekazania gospodarstwa rolnego następcy lub państwu."
+    },
+    {
+      "provision_ref": "art71",
+      "section": "71",
+      "title": "Art. 71",
+      "content": "1. Wstrzymanie wypłaty jednego ze świadczeń, o których mowa w art. 69, następuje od dnia, od którego przysługuje prawo do wypłaty zbiegających się świadczeń. 2. W razie zbiegu prawa do świadczeń, o których mowa w art. 70, wypłata ich następuje od dnia powstania prawa do dwóch lub więcej świadczeń, jednak za okres nie dłuższy niż 3 miesiące kalendarzowe poprzedzające miesiąc, w którym zgłoszono wniosek."
+    },
+    {
+      "provision_ref": "art72",
+      "section": "72",
+      "title": "Art. 72",
+      "content": "W razie zbiegu prawa do zasiłku pogrzebowego z tytułu pobierania emerytury lub renty i z tytułu zatrudnienia wypłaca się zasiłek wyższy lub wybrany przez zainteresowanego."
+    },
+    {
+      "provision_ref": "art73",
+      "section": "73",
+      "title": "Art. 73",
+      "content": "Minister Pracy, Płac i Spraw Socjalnych, w drodze rozporządzenia, określa zasady wypłacania świadczeń określonych w ustawie osobie uprawnionej jednocześnie do świadczeń o charakterze rentowym z instytucji zagranicznej. Rozdział 3 Waloryzacja świadczeń"
+    },
+    {
+      "provision_ref": "art74",
+      "section": "74",
+      "title": "Art. 74",
+      "content": "1. Podstawa wymiaru emerytury i renty ulega corocznym podwyżkom o taki procent, o jaki wzrosło przeciętne miesięczne wynagrodzenie w gospodarce uspołecznionej w roku poprzedzającym rok podwyżki, nie więcej jednak niż o 150% kwoty wzrostu tego wynagrodzenia. 2. Podwyższenia świadczeń w myśl ust. 1 dokonuje się przy zastosowaniu współczynnika waloryzacyjnego stanowiącego - wyrażony procentowo - stosunek emerytury lub renty do podstawy wymiaru tych świadczeń bez uwzględnienia dodatków, o których mowa w art. 46 ust. 1 pkt 1 i 2 oraz ust. 2. 3. Podwyższenie świadczeń następuje od dnia 1 marca każdego roku i obejmuje świadczenia przyznane przed dniem 1 stycznia roku poprzedniego, przy czym podwyższenie świadczeń po raz pierwszy nastąpi od dnia 1 marca 1986 r. 4. Podwyższenie świadczeń stosownie do ust. 1-3 następuje z urzędu, a jeżeli prawo do świadczeń było zawieszone - na wniosek osoby zainteresowanej, po ustaniu przyczyn uzasadniających zawieszenie tego prawa. 5. Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady podwyższania świadczeń w myśl ust. 1-4."
+    },
+    {
+      "provision_ref": "art75",
+      "section": "75",
+      "title": "Art. 75",
+      "content": "1. Dodatek pielęgnacyjny oraz dodatek dla sierot zupełnych podlegają każdorazowo podwyższeniu w razie podwyższenia najniższych emerytur i rent. 2. Przepis art. 74 ust. 4 stosuje się odpowiednio. Dział V Zasady ustalania świadczeń Rozdział 1 Powstawanie prawa do świadczeń"
+    },
+    {
+      "provision_ref": "art76",
+      "section": "76",
+      "title": "Art. 76",
+      "content": "Prawo do świadczeń określonych w ustawie powstaje z dniem spełnienia się wszystkich warunków wymaganych do nabycia tego prawa, a jeżeli pracownik pobiera zasiłek chorobowy, prawo do emerytury lub renty inwalidzkiej powstaje z dniem zaprzestania pobierania tego zasiłku."
+    },
+    {
+      "provision_ref": "art77",
+      "section": "77",
+      "title": "Art. 77",
+      "content": "Prawa do świadczeń albo do świadczeń w wyższym wymiarze nie nabywa osoba, która wywołała przestępstwem umyślnym okoliczności uzasadniające powstanie tego prawa. Rozdział 2 Zmiany w prawie do świadczeń i ustanie prawa do świadczeń"
+    },
+    {
+      "provision_ref": "art78",
+      "section": "78",
+      "title": "Art. 78",
+      "content": "Prawo do świadczeń uzależnionych od inwalidztwa oraz wysokość tych świadczeń ulega zmianie, jeżeli w wyniku badania lekarskiego, przeprowadzonego na wniosek lub z urzędu, ustalono zmianę grupy inwalidzkiej, brak inwalidztwa lub ponowne powstanie inwalidztwa."
+    },
+    {
+      "provision_ref": "art79",
+      "section": "79",
+      "title": "Art. 79",
+      "content": "1. Wysokość emerytury i renty inwalidzkiej ulega ponownemu ustaleniu w sposób określony w ust. 2 i 3, jeżeli emeryt lub rencista wykonywał zatrudnienie po przyznaniu tych świadczeń. 2. Na wniosek osoby zainteresowanej ustala się nową podstawę wymiaru świadczenia na zasadach określonych w art. 16, jeżeli emeryt lub rencista: 1) po przyznaniu świadczenia - wskutek dalszego wykonywania zatrudnienia nie podjął świadczeń, 2) pobierał świadczenie i ma co najmniej 24-miesięczny okres zatrudnienia po jego przyznaniu. 3. Na wniosek osoby zainteresowanej ustala się ponownie wysokość świadczenia stosownie do art. 29 ust. 2 lub art. 35 ust. 2, z uwzględnieniem okresów zatrudnienia po przyznaniu świadczenia. 4. Ponowne ustalenie wysokości emerytury i renty inwalidzkiej następuje po ustaniu zatrudnienia."
+    },
+    {
+      "provision_ref": "art80",
+      "section": "80",
+      "title": "Art. 80",
+      "content": "1. Prawo do świadczeń, lub ich wysokość ulega ponownemu ustaleniu na wniosek osoby zainteresowanej lub z urzędu, jeżeli po uprawomocnieniu się decyzji w sprawie świadczeń zostaną przedłożone nowe dowody lub ujawniono okoliczności istniejące przed wydaniem tej decyzji, które mają wpływ na prawo do świadczeń lub na ich wysokość. 2. Jeżeli prawo do świadczeń lub ich wysokość ustalono orzeczeniem organu odwoławczego, organ rentowy na podstawie dowodów lub okoliczności, o których mowa w ust. 1: 1) wydaje we własnym zakresie decyzję przyznającą prawo do świadczenia lub podwyższającą ich wysokość, 2) występuje do organu odwoławczego z wnioskiem o wznowienie postępowania przed tym organem, gdy z przedłożonych dowodów lub ujawnionych okoliczności wynika, że prawo do świadczeń nie istnieje lub że świadczenia przysługują w niższej wysokości; z wnioskiem tym organ rentowy może wystąpić w każdym czasie, 3) wstrzymuje wypłatę świadczeń w całości lub części, jeżeli emeryt lub rencista korzystał ze świadczeń na podstawie nieprawdziwych dokumentów lub zeznań albo w innych wypadkach złej woli."
+    },
+    {
+      "provision_ref": "art81",
+      "section": "81",
+      "title": "Art. 81",
+      "content": "Prawo do emerytury i renty ulega zawieszeniu lub świadczenia te ulegają zmniejszeniu na zasadach określonych w art. 82-86 w razie: 1) wykonywania zatrudnienia lub osiągania dochodów z innych źródeł, 2) korzystania ze świadczeń z funduszów publicznych, 3) wyjazdu za granicę, 4) pozbawienia wolności."
+    },
+    {
+      "provision_ref": "art82",
+      "section": "82",
+      "title": "Art. 82",
+      "content": "1. Prawo do emerytury i renty ulega zawieszeniu w razie osiągania: 1) wynagrodzenia z tytułu zatrudnienia w pełnym wymiarze czasu pracy, 2) przychodu podlegającego opodatkowaniu podatkiem gruntowym, jeżeli roczny przychód szacunkowy ustalony dla celów tego podatku przekracza kwotę określoną w drodze rozporządzenia przez Radę Ministrów, 3) dochodu podlegającego opodatkowaniu podatkiem dochodowym, chyba że dochód ten zwolniony został od podatku dochodowego albo działalność podlegająca opodatkowaniu tym podatkiem wykonywana jest osobiście bez zatrudniania pracowników. 2. Jeżeli wynagrodzenie osiągane z tytułu zatrudnienia wykonywanego w niepełnym wymiarze czasu pracy lub inne przychody w rozumieniu przepisów o opodatkowaniu podatkiem od wynagrodzeń przekroczą przed zakończeniem roku kalendarzowego dopuszczalną kwotę określoną przez Radę Ministrów w drodze rozporządzenia, o którym mowa w ust. 1 pkt 2, pobierane świadczenie ulega zmniejszeniu o kwotę tego przekroczenia aż do pełnego zawieszenia emerytury lub renty. 3. W odniesieniu do emeryta lub rencisty uprawnionych do dodatku pielęgnacyjnego zawieszenie lub zmniejszenie świadczeń w sytuacji, o której mowa w ust. 1 i 2, ogranicza się do kwoty stanowiącej równowartość tego dodatku."
+    },
+    {
+      "provision_ref": "art83",
+      "section": "83",
+      "title": "Art. 83",
+      "content": "1. Prawo do renty rodzinnej dla osób, o których mowa w art. 38 ust. 1 pkt 1 i 2, ulega również zawieszeniu, jeżeli osoby te: 1) pobierają stypendia na studia zagraniczne, 2) uczą się w szkołach wojskowych kształcących kandydatów na żołnierzy zawodowych, 3) przebywają w zakładzie specjalnym, w domu dziecka lub w innej placówce opiekuńczo-wychowawczej, jeżeli pobyt w tych placówkach jest nieodpłatny lub rodzice (opiekunowie) zwolnieni są w całości od ponoszenia odpłatności, z uwzględnieniem ust. 2 i 3, 4) przebywają w zakładzie poprawczym lub karnym. 2. W razie pobytu sieroty zupełnej w placówce, o której mowa w ust. 1 pkt 3, nie podlega zawieszeniu 1 / 4 części przysługującej renty, którą przekazuje się na wystawioną przez tę placówkę mieszkaniową książeczkę oszczędnościową. 3. Jeżeli w placówce, o której mowa w ust. 1 pkt 3, przebywa więcej niż jedna sierota zupełna uprawniona do tej samej renty rodzinnej, każdej z nich przekazuje się na książeczkę oszczędnościową przysługującą jej część renty, nie więcej jednak niż 1 / 4 łącznej kwoty świadczenia."
+    },
+    {
+      "provision_ref": "art84",
+      "section": "84",
+      "title": "Art. 84",
+      "content": "1. Prawo do emerytury i renty ulega zawieszeniu, niezależnie od okoliczności określonych w art. 82 i 83, w razie wyjazdu rencisty za granicę: 1) na pobyt stały, 2) na pobyt czasowy, jeżeli trwa on dłużej niż 12 miesięcy, chyba że umowy międzynarodowe stanowią inaczej. 2. Zawieszenia prawa do emerytury i renty, o którym mowa w ust. 1 pkt 2, nie stosuje się do osób skierowanych lub delegowanych do pracy za granicę w polskich przedstawicielstwach dyplomatycznych i w urzędach konsularnych, w stałych przedstawicielstwach przy Organizacji Narodów Zjednoczonych i innych misjach lub misjach specjalnych, a także innych polskich placówkach, instytucjach lub przedsiębiorstwach oraz do członków rodzin tych osób - na ich wniosek, chyba że zachodzą okoliczności wymienione w art. 82. 3. W okresie pierwszych 12 miesięcy pobytu czasowego za granicą oraz w wypadkach, o których mowa w ust. 2, świadczenia przekazuje się na rachunek emeryta lub rencisty w powszechnej kasie oszczędności lub wypłaca w kraju wskazanej osobie. 4. Prawo do świadczeń, które zawieszono z powodu wyjazdu za granicę, przywraca się na wniosek emeryta lub rencisty od dnia powrotu do kraju, jednak za okres nie dłuższy niż 3 miesiące kalendarzowe wstecz od miesiąca, w którym zgłoszono wniosek."
+    },
+    {
+      "provision_ref": "art85",
+      "section": "85",
+      "title": "Art. 85",
+      "content": "1. W razie odbywania kary pozbawienia wolności na mocy orzeczenia sądu osobie uprawnionej do emerytury lub renty inwalidzkiej wypłaca się te świadczenia w wysokości 25%, z uwzględnieniem ust. 2. 2. Jeżeli emeryt lub rencista, o którym mowa w ust. 1, ma członków rodziny spełniających warunki do renty rodzinnej, wypłaca się im pozostałą część emerytury lub renty, chyba że zachodzą okoliczności uzasadniające zawieszenie prawa do świadczeń w myśl art. 82 i 83. Dodatki rodzinne wypłaca się w pełnej wysokości osobom, na które je przyznano. 3. Na wniosek emeryta lub rencisty, o którym mowa w ust. 1, przekazuje się członkom rodziny również część świadczenia, przysługującą emerytowi lub renciście. 4. Przepis ust. 1 stosuje się odpowiednio do renty rodzinnej, z tym że jeżeli do renty tej uprawnionych jest więcej niż jeden członek rodziny, zmniejszeniu do 25% podlega część renty przysługującej osobie pozbawionej wolności. 5. W razie wydania orzeczenia uniewinniającego bądź umarzającego postępowanie wypłaca się część świadczenia wstrzymanego w myśl ust. 1, 2 i 4 za cały okres pozbawienia wolności."
+    },
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Art. 86",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa: 1) szczegółowe zasady zawieszania prawa do emerytury lub renty oraz zmniejszania wysokości tych świadczeń, 2) wypadki, w których mimo zajścia okoliczności określonych w art. 82 nie następuje zawieszenie prawa do emerytury lub renty ani zmniejszenie wysokości tych świadczeń."
+    },
+    {
+      "provision_ref": "art87",
+      "section": "87",
+      "title": "Art. 87",
+      "content": "Prawo do świadczeń ustaje: 1) gdy odpadnie którykolwiek z warunków wymaganych do uzyskania tego prawa, 2) ze śmiercią osoby uprawnionej. Dział VI Postępowanie w sprawach świadczeń i wypłata świadczeń Rozdział 1 Ogólne zasady postępowania"
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Art. 88",
+      "content": "Decyzje w sprawach świadczeń wydają i świadczenia te wypłacają oddziały Zakładu Ubezpieczeń Społecznych właściwe ze względu na miejsce zamieszkania osoby zainteresowanej lub inne jednostki organizacyjne określone w przepisach wydanych na podstawie art. 94 i 105, zwane dalej „organami rentowymi”."
+    },
+    {
+      "provision_ref": "art89",
+      "section": "89",
+      "title": "Art. 89",
+      "content": "1. Postępowanie w sprawach świadczeń wszczyna się na podstawie wniosku, chyba że przepis szczególny stanowi inaczej. 2. Wnioski w sprawie przyznania świadczeń zgłasza się w organie rentowym za pośrednictwem zakładu pracy lub bezpośrednio. 3. Do wniosku w sprawie przyznania świadczeń powinny być dołączone dowody uzasadniające prawo do świadczeń i ich wysokości, określone w drodze rozporządzenia przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art90",
+      "section": "90",
+      "title": "Art. 90",
+      "content": "1. Decyzja powinna być wydana niezwłocznie, nie później niż w ciągu 60 dni od dnia zgłoszenia wniosku. 2. Od decyzji organu rentowego przysługują osobie zainteresowanej środki odwoławcze określone w odrębnych przepisach."
+    },
+    {
+      "provision_ref": "art91",
+      "section": "91",
+      "title": "Art. 91",
+      "content": "Jeżeli prawo do świadczeń zostało udowodnione, ale zainteresowany nie przedłożył dowodów niezbędnych do ustalenia wysokości świadczeń, organ rentowy przyznaje zainteresowanemu świadczenia w kwocie zaliczkowej zbliżonej do kwoty przewidywanych świadczeń."
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Art. 92",
+      "content": "1. Wyciągi z akt stanu cywilnego, zaświadczenia wydawane w celu ustalenia uprawnień do świadczeń oraz pisma o wydanie tych dokumentów są wolne od opłat. 2. W sprawach świadczeń przewidzianych w ustawie osoby zainteresowane i organy rentowe są zwolnione od wszelkich opłat."
+    },
+    {
+      "provision_ref": "art93",
+      "section": "93",
+      "title": "Art. 93",
+      "content": "Organy administracji państwowej i zakłady pracy są obowiązane udzielać organom rentowym pomocy i informacji w sprawach świadczeń przewidzianych w ustawie."
+    },
+    {
+      "provision_ref": "art94",
+      "section": "94",
+      "title": "Art. 94",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa szczegółowy tryb postępowania w sprawach ustalania prawa do świadczeń pieniężnych przewidzianych w ustawie."
+    },
+    {
+      "provision_ref": "art95",
+      "section": "95",
+      "title": "Art. 95",
+      "content": "W postępowaniu w sprawach o świadczenia określone w ustawie stosuje się przepisy Kodeksu postępowania administracyjnego , chyba że niniejsza ustawa stanowi inaczej. Rozdział 2 Obowiązki zakładów pracy"
+    },
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "Art. 96",
+      "content": "1. Uspołecznione zakłady pracy są obowiązane do: 1) udzielania pracownikowi i pozostałym po nim członkom rodziny informacji o przysługujących im świadczeniach, 2) ustalania na podstawie posiadanej dokumentacji, nie później niż na 2 lata przed osiągnięciem przez pracownika wieku emerytalnego, czy ma on okres zatrudnienia wymagany do emerytury, i zawiadomienia pracownika o wyniku tych ustaleń, 3) współdziałania z pracownikiem w gromadzeniu dokumentacji o zatrudnieniu w poprzednich zakładach pracy, 4) wydawania zaświadczeń niezbędnych do ustalenia prawa do świadczeń i ich wysokości. 2. Uspołecznione zakłady pracy są obowiązane również do: 1) przygotowania wniosku o emeryturę i przedłożenia go organowi rentowemu nie później niż na 2 miesiące przed zamierzonym terminem przejścia pracownika na emeryturę, a jeżeli część okresu udowadniana jest zeznaniami świadków - nie później niż na 6 miesięcy przed tym terminem, 2) przygotowania, za zgodą pracownika, wniosku o rentę inwalidzką i przedłożenia go organowi rentowemu na 2 miesiące przed ustaniem prawa do zasiłków chorobowych, 3) poinformowania bezzwłocznie po śmierci pracownika pozostałej po nim rodziny o warunkach uzyskania renty rodzinnej, przygotowania wniosku o rentę i przedłożenia go organowi rentowemu. 3. W trakcie postępowania w sprawach o świadczenia zakłady pracy są obowiązane udzielać pracownikom i ich rodzinom niezbędnej pomocy."
+    },
+    {
+      "provision_ref": "art97",
+      "section": "97",
+      "title": "Art. 97",
+      "content": "1. Jeżeli wskutek niedopełnienia lub nienależytego dopełnienia przez zakład pracy obowiązków określonych w art. 96 ust. 1 i 2: 1) organ rentowy nie mógł wydać decyzji przyznającej emeryturę lub dokonać wypłaty świadczenia w kwocie zaliczkowej od dnia, w którym ustał stosunek pracy - zakład pracy jest zobowiązany na wniosek pracownika przedłużyć stosunek pracy na czas określony do chwili wydania tej decyzji, 2) pracownik lub pozostali po nim członkowie rodziny ponieśli szkodę - zakład pracy jest zobowiązany do wynagrodzenia tej szkody według przepisów prawa cywilnego. 2. Przepis ust. 1 nie ma zastosowania, jeżeli pracownik utrudnia postępowanie mające na celu ustalenie prawa do emerytury lub renty."
+    },
+    {
+      "provision_ref": "art98",
+      "section": "98",
+      "title": "Art. 98",
+      "content": "Rada Ministrów może nałożyć na zakłady pracy obowiązek udzielania pracownikom przechodzącym na emeryturę lub rentę oraz członkom rodzin pozostałym po pracownikach innych form pomocy niż określone w art. 96. Rozdział 3 Ogólne zasady wypłaty świadczeń"
+    },
+    {
+      "provision_ref": "art99",
+      "section": "99",
+      "title": "Art. 99",
+      "content": "Świadczenia wypłaca się poczynając od dnia powstania prawa do tych świadczeń, jednak za okres nie dłuższy niż 3 miesiące kalendarzowe poprzedzające miesiąc, w którym zgłoszono wniosek lub wydano decyzję z urzędu."
+    },
+    {
+      "provision_ref": "art100",
+      "section": "100",
+      "title": "Art. 100",
+      "content": "1. Świadczenia wypłaca się za miesiące kalendarzowe w dniu ustalonym w decyzji organu rentowego jako termin płatności świadczeń. 2. Świadczenia wypłaca się do rąk osoby uprawnionej za pośrednictwem poczty lub na wniosek tej osoby na jej rachunek w powszechnej kasie oszczędności."
+    },
+    {
+      "provision_ref": "art101",
+      "section": "101",
+      "title": "Art. 101",
+      "content": "1. W razie ponownego ustalenia przez organ rentowy prawa do świadczeń lub ich wysokości, przyznane lub podwyższone świadczenia wypłaca się poczynając od miesiąca, w którym powstało prawo do tych świadczeń lub do ich podwyższenia, jednak za okres nie dłuższy niż: 1) 3 miesiące kalendarzowe poprzedzające miesiąc, w którym zgłoszono wniosek o ponowne rozpatrzenie sprawy lub wydano decyzję z urzędu, 2) 3 lata wstecz, licząc od miesiąca, o którym mowa w pkt 1, jeżeli odmowa lub przyznanie niższych świadczeń były następstwem błędu organu rentowego lub odwoławczego. 2. Przepis ust. 1 stosuje się również w razie ponownego ustalenia prawa do świadczeń lub ich wysokości wskutek wznowienia postępowania przed organami odwoławczymi albo wskutek rewizji nadzwyczajnej, z tym że okres 3 miesięcy lub 3 lat liczy się od miesiąca wniesienia wniosku o wznowienie postępowania lub o złożenie rewizji nadzwyczajnej."
+    },
+    {
+      "provision_ref": "art102",
+      "section": "102",
+      "title": "Art. 102",
+      "content": "1. Wypłatę świadczeń wstrzymuje się, jeżeli: 1) powstaną okoliczności uzasadniające zawieszenie prawa do świadczeń lub ustanie tego prawa, 2) osoba pobierająca świadczenia mimo pouczenia lub żądania organu rentowego nie przedłoży dowodów stwierdzających dalsze istnienie prawa do świadczeni 3) osoba uprawniona do świadczeń nie poddała się badaniu lekarskiemu bez uzasadnionych przyczyn, mimo wezwania organu rentowego, 4) okaże się, że prawo do świadczeń nie istniało, 5) świadczenia nie mogą być doręczone z przyczyn niezależnych od organu rentowego. 2. Wstrzymanie wypłaty świadczeń następuje poczynając od miesiąca: 1) przypadającego po miesiącu, w którym organ rentowy wydał decyzję o wstrzymaniu wypłaty w wypadkach, o których mowa w ust. 1 pkt 1-4, 2) za który przysługiwało świadczenie nie doręczone w wypadkach, o których mowa w ust. 1 pkt 5. 3. Przepis ust. 2 pkt 1 stosuje się odpowiednio, jeżeli powstaną okoliczności uzasadniające zmniejszenie wysokości świadczeń."
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Art. 103",
+      "content": "1. W razie ustania przyczyny powodującej wstrzymanie wypłaty świadczenia, wypłatę wznawia się od miesiąca ustania tej przyczyny, jednak za okres nie dłuższy niż 3 miesiące kalendarzowe wstecz od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano z urzędu decyzję o jej wznowieniu. Przepis art. 84 ust. 4 stosuje się odpowiednio. 2. Jeżeli wstrzymanie wypłaty świadczeń nastąpiło na skutek błędu organu rentowego, wypłatę wznawia się poczynając od miesiąca, w którym je wstrzymano, jednak za okres nie dłuższy niż 3 lata wstecz licząc od miesiąca, w którym zgłoszono wniosek o wznowienie wypłaty lub wydano decyzję z urzędu o jej wznowieniu."
+    },
+    {
+      "provision_ref": "art104",
+      "section": "104",
+      "title": "Art. 104",
+      "content": "1. W razie śmierci osoby, która zgłosiła wniosek o świadczenia określone ustawą, świadczenia należne jej do dnia śmierci wypłaca się małżonkowi i dzieciom, z którymi prowadziła wspólne gospodarstwo domowe, a w razie ich braku - małżonkowi i dzieciom, z którymi osoba ta nie prowadziła wspólnego gospodarstwa domowego, oraz innym członkom rodziny uprawnionym do renty rodzinnej lub na których utrzymaniu pozostawała ta osoba. 2. Osoby wymienione w ust. 1 mają prawo do udziału w dalszym prowadzeniu postępowania o świadczenia, nie ukończonego wskutek śmierci osoby, która o te świadczenia wystąpiła. 3. Roszczenia o wypłatę świadczeń, o których mowa w ust. 1, wygasają po upływie 12 miesięcy od śmierci osoby, której świadczenia przysługiwały, chyba że przed upływem tego okresu zgłoszony zostanie wniosek o dalsze prowadzenie postępowania."
+    },
+    {
+      "provision_ref": "art105",
+      "section": "105",
+      "title": "Art. 105",
+      "content": "Rada Ministrów, w drodze rozporządzenia, określa szczegółowe zasady wypłaty świadczeń. Rozdział 4 Zwrot nienależnych świadczeń, potrącenia i egzekucja ze świadczeń"
+    },
+    {
+      "provision_ref": "art106",
+      "section": "106",
+      "title": "Art. 106",
+      "content": "1. Osoba, która pobrała nienależne jej świadczenia, jest obowiązana do ich zwrotu. 2. Za kwoty nienależnie pobranych świadczeń w rozumieniu ust. 1 uważa się: 1) świadczenia wypłacone mimo zaistnienia okoliczności powodujących ustanie lub zawieszenie prawa do świadczeń albo wstrzymanie wypłaty świadczeń w całości lub w części, jeżeli osoba pobierająca świadczenia była pouczona o braku prawa do ich pobierania, 2) świadczenia przyznane lub wypłacone na podstawie nieprawdziwych zeznań lub dokumentów albo w innych wypadkach świadomego wprowadzenia w błąd przez osobę pobierającą świadczenia. 3. Nie można żądać zwrotu kwot nienależnie pobranych świadczeń za okres dłuższy niż 12 miesięcy, jeżeli osoba pobierająca świadczenia zawiadomiła organ rentowy o zajściu okoliczności powodujących ustanie lub zawieszenie prawa do świadczeń albo wstrzymanie wypłaty świadczeń, a mimo to świadczenia były jej nadal wypłacane, w pozostałych zaś wypadkach - za okres dłuższy niż 3 lata. 4. Organ rentowy może odstąpić od żądania zwrotu kwot nienależnie pobranych świadczeń w całości lub w części, jeżeli zachodzą szczególnie uzasadnione okoliczności."
+    },
+    {
+      "provision_ref": "art107",
+      "section": "107",
+      "title": "Art. 107",
+      "content": "1. Organ rentowy może potrącić ze świadczeń pieniężnych określonych w ustawie następujące należności: 1) świadczenia wypłacane w kwocie zaliczkowej, 2) zasiłki wypłacane z tytułu pomocy społecznej, jeżeli przy wypłacie zastrzeżono ich potrącanie, 3) kwoty nienależnie pobranych emerytur, rent i innych świadczeń z ubezpieczenia społecznego oraz funduszu alimentacyjnego, 4) koszty utrzymania osób uprawnionych do świadczeń w domu pomocy społecznej, w zakładach lecznictwa stacjonarnego oraz koszty wyżywienia takich osób w zakładach szkolenia inwalidów. 2. Poza należnościami wymienionymi w ust. 1 ze świadczeń pieniężnych potrąceniu podlegają świadczenia alimentacyjne, z wyjątkiem wypadków, gdy: 1) świadczenia alimentacyjne mają być potrącane na rzecz kilku wierzycieli, a łączna suma, która może być potrącona, nie wystarcza na pełne pokrycie wszystkich należności alimentacyjnych, 2) świadczenie pieniężne zostało zajęte w trybie egzekucji sądowej lub administracyjnej. Potrącenia świadczeń alimentacyjnych organ rentowy dokonuje na wniosek wierzyciela na podstawie przedłożonego przez niego tytułu wykonawczego. 3. Świadczenia alimentacyjne potrąca się w pierwszej kolejności, a należności wymienione w ust. 1 - w kolejności podanej w tym przepisie."
+    },
+    {
+      "provision_ref": "art108",
+      "section": "108",
+      "title": "Art. 108",
+      "content": "1. Potrącenia nie mogą przekraczać: 1) trzech piątych miesięcznego świadczenia - jeżeli potrąceniu podlegają należności alimentacyjne, 2) połowy miesięcznego świadczenia - jeżeli potrąceniu podlegają należności, o których mowa w art. 107 ust. 1 pkt 1-3, 3) trzech czwartych świadczenia - jeżeli potrąceniu podlegają kwoty na koszty utrzymania osób uprawnionych do świadczeń w domu pomocy społecznej. 2. Potrącenia świadczeń alimentacyjnych, łącznie z potrąceniami świadczeń wymienionych w art. 107 ust. 1 pkt 1-3. nie mogą przekraczać trzech piątych miesięcznego świadczenia pieniężnego."
+    },
+    {
+      "provision_ref": "art109",
+      "section": "109",
+      "title": "Art. 109",
+      "content": "1. Świadczenia pieniężne podlegają egzekucji na zaspokojenie świadczeń alimentacyjnych w trzech piątych częściach, a na zaspokojenie innych należności - w jednej czwartej. 2. W razie zbiegu egzekucji należności alimentacyjnych z egzekucją innych należności świadczenia pieniężne podlegają egzekucji w trzech piątych częściach. 3. Poza tym do egzekucji ze świadczeń pieniężnych stosuje się przepisy Kodeksu postępowania cywilnego albo przepisy o postępowaniu egzekucyjnym w administracji"
+    },
+    {
+      "provision_ref": "art110",
+      "section": "110",
+      "title": "Art. 110",
+      "content": "1. Rada Ministrów, w drodze rozporządzenia, określa kwoty świadczeń pieniężnych wolne od potrąceń i egzekucji. 2. Minister Pracy, Płac i Spraw Socjalnych w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, w drodze rozporządzenia, określa szczegółowe zasady dokonywania potrąceń, o których mowa w art. 107 ust. 1 pkt 4."
+    },
+    {
+      "provision_ref": "art111",
+      "section": "111",
+      "title": "Art. 111",
+      "content": "W razie przyznania świadczeń za okres wsteczny organ rentowy ma prawo potrącić na zaspokojenie należności, o których mowa w art. 107 ust. 1, całą kwotę przypadającą od dnia powstania prawa do świadczeń do dnia wydania decyzji ustalającej to prawo."
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Art. 112",
+      "content": "Od osób nie uprawnionych do dalszego pobierania świadczeń określonych w ustawie kwoty nienależnie pobranych świadczeń, o których mowa w art. 106 ust. 2, podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji, na podstawie ostatecznej decyzji organu rentowego. Dział VII Przepisy przejściowe i końcowe Rozdział 1 Przepisy przejściowe"
+    },
+    {
+      "provision_ref": "art113",
+      "section": "113",
+      "title": "Art. 113",
+      "content": "Użyte w niniejszym dziale określenie „przepisy dotychczasowe” oznacza ustawę z dnia 23 stycznia 1968 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin ( Dz. U. Nr 3, poz. 6 , z 1972 r. Nr 16, poz. 114 i Nr 53, poz. 341 , z 1973 r. Nr 38, poz. 225 , z 1974 r. Nr 21, poz. 116 i 117 , Nr 47, poz. 280 i Nr 50, poz. 321 , z 1975 r. Nr 45, poz. 232 , z 1976 r. Nr 40, poz. 235 , z 1977 r. Nr 11, poz. 43 , z 1981 r. Nr 20, poz. 100 i z 1982 r. Nr 7, poz. 62 ) ."
+    },
+    {
+      "provision_ref": "art114",
+      "section": "114",
+      "title": "Art. 114",
+      "content": "Ilekroć inne przepisy odsyłają do ustawy, o której mowa w art. 113, stosuje się odpowiednio przepisy niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art115",
+      "section": "115",
+      "title": "Art. 115",
+      "content": "1. Przepisy ustawy stosuje się do wniosków o świadczenia, zgłoszonych poczynając od dnia jej wejścia w życie, przy czym także na podstawie przepisów ustawy ustala się wysokość świadczeń przysługujących za okres przed dniem jej wejścia w życie. 2. Przepisy ustawy stosuje się również do wniosków o świadczenia, zgłoszonych przed dniem jej wejścia w życie, jeżeli choćby jeden z warunków do przyznania świadczeń został spełniony po tym dniu. 3. Przy ustalaniu składników wynagrodzenia wchodzących do podstawy wymiaru emerytury lub renty na podstawie zarobków osiągniętych przed dniem wejścia w życie ustawy stosuje się w tym zakresie przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art116",
+      "section": "116",
+      "title": "Art. 116",
+      "content": "Do wniosków zgłoszonych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe, z uwzględnieniem art. 115 ust. 2 i art. 121."
+    },
+    {
+      "provision_ref": "art117",
+      "section": "117",
+      "title": "Art. 117",
+      "content": "Rozpatrzeniu na podstawie ustawy podlegają wnioski: 1) osób, które nie odpowiadały warunkom wymaganym do uzyskania prawa do emerytury lub renty na podstawie przepisów dotychczasowych, jeżeli osoby te odpowiadają warunkom do uzyskania świadczeń na podstawie ustawy, 2) osób, które przedłożyły nowe dowody mające wpływ na prawo do świadczeń lub ich wysokość."
+    },
+    {
+      "provision_ref": "art118",
+      "section": "118",
+      "title": "Art. 118",
+      "content": "Minister Pracy, Płac i Spraw Socjalnych, w drodze rozporządzenia, określa dostosowanie przepisów dotyczących zasiłków rodzinnych przysługujących pracownikom do dodatków rodzinnych do emerytur i rent wypłacanych w dniu wejścia w życie ustawy."
+    },
+    {
+      "provision_ref": "art119",
+      "section": "119",
+      "title": "Art. 119",
+      "content": "Wznowienie wypłaty renty rodzinnej, do której prawo zostało zawieszone z powodu zawarcia związku małżeńskiego przed dniem wejścia w życie ustawy, następuje na wniosek osoby zainteresowanej."
+    },
+    {
+      "provision_ref": "art120",
+      "section": "120",
+      "title": "Art. 120",
+      "content": "Zasiłek pogrzebowy w wysokości określonej w ustawie przysługuje, jeżeli śmierć emeryta lub rencisty albo członka jego rodziny nastąpiła po dniu wejścia w życie ustawy. Jeżeli śmierć nastąpiła przed dniem wejścia w życie ustawy, wysokość zasiłku ustala się na podstawie przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art121",
+      "section": "121",
+      "title": "Art. 121",
+      "content": "Osobom pobierającym w dniu wejścia w życie ustawy emerytury, renty inwalidzkie i renty rodzinne na podstawie przepisów dotychczasowych przyznaje się - zamiast tych świadczeń - odpowiednio emerytury i renty określone w ustawie, przy zastosowaniu zasad określonych w art. 122-125."
+    },
+    {
+      "provision_ref": "art122",
+      "section": "122",
+      "title": "Art. 122",
+      "content": "1. Emerytury i renty, o których mowa w art. 121, ustala się od dotychczasowej podstawy wymiaru, z uwzględnieniem ust. 2-4. 2. Podstawę wymiaru emerytur i rent przyznanych do dnia 31 grudnia 1981 r. zwiększa się - niezależnie od zwiększenia określonego w ust. 3 i 4 - w następujący sposób: Rok przyznania emerytury lub renty Procent, o który ulega zwiększeniu podstawa wymiaru Minimalna kwota zwiększenia podstawy wymiaru w zł Maksymalna kwota zwiększenia podstawy wymiaru w zł do 1960 511 3500 7000 1961-1965 382 3350 6700 1966-1970 302 3150 6300 1971 257 3050 6100 1972 236 2950 5800 1973 201 2800 5600 1974 164 2600 5200 1975 123 2300 4600 1976 105 2150 4300 1977 90 2000 4000 1978 80 1850 3700 1979 65 1650 3300 1980 46 1300 2600 1981 15 550 1100 3. Podstawą wymiaru emerytur i rent przyznanych do dnia 31 grudnia 1982 r. zwiększa się o kwotę rekompensat z tytułu podwyżek cen, które pobierał emeryt lub rencista w ostatnim miesiącu przed dniem wejścia w życie ustawy, z tym że podstawę wymiaru renty rodzinnej zwiększa się o kwotę rekompensat przysługujących jednej osobie. 4. Zwiększenie emerytury lub renty z tytułu okresów zatrudnienia w Polsce Ludowej oblicza się z uwzględnieniem art. 29 ust. 2, art. 35 ust. 2 oraz art. 44 ust. 3. Jeżeli do emerytury przysługiwał wzrost w wysokości 5% emerytury, wprowadzony na podstawie art. 118 ustawy, o której mowa w art. 113 - zwiększa się ją o 5% podstawy wymiaru ustalonej w myśl ust. 2 i 3. 5. Przy ustalaniu zwiększenia podstawy wymiaru emerytury lub renty: 1) za rok przyznania emerytury lub renty inwalidzkiej uważa się rok kalendarzowy, w którym przypada termin, od jakiego ustalono prawo do świadczenia, a jeżeli świadczenie to uległo ponownemu ustaleniu na podstawie wyższych zarobków - ostatni rok kalendarzowy, w którym osiągnięto te zarobki, 2) za rok przyznania emerytury zamiast renty inwalidzkiej uważa się rok kalendarzowy, w którym przyznana była renta inwalidzka, ustalony zgodnie z pkt 1, jeżeli za podstawę wymiaru emerytury przyjęto podstawę wymiaru renty inwalidzkiej, 3) za rok przyznania renty rodzinnej uważa się rok kalendarzowy, w którym nastąpiła śmierć osoby, po której przyznano tę rentę, a jeżeli przyznano ją po osobie pobierającej emeryturę lub rentę inwalidzką - rok przyznania tych świadczeń, ustalony zgodnie z pkt 1 i 2."
+    },
+    {
+      "provision_ref": "art123",
+      "section": "123",
+      "title": "Art. 123",
+      "content": "1. Kwoty podwyżki świadczeń wynikająca z różnic między miesięczną kwotą świadczeń ustalonych w myśl art. 122 a miesięczną kwotą świadczeń przysługujących w dniu 31 grudnia 1982 r. realizuje się - z uwzględnieniem ust. 2 i 3 oraz art. 122 ust. 5 - według następujących zasad: 1) emerytury i renty dla osób, które osiągnęły lub osiągną wiek 75 lat do dnia 31 grudnia 1983 r. albo są inwalidami I grupy - zwiększa się o pełną kwotę podwyżki od dnia 1 stycznia 1983 r., 2) emerytury i renty dla osób nie wymienionych w pkt 1, którym świadczenia przyznane zostały w okresie od dnia 1 stycznia 1979 r. do dnia 31 grudnia 1981 r. - zwiększa się od dnia 1 stycznia 1983 r. o kwotę odpowiadającą rekompensatom z tytułu podwyżki cen, które emeryt lub rencista pobierał w ostatnim miesiącu przed dniem wejścia w życie ustawy, a pozostałą część podwyżki w dwóch równych ratach poczynając od dnia 1 stycznia 1984 r. oraz od dnia 1 stycznia 1985 r., 3) emerytury i renty dla osób nie wymienionych w pkt 1, którym świadczenia przyznane zostały w okresie od dnia 1 stycznia 1982 r. do dnia 31 grudnia 1982 r. - zwiększa się według zasad określonych w pkt 2, 4) emerytury i renty dla osób nie wymienionych w pkt 1-3 zwiększa się od dnia 1 stycznia 1983 r. o kwotę odpowiadającą rekompensatom z tytułu podwyżki cen, które emeryt lub rencista pobierał w ostatnim miesiącu przed dniem wejścia w życie ustawy, a pozostałą część podwyżki wypłaca się w trzech równych ratach poczynając od dnia 1 stycznia 1983 r., a następnie od dnia 1 stycznia 1984 r. oraz od dnia 1 stycznia 1985 r. 2. Nie przenosi się na rok następny ostatniej części podwyżki, jeżeli nie przekracza ona 100 zł. 3. Podwyżki dodatków pielęgnacyjnych oraz dodatków dla sierot zupełnych realizuje się w całości od dnia 1 stycznia 1983 r."
+    },
+    {
+      "provision_ref": "art124",
+      "section": "124",
+      "title": "Art. 124",
+      "content": "Jeżeli kwota świadczeń ustalona w myśl art. 122 i 123 byłaby - bez uwzględnienia dodatków rodzinnych i dodatku pielęgnacyjnego oraz dodatku dla sierot zupełnych - niższa od: 1) kwoty przysługującej, bez uwzględnienia tych dodatków, w dniu 31 grudnia 1982 r. - świadczenie wypłaca się nadal w dotychczasowej wysokości, 2) kwoty odpowiedniego świadczenia w najniższej wysokości ustalonej stosownie do art. 67 na rok 1983 - świadczenie podwyższa się do tej kwoty."
+    },
+    {
+      "provision_ref": "art125",
+      "section": "125",
+      "title": "Art. 125",
+      "content": "1. Przyznanie emerytur i rent określonych w ustawie zamiast odpowiednich świadczeń przysługujących na podstawie dotychczasowych przepisów następuje z urzędu, a jeżeli prawo do świadczeń było zawieszone - na wniosek osoby zainteresowanej. 2. Przyznanie z urzędu emerytur i rent w wysokościach wynikających z przepisów ustawy oraz wypłata różnicy należności za okres od dnia 1 stycznia 1983 r. nastąpi nie później niż do dnia 30 czerwca 1983 r. 3. Przy przyznawaniu świadczeń, o których mowa w ust. 1, uwzględnia się na wniosek osoby zainteresowanej wzrost emerytury lub renty z tytułu stażu pracy w Polsce Ludowej oraz z tytułu zatrudnienia w szczególnych warunkach lub o szczególnym charakterze, jeżeli wzrost lub dodatek z tego tytułu nie przysługiwał przed dniem wejścia w życie ustawy lub przysługiwał w innej wysokości."
+    },
+    {
+      "provision_ref": "art126",
+      "section": "126",
+      "title": "Art. 126",
+      "content": "Osobie pobierającej w dniu wejścia w życie niniejszej ustawy inwalidzką rentę wyrównawczą na podstawie art. 28 albo rentę chorobową na podstawie art. 29a ustawy, o której mowa w art. 113, renty te wypłaca się na zasadach i w wysokości określonych w przepisach dotychczasowych."
+    },
+    {
+      "provision_ref": "art127",
+      "section": "127",
+      "title": "Art. 127",
+      "content": "1. Osobę pobierającą w dniu wejścia w życie niniejszej ustawy rentę wypadkową przewidzianą w art. 111 ust. 1 ustawy, o której mowa w art. 113, poddaje się z urzędu badaniu przez komisję lekarską do spraw inwalidztwa i zatrudnienia, nie później niż w ciągu 3 miesięcy od dnia wejścia w życie niniejszej ustawy. 2. Jeżeli w wyniku badania lekarskiego osoba, o której mowa w ust. 1, zaliczona zostanie do jednej z grup inwalidów z tytułu inwalidztwa pozostającego w związku z wypadkiem, przyznaje się jej zamiast renty dotychczas pobieranej rentę inwalidzką na zasadach i w wysokości określonych w przepisach o świadczeniach z tytułu wypadków przy pracy i chorób zawodowych, a jeżeli nie zostanie zaliczona do żadnej z grup inwalidów z tytułu inwalidztwa pozostającego w związku z wypadkiem, lecz do I lub II grupy inwalidów z innych przyczyn niż wypadek przy pracy - przyznaje się zamiast renty dotychczas pobieranej rentę inwalidzką w wysokości przewidzianej dla III grupy inwalidów z tytułu wypadków przy pracy i chorób zawodowych. 3. Podstawę wymiaru renty inwalidzkiej, o której mowa w ust. 2, stanowi półtorakrotne najniższe wynagrodzenie obowiązujące w dniu wejścia w życie ustawy. 4. Jeżeli osoba, o której mowa w ust. 1, nie zostanie zaliczona do I lub II grupy inwalidzkiej albo do III grupy z tytułu wypadku przy pracy lub nie poddała się badaniu lekarskiemu, przyznaje się zamiast dotychczas pobieranej renty jednorazową odprawę odpowiadającą kwocie tej renty za okres 10 lat. 5. Osobie, o której mowa w ust. 4, przysługuje prawo do świadczeń leczniczych."
+    },
+    {
+      "provision_ref": "art128",
+      "section": "128",
+      "title": "Art. 128",
+      "content": "1. Pracownikom, którym w myśl § 4 rozporządzenia Rady Ministrów z dnia 17 lipca 1981 r. w sprawie szczególnych zasad przechodzenia na emeryturę pracowników uspołecznionych zakładów pracy w okresie do dnia 31 grudnia 1981 r. ( Dz. U. Nr 19, poz. 95 i Nr 28, poz. 145 oraz z 1982 r. Nr 25, poz. 177 ) zapewniono otrzymywanie emerytury po osiągnięciu obowiązującego wieku emerytalnego, nawet jeżeli wiek ten osiągnęli po upływie 5 lat od ustania zatrudnienia, przysługuje emerytura określona w ustawie z chwilą osiągnięcia określonego w niej wieku emerytalnego. 2. Emeryturę, o której mowa w ust. 1, ustaloną na zasadach ogólnych zwiększa się w dniu jej przyznania o kwotę, o jaką wzrosła przeciętna emerytura w okresie od roku ustania zatrudnienia do roku poprzedzającego rok uzyskania prawa do emerytury. 3. Przepisów ust. 1 i 2 nie stosuje się w razie ponownego podjęcia zatrudnienia w ramach stosunku pracy w uspołecznionym zakładzie pracy przed uzyskaniem wieku emerytalnego."
+    },
+    {
+      "provision_ref": "art129",
+      "section": "129",
+      "title": "Art. 129",
+      "content": "Do emerytur i rent przyznanych w myśl niniejszej ustawy nie przysługują dotychczas wypłacane rekompensaty z tytułu podwyżek cen. Rozdział 2 Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art130",
+      "section": "130",
+      "title": "Art. 130",
+      "content": "1. Tracą moc: 1) ustawa z dnia 23 stycznia 1968 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin ( Dz. U. Nr 3, poz. 6 , z 1972 r. Nr 16, poz. 114 i Nr 53, poz. 341 , z 1973 r. Nr 38, poz. 225 , z 1974 r. Nr 21, poz. 116 i 117 , Nr 47, poz. 280 i Nr 50, poz. 321 , z 1975 r. Nr 45, poz. 232 , z 1976 r. Nr 40, poz. 235 , z 1977 r. Nr 11, poz. 43 , z 1981 r. Nr 20, poz. 100 i z 1982 r. Nr 7, poz. 62 ) , 2) ustawa z dnia 31 marca 1977 r. o dalszym zwiększeniu emerytur i rent oraz o zmianie niektórych przepisów o zaopatrzeniu emerytalnym ( Dz. U. Nr 11, poz. 43 ) - w zakresie unormowanym niniejszą ustawą. 2. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie pozostają w mocy przepisy aktów wykonawczych wydane na podstawie ustawy wymienionej w ust. 1 pkt 1, jeżeli nie są sprzeczne z postanowieniami niniejszej ustawy. 3. Pozostaje w mocy rozporządzenie Rady Ministrów z dnia 17 lipca 1981 r. w sprawie szczególnych zasad przechodzenia na emeryturę pracowników uspołecznionych zakładów pracy w okresie do dnia 31 grudnia 1981 r. ( Dz. U. Nr 19, poz. 95 i Nr 28, poz. 145 oraz z 1982 r. Nr 25, poz. 177 ) ."
+    },
+    {
+      "provision_ref": "art131",
+      "section": "131",
+      "title": "Art. 131",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1983 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I - Przepisy ogólne\",\"children\": [{\"id\": \"bran_I-chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Zakres podmiotowy ustawy\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-chpt_1-arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_3-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_3-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_3-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-chpt_1-arti_3-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_I-chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_I-chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"bran_I-chpt_1-arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_1-arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_1-arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_1-arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_1-arti_5-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"bran_I-chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Zakres świadczeń\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_I-chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_7-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_2-arti_7-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_2-arti_7-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"bran_I-chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_2-arti_8-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_2-arti_8-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_2-arti_8-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-chpt_2-arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"bran_I-chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Okresy zatrudnienia\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"bran_I-chpt_3-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_3-arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"bran_I-chpt_3-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_11-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_11\",\"symbol\": \"pint_11\",\"type\": \"pint\",\"name\": \"11\",\"title\": \"11)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_12\",\"symbol\": \"pint_12\",\"type\": \"pint\",\"name\": \"12\",\"title\": \"12)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_13\",\"symbol\": \"pint_13\",\"type\": \"pint\",\"name\": \"13\",\"title\": \"13)\"},{\"id\": \"bran_I-chpt_3-arti_11-pass_2-pint_14\",\"symbol\": \"pint_14\",\"type\": \"pint\",\"name\": \"14\",\"title\": \"14)\"}]},{\"id\": \"bran_I-chpt_3-arti_11-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_I-chpt_3-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_3-arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_12-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_3-arti_12-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_12-pass_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"bran_I-chpt_3-arti_12-pass_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"bran_I-chpt_3-arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"bran_I-chpt_3-arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_I-chpt_3-arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"bran_I-chpt_3-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_13-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_13-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"bran_I-chpt_3-arti_13-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"bran_I-chpt_3-arti_13-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_6\",\"symbol\": \"pass_6\",\"type\": \"pass\",\"name\": \"6\",\"title\": \"6.\"},{\"id\": \"bran_I-chpt_3-arti_13-pass_7\",\"symbol\": \"pass_7\",\"type\": \"pass\",\"name\": \"7\",\"title\": \"7.\"}]},{\"id\": \"bran_I-chpt_3-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_I-chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"}]},{\"id\": \"bran_I-chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Podstawa wymiaru świadczeń\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_4-arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_16-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_4-arti_16-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-chpt_4-arti_16-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_16-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_4-arti_16-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-chpt_4-arti_16-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"bran_I-chpt_4-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_17-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"bran_I-chpt_4-arti_17-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"bran_I-chpt_4-arti_17-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-chpt_4-arti_17-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-chpt_4-arti_17-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"bran_I-chpt_4-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"bran_I-chpt_4-arti_19\",\"symbol\": \"arti_19\",\"type"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "pracownik",
+      "definition": "osobę pozostającą w stosunku pracy w myśl Kodeksu pracy , 2) zatrudnienie - wykonywanie pracy w ramach stosunku pracy, 3) renta - rentę inwalidzką i rentę rodzinną, 4) emeryt - osobę mającą ustalone prawo do emerytury, 5) rencista - osobę mającą ustalone prawo do renty, 6) najniższe wynagrodzenie - najniższe wynagrodzenie pracowników jednostek gospodarki uspołecznionej za pełny miesięczny wymiar czasu pracy. Rozdział 2 Zakres świadczeń",
+      "source_provision": "art5"
+    }
+  ]
+}

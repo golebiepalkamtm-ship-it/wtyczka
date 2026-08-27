@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2019-1543",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 lipca 2019 r. o zmianie ustawy - Kodeks spółek handlowych",
+  "title_en": "",
+  "short_name": "pl-du-2019-1543",
+  "status": "amended",
+  "issued_date": "2019-07-19",
+  "in_force_date": "2019-08-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2019/1543",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 15 września 2000 r. - Kodeks spółek handlowych ( Dz. U. z 2019 r. poz. 505 ) wprowadza się następujące zmiany: 1) po art. 234 dodaje się art. 234 1 w brzmieniu: „ Art. 234 1 . § 1. Umowa spółki może dopuszczać udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, co obejmuje w szczególności: 1) transmisję obrad zgromadzenia wspólników w czasie rzeczywistym; 2) dwustronną komunikację w czasie rzeczywistym, w ramach której wspólnicy mogą wypowiadać się w toku obrad zgromadzenia wspólników, przebywając w miejscu innym niż miejsce obrad zgromadzenia wspólników; 3) wykonywanie osobiście lub przez pełnomocnika prawa głosu przed lub w toku zgromadzenia wspólników. § 2. W przypadku gdy umowa spółki dopuszcza udział w zgromadzeniu wspólników przy wykorzystaniu środków komunikacji elektronicznej, udział wspólników w zgromadzeniu wspólników może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji wspólników i zapewnienia bezpieczeństwa komunikacji elektronicznej. ” ; 2) w art. 248 § 2 otrzymuje brzmienie: „ § 2. W protokole należy stwierdzić prawidłowość zwołania zgromadzenia wspólników i jego zdolność do powzięcia uchwał, wymienić powzięte uchwały, liczbę głosów oddanych za każdą uchwałą i zgłoszone sprzeciwy. Do protokołu należy dołączyć listę obecności z podpisami uczestników zgromadzenia wspólników oraz listę wspólników głosujących przy wykorzystaniu środków komunikacji elektronicznej. Podpisy uczestników zgromadzenia wspólników odbytego w trybie art. 234 1 nie są wymagane. Dowody zwołania zgromadzenia wspólników zarząd powinien dołączyć do księgi protokołów. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

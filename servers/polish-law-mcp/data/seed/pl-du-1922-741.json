@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1922-741",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 września 1922 r. w przedmiocie wypuszczenia 8% państwowej pożyczki złotej z 1922 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-741",
+  "status": "in_force",
+  "issued_date": "1922-09-26",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/741",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia 8% państwowej pożyczki złotej z 5-cioletnim od daty wypuszczenia terminem spłaty. Wysokość każdorazowej emisji określi Rada Ministrów na wniosek Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obligacje pożyczki złotej są wypuszczane w odcinkach, opiewających częściowo na złote polskie (ustawa z dnia 28 lutego 1919 r. Dz. P. P. P. № 20, poz. 230 oraz ustawa z dnia 26 września 1922 r. Dz. U. R. P. № 83, poz. 740), częściowo na marki polskie. Sumę nominalną i stosunek odcinków, jak również warunki emisji ustali Minister Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "8% państwowa pożyczka złota zabezpiecza się całym zapasem kruszcowym Polskiej Krajowej Kasy Pożyczkowej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Procenty od pożyczki w wysokości 8 od sta płatne są za każde półrocze z dołu w dniu 1 października i 1 kwietnia każdego roku, przyczem procenty, przypadające od części obligacji, opiewających na złote polskie, płatne są w dolarach Stanów Zjednoczonych Ameryki Północnej, lub w frankach szwajcarskich według stosunku, odpowiadającego równi walutowej każdej z tych walut do złotego polskiego, lub też w markach polskich podług kursu przeciętnego na giełdzie warszawskiej wspomnianych walut z ostatniego miesiąca przed terminem płatności kuponów. Wybór waluty płatności przysługuje Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Po upływie wskazanego w art. 1 terminu 8% państwowa pożyczka złota spłacona będzie po cenie nominalnej, przyczem części obligacji, opiewające na złote polskie, spłacone będą w dolarach Stanów Zjednoczonych Ameryki Północne lub frankach szwajcarskich według stosunku, odpowiadającego równi walutowej każdej z tych walut do złotego polskiego, lub też w markach polskich podług kursu przeciętnego na giełdzie warszawskiej wspomnianych walut w ostatnim miesiącu przed terminem płatności. Wybór waluty płatności przysługuje Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ministrowi Skarbu przysługuje prawo wykupu pożyczki w terminie wcześniejszym od wskazanego w art. 1 za wypowiedzeniem 6-ciomiesięcznem, jednak nie wcześniej niż po upływie 3 lat od daty emisji."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje 8% państwowej pożyczki złotej mogą być przedstawione do spłaty w ciągu lat 30, począwszy od dnia upływu terminu, przewidzianego w art. 1. Kupony mogą być przedstawione do spłaty w przeciągu lat 5 od dnia ich płatności. Obligacje i kupony, nie przedstawione do spłaty w powyższych terminach, ulegają przedawnieniu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Kupony od obligacji 8% państwowej pożyczki złotej wolne są od podatków od kapitałów i rent i będą przyjmowane przy uiszczaniu ceł, podatków i opłat państwowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Obligacje 6% państwowej pożyczki złotej z roku 1922 mają wszelkie prawa papierów, posiadających bezpieczeństwo pupilarne, i będą przyjmowane jako wadja przy licytacjach, kaucje akcyzowe i celne, kaucje przy zawieraniu kontraktów ze Skarbem Państwa oraz kaucje, składane do depozytów wszelkich instytucji rządowych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1985-13",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1985 r. o ustanowieniu tytułu honorowego \"Zasłużony Energetyk Polskiej Rzeczypospolitej Ludowej\".",
+  "title_en": "",
+  "short_name": "pl-du-1985-13",
+  "status": "repealed",
+  "issued_date": "1985-01-31",
+  "in_force_date": "1985-02-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1985/13",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustanawia się tytuł honorowy „Zasłużony Energetyk Polskiej Rzeczypospolitej Ludowej”. 2. Symbolem tytułu honorowego określonego w ust. 1 jest odznaka „Zasłużony Energetyk Polskiej Rzeczypospolitej Ludowej”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Tytuł honorowy „Zasłużony Energetyk Polskiej Rzeczypospolitej Ludowej” będzie nadawany najbardziej zasłużonym pracownikom odznaczonym orderami lub tytułami honorowymi, którzy wyróżnili się szczególnymi osiągnięciami w dziedzinie energetyki, a w szczególności opracowywaniem nowych rozwiązań technicznych i organizacyjnych, wprowadzaniem i upowszechnianiem ich w gospodarce narodowej oraz udziałem w doskonaleniu kadr pracowników energetyki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Tytuł honorowy „Zasłużony Energetyk Polskiej Rzeczypospolitej Ludowej” nadaje Rada Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Rada Państwa określa: 1) wzór odznaki tytułu honorowego, 2) tryb przedstawiania wniosku o nadanie tego tytułu, 3) tryb wręczania odznaki i dyplomu o nadaniu tytułu, 4) sposób noszenia odznaki tytułu honorowego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_4-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

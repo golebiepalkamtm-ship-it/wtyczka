@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1938-1",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 stycznia 1938 r. o konwersji 6,5% pożyczki zagranicznej.",
+  "title_en": "",
+  "short_name": "pl-du-1938-1",
+  "status": "in_force",
+  "issued_date": "1938-01-04",
+  "in_force_date": "1938-01-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/1",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Upoważnia się Ministra Skarbu do przeprowadzenia konwersji obligacyj 6 1 / 2 % pożyczki zagranicznej, wypuszczonych na podstawie art. 1 ustawy z dnia 26 stycznia 1931 r. ( Dz. U. R. P. Nr 9, poz. 46 ) w dolarach Stanów Zjednoczonych Ameryki w złocie, na obligacje w dolarach Stanów Zjednoczonych Ameryki, oprocentowane na 4 1 / 4 % w stosunku rocznym, i do wypuszczenia w tym celu takich obligacyj („The Republic of Poland 4 1 / 4 % Ex-ternal Secured Sinking Fund Dollar Bond Loan, due October 1,1965”). (2) Przeprowadzenie konwersji nastąpi na warunkach i w terminie, ustalonych w umowie lub w umowach, które Minister Skarbu zawrze 2 posiadaczami obligacyj 6 1 / 2 % pożyczki zagranicznej i z. dzierżawcą Państwowego Monopolu Zapałczanego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wysokość emisji pożyczki, wypuszczonej na podstawie art. 1 ust. (1) ustawy niniejszej, nie może być wyższa od nieumorzonej części 6 1 / 2 % pożyczki zagranicznej, wynoszącej 30.770.205,01 dolarów Stanów Zjednoczonych Ameryki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Wszystkie warunki emisji, ustalone dla 6 1 / 2 % pożyczki zagranicznej w umowach, zawartych przez Ministra Skarbu na podstawie art. 3 ustawy z dnia 26 stycznia 1931 r. ( Dz. U. R. P. Nr 9, poz. 46 ) , z wyłączeniem oprocentowania, wysokości rat amortyzacyjnych i waluty, stosuje się również do pożyczki, wypuszczonej na podstawie art. 1 ust. (1) ustawy niniejszej. W szczególności niezmienione zostają warunki, dotyczące zabezpieczenia pożyczki na wszelkich dochodach i wpływach, które Skarb Państwa otrzymuje od dzierżawcy Państwowego Monopolu Zapałczanego, terminów płatności rat odsetkowych i amortyzacyjnych oraz terminu spłaty pożyczki. (2) Ministrowi Skarbu służy jednak prawo zmiany sposobu zabezpieczenia pożyczki, jak również prawo ustanowienia dodatkowego zabezpieczenia na innych dochodach państwowych na przypadek, gdyby dochody i wpływy z Państwowego Monopolu Zapałczanego okazały się niewystarczające na zabezpieczenie spłat pożyczki. Dodatkowe zabezpieczenie może być udzielone tylko w granicach rzeczywistej potrzeby pełnego zabezpieczenia rat pożyczki."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Obligacje i kupony pożyczki, wypuszczonej na podstawie art. 1 ust. (1), oraz umowy, wymienione w art. 1 ust. (2), wolne są od wszelkich państwowych 1 samorządowych podatków, stempli, opłat i innych należności, zarówno już obowiązujących w Polsce, jak i tych, które mogą być w przyszłości wprowadzone."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Fundusze na spłatę rat odsetkowych i amortyzacyjnych pożyczki, wypuszczonej na podstawie art. 1 ust. (1), przekazywane będą do miejsca lub miejsc ich płatności za granicą."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

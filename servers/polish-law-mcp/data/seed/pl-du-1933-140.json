@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1933-140",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 marca 1933 . o dodatkowych kredytach na rok 1932/33.",
+  "title_en": "",
+  "short_name": "pl-du-1933-140",
+  "status": "in_force",
+  "issued_date": "1933-03-14",
+  "in_force_date": "1933-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/140",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyty, ustalone w grupie A. Administracja budżetu, załączonego do ustawy skarbowej z dnia 18 marca 1932 r. na okres od 1 kwietnia 1932 r. do 31 marca 1933 r. (Dz. U. R. P. Nr. 23, poz. 175), podwyższa się o następujące kwoty: 1) W części 8 Ministerstwo Skarbu: w wydatkach zwyczajnych w dziale 5 § 11 „Różne wydatki” o... 626.700 zł w wydatkach nadzwyczajnych w dziale 5 w nowoutworzonym § 35 „Ulgi kredytowe dla rolnictwa” o ... 6.600.000„ 2) W części 10 Ministerstwo Przemysłu i Handlu: w wydatkach nadzwyczajnych w dziale 1 § 22 „Rozbudowa polskiej floty handlowej” o... 3.496.100 „ 3) W części 15 Ministerstwo Pracy i Opieki Społecznej: w wydatkach zwyczajnych: w dziale 8 § 12 „Dopłaty do ubezpieczeń społecznych” o... 4.000.000 „ w dziale 8 § 21 „Samopomoc społeczna” o ... 75.000 „ w dziale 8 § 22 „Dopłaty do zabezpieczenia na wypadek bezrobocia oraz pomoc dla bezrobotnych” o... 12.977.000„ 4) W części 18 Emerytury i zaopatrzenia: w wydatkach zwyczajnych w dziale 1 § 1 „Emerytury cywilne” o... 16.250.000 „"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Na pokrycie wydatków, przewidzianych w art. 1, służą oszczędności, uzyskane ze zmniejszenia wydatków w innych paragrafach budżetu. (2) Podwyższenie wydatków o kwoty, wymienione w art. 1, nie powoduje zwiększenia ogólnej sumy wydatków, ustalonych w ustawie skarbowej z dnia 18 marca 1932 r. w kwocie 2.451.917.311 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) W grupie B. Przedsiębiorstwa budżetu na rok 1932/33 w części 8 Ministerstwo Skarbu, dział 9 „Mennica Państwowa”, w nowoutworzonym § 6 „Wydatki nadzwyczajne” ustala się rozchody nadzwyczajne w kwocie 214.700 zł. (2) W tejże grupie budżetu na rok 1932/33 w części 17 Ministerstwo Poczt i Telegrafów, dział 2 „Polska Poczta, Telegraf i Telefon”, ustala się w rozdziale 5 „Główny skład materjałów telegraficznych i telefonicznych” w nowoutworzonym § 12 „Zobowiązania dłużne” rozchody nadzwyczajne w kwocie 48.750 zł i o tę kwotę zmniejsza się rozchody nadzwyczajne w rozdziale 2 „Urzędy pocztowe” § 12 „Zobowiązania dłużne”. (3) Na pokrycie rozchodów, wymienionych w ustępie 1 niniejszego artykułu, służą wpływy zwyczajne przedsiębiorstwa „Mennica Państwowa”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) W budżecie na rok 1932/33 skreśla się rozchody i wpływy, przewidziane w grupie B. Przedsiębiorstwa, część 10 Ministerstwo Przemysłu i Handlu, dział 11 „Państwowe żupy solne”, oraz w grupie C. Monopole, część 8 Ministerstwo Skarbu, dział 10 „Monopol solny”, i w tymże budżecie w grupie C, część 8, dział 10 „Monopol solny”, ustala się następujące wydatki i dochody: I. Wydatki zwyczajne... 49.762.000 zł Wydatki eksploatacyjne... 48.062.000„ § 1 „Utrzymanie Dyrekcji”... 434.820 „ § 2. „Koszty produkcji”... 17.548.400„ §3 „Zakup soli” ... 2.104.850 „ § 4. „Koszty sprzedaży”.. 24.511.000„ §5 „Koszty ogólne”... 3.462.930„ Wydatki na rachunek zysku handlowego.... 1.700.000„ § 6 „Kapitał inwestycyjny”. 1.000.000„ § 7 „Kapitał obrotowy”... 500.000 „ § 8 „Odpisy na inne cele”. 200.000„ II. Dochody zwyczajne.. 98.324.600 „ § 1 „Sprzedaż soli” .. . 97.055.500 „ §2 „Różne” .... 1.269.100„ (2) Wpływy i rozchody pobrane, względnie dokonane na rachunek skreślonych rubryk budżetowych, będą zarachowane na rubryki, ustalone w artykule niniejszym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1932 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_3-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_4-pass_(1-none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\"},{\"id\": \"arti_4-pass_(1-none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\"}]},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

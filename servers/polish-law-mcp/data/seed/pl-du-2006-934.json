@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2006-934",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 2006 r. o zmianie ustawy - Prawo geologiczne i górnicze",
+  "title_en": "",
+  "short_name": "pl-du-2006-934",
+  "status": "repealed",
+  "issued_date": "2006-05-24",
+  "in_force_date": "2006-07-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/934",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze ( Dz. U. z 2005 r. Nr 228, poz. 1947 ) wprowadza się następujące zmiany: 1) w art. 103 uchyla się ust. 4; 2) po art. 103b dodaje się art. 103c w brzmieniu: „ Art. 103c. W rozumieniu przepisów Kodeksu postępowania administracyjnego , organem wyższego stopnia w stosunku do marszałka województwa w sprawach wynikających z przepisów ustawy jest minister właściwy do spraw środowiska. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do postępowań administracyjnych toczących się na podstawie ustawy, o której mowa w art. 1, wszczętych i niezakończonych wydaniem decyzji ostatecznej przed dniem wejścia w życie ustawy, stosuje się przepisy niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

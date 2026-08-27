@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-625",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 kwietnia 2010 r. zmieniająca ustawę o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2010-625",
+  "status": "in_force",
+  "issued_date": "2010-04-29",
+  "in_force_date": "2010-06-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/625",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 listopada 2009 r. o zmianie ustawy - Kodeks karny, ustawy - Kodeks postępowania karnego, ustawy - Kodeks karny wykonawczy, ustawy - Kodeks karny skarbowy oraz niektórych innych ustaw ( Dz. U. Nr 206, poz. 1589 ) w art. 1: 1) pkt 9 otrzymuje brzmienie: „ 9) w art. 43 § 1 otrzymuje brzmienie: „ § 1. Jeżeli ustawa nie stanowi inaczej, pozbawienie praw publicznych oraz zakazy wymienione w art. 39 pkt 2, 2d i 3 orzeka się w latach, od roku do lat 10, zakazy oraz obowiązek wymienione w art. 39 pkt 2a i 2b orzeka się w latach, od roku do lat 15, a zakaz wymieniony w art. 39 pkt 2c orzeka się w latach, od lat 2 do 6.”; ” ; ” ; 2) pkt 11 otrzymuje brzmienie: „ 11) art. 49a otrzymuje brzmienie: „ Art. 49a. § 1. Organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47, 49 i 57a § 2, muszą obejmować swoją działalnością terytorium całego kraju. § 2. Minister Sprawiedliwości prowadzi wykaz, do którego wpisuje instytucje, organizacje społeczne, fundacje i stowarzyszenia, o których mowa w art. 47, 49 i 57a § 2. Wpisu do wykazu dokonuje się na wniosek zainteresowanego podmiotu. Wykaz jest publikowany co najmniej raz w roku, w formie obwieszczenia, w Dzienniku Urzędowym Ministra Sprawiedliwości.”; ” . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 7 czerwca 2010 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

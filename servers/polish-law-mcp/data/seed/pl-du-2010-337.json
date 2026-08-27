@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-2010-337",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 marca 2010 r. o zasadach obsadzenia w kadencji trwającej w latach 2009-2014 dodatkowego mandatu posła do Parlamentu Europejskiego",
+  "title_en": "",
+  "short_name": "pl-du-2010-337",
+  "status": "in_force",
+  "issued_date": "2010-03-04",
+  "in_force_date": "2010-04-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/337",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa określa zasady obsadzenia dodatkowego mandatu posła do Parlamentu Europejskiego przypadającego Rzeczypospolitej Polskiej w związku z przepisami prawa Unii Europejskiej określającymi liczbę mandatów posłów do Parlamentu Europejskiego w kadencji trwającej w latach 2009 - 2014."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obsadzenia mandatu, o którym mowa w art. 1, dokonuje się na podstawie wyników głosowania w wyborach do Parlamentu Europejskiego przeprowadzonych w Rzeczypospolitej Polskiej w dniu 7 czerwca 2009 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Obsadzenia mandatu, o którym mowa w art. 1, dokonuje się stosując odpowiednio zasady określone w przepisach art. 125, art. 127, art. 129 oraz art. 130 ustawy z dnia 23 stycznia 2004 r. - Ordynacja wyborcza do Parlamentu Europejskiego ( Dz. U. Nr 25, poz. 219 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999 i Nr 202, poz. 1547. ) . 2. Państwowa Komisja Wyborcza dokonuje czynności, o których mowa w przepisach wskazanych w ust. 1, z uwzględnieniem liczby mandatów posłów do Parlamentu Europejskiego określonej w przepisach prawa Unii Europejskiej, o których mowa w art. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Państwowa Komisja Wyborcza, po wykonaniu czynności, o których mowa w przepisach wskazanych w art. 3 ust. 1, sporządza protokół obsadzenia w kadencji trwającej w latach 2009-2014 dodatkowego mandatu posła do Parlamentu Europejskiego, o którym mowa w art. 1. 2. W protokole wymienia się: 1) komitet wyborczy, któremu przypada mandat, o którym mowa w art. 1; 2) nazwisko i imię (imiona) posła do Parlamentu Europejskiego obsadzającego mandat, o którym mowa w art. 1, ze wskazaniem numeru okręgu wyborczego i listy okręgowej, z której kandydował."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Państwowa Komisja Wyborcza ogłasza w Dzienniku Ustaw Rzeczypospolitej Polskiej, w formie obwieszczenia, oraz podaje do wiadomości publicznej informację o obsadzeniu mandatu, o którym mowa w art. 1, oraz nazwisko i imię (imiona) posła do Parlamentu Europejskiego obsadzającego mandat."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Państwowa Komisja Wyborcza wręcza posłowi do Parlamentu Europejskiego, o którym mowa w art. 5, zaświadczenie o obsadzeniu mandatu posła do Parlamentu Europejskiego nie później niż 7 dnia po ogłoszeniu obwieszczenia, o którym mowa w art. 5. 2. Marszałek Sejmu niezwłocznie po ogłoszeniu obwieszczenia, o którym mowa w art. 5, przesyła Przewodniczącemu Parlamentu Europejskiego zawiadomienie o obsadzeniu mandatu posła do Parlamentu Europejskiego i inne wymagane przez Parlament Europejski dokumenty."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2006 r. Nr 218, poz. 1592, z 2007 r. Nr 25, poz. 162 i Nr 112, poz. 766 oraz z 2009 r. Nr 119, poz. 999 i Nr 202, poz. 1547. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_4-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

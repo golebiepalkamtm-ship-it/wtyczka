@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-287",
+  "type": "statute",
+  "title": "Ustawa z dnia 4 czerwca 1920 r. w przedmiocie udziału Skarbu Państwa w Spółce Akcyjnej Zakładu Wodno-Elektrycznego Szczawnica-Jazowsko.",
+  "title_en": "",
+  "short_name": "pl-du-1920-287",
+  "status": "in_force",
+  "issued_date": "1920-06-04",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/287",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministerstwo Skarbu do wzięcia udziału imieniem Skarbu Państwa w Spółce Akcyjnej Zakładu Wodno - Elektrycznego Szczawnica - Jazowsko w wysokości 51% (pięćdziesiąt jeden procent) kapitału akcyjnego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zakład ten, składający się z centrali wodno - elektrycznej i sieci rozdzielczej, będzie wykonany wedle już zatwierdzonych urzędownie projektów. Zmiany projektów może powołana do tego władza zatwierdzić na wniosek Spółki za zgodą Ministerstwa Robót Publicznych i Ministerstwa Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rządowi zastrzega się prawo kontroli budowy i prowadzenia ruchu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Spółce Akcyjnej Zakładu Wodno - Elektrycznego Szczawnica - Jazowsko przyznaje się prawo wywłaszczenia nieruchomości, dozwolone w § 365 powsz. księgi austr. ustaw cyw. w tej rozciągłości, w jakiej okaże się niezbędnem do wybudowania i utrzymania ruchu zakładu wodno - elektrycznego w jego urządzeniach wodnych i elektrycznych, łącznie z urządzeniami do piętrzenia wody, jej ujęcia i przeprowadzenia, zabezpieczenia kanału roboczego i rurociągu ciśnienia, doprowadzenia wody do silników wodnych i odprowadzenia jej z pod nich, dalej łącznie z urządzeniami do wytwarzania energji elektrycznej, zakładaniem stacji przetwornic i transformatorów, sieci przewodów wysokiego i niskiego napięcia, prowadzonych powietrzem na słupach lub kablami podziemnie, oraz sieci telegrafów, telefonów i sygnalizacji elektrycznej aż do miejsc zużycia prądu elektrycznego, ze wznoszeniem budynków, potrzebnych do pomieszczenia urządzeń zakładu i nieodzownych do utrzymania jego ruchu, wreszcie łącznie z urządzeniem dojazdów do budowli zakładowych i potrzebnych mostów i przepustów. Co do zakresu i przedmiotu wywłaszczenia i odszkodowania - znajdzie analogiczne zastosowanie ustawa z 18 lutego 1878 r. (№ 30 austr. dz. u. p.) o wywłaszczeniu w celu budowania i utrzymania ruchu kolei żelaznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Spółce tej przyznaje się prawo zakładania i utrzymywania we własnym zarządzie urządzeń telegraficznych, telefonicznych i sygnalizacji elektrycznych wyłącznie dla celów przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Spółce tej przyznaje się uwolnienie od, wszelkich podatków i innych danin publicznych na lat 5 od czasu jej powstania."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie tej ustawy poleca się Ministrowi Robót Publicznych, Ministrowi Skarbu i Ministrowi Przemysłu i Handlu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

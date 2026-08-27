@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1921-75",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 stycznia 1921 r. o podwyższeniu opłat pisarskich w postępowaniu przed sędziami polubownymi, kosztów postępowania przed sądami przemysłowemi i kosztów w przymusowem postępowaniu administracyjnem w byłej dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-75",
+  "status": "in_force",
+  "issued_date": "1921-01-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/75",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W § 43 pruskiej ustawy o sędziach polubownych z dnia 29 marca 1679 r. (Zbiór Ustaw str. 321) słowa: „dwadzieścia pięć fenigów” zastępuje się słowami: „dwie marki”, a słowa: „dziesięć fenigów” słowami: „jedna marka”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustęp 2 § 58 niemieckiej ustawy o sądach przemysłowych w brzmieniu obwieszczenia z dnia 29 września 1901 r. (Dziennik Ustaw Rzeszy z 1901 r. str. 353) otrzymuje brzmienie następujące: „ Wynosi ona przy wartości przedmiotu do 20 mk. włącznie 2 mk. ponad 20 mk. do 50 mk. włącznie 3 mk. „ 50 mk. do 100 mk. 6 mk. Dalsze skale wartości rosną o sto marek, a opłaty o cztery marki. Najwyższa opłata wynosi sześćset marek ” . Jako ustęp przedostatni § 58 tejże ustawy umieszcza się postanowienie następujące: „ Wydatki na opłatę porta pocztowego należą do tych wydatków w gotówce, które pobiera się osobno ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Taryfę opłat, wymienioną w § 54 pruskiego rozporządzenia o przymusowem postępowaniu administracyjnem celem ściągnienia kwot pieniężnych z dnia 15 listopada 1899 r. (Zb. Ust. str. 545), zmienia się w następujący sposób: TARYFA OPŁAT Oznaczenie czynności I. II. III. IV. V. do 100 mk ponad 100 do 300 mk ponad 300 do 1000 mk ponad 1000 do 5000 mk ponad 5000 mk Marek 1. Za każde upomnienie, które nie nastąpiło w drodze pocztowej 1 2 3 4 5 2. Za zajęcie rzeczy zmysłowych tudzież za zabranie dokumentów, przez dłużnika wydać się mających, włącznie z doręczeniami, wywołanemi przez zajęcie i zabranie dokumentów - pobiera się opłatę wedle stopy procentowej, niższej o połowę od stopy procentowej, określonej w § 7 niemieckiej ustawy o opłatach komorników sądowych. Jeżeli dłużnik zapobiegnie zajęciu (§ 18), pobiera się tylko połowę opłat. 3. Za publiczne ogłoszenie licytacji przez wywieszenie i wywołanie 2 3 4 5 5 4. Za licytację oraz za sprzedaż z wolnej ręki rzeczy zajętych włącznie z wywołanemi przez to doręczeniami - pobiera się opłaty wedle § 7 niemieckiej ustawy o opłatach komorników sądowych. Jeżeli dłużnik zapobiegnie licytacji (§ 273), pobiera się tylko połowę opłat, ale nie powyżej 50 mk. Kosztów zajęcia i licytacji po myśli Nr 2 ust. 2 i Nr 4 ust. 2 można żądać tylko wtedy, jeżeli urzędnik wykonawczy celem wykonania zajęcia (licytacji) uda się na miejsce. 5. Za każdy odpis protokołu 3 3 3 3 3 6. Za każde doręczenie potrzebne w postępowaniu przymusowem, o ile po myśli Nr 2 i 4 nie musi być uskutecznione bezpłatnie 2 2 2 2 2 7. Opłaty świadków, przy zajęciu przybranych, za każdą godzinę Godzinę rozpoczętą wynagradza się jak całą. 4 4 4 4 4 8. Opłaty przechowującego rzeczy zajęte - dziennie Jeżeli przechowanie trwa dłużej niż ośm dni, począwszy od dziewiątego dnia przyznaje się tylko połowę opłat. 2 2 3 4 5"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie dnia 1 marca 1921 r. Przepisy jej dotyczą także wszelkich spraw, w dniu powyższym jeszcze nie ukończonych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

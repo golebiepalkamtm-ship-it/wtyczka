@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1956-189",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 września 1956 r. o zmianie prawa o aktach stanu cywilnego.",
+  "title_en": "",
+  "short_name": "pl-du-1956-189",
+  "status": "repealed",
+  "issued_date": "1956-09-11",
+  "in_force_date": "1956-10-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1956/189",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W dekrecie z dnia 8 czerwca 1955 r. - Prawo o aktach stanu cywilnego ( Dz. U. Nr 25, poz. 151 ) wprowadza się następujące zmiany: 1) w art. 7 ust. 1 i 2 skreśla się wyrazy „za zgodą prezydium rady narodowej wyższego stopnia” ; 2) w art. 11 dodaje się ust. 4 w brzmieniu: „ 4. Równocześnie z dokonywaniem wpisów w księgach stanu cywilnego sporządza się odpis każdego wpisu. Odpisy przesyła się do organów, które określi Minister Spraw Wewnętrznych. ” ; 3) na początku art. 21 dodaje się następujący ust. 1, zmieniając odpowiednio numerację następnych ustępów: „ 1. W razie całkowitej lub częściowej utraty księgi stanu cywilnego organ nadzoru zarządza sporządzenie na podstawie dokumentów, o których mowa w art. 11 ust. 4, uwierzytelnionego odpisu księgi. ” ; 4) w art. 21 ust. 2 dodaje się po wyrazach „księgi stanu cywilnego” wyrazy „i odpisów (art. 11 ust. 4).” ; 5) w art. 22 ust. 2 skreśla się wyraz „powiatowej” ; 6) w art. 25 wierszu pierwszym po wyrazie „stanowią” dodaje się wyraz „wyłączny” ; 7) w art. 40 dodaje się ust. 3 w brzmieniu: „ 3. Przepis ust. 1 stosuje się również w przypadku przysposobienia przez osobę nie pozostającą w związku małżeńskim, z tym że jako imię drugiego z rodziców wymienia się imię wskazane przez przysposabiającego, a jako nazwisko drugiego z rodziców wymienia się nazwisko przysposabiającego. ” ; 8) art. 71 ust. 1 otrzymuje brzmienie: „ 1. Odpis zupełny i odpis skrócony oraz wyciąg z aktu stanu cywilnego wydaje się na żądanie organu państwowego, osoby, której stan cywilny został w akcie stwierdzony, jej wstępnego, zstępnego, rodzeństwa, małżonka lub przedstawiciela ustawowego. W uzasadnionych przypadkach można wydać odpis skrócony oraz wyciąg z aktu stanu cywilnego również na żądanie innych osób; wydanie na żądanie tych osób odpisu zupełnego wymaga zezwolenia organu nadzoru. ” ; 9) na końcu art. 77 dodaje się wyrazy „i instytucji naukowych” ; 10) art. 81 otrzymuje brzmienie: „ Art. 81. Jeżeli przysposobienie zostało dokonane przed wejściem w życie niniejszej ustawy i nie stanowiło podstawy do wymieniania w wypisach aktów stanu cywilnego przysposabiających jako rodziców, przysposabiający może złożyć kierownikowi urzędu stanu cywilnego wniosek o zastosowanie przepisów art. 40; wniosek dotyczący przysposobionego, który ukończył lat 18, wymaga jego zgody. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Spraw Wewnętrznych do ogłoszenia w drodze obwieszczenia jednolitego tekstu dekretu z dnia 8 czerwca 1955 r. - Prawo o aktach stanu cywilnego z uwzględnieniem zmian wynikających z niniejszej ustawy oraz przepisów prawnych, ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów i ustępów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

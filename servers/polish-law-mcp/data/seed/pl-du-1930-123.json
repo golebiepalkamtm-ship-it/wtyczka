@@ -1,0 +1,104 @@
+{
+  "id": "pl-du-1930-123",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 lutego 1930 r. o ochronie swobody wyborów przed nadużyciem władzy urzędników.",
+  "title_en": "",
+  "short_name": "pl-du-1930-123",
+  "status": "repealed",
+  "issued_date": "1930-02-12",
+  "in_force_date": "1930-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/123",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Postanowienia niniejszej ustawy mają moc obowiązującą dla wyborów Sejmu i Senatu, Sejmu Śląskiego oraz ciał samorządowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Urzędnik, który w związku ze swojem urzędowaniem wpływa bezprawnie na wynik głosowania, a w szczególności: a) sporządza listę głosujących z pominięciem uprawnionych lub wpisaniem nieuprawnionych; b) używa podstępu celem nieprawidłowego sporządzenia listy głosujących; c) uszkadza, ukrywa, przerabia lub podrabia protokóły lub inne dokumenty głosowania; d) dopuszcza się nadużycia przy przyjmowaniu lub obliczaniu głosów; e) dopuszcza się nadużycia przy zgłaszaniu lub ustalaniu listy kandydatur, albo też unieważnia bezprawnie deklaracje wyborców, dotyczące zgłoszeń kandydatur - ulega karze więzienia do lat pięciu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Urzędnik, który przemocą, groźbą, podstępem, lub innym niedozwolonym sposobem w związku ze swojem urzędowaniem przeszkadza: a) odbyciu zgromadzenia wyborców; b) swobodnemu wykonywaniu prawa zgłaszania kandydatur; c) swobodnemu wykonywaniu prawa głosowania; d) głosowaniu lub obliczaniu głosów - ulega karze więzienia do lat trzech."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Urzędnik, który w związku ze swojem urzędowaniem lub też z wyraźnem lub domniemanem powołaniem się na nie, używa przemocy, groźby, podstępu lub innego niedozwolonego sposobu celem: a) wywarcia wpływu na sposób głosowania osoby uprawnionej lub celem powstrzymania jej od głosowania; b) wywarcia wpływu na zgłaszanie kandydatur albo na ich zaniechanie, w szczególności także na umieszczenie lub wycofanie podpisów na deklaracjach, dotyczących zgłoszenia kandydatur - ulega karze więzienia do lat pięciu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Tej samej karze ulega urzędnik, który w związku ze swojem urzędowaniem lub też z wyraźnem albo domniemanem powołaniem się na nie, udziela lub obiecuje udzielić korzyści majątkowej albo osobistej uprawnionemu do głosowania, czy też innej osobie: a) celem wywarcia wpływu na sposób głosowania osoby uprawnionej lub celem powstrzymania jej od głosowania; b) celem wywarcia wpływu na zgłaszanie kandydatur, czy też ich zaniechanie, w szczególności także na umieszczenie lub wycofanie podpisu na deklaracjach, dotyczących zgłoszenia kandydatur."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Urzędnik, który w związku ze swojem urzędowaniem przy głosowaniu tajnem zapoznaje się w sposób bezprawny z treścią cudzego głosu - ulega karze aresztu do jednego roku."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ze skazaniem za czyny, w powyższych przepisach przewidziane, łączą się w każdym wypadku następujące kary dodatkowe: a) pozbawienie czynnego i biernego prawa wyborczego do ciał i instytucyj publicznych przez lat dziesięć, w wypadku zaś, przewidzianym w art. 6 - przez 5 lat, oraz utrata piastowanych mandatów; b) wydalenie ze służby państwowej oraz samorządowej z utratą praw, wynikających z tej służby; c) pozbawienie prawa piastowania urzędów publicznych oraz wykonywania adwokatury i notariatu. Powyższe kary dodatkowe mają być orzeczone w wyroku i wymierzone łącznie. Kary dodatkowe i skutki kar, przewidziane w ustawach karnych dzielnicowych, nie mają zastosowania do wypadków, przewidzianych w tej ustawie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Urzędnikiem w rozumieniu tej ustawy jest każda osoba, pełniąca funkcje publiczne w imieniu Państwa lub samorządu. Za urzędników uważać również należy członków komisyj wyborczych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Dla rozpoznania spraw, w tej ustawie określonych, właściwy jest sąd okręgowy."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Najpóźniej w przeciągu 48 godzin od chwili otrzymania doniesienia o popełnieniu jednego z przestępstw, przewidzianych w tej ustawie, obowiązany będzie oskarżyciel publiczny złożyć wniosek o wszczęcie śledztwa; śledztwo jest konieczne. Śledztwo prowadzi sędzia śledczy, któremu sprawa przypadnie w drodze przyjętego w sądzie okręgowym podziału czynności. Jeżeli wszechstronne wyjaśnienie okoliczności sprawy w toku śledztwa doprowadzi do ustalenia, te należy przeprowadzić rozprawę główną, sędzia śledczy obowiązany będzie wydać natychmiast postanowienie, zawieszające oskarżonego urzędnika w urzędowaniu, i o tem zawiadomić właściwą jego władzę przełożoną. Art. 262, 264, 266 § 2 i 272 kodeksu postępowania karnego z dnia 19 marca 1928 r. (Dz. U. R. P. Nr 33, poz. 313) nie mają tu zastosowania."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Pokrzywdzonym w rozumieniu tej ustawy jest nietylko osoba, określona w art. 60 kodeksu postępowania karnego z dnia 19 marca 1928 r. (Dz. U. R. P. Nr 33, poz. 313), ale także osoba, która doniosła o przestępstwie, o ile przysługuje jej prawo wybierania w okręgu wyborczym, gdzie zostało spełnione przestępstwo. Zawiadomienie, przewidziane w art. 271 § 1 kodeksu postępowania karnego z dnia 19 marca 1928 r. (Dz. U. R. P. Nr 33, poz. 313), sędzia śledczy winien skierować również do pokrzywdzonego i oznajmieniem, że przysługuje mu prawo, określone w art. 70 powyższej ustawy. W razie niewykonania tego prawa w terminie ustawowym, lub nieprzyznania przez sąd apelacyjny praw oskarżyciela posiłkowego, sędzia śledczy umarza śledztwo i zawiadamia o tem oskarżonego."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Do przestępstw, przewidzianych w tej ustawie, nie mają zastosowania przepisy ustaw karnych dzielnicowych o zawieszeniu kary. Ściganie i karanie tych przestępstw przedawnia się po upływie lat dziesięciu od ich popełnienia."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Równocześnie z rozpisaniem wyborów podać należy tę ustawę we wszystkich gminach okręgów wyborczych przez rozplakatowanie do powszechnej wiadomości."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Ustawa mniejsza wchodzi w życie z dniem ogłoszenia. Z dniem tym tracą moc obowiązującą wszystkie przepisy, sprzeczne z tą ustawą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_7-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

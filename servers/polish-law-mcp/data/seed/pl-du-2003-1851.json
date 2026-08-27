@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2003-1851",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 października 2003 r. o zmianie ustawy o finansach publicznych",
+  "title_en": "",
+  "short_name": "pl-du-2003-1851",
+  "status": "repealed",
+  "issued_date": "2003-10-17",
+  "in_force_date": "2003-11-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/1851",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 listopada 1998 r. o finansach publicznych ( Dz. U. z 2003 r. Nr 15, poz. 148 , z późn. zm. 1) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611. ) wprowadza się następujące zmiany: 1) w art. 4 ust. 2 otrzymuje brzmienie: „ 2. Rozchodami publicznymi są: 1) spłaty otrzymanych pożyczek i kredytów; 2) wykup papierów wartościowych; 3) udzielone pożyczki; 4) płatności wynikające z odrębnych ustaw, których źródłem finansowania są przychody z prywatyzacji majątku Skarbu Państwa oraz majątku jednostek samorządu terytorialnego; 5) pożyczki udzielane na finansowanie zadań realizowanych z udziałem środków pochodzących z budżetu Unii Europejskiej, zwane dalej „prefinansowaniem”. ” ; 2) art. 8 otrzymuje brzmienie: „ Art. 8. Przez potrzeby pożyczkowe budżetu państwa rozumie się środki finansowe niezbędne do: 1) sfinansowania deficytu budżetu państwa; 2) spłat wcześniej zaciągniętych zobowiązań; 3) sfinansowania udzielanych przez Skarb Państwa pożyczek; 4) wykonywania innych operacji finansowych związanych z długiem Skarbu Państwa; 5) prefinansowania wydatków. ” ; 3) w art. 48 w ust. 1 dodaje się pkt 3 w brzmieniu: „ 3) spłatę wcześniej zaciągniętych zobowiązań z tytułu emisji papierów wartościowych oraz zaciągniętych pożyczek i kredytów. ” ; 4) w art. 66 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: „ 2a) na współfinansowanie zadań wynikających ze Wspólnej Polityki Rolnej oraz programów i projektów realizowanych z udziałem środków pochodzących z budżetu Unii Europejskiej; ” ; 5) w art. 86 w ust. 1 po pkt 5 dodaje się pkt 5a w brzmieniu: „ 5a) rozchody obejmujące prefinansowanie zadań; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W 2004 r. wydatki na współfinansowanie programów i projektów realizowanych ze środków pochodzących z budżetu Unii Europejskiej mogą być dokonywane od dnia 1 stycznia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. 1) Zmiany tekstu jednolitego ustawy zostały ogłoszone w Dz. U. z 2003 r. Nr 45, poz. 391, Nr 65, poz. 594, Nr 96, poz. 874 i Nr 166, poz. 1611. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

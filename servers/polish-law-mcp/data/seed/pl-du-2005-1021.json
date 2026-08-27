@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2005-1021",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny",
+  "title_en": "",
+  "short_name": "pl-du-2005-1021",
+  "status": "repealed",
+  "issued_date": "2005-05-06",
+  "in_force_date": "2005-07-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/1021",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny ( Dz. U. Nr 22, poz. 271 , z późn. zm. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 84, poz. 774 i Nr 188, poz. 1837 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1204. ) wprowadza się następujące zmiany: 1) w art. 16b: a) w ust. 1: - pkt 15 otrzymuje brzmienie: „ 15) prawie wypowiedzenia umowy, o którym mowa w art. 8 ust. 3, oraz skutkach tego wypowiedzenia, w tym o karach umownych, ” , - dodaje się pkt 19 i 20 w brzmieniu: „ 19) sądzie właściwym dla rozstrzygania sporów związanych z wykonywaniem umowy, 20) pobieraniu od konsumenta oświadczenia o poddaniu się egzekucji, stanowiącego podstawę do wystawienia przez bank bankowego tytułu egzekucyjnego stosownie do przepisów Prawa bankowego . ” , b) ust. 2 otrzymuje brzmienie: „ 2. W wypadku przekazywania konsumentowi informacji w formie głosowych komunikatów telefonicznych nie stosuje się przepisów ust. 1 pkt 6-8 oraz pkt 10-20. Przedsiębiorca jest obowiązany zamieścić w komunikacie informację o prawie konsumenta do żądania przedstawienia pozostałych informacji, o których mowa w ust. 1, oraz o sposobie uzyskania tych informacji. ” , c) dodaje się ust. 6 i 7 w brzmieniu: „ 6. Obowiązek określony w ust. 1 nie dotyczy poszczególnych czynności (umów szczegółowych) wynikających z umowy (umowy ramowej). 7. W wypadku wykonywania poszczególnych czynności o tym samym charakterze pomiędzy tymi samymi stronami, jeżeli czynności te nie wynikają z wcześniej zawartej umowy (umowy ramowej), obowiązek określony w ust. 1 dotyczy tylko pierwszej z tych czynności. Jeżeli w ciągu roku od dnia wykonania pierwszej czynności nie wykonano żadnej czynności o tym samym charakterze pomiędzy tymi samymi stronami, to do pierwszej czynności wykonanej po tym czasie stosuje się ust. 1. ” ; 2) w art. 16c: a) ust. 2 otrzymuje brzmienie: „ 2. W wypadku umów, o których mowa w art. 16a ust. 1 pkt 3, termin, w którym konsument może odstąpić od umowy, wynosi trzydzieści dni od dnia poinformowania go o zawarciu umowy lub od dnia potwierdzenia informacji, o którym mowa w art. 16b ust. 3, jeżeli jest to termin późniejszy. ” , b) ust. 4 otrzymuje brzmienie: „ 4. W wypadku odstąpienia od umowy, umowa jest uważana za niezawartą, a konsument jest zwolniony z wszelkich zobowiązań. To, co strony świadczyły, ulega zwrotowi w stanie niezmienionym, chyba że zmiana była konieczna w granicach zwykłego zarządu, w terminie trzydziestu dni: 1) od dnia odstąpienia od umowy - w przypadku świadczeń konsumenta albo 2) od dnia otrzymania oświadczenia o odstąpieniu od umowy - w przypadku świadczeń przedsiębiorcy. ” , c) dodaje się ust. 8 w brzmieniu: „ 8. Jeżeli do umowy jest dołączona kolejna umowa zawarta na odległość dotycząca usług świadczonych przez przedsiębiorcę lub podmiot inny niż przedsiębiorca na podstawie porozumienia pomiędzy tym podmiotem a przedsiębiorcą, odstąpienie od umowy zawartej na odległość dotyczącej usług finansowych jest skuteczne także wobec tej kolejnej umowy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do umów zawartych przed dniem wejścia w życie ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Niniejsza ustawa w zakresie swojej regulacji dokonuje wdrożenia dyrektywy Parlamentu Europejskiego i Rady 2002/65/WE z dnia 23 września 2002 r. dotyczącej sprzedaży konsumentom usług finansowych na odległość oraz zmieniającej dyrektywę Rady 90/619/EWG oraz dyrektywy 97/7/WE i 98/27/WE (Dz. Urz. WE L 271 z 09.10.2002, str. 16). Dane dotyczące ogłoszenia dyrektywy dotyczą jej ogłoszenia w Polskim wydaniu specjalnym Dziennika Urzędowego Unii Europejskiej. 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 144, poz. 1204, z 2003 r. Nr 84, poz. 774 i Nr 188, poz. 1837 oraz z 2004 r. Nr 96, poz. 959 i Nr 116, poz. 1204. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

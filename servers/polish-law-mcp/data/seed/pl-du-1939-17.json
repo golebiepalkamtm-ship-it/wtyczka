@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1939-17",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 stycznia 1939 r. o dodatkowym kredycie na rok 1938/39 na opiekę nad emigrantami za granicą.",
+  "title_en": "",
+  "short_name": "pl-du-1939-17",
+  "status": "in_force",
+  "issued_date": "1939-01-09",
+  "in_force_date": "1939-01-23",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/17",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki zwyczajne, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się w grupie A. „Administracja”, w części 5 „Ministerstwo Spraw Zagranicznych”, w dziale 3 „Urzędy zagraniczne”, w paragrafie 12 „Opieka nad emigrantami za granicą” o kwotę 600.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się wpłatę do Skarbu Państwa w grupie C. „Monopole”, w części 8 „Ministerstwo Skarbu”, w dziale 16 „Monopol Spirytusowy” o kwotę 600.000 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza obowiązuje od dnia 1 kwietnia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-332",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o rozdziale i przeznaczeniu majątku, pozostałego po kolejowych kasach chorych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-332",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/332",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Majątek, pozostały po likwidacji kolejowych kas chorych, działających w Polsce na podstawie niemieckiej ordynacji ubezpieczeniowej z dnia 19 lipca 1911 r. (Dz. U. Rz. Nr 42, str. 509) i na podstawie § 53 austrjackiej ustawy z dnia 30 marca 1888 r. o ubezpieczeniu robotników na wypadek choroby (austr. Dz. U. P, Nr 33) oraz statutów nadanych (względnie zatwierdzonych) zgodnie z § 16 rozporządzenia Ministra Handlu z dnia 23 czerwca 1884 r. o organizacji austrjackich kolei państwowych (austr. Dz. U. P. Nr 103), rozdziela się w stosunku do liczby członków likwidowanych kolejowych kas chorych, przejętych po dniu 1 września 1929 r. przez inne kasy chorych lub przez kolejową opiekę lekarską między te kasy i przedsiębiorstwo „Polskie Koleje Państwowe”. Podział majątku kolejowych kas chorych, działających na podstawie niemieckiej ordynacji ubezpieczeniowej z dnia 19 lipca 1911 r., dokonany będzie w trybie, przewidzianym w § 303 tej ordynacji; tryb postępowania przy podziale majątku pozostałych kolejowych kas chorych ustala rozporządzenie, wydane przez Ministra Komunikacji w porozumieniu z Ministrem Pracy i Opieki Społecznej. Część majątku, przypadająca przedsiębiorstwu „Polskie Koleje Państwowe”, przechodzi na nie na warunkach przewidzianych w art. 4 ust. 1 i art. 7 ust. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1926 r. o utworzeniu przedsiębiorstwa „Polskie Koleje Państwowe” (Dz. U. R. P. z 1930 r. Nr 89, poz. 705), z przeznaczeniem na cele ochrony zdrowia pracowników przedsiębiorstwa „Polskie Koleje Państwowe”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji w porozumieniu z Ministrami Skarbu oraz Pracy i Opieki Społecznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

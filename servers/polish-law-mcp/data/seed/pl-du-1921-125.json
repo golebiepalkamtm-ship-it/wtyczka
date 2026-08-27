@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1921-125",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 1921 r. zmieniająca ustawę z dnia 16 marca 1920 r. w przedmiocie zmiany niektórych postanowień ustaw karnych obowiązujących w b. zaborze austrjackim, tudzież § 7 austrjackiej ustawy o postępowaniu karnem.",
+  "title_en": "",
+  "short_name": "pl-du-1921-125",
+  "status": "in_force",
+  "issued_date": "1921-02-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/125",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustęp 1 art. 1 ustawy z dnia 16 marca 1920 r. (Dz. Ust. № 26 poz. 158) otrzymuje brzmienie następujące: 1) „Powszechną ustawę karną z dnia 27 maja 1852 r. (austr. Dz. Ust. № 117), względnie ustawę z dnia 9 kwietnia 1910 r. (austr. Dz. Ust. № 73) zmienia się o tyle, iż w § 85a, 173, 183 i 200 wstępuje w miejsce kwoty: „dwieście koron” - kwota: „pięć tysięcy marek”, W § 174 II, 175 II, 176 II i 181 w miejsce kwoty: „pięćdziesiąt koron”- kwota: „tysiąc marek”, w § 179, 184 i 203 w miejsce kwoty: „dwa tysiące koron”-kwota: „pięćdziesiąt tysięcy marek”, a w § 182 w miejsce kwoty: „tysiąc koron” - kwota: „dwadzieścia pięć tysięcy marek”. W ustępie 2 tegoż artykułu w miejsce kwoty: „dziesięć tysięcy koron” wstępuje kwota: „pięćdziesiąt tysięcy marek”. W ustępie 3 tegoż artykułu w miejsce kwoty: „tysiąc koron” wstępuje kwota: „pięć tysięcy marek”, w miejsce kwoty: „trzysta koron-kwota: „tysiąc marek”. W ustępie 4 tegoż artykułu w miejsce kwoty: „tysiąc koron” wstępuje kwota: „pięć tysięcy marek”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustęp 1 art. 2 ustawy z dnia 16 marca 1920 r. (Dz. Ust. № 26 poz. 158) otrzymuje brzmienie następujące: „ Najwyższą i najniższą granicę grzywien, przewidzianych w powszechnej ustawie karnej, w ustawach karnych dodatkowych i w ustawie o postępowaniu karnem, tudzież grzywny, oznaczone w tych ustawach kwotą stałą w koronach, zastępuje się dwudziestokrotną liczbą marek, oznaczone zaś w guldenach - czterdziestokrotną liczbą marek. Postanowienie niniejsze nie dotyczy przepisów karnych, wydanych przez władze polskie ” . W ustępie 2 tegoż artykułu w miejsce kwoty: „tysiąc koron” wstępuje kwota: „pięć tysięcy marek”. W ustępie 3 tegoż artykułu w miejsce słów: „od stu do stu tysięcy koron” wstępują słowa: „od pięciuset do pięciuset tysięcy marek”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W art. 3 ustawy z dnia 16 marca 1920 r. (Dz. Ust. № 26 poz. 158) w miejsce słów: „pięćset względnie dwa tysiące koron” wstępują słowa: „dwa tysiące pięćset względnie dziesięć tysięcy marek”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Zdanie pierwsze § 7 austrjackiej ustawy o postępowaniu karnem z dnia 23 maja 1873 r. (austr. Dz. Ust. № 119) otrzymuje brzmienie następujące: „ Kary pieniężne, postanowione w niniejszej ustawie, których ściągnąć nie można od skazanych, zamienione być powinny na odpowiednią karę aresztu przy uwzględnieniu wysokości kary pieniężne) i stosunków osobistych skazanego, nie przekraczającą wszakże 6-ciu tygodni ” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza obowiązuje w b. dzielnicy austrjackiej i stosuje się także do czynów karygodnych, popełnionych przed wejściem w życie niniejszej ustawy, o ile podsądny wedle przepisów dawniejszych podlegałby traktowaniu surowszemu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie tej ustawy porucza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

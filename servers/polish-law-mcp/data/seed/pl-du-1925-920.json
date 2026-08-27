@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-920",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 grudnia 1925 r. zmieniająca niektóre postanowienia ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-920",
+  "status": "in_force",
+  "issued_date": "1925-12-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/920",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 116 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej (Dz. U. R. P. № 21 poz. 164) nadaje się brzmienie następujące: „ Na czas od wejścia w życie ustawy o państwowej służbie cywilnej do dnia 31 grudnia 1926 r. zawiesza się postanowienia art. 33 tej ustawy (powołanego również w art. 104) odnośnie do urzędników od XII do IV stopnia służbowego włącznie i funkcjonarjuszów niższych, zarówno będących na służbie w chwili wejścia w życie ustawy o państwowej służbie cywilnej, jako. też mianowanych w czasie do dnia 31 grudnia 1926 r. Urzędnik i funkcjonarjusz niższy nabywa pełnię praw, zastrzeżonych w art. 33, względnie w art. 104, dopiero wówczas, gdy otrzyma od władzy, która go mianowała, pismo, ustalające go w służbie państwowej, przyczem ustalenie to wymaga zgody Prezesa Rady Ministrów i Ministra Skarbu. Ustalenie w służbie może władza uzależnić od spełnienia przez urzędnika, względnie funkcjonariusza niższego, pewnych warunków, jako to: odbycia służby próbnej, ukończenia specjalnych kursów, zdania egzaminów praktycznych i t. p., które określi rozporządzenie Rady Ministrów na wniosek interesowanej władzy naczelnej. O ile urzędnik nie posiada poziomu wykształcenią, wymaganego w art. 11 ustawy o państwowej służbie cywilnej, ustalenie go w służbie państwowej może nastąpić dopiero po zwolnieniu go od tego wymogu w sposób, wskazany w ostatnim ustępie art. 11, względnie w ustępie pierwszym art. 115 tej ustawy. Urzędnika, względnie funkcjonarjusza niższego, który do dnia 31 grudnia 1926 r. nie zostanie ustalony, należy zwolnić ze służby państwowej, o ile za swą zgodą nie zostanie zatrzymany w służbie państwowej w charakterze funkcjonarjusza prowizorycznego lub kontraktowego. Urzędnikowi, względnie funkcjonarjuszowi niższemu, którego zwalnia się ze służby państwowej, należy wymierzyć zaopatrzenie emerytalne wedle postanowień ustawy z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i zawodowych wojskowych (Dz. U. R. P. z r. 1924 № 6 poz. 46). Urzędnik, względnie funkcjonarjusz niższy, który nie nabył prawa do zaopatrzenia emerytalnego, otrzymuje przy zwolnieniu odprawę w wysokości trzymiesięcznego, ostatnio pobieranego uposażenia. Prawo do tej odprawy nie przysługuje jednak urzędnikowi, względnie funkcjonarjuszowi niższemu, o ile uprzedzono go o zamiarze zwolnienia w terminie trzymiesięcznym ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Rady Ministrów i innym ministrom we właściwym każdemu z nich zakresie działania."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

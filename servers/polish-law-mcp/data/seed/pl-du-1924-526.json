@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1924-526",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 czerwca 1924 r. w sprawie częściowej zmiany ustawy z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i wojskowych zawodowych.",
+  "title_en": "",
+  "short_name": "pl-du-1924-526",
+  "status": "in_force",
+  "issued_date": "1924-06-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/526",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszow państwowych i wojskowych zawodowych (Dz. U. R. P. z 1924 r. No 6 poz. 46) wprowadza się następujące zmiany: 1) Do art. 43 powołanej ustawy dodaje się nowy ustęp o następującem brzmieniu: „ W razie przyznania funkcjonarjuszom w służbie czynnej dodatku na mieszkanie Rada Ministrów władna będzie przyznać emerytowanym funkcjonariuszom państwowym odpowiedni dodatek na mieszkanie ” . 2) Do art. 59 ustawy dodaje się nowy ustęp o następującem brzmieniu: „ W razie przyznania zawodowym wojskowym w służbie czynnej dodatku na mieszkanie Rada Ministrów władna będzie przygnać emerytom wojskowym zawodowym odpowiedni dodatek na mieszkanie ” . 3) Do art. 89 ustawy dodaje się nowy ustęp o następującem brzmieniu: „ W razie przyznania emerytom z art. 43 i 59 dodatku na mieszkanie Rada Ministrów władna będzie przyznać odpowiedni dodatek na mieszkanie emerytom, którzy, przeszli w stan spoczynku przed wejściem w życie niniejszej ustawy ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa niniejsza wchodzi w życie zdniem ogłoszenia z mocą obowiązującą od dnia 1 czerwca 1924 r. do dnia 31 grudnia 1924 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Prezesowi Rady Ministrów i Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

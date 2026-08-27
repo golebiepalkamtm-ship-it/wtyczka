@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1926-463",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lipca 1926 r. o zmianie niektórych postanowień ustawy z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami w brzmieniu, nadanem jej ustawami: z dnia 23 czerwca 1923 r., z dnia 20 marca 1924 r. i z dnia 31 marca 1925 r.",
+  "title_en": "",
+  "short_name": "pl-du-1926-463",
+  "status": "in_force",
+  "issued_date": "1926-07-23",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/463",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ustawa z dnia 2 marca 1923 r. w przedmiocie udzielenia Ministrowi Skarbu upoważnienia do regulowania w drodze rozporządzeń obrotu pieniężnego z krajami zagranicznemi oraz obrotu obcemi walutami (Dz. U. R. P. Nr. 25, poz. 154) w brzmieniu, nadanem jej ustawami z dnia 23 czerwca 1923 r. (Dz. U. R. P. Nr 62, poz. 459), z dnia 20 marca 1924 r. (Dz. U. R, P. Nr. 29, poz. 285) i z dnia 31 marca 1925 r. (Dz. U. R. P. Nr. 32, poz. 225), ulega następującym zmianom: 1) w art. 1 w wierszu drugim ustępu drugiego słowa: „31 marca 1926 r.” skreśla się i zastępuje się słowami „31 marca 1927 r.”; 2) w art. 4 skreśla się uzupełniające ten artykuł postanowienie, zawarte w artykule I punkt 4 ustawy z dnia 20 marca 1924 r. (Dz. U. R. P. Nr. 29, poz. 285)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu oraz Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

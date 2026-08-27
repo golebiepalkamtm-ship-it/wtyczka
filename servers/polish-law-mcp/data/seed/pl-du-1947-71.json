@@ -1,0 +1,206 @@
+{
+  "id": "pl-du-1947-71",
+  "type": "statute",
+  "title": "Ustawa Konstytucyjna z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1947-71",
+  "status": "repealed",
+  "issued_date": "1947-02-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1947/71",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do czasu wejścia w życie nowej Konstytucji Rzeczypospolitej Polskiej Sejm Ustawodawczy, jako organ władzy zwierzchniej Narodu Polskiego i w oparciu o podstawowe założenia Konstytucji z dnia 17 marca 1921 r. , zasady Manifestu Polskiego Komitetu Wyzwolenia Narodowego z dnia 22 lipca 1944 r., zasady ustawodawstwa o radach narodowych oraz reformy społeczne i ustrojowe, potwierdzone przez Naród w głosowaniu ludowym z dnia 30 czerwca 1946 r. - postanawia co następuje o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej. Rozdział I Najwyższe organy Rzeczypospolitej Polskiej"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Najwyższymi organami Rzeczypospolitej Polskiej są: w zakresie ustawodawstwa - Sejm Ustawodawczy, w zakresie władzy wykonawczej - Prezydent Rzeczypospolitej, Rada Państwa i Rząd Rzeczypospolitej, w zakresie wymiaru sprawiedliwości - niezawisłe sądy. Rozdział II Sejm Ustawodawczy"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Zakres działania Sejmu Ustawodawczego obejmuje: a) uchwalenie Konstytucji Rzeczypospolitej Polskiej , b) ustawodawstwo, c) kontrolę nad działalnością Rządu i ustalanie zasadniczego kierunku polityki Państwa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Sejm może w drodze ustawy udzielić Rządowi pełnomocnictw do wydawania dekretów z mocą ustawy z wyłączeniem spraw: konstytucji , ordynacji wyborczej, kontroli państwowej, odpowiedzialności Prezydenta Rzeczypospolitej i ministrów, przewidzianej w art. 27, budżetu, narodowego planu gospodarczego, zmiany systemu monetarnego, poboru rekruta, ustroju samorządu i ratyfikacji umów międzynarodowych. 2. Pełnomocnictwa wymienione w ust. 1 mogą być udzielane tylko na okresy między sesjami lub w razie odroczenia sesji Sejmu oraz na okres po rozwiązaniu Sejmu Ustawodawczego do czasu ukonstytuowania się nowego Sejmu. 3. Prezes Rady Ministrów przedkłada dekrety do zatwierdzenia Radzie Państwa. 4. Prezydent Rzeczypospolitej zarządza ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej dekretów z mocą ustawy, zatwierdzonych przez Radę Państwa i podpisanych przez Prezydenta Rzeczypospolitej, Prezesa Rady Ministrów i właściwych ministrów. 5. Dekrety z mocą ustawy nieprzedłożone do zatwierdzenia na najbliższej sesji Sejmu albo których zatwierdzenia Sejm odmówił zwykłą większością tracą moc w dniu zamknięcia lub odroczenia sesji Sejmu, o czym Prezes Rady Ministrów podaje do wiadomości w drodze obwieszczenia, ogłoszonego w Dzienniku Ustaw Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prawo inicjatywy ustawodawczej przysługuje Rządowi, Sejmowi i Radzie Państwa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kadencja Sejmu Ustawodawczego trwa lat pięć, licząc od dnia otwarcia Sejmu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Prezydent Rzeczypospolitej zwołuje, otwiera, odracza i zamyka Sejm. 2. Prezydent Rzeczypospolitej zwołuje Sejm na zwyczajną sesję jesienną corocznie najpóźniej w październiku. Sesja jesienna nie może być zamknięta przed uchwaleniem ustaw o budżecie, narodowym planie gospodarczym i poborze rekruta, lub przed upływem dwóch miesięcy od jej zwołania. 3. Prezydent Rzeczypospolitej zwołuje Sejm na zwyczajną sesję wiosenną corocznie najpóźniej w kwietniu. Sesja wiosenna nie może być zamknięta przed powzięciem uchwały w sprawie udzielenia Rządowi absolutorium na podstawie wniosku Najwyższej Izby Kontroli lub przed upływem jednego miesiąca od jej zwołania. 4. Prezydent Rzeczypospolitej może w każdym czasie zwołać Sejm na sesję nadzwyczajną, a winien to uczynić w ciągu dwóch tygodni na żądanie jednej trzeciej części ustawowej liczby posłów."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Jeżeli Sejm w ciągu trzech miesięcy od przedłożenia mu przez Rząd projektów nie uchwali ustaw o budżecie, narodowym planie gospodarczym i poborze rekruta, Prezydent Rzeczypospolitej za zgodą Rady Państwa ogłosi te ustawy w brzmieniu projektów rządowych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Sejm wybiera ze swego grona Marszałka, 3 wicemarszałków, sekretarzy i komisje. 2. Mandaty Marszałka i wicemarszałków trwają po rozwiązaniu Sejmu do czasu ukonstytuowania się nowego Sejmu. 3. Marszałek mianuje urzędników sejmowych, za których działania odpowiada przed Sejmem."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Posłowie składają na ręce Marszałka wobec Sejmu następujące ślubowanie: „ Ślubuję uroczyście jako poseł na Sejm Ustawodawczy według najlepszego rozumienia i zgodnie z sumieniem pracować dla dobra narodu polskiego, stać na straży jego praw demokratycznych i czynić wszystko w miarę sił i uzdolnień dla umocnienia niepodległości i pomyślnego rozwoju Rzeczypospolitej Polskiej ” ."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Do posłów na Sejm Ustawodawczy stosuje się przepisy art. 21, 22 i 24 Konstytucji z dnia 17 marca 1921 r. Rozdział III Prezydent Rzeczypospolitej"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Sejm wybiera Prezydenta Rzeczypospolitej na lat siedem bezwzględną większością głosów w obecności co najmniej dwóch trzecich ustawowej liczby posłów."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Do sprawowania urzędu Prezydenta Rzeczypospolitej stosuje się odpowiednio przepisy art. 40, 42, 43, 44, 45 ust. 1, 46, 47, 48, 49, 50, 51, 52 i 53 Konstytucji z dnia 17 marca 1921 r."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "W razie opróżnienia urzędu Prezydenta Rzeczypospolitej Sejm dokona niezwłocznie wyboru Prezydenta. Rozdział IV Rada Państwa"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Do Rady Państwa wchodzą: Prezydent Rzeczypospolitej jako przewodniczący, Marszałek i wicemarszałkowie Sejmu Ustawodawczego, Prezes Najwyższej Izby Kontroli. 2. W czasie wojny do Rady Państwa wchodzi również Naczelny Dowódca Wojska Polskiego. 3. Na jednomyślny wniosek Rady Państwa Sejm może uzupełnić jej skład przez powołanie dalszych członków Rady Państwa w liczbie co najwyżej trzech."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Zakres działania Rady Państwa obejmuje: a) sprawowanie zwierzchniego nadzoru nad terenowymi radami narodowymi w granicach uprawnień Krajowej Rady Narodowej i Prezydium Krajowej Rady Narodowej na zasadzie ustawy z dnia 11 września 1944 r. o organizacji i zakresie działania rad narodowych , b) zatwierdzanie dekretów z mocą ustawy, uchwalonych na podstawie pełnomocnictw, udzielonych Rządowi przez Sejm, c) kompetencje Prezydium Krajowej Rady Narodowej, wynikające z obowiązującego ustawodawstwa, d) podejmowanie uchwał w przedmiocie wprowadzenia stanu wyjątkowego lub wojennego (art. 19 ust. 2), e) wyrażanie zgody na ogłoszenie ustaw o budżecie, narodowym planie gospodarczym i poborze rekruta w przypadkach przewidzianych w art. 8, f) inicjatywę ustawodawczą, g) rozpatrywanie sprawozdań Najwyższej Izby Kontroli. Rozdział V Rząd Rzeczypospolitej"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Na czele Rządu stoi Prezes Rady Ministrów, pod którego przewodnictwem ministrowie tworzą Radę Ministrów."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "1. Dla rozpatrzenia spraw wyjątkowej wagi na życzenie Prezydenta Rzeczypospolitej Prezes Rady Ministrów zwołuje Radę Gabinetową. 2. Radę Gabinetową stanowi Rada Ministrów pod przewodnictwem Prezydenta Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. Do Rady Ministrów i ministrów stosuje się odpowiednio przepisy art. 44, 45 ust. 1 i 2 oraz art. 56-63 Konstytucji z dnia 17 marca 1921 r. 2. Na wniosek Rady Ministrów Rada Państwa może wprowadzić stan wyjątkowy lub wojenny. Zarządzenie takie winno być przedłożone Sejmowi na najbliższym posiedzeniu do zatwierdzenia i traci moc w razie nieprzedłożenia lub odmowy zatwierdzenia przez Sejm. Rozdział VI Najwyższa Izba Kontroli"
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "1. Najwyższa Izba Kontroli bada pod względem finansowym i gospodarczym działalność władz, instytucji i przedsiębiorstw państwowych. 2. Rada Państwa może zlecić Najwyższej Izbie Kontroli jednorazowe lub stałe kontrolowanie wszystkich lub niektórych jednostek samorządowych oraz związków lub instytucji, korzystających z pomocy Państwa lub wykonujących czynności zlecone w zakresie administracji publicznej."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "1. Sejm wybiera Prezesa Najwyższej Izby Kontroli. 2. Osobna ustawa określi organizację i sposób działania Najwyższej Izby Kontroli."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Najwyższa Izba Kontroli bada corocznie zamknięcia rachunków państwowych i przedkłada Sejmowi wniosek w przedmiocie udzielenia lub odmówienia Rządowi absolutorium."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Prezes Najwyższej Izby Kontroli bierze osobiście lub przez swego przedstawiciela udział w obradach Sejmu i ma prawo zabierania głosu we wszelkich sprawach, związanych ze sprawozdaniem z działalności Rządu i zamknięciem rachunków państwowych. Rozdział VII Wymiar sprawiedliwości"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "1. Wymiar sprawiedliwości w imieniu Rzeczypospolitej Polskiej należy do sądów. 2. Sędziowie są w sprawowaniu swego urzędu sędziowskiego niezawiśli i podlegają tylko ustawom. 3. Sądy nie mają prawa badania ważności ustaw i dekretów z mocą ustawy należycie ogłoszonych."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "1. Ustawy określają ustrój i zakres właściwości sądów oraz sposób przejęcia przez sądownictwo powszechne całego wymiaru sprawiedliwości. 2. Ustawy określają prawa i obowiązki sędziów, sposób ich powoływania oraz ich uposażenie."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Osobna ustawa ustali tryb i zakres działania organów właściwych do orzekania o legalności aktów administracyjnych w zakresie administracji publicznej. Rozdział VIII Przepisy przejściowe"
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Osobna ustawa powoła organy właściwe do orzekania w sprawach, wynikających z odpowiedzialności konstytucyjnej ministrów oraz z odpowiedzialności Prezydenta Rzeczypospolitej, określonej w art. 51 Konstytucji z dnia 17 marca 1921 r."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Rząd złoży Sejmowi projekt budżetu, narodowego planu gospodarczego i ustawy o poborze rekruta na rok 1947 nie później niż w ciągu trzech miesięcy od dnia otwarcia Sejmu Ustawodawczego."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Rząd przedłoży Sejmowi Ustawodawczemu do zatwierdzenia najdalej w ciągu trzech miesięcy od dnia otwarcia Sejmu dekrety z mocą ustawy, ogłoszone po dniu 23 września 1946 r. Dekrety nie przedłożone do zatwierdzenia lub których zatwierdzenia Sejm odmówi zwykłą większością głosów tracą moc w dniu zamknięcia sesji, na której winny były być przedłożone, o czym Prezes Rady Ministrów poda do wiadomości w drodze obwieszczenia, ogłoszonego w Dzienniku Ustaw Rzeczypospolitej Polskiej. Rozdział IX Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Do zmiany ustawy niniejszej wymagana jest większość dwóch trzecich ustawowej liczby posłów."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów i wszystkim ministrom."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"chpt_I\",\"symbol\": \"chpt_I\",\"type\": \"chpt\",\"name\": \"I\",\"title\": \"Rozdział I - Najwyższe organy Rzeczypospolitej Polskiej\",\"children\": [{\"id\": \"chpt_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"}]},{\"id\": \"chpt_II\",\"symbol\": \"chpt_II\",\"type\": \"chpt\",\"name\": \"II\",\"title\": \"Rozdział II - Sejm Ustawodawczy\",\"children\": [{\"id\": \"chpt_II-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_II-arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_II-arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_II-arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"chpt_II-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"chpt_II-arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_II-arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_II-arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_II-arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"chpt_II-arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"chpt_II-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"chpt_II-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"chpt_II-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_II-arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_II-arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_II-arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"chpt_II-arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"chpt_II-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_II-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"chpt_II-arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_II-arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_II-arti_9-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_II-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"}]},{\"id\": \"chpt_III\",\"symbol\": \"chpt_III\",\"type\": \"chpt\",\"name\": \"III\",\"title\": \"Rozdział III - Prezydent Rzeczypospolitej\",\"children\": [{\"id\": \"chpt_III-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"chpt_III-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_III-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"}]},{\"id\": \"chpt_IV\",\"symbol\": \"chpt_IV\",\"type\": \"chpt\",\"name\": \"IV\",\"title\": \"Rozdział IV - Rada Państwa\",\"children\": [{\"id\": \"chpt_IV-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_IV-arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_IV-arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_IV-arti_15-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_IV-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_IV-arti_16-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"chpt_IV-arti_16-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"chpt_IV-arti_16-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"chpt_IV-arti_16-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"chpt_IV-arti_16-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"},{\"id\": \"chpt_IV-arti_16-lett_f\",\"symbol\": \"lett_f\",\"type\": \"lett\",\"name\": \"f\",\"title\": \"f)\"},{\"id\": \"chpt_IV-arti_16-lett_g\",\"symbol\": \"lett_g\",\"type\": \"lett\",\"name\": \"g\",\"title\": \"g)\"}]}]},{\"id\": \"chpt_V\",\"symbol\": \"chpt_V\",\"type\": \"chpt\",\"name\": \"V\",\"title\": \"Rozdział V - Rząd Rzeczypospolitej\",\"children\": [{\"id\": \"chpt_V-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_V-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_V-arti_18-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_V-arti_18-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_V-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_V-arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_V-arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]}]},{\"id\": \"chpt_VI\",\"symbol\": \"chpt_VI\",\"type\": \"chpt\",\"name\": \"VI\",\"title\": \"Rozdział VI - Najwyższa Izba Kontroli\",\"children\": [{\"id\": \"chpt_VI-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_VI-arti_20-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_VI-arti_20-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_VI-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_VI-arti_21-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_VI-arti_21-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_VI-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_VI-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"}]},{\"id\": \"chpt_VII\",\"symbol\": \"chpt_VII\",\"type\": \"chpt\",\"name\": \"VII\",\"title\": \"Rozdział VII - Wymiar sprawiedliwości\",\"children\": [{\"id\": \"chpt_VII-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_VII-arti_24-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_VII-arti_24-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"chpt_VII-arti_24-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"chpt_VII-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_VII-arti_25-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"chpt_VII-arti_25-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"chpt_VII-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"}]},{\"id\": \"chpt_VIII\",\"symbol\": \"chpt_VIII\",\"type\": \"chpt\",\"name\": \"VIII\",\"title\": \"Rozdział VIII - Przepisy przejściowe\",\"children\": [{\"id\": \"chpt_VIII-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"chpt_VIII-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_VIII-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"}]},{\"id\": \"chpt_IX\",\"symbol\": \"chpt_IX\",\"type\": \"chpt\",\"name\": \"IX\",\"title\": \"Rozdział IX - Przepisy końcowe\",\"children\": [{\"id\": \"chpt_IX-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"chpt_IX-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"chpt_IX-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1920-8",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 grudnia 1919 r. w sprawie zmiany ustawy z dnia 28 lipca 1919 r. o przyznaniu funkcjonarjuszom państwowym, nauczycielom szkół powszechnych i profesorom zakładów teologicznych nadzwyczajnego dodatku drożyźnianego.",
+  "title_en": "",
+  "short_name": "pl-du-1920-8",
+  "status": "in_force",
+  "issued_date": "1919-12-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/8",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 6 ustawy z dnia 28 lipca 1919 r. (Dz. Pr. P. P. № 63) o przyznaniu funkcjonarjuszom państwowym, nauczycielom szkół powszechnych i profesorom zakładów teologicznych nadzwyczajnego dodatku drożyźnianego - otrzymuje brzmienie następujące: Osoby, uprawnione w myśl niniejszej ustawy do poboru dodatku drożyźnianego, jeśli stanowią jedną rodzinę i mają jedno wspólne gospodarstwo domowe, będą wyłączone z liczby jej członków przy obliczeniu wysokości dodatku drożyźnianego w myśl art. 2 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

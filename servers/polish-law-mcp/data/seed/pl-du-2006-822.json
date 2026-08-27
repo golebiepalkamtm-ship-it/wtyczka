@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-822",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 kwietnia 2006 r. o ratyfikacji Poprawionego Artykułu 1 Konwencji o zakazie lub ograniczeniu użycia pewnych broni konwencjonalnych, które mogą być uważane za powodujące nadmierne cierpienia lub mające niekontrolowane skutki, wraz z załącznikami, sporządzonej w Genewie dnia 10 października 1980 r. (Konwencja CCW), który został przyjęty przez Państwa-Strony na Drugiej Konferencji Przeglądowej Konwencji CCW w dniu 21 grudnia 2001 r. w Genewie",
+  "title_en": "",
+  "short_name": "pl-du-2006-822",
+  "status": "in_force",
+  "issued_date": "2006-04-27",
+  "in_force_date": "2006-07-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/822",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Poprawionego Artykułu 1 Konwencji o zakazie lub ograniczeniu użycia pewnych broni konwencjonalnych, które mogą być uważane za powodujące nadmierne cierpienia lub mające niekontrolowane skutki, wraz z załącznikami, sporządzonej w Genewie dnia 10 października 1980 r. (Konwencja CCW), który został przyjęty przez Państwa-Strony na Drugiej Konferencji Przeglądowej Konwencji CCW w dniu 21 grudnia 2001 r. w Genewie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

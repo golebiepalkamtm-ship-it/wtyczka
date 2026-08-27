@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1930-49",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lutego 1930 r. o dodatkowych kredytach na okres budżetowy od dnia 1 kwietnia 1929 r. do dnia 31 marca 1930 r.",
+  "title_en": "",
+  "short_name": "pl-du-1930-49",
+  "status": "in_force",
+  "issued_date": "1930-02-01",
+  "in_force_date": "1930-02-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/49",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyty, ustalone w załączonym do ustawy skarbowej z dnia 25 marca 1929 r. na okres od 1 kwietnia 1929 r. do 31 marca 1930 r. (Dz. U. R. P. Nr 20, poz. 183) budżecie na okres od 1 kwietnia 1929 r. do 31 marca 1930 r., podwyższa się o następujące kwoty: GRUPA A. „ADMINISTRACJA”. Część 5. Ministerstwo Spraw Zagranicznych. Wydatki zwyczajne. Dział 5 par. 11. „Fundusz propagandowy” . . . o 75.000 zł Część 7. Ministerstwo Spraw Wewnętrznych. Wydatki zwyczajne. Dział I w nowoutworzonym paragrafie 10. „Fundusz dyspozycyjny” . . . o 750.000 zł Część 8. Ministerstwo Skarbu. I. Wydatki zwyczajne. a) Dział 3 par. 11: „Różne rozchody” . . . o 900.000 zł b) Dział 6 par. 12: „Zwroty cła” . . . o 1.200.000 zł c) Dział 6 par. 13: „Zwroty opłat stemplowych” . . . o 400.000 zł d) Dział 9 par. 1: „Uposażenie” . . . o 110.000 zł II. Wydatki nadzwyczajne. e) Dział 5 w nowoutworzonym paragrafie 38: „Zwrot związkom komunalnym udziału w państwowym podatku dochodowym” . . . o 7.500.000 zł f) Dział 5 w nowoutworzonym paragrafie 39: „Dotacja dla miast na pokrycie opłat i podatków państwowych w wyniku umów, zawartych z firmą „Ulen” . . . o 7.000.000 zł Część 13. Ministerstwo Wyznań Religijnych i Oświecenia Publicznego. Wydatki nadzwyczajne. a) Dział 1 par. 9: „Budowle” . . . o 711.106 zł b) Dział 3 w nowoutworzonym paragrafie 12: „Budowa Centralnego Instytutu Wychowania Fizycznego” . . . o 2.000.000 zł Część 15. Ministerstwo Pracy i Opieki Społecznej. Wydatki zwyczajne. a) Dział 9 par. 19: „Pomoc poszkodowanym przez wypadki żywiołowe, przesilenia gospodarcze oraz żywienie ludności” . . . o 1.000.000 zł b) Dział 9 par. 22: „Dopłaty do zabezpieczenia na wypadek bezrobocia oraz pomoc dla bezrobotnych wsi i miast” ... . . . o 15.000.000 zł Część 17. Ministerstwo Poczt i Telegrafów. Wydatki nadzwyczajne. Dział 1 w nowoutworzonym paragrafie 10: „Zwrot firmie Erickson wpłaty na poczet ceny kupna Państwowej Wytwórni Aparatów Telegraficznych i Telefonicznych” . . . o 660.000 zł Część 20. Długi państwowe. Wydatki zwyczajne. a) Dział 1 par. 1: „Spłata kapitału długów wewnętrznych” . . . o 1.267.687 zł b) Dział 1 par. 2: „Spłata odsetek od długów wewnętrznych” . . . o 11.032.313 zł GRUPA B. „PRZEDSIĘBIORSTWA”. Część 10. Ministerstwo Przemysłu i Handlu. Rozchody nadzwyczajne. Dział 16: „Państwowa Fabryka Związków Azotowych w Tarnowie” . . . o 2.000.000 zł"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie wydatków, przewidzianych w art. 1, w łącznej kwocie 51.606.106 zł służy ogólna nadwyżka dochodów nad wydatkami w okresie od 1 kwietnia 1929 r. d. . . o 31 marca 1930 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1929 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

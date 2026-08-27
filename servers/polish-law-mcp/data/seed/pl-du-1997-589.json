@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1997-589",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 maja 1997 r. o zmianie ustawy o Najwyższej Izbie Kontroli oraz ustawy o związkach zawodowych.",
+  "title_en": "",
+  "short_name": "pl-du-1997-589",
+  "status": "in_force",
+  "issued_date": "1997-05-21",
+  "in_force_date": "1997-08-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/589",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli ( Dz. U. z 1995 r. Nr 13, poz. 59 , z 1996 r. Nr 64, poz. 315 i Nr 89, poz. 402 oraz z 1997 r. Nr 28, poz. 153 i Nr 79, poz. 484 ) art. 86 otrzymuje brzmienie: „ Art. 86. 1. Pracownicy Najwyższej Izby Kontroli, z wyjątkiem Prezesa, wiceprezesów, dyrektora generalnego, dyrektorów i wicedyrektorów jednostek organizacyjnych oraz doradców Prezesa, mają prawo zrzeszania się w związkach zawodowych. 2. Pracownicy nadzorujący lub wykonujący czynności kontrolne mogą należeć do związku zawodowego zrzeszającego wyłącznie pracowników Najwyższej Izby Kontroli. W Najwyższej Izbie Kontroli może działać tylko jeden związek zawodowy zrzeszający pracowników, o których mowa w zdaniu pierwszym. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 23 maja 1991 r. o związkach zawodowych ( Dz. U. Nr 55, poz. 234 , z 1994 r. Nr 43, poz. 163 , z 1996 r. Nr 1, poz. 2 , Nr 24, poz. 110 , Nr 61, poz. 283 , Nr 75, poz. 355 i Nr 152, poz. 723 oraz z 1997 r. Nr 82, poz. 518 i Nr 88, poz. 554 ) w art. 2 w ust. 6 po wyrazach „oraz strażaków Państwowej Straży Pożarnej” dodaje się wyrazy „, a także pracowników Najwyższej Izby Kontroli” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przynależność pracowników nadzorujących lub wykonujących czynności kontrolne do związku zawodowego innego niż określony w art. 86 ust. 2 ustawy, o której mowa w art. 1, ustaje z mocy prawa."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

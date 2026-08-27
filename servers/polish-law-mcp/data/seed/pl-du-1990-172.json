@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-172",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 kwietnia 1990 r. o przekazaniu Ministrowi Pracy i Polityki Socjalnej z zakresu działania Ministra Zdrowia i Opieki Społecznej zadań dotyczących pomocy społecznej.",
+  "title_en": "",
+  "short_name": "pl-du-1990-172",
+  "status": "repealed",
+  "issued_date": "1990-04-06",
+  "in_force_date": "1990-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/172",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 października 1987 r. o utworzeniu urzędu Ministra Pracy i Polityki Socjalnej ( Dz. U. Nr 33, poz. 175 ) w art. 2: 1) w ust. 1 dodaje się na końcu wyrazy „oraz pomocy społecznej.” ; 2) w ust. 2: a) w pkt 4: - po wyrazie „socjalnych” dodaje się wyrazy „oraz pomocy społecznej” , - dodaje się lit. d)-f) w brzmieniu: „ d) organizację pomocy społecznej instytucjonalnej i środowiskowej dla osób znajdujących się w trudnej sytuacji życiowej, e) ustalanie zasad funkcjonowania i organizacji placówek pomocy społecznej, f) organizowanie i prowadzenie poradnictwa oraz pośrednictwa zawodowego dla inwalidów. ” , b) w pkt 6 wyraz „oraz” zastępuje się przecinkiem, średnik skreśla się, a na końcu dodaje wyrazy „oraz pomocy społecznej” , c) po pkt 6 dodaje się pkt 6 1 i 6 2 w brzmieniu: „ 6 1 ) współpracując z organizacjami społecznymi w zakresie pomocy społecznej. 6 2 ) współpracując z organizacjami międzynarodowymi. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Określone w odrębnych przepisach sprawy i kompetencje należące do Ministra Zdrowia i Opieki Społecznej, w zakresie ustalonym niniejszą ustawą, przechodzą do Ministra Pracy i Polityki Socjalnej, a w szczególności: 1) w dekrecie z dnia 29 września 1948 r. o zniesieniu urzędu Ministra Aprowizacji ( Dz. U. Nr 48, poz. 360 ) , 2) w ustawie z dnia 13 kwietnia 1960 r. o zmianach właściwości w dziedzinie ubezpieczeń społecznych, rent, zaopatrzeń i opieki społecznej ( Dz. U. Nr 20, poz. 119 , z 1972 r. Nr 11, poz. 81 , z 1974 r. Nr 39, poz. 231 i Nr 47, poz. 280 oraz z 1985 r. Nr 20, poz. 85 ) ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

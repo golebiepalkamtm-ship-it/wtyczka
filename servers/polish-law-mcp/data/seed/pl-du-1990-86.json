@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-86",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lutego 1990 r. o zmianie ustawy - Prawo o stowarzyszeniach i ustawy o szkolnictwie wyższym.",
+  "title_en": "",
+  "short_name": "pl-du-1990-86",
+  "status": "amended",
+  "issued_date": "1990-02-23",
+  "in_force_date": "1990-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/86",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach ( Dz. U. Nr 20, poz. 104 ) wprowadza się następujące zmiany: 1) w art. 7 w ust. 1 dodaje się pkt 5 w brzmieniu: „ 5) partie polityczne. ” ; 2) w art. 14 oznaczenie ust. 1 oraz ust. 2 skreśla się; 3) w art. 17 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Terenowa jednostka organizacyjna, o której mowa w art. 10 ust. 2, może uzyskać osobowość prawną, jeżeli statut stowarzyszenia to przewiduje. ” ; 4) art. 23 i 24 skreśla się; 5) w art. 25: a) oznaczenie ust. 1 oraz pkt 3 skreśla się, b) dotychczasowy pkt 4 oznacza się jako pkt 3, c) ust. 2 skreśla się; 6) w art. 26 wyrazy „ust. 1 i 2” skreśla się; 7) w art. 29: a) w ust. 1 pkt 3 skreśla się, a dotychczasowy pkt 4 oznacza się jako pkt 3, b) w ust. 2 wyrazy „ust. 1 pkt 4” zastępuje się wyrazami „ust. 1 pkt 3” , c) ust. 3 otrzymuje brzmienie: „ 3. Rozpoznając wniosek o rozwiązanie stowarzyszenia, sąd może zobowiązać władze stowarzyszenia do usunięcia nieprawidłowości w określonym terminie i zawiesić postępowanie. W razie bezskutecznego upływu terminu, sąd, na wniosek organu nadzorującego lub z własnej inicjatywy, podejmie zawieszone postępowanie. ” ; 8) w art. 43 w pkt 1 wyrazy „art. 25 ust. 1 pkt 3 i ust. 2” skreśla się; 9) art. 46 skreśla się; 10) art. 53 skreśla się."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 4 maja 1982 r. o szkolnictwie wyższym ( Dz. U. z 1985 r. Nr 42, poz. 201 , z 1987 r. Nr 22, poz. 128 oraz z 1989 r. Nr 4, poz. 24 , Nr 6, poz. 33 , Nr 20, poz. 104 , Nr 29, poz. 154 , Nr 34, poz. 181 i Nr 35, poz. 192 ) w art. 123 dodaje się ust. 3 w brzmieniu: „ 3. Członkami stowarzyszeń studenckich o zasięgu ogólnokrajowym mogą być także inne stowarzyszenia studenckie. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_5-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\",\"children\": [{\"id\": \"arti_1-pint_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_7-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_1-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"},{\"id\": \"arti_1-pint_9\",\"symbol\": \"pint_9\",\"type\": \"pint\",\"name\": \"9\",\"title\": \"9)\"},{\"id\": \"arti_1-pint_10\",\"symbol\": \"pint_10\",\"type\": \"pint\",\"name\": \"10\",\"title\": \"10)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

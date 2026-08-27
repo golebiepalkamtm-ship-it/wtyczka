@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-139",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 grudnia 1921 r. w przedmiocie zatwierdzenia podpisanej w Warszawie dnia 24 października 1921 r. umowy, zawartej pomiędzy Polską a Wolnem Miastem Gdańskiem celem wykonania i uzupełnienia polsko-gdańskiej konwencji z dnia 9 listopada 1920 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-139",
+  "status": "in_force",
+  "issued_date": "1921-12-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/139",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza umowę, zawartą pomiędzy Polską a Wolnem Miastem Gdańskiem celem wykonania i uzupełnienia polsko - gdańskiej konwencji z dnia 9 listopada 1920 r., podpisaną w Warszawie dnia 24 października 1921 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy zleca się właściwym ministrom."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Załącznik - Protokuł o wymianie not Podpisani zebrali się dzisiaj w mieszkaniu Prezydenta Stanu Wolnego Miasta Gdańska Henryka Sahma celem wymiany not przewidzianej w artykule 244 umowy, zawartej pomiędzy Polską a Wolnem Miastem Gdańskiem w Warszawie w dniu 24 października 1921 r. celem wykonania i uzupełnienia polsko - gdańskiej Konwencji z dnia 9 listopada 1920 r. Po przedłożeniu not i uznaniu ich za wystawione w należytej formie nastąpiła wymiana tych not. W dowód czego podpisani zaopatrzyli niniejszy protokuł w swe podpisy tudzież swoje pieczęcie. Działo się w Gdańsku dnia 31 grudnia 1921 r. Za Rzeczpospolitą Polską: L. Pluciński Za Wolne Miasto Gdańsk: Julius Jewelowski KOMISARZ GENERALNY RZECZYPOSPOLITEJ POLSKIEJ W GDAŃSKU. I. № 11990. Gdańsk, dnia 31 grudnia 1921 r. Do Pana Prezydenta Senatu Wolnego Miasta Gdańska. Panie Prezydencie! Z polecenia i w imieniu mego Rządu mam zaszczyt zawiadomić niniejszem Senat Wolnego Miasta Gdańska - myśl artykułu 244 Umowy zawartej w dniu 24 października 1921 r. pomiędzy Polską a W. M. Gdańskiem celem wykonania i uzupełnienia polsko - gdańskiej Konwencji z dnia 9. XI. 1920 r. - że Umowa ta została już zatwierdzona przez Sejm Rzeczypospolitej i że jej ogłoszenie może nastąpić każdej chwili. Terminy, przewidziane poza artykułem 244 w Umowie z dnia 24 października 1921 r., zostają w mocy. Racz Pan, Panie Prezydencie, przyjąć wyrazy prawdziwego poważania L. Pluciński Gdańsk, dnia 31 grudnia 1921 r. SENAT WOLNEGO MIASTA GDAŃSKA. Do Pana Dyplomatycznego Przedstawiciela Rzeczypospolitej Polskiej Leona Plucińskiego. Mam zaszczyt stwierdzić oraz zawiadomić JWPana, że umowa, zawarta pomiędzy Polską a Wolnem Miastem Gdańskiem celem wykonania i uzupełnienia polsko - gdańskiej konwencji z dn. 9 listopada 1920 r., podpisana w Warszawie dnia 24 października 1921 r., oraz umowa dodatkowa, podpisana w Warszawie 21 grudnia 1921 roku w Wolnem Mieście Gdańsku zostały zatwierdzone przez Senat i w dniu 31 grudnia 1921 roku przez Volkstag, i że ogłoszenie może nastąpić każdej chwili. Terminy, przewidziane w umowie z dnia 24 października 1921 r. poza artykułem 244 - pozostają w mocy. Raczy JWPan przyjąć wyrazy prawdziwego poważania Sahm Protokuł dodatkowy. Podpisani są zgodni, że z powodów technicznych wykonanie części szóstej Umowy z dnia 24 października 1921 zawartej celem wykonania i uzupełnienia polsko - gdańskiej Konwencji z dnia 9 listopada 1920 r. rozpocznie się o północy z dziesiątego na jedenastego stycznia 1922 r. Gdańsk, dnia 31 grudnia 1921 r. Za Rzeczpospolitą polską: L. Pluciński Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Protokuł o wymianie not\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

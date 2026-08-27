@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2009-961",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 maja 2009 r. o zmianie ustawy o Agencji Restrukturyzacji i Modernizacji Rolnictwa",
+  "title_en": "",
+  "short_name": "pl-du-2009-961",
+  "status": "amended",
+  "issued_date": "2009-05-21",
+  "in_force_date": "2009-07-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2009/961",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 maja 2008 r. o Agencji Restrukturyzacji i Modernizacji Rolnictwa ( Dz. U. Nr 98, poz. 634 i Nr 227, poz. 1505 ) wprowadza się następujące zmiany: 1) w art. 31: a) ust. 1 otrzymuje brzmienie: „ 1. Należności ustalane w drodze decyzji administracyjnej przez Prezesa Agencji z tytułu nienależnie lub nadmiernie pobranych środków publicznych pochodzących z Europejskiego Funduszu Rolniczego Gwarancji (EFRG) lub Europejskiego Funduszu Rolniczego Rozwoju Obszarów Wiejskich (EFRROW) oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy, a także wierzytelności wynikające z umów z tytułu płatności określonych w odrębnych przepisach, realizowanych przez Agencję ze środków publicznych pochodzących z EFRG lub EFRROW oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy, podlegają potrąceniu z bezspornej i wymagalnej wierzytelności lub należności dłużnika z tytułu realizowanych przez Agencję płatności w ramach tych funduszy oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy. ” , b) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Należności ustalane w drodze decyzji administracyjnej przez Prezesa Agencji z tytułu nienależnie lub nadmiernie pobranych środków publicznych pochodzących z funduszy Unii Europejskiej innych niż określone w ust. 1 oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy, a także wierzytelności wynikające z umów z tytułu płatności określonych w odrębnych przepisach, realizowanych przez Agencję ze środków publicznych pochodzących z funduszy Unii Europejskiej innych niż określone w ust. 1 oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy, podlegają potrąceniu z bezspornej i wymagalnej wierzytelności lub należności dłużnika z tytułu realizowanych przez Agencję płatności w ramach poszczególnych funduszy Unii Europejskiej innych niż określone w ust. 1 oraz krajowych środków publicznych przeznaczonych na współfinansowanie wydatków realizowanych z tych funduszy. ” ; 2) art. 42 otrzymuje brzmienie: „ Art. 42. Do stosunków prawnych powstałych na podstawie umów zawartych przed dniem wejścia w życie ustawy, w tym w ramach Specjalnego Programu Akcesyjnego na Rzecz Rozwoju Rolnictwa i Obszarów Wiejskich, stosuje się przepisy dotychczasowe, z wyłączeniem spraw dotyczących umarzania, w całości lub w części, rozkładania na raty lub odraczania terminu spłat wierzytelności Agencji przypadających jej w związku z wykonywaniem przez nią zadań finansowanych wyłącznie z krajowych środków publicznych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

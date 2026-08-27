@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2016-908",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 maja 2016 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz ustawy o zmianie ustawy - Prawo o szkolnictwie wyższym oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2016-908",
+  "status": "in_force",
+  "issued_date": "2016-05-20",
+  "in_force_date": "2016-06-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/908",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lipca 2005 r. - Prawo o szkolnictwie wyższym ( Dz. U. z 2012 r. poz. 572 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64 i 907. ) wprowadza się następujące zmiany: 1) w art. 167a ust. 4 otrzymuje brzmienie: „ 4. Uczelnia jest obowiązana do sprawdzania pisemnych prac dyplomowych przed egzaminem dyplomowym z wykorzystaniem Jednolitego Systemu Antyplagiatowego, o którym mowa w art. 167c ust. 1. ” ; 2) po art. 167b dodaje się art. 167c w brzmieniu: „ Art. 167c. 1. Minister właściwy do spraw szkolnictwa wyższego prowadzi Jednolity System Antyplagiatowy współpracujący z ogólnopolskim repozytorium pisemnych prac dyplomowych oraz zapewnia uczelniom nieodpłatne korzystanie z tego systemu. 2. Opracowanie systemu, o którym mowa w ust. 1, i administrowanie tym systemem minister właściwy do spraw szkolnictwa wyższego może zlecić instytutowi badawczemu, nadzorowanemu przez ministra właściwego do spraw nauki, którego przedmiot działania jest ściśle związany ze świadczeniem usług w zakresie systemów informacyjnych, zapewniając środki finansowe na ten cel. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo o szkolnictwie wyższym oraz niektórych innych ustaw ( Dz. U. poz. 1198 , z 2015 r. poz. 357 oraz z 2016 r. poz. 35 ) wprowadza się następujące zmiany: 1) uchyla się art. 34; 2) art. 35 otrzymuje brzmienie: „ Art. 35. Rektorzy uczelni, w terminie do dnia 31 grudnia 2018 r., są obowiązani przekazać do ogólnopolskiego repozytorium pisemnych prac dyplomowych dane dotyczące prac dyplomowych, których obrona zakończona pozytywnym wynikiem odbyła się po dniu 30 września 2009 r. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Uczelnie realizują obowiązek, o którym mowa w art. 167a ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, począwszy od roku akademickiego 2018/2019."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2012 r. poz. 742 i 1544, z 2013 r. poz. 675, 829, 1005, 1588 i 1650, z 2014 r. poz. 7, 768, 821, 1004, 1146 i 1198, z 2015 r. poz. 357, 860, 1187, 1240, 1268, 1767 i 1923 oraz z 2016 r. poz. 64 i 907. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

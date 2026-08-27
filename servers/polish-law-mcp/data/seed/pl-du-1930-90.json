@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1930-90",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lutego 1930 r. o wypłacie części zaległego dodatku mieszkaniowego za r. 1928 funkcjonarjuszom państwowym, sędziom, prokuratorom, osobom wojskowym oraz emerytom, wdowom i sierotom.",
+  "title_en": "",
+  "short_name": "pl-du-1930-90",
+  "status": "in_force",
+  "issued_date": "1930-02-26",
+  "in_force_date": "1930-02-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/90",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Funkcjonariuszom państwowym, sędziom i prokuratorom, osobom wojskowym, pracownikom kontraktowym, jak również osobom, otrzymującym zaopatrzenie emerytalne, wdowie lub sieroce na podstawie ustawy z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i zawodowych wojskowych (Dz. U. R. P. z r. 1924 Nr 6, poz. 46) i na podstawie rozporządzenia Rady Ministrów z dnia 4 lipca 1929 r. o zaopatrzeniu emerytalnem etatowych pracowników przedsiębiorstwa „Polskie Koleje Państwowe” i o zaopatrzeniu pozostałych po nich wdów i sierot oraz o odszkodowaniu za nieszczęśliwe wypadki (Dz. U. R. P. Nr 57, poz. 443) przyznaje się 1/3 część różnicy pomiędzy kwotą dodatku na mieszkanie, wypłaconego, względnie przypadającego do wypłaty, w myśl obowiązujących przepisów prawnych w czasie od 1 stycznia do 31 grudnia 1928 r., a kwotą, która przypadałaby do wypłaty w powyższym czasokresie, gdyby wzrost dodatku na mieszkanie nie został wstrzymany z dniem 31 grudnia 1925 r. na podstawie art. 1 ustawy z dnia 22 grudnia 1925 r. o środkach zapewnienia równowagi budżetowej (Dz. U. R. P. Nr 129, poz. 918)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nieetatowym pracownikom kolejowym stałym dziennie płatnym, objętym art. 102. 103 i 116 ustawy z dnia 9 października 1923 r. o uposażeniu funkcjonarjuszów państwowych i wojska (Dz. U. R. P. Nr 116, poz. 924), pracownikom dziennie płatnym, pobierającym wynagrodzenie według grup uposażenia pracowników państwowych, oraz osobom, uprawnionym do pobierania zaopatrzenia emerytalnego na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 3 września 1926 r. (Dz. U. R. P. Nr 94, poz. 551), przyznaje się wzamian dodatku mieszkaniowego jednorazowy zasiłek w wysokości 20% ich miesięcznego wynagrodzenia, względnie zaopatrzenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przy wypłatach kwot, określonych w art. 1 i 2, mają analogiczne zastosowanie postanowienia rozporządzeń Prezydenta Rzeczypospolitej z dnia 17 sierpnia 1927 r. (Dz. U. R. P. Nr 73, poz. 632), z dnia 13 września 1927 r. (Dz. U. R. P. Nr 81, poz. 699), z dnia 26 listopada 1927 r. (Dz. U. R. P. Nr 104, poz. 902) i z dnia 17 grudnia 1927 r. (Dz. U. R. P. Nr 112, poz. 948)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wydatek, związany z wypłatą kwot, określonych w art. 1 i 2 niniejszej ustawy, funkcjonariuszom państwowym administracji, oraz emerytom, wdowom i sierotom, zostanie pokryty z zapasów kasowych, powstałych z nadwyżki budżetowej, osiągniętej w r. 1929/30. Wydatek, spowodowany wypłatą kwot, określonych w art. 1 i 2, funkcjonariuszom przedsiębiorstw i monopolów państwowych, oraz emerytom, wdowom i sierotom, pobierającym zaopatrzenie z funduszów przedsiębiorstw i monopolów państwowych, zostanie pokryty z własnych wpływów tychże przedsiębiorstw i monopolów państwowych bez zmniejszenia przewidzianej w art. 3 ustawy skarbowej wpłaty tych przedsiębiorstw i monopolów do Skarbu Państwa, względnie bez podwyższenia dopłaty Skarbu Państwa do niektórych przedsiębiorstw. Wyjątek stanowią przedsiębiorstwo „Polskie Koleje Państwowe” i Monopol Tytoniowy, których wpłata do Skarbu Państwa może być odpowiednio zmniejszona."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wydatek, spowodowany wypłatą kwot, określonych w art. 1 i 2, osobom, wymienionym w art. 4 ust. 1, będzie wykazany w osobnem zamknięciu rachunkowem, stanowiącem załącznik do ogólnego zamknięcia rachunków za okres budżetowy 1929/30. Wydatek, spowodowany wypłatą kwot, określonych w art. 1 i 2, osobom, wymienionym w art. 4 ust. 2, będzie wykazany w osobnej pozycji w sprawozdaniu z wykonania planów finansowo-gospodarczych przedsiębiorstw i monopolów państwowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kwoty, określone w art. 1 i 2, będą płatne w dniu 1 marca 1930 r."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Prezesowi Rady Ministrów i Ministrowi Skarbu oraz wszystkim innym ministrom we właściwym każdemu z nich zakresie działania."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa mniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

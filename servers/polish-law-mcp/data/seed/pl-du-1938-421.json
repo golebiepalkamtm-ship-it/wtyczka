@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1938-421",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1938 r. o dodatkowych kredytach na rok 1938/39.",
+  "title_en": "",
+  "short_name": "pl-du-1938-421",
+  "status": "in_force",
+  "issued_date": "1938-07-14",
+  "in_force_date": "1938-08-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/421",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wydatki, ustalone w budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zwiększa się w grupie A. Administracja o następujące kwoty: 1) w części 7 Ministerstwo Spraw Wewnętrznych: a) w wydatkach zwyczajnych: w dziale 3 „Służba techniczna” w § 12 „Konserwacja gmachów reprezentacyjnych” o 200.000 zł b) w wydatkach nadzwyczajnych: w dziale 4 „Policja Państwowa” w nowoutworzonym § 9 „Nieruchomości” o 640.000 zł 2) w części 12 Ministerstwo Rolnictwa i Reform Rolnych w wydatkach zwyczajnych: w dziale 1 „Zarząd Centralny” w § 1 „Płace” o 120.000 zł w § 2 „Różne świadczenia osobowe” o 2.410 zł w § 3 „Podróże służbowe i przesiedlenia” o 10.000 zł w § 5 „Pomieszczenie” o 23.000 zł w § 6 „Wydatki biurowe” o 16.660 zł w § 6a „Opłaty pocztowe, telegraficzne i telefoniczne” o 6.000 zł w nowoutworzonym § 14 „Wydatki, związane z pracami aprowizacyjnymi” o 51.000 zł w dziale 2 „Wojewódzkie wydziały rolnictwa i reform rolnych”: w § 1 „Płace” o 81.000 zł w § 8 „Inne wydatki” o. 6.000 zł w nowoutworzonym § 17 „Wydatki, związane z pracami aprowizacyjnymi” o 600.000 zł"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W budżecie, załączonym do ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) : a) zmniejsza się w grupie A. Administracja wydatki zwyczajne o następujące kwoty: 1) w części 7 Ministerstwo Spraw Wewnętrznych: w dziale 1 „Zarząd centralny” w § 6 „Wydatki biurowe” o 7.600 zł w § 6a „Opłaty pocztowe, telegraficzne i telefoniczne” o 1.950 zł w § 8 „Inne wydatki” o 100 zł w § 11 „Służba aprowizacyjna” o 51.000 zł w dziale 2 „Województwa i starostwa” w § 1 „Płace” o 147.660 zł w § 2 „Różne świadczenia osobowe” o 2.410 zł w § 3 „Podróże służbowe i przesiedlenia” o 3.350 zł w § 11 „Koszty i świadczenia, wynikające z wykonania ustawy o powszechnym obowiązku wojskowym ” o 6.000 zł w § 15 „Wydatki służby aprowizacyjnej” o 600.000 zł 2) w części 10 Ministerstwo Przemysłu i Handlu: w dziale 1 „Zarząd centralny” w § 1 „Płace” o 5.000 zł w dziale 3 „Urząd patentowy” w § 1 „Place” o 5.000 zł w dziale 4 „Urzędy miar” w § 1 „Płace” o 5.000 zł b) zwiększa się wpłatę do Skarbu Państwa w grupie C Monopole, w części 8 Ministerstwo Skarbu, w dziale 16 Monopol Spirytusowy o 921.000 zł."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ilość etatów osobowych administracji cywilnej, ustaloną w wykazie, załączonym do art. 7 ustawy skarbowej z dnia 29 marca 1938 r. na okres od 1 kwietnia 1938 do 31 marca 1939 ( Dz. U. R. P. Nr 20, poz. 161 ) , zmienia się zgodnie z zestawieniem, załączonym do ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1938 r. Załącznik - Zestawienie zmian w ilości etatów osobowych administracji cywilnej na 1938/39 r. Część Urzędnicy Funkcjonariusze niżsi Ogółem Zmiejsza się o: Zwiększa się o: Zmniejsza się w XI gr. uposażenia Zwiększa się w XI gr. uposażenia Zmniejsza się o: Zwiększa się o: Grupy uposażenia: Grupy uposażenia: IV V VI VII VIII IX X XI Razem IV V VI VII VIII IX X XI Razem 7 Ministerstwo Spraw Wewnętrznych 1 1 10 2 5 6 1 1 27 - - - - - - - - - 1 - 28 - 12 Ministerstwo Rolnictwa i Reform Rolnych - - - - - - - - - 1 2 16 3| 6 6 2 1 37 - 2 - 39 Razem 1 1 10 2 5 6 1 1 27 1 2 16 3 6 6 2 1 37 1 2 - 11 Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\",\"children\": [{\"id\": \"arti_2-lett_a-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-lett_a-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Zestawienie zmian w ilości etatów osobowych administracji cywilnej na 1938/39 r.\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

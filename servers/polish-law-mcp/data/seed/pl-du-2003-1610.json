@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2003-1610",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lipca 2003 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych",
+  "title_en": "",
+  "short_name": "pl-du-2003-1610",
+  "status": "amended",
+  "issued_date": "2003-07-25",
+  "in_force_date": "2003-09-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2003/1610",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ( Dz. U. z 2000 r. Nr 80, poz. 904 , z 2001 r. Nr 128, poz. 1402 oraz z 2002 r. Nr 126, poz. 1068 i Nr 197, poz. 1662 ) wprowadza się następujące zmiany: 1) w art. 21 uchyla się ust. 3 i 4; 2) po art. 21 dodaje się art. 21 1 w brzmieniu: „ Art. 21 1 . 1. Operatorom sieci kablowych wolno reemitować w sieciach kablowych utwory nadawane w programach organizacji radiowych i telewizyjnych wyłącznie na podstawie umowy zawartej z właściwą organizacją zbiorowego zarządzania prawami autorskimi. 2. W przypadku sporów związanych z zawarciem umowy, o której mowa w ust. 1, stosuje się przepis art. 108 ust. 5. ” ; 3) w art. 24 dodaje się ust. 4 w brzmieniu: „ 4. Z zastrzeżeniem przepisu ust. 1, operatorom sieci kablowych wolno reemitować utwory nadawane przez inne organizacje radiowe lub telewizyjne dostępne na danym obszarze, jeżeli rozpowszechnianie w sieciach kablowych ma charakter równoczesny i integralny z nadaniem pierwotnym. Uprawnionym do utworów przysługuje prawo do wynagrodzenia. ” ; 4) w art. 92 po wyrazie „21,” dodaje się wyraz „21 1 ,” ; 5) w art. 95 1 w ust. 2 wyrazy „art. 21 ust. 3 i 4” zastępuje się wyrazami „art. 21 1 ” ; 6) w art. 108 w ust. 5 wyrazy „w art. 21 ust. 3” zastępuje się wyrazami „w art. 21 1 ust. 1” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepis art. 24 ust. 4 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą traci moc z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z tym że przepisy art. 21 1 , art. 92, art. 95 1 ust. 2 oraz art. 108 ust. 5 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą stosuje się z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-2005",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 października 2016 r. o zmianie ustawy o podatku akcyzowym",
+  "title_en": "",
+  "short_name": "pl-du-2016-2005",
+  "status": "amended",
+  "issued_date": "2016-10-21",
+  "in_force_date": "2016-12-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2005",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym ( Dz. U. z 2014 r. poz. 752 , z późn. zm. 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877, z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932 oraz z 2016 r. poz. 925, 1052, 1228 i 1948. ) wprowadza się następujące zmiany: 1) w art. 31a w ust. 1: a) pkt 8 otrzymuje brzmienie: „ 8) przez zakład energochłonny wykorzystujący wyroby węglowe, w którym wprowadzony został w życie system prowadzący do osiągania celów dotyczących ochrony środowiska lub do podwyższenia efektywności energetycznej; ” , b) uchyla się pkt 9; 2) w art. 31c wprowadzenie do wyliczenia otrzymuje brzmienie: „ Za system prowadzący do osiągania celów dotyczących ochrony środowiska lub do podwyższenia efektywności energetycznej, o którym mowa w art. 31a ust. 1 pkt 8 i art. 31b ust. 1 pkt 5, uznaje się: ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 2017 r. 1) Niniejsza ustawa w zakresie swojej regulacji uzupełnia wdrożenie dyrektywy Rady 2003/96/WE z dnia 27 października 2003 r. w sprawie restrukturyzacji wspólnotowych przepisów ramowych dotyczących opodatkowania produktów energetycznych i energii elektrycznej (Dz. Urz. UE L 283 z 31.10.2003, str. 51 - Dz. Urz. UE Polskie wydanie specjalne rozdz. 9, t. 1, str. 405 oraz Dz. Urz. UE L 157 z 30.04.2004, str. 87 i 100 - Dz. Urz. UE Polskie wydanie specjalne rozdz. 9, t. 2, str. 16 i 21). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2014 r. poz. 1559, 1662 i 1877, z 2015 r. poz. 18, 211, 978, 1269, 1479, 1649, 1844, 1893 i 1932 oraz z 2016 r. poz. 925, 1052, 1228 i 1948. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

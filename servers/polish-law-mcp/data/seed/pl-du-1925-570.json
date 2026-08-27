@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1925-570",
+  "type": "statute",
+  "title": "Ustawa skarbowa z dnia 22 lipca 1925 r. o dodatkowych kredytach na rok 1925.",
+  "title_en": "",
+  "short_name": "pl-du-1925-570",
+  "status": "in_force",
+  "issued_date": "1925-07-22",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/570",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kredyt, ustalony w załączonym do ustawy skarbowej na rok 1925 z dnia 30 czerwca 1925 r. (Dz. U. R. P. № 66, poz. 465) budżecie na r. 1925, część 5 Ministerstwo Spraw Zagranicznych wydatki zwyczajne Dz. 5 „Fundusze specjalne” podwyższa się o kwotę 3.990.000 z rozbiciem na poszczególne paragrafy tegoż działu, a mianowicie: na § 10 Fundusz dyspozycyjny 2,550.000 zł. na § 11 Delegacje zbiorowe i wycieczki zagraniczne 300.000 „ na § 12 Propaganda ekonomiczna 500.000 „ na § 13 Propaganda kulturalna 200.000 „ na § 14 Propaganda prasowa i wydawnictwa 400.000 „ razem jak wyżej 3.950.000 zł"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Na pokrycie wydatku, przewidzianego art. 1, służy nadwyżka wpływów z ceł ponad kwotę, przewidzianą w cz. 8 dziale VI § 12 budżetu na rok 1925, stanowiącego załącznik do ustawy skarbowej z dnia 30 czerwca 1925 r. na rok 1925 (Dz. U. R. P. № 66, poz. 465)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

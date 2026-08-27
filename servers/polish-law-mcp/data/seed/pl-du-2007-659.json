@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2007-659",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 marca 2007 r. o nadaniu Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nazwy \"Śląski Uniwersytet Medyczny w Katowicach\"",
+  "title_en": "",
+  "short_name": "pl-du-2007-659",
+  "status": "in_force",
+  "issued_date": "2007-03-30",
+  "in_force_date": "2007-06-05",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/659",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Śląskiej Akademii Medycznej imienia Ludwika Waryńskiego w Katowicach nadaje się nazwę „Śląski Uniwersytet Medyczny w Katowicach”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

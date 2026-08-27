@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1920-216",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 kwietnia 1920 r. o zakazie dokonywania wypłat w walucie rublowej rosyjskiej i przerachowaniu zobowiązań rublowych na marki polskie.",
+  "title_en": "",
+  "short_name": "pl-du-1920-216",
+  "status": "in_force",
+  "issued_date": "1920-04-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/216",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Znaki pieniężne w walucie rublowej rosyjskiej przestają być prawnym środkiem płatniczym na całym obszarze Rzeczypospolitej Polskiej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Żądanie i dokonywanie wypłat w walucie rublowej z jakiegokolwiek tytułu, z wyjątkiem wypadków, wskazanych w art. 3, 5 i 7, jako też zaciąganie zobowiązań w walucie rublowej są wzbronione."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wymiana znaków pieniężnych w walucie rublowej na walutę krajową i odwrotnie jest dozwolona na tych samych zasadach, jak wymiana waluty obcej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Sumy wszelkich zobowiązań, opiewających na walutę rublową (ruble carskie), oraz ich wszystkie przynaleźytości, niezależnie od terminów płatności, podlegają przerachowaniu na marki polskie, według kursu 216 mk. za 100 rubli,"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wypłaty za ubiegłe kupony od listów zastawnych i obligacji instytucji, wypuszczających listy lub obligacje, za listy zastawne tych instytucji, wylosowane przed dniem wejścia w życie niniejszej ustawy, oraz za kupony i listy zastawne, płatne lub umarzane, w pierwszym terminie płatności po wejściu w życie niniejszej ustawy, wolno zobowiązanemu dokonywać w walucie rublowej (ruble carskie). Również w walucie rublowej spłacać wolno zaległości w opłacie rat, przypadających tym instytucjom, powstałe przed wejściem w życie niniejszej ustawy. Przepisy części pierwszej artykułu niniejszego nie dotyczą kuponów i listów zastawnych tych instytucji, które przed wejściem w życie niniejszej ustawy przerachowały swe zobowiązania i należności na marki polskie, jako też spłat zaległości tym instytucjom należnych, o ile terminy płatności przypadają po dniu, w którym przerachowanie przez te instytucje zostało dokonane."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Listów zastawnych i kuponów, których spłata w myśl art. 5 dozwolona jest w walucie rublowej, wolno używać w granicach postanowień statutów odnośnych instytucji, jedynie na pokrycie takich zaległości, które w myśl art. 5 mogą być spłacane w walucie rublowej (ruble carskie)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Sumy pieniężne w walucie rublowej, złożone jako depozyty, bądź też złożone w kasach państwowych lub komunalnych, jako kaucje - podlegają zwrotowi w takiejże samej walucie rublowej."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Umowy, zawarte wbrew zakazowi, wyrażonemu w art. 2 niniejszej ustawy, są nieważne."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Winni wykroczenia przeciwko zakazowi, zawartemu w art. 2 niniejszej ustawy, ulegają w drodze orzeczenia sądowego karze aresztu do 6 miesięcy i grzywnie do 500.000 marek polskich lub jednej z tych kar."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Jednocześnie tracą moc obowiązujące przepis), sprzeczne z postanowieniami niniejszej, ustawy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu i Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

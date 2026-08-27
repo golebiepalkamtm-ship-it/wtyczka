@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1939-94",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 lutego 1939 r. o zmianie kodeksu karnego wojskowego.",
+  "title_en": "",
+  "short_name": "pl-du-1939-94",
+  "status": "in_force",
+  "issued_date": "1939-02-23",
+  "in_force_date": "1939-03-06",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/94",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. Kodeks karny wojskowy ( Dz. U. R. P. Nr 91, poz. 765 ) wprowadza się następujące zmiany: 1) art. 31 otrzymuje brzmienie: „ Warunkowego zawieszenia wykonania kary nie stosuje się przy karze za przestępstwo wojskowe. ” ; 2) w art. 33 § 5 otrzymuje brzmienie: „ Przestępstwo jest wówczas popełnione wobec zebranych żołnierzy, gdy prócz przełożonego i sprawcy zebranych było służbowo przynajmniej jeszcze trzech żołnierzy. ” ; 3) w art. 46 § 1 skreśla się wyrazy: „albo jeżeli nieobecność w jednostce trwała dłużej niż 6 miesięcy.” ; 4) po art. 90 dodaje się art. 90-a o brzmieniu: „ Art. 90-a. Żołnierz, który lekkomyślnie lub przez niedbalstwo powoduje zaginięcie broni lub amunicji, podlega karze twierdzy lub aresztu wojskowego. ” ; 5) art. 91 otrzymuje brzmienie: „ Żołnierz, który porzuca, uszkadza lub czyni niezdatnym do użytku przedmiot służbowy, powierzony mu do użytku służbowego, podlega karze więzienia do lat trzech lub twierdzy. ” ; 6) art. 93 skreśla się; 7) art. 99 otrzymuje brzmienie: „ § 1. Oficer, odbywający karę aresztu wojskowego zwykłego, lub żołnierz, odbywający karę dyscyplinarną aresztu domowego (kabinowego), który nie stosuje się do przepisanego sposobu odbywania aresztu, podlega karze więzienia do lat 2 lub twierdzy. § 2. Przepis § 1 stosuje się również do żołnierzy, nie wymienionych w art. 3 § 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

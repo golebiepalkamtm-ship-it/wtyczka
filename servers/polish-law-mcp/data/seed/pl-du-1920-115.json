@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1920-115",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 lutego 1920 r. w przedmiocie wypuszczenia 5% krótkoterminowej wewnętrznej pożyczki państwowej z r. 1920.",
+  "title_en": "",
+  "short_name": "pl-du-1920-115",
+  "status": "in_force",
+  "issued_date": "1920-02-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/115",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia 5% krótkoterminowej pożyczki państwowej 1920 r. z pięcioletnim od daty wypuszczenia terminem spłaty do wysokości trzech miljardów marek."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Obligacje pięcioprocentowej krótkoterminowej wewnętrznej pożyczki państwowej z r. 1920 są wypuszczane serjami po 20 miljonów marek każda w odcinkach, których wysokość ustali Minister Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Minister Skarbu ma prawo, poczynając od 1 maja 1922 r., przystąpić do przedterminowego (art. 1) wykupu obligacji pożyczki, całkowitego lub częściowego, serjami w drodze losowania z opłatą procentów do dnia, ustalonego dla wykupu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Procenty od pożyczki płatne są za każde półrocze zdołu, w dniach 1 stycznia i 1 lipca każdego roku."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Po upływie terminu, ustalonego dla spłaty lub wykupu przedterminowego obligacji pięcioprocentowej krótkoterminowej wewnętrznej pożyczki państwowej z r. 1920. mogą być te obligacje przedstawiane dodatkowo do spłaty w ciągu lat 30. Kupony mogą być przedstawiane do spłaty w ciągu lat 5 od dnia ich płatności. Obligacje i kupony, nie przedstawione do spłaty w powyższych terminach, stają się nieważne."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Kupony od obligacji pięcioprocentowej krótkoterminowej wewnętrznej pożyczki państwowej z r. 1920, wolne są od podatków od kapitałów i podatków rentowych i będą przyjmowane przy uiszczaniu podatków i opłat państwowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje pięcioprocentowej pożyczki państwowej z r. 1920 mają wszelkie prawa papierów, posiadających bezpieczeństwo pupilarne i mogą być używane dla lokacji kapitałów osób, pozostających pod opieką i kuratelą, jakoteż kapitałów fundacyjnych, kościelnych, korporacji publicznych, kaucji cywilnych i wojskowych, depozytów oraz dla konwersji innych papierów publicznych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Pożyczka krótkoterminowa będzie przyjmowana al pari przy uiszczaniu zamierzonej pożyczki przymusowej rentowej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

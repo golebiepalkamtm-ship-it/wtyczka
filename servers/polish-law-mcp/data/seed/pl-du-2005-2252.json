@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2005-2252",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o rachunkowości",
+  "title_en": "",
+  "short_name": "pl-du-2005-2252",
+  "status": "amended",
+  "issued_date": "2005-12-16",
+  "in_force_date": "2005-12-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/2252",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 września 1994 r. o rachunkowości ( Dz. U. z 2002 r. Nr 76, poz. 694 , z 2003 r. Nr 60, poz. 535 , Nr 124, poz. 1152 , Nr 139, poz. 1324 i Nr 229, poz. 2276 , z 2004 r. Nr 96, poz. 959 , Nr 145, poz. 1535 , Nr 146, poz. 1546 i Nr 213, poz. 2155 oraz z 2005 r. Nr 10, poz. 66 i Nr 184, poz. 1539 ) w art. 55 ust. 6a otrzymuje brzmienie: „ 6a. Skonsolidowane sprawozdania finansowe emitentów papierów wartościowych, o których mowa w art. 4 rozporządzenia Parlamentu Europejskiego i Rady Unii Europejskiej z dnia 19 lipca 2002 r. nr 1606/2002/WE w sprawie stosowania międzynarodowych standardów rachunkowości ( Dz. Urz. WE L 243 z 11.09.2002, str. 1 ; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 13, t. 29, str. 609 ) , oraz banków sporządza się zgodnie z MSR. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy niniejszej ustawy mają zastosowanie po raz pierwszy do sprawozdań finansowych za rok obrotowy rozpoczynający się w 2005 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1929-106",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 lutego 1929 r. w przedmiocie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 marca 1928 r. w sprawie zmiany ustawy z dnia 26 marca 1926 r. w przedmiocie wstrzymania eksmisji dzierżawców gruntów, zajętych pod budynki i położonych w obrębie miast, miasteczek, wsi i osad na obszarze sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1929-106",
+  "status": "in_force",
+  "issued_date": "1929-02-13",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/106",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 12 marca 1928 r. w sprawie zmiany ustawy z dnia 26 marca 1926 r. w przedmiocie wstrzymania eksmisji dzierżawców gruntów, zajętych pod budynki i położonych w obrębie miast, miasteczek, wsi i osad na obszarze sądów apelacyjnych w Warszawie, Lublinie i Wilnie (Dz. U. R. P. Nr 31, poz. 293) ulega zmianom następującym: 1) w p. 1 art. 1 wyrazy: „do dnia 1 kwietnia 1929 r.” zastępuje się przez wyrazy: „do dnia 1 kwietnia 1930 r.” ; 2) p. 2 art. 1 otrzymuje następujące brzmienie: „w ust. 1 art. 3 ustawy z dnia 26 marca 1926 r. (Dz. U. R. P. Nr 29, poz. 181) wyrazy: „będzie płatna do dnia 31 stycznia 1927 r. za czas do 1 kwietnia 1927 r. i do dnia 31 stycznia 1928 r. za rok następny do dnia 1 kwietnia 1928 r.” zastępuje się wyrazami: „będzie płatna do dnia 31 stycznia 1930 r. za czas do 1 kwietnia 1930 r.” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1929 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

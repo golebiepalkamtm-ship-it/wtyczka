@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1919-326",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 czerwca 1919 r. w przedmiocie dzierżawy łąk i sprzedaży pasz.",
+  "title_en": "",
+  "short_name": "pl-du-1919-326",
+  "status": "in_force",
+  "issued_date": "1919-06-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/326",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dzierżawa łąk i gruntów, obsianych koniczyną lub trawą, oraz sprzedaż koniczyny i wszelkiego rodzaju traw są dozwolone tylko na rzecz posiadaczy bydła i koni oraz wojskowości, zarządów gminnych, instytucji społecznych i przedsiębiorstw przemysłowych, posiadających siły pociągowe, bydło opasowe i mleczne dla ich rzeczywistej potrzeby. Odsprzedaż traw i koniczyn na pniu z gruntów, wydzierżawionych od ich właścicieli lub posiadaczy, jest wzbroniona i podlega karze (art. 3). Sprzedaż wyżej wymienionych pasz na targach nie ulega żadnemu ograniczeniu z wyjątkiem przepisów ustawy o lichwie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W razie braku dobrowolnej ugody między stronami z powodu wygórowanej ceny dzierżawnej lub sprzedażnej, ustanowi ją na żądanie od-dzierżawiającego lub kupującego, po wysłuchaniu interesowanych, odnośne starostwo względnie urząd powiatowy."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Umowy już zawarte i zawrzeć się mające przeciwne tym przepisom są nieważne, a zawierane po wejściu w życie tej ustawy stanowią przekroczenie, karane w drodze sądowej grzywną do 5000 marek lub 7500 koron, ewentualnie aresztem do 6 miesięcy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa ta będzie mieć zastosowanie w tych częściach państwa, które oznaczy Minister Rolnictwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie tej ustawy powierza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1933-187",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 marca 1933 r. o wstrzymaniu eksmisji dzierżawców gruntów, zajętych pod budynki i położonych w obrębie wsi i osad na obszarze okręgów sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1933-187",
+  "status": "repealed",
+  "issued_date": "1933-03-28",
+  "in_force_date": "1933-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/187",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Właściciele budynków mieszkalnych i stanowiących ich przynależność zabudowań gospodarczych, wybudowanych przed 1 kwietnia 1930 r. na dzierżawionych gruntach, nie mogą być z gruntów, zajętych pod te budynki, eksmitowani, chociażby odnośne umowy dzierżawne wygasły lub budynki uległy zniszczeniu wskutek działań wojennych, pożaru lub innych klęsk żywiołowych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Właściwy sąd 1 instancji wstrzyma do dnia 1 kwietnia 1938 r. na wniosek strony interesowanej wykonanie wyroku, choćby wydanego przez sąd wyższy, jeżeli wyrok, dotyczący jednej z osób, wymienionych w art. 1, orzeka eksmisję z dzierżawionego gruntu lub obowiązek zniesienia zabudowań."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Opłata dzierżawna w wypadkach ukończenia umowy dzierżawnej, przewidzianej w art. 1, o ile nie jest już zapłacona, wynosi 1 złoty od każdego rubla, którego płacono z tegoż tytułu według kontraktu lub w braku kontraktu według miejscowych norm dzierżawnych z 1914 r., i będzie płatna do dnia 31 stycznia każdego roku za okres roczny, rozpoczynający się od dnia 1 kwietnia roku poprzedniego. (2) Opłata dzierżawna może być uiszczona także za pośrednictwem poczty."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W razie niezapłacenia oznaczonego w art. 3 czynszu z winy dzierżawcy mają zastosowanie przepisy ogólnie obowiązujące."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza stosuje się do gruntów, położonych na obszarze sądów apelacyjnych w Warszawie, Lublinie i Wilnie poza obrębem miast i miasteczek w granicach administracyjnych, istniejących w dniu wejścia w życie ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza nie dotyczy gruntów, chronionych ustawą z dnia 31 lipca 1924 r. (Dz. U. R. P. Nr. 75, poz. 741) w przedmiocie ochrony dzierżawców rolnych wraz z późniejszemi zmianami."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1933 r. i obowiązuje do dnia 1 kwietnia 1938 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

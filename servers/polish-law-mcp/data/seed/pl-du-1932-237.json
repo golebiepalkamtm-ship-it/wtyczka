@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1932-237",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o połączeniu przedsiębiorstw państwowych \"Polska Agencja Telegraficzna\" i \"Wydawnictwa Państwowe\".",
+  "title_en": "",
+  "short_name": "pl-du-1932-237",
+  "status": "repealed",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/237",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Istniejące przedsiębiorstwa państwowe „Polska Agencja Telegraficzna” (rozporządzenie Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r. w przedmiocie statutu Polskiej Agencji Telegraficznej, Dz. U. R. P. Nr 55, poz. 547) i „Wydawnictwa Państwowe” (rozporządzenie Prezydenta Rzeczypospolitej z dnia 10 lutego 1928 r. o statucie przedsiębiorstwa państwowego „Wydawnictwa Państwowe”, Dz. U. R. P. Nr 17, poz. 140) łączy się w jedno przedsiębiorstwo państwowe pod firmą „Polska Agencja Telegraficzna”, stanowiące odrębną jednostkę gospodarczą i posiadające osobowość prawną."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przedsiębiorstwo państwowe „Polska Agencja Telegraficzna” działać będzie na podstawie statutu, zatwierdzonego na wniosek Prezesa Rady Ministrów przez Radę Ministrów i ogłoszonego w Monitorze Polskim, a opartego na zasadach rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1927 r. o wydzielaniu z administracji państwowej przedsiębiorstw państwowych, przemysłowych, handlowych i górniczych oraz o ich komercjalizacji (Dz. U. R. P. Nr 25, poz. 195)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Prezesowi Rady Ministrów w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Z dniem ogłoszenia w Monitorze Polskim statutu, przewidzianego w art. 2, tracą moc obowiązującą: rozporządzenie Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r. w przedmiocie statutu Polskiej Agencji Telegraficznej (Dz. U. R. P. Nr 55, poz. 547), ustawa z dnia 22 grudnia 1925 r. w przedmiocie zmiany niektórych przepisów statutu Polskiej Agencji Telegraficznej, obowiązującego na zasadzie rozporządzenia Prezydenta Rzeczypospolitej z dnia 26 czerwca 1924 r. (Dz. U. R. P. Nr 129, poz. 921), i rozporządzenie Prezydenta Rzeczypospolitej z dnia 10 lutego 1928 r. o statucie przedsiębiorstwa państwowego „Wydawnictwa Państwowe” (Dz. U. R. P. Nr 17, poz. 140). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

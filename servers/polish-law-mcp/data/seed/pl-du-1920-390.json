@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1920-390",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. w przedmiocie uzupełnienia postanowień ustawy z dnia 13 lutego 1920 r. o przyznaniu kredytu jednego miljarda marek na zagospodarowanie odłogów gruntowych na obszarze Rzeczypospolitej Polskiej i Ziem Wschodnich.",
+  "title_en": "",
+  "short_name": "pl-du-1920-390",
+  "status": "in_force",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/390",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Podania o udzielenie pożyczki z kredytu nadzwyczajnego, otwartego Rządowi na rachunek Ministerstwa Rolnictwa i Dóbr Państwowych na rok 1920 na mocy ustawy z dnia 13 lutego 1920 r. o przyznaniu kredytu jednego miljarda marek na zagospodarowanie odłogów gruntowych na obszarze Rzeczypospolitej Polskiej i Ziem Wschodnich (Dz. Ust. № 17 poz. 86), załączniki do tych podań, oraz wszelkie dokumenty, z treścią tych podań związane, jako to: zaświadczenia władz, zobowiązania dłużników, pokwitowania z odbioru przyznanych i ze zwrotu sum dłużnych - wolne są od wszelkich opłat stemplowych i komunalnych. Postanowienia tego artykułu będą miały zastosowanie do podań i wymienionych w nich dokumentów, sporządzonych przed ogłoszeniem niniejszej ustawy, o ile od nich opłata stemplowa, skarbowa lub komunalna nie została już pobrana."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Skrypty dłużne na terenie b. Królestwa Kongresowego, o ileby osoba, otrzymująca pożyczkę była niepiśmienna, mogą być sporządzane bez względu na wysokość sumy pożyczkowej przed sędzią pokoju w tej miejscowości, gdzie pożyczka ma być podniesiona. lub przed sędzią pokoju właściwym według położenia gruntu, na który pożyczka ma być udzielona."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W razie użycia pożyczki, uzyskanej na zasadzie ustawy z dnia 13 lutego 1920 r. na cel niezgodny z jej przeznaczeniem, wyrażonem w zobowiązaniu dłużnika, całkowita suma pożyczki wraz z zapadłemi odsetkami ulega natychmiastowemu zwrotowi."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Rolnictwa i Dóbr Państwowych w porozumieniu z Ministrem Skarbu i Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

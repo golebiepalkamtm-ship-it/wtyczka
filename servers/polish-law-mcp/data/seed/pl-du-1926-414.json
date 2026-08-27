@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1926-414",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 lipca 1926 r. o zmianie niektórych postanowień ustawy notarjalnej, obowiązującej w okręgach sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1926-414",
+  "status": "in_force",
+  "issued_date": "1926-07-05",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/414",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 84 Ustawy notarjalnej otrzymuje następujące brzmienie: „Przy aktach odwołania testamentu oraz przy wszelkich aktach, jeżeli chociaż jedna ze stron nie umie lub nie może pisać, albo jest ślepa, głucha, niema czy głuchoniema, jest konieczna obecność 2 świadków; ci sami świadkowie mogą stwierdzić i tożsamość osób, w akcie uczestniczących (art. 73 Ustawy notarialnej). Zamiast 2 świadków do sporządzenia aktu może być przywołany drugi notarjusz, urzędujący w okręgu, w którym akt zostaje sporządzony.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Uchyla się art. 65 ustawy notarjalnej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Art. 148 ustawy notarjalnej otrzymuje następujące brzmienie: „Notarjuszom wolno przyjmować na przechowanie wszelkiego rodzaju dokumenty i pisma nawet w opieczętowanych pakietach.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Art. 149 ustawy notarjalnej otrzymuje następujące brzmienie: „Notarjusz wydaje stronie poświadczenie przyjęcia dokumentów na przechowanie, przez siebie podpisane, i o przyjęciu na przechowanie robi adnotację w repertorjum.”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Art. 152 ustawy notarjalnej otrzymuje następujące brzmienie: „Otrzymujący dokument zpowrotem winien pokwitować z odbioru w repertorjum notarjalnem.”"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Art. 34 ustawy notarjalnej otrzymuje następujące brzmienie: „Po upływie pięciolecia od zakończenia księgi aktowej notarjusz winien takową wraz z repertorjum i wszystkiemi załącznikami złożyć do miejscowego archiwum notarjalnego, z własnoręcznem literami poświadczeniem na końcu księgi oilości mieszczących się w niej aktów, a w repertorjum o ilości pozycyj.”"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Art. 231 ustawy notarjalnej otrzymuje następujące brzmienie: „Po upływie każdego roku notarjusz obowiązany jest połączyć w porządku chronologicznym wszystkie sporządzone przez siebie akty z odnoszącymi się do każdego z nich załącznikami w jeden lub kilka zeszytów w zależności od ilości i objętości aktów; każdy z tych zeszytów notarjsz parafuje, przesznurowuje i pieczętuje, a po upływie lat pięciu składa wraz z repertorjum do archiwum hipotecznego. Na końcu zeszytu notarjusz własnoręcznie wypisuje literami ilość zawartych w nim aktów, a w repertorjum - ilość pozycyj.”"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie po upływie 14 dni od dnia jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

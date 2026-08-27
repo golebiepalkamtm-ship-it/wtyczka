@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1933-264",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 marca 1933 r. o oddaniu niektórych gruntów, przyjętych na własność Państwa.",
+  "title_en": "",
+  "short_name": "pl-du-1933-264",
+  "status": "in_force",
+  "issued_date": "1933-03-25",
+  "in_force_date": "1933-05-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/264",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Z nieruchomości ziemskich, przejętych na własność Państwa na zasadzie art. 2 ustawy z dnia 17 grudnia 1920 r. o przejęciu na własność Państwa ziemi w niektórych powiatach Rzeczypospolitej (Dz. U. R. P. z 1921 r. Nr. 4, poz. 17), na zasadzie dekretów Naczelnego Dowódcy Wojsk Litwy Środkowej Nr. 39, Nr. 213 i Nr. 257 (Dz. U. T. K. R. L. Ś. z dnia 16 grudnia 1920 r. Nr. 9, z dnia 23 kwietnia 1921 r. Nr. 15,25 i z dnia 15 czerwca 1921 r. Nr. 20/30) oraz dekretu Prezesa Tymczasowej Komisji Rządzącej Nr. 469 (Dz. U. T. K. R. L. Ś. z dnia 3 lutego 1922 r. Nr. 5/55), osoby uprawnione mogą otrzymać z zachowaniem postanowień niniejszej ustawy obszary leśne i innego rodzaju grunty nieużyteczne dla celów osadnictwa wojskowego i reformy rolnej lub jeżeli ich użycie na inne cele państwowe nie przedstawia specjalnego interesu dla Państwa. (2) Przedmiotem uprawnienia są określone w cz. 1 grunty w takimi stanie, w jakim będą się znajdowały w chwili oddania osobom uprawnionym."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osobą, uprawnioną w rozumieniu art. 1, jest osoba, która posiada prawo do wynagrodzenia za przejętą na własność Państwa nieruchomość ziemską, z której mają być oddane grunty."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) W razie oddania gruntów, obciążonych dzierżawami, prawa i obowiązki, wynikające z umów dzierżawnych, przechodzą na osoby uprawnione od dnia oddania. (2) Gdy mają być zwrócone grunty z nieruchomości ziemskiej, obciążonej pożyczką instytucji kredytu długoterminowego, instytucja obowiązana jest na żądanie okręgowego urzędu ziemskiego przedstawić w ciągu miesiąca od złożenia tej instytucji planów pomiarowych projekt segregacji pożyczki pomiędzy Skarb Państwa a uprawnionych. W razie niezłożenia projektu segregacji w tym terminie przez instytucję projekt segregacji sporządzi okręgowy urząd ziemski z uwzględnieniem zasad statutu danej instytucji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Osoby uprawnione z chwilą oddania im gruntów na zasadzie ustawy niniejszej tracą prawo do wynagrodzenia, służącego im z tytułu przejęcia oddawanych gruntów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) O oddaniu gruntów orzeka Minister Rolnictwa i Reform Rolnych. W razie oddawania gruntów, które znajdują się pod zarządem władz, nie podlegających Ministrowi Rolnictwa i Reform Rolnych, wydanie decyzji następuje w porozumieniu z właściwym ministrem. Decyzje w zakresie oddawania gruntów są pozostawione całkowitemu swobodnemu uznaniu Ministra Rolnictwa i Reform Rolnych. Decyzje te mogą być wydawane do dnia 31 grudnia 1934 r. (2) Decyzje o oddaniu gruntów zapadają na skutek żądania lub za zgodą osób uprawnionych. Żądanie winno być złożone na piśmie we właściwym okręgowym urzędzie ziemskim. (3) Decyzja o oddaniu gruntów stanowi tytuł własności. Przepisanie prawa własności w księgach hipotecznych może nastąpić na wniosek okręgowego urzędu ziemskiego. (4) Wprowadzenie osób uprawnionych w posiadanie oddanych gruntów winno być dokonane przez komisarza ziemskiego protokólarnie. Niestawienie się osób uprawnionych-pomimo właściwego wezwania nie stanowi przeszkody do wykonania tej czynności W tych przypadkach protokóły o wprowadzenie w posiadanie gruntów winny być doręczone osobom uprawnionym w trybie przepisów o postępowaniu adminiatracyjnem."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Postępowanie w sprawach, unormowanych niniejszą ustawą, oraz decyzje o oddaniu gruntów wolne są od opłat skarbowych i samorządowych. (2) Ujawnienie w hipotece zmiany prawa własności na podstawie decyzji Ministra Rolnictwa i Reform Rolnych oraz wyników segregacji obciążeń wolne jest od opłat sądowych w postępowaniu hipotecznym, a stawkę wynagrodzenia dla pisarza hipotecznego za wszystkie z tern związane czynności ustala się na 6 zł."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_5-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_5-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

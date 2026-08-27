@@ -1,0 +1,242 @@
+{
+  "id": "pl-du-1965-290",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 listopada 1965 r. Prawo prywatne międzynarodowe.",
+  "title_en": "",
+  "short_name": "pl-du-1965-290",
+  "status": "repealed",
+  "issued_date": "1965-11-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1965/290",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1. Ustawa niniejsza określa prawo właściwe dla międzynarodowych stosunków osobistych i majątkowych w zakresie prawa cywilnego, rodzinnego i opiekuńczego oraz prawa pracy. § 2. Przepisów ustawy niniejszej nie stosuje się, jeżeli umowa międzynarodowa, której Polska Rzeczpospolita Ludowa jest stroną, postanawia inaczej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Jeżeli ustawa przewiduje właściwość prawa ojczystego, obywatel polski podlega prawu polskiemu, chociażby prawo innego państwa uznawało go za obywatela tego państwa. § 2. Cudzoziemiec mający obywatelstwo dwóch lub więcej państw podlega, jako prawu ojczystemu, prawu tego z nich, z którym jest najściślej związany."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jeżeli ustawa przewiduje właściwość prawa ojczystego, a obywatelstwa danej osoby ustalić nie można albo osoba ta nie ma obywatelstwa żadnego państwa, stosuje się prawo państwa, w którym znajduje się jej miejsce zamieszkania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "§ 1. Jeżeli prawo obce, wskazane jako właściwe przez ustawę niniejszą, każe stosować do danego stosunku prawnego prawo polskie, stosuje się prawo polskie. § 2. Jeżeli obce prawo ojczyste, wskazane jako właściwe przez ustawę niniejszą, każe stosować do danego stosunku prawnego inne prawo obce, stosuje się to inne prawo."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli w państwie, którego prawo jest właściwe, obowiązują różne systemy prawne, prawo tego państwa rozstrzyga, który z tych systemów stosować należy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Prawa obcego stosować nie można, jeżeli jego stosowanie miałoby skutki sprzeczne z podstawowymi zasadami porządku prawnego Polskiej Rzeczypospolitej Ludowej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Jeżeli nie można ustalić okoliczności, od których zależy właściwość określonego prawa obcego, albo jeżeli nie można stwierdzić treści właściwego prawa obcego, stosuje się prawo polskie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Cudzoziemcy mogą mieć w Polsce prawa i obowiązki na równi z obywatelami polskimi, chyba że ustawa stanowi inaczej. II. Osoby"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "§ 1. Zdolność prawna i zdolność do czynności prawnych osoby fizycznej podlega jej prawu ojczystemu. § 2. Zdolność osoby prawnej podlega prawu państwa, w którym osoba ta ma siedzibę. § 3. Jednakże, gdy osoba prawna lub fizyczna dokonywa czynności prawnej w zakresie swego przedsiębiorstwa, jej zdolność podlega prawu państwa, w którym znajduje się siedziba tego przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Jeżeli cudzoziemiec niezdolny według swego prawa ojczystego dokonał w Polsce czynności prawnej mającej wywrzeć skutek w Polsce, zdolność cudzoziemca podlega w tym zakresie prawu polskiemu, o ile wymaga tego ochrona osób działających w dobrej wierze. Przepisu tego nie stosuje się do czynności prawnych z zakresu prawa rodzinnego i opiekuńczego oraz prawa spadkowego."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "§ 1. Do uznania osoby zaginionej za zmarłą stosuje się jej prawo ojczyste. To samo dotyczy stwierdzenia zgonu. § 2. Jeżeli jednak w sprawie o uznanie cudzoziemca za zmarłego lub o stwierdzenie jego zgonu orzeka sąd polski, stosuje się prawo polskie. III. Forma czynności prawnej"
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Forma czynności prawnej podlega prawu właściwemu dla tej czynności. Wystarcza jednak zachowanie formy przewidzianej przez prawo państwa, w którym czynność zostaje dokonana. IV. Przedawnienie roszczeń"
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Przedawnienie roszczenia podlega prawu właściwemu dla tego roszczenia. V. Małżeństwo"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "O możności zawarcia małżeństwa rozstrzyga w stosunku do każdej ze stron jej prawo ojczyste."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "§ 1. Forma zawarcia małżeństwa podlega prawu państwa, w którym jest ono zawierane. § 2. Jednakże, gdy małżeństwo jest zawierane poza granicami Polski, wystarcza zachowanie formy wymaganej przez prawa ojczyste obojga małżonków."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Do unieważnienia małżeństwa stosuje się prawo określone w art. 14 i 15."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "§ 1. Stosunki osobiste i majątkowe między małżonkami podlegają ich każdoczesnemu wspólnemu prawu ojczystemu. Każdoczesne wspólne prawo ojczyste stron rozstrzyga także o dopuszczalności zawarcia, zmiany lub rozwiązania majątkowej umowy małżeńskiej. § 2. Stosunki majątkowe wynikające z majątkowej umowy małżeńskiej podlegają wspólnemu prawu ojczystemu stron z chwili jej zawarcia. § 3. W braku wspólnego prawa ojczystego małżonków prawem właściwym jest prawo państwa, w którym oboje małżonkowie mają miejsce zamieszkania, a gdy małżonkowie nie mają miejsca zamieszkania w tym samym państwie, właściwe jest prawo polskie."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Dla rozwodu właściwe jest wspólne prawo ojczyste małżonków z chwili wystąpienia z żądaniem rozwodu. W braku wspólnego prawa ojczystego małżonków właściwe jest prawo państwa, w którym oboje małżonkowie mają miejsce zamieszkania, a gdy małżonkowie nie mają miejsca zamieszkania w tym samym państwie, właściwe jest prawo polskie. VI. Pokrewieństwo"
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "§ 1. Stosunki prawne między rodzicami a dzieckiem podlegają prawu ojczystemu dziecka. § 2. Ustalenie i zaprzeczenie ojcostwa lub macierzyństwa podlega prawu ojczystemu dziecka z chwili jego urodzenia. Jednakże uznanie dziecka podlega prawu państwa, którego dziecko jest obywatelem w chwili uznania. Uznanie dziecka poczętego, lecz jeszcze nie urodzonego, podlega prawu ojczystemu matki."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Roszczenia alimentacyjne między krewnymi lub powinowatymi podlegają prawu ojczystemu osoby uprawnionej do alimentacji."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Roszczenia matki przeciwko ojcu dziecka nie pochodzącego z małżeństwa, związane z poczęciem i urodzeniem się dziecka, podlegają prawu ojczystemu matki."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "§ 1. Przysposobienie podlega prawu ojczystemu przysposabiającego. § 2. Jednakże przysposobienie nie może nastąpić bez zachowania przepisów prawa ojczystego osoby, która ma być przysposobiona, o ile dotyczą one zgody tej osoby, zgody jej przedstawiciela ustawowego oraz zezwolenia właściwego organu państwowego. VII. Opieka i kuratela"
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "§ 1. Opieka podlega prawu ojczystemu osoby, dla której jest lub ma być ustanowiona. § 2. Przepis paragrafu poprzedzającego stosuje się odpowiednio do kurateli. Jednakże dla kurateli do załatwienia poszczególnej sprawy właściwe jest prawo, któremu sprawa ta podlega. VIII. Własność i inne prawa rzeczowe"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "§ 1. Własność i inne prawa rzeczowe podlegają prawu państwa, w którym znajduje się ich przedmiot. § 2. Nabycie i utrata własności, jak również nabycie i utrata oraz zmiana treści lub pierwszeństwa innych praw rzeczowych, podlegają prawu państwa, w którym znajdował się przedmiot tych praw w chwili, gdy nastąpiło zdarzenie pociągające za sobą wymienione skutki prawne. § 3. Przepisy paragrafów poprzedzających stosuje się odpowiednio do posiadania. IX. Zobowiązania"
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "§ 1. Strony mogą poddać swe stosunki w zakresie zobowiązań umownych wybranemu przez siebie prawu, jeżeli pozostaje ono w związku z zobowiązaniem. § 2. Jednakże, gdy zobowiązanie dotyczy nieruchomości, podlega ono prawu państwa, w którym nieruchomość jest położona."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Jeżeli strony nie dokonały wyboru prawa, zobowiązanie podlega prawu państwa, w którym strony w chwili zawarcia umowy mają siedzibę albo miejsce zamieszkania. Przepisu tego nie stosuje się do zobowiązań dotyczących nieruchomości."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "§ 1. Jeżeli strony nie mają siedziby albo miejsca zamieszkania w tym samym państwie i nie dokonały wyboru prawa, stosuje się: 1) do zobowiązań z umowy sprzedaży rzeczy ruchomych lub umowy dostawy - prawo państwa, w którym w chwili zawarcia umowy ma siedzibę albo miejsce zamieszkania sprzedawca lub dostawca; 2) do zobowiązań z umowy o dzieło, umowy zlecenia, umowy agencyjnej, umowy komisu, umowy przewozu, umowy spedycji, umowy przechowania, umowy składu - prawo państwa, w którym w chwili zawarcia umowy ma siedzibę albo miejsce zamieszkania przyjmujący zamówienie, przyjmujący zlecenie, agent, komisant, przewoźnik, spedytor, przechowawca lub przedsiębiorstwo składowe; 3) do zobowiązań z umowy ubezpieczenia - prawo państwa, w którym w chwili zawarcia umowy ma siedzibę zakład ubezpieczeń; 4) do zobowiązań z umowy o przeniesienie praw autorskich - prawo państwa, w którym w chwili zawarcia umowy ma siedzibę albo miejsce zamieszkania nabywca tych praw. § 2. Jeżeli nie można ustalić siedziby albo miejsca zamieszkania strony określonej w paragrafie poprzedzającym, stosuje się prawo państwa, w którym umowa została zawarta. § 3. Do zobowiązań z umów zawieranych w zakresie przedsiębiorstwa, zamiast prawa państwa, w którym ma siedzibę osoba prawna albo miejsce zamieszkania osoba fizyczna, stosuje się prawo państwa, w którym znajduje się siedziba przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Do zobowiązań z umów giełdowych stosuje się prawo obowiązujące w siedzibie giełdy, chyba że strony dokonały wyboru prawa. Przepis ten stosuje się odpowiednio do zobowiązań z umów zawieranych na targach publicznych."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Do zobowiązań z umów nie wymienionych w art. 27 i art. 28 stosuje się, jeżeli strony nie dokonały wyboru prawa, prawo państwa, w którym umowa została zawarta."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Przepisy o prawie właściwym dla zobowiązań umownych stosuje się odpowiednio do zobowiązań z jednostronnych czynności prawnych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "§ 1. Zobowiązanie nie wynikające z czynności prawnej podlega prawu państwa, w którym nastąpiło zdarzenie będące źródłem zobowiązania. § 2. Jednakże, gdy strony są obywatelami tego samego państwa i mają w nim miejsce zamieszkania, właściwe jest prawo tego państwa. § 3. Prawo właściwe według przepisów paragrafów poprzedzających rozstrzyga, czy osoba ograniczona w swej zdolności ponosi odpowiedzialność za szkodę wyrządzoną czynem niedozwolonym. X. Stosunki pracy"
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Strony mogą poddać stosunek pracy wybranemu przez siebie prawu, jeżeli pozostaje ono w związku z tym stosunkiem."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "§ 1. Jeżeli strony nie dokonały wyboru prawa, stosunek pracy podlega prawu państwa, w którym strony w chwili powstania tego stosunku mają miejsce zamieszkania albo siedzibę. Jeżeli praca jest, była lub miała być wykonywana w przedsiębiorstwie pracodawcy, rozstrzyga, zamiast jego miejsca zamieszkania albo siedziby - siedziba przedsiębiorstwa. § 2. Jeżeli strony nie mają miejsca zamieszkania albo siedziby w tym samym państwie i nie dokonały wyboru prawa, stosuje się prawo państwa, w którym praca jest, była lub miała być wykonywana. XI. Spadki"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "W sprawach spadkowych właściwe jest prawo ojczyste spadkodawcy z chwili jego śmierci."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "O ważności testamentu i innych czynności prawnych na wypadek śmierci rozstrzyga prawo ojczyste spadkodawcy z chwili dokonania tych czynności. Wystarcza jednak zachowanie formy przewidzianej przez prawo państwa, w którym czynność zostaje dokonana. XII. Przepisy końcowe"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Traci moc ustawa z dnia 2 sierpnia 1926 r. o prawie właściwym dla stosunków prywatnych międzynarodowych (Prawo prywatne międzynarodowe) ( Dz. U. Nr 101, poz. 581 ) ."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Pozostają w mocy przepisy szczególne dotyczące przedmiotów unormowanych w ustawie niniejszej."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1966 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I. - Przepisy ogólne\",\"children\": [{\"id\": \"none_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"none_I-arti_1-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_I-arti_1-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"none_I-arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_I-arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"none_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"none_I-arti_4-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_I-arti_4-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"none_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"none_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"none_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"}]},{\"id\": \"none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II. - Osoby\",\"children\": [{\"id\": \"none_II-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"none_II-arti_9-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_II-arti_9-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"none_II-arti_9-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"none_II-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"none_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"none_II-arti_11-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_II-arti_11-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III. - Forma czynności prawnej\",\"children\": [{\"id\": \"none_III-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"}]},{\"id\": \"none_IV\",\"symbol\": \"none_IV\",\"type\": \"none\",\"name\": \"IV\",\"title\": \"IV. - Przedawnienie roszczeń\",\"children\": [{\"id\": \"none_IV-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"}]},{\"id\": \"none_V\",\"symbol\": \"none_V\",\"type\": \"none\",\"name\": \"V\",\"title\": \"V. - Małżeństwo\",\"children\": [{\"id\": \"none_V-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"none_V-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"none_V-arti_15-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_V-arti_15-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_V-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"none_V-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"none_V-arti_17-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_V-arti_17-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"none_V-arti_17-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"none_V-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"}]},{\"id\": \"none_VI\",\"symbol\": \"none_VI\",\"type\": \"none\",\"name\": \"VI\",\"title\": \"VI. - Pokrewieństwo\",\"children\": [{\"id\": \"none_VI-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"none_VI-arti_19-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_VI-arti_19-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_VI-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"none_VI-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"none_VI-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\",\"children\": [{\"id\": \"none_VI-arti_22-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_VI-arti_22-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"none_VII\",\"symbol\": \"none_VII\",\"type\": \"none\",\"name\": \"VII\",\"title\": \"VII. - Opieka i kuratela\",\"children\": [{\"id\": \"none_VII-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\",\"children\": [{\"id\": \"none_VII-arti_23-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_VII-arti_23-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"none_VIII\",\"symbol\": \"none_VIII\",\"type\": \"none\",\"name\": \"VIII\",\"title\": \"VIII. - Własność i inne prawa rzeczowe\",\"children\": [{\"id\": \"none_VIII-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"none_VIII-arti_24-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_VIII-arti_24-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"none_VIII-arti_24-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]}]},{\"id\": \"none_IX\",\"symbol\": \"none_IX\",\"type\": \"none\",\"name\": \"IX\",\"title\": \"IX. - Zobowiązania\",\"children\": [{\"id\": \"none_IX-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"none_IX-arti_25-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_IX-arti_25-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"none_IX-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"none_IX-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"none_IX-arti_27-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"none_IX-arti_27-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"none_IX-arti_27-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"none_IX-arti_27-para_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"none_IX-arti_27-para_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"none_IX-arti_27-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"none_IX-arti_27-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"none_IX-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"none_IX-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"none_IX-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"none_IX-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\",\"children\": [{\"id\": \"none_IX-arti_31-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_IX-arti_31-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"none_IX-arti_31-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]}]},{\"id\": \"none_X\",\"symbol\": \"none_X\",\"type\": \"none\",\"name\": \"X\",\"title\": \"X. - Stosunki pracy\",\"children\": [{\"id\": \"none_X-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"none_X-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"none_X-arti_33-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"none_X-arti_33-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"none_XI\",\"symbol\": \"none_XI\",\"type\": \"none\",\"name\": \"XI\",\"title\": \"XI. - Spadki\",\"children\": [{\"id\": \"none_XI-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"none_XI-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"}]},{\"id\": \"none_XII\",\"symbol\": \"none_XII\",\"type\": \"none\",\"name\": \"XII\",\"title\": \"XII. - Przepisy końcowe\",\"children\": [{\"id\": \"none_XII-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"none_XII-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"none_XII-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

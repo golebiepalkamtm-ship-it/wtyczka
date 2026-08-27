@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1926-355",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 czerwca 1926 r. o sprzedaży gruntu i budynku kolejowego w Turce nad Stryjem.",
+  "title_en": "",
+  "short_name": "pl-du-1926-355",
+  "status": "in_force",
+  "issued_date": "1926-06-10",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1926/355",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się Rządowi na sprzedaż Towarzystwu „Schronisko polskich sierot powojennych w Turce nad Stryjem” gruntu, stanowiącego własność Skarbu Państwa, a będącego w zarządzie polskich kolei państwowych, o powierzchni 2140 m 2 , składającego się: a) z parceli budowlanej 1. kat. 824 wraz z budynkiem (barakiem), znajdującym się na tej parceli, i b) parceli gruntowych 1. kat. 120/2, 120/3, 120/4, 120/5, 120/6 - położonych w obrębie gminy Turka nad Stryjem, w powiecie Turka nad Stryjem, w województwie stanisławowskiem, za cenę sprzedaży 1500 złotych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Kolei."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

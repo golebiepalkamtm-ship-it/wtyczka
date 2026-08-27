@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1935-181",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1935 r. w sprawie zmiany ustawy z dnia 18 marca 1932 r. o wykupie gruntów, podlegających ustawie w przedmiocie ochrony drobnych dzierżawców rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1935-181",
+  "status": "in_force",
+  "issued_date": "1935-03-26",
+  "in_force_date": "1935-04-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/181",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 marca 1932 r. o wykupie gruntów, podlegających ustawie w przedmiocie ochrony drobnych dzierżawców rolnych (Dz. U. R. P. z 1933 r. Nr. 69, poz. 516) wprowadza się zmiany następujące: 1) w art. 1 na końcu pkt. 1) dodaje się zdanie: „Ponadto uprawnienia te przysługują wszystkim tym dzierżawcom i poddzierżawcom, którzy wydzierżawili grunty po dniu 18 lipca 1919 r., a przed 28 sierpnia 1924 r., o ile poza tem zachodzą warunki, przewidziane w wyżej powołanych przepisach o ochronie drobnych dzierżawców rolnych, i o ile grunty znajdują się jeszcze w posiadaniu osób, uprawnionych do wykupu.”; 2) w art. 2 ust. 2 otrzymuje brzmienie następujące: „ 2) Cenę nabycia gruntów, jeżeli strony nie umówią się inaczej, ustala się według zasad, stosowanych przy określaniu ceny sprzedażnej parcelowanych gruntów państwowych. ” ; 3) w art 4 w ust. 1) wyrazy: „ceny rynkowej dzierżawionych gruntów (cz. 2 art. 2)” zastępuje się wyrazami: „ceny dzierżawionych gruntów, ustalonej według zasad, stosowanych przy określaniu ceny sprzedażnej parcelowanych gruntów państwowych” ; 4) art. 10 otrzymuje brzmienie następujące: „ Art. 10. Na żądanie obu lub jednej ze stron, a w miarę potrzeby z urzędu, właściwa władza (art. 7) wzywa rzeczoznawców na koszt tej strony, która żądała powołania rzeczoznawców, a jeżeli powołania żądały obie strony, lub jeżeli powołanie nastąpiło z urzędu - na koszt obu stron w równych częściach, jeżeli pomiędzy stronami nie nastąpiło porozumienie co do innego podziału kosztów. ” ; 5) w art. 14 ust. 2) otrzymuje brzmienie następujące: „ 2) Prawo składania podań wygasa z dniem 1 kwietnia 1936 r. ” ; 6) w art. 15 dotychczasowy tekst oznacza się jako ust. 1) oraz dodaje się nowy ustęp, jako ust. 2), treści następującej: „ 2) Postępowanie przymusowe, wszczęte na wniosek właściciela dzierżawionego gruntu, umarza się, jeżeli dzierżawca złoży oświadczenie, że zrzeka się uprawnienia do wykupu gruntów. Zrzeczenie się wykupu nie ogranicza uprawnień dzierżawcy, wynikających z przepisów o ochronie drobnych dzierżawców rolnych. ” ; 7) w art. 17 w ust. 2) zdanie pierwsze otrzymuje brzmienie następujące: „Jeżeli kredyt, przewidziany w ust. 1), nie zostanie przyznany, lub przyznany zostanie tylko w części, starosta może w przypadkach, zasługujących na uwzględnienie, ustaloną w postępowaniu przymusowem cenę wykupu, lub resztę tej ceny rozłożyć na spłaty najwyżej 15-letnie w ratach półrocznych, przy odpowiedniem zabezpieczeniu hipotecznem na nabytych gruntach.”, a w zdaniach trzeciem i czwartem cyfrę: „4'.” zastępuje się cyfrą: „3”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Rolnictwa i Reform Rolnych do ogłoszenia jednolitego tekstu ustawy z dnia 18 marca 1932 r. o wykupie gruntów, podlegających ustawie w przedmiocie ochrony drobnych dzierżawców rolnych (Dz. U. R. P. Nr. 30, poz. 307) ze zmianami, wprowadzonemi późniejszemi przepisami oraz ustawą niniejszą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Sprawiedliwości i Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_1-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

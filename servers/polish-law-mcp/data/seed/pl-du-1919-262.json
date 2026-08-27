@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1919-262",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 kwietnia 1919 r. o dostarczaniu mieszkań na potrzeby wojska.",
+  "title_en": "",
+  "short_name": "pl-du-1919-262",
+  "status": "in_force",
+  "issued_date": "1919-04-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/262",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Pomieszczenia dla oficerów i urzędników wojskowych obowiązane są dostarczyć zarządy gmin miejskich i wiejskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zarządy gmin miejskich i wiejskich, o ile nie posiadają w swojem rozporządzeniu odpowiednich pomieszczeń, mają prawo rekwirować na potrzeby wojska mieszkania osób prywatnych. Pomieszczenia, zajęte przez władze i urzędy państwowe, nie podlegają rekwizycji."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Rekwizycji podlegają: a) mieszkania, których właściciele lub użytkujący są stale nieobecni; b) poszczególne pokoje w mieszkaniach, liczących ponad 4 pokoje. W mieszkaniach, zajętych przez osoby pojedyncze, do użytku właściciela mieszkania winny być zostawione 2 pokoje. W mieszkaniach, zajętych przez rodzinę, do użytku właściciela pozostawione być winno tyle pokoi, z ilu osób składa się rodzina, nie więcej jednak niż 4 pokoje. Przy obliczaniach powyższych nie są brane w rachubę pokoje, które służą do wykonywania zawodu i nie są przeznaczone na mieszkanie, jako też pokoje, zamieszkane już przez podnajemców, nie należących do rodziny."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W razie powrotu nieobecnych właścicieli lub użytkujących zwraca się im część mieszkania stosownie do art. 3."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Pomieszczenia dla oficerów i urzędników wojskowych winny być dostarczone ze znajdującem się w mieszkaniu przepisanem umeblowaniem i ze światłem, o ile istnieje w mieszkaniu instalacja elektryczna lub gazowa."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Spis pomieszczeń zarówno własnych, jak i ulegających rekwizycji, winny zarządy gmin miejskich i wiejskich dostarczyć miejscowym komendom wojskowym w sposób i terminach przez władze wojskowe przepisanych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Za dostarczone pomieszczenia skarb państwa będzie wypłacał gminom wynagrodzenie podług norm następujących: a) w miastach I klasy: Warszawie, Krakowie, Lwowie, Lublinie, Łodzi, Częstochowie i Sosnowcu, oraz w miejscach klimatycznych i uzdrowiskach: za oficerów do podpułkownika włącznie (1 pokój) 3 marki dziennie, za oficerów od pułkownika i wyżej (2 pokoje) 5 mk. dziennie; b) w miastach II klasy, dawniej gubernialnych i powiatowych, 80% cen wskazanych w p. a.; c) w pozostałych miejscowościach - 60% cen wskazanych w p. a. Wypłaty sumy należnej za zajęte pomieszczenia uskuteczniają zarządy gmin miejskich I wiejskich."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Różnicę, wynikającą z tego, że czynsz płacony przez lokatora za zarekwirowane pokoje wyższy jest od wynagrodzenia, należącego się za nie w myśl tej ustawy, pokrywa właściciel domu z własnych funduszów."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Istniejące dotąd obszary dworskie, jako jednostki administracyjne, podpadają pod postanowienia niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Winni uchylania się od obowiązków, z ustawy niniejszej wynikających, będą karani aresztem do 3-ch miesięcy lub grzywną do 3000 mk. przez władze administracyjne."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Wojskowych i Ministrowi Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza posiada moc obowiązującą na całym obszarze Państwa Polskiego na przeciąg jednego roku i wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_7-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_7-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

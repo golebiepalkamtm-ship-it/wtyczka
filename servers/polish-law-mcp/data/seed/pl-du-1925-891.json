@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1925-891",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 listopada 1925 r. o popieraniu polskiej żeglugi morskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1925-891",
+  "status": "in_force",
+  "issued_date": "1925-11-25",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/891",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W celu popierania rozwoju polskiej żeglugi morskiej i związanego z nią przemysłu, w myśl art. 5 p. 5 ustawy z dnia 28 maja 1920 r. o polskich statkach handlowych morskich (Dz. U. R. P. № 47, poz. 285), jako też w celu współdziałania Państwa w stworzeniu narodowej floty handlowej, może być okazana tak dla nowopowstających, jak dla już istniejących krajowych przedsiębiorstw budowy statków morskich oraz dla przedsiębiorstw żeglugi pomoc materjalna ze Skarbu Państwa i wydawane przez Państwo zarządzenia gospodarcze, niniejszą ustawą przewidziane."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Pomoc dla polskich przedsiębiorstw budowy statków (art. 1) w granicach Rzeczypospolitej i na obszarze w. m. Gdańska może być świadczona: 1) przez udzielanie kredytu oraz przez udzielanie gwarancji państwowej celem uzyskania kredytu, zarówno na urządzenie nowych, jako też na rozszerzenie i ulepszenie już istniejących zakładów technicznych, oraz na niezbędne do tego celu inwestycje; 2) przez wypłacanie premij za statki, wykonane całkowicie lub częściowo w kraju, szczególnie przy użyciu materjałów krajowych, oraz za dokonanie remontu statków; 3) przez przyznanie ulg w opłatach portowych, taryfowych, celnych, oraz innych ułatwień dla zakładów budowy statków, sprowadzających bądź z zagranicy, bądź z głębi kraju, potrzebne do ich produkcji surowce, półfabrykaty, części składowe kadłubu, kotłów, motorów i wszelkiego rodzaju mechanizmów, oraz potrzebne do eksploatacji statki i materiały; 4) przez uwolnienie częściowe lub całkowite przedsiębiorstw (art. 1) od podatków i opłat państwowych na okres czasu, nie przewyższający lat 15."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pomoc dla polskich przedsiębiorstw żeglugi (art. 1) może być świadczona: 1) przez udzielenie taniego kredytu lub gwarancji państwowej celem uzyskania kredytu na inwestycje eksploatacyjne, zakup i remont statków i urządzeń budowy przystani, oraz na inne potrzeby, naturalnym rozwojem przedsiębiorstw usprawiedliwione; 2) przez wypłacanie premij: a) od długości przebytej drogi wodnej, przeby-wanej przez statki, oraz wielkości statku; b) od ilości przewożonych ładunków w interesie ojczystego przemysłu i handlu; c) za odwiedzanie przez Rząd wskazanych portów; d) za przewożenie poczty; e) za utrzymanie regularnych rejsów z określoną szybkością; 3) przez częściowy zwrot opłat kanałowych; 4) przez przyznawanie ulg przewozowych dla ładunków, idących lub przybywających na polskich statkach morskich w granicach przyjętych zobowiązań międzynarodowych, oraz dla materjałów pędnych na własne potrzeby polskich statków morskich; 5) przez uwolnienie częściowe lub całkowite przedsiębiorstw od podatków i opłat państwowych na okres czasu, nie przewyższający lat 15."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Pomoc dla krajowych towarzystw, ubezpieczających statki, będzie świadczona przez udzielenie państwowej gwarancji finansowej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Sposoby udzielania pomocy, wyszczególnione w art. 2 i 3, mogą być udzielane również i względem krajowych morskich statków rybackich."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Premje przyznawać będzie Minister Przemysłu i Handlu po zasięgnięciu opinji komisji specjalnej. Komisję tę, złożoną z przedstawicieli zainteresowanych ministerstw oraz krajowych organizacyj przemysłowych i żeglugowych, powołuje do życia rozporządzenie Ministra Przemysłu i Handlu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Postanowienia, dotyczące państwowej gwarancji finansowej, będą przedmiotem osobnej ustawy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Przemysłu i Handlu w porozumieniu z Ministrem Skarbu oraz innymi zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_3-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_3-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

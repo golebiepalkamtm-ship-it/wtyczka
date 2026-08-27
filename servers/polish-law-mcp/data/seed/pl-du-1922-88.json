@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1922-88",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1922 r. w przedmiocie podwyższenia pewnych opłat sądowych w b. dzielnicy austrjackiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-88",
+  "status": "in_force",
+  "issued_date": "1922-01-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/88",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Artykuły 2 do 5, 7 i 8 ustawy z dnia 1 marca 1921 r. o podwyższeniu opłat sądowych w b. dzielnicy austrjackiej (Dz. U. R. P. № 26, poz. 143) ulegają zmianom następującym: 1) w art. 2 ustęp 1 liczby „3, 4, 5, 6, 7 i 8” zastępuje się słowem. następnych ...”; 2) w art. 3 wyliczenie: „1.000 marek, 10.000 marek, 30.000 marek, 100.000 marek” zastępuje się następującemi pozycjami: „3.000 marek, 30.000 marek, 100.000 marek, 300.000 marek”; 3) w art. 4 w miejsce kwoty „50 marek” wstawia się kwotę „500 marek”; 4) w art. 5 w miejsce kwoty. 10.000 marek” wstawia się kwotę „100.000 marek”; 5) art. 7 otrzymuje następujące brzmienie: „Stałe należytości w dziale I taryfy poz. 5, w dziale II taryfy poz. 12 i 13, w dziale III taryfy poz. 19, 20 i 21, w dziale IV taryfy poz. 31, 32, 33 i 34 (postępowanie karne wskutek oskarżenia prywatnego) oraz w uwagach do tych pozycji podnosi się pięćdziesiąt razy”; 6) w art. 8 w miejsce kwoty „5 marek” wstawia się kwotę „25 marek”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Po art. 8 ustawy z dnia 1 marca 1921 r. o podwyższeniu opłat sądowych w b. dzielnicy austrjackiej (Dz. U. R. P. № 26, poz. 143) zamieszcza się postanowienie następujące: art. 8 1 . Stałe należytości w dziale I taryfy poz. 3, 4 i 8 (gdy przedmiot ugody nie da się oszacować) oraz w uwagach do tych pozycji podnosi się dziesięciokrotnieart. art. 8 2 . Liczbę, określającą najwyższy wymiar należytości w dziale I taryfy poz. 6 lit. B. b. c i poz. 7 lit. a, 2, podnosi się dwadzieścia razy. art. 8 3 . Stałe należytości w dziale II taryfy poz. 9, 10, 11 i 14 oraz w dziale III taryfy poz. 16, 17, 18, 29 i 30 lit. a, b, c, e, f, g, oraz w uwagach do tych pozycji podnosi się dziesięciokrotnie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości i Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie w 30 dni po jej ogłoszeniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_1-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

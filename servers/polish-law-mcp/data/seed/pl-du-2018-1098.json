@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-1098",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 kwietnia 2018 r. o zmianie ustawy o kierujących pojazdami",
+  "title_en": "",
+  "short_name": "pl-du-2018-1098",
+  "status": "amended",
+  "issued_date": "2018-04-12",
+  "in_force_date": "2018-06-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/1098",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 stycznia 2011 r. o kierujących pojazdami ( Dz. U. z 2017 r. poz. 978 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957 i 1039. ) wprowadza się następujące zmiany: 1) w art. 3 po ust. 3 dodaje się ust. 3a w brzmieniu: „ 3a. Całkowity albo częściowy ubytek słuchu nie jest przeciwwskazaniem zdrowotnym do uzyskania uprawnienia do kierowania pojazdami ani przesłanką jego cofnięcia - z wyjątkiem: 1) uzyskania prawa jazdy kategorii D1 lub D; 2) uzyskania prawa jazdy kategorii C1 lub C przez osobę, która nie posiada prawa jazdy kategorii B albo posiada je przez okres krótszy niż 2 lata; 3) cofnięcia uprawnień w zakresie prawa jazdy kategorii C lub C1 osobie, która w wyniku nagłego zdarzenia utraciła słuch w stopniu uniemożliwiającym jej rozumienie mowy z odległości jednego metra, w tym przy zastosowaniu aparatów słuchowych lub implantów słuchowych - przez okres roku od tego zdarzenia. ” ; 2) w art. 56 dodaje się ust. 7 i 8 w brzmieniu: „ 7. Na wniosek osoby składającej egzamin, będącej osobą uprawnioną w rozumieniu przepisów ustawy z dnia 19 sierpnia 2011 r. o języku migowym i innych środkach komunikowania się ( Dz. U. z 2017 r. poz. 1824 ) , wojewódzki ośrodek ruchu drogowego zapewnia nieodpłatną pomoc tłumacza języka migowego lub systemu językowo-migowego podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1. 8. Wojewódzki ośrodek ruchu drogowego stwarza tłumaczowi języka migowego lub systemu językowo-migowego, którego zapewni sobie osoba składająca egzamin, możliwość pomocy tej osobie podczas egzaminu państwowego na prawo jazdy, z wyłączeniem części egzaminu, o której mowa w art. 51 ust. 2 pkt 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 października 2018 r. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2017 r. poz. 2418 oraz z 2018 r. poz. 138, 650, 728, 957 i 1039. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

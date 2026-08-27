@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1985-296",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 grudnia 1985 r. o Funduszu Obsługi Zadłużenia Zagranicznego.",
+  "title_en": "",
+  "short_name": "pl-du-1985-296",
+  "status": "repealed",
+  "issued_date": "1985-12-23",
+  "in_force_date": "1985-12-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1985/296",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Tworzy się Fundusz Obsługi Zadłużenia Zagranicznego, zwany dalej „Funduszem”. 2. Podstawowym celem Funduszu jest zapewnienie warunków finansowych dla obsługi zadłużenia zagranicznego. 3. Ilekroć w ustawie jest mowa o jednostkach gospodarki uspołecznionej, rozumie się przez to jednostki określone w art. 1 ust. 1 ustawy z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej ( Dz. U. z 1984 r. Nr 16, poz. 75 i z 1985 r. Nr 12, poz. 50 oraz Nr 37, poz. 174 ) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Dochodami Funduszu są: 1) wpłaty jednostek gospodarki uspołecznionej w wysokości do 5% wartości netto środków trwałych - według stanu na koniec roku poprzedniego - dokonywane z funduszów rozwoju lub innych funduszów przeznaczonych na finansowanie rozwoju tych jednostek, 2) wpłaty jednostek gospodarki uspołecznionej z części wyników przeszacowania wartości zapasów, dokonywanego w związku ze zmianami cen urzędowych, 3) dochody z zagranicznych pożyczek państwowych, 4) uzupełniające dotacje z budżetu centralnego, 5) inne wpływy określone w odrębnych przepisach ustawowych. 2. Rada Ministrów, w drodze rozporządzenia, określa na okresy wieloletnie wysokość wpłat, o których mowa w ust. 1 pkt 1. W rozporządzeniu tym Rada Ministrów może w szczególnie uzasadnionych wypadkach zastosować zwolnienia i ulgi we wpłatach na Fundusz."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Środki Funduszu są przeznaczone na uzupełnienie istniejących źródeł finansowania spłaty rat kapitałowych wraz z odsetkami od zadłużenia zagranicznego oraz obsługę udzielanych zagranicy kredytów państwowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Gospodarkę Funduszem prowadzi się na podstawie rocznych planów uchwalanych przez Sejm. 2. Projekty rocznych planów Funduszu przedstawia do uchwalenia Sejmowi Rada Ministrów wraz z projektem planu bilansu płatniczego Państwa. 3. Rada Ministrów określa corocznie wysokość części wyników przeszacowania wartości zapasów, podlegających wpłacie na Fundusz. 4. Rada Ministrów przedstawia Sejmowi corocznie sprawozdanie z gospodarki środkami Funduszu wraz ze sprawozdaniem z wykonania planu bilansu płatniczego Państwa. 5. Projekty planów Funduszu oraz sprawozdania z gospodarki jego środkami przedstawia Radzie Ministrów corocznie Minister Finansów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Środkami Funduszu gospodaruje Minister Finansów zgodnie z planami, o których mowa w art. 4 ust. 1. 2. Minister Finansów określa tryb i terminy wpłat, o których mowa w art. 2 ust. 1 pkt 1 i 2."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Do wpłat, o których mowa w art. 2 ust. 1 pkt 1 i 2, stosuje się przepisy o zobowiązaniach podatkowych. 2. W sprawach zobowiązań z tytułu obciążeń na rzecz Funduszu właściwy jest Minister Finansów. 3. Kontrolę prawidłowości naliczeń i terminowości wpłat jednostek gospodarki uspołecznionej z tytułu obciążeń na rzecz Funduszu sprawują izby i urzędy skarbowe, właściwe ze względu na siedzibę jednostek zobowiązanych do dokonywania wpłat na Fundusz. W razie nieprawidłowego naliczania lub zwłoki w uiszczeniu wpłat z tytułu obciążeń, urzędy skarbowe są właściwe do ustalania obciążeń oraz odsetek za zwłokę jak też ściągnięcia należności w drodze egzekucji administracyjnej."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Środki Funduszu nie wykorzystane w danym roku kalendarzowym przechodzą na rok następny."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "W sprawach nie uregulowanych ustawą stosuje się odpowiednio przepisy prawa budżetowego o gospodarce funduszami celowymi."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W ustawie z dnia 3 grudnia 1984 r. - Prawo budżetowe ( Dz. U. Nr 56, poz. 283 ) w art. 18 skreśla się ust. 2."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1986 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_2-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pass_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pass_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_4-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_4-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_4-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

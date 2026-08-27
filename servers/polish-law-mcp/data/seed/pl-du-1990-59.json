@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1990-59",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 stycznia 1990 r. o zmianie ustawy o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw.",
+  "title_en": "",
+  "short_name": "pl-du-1990-59",
+  "status": "repealed",
+  "issued_date": "1990-01-26",
+  "in_force_date": "1990-02-22",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/59",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw ( Dz. U. z 1990 r. Nr 4, poz. 19 ) w art. 8 w ust. 2 na końcu dodaje się zdania w brzmieniu: „ Odprawę pieniężną ustala się według zasad obowiązujących przy obliczaniu ekwiwalentu pieniężnego za urlop wypoczynkowy. Wydatki z tego tytułu są pokrywane ze środków zakładu pracy. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

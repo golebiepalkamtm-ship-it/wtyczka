@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1923-968",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 listopada 1923 r. w przedmiocie przepisów o państwowym podatku dochodowym, obowiązujących w r. 1923 na obszarze górnośląskiej części województwa śląskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1923-968",
+  "status": "in_force",
+  "issued_date": "1923-11-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/968",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą postanowień śląskiej ustawy z dnia 18 stycznia 1923 r. (Dz. Ust. Śl. № 6, poz. 37) w przedmiocie podatku dochodowego, działającej na obszarze górnośląskiej części województwa śląskiego odnośnie do wymiaru podatku dochodowego na rok podatkowy 1922, przedłuża się na ten obszar na rok podatkowy 1923, ze zmianami i uzupełnieniami, odpowiadającemi zmianom i uzupełnianiom, wprowadzonym na rok podatkowy 1923 ustawą z dnia 15 czerwca 1923 r. (Dz. U. R. P. № 67, poz. 521) w przedmiocie niektórych zmian w przepisach o państwowym podatku dochodowym, obowiązujących w b. dzielnicy pruskiej na mocy pruskiej ustawy z dnia 19 czerwca 1906 r. (Zb. Pr. prusk. str. 259), ustawy z dnia 19 grudnia 1919 r. (Dz. U. R. P. № 98, poz. 520) oraz ustawy z dnia 6 kwietnia 1922 r. (Dz. U. R. P. № 33, poz. 266)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do wprowadzenia w ustawie śląskiej z dnia 18 stycznia 1923 r. zmian i uzupełnień, o których mowa w art. 1 niniejszej ustawy, upoważnia się Ministra Skarbu. Upoważnienie to dotyczy w szczególności: 1) wprowadzenia do powołanej ustawy śląskie) systemu potrącania podatku dochodowego od uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę, przewidzianego w dziale II ustawy z dnia 15 czerwca 1923 r. (Dz. U. R. P. № 67, poz. 521). z równoczesnem podaniem skali podatkowej w myśl art. 27 tejże ustawy na czwarty kwartał roku podatkowego 1923; 2) podwyższenia granicy wolnego od podatku dochodu do 2.000.000 mk. polskich oraz zastąpienia skali podatkowej, podanej w § 14 ustawy śląskiej, skalą, obowiązującą na zasadzie postanowień art. 7 powołanej ustawy z dnia 15 czerwca 1923 r. z dodaniem postanowienia, że skala ta obowiązuje zarówno dla osób niefizycznych, wymienionych w pp. 4, 5, 6 i 7 § 1 ustawy śląskiej z 18 stycznia 1923 r., a temsamem i uchylenia przepisu, zawartego w § 15 tejże ustawy; 3) określenia wysokości odliczeń, przewidzianych w części II pp. 3 i 4 § 6 ustawy śląskiej z dnia 18 stycznia 1923 r. w sposób, wskazany w art. 4 powołanej ustawy z dnia 15 czerwca 1923 r.; 4) podwyższenia granic dochodu, określonych w § 16 ustawy śląskiej, do wysokości, przewidzianej w art. 8 powołanej ustawy z dnia 15 czerwca 1923 r., oraz podwyższenia kwoty 200.000 mk. przewidzianej w § 17 ustawy śląskiej, do kwoty 15.000.000 mk. polskich; 5) podwyższenia granic dochodu, uzasadniających kompetencją poszczególnych władz wymiarowych (§§ 22, 23, 30, 33, 39 i 40 ustawy śląskiej) do wysokości 12.000.000 mk. polskich; 6) ustalenia wymiaru grzywien podatkowych z §§ 68, 70 i 71 śląskiej ustawy analogicznie do brzmienia art. 10 i 11 powołanej ustawy z dnia 15 czerwca 1923 r.; 7) uchylenia postanowień śląskiej ustawy o dodatkach komunalnych i wprowadzenia w miejsce ich postanowień art. 13, 14, 25 i 29 powołanej ustawy z dnia 15 czerwca 1923 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ponadto upoważnia się Ministra Skarbu: 1) do ustanowienia relacji w przedmiocie przewalutowania sum dochodu, osiągniętego w markach niemieckich na marki polskie; 2) do uchylenia postanowień ostatniego ustępu § 62 i 65 ustawy śląskiej i wprowadzenia postanowienia, mocą którego podatek dochodowy, wymierzony na rok 1923, wraz z dodatkami komunalnemi ma być płatny w terminie 14 dni od dnia doręczenia nakazu płatniczego w wysokości, jaka wypadnie z pomnożenia tego podatku wraz z dodatkami komunalnemi przez wykładnik, ustalony w myśl art. 26 powołanej ustawy z dnia 15 czerwca 1923 r., a wyrażający wzrost przeciętnych cen hurtowych w pierwszej połowie roku 1923 w porównaniu z przeciętnemi cenami hurtowemi w roku 1922; 3) do uchylenia § 67 a) ustawy śląskiej z dnia 18 stycznia 1923 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na rok podatkowy 1923. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_2-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

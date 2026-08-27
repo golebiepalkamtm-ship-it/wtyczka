@@ -48,31 +48,37 @@ export class ServerProvisioner {
     definition: ServerRepositoryDefinition,
     forceReclone = false
   ): Promise<ProvisionedServerExecutionPlan> {
-    const serverDir = path.join(this.baseStorageDir, definition.id);
-    const gitDir = path.join(serverDir, ".git");
+    const bundledDir = path.join(process.cwd(), "servers", definition.id);
+    let serverDir = path.join(this.baseStorageDir, definition.id);
 
-    const repoExists = await this.pathExists(gitDir);
-
-    if (forceReclone && (await this.pathExists(serverDir))) {
-      this.logger.info(`Force re-provision requested for ${definition.id}. Deleting ${serverDir}...`);
-      await fs.rm(serverDir, { recursive: true, force: true });
-    }
-
-    if (!repoExists || forceReclone) {
-      this.logger.info(`Cloning repository ${definition.repoUrl} into ${serverDir}...`);
-      await fs.mkdir(serverDir, { recursive: true });
-      await this.runProcess(
-        this.binaries.git,
-        ["clone", "--depth", "1", "--branch", definition.defaultBranch, definition.repoUrl, "."],
-        serverDir,
-        definition.id
-      );
+    if (await this.pathExists(bundledDir)) {
+      this.logger.info(`[${definition.id}] Found bundled server directory in ${bundledDir}. Using local source.`);
+      serverDir = bundledDir;
     } else {
-      this.logger.info(`Repository for ${definition.id} exists. Pulling latest updates...`);
-      try {
-        await this.runProcess(this.binaries.git, ["pull", "--ff-only"], serverDir, definition.id);
-      } catch (pullError) {
-        this.logger.warn(`Failed to pull updates for ${definition.id}: ${String(pullError)}. Using cached repository.`);
+      const gitDir = path.join(serverDir, ".git");
+      const repoExists = await this.pathExists(gitDir);
+
+      if (forceReclone && (await this.pathExists(serverDir))) {
+        this.logger.info(`Force re-provision requested for ${definition.id}. Deleting ${serverDir}...`);
+        await fs.rm(serverDir, { recursive: true, force: true });
+      }
+
+      if (!repoExists || forceReclone) {
+        this.logger.info(`Cloning repository ${definition.repoUrl} into ${serverDir}...`);
+        await fs.mkdir(serverDir, { recursive: true });
+        await this.runProcess(
+          this.binaries.git,
+          ["clone", "--depth", "1", "--branch", definition.defaultBranch, definition.repoUrl, "."],
+          serverDir,
+          definition.id
+        );
+      } else {
+        this.logger.info(`Repository for ${definition.id} exists. Pulling latest updates...`);
+        try {
+          await this.runProcess(this.binaries.git, ["pull", "--ff-only"], serverDir, definition.id);
+        } catch (pullError) {
+          this.logger.warn(`Failed to pull updates for ${definition.id}: ${String(pullError)}. Using cached repository.`);
+        }
       }
     }
 

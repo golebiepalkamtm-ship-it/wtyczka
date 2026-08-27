@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1937-193",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 marca 1937 r. o sprzedaży i bezpłatnym odstąpieniu niektórych nieruchomości państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-193",
+  "status": "in_force",
+  "issued_date": "1937-03-29",
+  "in_force_date": "1937-04-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/193",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż Towarzystwu Wyższej Szkoły Dziennikarskiej - parceli państwowej o powierzchni 1484,67 m 2 , wydzielonej z nieruchomości oznaczonej Nr hip. 2990 i 2991, położonej przy ulicy Rozbrat w Warszawie, o długości frontu 30 m, licząc od granicy sąsiedniej nieruchomości Nr hip. 6059, za cenę ulgową 27.000 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zezwala się na bezpłatne odstąpienie następujących nieruchomości państwowych: 1) gminie m. st. Warszawy - nieruchomości położonych przy ulicach: Marszałka Focha, Senatorskiej, Wierzbowej i Trębackiej w Warszawie, a oznaczonych Nr hip.: 474, 475, 476a, 614a i 635, 2) Uniwersytetowi Józefa Piłsudskiego w Warszawie dla potrzeb Domu Medyków, - placu o powierzchni 1108,42 m 2 , wydzielonego z nieruchomości, położonej przy ulicy Oczki Nr 7 w Warszawie, 3) gminie w Mickunach w powiecie wileńsko-trockim, w województwie wileńskim - parceli we wsi Bujwidze, o powierzchni 5667m 2 , razem ze znajdującym się na niej budynkiem, ograniczonej od południa i zachodu gruntami kościelnymi, od północy gruntami prywatnymi i od wschodu traktem Bystrzyce-Punżany."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu, a co do art. 2 pkt 1) także w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

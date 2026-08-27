@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1920-403",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lipca 1920 r. o zabezpieczeniu bytu rodzinom osób, pełniących ochotniczą lub obowiązkową służbę wojskową.",
+  "title_en": "",
+  "short_name": "pl-du-1920-403",
+  "status": "repealed",
+  "issued_date": "1920-07-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/403",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Opiekę nad rodzinami osób. pełniących ochotniczą lub obowiązkową służbą wojskową, sprawują przez cały czas trwania tej służby Państwo i gminy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Skarb Państwa wypłacać będzie tym rodzinom, których członkowie pełnią służbę wojskową, przez cały czas trwania tej służby zasiłek pieniężny, określony ustawą zasiłkową."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Stosunek pracodawcy do pracobiorcy, pełniącego służbę wojskową, i do jego rodziny w przedmiocie najmu usług nie może być przez czas trwania służby wojskowej jednostronnie rozwiązany. Artykuł ten nie dotyczy płacy, pobieranej przez pracobiorcę."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wójtowie, sołtysi, naczelnicy gmin w gminach wiejskich otrzymują z mocy niniejszej ustawy prawo nakładania świadczeń osobistych na wszystkich mieszkańców gminy i na tej podstawie udzielą na żądanie mieszkających we wsi rodzin drobnych rolników, pełniących służbę wojskową, pomocy przy zbiorach plonów, przy uprawie roli i przy wszelkich pracach, związanych z zabezpieczeniem bytu tym rodzinom. W razie sprzeciwu przysługuje zwierzchności gminnej prawo doraźnej egzekutywy podobnie, jak przy świadczeniach wojennych. Niezależnie od tego winni zostają pociągnięci do odpowiedzialności na mocy art. 5 niniejszej ustawy. Przeciwko zarządzeniom sołtysów, wójtów i naczelników gmin zainteresowani mają prawo zażalenia do odpowiedniej władzy. Zażalenie jednak nie wstrzymuje obowiązku wykonania zarządzeń."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Odmowa świadczeń, lub zaniedbanie wydania potrzebnych zarządzeń ulegnie karze do 6 miesięcy aresztu lub grzywny do 100,000 marek, wymierzanej przez sądy I-ej instancji z dopuszczeniem odwołania do 2-ej instancji."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Spraw Wewnętrznych oraz Misistrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

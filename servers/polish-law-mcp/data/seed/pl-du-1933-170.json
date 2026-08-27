@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1933-170",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 marca 1933 r. w sprawie zapewnienia czasowych mieszkań i pomieszczeń dla zwolnionych robotników rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1933-170",
+  "status": "in_force",
+  "issued_date": "1933-03-22",
+  "in_force_date": "1933-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/170",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Robotnicy rolni, których umowy o pracę ustają z dniem 31 marca danego roku i którzy do tego terminu zajmowali na podstawie tych umów stanowiące część ich uposażenia mieszkania służbowe i przynależne do tych mieszkań ich pomieszczenia, nie mogą być usunięci z tych mieszkań i pomieszczeń do dnia 31 maja tegoż roku, o ile na ich miejsce nie zostali najęci inni robotnicy. (2) Jeżeli na miejsce zwolnionego robotnika rolnego został najęty inny robotnik, mający zająć mieszkanie zwolnionego, a dany pracodawca posiada inne wolne mieszkanie robotnicze, powinien on zwolnionego robotnika na czas do 31 maja ulokować w wolnem mieszkaniu. (3) Obowiązek pracodawcy pozostawienia zwolnionego robotnika w zajmowanem przez niego mieszkaniu, względnie ulokowanie takiego robotnika w innem wolnem mieszkaniu nie stwarza między stronami stosunku najmu mieszkania, wobec czego nie ma w tym przypadku zastosowania ustawa z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. U. R. P. Nr. 39, poz. 406). (4) Wysokość odszkodowania za wskazane w ust. 1 i 2 niniejszego artykułu mieszkania i pomieszczenia nie może przekraczać 5 złotych miesięcznie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) W przypadku, gdy pracodawca z powodu najęcia nowych robotników rolnych nic posiada wolnych mieszkań robotniczych, nie może on sprzeciwiać się zamieszkaniu zwolnionych robotników przez okres czasu od 31 marca do 31 maja razem z robotnikami, zatrudnionymi u niego, o ile ci na to się zgodzili. (2) Postanowienia ust. 3 art. 1 mają w tym przypadku odpowiednie zastosowanie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Postanowienia art. 1 i 2 nie mają zastosowania w następujących przypadkach: a) jeżeli umowa o pracę została rozwiązana na życzenie robotnika; b) jeżeli robotnik posiada lub otrzyma inne mieszkanie; c) jeżeli robotnik otrzymał stałe zatrudnienie u innego pracodawcy; d) jeżeli umowa została wypowiedziana we właściwym czasie wskutek dopuszczenia się przez robotnika względem pracodawcy czynu karalnego, w myśl kodeksu karnego, względnie jeżeli robotnik dopuścił się takiego czynu w okresie wypowiedzenia. (2) Jeżeli robotnik, korzystający z uprawnień, przewidzianych w art. 1 i 2, dopuścił się czynu, wyNa mocy art. 44 Konstytucji ogłaszam ustawę następującej treści: mienionego w pkt. d) niniejszego artykułu, wówczas traci on te uprawnienia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Ustawa niniejsza obowiązuje do dnia 31 maja 1934 r. (2) Rada Ministrów jest władna przedłużać moc obowiązującą ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Opieki Społecznej, Rolnictwa i Reform Rolnych, Sprawiedliwości oraz Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na obszarze całej Rzeczypospolitej z wyjątkiem województwa śląskiego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_1-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_3-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pass_(1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-pass_(1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

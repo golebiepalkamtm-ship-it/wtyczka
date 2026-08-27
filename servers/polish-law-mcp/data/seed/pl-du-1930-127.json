@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1930-127",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 lutego 1930 r. w sprawie zmiany ustawy z dnia 29 lipca 1921 r. w przedmiocie przeznaczenia terenów za cytadelą oraz pasa ziemi wzdłuż ulicy Górnej w Warszawie pod budowę domów, oraz ustaw z dnia 28 lipca 1922 r. i 22 września 1922 r., dotyczących rozszerzenia zakresu działania powołanej wyżej ustawy z dnia 29 lipca 1921 r.",
+  "title_en": "",
+  "short_name": "pl-du-1930-127",
+  "status": "in_force",
+  "issued_date": "1930-02-26",
+  "in_force_date": "1930-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/127",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 4 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448) otrzymuje następujące brzmienie: „ Grunty, przeznaczone w prawomocnym planie zabudowania pod ulice, place i zieleńce oraz na pomieszczenie instytucyj użyteczności publicznej, będą odstąpione gminie miasta stoł. Warszawy bezpłatnie. Grunty te przechodzą napowrót na rzecz Skarbu Państwa w razie ustalenia, że zostały użyte nie na cele, na które je odstąpiono ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Art. 5 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448) otrzymuje następujące brzmienie: „ Upoważnia się Ministra Skarbu do sprzedawania terenów i parcel, na których mają być wznoszone domy mieszkalne, spółdzielniom mieszkaniowym, mieszkaniowo-budowlanym i budowlanym oraz internatom i bursom dla młodzieży na warunkach ulgowych, ustalonych według swego uznania ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Art. 7 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448) w dotychczasowem brzmieniu uchyla się i nadaje się mu brzmienie następujące: „ Pisma, dotyczące przeniesienia własności nieruchomości, przewidzianego w art. 5, są wolne od opłat stemplowych. Pobrane już opłaty stemplowe zwrotowi nie podlegają. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Art. 8 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448), art. 2 ustawy z dnia 28 lipca 1922 r. (Dz. U. R. P. Nr 67, poz. 601) oraz art. 2 ustawy z dnia 22 września 1922 r. (Dz. U. R. P. Nr 89, poz. 801) otrzymują każdy zosobna następujące brzmienie: „ Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu ” ."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Spółdzielniom mieszkaniowym i budowlanym, spółdzielczym stowarzyszeniom budowlanym i kooperatywom budowlanym robotniczym oraz internatom i bursom dla młodzieży, które na mocy art. 5 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448) w pierwotnem jej brzmieniu zawarły umowy o ustąpienie im pod tytułem wieczystej dzierżawy terenów i parcel, w ustawie tej, a także w ustawach z dnia 28 lipca 1922 r. (Dz. U. R. P. Nr 67, poz. 601) i z dnia 22 września 1922 r. (Dz. U. R. P. Nr 89, poz. 801) wymienionych, służy prawo zawarcia z Ministerstwem Skarbu uzupełniających umów o zbycie im tychże terenów i parcel na własność. Do składania odpowiednich zgłoszeń wyznacza się termin dwuletni od dnia wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Z dniem tym tracą moc prawną w odniesieniu do terenów i parcel, objętych ustawami z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448), z dnia 28 lipca 1922 r. (Dz. U. R. P. Nr 67, poz. 601) i z dnia 22 września 1922 r. (Dz. U. R. P. Nr 89, poz. 801), wszelkie uprawnienia Skarbu Państwa, zastrzeżone w zawartych już umowach sprzedaży i dzierżawy, a oparte na art. 7 ustawy z dnia 29 lipca 1921 r. (Dz. U. R. P. Nr 69, poz. 448). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

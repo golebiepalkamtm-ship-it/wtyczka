@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1932-328",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o przejęciu egzekucji administracyjnej przez władze skarbowe oraz o postępowaniu egzekucyjnem władz skarbowych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-328",
+  "status": "repealed",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/328",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Do przymusowego ściągania wszelkiego rodzaju świadczeń pieniężnych, które mogą być ściągane na podstawie obowiązujących przepisów w trybie administracyjnym, właściwe są wyłącznie urzędy skarbowe. (2) Rada Ministrów władna jest czynić w drodze rozporządzeń wyjątki od zasady, wyrażonej w ustępie 1). Rozporządzenia te określą rodzaje świadczeń pieniężnych, podmioty uprawnione do ich ściągania oraz przepisy, które będą miały zastosowanie do przymusowego ściągania tych świadczeń."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Grzywny, kary pieniężne, nawiązki, opłaty i koszty, orzeczone w sądowem postępowaniu karnem, mogą być ściągane na polecenie władzy sądowej lub prokuratorskiej bądź w myśl przepisów, zawartych w pkt. 1 i 2 art. 1 niniejszej ustawy, bądź na zasadzie dotychczasowych przepisów przez sądowe organa egzekucyjne."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Podstawa wdrożenia postępowania przymusowego jest tytuł wykonawczy. (2) Obowiązujące przepisy określają tytuły wykonawcze oraz regulują warunki wykonalności tytułów wykonawczych, jak również regulują wypadki, w których wniesienie środków prawnych jest dopuszczalne lub nie wstrzymuje wykonania. W razie braku przepisów w tym zakresie, mogą być one wydawane przez Radę Ministrów w drodze rozporządzeń."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Upoważnia się Radę Ministrów do wydania w drodze rozporządzeń przepisów, normujących całokształt postępowania egzekucyjnego władz skarbowych w stosunku do wszelkiego rodzaju należności skarbowych oraz do świadczeń pieniężnych, przewidzianych w niniejszej ustawie. Przepisy te mogą obejmować również sprawy, związane ze sposobem wymierzania i wysokością kosztów egzekucyjnych, oraz normować wypadki przekazywania egzekucji skarbowej do sądowego postępowania egzekucyjnego. (2) Rozporządzenia te winny natomiast przewidzieć: 1) że przeprowadzanie licytacji nieruchomości dozwolone jest na całym obszarze Rzeczypospolitej tylko w drodze sądowej w myśl obowiązujących przepisów ustawodawstwa cywilnego; 2) że co do nieruchomości z przeznaczenia będzie obowiązywał art. 28 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu przymusowem w administracji (Dz. U. R. P. Nr 36, poz. 342); 3) że przy przeprowadzaniu licytacji ruchomości będą obowiązywały przepisy art. 39 i 40 powyższego rozporządzenia Prezydenta Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje od dnia wejścia w życie rozporządzenia Rady Ministrów, określonego w art. 4, na całym obszarze Rzeczypospolitej. Upoważnia się Radę Ministrów do ustalania w drodze rozporządzeń, jakie przepisy niniejszej ustawy i w jakich terminach tracą swą moc. (2) Z chwilą wejścia w życie niniejszej ustawy zawiesza się na czas jej obowiązywania wszelkie przepisy, sprzeczne z niniejszą ustawą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\",\"children\": [{\"id\": \"arti_4-pass_(2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_4-pass_(2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_4-pass_(2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_6-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

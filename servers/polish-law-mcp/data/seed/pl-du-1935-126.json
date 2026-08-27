@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1935-126",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1935 r. o zmianie moratorjum mieszkaniowego dla bezrobotnych.",
+  "title_en": "",
+  "short_name": "pl-du-1935-126",
+  "status": "in_force",
+  "issued_date": "1935-03-26",
+  "in_force_date": "1935-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/126",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Końcowy termin okresu, wymienionego w zdaniu ostatniem ust. 1 art. 23 ustawy o ochronie lokatorów z dnia 11 kwietnia 1924 r. (Dz. U. R. P. Nr. 39, poz. 406) w brzmieniu ustawy z dnia 7 listopada 1931 r., zmieniającej ustawę o ochronie lokatorów (Dz. U. R. P. Nr. 105, poz. 808), ustalony ostatnio rozporządzeniem Prezydenta Rzeczypospolitej z dnia 13 kwietnia 1934 r. (Dz. U. R. P. Nr. 32, poz. 287) na dzień 31 października 1934 r. - ustala się w roku 1935 na dzień 31 października."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom: Sprawiedliwości i Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1935 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

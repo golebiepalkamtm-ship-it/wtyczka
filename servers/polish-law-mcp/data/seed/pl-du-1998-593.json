@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1998-593",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 czerwca 1998 r. o zmianie ustawy o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r.",
+  "title_en": "",
+  "short_name": "pl-du-1998-593",
+  "status": "in_force",
+  "issued_date": "1998-06-18",
+  "in_force_date": "1998-07-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/593",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 sierpnia 1997 r. o stosowaniu szczególnych rozwiązań podatkowych w związku z likwidacją skutków powodzi, która miała miejsce w lipcu 1997 r. ( Dz. U. Nr 113, poz. 736 ) , w art. 6 w ust. 1 wyrazy „w terminie do dnia 31 października 1997 r.” zastępuje się wyrazami „w terminie do dnia 31 października 1998 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

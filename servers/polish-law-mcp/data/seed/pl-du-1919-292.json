@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1919-292",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 maja 1919 r. o wyłącznem upoważnieniu Państwa do zakładania rurociągów, służących do prowadzenia gazów ziemnych, regulowania produkcji i zużytkowania ich.",
+  "title_en": "",
+  "short_name": "pl-du-1919-292",
+  "status": "repealed",
+  "issued_date": "1919-05-02",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/292",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Władza górnicza ma prawo określić obowiązujące sposoby racjonalnego wydobywania i zużytkowania palnych gazów ziemnych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Prawo zakładania rurociągów i urządzeń pomocniczych do przewodzenia palnych gazów ziemnych (zakłady gazu ziemnego), przysługuje wyłącznie Państwu. Ta zasada nie dotyczy urządzeń, przeznaczonych na potrzeby kopalń przedsiębiorcy, który gazu dobywa. Prawo to może rząd przenieść na zrzeszenia lub osoby fizyczne na czas ograniczony. Nadane uprawnienie gaśnie, jeżeli roboty w terminie wyznaczonym przez rząd nie zostały rozpoczęte, względnie ukończone. Przeniesienie nadanego przez rząd uprawnienia na osoby trzecie jest niedopuszczalne."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pozwolenia na budowę zakładów gazu ziemnego (art. 2) udziela Ministerstwo Przemysłu i Handlu na podstawie projektów, nadających się do stworzenia jednolitej sieci rurociągowej w Państwie; pierwszeństwo mają korporacje publiczne, a w szczególności gminy, oraz przedsiębiorstwa przedstawiające projekty zakładów które posiadają charakter użyteczności publicznej. Od rurociągów przechodzących przez miasta, przysługuie miastom pierwszeństwo rozprowadzenia gazu do konsumentów."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przedsiębiorstwom zakładów gazu ziemnego, którym Ministerstwo Przemysłu i Handlu przyznało charakter użyteczności publicznej, przysługuje prawo wywłaszczenia na podstawie projektu przez rząd zatwierdzonego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Producenci palnych gazów ziemnych, nie zużytkowujący ich dla swych własnych potrzeb, są obowiązani oddać każdoczesną nadwyżkę gazu za wynagrodzeniem istniejącym zakładom gazu ziemnego, przyczem zakłady posiadające charakter użyteczności publicznej mają pierwszeństwo."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Taryfy cen za gazy dla producentów i konsumentów zatwierdza Ministerstwo Przemysłu i Handlu po wysłuchaniu stron interesowanych i rzeczoznawców."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Po upływie czasokresu, na który prawo nadano (art. 2) przechodzą zakłady gazu ziemnego, o ile im nie będzie przyznane przedłużenie uprawnienia, na własność Państwa bez odszkodowania. Wcześniejszy wykup jest dopuszczalny tylko z ważnych powodów natury publicznej, stwierdzonych, w orzeczeniu Ministerstwa Przemysłu i Handlu, za cenę szacunkową. Zakłady gazu ziemnego gmin własne nie ulegają wykupowi."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Pod warunkami określonemi w art. 7 rząd może wykupić już istniejące zakłady gazu ziemnego. Nie podlegają one jednak innym postanowieniom ustawy niniejszej, dopóki nie zamierzają powiększyć swych rozmiarów. Przez powiększenie należy rozumieć rozszerzenie zakładów poza zapotrzebowanie miejscowe."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Wykonanie porucza się Ministrowi Przemysłu i Handlu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

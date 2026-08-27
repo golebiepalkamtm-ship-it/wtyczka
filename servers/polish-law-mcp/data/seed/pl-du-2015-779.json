@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2015-779",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 2015 r. o zmianie ustawy o bezpieczeństwie osób przebywających na obszarach wodnych",
+  "title_en": "",
+  "short_name": "pl-du-2015-779",
+  "status": "amended",
+  "issued_date": "2015-04-09",
+  "in_force_date": "2015-06-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2015/779",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych ( Dz. U. Nr 208, poz. 1240 ) wprowadza się następujące zmiany: 1) art. 7 otrzymuje brzmienie: „ Art. 7. Zabrania się prowadzenia w ruchu wodnym statku lub innego obiektu pływającego, niebędącego pojazdem mechanicznym, osobie znajdującej się w stanie po użyciu alkoholu lub podobnie działającego środka. ” ; 2) w art. 30 ust. 1 otrzymuje brzmienie: „ 1. Statek lub inny obiekt pływający może być usunięty z obszaru wodnego, jeżeli nie ma możliwości zabezpieczenia go w inny sposób, w przypadku gdy prowadziła go osoba znajdująca się w stanie po użyciu alkoholu lub podobnie działającego środka. ” ; 3) art. 35 otrzymuje brzmienie: „ Art. 35. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi w ruchu wodnym statek lub inny obiekt pływający, niebędący pojazdem mechanicznym, podlega karze grzywny. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

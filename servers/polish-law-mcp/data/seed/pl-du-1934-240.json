@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1934-240",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 marca 1934 r. o zamianie niektórych gruntów państwowych.",
+  "title_en": "",
+  "short_name": "pl-du-1934-240",
+  "status": "in_force",
+  "issued_date": "1934-03-15",
+  "in_force_date": "1934-04-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1934/240",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na zamianę: 1) w powiecie kościańskim w województwie poznańskiem: a) gruntu państwowego, stanowiącego parcele I. kat. 8 (dawniej 206/4) i 1. kat. 14/5 (dawniej 205/36) obrębu Darnowo, o łącznym obszarze 0,7012 ha - na grunt, należący do mieszkańca gminy Darnowo Wojciecha Wojciechowskiego, stanowiący parcele 1. kat. 98 i 99 obrębu Darnowo, o łącznym obszarze 0,2860 ha; b) gruntu państwowego, stanowiącego parcelę I. kat. 13/5 (dawniej 204/36) obrębu Darnowo, o obszarze 0,5118 ha - aa grunt, należący do mieszkańca gminy Darnowo Władysława Skrzypka, stanowiący parcele I. kat. 100 i 101 obrębu Darnowo o łącznym obszarze 0,605 ha; 2) w powiecie bialskim w województwie lubelskiem z nieruchomości Janów, przeznaczonej na prowadzenie państwowych zakładów chowu koni, gruntu państwowego o obszarze 20,5384 ha, zwanego „pastwisko Pożary”, przylegającego bezpośrednio do parcel zabudowanych wsi Pawłów Stary - na grunt, należący do gromady wsi Pawłów Stary, o obszarze 13,6923 ha, stanowiący parcelę, przylegającą do pastwiska Państwowej Stadniny Koni w Janowie Podlaskim."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

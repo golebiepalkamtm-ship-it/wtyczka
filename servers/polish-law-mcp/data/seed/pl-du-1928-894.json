@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1928-894",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 listopada 1928 r. zmieniająca ustawę z dnia 11 kwietnia 1924 r. o ochronie lokatorów.",
+  "title_en": "",
+  "short_name": "pl-du-1928-894",
+  "status": "in_force",
+  "issued_date": "1928-11-28",
+  "in_force_date": "1928-12-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1928/894",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozdz. V: Moratorjum mieszkaniowe dla bezrobotnych, w art. 23 ustępie 1 ustawy z dnia 11 kwietnia 1924 r. o ochronie lokatorów (Dz. Ust. Rz. P. Nr 39, poz. 406) dodaje się na końcu ustępu zdanie: „ Eksmisja z takich mieszkań na mocy decyzji sądu nie będzie wykonywana, o ile bezrobotny otrzymał pracę i spłaca, prócz bieżącego komornego, zalegle komorne w ratach, wynoszących 25% bieżącego komornego miesięcznego ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości i Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

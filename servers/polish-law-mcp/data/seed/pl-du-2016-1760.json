@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-1760",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 września 2016 r. o zmianie ustawy o bezpieczeństwie żywności i żywienia",
+  "title_en": "",
+  "short_name": "pl-du-2016-1760",
+  "status": "amended",
+  "issued_date": "2016-09-14",
+  "in_force_date": "2016-10-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/1760",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 25 sierpnia 2006 r. o bezpieczeństwie żywności i żywienia ( Dz. U. z 2015 r. poz. 594 i 1893 oraz z 2016 r. poz. 65 , 1228 i 1579 ) wprowadza się następujące zmiany: 1) w odnośniku nr 1 w części dotyczącej: a) wykonywania rozporządzeń po pkt 54 kropkę zastępuje się średnikiem i dodaje się pkt 55 w brzmieniu: „ 55) rozporządzenie Komisji (UE) nr 579/2014 z dnia 28 maja 2014 r. przyznające odstępstwo od niektórych przepisów załącznika II do rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady w odniesieniu do transportu morskiego płynnych olejów i tłuszczów (Dz. Urz. UE L 160 z 29.05.2014, str. 14 oraz Dz. Urz. UE L 45 z 20.02.2016, str. 1). ” , b) dokonywania transpozycji dyrektyw: - uchyla się pkt 16, - uchyla się pkt 22; 2) art. 70 otrzymuje brzmienie: „ Art. 70. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczególne wymagania higieniczne w zakresie transportu morskiego cukru surowego luzem, mając na względzie zapewnienie bezpieczeństwa żywności. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa: 1) służy stosowaniu rozporządzenia Komisji (UE) nr 579/2014 z dnia 28 maja 2014 r. przyznającego odstępstwo od niektórych przepisów załącznika II do rozporządzenia (WE) nr 852/2004 Parlamentu Europejskiego i Rady w odniesieniu do transportu morskiego płynnych olejów i tłuszczów (Dz. Urz. UE L 160 z 29.05.2014, str. 14 oraz Dz. Urz. UE L 45 z 20.02.2016, str. 1); 2) wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2015/254 z dnia 11 lutego 2015 r. uchylającą dyrektywę Rady 93/5/EWG w sprawie pomocy Komisji i współpracy państw członkowskich w naukowym badaniu zagadnień dotyczących żywności (Dz. Urz. UE L 43 z 18.02.2015, str. 1). Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

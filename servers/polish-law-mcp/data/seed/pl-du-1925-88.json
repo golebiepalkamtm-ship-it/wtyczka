@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-88",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 stycznia 1925 r. w sprawie zmiany w ustawie z dnia 27 maja 1919 r. o ustalaniu i wynagradzaniu nauczycieli publicznych szkół powszechnych, zmienionej ustawą z dnia 18 grudnia 1919 r.",
+  "title_en": "",
+  "short_name": "pl-du-1925-88",
+  "status": "in_force",
+  "issued_date": "1925-01-15",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/88",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 maja 1919 r. o ustalaniu i wynagradzaniu nauczycieli publicznych szkól powszechnych (Dz. P. P. P. z 1919 r. Nr 44 poz. 311), zmienionej ustawą z dnia 18 grudnia 1919 r. (Dz. U. R. P. z 1920 r. Nr 2 poz. 6), w §§ 3 i 9 art. 22 zamiast słów:. „31 stycznia 1925 r.” wstawia się słowa: „31 sierpnia 1927 r.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

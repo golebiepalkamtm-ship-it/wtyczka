@@ -1,0 +1,68 @@
+{
+  "id": "pl-du-1923-189",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 marca 1923 r. o karach za zwłokę oraz o kosztach egzekucyjnych.",
+  "title_en": "",
+  "short_name": "pl-du-1923-189",
+  "status": "in_force",
+  "issued_date": "1923-03-09",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/189",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nieuiszczone z winy płatnika w terminach płatności podatki wraz z dodatkami państwowemi, opłaty stemplowe i aljenacyjne, oraz dodatki do tych podatków i opłat, pobierane przez kasy skarbowe na rzecz niepaństwowych związków prawa publicznego, uważa się za zaległości."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Od zaległości (art. 1) pobiera się karę za zwłokę w wysokości 10% miesięcznie, począwszy od piętnastego dnia po upływie terminu płatności danin, wymienionych w artykule poprzednim."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przy obliczeniu kar za zwłokę miesiąc zaczęty liczy się za cały."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Końcówki kwot zaległości oraz końcówki obliczonych kar za zwłokę, przenoszące 50 mk., zaokrągla się do 100 mk., a niższe opuszcza się."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kary za zwłokę, przypadające od zaległości w daninach państwowych, pobiera się na rzecz karbu Państwa, od zaległości zaś, przypadających dla niepaństwowych związków prawa publicznego - na rzecz odnośnego związku."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Na pokrycie kosztów, spowodowanych przymusowem ściągnięciem zaległości, pobiera się na rzecz Skarbu Państwa od płatników następujące osobne opłaty: 1) opłatę za pisemne wezwanie (upomnienie) płatnika do zapłaty zaległości wynoszącą 1% sumy zaległej; 2) opłatę za każdą czynność organu egzekucyjnego, dokonaną u płatnika w celu przymusowego ściągnięcia zaległości, wynoszącą 5% sumy zaległej, najmniej jednak 1.000 mk.; podstawę do obliczenia tej opłaty stanowi zaległość wraz z karami za zwłokę i narosłemi kosztami egzekucyjnemi; 3) koszty przeniesienia, zabezpieczenia, przechowania i przymusowej sprzedaży ruchomości, zajętych u płatnika, w wysokości kwot, rzeczywiście wyłożonych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obowiązek płacenia kar za zwłokę, oraz kosztów egzekucyjnych obciąża tego, kto w myśl obowiązujących ustaw odpowiada za uiszczenie należności skarbowych z ewentualnemi dodatkami."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza wchodzi w życie w 4 tygodnie po ogłoszeniu. Z chwilą wejścia w życie niniejszej ustawy tracą moc dotychczas obowiązujące postanowienia ustaw i rozporządzeń, wydane do końca 1922 r. w przedmiotach, unormowanych, tą ustawą. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

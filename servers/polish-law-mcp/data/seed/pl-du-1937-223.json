@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-223",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 kwietnia 1937 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 października 1927 r. o uchyleniu odrębności stanowych.",
+  "title_en": "",
+  "short_name": "pl-du-1937-223",
+  "status": "in_force",
+  "issued_date": "1937-04-14",
+  "in_force_date": "1937-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/223",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 14 października 1927 r. o uchyleniu odrębności stanowych (Dz. U. R. P. Nr 92, poz. 824) art. 6 nadaje się brzmienie następujące: „ Art. 6. Urzędy gminne prowadzą księgi umów, w których wszyscy mieszkańcy gminy mogą sporządzać akty i umowy, choćby w nich uczestniczyły także osoby, nie będące mieszkańcami gminy. Akty i umowy nie mogą dotyczyć przedmiotów, dla których jest wymagana forma notarialna lub których wartość przewyższa 3.000 zł. Każdy akt lub umowa powinny być spisane w księdze, odczytane stronom i podpisane przez nie oraz przez wójta lub jego zastępcę i sekretarza gminnego. Jeżeli w akcie lub umowie uczestniczy niepiśmienny lub nie mogący pisać, może się za niego podpisać inna osoba; w tym przypadku wymagane są nadto podpisy dwóch świadków. Mieszkańcy gminy mogą sporządzać w księdze umów testamenty, jeżeli przedmiotem testamentu jest gospodarstwo rolne - gdy obszar gruntu nie przekracza 15 ha, a w innych przypadkach, jeżeli wartość majątku nie przekracza 3.000 zł. Testator powinien osobiście oświadczyć swoją wolę w obecności wójta lub jego zastępcy i sekretarza gminnego oraz co najmniej dwóch świadków; oświadczenie to powinno być spisane w księdze umów, odczytane obecnym i podpisane przez testatora, świadków oraz wójta lub jego zastępcę i sekretarza gminnego. Jeżeli testator nie umie lub nie może pisać, może się za niego podpisać inna osoba. Testamenty te mogą być zmieniane lub odwoływane przez testamenty lub akty, sporządzone notarialnie lub w gminnej księdze umów. Testament, sporządzony z naruszeniem przepisów ustępu poprzedzającego, nie ma mocy testamentu, sporządzonego w gminnej księdze umów. Z czynności, sporządzonych w księdze umów, wydaje się stronom w braku odmiennej umowy po jednym wypisie, opatrzonym podpisami wójta lub jego zastępcy i sekretarza gminnego oraz pieczęcią gminy. Czynności, sporządzone w księdze umów, podlegają ogólnym przepisom o opłatach stemplowych. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych oraz Ministrem Rolnictwa i Reform Rolnych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

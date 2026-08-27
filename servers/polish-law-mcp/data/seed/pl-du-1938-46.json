@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1938-46",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 lutego 1938 r. o budowie normalnotorowej kolei Szczakowa - Bukowno.",
+  "title_en": "",
+  "short_name": "pl-du-1938-46",
+  "status": "in_force",
+  "issued_date": "1938-02-01",
+  "in_force_date": "1938-02-09",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/46",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do budowy normalnotorowej linii kolejowej użytku publicznego o charakterze kolei pierwszorzędnej Szczakowa - Bukowno, ogólnej długości około 12 km, od stacji kolejowej Szczakowa na linii kolei państwowych Kraków - Ząbkowice do stacji Bukowno na linii kolei państwowych Strzemieszyce - Kielce."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Koszty budowy będą pokryte z kredytów, wstawianych do preliminarza funduszu inwestycyjnego przedsiębiorstwa „Polskie Koleje Państwowe."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Komunikacji w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

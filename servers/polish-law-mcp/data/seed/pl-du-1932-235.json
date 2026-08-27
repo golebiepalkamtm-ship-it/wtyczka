@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1932-235",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 marca 1932 r. o właściwości Ministra Reform Rolnych w zakresie wykonywania meljoracyj.",
+  "title_en": "",
+  "short_name": "pl-du-1932-235",
+  "status": "in_force",
+  "issued_date": "1932-03-09",
+  "in_force_date": "1932-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/235",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sprawy, związane z przeprowadzaniem meljoracyj dla celów rolniczych, nie wyłączając regulacji i obwałowania wód niespławnych, oraz z utrzymywaniem odnośnych robót i urządzeń, należą do zakresu działania Ministra Reform Rolnych. Postanowienie to nie obejmuje regulacji i obwałowania wód granicznych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Przewidziany w art. 145 do 152, 156 ust. 2, 158, 161, 162, 168 i 182 ustawy wodnej z dnia 19 września 1922 r. (Dz. U. R. P. Nr 102, poz. 936) nadzór nad spółkami wodnemi należy w zakresie zadań, określonych w art. 1 niniejszej ustawy, do Ministra Reform Rolnych i podległych mu władz i urzędów. Szczegółowe przepisy w sprawie wykonywania nadzoru, właściwość w tym przedmiocie podległych Ministrowi Reform Rolnych władz i urzędów oraz zakres współdziałania z władzami wodnemi określą rozporządzenia Ministra Reform Rolnych, wydawane w porozumieniu z Ministrem Robót Publicznych. (2) Przed zatwierdzeniem statutu spółki przez władzę wodną w myśl art. 141 ustawy wodnej władza ta winna zasięgnąć opinji właściwego urzędu ziemskiego co do istnienia warunków, określonych w cz. 1 art. 134 ustawy wodnej. (3) Postanowienia ust. 1 nie mają zastosowania do wymienionych w pkt. 1 i 2 art. 133 ustawy wodnej spółek dla budowy i utrzymania zakładów dla piętrzenia wody dla celów żeglugi, spławu i przemysłu, i wyzyskania siły popędowej wody i budowy zbiorników wody, o ile nie są wykonywane dla celów rolniczych, oraz dla wszystkich spółek, wymienionych w pkt. 3 i 4 art. 133 ustawy wodnej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przekazanie Ministrowi Reform Rolnych czynności, określonych w ustawie niniejszej, wraz z odnośnym personelem i inwentarzem, oraz częścią państwowego funduszu meljoracyjnego (Dz. U. R. P. z r. 1921 Nr 91, poz. 671 i z r. 1925 Nr 75, poz. 524), odpowiadającą wyżej określonym czynno' ściom, winno być ukończone do dnia 31 marca 1932 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przed przejęciem poszczególnych agend przez Ministra Reform Rolnych od Ministra RobótPublicznych zainteresowani ministrowie ustalą wysokość sum, jakie w ramach ustawy skarbowej na rok 1932/33 z poszczególnych paragrafów kredytów osobowych i rzeczowo-administracyjnych oraz właściwego paragrafu kredytów specjalnych w cz. 14 budżetu będą przekazane do dyspozycji Ministra Reform Rolnych; w granicach ustalonych w tensposób sum Minister Skarbu na Wniosek Ministra Reform Rolnych otwierać będzie temu Ministrowi kredyty miesięczne."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Program Ministra Reform Rolnych w zakresie meljoracyj, określonych w art. 1, ustala na każdy okres budżetowy Minister Reform Rolnych w porozumieniu z Ministrami Rolnictwa i Robót Publicznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie ustawy niniejszej, jak również wydanie szczegółowych rozporządzeń do niej porucza się Ministrowi Reform Rolnych w porozumieniu z Ministrami Skarbu, Rolnictwa i Robót Publicznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_2-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

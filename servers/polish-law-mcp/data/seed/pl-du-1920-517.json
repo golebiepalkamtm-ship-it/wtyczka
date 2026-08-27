@@ -1,0 +1,356 @@
+{
+  "id": "pl-du-1920-517",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lipca 1920 r. o podatku od kapitałów i rent.",
+  "title_en": "",
+  "short_name": "pl-du-1920-517",
+  "status": "repealed",
+  "issued_date": "1920-07-16",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/517",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Podatkowi od kapitałów i rent podlegają: 1) kapitały ponad 2.000 mk., zabezpieczone bezpośrednio na nieruchomościach w charakterze rzeczywistych długów, bez względu na to, czy kapitały przynoszą dochód czy nie, z wyjątkiem kapitałów, wymienionych w art. 2 ustępie 3 i 4 niniejszej ustawy; 2) skapitalizowane wartości zabezpieczonych bezpośrednio na nieruchomościach rent i innych powtarzających się świadczeń pieniężnych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Podatkowi podlegają również: 1) przychody z wszelkiego rodzaju wartościowych papierów państwowych publicznych i prywatnych; 2) przychody z wkładów na rachunek bieżący i z innych wkładów procentowych w bankach państwowych, publicznych i prywatnych, kasach oszczędnościowych, instytucjach i przedsiębiorstwach kredytowych, domach bankowych i kantorach wymiany wszelkiego rodzaju; 3) przychody z kapitałów pieniężnych pożyczonych, bez względu na formę, przez osoby prywatne lub instytucje i przedsiębiorstwa, nie obowiązane do publicznego składania rachunków, instytucjom lub przedsiębiorstwom handlowym i przemysłowym, podlegającym opłacie państwowego podatku przemysłowego, względnie zarobkowego na zasadzie przepisów, ustanowionych dla przedsiębiorstw, obowiązanych do publicznego składania rachunków; 4) przychody z kapitałów pieniężnych, hipotecznie zabezpieczonych, których wierzycielami są przedsiębiorstwa lub instytucje, obowiązane do publicznego składanie rachunków, z wyjątkiem przychodów z pożyczek, wydawanych przez instytucje kredytu długoterminowego w papierach procentowych; 5) przychody z pobieranych w gotówce lub w naturze świadczeń, umówionych w kontraktach wydobywania ciał kopalnych z cudzego gruntu, o ile te świadczenia ustalone nie w kwocie pieniężnej ściśle oznaczonej, lecz w stosunku procentowym do ilości wydobytych ciał kopalnych (procenta brutto); 6) specjalne rachunki bieżące (on'callowe) zabezpieczone przez złożenie papierów wartościowych lub w jakikolwiek inny sposób, otwarte w państwowych, publicznych lub prywatnych instytucjach kredytowych oraz domach bankowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podatkowi nie podlegają: A. z wymienionych w art. 1 kapitałów i rent: 1) wierzytelności, należne Skarbowi Państwa i państwowym instytucjom kredytowym oraz związkom samorządnym; 2) renty i inne powtarzające się świadczenia pieniężne, których płatność zależną jest od nastania lub nienastania pewnego zdarzenia lub od warunków jeszcze nie wypełnionych; 3) wszelkiego rodzaju renty, które stanowią bezpośrednie wynagrodzenie za świadczone usługi z tytułu stosunku służbowego, pobory emerytalne i zaopatrzenia. B. z przychodów, wymienionych w art. 2: 1) przychody z papierów wartościowych, które osobną ustawą uwolniono od opłacania dotychczasowego podatku od dochodu z kapitałów pieniężnych, względnie rentowego; 2) przychody z wkładów Pocztowej Kasy Oszczędności i w instytucjach drobnego kredytu; 3) przychody z akcji i udziałów instytucji lub przedsiębiorstw handlowych i przemysłowych, które podlegają opłacie państwowego podatku przemysłowego lub zarobkowego na zasadzie przepisów, ustanowionych dla przedsiębiorstw, obowiązanych do publicznego składania rachunków. Dział II. O podatku od zabezpieczonych na nie ruchomościach kapitałów i rent, wymienionych w art. 1."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Podatek wynosi rocznie 1 mk. od każdych 100 mk. kapitału, przyczem 50 i więcej marek kapitału liczy się za 100 mk. sumy zaś mniejszej od 50 mk. nie bierze się w rachubę."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Podatek opłaca właściciel obciążonego długiem majątku nieruchomego. Jest on odpowiedzialny za terminową zapłatę podatku bez względu na to. czy procenty od kapitału względnie renty lub inne świadczenia pieniężne zostały wypłacone wierzycielowi lub uprawnionemu do ich podniesienia czy nie."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Właścicielowi nieruchomości przysługuje prawo potrącenia w należności wypłacanych wierzycielowi sumy zapłaconego podatku, jednak bez odsetek za zwłokę (art. 22)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obowiązek podatkowy ustala się na podstawie stanu hipotecznego w dniu 1-ym stycznia odnośnego roku podatkowego. Jeżeli zabezpieczenie na nieruchomości, podległej podatkowi wierzytelności lub renty i innego świadczenia pieniężnego nastąpiło w ciągu roku podatkowego, wymierza się podatek dopiero od najbliższego następującego półrocza kalendarzowego p. zaintabulowaniu. Jeżeli wspomniane wyżej zabezpieczenie trwało mniej niż 6 miesięcy w ciągu jednego półrocza kalendarzowego, w takim razie podatek wymierza się za jedno półrocze."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Podstawą do określenia wysokości zabezpieczonego na nieruchomości kapitału jest wpis hipoteczny. Celem obliczenia skapitalizowanej wartości praw do rent i innych powtarzających się świadczeń pieniężnych, jako podstawę wymiaru podatku należy przyjąć jednoroczną sumę pieniężną renty lub świadczenia według następujących zasad: I. Przy wieczystych rentach lub świadczeniach pieniężnych przyjmuje się, jako skapitalizowaną wartość, 25-krotną roczną sumę, zaś przy rentach i świadczeniach pieniężnych na czas nieograniczony, 121/2 - krotną roczną sumę, jeżeli postanowienia pod II i III niniejszego artykułu nie mają zastosowania, lub jeżeli płatnik w inny sposób nie wykaże okoliczności, ograniczających czas ich trwania. II. Jeżeli prawo ograniczone jest czasem życia uprawnionego lub innej osoby, wówczas skapitalizowaną wartość oznacza się stosownie do wieku w dniu 1 stycznia roku podatkowego tej osoby, ze śmiercią której prawo gaśnie. Za skapitalizowaną wartość przyjmuje się przy wieku: do lat 15 18 - krotną ponad 15 do 25 lat 17 „ „ „ 25 „ 35 „ 16 „ „ „ 35 „ 45 „ 14 „ „ „ 45 „ 55 „ 12 „ „ „ 55 „ 65 „ 81/2 „ „ „ 65 „ 75 „ 5 „ „ „ 75 „ 80 „ 3 „ „ „ 80 „ 2 „ „ jednorocznej renty lub świadczenia pieniężnego. III. Jeżeli czas trwania uprawnienia jest uzależniony od czasu życia kilku osób w ten sposób, że w razie śmierci którejkolwiek z tych osób gaśnie prawo korzystania z renty lub świadczenia pieniężnego, wówczas przy obliczeniu wartości według skali w ustępie II niniejszego artykułu podanej, miarodajnym jest wiek osoby najstarszej. Jeżeli zaś czas trwania uprawnienia gaśnie dopiero ze śmiercią wszystkich osób, wówczas oblicza się wartość według wieku osoby najmłodszej. IV. Przy prawach do rent lub świadczeń pieniężnych, ograniczonych z góry oznaczonym czasem, przyjmuje się skapitalizowaną wartość według dołączonej do ustawy tabeli pomocniczej. Jeżeli jednakże czas trwania uprawnienia zależy nadto od czasu życia jednej lub kilku osób, wówczas skapitalizowana wartość, obliczona według ustępu II i III niniejszego artykułu, nie może być przekroczoną."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Właściciele nieruchomości, obciążonych kapitałami lub rentami i innemi świadczeniami pieniężnemi, które podlegają podatkowi, są obowiązani złożyć władzy skarbowej Iszej instancji w terminie, przez tę władzę w publicznem obwieszczeniu wskazanym, zeznanie na przepisanym formularzu osobno dla każdej posiadłości. Zeznanie ma zawierać: 1) określenie nieruchomości, obciążonej długiem, imię, nazwisko i miejsce zamieszkania jej właściciela; 2) dokładne oznaczenie kapitałów lub rent i innych świadczeń pieniężnych, obciążających nieruchomości, wraz z podaniem imion i nazwisk wierzycieli oraz miejsc ich zamieszkania; 3) czas, w którym nastąpiło zabezpieczenie i termin jego trwania."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Obowiązek złożenia zeznania istnieje tylko w pierwszym roku podatkowym obowiązywania tej ustawy i rozciąga się także na obciążenie, wymienione w art. 2, ustęp 5. Ponowne zeznanie należy składać tylko w wypadkach obciążenia nieruchomości nowym wpisem, lub też zmian, uzasadniających lub rozciągających obowiązek podatkowy."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Właściciele obciążonych długami nieruchomości, jakoteż wierzyciele i notarjusze są obowiązani na każde wezwanie władzy skarbowej w terminie, przez tę władzę wyznaczonym, udzielać wiadomości i wyjaśnień, potrzebnych do ustalenia obowiązku podatkowego i podstaw wymiaru podatku. Obowiązek ten ciąży także na wszystkich instytucjach państwowych publicznych."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Notarjusze są obowiązani o każdem sporządzeniu aktu, dotyczącego zabezpieczenia na nieruchomości, kapitału lub renty i innego powtarzającego się świadczenia pieniężnego, zawiadamiać do dni 14 tę władzę skarbową 1-szej instancji, w której okręgu znajduje się obciążona nieruchomość. Obowiązek ten ciąży również na urzędach hipotecznych odnośnie do każdego wniesienia takiego aktu do ksiąg hipotecznych."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Urzędy hipoteczne i. notarjusze mają dozwalać dostępu do ksiąg hipotecznych, aktów i rejestrów urzędnikom władz skarbowych do tego wyznaczonym."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Instytucje, których prawa do należnych im długów uwolnionych od podatku na zasadzie art. 3-go tej ustawy, przejdą na osoby trzecie, są obowiązane zawiadomić o tern właściwą władzą skarbową 1-szej instancji w terminie 14 dni."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Wrazie podziału majątku nieruchomego na części oddzielne, o ile podział taki jest połączony z podziałem na części długu zabezpieczonego na tymże majątku, wymierza się podatek dla każdego właściciela nieruchomości stosownie do obciążenia jego nieruchomości, od następnego półrocza kalendarzowego po zaszłej zmianie, a jeżeli podział ten miał miejsce w pierwszem półroczu, to równocześnie z wymiarem podatku umarza się z pierwotnie wymierzonej rocznej kwoty podatku tę część, jaka przypada za drugie półrocze odnośnego roku podatkowego. Za nieuiszczony podatek przed podziałem odpowiadają wszyscy współwłaściciele nieruchomości solidarnie."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "W razie zmiany właściciela nieruchomości obowiązek uiszczenia zaległego podatku przechodzi na nowego właściciela."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "W razie sprzedaży majątku na publicznej licytacji w drodze sądowej lub innej, zaległy podatek wraz z przypadającemi odsetkami za zwłokę potrąca się z tej części sumy, uzyskanej ze sprzedaży, jaka przypada z podziału na zapłatę opodatkowanego długu, a to z pierwszeństwem przed innemi pretensjami. W wypadku niedostateczności tej sumy zaległości ulegają umorzeniu."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W razie zmiany hipoteki wskutek częściowego lub całkowitego umorzenia obciążenia, właściciel obciążonego majątku lub wierzyciel zawiadamia o tern właściwą władzę skarbową I instancji z dołączeniem odpowiedniego dokumentu, stwierdzającego tę zmianę. W tym wypadku następuje częściowe ograniczenie obowiązku podatkowego lub też zupełne uwolnienie od podatku od półrocza kalendarzowego, następującego po zaszłej zmianie. Jeżeli powyższa zmiana zaszła w pierwszem półroczu kalendarzowem, władza skarbowa I instancji umarza częściowo lub całkowicie odpowiednią kwotę z rocznego podatku, przypadającą za II półrocze kalendarzowe."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "O umorzeniu podatku (art. 15 i 18) władza skarbowa I instancji zawiadamia płatnika. Przeciw obliczeniu podatku, ulegającego umorzeniu, może płatnik wnieść rekurs do władzy skarbowej II instancji w terminie czterech tygodni, licząc od dnia doręczenia odnośnego uwiadomienia. Władza ta rozstrzyga sprawę ostatecznie."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Sporządzanie i zaświadczenie aktów, dotyczących wykreśleń, przeniesień lub zastawów zabezpieczonych sum pieniężnych, podlegających opodatkowaniu, oraz wpis do ksiąg hipotecznych tych zmian, nie może nastąpić bez przedstawienia właściwym urzędom lub organom urzędowego poświadczenia, że zaległości z odsetkami za zwłokę oraz przypadający do końca bieżącego półrocza podatek zostały uiszczone."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Wymiaru i poboru podatku dokonują władze skarbowe I instancji dla wszystkich w ich okręgu znajdujących się majątków nieruchomych, obciążonych długiem, podlegającym podatkowi."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Wymierzony za każdy rok kalendarzowy podatek, płatny jest w dwóch ratach półrocznych, a mianowicie za pierwsze półrocze do 30 czerwca, zaś za drugie półrocze do 31 grudnia roku podatkowego. Nieuiszczone w powyższych terminach kwoty podatkowe będą ściągnięte w drodze egzekucji w trybie, przepisanym dla ściągnięcia podatków bezpośrednich w ogólności, przyczem pobierze się od setki za zwłokę, w wysokości 1% miesięcznie najmniej jednak 1 mk. Miesiąc zaczęty liczy się za cały. Przy kwotach większych od 1 mk., przypadających tytułem odsetek za zwłokę, 50 lub więcej fenigów liczy się za 1 mk., kwot zaś mniejszych od 50 fen. nie bierze się w rachubę. Za zalegający podatek odpowiada wobec Skarbu Państwa również wierzyciel, przyczem odsetki za zwłokę obciążają go, począwszy od 15 dnia po doręczeniu osobnego wezwania do uiszczenia zaległęści."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Władza skarbowa I instancji zawiadamia właściciela obciążonej długiem nieruchomości o kwocie wymierzonego podatku, za pomocą nakazu płatniczego, który ma zawierać także wysokość opodatkowanej sumy, terminy płatności podatku oraz wskazanie przysługujących płatnikowi środków prawnych. Nakaz płatniczy doręcza się właścicielowi nieruchomości, o ile on nie podał innego miejsca swego zamieszkania w miejscu obciążonej nieruchomości."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "Odpis nakazu płatniczego doręcza się równocześnie także wierzycielowi na jego żądanie, o ile tenże wskaże władzy wymiarowej swoje miejsce zamieszkania."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Przeciw wymiarowi podatku może właściciel nieruchomości i wierzyciel wnieść rekurs, w terminie czterech tygodni, licząc od dnia doręczenia nakazu płatniczego, do władzy skarbowej II instancji, która rozstrzyga ostatecznie. Rekurs składa się do właściwej władzy skarbowej I instancji. Rekurs nie wstrzymuje obowiązku uiszczenia podatku."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Sumy, zabezpieczone i przy wymiarze podatku pominięte lub niesłusznie uznane za nieulegające opodatkowaniu, pociąga się do opłacania podatku nie więcej jak za lat pięć bezpośrednio poprzedzających rok, w którym nastąpiło wyjście na jaw zaszłej nieprawidłowości. Również za taki sam okres czasu wymierza się dodatkowo podatek od sum, które były opodatkowane w niższej normie jak należało."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Jeżeli majątek nieruchomy, na którym zabezpieczono podlegające podatkowi sumy, przeszedł na nowego właściciela, w takim razie źle obliczony w swoim czasie podatek (art. 26) ściąga się od tegoż właściciela jedynie za czas należenia doń majątku. Dział III. O podatku od wymienionych w artykule 2 przychodów z kapitałów i od specjalnych rachunków bieżących (on'calIowych)."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Podatek od przychodów, wymienionych w art. 2, ustępach 1 - 5, wynosi 10%. Podatek ad wymienionych w art. 2 ustępie 6, specjalnych rachunków bieżących (on'callowych) wynosi 0.540% rocznie w stosunku do czasu i sumy pożyczek (liczb procentowych)."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Podatek od przychodów z państwowych papierów procentowych pobiera się przez potrącenie sumy podatku przy wypłacie procentów i wygranych."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Podatek od przychodów z papierów procentowych wypuszczonych przez instytucje publiczne lub prywatne, pobiera się od całkowitej sumy perjodycznie płaconych procentów od papierów, znajdujących się w obiegu. Instytucje te wpłacają do kas skarbowych w ciągu miesiąca, licząc od terminu płatności procentów, przypadający od nich podatek, który potrącają sobie następnie od pobierających procenty."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Podatek od przychodów z wkładów na rachunek bieżący lub z innych wkładów procentowych (art. 2 ustęp 2) jako też od specjalnych rachunków bieżących (on'callowych) (art. 2 ustęp 6) w instytucjach kredytowych, domach bankowych i kantorach wymiany, ma być wpłacony przez nie do kas skarbowych w przeciągu dwóch miesięcy, licząc od dnia zamknięcia perjodycznych rachunków tych wkładów, na podstawie ryczałtowej sumy procentów, należnych i wypłaconych właścicielom wkładów albo doliczonych do ulokowanych przez nich kapitałów, względnie na podstawie zamknięcia specjalnych rachunków bieżących (on'callowych). Wpłacony do kas skarbowych podatek wymienione wyżej instytucje potrącają sobie następnie od deponentów, względnie dłużników."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Dla obliczenia podatku specjalne rachunki bieżące (on'callowe) mają być zamykane w terminach najwyżej półrocznych. Jeżeli przy zamknięciu rachunku okaże się, że procenty od niego należą się od instytucji bankowej osobie, na której imię rachunek został otwarty, to od procentów tych pobiera się podatek w wysokości, wskazanej w pierwszem zdaniu art. 28."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Przy określeniu sumy procentów od rachunków kontokor - rentowych (korespondentów) każdego oddzielnie korespondenta, podlegającej opodatkowaniu na podstawie art. 2 ustępu 2 bierze się w rachubę tylko różnicę (saldo) procentów z kredytu i debetu rachunków; przyczem jeżeli instytucja kredytowa prowadzi kilka kontokorrentowych rachunków dla jednego korespondenta „nostro” i „loro”, to podatek oblicza się od różnicy procentów od sum z kredytu i debetu wszystkich takich (kontokorrentowych) rachunków. Podatek, przypadający od rachunków kontokorrentowych, wpłaca się do kasy skarbowej najpóźniej 31 marca roku, po sprawozdawczym następującego."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Podatek od przychodów z kapitałów, wskazanych w (art. 2 ustępie 3), wymienione w tym ustępie instytucje pobierają od właścicieli tych kapitałów i wpłacają do kas skarbowych w terminach, ustanowionych do uiszczenia przez nich dodatkowego podatku przemysłowego, względnie zarobkowego. Przypadający podatek od przychodów z kapitałów, wskazanych w art. 2 ustępie 4, mają wymienione w tym ustępie instytucje i przedsiębiorstwa same wpłacić do kas skarbowych w terminie wyżej podanym."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Podatek, przypadający od świadczeń, umówionych w kontraktach o wydobywanie ciał kopalnych z cudzego gruntu (procentów brutto, art. 2 ustęp 5), przedsiębiorstwa górnicze mają do 15 każdego miesiąca obliczyć i wpłacić do kas skarbowych za każdy ubiegły kalendarzowy miesiąc produkcji."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "W razie poboru określonych w poprzednim artykule świadczeń (procentów brutto) w naturze, przedsiębiorstwa górnicze obliczają wartość tych świadczeń według ceny ciał kopalnych, ustalonej urzędownie, względnie według przeciętnej ceny notowanej na giełdzie towarowej, a w braku takiego notowania wedle przeciętnej sumy, ustalonej przez Izbą handlową, lub według przeciętnej ceny rynkowej w odnośnym miesiącu produkcji."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Odpowiedzialność za nieterminowe wpłacenie do kasy skarbowej i za nieprawidłowe obliczenie podatku ciąży na właściwych instytucjach lub osobach. Od niezapłaconego w przepisanych terminach podatku, pobiera się od tych instytucji lub osób odsetki za zwłokę w wysokości 1% miesięcznie od całej niezapłaconej sumy podatku, przyczem nie cały miesiąc liczy się za cały."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "W ciągu ośmiu dni po terminach, wskazanych do wpłacenia podatku do kas skarbowych, obowiązani są płatnicy, nie wymienieni w art. 31, złożyć właściwej władzy skarbowej wykaz, który ma zawierać wszelkie szczegóły, dotyczące obliczenia podatku oraz dowód uiszczenia tego podatka."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Władza skarbowa sprawdza dane zawarte w wykazie i w razie zachodzących wątpliwości co do prawidłowego obliczenia podatku, może zażądać od płatników udzielenia w oznaczonym terminie dodatkowych wiadomości i wyjaśnień i w razie potrzeby delegować swego urzędnika do sprawdzenia powyższego obliczenia w obecności osób, zarządzających odnośną instytucją kredytową lub przedsiębiorstwem. W tym ostatnim wypadku sporządza się w obecności wyżej wymienionych osób protokuł z dokonanego sprawdzenia obliczenia podatku."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Jeżeli po sprawdzeniu wykazu okaże się, że podatek obliczono i zapłacono w kwocie niższej od przepisanej ustawą, władza skarbowa ma wezwać, piśmiennie płatnika, aby dodatkową kwotę podatku wpłacił do kasy skarbowej w terminie czternastu dni, licząc od dnia doręczenia wezwania. Dodatkowy podatek, nie zapłacony w tym terminie, ściągnięty będzie wraz z odsetkami za zwłokę w wysokości 1% miesięcznie. Miesiąc rozpoczęty liczy się ca cały."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Przeciwko wezwaniu do zapłacenia dodatkowego podatku może płatnik wnieść rekurs w terminie 4 tygodni od dnia doręczenia odnośnego wezwania. Rekurs wnosi się do tej władzy skarbowej, która wezwała płatnika do zapłacenia dodatkowego podatku, a rozstrzyga go ostatecznie władza skarbowa bezpośrednio wyższej instancji. Złożenie rekursu nie wstrzymuje obowiązku uiszczenia dodatkowego podatku. Dział IV. Przepisy ogólne."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Kto w terminie, przez władzę skarbową wyznaczonym, nie złoży przepisanego w myśl art. 9 zeznania lub nie udzieli zażądanych wiadomości i wyjaśnień w myśl art. 11 i 39, podlega grzywnie pieniężnej w wysokości od 100 do 10000 marek. × 50 Grzywna ta może być powtarzaną."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "Kto naruszy przepisy, zawarte w art. 12, 13, 14, 20 i 38 niniejszej ustawy podlega grzywnie pieniężnej od 5.000 do 50.000 mk. × 50 Urzędnicy państwowi i publiczni, winni naruszenia powyższych przepisów odpowiadają jak za przewinienie służbowe trybem, ustanowionym dla karania tych przewinień."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Kto świadomie w celu uchylenia od ustawowej powinności podatkowej, osoby własnej lub przez siebie zastępowanej, złoży nieprawdziwe zeznanie (art. 9) lub na wezwanie władzy skarbowej przedstawi jej nieprawdziwe dane lub wyjaśnienia, (art. 11 i 39), lub też w wykazie, złożonym władzy skarbowej w myśl art. 38, poda nieprawdziwe szczegóły, dotyczące obliczenia podatku, które przyczynić się mogą. do udaremnienia wymiaru lub uszczuplenia ustawą przepisanego podatku, względnie nieprawidłowego obliczenia podatku, podlega, niezależnie od obowiązku opłaty należnego podatku, o ile nie zagraża kara surowsza w myśl powszechnej ustawy karnej, - karze pieniężnej w wysokości pięć do dwudziestopięciokrotnej sumy niewymierzonego albo uszczuplonego, lub narażonego na jedno lub drugie podatku."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Za grzywny i kary pieniężne nałożone na pełnomocnika, odpowiada mocodawca."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Grzywny i kary pieniężne, wymienione w art. 42, 43 i 44, nakładają te władze skarbowe, które powołane są do wymiaru podatku, względnie sprawdzania wykazów obliczeń podatku przez płatników. O orzeczeniach, skazujących na grzywnę lub karę pieniężną, mają te władze skarbowe zawiadomić obwinionego z podaniem powodów orzeczenia."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Przeciw orzeczeniu o grzywnie lub karze pieniężnej można w ciągu 4 tygodni od dnia doręczenia orzeczenia wnieść odwołanie za pośrednictwem tej władzy skarbowej, która nałożyła grzywnę, do władzy skarbowej bezpośrednio wyższej instancji. Orzeczenie instancji odwoławczej jest ostateczne."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Wykonanie orzeczeń o grzywnie lub karze pieniężnej należy odroczyć aż do rozstrzygnięcia wniesionego odwołania, jednak władza skarbowa może zarządzić zabezpieczenie nałożonej grzywny na majątku obwinionego zaraz po wydaniu orzeczenia."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Grzywny i kary pieniężne nałożone za przekroczenia z art. 42, 43 i 44, wpływają na rzecz skarbu Państwa."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Grzywny, nałożone na podstawie art. 42 należy umorzyć, o ile osoba na grzywnę skazana wykaże, że spełnieniu włożonych na nią obowiązków przeszkodziła ważna przyczyna, jako to: ciężka choroba, pozbawienie wolności lub inny wypadek siły wyższej."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "Karygodność czynu wymienionego w art. 44, gaśnie: 1) gdy winnego nie pociągnięto do odpowiedzialności w przeciągu pięciu lat po upływie tego roku podatkowego, w którym dopuszczono się naruszenia przepisów; 2) gdy winny sprostuje lub uzupełni swoje zeznanie lub oświadczenie u właściwej władzy skarbowej, zanim otrzyma pierwsze wezwanie w celu przesłuchania go jako obwinionego, lub urzędowe zawiadomienie, że przeciw niemu wpłynęło doniesienie."
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Odpowiedzialność za naruszenie przepisów, niniejszej ustawy gaśnie, jeżeli osoba winna zmarła przed uprawomocnieniem się orzeczenia o nałożeniu kary."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "Minister Skarbu może częściowo lub całkowicie uwolnić od opłacania podatku zabezpieczone hipotecznie kapitały lub renty, przeznaczone wyłącznie na cele dobra ogólnego oraz przyznawać stosowne ulgi w innych wypadkach, zasługujących na wyjątkowe uwzględnienie z powodów słuszności."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Ustawa niniejsza obowiązuje od 1 stycznia 1921 roku. Dział V. Postanowienia przejściowe."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Z dniem wejścia w życie niniejszej ustawy na obszarze ziem polskich byłych zaborów rosyjskiego i austrjackiego tracą moc obowiązującą przepisy: 1) ustaw rosyjskich z dnia 20 maja 1885 o podatku od dochodów z kapitałów pieniężnych i z dnia 21 grudnia 1887 o podatku od specjalnych rachunków bieżących (on'callowych) (Tom V Zb. Pr. z roku 1903) oraz odnośne rozporządzenia byłych władz okupacyjnych; 2) ustawy rosyjskiej o podatku od kapitałów, zabezpieczonych tytułem wierzytelności na nieruchomościach, zatwierdzonej uchwałą Rady Ministrów z dnia 9 stycznia 1915 roku, tudzież rozporządzenia Generalnego Gubernatorstwa Warszawskiego z dnia 19 kwietnia 1916 r. (Dz. rozp. № 31), dotyczącego poboru podatku hipotecznego, wraz z odnośnemi rozporządzeniami byłych władz okupacyjnych; 3) ustawy austrjackiej z dnia 25 października 1896 (Dz. p. p. № 220) dział III o podatku rentowym, wraz z póżniejszemi uzupełniającemi ustawami."
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Odnośnie do należytości podatkowych za czas przed dniem wejścia w życie niniejszej ustawy należy stosować się do dotychczasowych zasad."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Skarbu, a o ile chodzi o b. dzielnicę pruską - Ministrowi b. Dzielnicy Pruskiej w porozumieniu z Ministrem Skarbu. Załącznik - Tabela każdorazowej skapitalizowanej wartości świadczenia pieniężnego w wysokości jednej marki na pewną ilość lat dla obliczenia podatku od kapitałów i rent Liczba lat Skapitalizowana wartość Mk. fen. 1 1 - 2 1 95 3 2 86 4 3 72 5 4 55 6 5 33 7 6 03 8 6 79 9 7 46 10 8 11 11 8 72 12 9 31 13 9 86 14 10 39 15 10 90 16 11 38 17 11 84 18 12 27 19 12 69 20 13 09 21 13 46 22 13 82 23 14 1(5 24 14 49 25 14 80 26 15 09 27 15 38 28 15 64 29 15 90 30 16 14 31 16 37 32 16 59 33 16 80 34 17 - 35 17 19 36 17 37 37 17 55 38 17 71 39 17 87 40 18 02 41 18 15 42 18 29 43 18 42 44 18 55 45 18 66 46 18 77 47 18 88 48 18 98 49 19 08 50 19 17 51 19 26 52 19 34 53 19 42 54 19 49 55 19 57 56 19 63 57 19 70 58 19 76 59 19 82 60 19 88 61 20 - i wyżej Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"bran_I\",\"symbol\": \"bran_I\",\"type\": \"bran\",\"name\": \"I\",\"title\": \"Dział I.\",\"children\": [{\"id\": \"bran_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"bran_I-arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"bran_I-arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"bran_I-arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"bran_I-arti_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"bran_I-arti_2-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"}]},{\"id\": \"bran_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"bran_I-arti_3-none_A\",\"symbol\": \"none_A\",\"type\": \"none\",\"name\": \"A\",\"title\": \"A.\",\"children\": [{\"id\": \"bran_I-arti_3-none_A-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_3-none_A-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_3-none_A-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_I-arti_3-none_B\",\"symbol\": \"none_B\",\"type\": \"none\",\"name\": \"B\",\"title\": \"B.\",\"children\": [{\"id\": \"bran_I-arti_3-none_B-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_I-arti_3-none_B-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_I-arti_3-none_B-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]}]}]},{\"id\": \"bran_II\",\"symbol\": \"bran_II\",\"type\": \"bran\",\"name\": \"II\",\"title\": \"Dział II. - O podatku od zabezpieczonych na nie ruchomościach kapitałów i rent, wymienionych w art. 1.\",\"children\": [{\"id\": \"bran_II-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"bran_II-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"bran_II-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"bran_II-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"bran_II-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"bran_II-arti_8-none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I.\"},{\"id\": \"bran_II-arti_8-none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II.\"},{\"id\": \"bran_II-arti_8-none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III.\"},{\"id\": \"bran_II-arti_8-none_IV\",\"symbol\": \"none_IV\",\"type\": \"none\",\"name\": \"IV\",\"title\": \"IV.\"}]},{\"id\": \"bran_II-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"bran_II-arti_9-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_II-arti_9-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_II-arti_9-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_II-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"bran_II-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"bran_II-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"bran_II-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"bran_II-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"bran_II-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"bran_II-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"bran_II-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"bran_II-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"bran_II-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"bran_II-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"bran_II-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"bran_II-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"bran_II-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"bran_II-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"bran_II-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"bran_II-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\"},{\"id\": \"bran_II-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"}]},{\"id\": \"bran_III\",\"symbol\": \"bran_III\",\"type\": \"bran\",\"name\": \"III\",\"title\": \"Dział III. - O podatku od wymienionych w artykule 2 przychodów z kapitałów i od specjalnych rachunków bieżących (on'calIowych).\",\"children\": [{\"id\": \"bran_III-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"bran_III-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"bran_III-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"bran_III-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"bran_III-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"bran_III-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"bran_III-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"bran_III-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"bran_III-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"},{\"id\": \"bran_III-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"bran_III-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"bran_III-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"},{\"id\": \"bran_III-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\"},{\"id\": \"bran_III-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"}]},{\"id\": \"bran_IV\",\"symbol\": \"bran_IV\",\"type\": \"bran\",\"name\": \"IV\",\"title\": \"Dział IV. - Przepisy ogólne.\",\"children\": [{\"id\": \"bran_IV-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"},{\"id\": \"bran_IV-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"bran_IV-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"},{\"id\": \"bran_IV-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\"},{\"id\": \"bran_IV-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\"},{\"id\": \"bran_IV-arti_47\",\"symbol\": \"arti_47\",\"type\": \"arti\",\"name\": \"47\",\"title\": \"Art. 47.\"},{\"id\": \"bran_IV-arti_48\",\"symbol\": \"arti_48\",\"type\": \"arti\",\"name\": \"48\",\"title\": \"Art. 48.\"},{\"id\": \"bran_IV-arti_49\",\"symbol\": \"arti_49\",\"type\": \"arti\",\"name\": \"49\",\"title\": \"Art. 49.\"},{\"id\": \"bran_IV-arti_50\",\"symbol\": \"arti_50\",\"type\": \"arti\",\"name\": \"50\",\"title\": \"Art. 50.\"},{\"id\": \"bran_IV-arti_51\",\"symbol\": \"arti_51\",\"type\": \"arti\",\"name\": \"51\",\"title\": \"Art. 51.\",\"children\": [{\"id\": \"bran_IV-arti_51-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_IV-arti_51-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"bran_IV-arti_52\",\"symbol\": \"arti_52\",\"type\": \"arti\",\"name\": \"52\",\"title\": \"Art. 52.\"},{\"id\": \"bran_IV-arti_53\",\"symbol\": \"arti_53\",\"type\": \"arti\",\"name\": \"53\",\"title\": \"Art. 53.\"},{\"id\": \"bran_IV-arti_54\",\"symbol\": \"arti_54\",\"type\": \"arti\",\"name\": \"54\",\"title\": \"Art. 54.\"}]},{\"id\": \"bran_V\",\"symbol\": \"bran_V\",\"type\": \"bran\",\"name\": \"V\",\"title\": \"Dział V. - Postanowienia przejściowe.\",\"children\": [{\"id\": \"bran_V-arti_55\",\"symbol\": \"arti_55\",\"type\": \"arti\",\"name\": \"55\",\"title\": \"Art. 55.\",\"children\": [{\"id\": \"bran_V-arti_55-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"bran_V-arti_55-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"bran_V-arti_55-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"bran_V-arti_56\",\"symbol\": \"arti_56\",\"type\": \"arti\",\"name\": \"56\",\"title\": \"Art. 56.\"},{\"id\": \"bran_V-arti_57\",\"symbol\": \"arti_57\",\"type\": \"arti\",\"name\": \"57\",\"title\": \"Art. 57.\"}]} ] } , { \"id\" : \"part_2\", \"title\" : \"Załącznik - Tabela każdorazowej skapitalizowanej wartości świadczenia pieniężnego w wysokości jednej marki na pewną ilość lat dla obliczenia podatku od kapitałów i rent\", \"type\": \"part\", \"symbol\" : \"part_2\", \"children\" : [ ] } ];"
+    }
+  ],
+  "definitions": []
+}

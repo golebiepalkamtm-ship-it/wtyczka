@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1924-423",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 1924 r. o poborze rocznika 1903, kontyngensie rekruta na rok 1924 i o rozciągnięciu mocy obowiązującej tymczasowej ustawy o powszechnym obowiązku służby wojskowej na obszar województwa śląskiego, Spisza i Orawy.",
+  "title_en": "",
+  "short_name": "pl-du-1924-423",
+  "status": "in_force",
+  "issued_date": "1924-04-11",
+  "in_force_date": "1924-05-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/423",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Moc obowiązującą tymczasowej ustawy o powszechnym obowiązku służby wojskowej z dnia 27 października 1918 r. (Dz. Pr. Kr. P. № 13 poz. 28) w brzmieniu, ustalonem rozporządzeniem Rady Ministrów z dnia 30 stycznia 1922 r. w przedmiocie rozciągnięcia mocy obowiązującej niektórych ustaw wojskowych na obszar b. dzielnicy pruskiej (Dz. U. R. P. № 9, poz. 59), oraz rozporządzenia Rady Ministrów z dnia 30 stycznia 1922 r. w przedmiocie zmian w tymczasowej ustawie z dnia 27 października 1918 r. o powszechnym obowiązku służby wojskowej (Dz. Pr. Kr. P. № 13 poz. 28), wprowadzonej na obszar b. dzielnicy pruskiej rozporządzeniem Rady Ministrów z dnia 30 stycznia 1922 r. (Dz. U. R. P. № 9, poz. 59, Dz. U. R. P. № 9, poz. 60), jakoteż moc obowiązującą ustawy z dnia 20 lutego 1920 r. w przedmiocie kar za pogwałcenie przepisów, dotyczących powszechnego obowiązku służby wojskowej (Dz. U. R. P. № 20, poz. 104) - rozciąga się na obszar województwa śląskiego, Spisza i Orawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zezwala się na przeprowadzenie na całem obszarze Rzeczypospolitej Polskiej poboru mężczyzn, urodzonych w roku 1903."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Termin przeglądu oraz wcielenia uznanych przy przeglądzie za zdolnych do służby w wojsku stałem ustali Minister Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kontyngens zacisznych na rok 1924 ustala się do wysokości 150,000 rekrutów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Spraw Wewnętrznych oraz Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

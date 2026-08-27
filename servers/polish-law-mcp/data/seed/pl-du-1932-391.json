@@ -1,0 +1,308 @@
+{
+  "id": "pl-du-1932-391",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1932 r. o koncesjach na koleje znaczenia miejscowego i koleje miejskie.",
+  "title_en": "",
+  "short_name": "pl-du-1932-391",
+  "status": "repealed",
+  "issued_date": "1932-03-17",
+  "in_force_date": "1932-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/391",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Koleje znaczenia miejscowego użytku publicznego mają za zadanie przewóz osób i ładunków do i od kolei znaczenia ogólnego lub uskutecznianie tego przewozu w komunikacji miejscowej. O zaliczeniu projektowanej kolei do rzędu kolei znaczenia miejscowego a nie ogólnego rozstrzyga Minister Komunikacji."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Pozwolenie na wykonanie studjów technicznych do zamierzonej budowy kolei znaczenia miejscowego daje osobom, godnym zaufania, Minister Komunikacji w porozumieniu z Ministrem Spraw Wojskowych. Pozwolenie takie jest uprawnieniem osobistem, nie może być odstąpione osobie innej i jest ważne na oznaczony w niem okres czasu, który można przedłużyć tylko w przypadkach, zasługujących na szczególne uwzględnienie. Pozwolenie na wykonanie studjów technicznych nie daje przedsiębiorcy prawa do uzyskania koncesji, ani też żadnych innych uprawnień oprócz prawa wstępu na obcy grunt dla dokonania potrzebnych pomiarów i niwelacji za wynagrodzeniem właścicielom gruntów szkód, stąd powstałych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Koncesja na budowę i eksploatację kolei znaczenia miejscowego może być nadana osobom fizycznym i prawnym po udowodnieniu przez nie możności sfinansowania przedsięwzięcia i wykonania budowy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do podania o udzielenie koncesji powinien być dołączony techniczny projekt budowy kolei i plan finansowy, sporządzone według przepisów, jakie wyda Minister Komunikacji."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Jeżeli Minister Komunikacji uzna projekt kolei za nadający się w zasadzie do wykonania, przesyła go właściwemu wojewodzie (Komisarzowi Rządu m. st. Warszawy) do komisyjnego zbadania przed nadaniem koncesji. Jeżeli budowa kolei jest projektowana na obszarze dwóch lub więcej województw, wojewoda, wyznaczony przez Ministra Komunikacji w porozumieniu z Ministrem Spraw Wewnętrznych, zarządza komisyjne zbadanie projektu całej linji. Wydziały powiatowe, zarządy gmin oraz interesowane osoby mają prawo przedstawić powiatowej władzy administracji ogólnej pisemne lub ustne wnioski co do zmiany kierunku linji i położenia stacyj; wydziały wojewódzkie przedstawiają swe wnioski bezpośrednio wojewodzie. W tym celu wojewoda (Komisarz Rządu m. st. Warszawy) zarządza wyłożenie planu budowy kolei w urzędach zainteresowanych gmin przez 14 dni do przejrzenia. Czas i miejsce wyłożenia planu budowy oraz władza, do której należy przedstawiać wnioski w czasie wyłożenia planu, powinny być ogłoszone w zainteresowanych gminach w sposób, przyjęty w danej gminie. Po upływie powyższego terminu powiatowa władza administracji ogólnej przesyła wojewodzie (Komisarzowi Rządu m. st. Warszawy) zgłoszone wnioski stron interesowanych ze swą opinją. Następnie komisja, w której skład wchodzą przedstawiciele wojewody (Komisarz Rządu m. st. Warszawy) jako przewodniczący, przedstawiciele Ministerstw: Komunikacji, Spraw Wojskowych, Przemysłu i Handlu, Rolnictwa, Robót Publicznych, Poczt i Telegrafów oraz zainteresowanych powiatowych związków komunalnych i miast, wydzielonych z powiatów, rozpatruje przedstawione jej wnioski oraz wnioski członków komisji i wydaje opinję o projektowanej budowie kolei i przedstawionych wnioskach, a w szczególności o kierunku kolei i położeniu stacyj. Przy rozpatrywaniu przez komisję wniosków może brać udział i składać oświadczenia ubiegający się o koncesję lub jego zastępca. Protokół komisji przedstawia wojewoda z swemi wnioskami Ministrowi Komunikacji. W razie zgłoszenia sprzeciwu przez członka komisji, wymienionej w ust. 7 niniejszego artykułu, Minister Komunikacji decyduje w porozumieniu z właściwym ministrem. Koszty komisji i ogłoszeń ponosi ubiegający się o koncesję."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Koncesję na budowę i eksploatację kolei znaczenia miejscowego nadaje, bez względu na rodzaj trakcji, Minister Komunikacji."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Koncesjonarjusz nie ma prawa odstąpić koncesji osobom trzecim, zaciągać pożyczek hipotecznych i obligacyjnych, ani powiększać kapitału zakładowego bez zezwolenia Ministra Komunikacji, wydanego w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Koncesję na budowę i eksploatację kolei znaczenia miejscowego nadaje się na określony przeciąg czasu, najwyżej pięćdziesięcioletni. Czas trwania koncesji rozpoczyna się od dnia jej ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej. Uprawnienie koncesjonariusza do budowy projektowanej kolei nie ogranicza prawa Rządu do budowania lub koncesjonowania przedłużeń i odgałęzień koncesjonowanej kolei lub przecznic w każdym punkcie linji oraz łączenia dwóch lub więcej punktów koncesjonowanej linji nową koleją, jeżeli przez takie połączenie uzyskuje się nowe obszary ciążenia ekonomicznego lub jeżeli to jest niezbędne do celów strategicznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Po upływie terminu koncesji kolej wraz z gruntami, budowlami i wszystkiemi przynależnościami przechodzi natychmiast bez odszkodowania na własność Skarbu Państwa. Ministerstwo Komunikacji ma obowiązek czuwać, zwłaszcza w ciągu ostatnich 5 lat trwania koncesji, aby wszelkie nakłady pieniężne, niezbędne do utrzymania kolei i jej urządzeń w należytym stanie, były dokonywane w czasie właściwym, w razie zaś potrzeby stosować odpowiednie środki przymusowe (art. 22)."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Rząd ma prawo wykupu koncesjonowanej kolei przed upływem terminu koncesji na warunkach i w terminie, wskazanych w koncesji."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Przy udzielaniu koncesji osobom fizycznym i prawnym na budowę i eksploatację kolei znaczenia miejscowego bądź też w czasie trwania koncesji Minister Komunikacji jest upoważniony zrzec się praw, określonych w art. 9 i 10 niniejszej ustawy, i prawa te przekazać interesowanemu związkowi komunalnemu lub międzykomunalnemu. Do kolei znaczenia miejscowego, budowanych i eksploatowanych przez związki komunalne lub międzykomunalne na ich rachunek, nie mają zastosowania postanowienia art. 9."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Minister Komunikacji wyda specjalne przepisy o budowie i eksploatacji kolei znaczenia miejscowego."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Pozwolenie na przystąpienie do budowy kolei znaczenia miejscowego wydaje Minister Komunikacji lub władza, przez niego upoważniona. Budowa tych kolei powinna być wykonana pod ogólnym nadzorem organów Ministerstwa Komunikacji według planów i projektów oraz według szczegółowych warunków technicznych, zatwierdzonych przez Ministra Komunikacji. Minister Komunikacji jest uprawniony do wykonania na koszt Skarbu Państwa urządzeń technicznych na koncesjonowanej linji, zbędnych dla celów handlowych. Plany i projekty kolei, które mają być budowane na drogach publicznych lub je przecinać, oraz szczegółowe warunki techniczne ich budowy powinny być uzgodnione z Ministrem Robót Publicznych. Koszty nadzoru, ustalone przez Ministerstwo Komunikacji, ponosi koncesjonarjusz."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Koncesjonarjuszowi służy prawo korzystania z przymusowego wywłaszczenia nieruchomości, potrzebnych do budowy i rozwoju koncesjonowanej kolei, zgodnie z obowiązującemi przepisami."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Zwiększenie eksploatacyjnej długości koncesjonowanej kolei znaczenia miejscowego jako też zasadnicze zmiany w jej budowie lub w sposobie eksploatacji mogą nastąpić tylko na podstawie osobnej koncesji. Gdyby kolej wskutek projektowanego zwiększenia długości eksploatacyjnej lub zasadniczych zmian w jej budowie albo w sposobie eksploatacji miała stracić charakter kolei znaczenia miejscowego, to koncesja może być nadana tylko na podstawie ustawy z dnia 14 października 1921 r. o udzielaniu koncesji na koleje żelazne prywatne (Dz. U. R. P. Nr 88, poz. 646)."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "Koncesjonarjusz obowiązany jest pozwolić na połączenie kolei sąsiedzkich użytku publicznego lub prywatnego z koncesjonowaną koleją na warunkach, umówionych z właścicielem kolei sąsiedniej, o ile Ministerstwo Komunikacji uzna połączenie za dopuszczalne ze względu na konstrukcję i sposób eksploatacji kolei, z którą ma połączenie nastąpić. W razie sporu co do połączenia i jego warunków technicznych decyduje ostatecznie Minister Komunikacji."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Otwarcie ruchu na wybudowanej kolei lub jej części następuje na podstawie pozwolenia Ministra Komunikacji po uprzedniem zbadaniu przez wyznaczoną przez tegoż Ministra komisję techniczną wykonanych robót i urządzeń kolejowych pod względem zgodności z zatwierdzonemi projektami i planami oraz pod względem bezpieczeństwa ruchu. Koszty komisji, ustalone przez Ministerstwo Komunikacji, ponosi koncesjonarjusz, Koncesjonarjusz jest obowiązany przedstawiać Ministrowi Komunikacji do zatwierdzenia rozkłady jazdy, sporządzone w porozumieniu z zarządami kolei sąsiednich."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Przy budowie i eksploatacji kolei koncesjonarjusz jest obowiązany stosować się do właściwych ustaw i rozporządzeń oraz zarządzeń władz państwowych. W sprawie świadczeń kolei dla celów wojskowych koncesjonarjusz jest obowiązany stosować się do obowiązujących w tym przedmiocie ustaw oraz do rozporządzeń i przepisów, wydanych na mocy tych ustaw. Koncesjonarjusz jest obowiązany wykonywać wszelkie ustawami określone obowiązki wobec przedsiębiorstwa „Polska Poczta, Telegraf i Telefon”."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "Taryfy na kolejach znaczenia miejscowego zatwierdza i wydaje Minister Komunikacji w trybie wydawania taryf dla kolei państwowych. Taryfy na kolejach znaczenia miejscowego, wybudowanych i eksploatowanych przez związki komunalne lub międzykomunalne na ich rachunek, zatwierdza i wydaje Minister Komunikacji w tym samym trybie, jednak po porozumieniu się również z Ministrem Spraw Wewnętrznych. Przy ustalaniu i zatwierdzaniu taryfy należy brać pod uwagę odpowiednie oprocentowanie i umarzanie kapitału zakładowego oraz położenie finansowe przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Nadzór ogólny nad należytem utrzymaniem kolei, wymienionych w art. 1, pod względem technicznym, nad prowadzeniem ruchu i wykonywaniem postanowień koncesji sprawuje Ministerstwo Komunikacji lub władze, przez nie upoważnione."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Koncesjonarjusz jest obowiązany przedstawić Ministerstwu Komunikacji sprawozdanie z budowy po jej ukończeniu, a corocznie przedstawiać sprawozdanie o ruchu, wypadkach i o wynikach eksploatacji, oraz preliminarz budżetowy, bilans tudzież rachunek zysków i strat."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Minister Komunikacji ma prawo na wniosek koncesjonariusza odraczać terminy rozpoczęcia i ukończenia budowy oraz otwarcia ruchu, ustalone w koncesji, a w razie przekroczenia przez koncesjonariusza jednego z tych terminów bez wyjednania odroczenia, koncesję unieważnić. Jeżeli koncesjonarjusz, mimo dwukrotnego wezwania przez Ministra Komunikacji, uchyla się od wykonania zarządzeń władz państwowych lub postępuje wbrew warunkom koncesji, Minister Komunikacji ma prawo przejąć kolej w zarząd przymusowy na koszt i ryzyko koncesjonariusza lub koncesję unieważnić. Skutki unieważnienia koncesji powinny być przewidziane w koncesji."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Przewóz osób wojskowych, oddziałów wojska oraz wszelkiego rodzaju ładunków wojskowych i bagażu powinien odbywać się za opłatą według taryfy wojskowej, opartej na zasadzie zwrotu kosztów własnych. W koncesji mogą być zastrzeżone świadczenia bez opłaty lub za opłatą dla celów bezpieczeństwa publicznego. Wszelkie inne świadczenia dla Państwa lub funkcjonariuszów państwowych mają być opłacane według normalnej taryfy danej kolei."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "W koncesji może być w razie osiągnięcia z koncesjonowanej kolei zysków ponad pewną wysokość zastrzeżony udział Skarbu Państwa w nadwyżce tych zysków lub obowiązek obniżenia taryf. Jeżeli dochody koncesjonariusza nie pokrywają kosztów utrzymania kolei, Minister Komunikacji może na wniosek koncesjonarjusza przyznać odpowiednią podwyżkę taryf w trybie wydawania taryf dla kolei państwowych lub wyjednać dlań pomoc finansową w sposób, wskazany w art. 25, albo też przejąć kolej w zarząd przymusowy na rachunek koncesjonarjusza."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "Pomoc finansowa ze Skarbu Państwa w postaci udzielenia gwarancji czystego dochodu z eksploatacji kolei dla zapewnienia oprocentowania i umorzenia kapitału zakładowego i obligacyjnego może być przyznana w drodze ustawodawczej."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Przez lat dziesięć, licząc od dnia wejścia w życie ustawy niniejszej, przedsiębiorstwa kolei znaczenia miejscowego, koncesjonowane na podstawie ustawy niniejszej, są zwolnione: a) od opłat państwowych i samorządowych, obciążających pisma, tyczące się przejścia własności rzeczy nieruchomych, potrzebnych do budowy i eksploatacji kolei; b) od podatku dochodowego, dopóki ich czysty zysk nie przewyższa 5%oprocentowania kapitału zakładowego. Jeżeli czysty zysk będzie wyższy niż 5%, podatek dochodowy będzie nakładany na zasadach ogólnych z tem jednak, aby dochód pięcioprocentowy od kapitału zakładowego nie został zmniejszony. Obligacje oraz innego rodzaju obligi (art. 7), tyczące się pomocy kredytowej dla kolei znaczenia miejscowego, są wolne od opłat stemplowych w czasie od dnia ogłoszenia koncesji do końca pierwszego roku eksploatacji."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Tytuły, oparte na pożyczkach kolejowych, wydane z gwarancją Skarbu Państwa, zapewniającą ich oprocentowanie i umorzenie we właściwych terminach, korzystają z bezpieczeństwa prawnego (pupilarnego) w myśl punktu 3 art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 15 lutego 1928 r. o sposobie lokowania funduszów przez osoby prawa publicznego, fundacje i osoby niewłasnowolne oraz o sposobie lokowania kaucyj, składanych z tytułu obowiązku publicznego (Dz. U. R. P. Nr 17, poz. 141)."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Przewóz materjałów i urządzeń do budowy kolei znaczenia miejscowego oraz taboru, przewidzianego w kosztorysie budowy, na linjach kolei państwowych dozwolony jest za opłatą według taryfy gospodarczej."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Zarząd kolei państwowych jest uprawniony do odstępowania przedsiębiorstwu kolei znaczenia miejscowego zbędnych materjałów budowy taboru kolejowego i inwentarza po cenie kosztów własnych, z uwzględnieniem zużycia, za opłatą w gotówce. Należności w gotówce mogą być spłacane w ratach."
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "Budowle na stacjach połączenia kolei znaczenia miejscowego z koleją państwową, jakie okażą się potrzebne wskutek połączenia, wykona zarząd kolei państwowych za zwrotem kosztów własnych."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Kolejom znaczenia miejscowego mogą być kredytowane należności za współużywanie stacji połączenia kolei państwowej i przypadająca na kolej znaczenia miejscowego część kosztów służby stacyjnej oraz - w razie prowadzenia ruchu przez zarząd kolei państwowych - część kosztów utrzymania dyrekcji okręgowej kolei państwowych, a to w tych latach, w których dochód kolei nie wystarcza na pokrycie kosztów własnych zarządu, eksploatacji, rat oprocentowania i umorzenia pożyczek oraz na wypłatę 5% odsetek od reszty kapitału zakładowego. Skredytowane sumy uważać należy jako pożyczki nieoprocentowane, które powinny być zwrócone z nadwyżek dochodów eksploatacyjnych przyszłych lat lub potrącone z ceny wykupu. II. Koleje miejskie użytku publicznego."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Koleje miejskie służą do utrzymania osobowej komunikacji kolejowej w miastach w poziomie jezdni ulicznej (tramwaje) albo też pod ziemią lub nad ziemią. Linje kolei miejskich mogą być przedłużone poza granicę miasta w sferze jego wpływów. O rozmiarze sfery wpływów miasta przy budowie kolei miejskich rozstrzyga Minister Komunikacji w porozumieniu z Ministrami Spraw Wewnętrznych i Spraw Wojskowych."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "Koncesję na budowę i eksploatację kolei miejskich nadaje osobom fizycznym i prawnym gmina miejska, która jest obowiązana zawiadomić swą władzę nadzorczą oraz Ministerstwo Komunikacji o zamiarze udzielenia koncesji i przedstawić im ogólny opis projektowanej kolei co najmniej na dwa miesiące przed nadaniem koncesji. Zawiadomienie Ministerstwa Robót Publicznych z równoczesnem przedstawieniem mu trasy projektowanej kolei powinno nastąpić w tych przypadkach, w których projektowana kolej ma być budowana na drogach publicznych lub je przecinać. W razie sporu co do zaliczenia projektowanej kolei do rzędu kolei znaczenia miejscowego lub kolei miejskiej rozstrzyga Minister Komunikacji w porozumieniu z Ministrami Spraw Wewnętrznych i Spraw Wojskowych. Nadanie koncesji przez gminę miejską wymaga zatwierdzenia właściwej władzy nadzorczej po zasiągnięciu opinji Ministerstwa Komunikacji i Spraw Wojskowych; w razie niezatwierdzenia koncesji przez władzę nadzorczą koncesjonarjusz nie ma prawa żądania jakiegokolwiek odszkodowania. Gmina miejska, zamierzająca budować i eksploatować kolej miejską na własny rachunek w granicach miasta oraz w sferze wpływów miasta (art. 32), powinna uprzednio zawiadomić o tem swą władzę nadzorczą i Ministerstwo Komunikacji oraz uzgodnić trasę projektowanej kolei miejskiej z Ministerstwem Robót Publicznych w tych przypadkach, w których kolej ma być budowana na drogach publicznych lub je przecinać."
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Budowa kolei miejskich powinna być wykonana pod ogólnym nadzorem organów Ministerstwa Komunikacji według zasadniczych przepisów, jakie wyda Minister Komunikacji, uzgodniwszy je - o ile chodzi o budowę kolei na drogach publicznych lub o przecięcie tych dróg - z Ministerstwem Robót Publicznych. Nadzór nad kolejami miejskiemi pod względem technicznym w czasie eksploatacji sprawują organa Ministerstwa Komunikacji."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "Rozbudowa istniejących kolei miejskich może nastąpić w sposób, przewidziany w art. 33."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "Do kolei miejskich, koncesjonowanych na mocy niniejszej ustawy, mają zastosowanie postanowienia art. 14, 17, 18 ustęp 1 i 2, a art. 2 tylko w przypadku przedłużenia kolei miejskich poza granice miasta. III. Koleje użytku prywatnego o silniku mechanicznym."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "Koleje użytku prywatnego o silniku mechanicznym służą do własnych potrzeb osób lub przedsiębiorstw przemysłowych, handlowych i gospodarstw rolnych, dla których je zbudowano. Korzystanie przez inne osoby z tych kolei na zasadzie współużywania jest dopuszczalne za zezwoleniem Ministerstwa Komunikacji lub dyrekcji okręgowej kolei państwowych, przez niego do wydawania zezwoleń upoważnionej."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "Pozwolenie na budowę kolei użytku prywatnego o silniku mechanicznym i na połączenie jej z ogólną siecią kolejową oraz na zwiększenie długości eksploatacyjnej i na otwarcie ruchu wydaje - po uzgodnieniu projektu technicznego z Ministerstwem Spraw Wojskowych - Ministerstwo Komunikacji lub przez nie upoważniona dyrekcja okręgowa kolei państwowych."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "Przed wydaniem pozwolenia projekt kolei użytku prywatnego o silniku mechanicznym winien być zbadany przez właściwą wojewódzką władzę administracji ogólnej, która wydaje opinję o projekcie kolei w ogólności i przedstawia swe wnioski w sprawie projektowanego przecięcia lub korzystania z dróg publicznych oraz w sprawie zabezpieczenia istniejących stosunków wodnych i innych interesów publicznych. Badanie projektów kolei przez wojewódzką władzę administracji ogólnej odpada, jeśli przez budowę nie zostaną naruszone ani drogi publiczne, ani istniejące stosunki wodne, ani też inne interesy publiczne."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "Przymusowe wywłaszczenie nieruchomości, niezbędnych do budowy kolei użytku prywatnego o silniku mechanicznym, jest dopuszczalne, o ile Minister Komunikacji w porozumieniu z Ministrami Spraw Wewnętrznych oraz Przemysłu i Handlu uzna, że budowa projektowanej kolei jest wskazana ze względu na wyższą użyteczność. W tym przypadku ma analogiczne zastosowanie art. 14 niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "Art. 2 ma zastosowanie do kolei użytku prywatnego o silniku mechanicznym z tą zmianą, że pozwolenie na wykonanie studjów technicznych w oznaczonym czasie, jednak nie dłuższym niż 6 miesięcy, wydaje powiatowa władza administracji ogólnej osobom godnym zaufania."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "Postanowienia art. 12, 16, 18 ustęp 1 i 2 oraz art. 20 mają analogiczne zastosowanie do kolei użytku prywatnego o silniku mechanicznym."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "W razie niestosowania się do zarządzeń władz państwowych lub postępowania wbrew warunkom pozwolenia na budowę władza, która udzieliła pozwolenia, ma prawo zamknąć ruch lub cofnąć pozwolenie."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Od orzeczeń dyrekcji, działającej z upoważnienia w zakresie niniejszej ustawy, służy odwołanie do Ministra Komunikacji w terminie 60-dniowym. IV. Postanowienia przejściowe i wspólne."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "Postanowienia niniejszej ustawy nie mają zastosowania do kolei użytku prywatnego o silniku mechanicznym, znajdujących się w całości w obrębie terenów przedsiębiorstw przemysłowych, handlowych i gospodarstw rolnych, oraz do kolejek użytku prywatnego z trakcją niemechaniczną. Pozwolenia na budowę kolei użytku prywatnego, wymienionych w ustępie pierwszym niniejszego artykułu, udzielają władze przemysłowe, względnie administracji ogólnej, każda w zakresie swych kompetencyj."
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "Do kolei znaczenia miejscowego użytku publicznego, koncesjonowanych przed wejściem w życie niniejszej ustawy, mają zastosowanie ostatni ustęp art. 8, art. 12, 15, 16, ostatni ustęp art. 17, art. 18, 19, 20 i 21 oraz warunki, ustalone w koncesjach. Do kolei użytku prywatnego, które zbudowano na podstawie pozwoleń, udzielonych przed wejściem w życie niniejszej ustawy, mają zastosowanie postanowienia art. 16, ustęp 1 i 2 art. 18, art. 20, ustęp 2 art. 37 i art. 43 oraz warunki, ustalone w pozwoleniach na budowę."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Postanowienie ustępu 1 art. 11 może być zastosowane do kolei znaczenia miejscowego i kolei miejskich, koncesjonowanych przed wejściem w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Komunikacji oraz innym zainteresowanym ministrom, każdemu z nich we właściwym zakresie działania."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Rzeczypospolitej z wyjątkiem górnośląskiej części województwa śląskiego. Z dniem wejścia w życie ustawy niniejszej ustawa z dnia 14 października 1921 r. o udzielaniu koncesji na koleje żelazne prywatne (Dz. U. R. P. Nr 88, poz. 646) nie ma zastosowania do kolei znaczenia miejscowego i kolei miejskich użytku publicznego oraz do kolei użytku prywatnego, a art. 22 tejże ustawy traci swą moc. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"none_I\",\"symbol\": \"none_I\",\"type\": \"none\",\"name\": \"I\",\"title\": \"I. - Koleje znaczenia miejscowego użytku publicznego.\",\"children\": [{\"id\": \"none_I-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"none_I-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"none_I-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"none_I-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"none_I-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"none_I-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"none_I-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"none_I-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"none_I-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"none_I-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"none_I-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"none_I-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"none_I-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"none_I-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"none_I-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\"},{\"id\": \"none_I-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\"},{\"id\": \"none_I-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"none_I-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"none_I-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\"},{\"id\": \"none_I-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"none_I-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"none_I-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"none_I-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"none_I-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\"},{\"id\": \"none_I-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\"},{\"id\": \"none_I-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"none_I-arti_26-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"none_I-arti_26-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"none_I-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\"},{\"id\": \"none_I-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"none_I-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"},{\"id\": \"none_I-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\"},{\"id\": \"none_I-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"}]},{\"id\": \"none_II\",\"symbol\": \"none_II\",\"type\": \"none\",\"name\": \"II\",\"title\": \"II. - Koleje miejskie użytku publicznego.\",\"children\": [{\"id\": \"none_II-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"none_II-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\"},{\"id\": \"none_II-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"none_II-arti_35\",\"symbol\": \"arti_35\",\"type\": \"arti\",\"name\": \"35\",\"title\": \"Art. 35.\"},{\"id\": \"none_II-arti_36\",\"symbol\": \"arti_36\",\"type\": \"arti\",\"name\": \"36\",\"title\": \"Art. 36.\"}]},{\"id\": \"none_III\",\"symbol\": \"none_III\",\"type\": \"none\",\"name\": \"III\",\"title\": \"III. - Koleje użytku prywatnego o silniku mechanicznym.\",\"children\": [{\"id\": \"none_III-arti_37\",\"symbol\": \"arti_37\",\"type\": \"arti\",\"name\": \"37\",\"title\": \"Art. 37.\"},{\"id\": \"none_III-arti_38\",\"symbol\": \"arti_38\",\"type\": \"arti\",\"name\": \"38\",\"title\": \"Art. 38.\"},{\"id\": \"none_III-arti_39\",\"symbol\": \"arti_39\",\"type\": \"arti\",\"name\": \"39\",\"title\": \"Art. 39.\"},{\"id\": \"none_III-arti_40\",\"symbol\": \"arti_40\",\"type\": \"arti\",\"name\": \"40\",\"title\": \"Art. 40.\"},{\"id\": \"none_III-arti_41\",\"symbol\": \"arti_41\",\"type\": \"arti\",\"name\": \"41\",\"title\": \"Art. 41.\"},{\"id\": \"none_III-arti_42\",\"symbol\": \"arti_42\",\"type\": \"arti\",\"name\": \"42\",\"title\": \"Art. 42.\"},{\"id\": \"none_III-arti_43\",\"symbol\": \"arti_43\",\"type\": \"arti\",\"name\": \"43\",\"title\": \"Art. 43.\"},{\"id\": \"none_III-arti_44\",\"symbol\": \"arti_44\",\"type\": \"arti\",\"name\": \"44\",\"title\": \"Art. 44.\"}]},{\"id\": \"none_IV\",\"symbol\": \"none_IV\",\"type\": \"none\",\"name\": \"IV\",\"title\": \"IV. - Postanowienia przejściowe i wspólne.\",\"children\": [{\"id\": \"none_IV-arti_45\",\"symbol\": \"arti_45\",\"type\": \"arti\",\"name\": \"45\",\"title\": \"Art. 45.\"},{\"id\": \"none_IV-arti_46\",\"symbol\": \"arti_46\",\"type\": \"arti\",\"name\": \"46\",\"title\": \"Art. 46.\"},{\"id\": \"none_IV-arti_47\",\"symbol\": \"arti_47\",\"type\": \"arti\",\"name\": \"47\",\"title\": \"Art. 47.\"},{\"id\": \"none_IV-arti_48\",\"symbol\": \"arti_48\",\"type\": \"arti\",\"name\": \"48\",\"title\": \"Art. 48.\"},{\"id\": \"none_IV-arti_49\",\"symbol\": \"arti_49\",\"type\": \"arti\",\"name\": \"49\",\"title\": \"Art. 49.\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

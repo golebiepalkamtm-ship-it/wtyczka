@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1938-12",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 stycznia 1938 r. o ochronie znaku i nazwy Czerwonego Krzyża oraz godła Związku Szwajcarskiego.",
+  "title_en": "",
+  "short_name": "pl-du-1938-12",
+  "status": "repealed",
+  "issued_date": "1938-01-08",
+  "in_force_date": "1938-01-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/12",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Prawo używania znaku lub nazwy Czerwonego Krzyża (krzyża genewskiego - czerwony krzyż na białym tle) służy - w ramach konwencji genewskiej o polepszeniu losu rannych i chorych w armiach czynnych z dnia 27 lipca 1929 r. ( Dz. U. R. P. z 1932 r. Nr 103, poz. 864 ) - wyłącznie: a) wojskowym władzom sanitarnym; b) stowarzyszeniu „Polski Czerwony Krzyż”; c) zagranicznym stowarzyszeniom Czerwonego Krzyża, przebywającym czasowo na obszarze Państwa Polskiego z upoważnienia władz polskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "(1) Nie wolno używać w obrocie handlowym godła Związku Szwajcarskiego (biały krzyż na czerwonym tle), albo znaku stanowiącego jego naśladownictwo. (2) Zakaz ten nie dotyczy znaków towarowych, zarejestrowanych w Polsce zgodnie z przepisami prawa o ochronie wynalazków, wzorów i znaków towarowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Kto: a) wbrew przepisowi art. 1 używa znaku lub nazwy Czerwonego Krzyża (krzyża genewskiego), albo znaku lub nazwy, stanowiących jego naśladownictwo, b) wbrew przepisowi art. 2 używa godła Związku Szwajcarskiego, albo znaku stanowiącego jego naśladownictwo, c) znieważa publicznie godło Związku Szwajcarskiego, podlega w trybie administracyjnym karze grzywny do 3.000 złotych lub aresztu do 3 miesięcy, albo obu tym karom łącznie. (2) Przedmioty, opatrzone bezprawnie znakiem lub nazwą Czerwonego Krzyża, godłem Związku Szwajcarskiego, albo znakami, stanowiącymi ich naśladownictwo, mogą ulec przepadkowi na rzecz stowarzyszenia „Polski Czerwony Krzyż”, choćby nawet nie można było ścigać sprawcy."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Spraw Wewnętrznych i Sprawiedliwości oraz innym właściwym ministrom."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Ustawa niniejsza wchodzi w życie pierwszego dnia miesiąca następnego po jej ogłoszeniu. (2) Z dniem wejścia w życie ustawy niniejszej traci moc obowiązującą rozporządzenie Prezydenta Rzeczypospolitej z dnia 1 września 1927 r. o ochronie nazwy i znaku Czerwonego Krzyża ( Dz. U. R. P. Nr 79, poz. 689 ) . Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_2-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\",\"children\": [{\"id\": \"arti_3-pass_(1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-pass_(1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-pass_(1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

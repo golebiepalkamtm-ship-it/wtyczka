@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1919-261",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 kwietnia 1919 r. w przedmiocie objęcia przez Ministerstwo Skarbu administracji skarbowej na ziemiach polskich, które wchodziły w skład b. monarchji Austrjacko-Węgierskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-261",
+  "status": "in_force",
+  "issued_date": "1919-04-08",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/261",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Naczelne kierownictwo całej administracji skarbowej na ziemiach polskich, które wchodziły w skład b. monarchji Austrjacko - Węgierskiej, obejmuje Ministerstwo Skarbu. W związku z tem wchodzą wymienione w następujących artykułach zmiany w dotychczasowym ustroju tej administracji w życie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Administrację skarbową oddziela się w zupełności od administracji politycznej."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Aż do czasu ostatecznego uregulowania stosunku służbowego i unormowania poborów służbowych urzędników i funkcjonarjuszów skarbowych pozostają dotychczasowe przepisy w mocy obowiązującej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W organizacji i w rozmieszczeniu władz i urzędów skarbowych nie zachodzą na razie żadne zmiany za wyjątkiem zmian, przytoczonych w art. 5 - 7."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Bezpośrednie sprawowanie administracji skarbowej na całym obszarze określonym w art. 1 należy do Dyrekcji Skarbu we Lwowie z prezesem na czele. Na czas trwania obecnych stosunków wojennych na południowym wschodzie może Ministerstwo Skarbu poruczyć innej władzy skarbowej, by czasowo sprawowała czynności Dyrekcji Skarbu w jej zastępstwie na pewnym zakreślonym obszarze."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Z istniejących obecnie oddziałów podatkowych przy Starostwach tworzy się odrębne Inspektoraty Skarbowe dla podatków bezpośrednich, do których należy wymiar i pobór podatków oraz skarbowa egzekucja administracyjna w ogólności."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Instytucje i urzędy, które wedle obowiązujących przepisów powołane są do współdziałania przy administracji skarbowej, będą tworzone w miarę potrzeby przez Ministerstwo Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Minister Skarbu może w drodze rozporządzenia ograniczyć lub zmienić tok instancji, dopuszczalny według istniejących przepisów prawnych, również co do spraw już zawisłych, oraz zmienić kompetencje władz i urzędów do rozstrzygania spraw."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ustawa niniejsza nabiera mocy obowiązującej z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

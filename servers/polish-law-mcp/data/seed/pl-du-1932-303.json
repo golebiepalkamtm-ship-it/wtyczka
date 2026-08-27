@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1932-303",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1932 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-303",
+  "status": "in_force",
+  "issued_date": "1932-03-17",
+  "in_force_date": "1932-04-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/303",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych (Dz. U. R. P. Nr 46, poz. 410) wprowadza się następujące zmiany: 1) Art. 39 ust. 3 otrzymuje brzmienie: „ 3. Jeżeli właściciel budowli zgłosi inspektorowi powiatowemu, że odszkodowanie ma być użyte na odbudowę lub też jeśli na budowli ciążą prawa rzeczowe, a uprawnione osoby, które zgłosiły te prawa inspektorowi powiatowemu, nie godzą się na jednorazową wypłatę odszkodowania, to odszkodowanie wypłaca się w miarę odbudowy w trzech równych ratach, z których pierwsza jest płatna po ustaleniu szkody, zgodnie z ust. 1 niniejszego artykułu, druga po złożeniu dowodu, że pierwsza rata została zużyta na odbudowę, trzecia po ukończeniu odbudowy wartości nie mniejszej od sumy odszkodowania. Częściową i całkowitą odbudowę stwierdza inspektor powiatowy Powszechnego Zakładu Ubezpieczeń Wzajemnych lub urząd gminy. ” 2) W końcu tegoż art. 39 dodaje się nowe ustępy 4 - 7 w brzmieniu: „ 4. O ile odszkodowanie ma być użyte na odbudowę i jest wypłacane w miarę odbudowy zgodnie z ust. 3-cim niniejszego artykułu, suma odszkodowania nie podlega sądowemu lub administracyjnemu zajęciu, a zajęcia, już na niej dokonane, oraz cesja i winkulacje stają się bezskuteczne. Postanowienie to jednak nie wyklucza możności dochodzenia pretensyj wierzycieli właścicieli budowli lub ich cesjonarjuszy na niewypłaconej części sumy odszkodowania, o ile budowa nie zostanie przeprowadzona w ciągu 2 lat od daty wypłacania pierwszej raty. 5. O ile wierzyciele z tytułu ciążących na budowli praw rzeczowych nie godzą się na jednorazową wypłatę odszkodowania (ust. 3 niniejszego artykułu), a odbudowa jest niemożliwa lub też właściciel budowli odbudowywać jej nie zamierza, Powszechny Zakład Ubezpieczeń Wzajemnych wypłaca odszkodowanie pogorzelowe na zasadzie obowiązujących przepisów prawnych z uwzględnieniem wpisów hipotecznych. To samo ma zastosowanie do niewypłaconej części odszkodowania, gdy odbudowa nie została dokonaną w ciągu 2 lat (ust. 4 niniejszego artykułu). 6. Wierzyciele właściciela budowli nie mogą sobie rościć żadnych pretensyj do Powszechnego Zakładu Ubezpieczeń Wzajemnych z powodu wypłaty odszkodowania zgodnie z postanowieniami, zawartemi w ust. 3, 4 i 5. 7. Postanowienia ust. 3, 4 i 5 niniejszego artykułu nie naruszają odmiennych przepisów prawnych, wydanych w tym względzie dla instytucyj publicznego kredytu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

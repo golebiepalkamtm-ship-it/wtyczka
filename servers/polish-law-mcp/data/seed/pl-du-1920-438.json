@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-438",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 lipca 1920 r. w przedmiocie uzupełnienia i częściowej zmiany ustawy z dnia 18 marca 1920 r. o wydzierżawieniu niezagospodarowanych użytków rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-438",
+  "status": "repealed",
+  "issued_date": "1920-07-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/438",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Nadane ustawą z dnia 18 marca 1920 r. (Dz. Ust. z 1920 r. № 28 poz. 165) Ministrowi Rolnictwa i Dóbr Państwowych prawo do przymusowego wydzierżawiania gruntów, zdatnych pod uprawę rolną, a leżących odłogiem, przysługiwać mu będzie w r. 1920 dodatkowo w okresie od 15 września do 31 grudnia, o ile grunty te do dnia 15 września nie zostaną wydzierżawione w drodze dobrowolnej przez właścicieli, posiadaczy lub osoby, mające je pod swoim zarządem, opieką lub w dzierżawie."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Decyzje organów, powoływanych przez Ministra Rolnictwa i Dóbr Państwowych w myśl ustawy z dnia 18 marca 1920 r. do orzekania w pierwszej instancji o przymusowem wydzierżawianiu gruntów, powinny zapadać w latach następnych, poczynając od roku 1921, nie później niż przed 1 kwietnia każdego roku."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przeciw decyzjom, zapadłym w I instancji, służy interesowanym, w przeciągu dni 8 od dnia doręczenia decyzji prawo odwołania się do drugiej instancji, od której niema dalszego odwołania. Po upływie powyższego terminu decyzje nie zaskarżone ulegają niezwłocznemu wykonaniu. Decyzje zaskarżone ulegają wykonaniu niezwłocznie po zatwierdzającem je orzeczeniu organów, powołanych do orzekania w drugiej instancji o przymusowem wydzierżawianiu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Decyzje o przymusowem wydzierżawianiu gruntów, zapadłe w roku 1920 przed 1 lipca ulegają wykonaniu i po tym terminie, przy zachowaniu postanowień art. 3 ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy poleca się Ministrowi Rolnictwa i Dóbr Państwowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

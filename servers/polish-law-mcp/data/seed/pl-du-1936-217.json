@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1936-217",
+  "type": "statute",
+  "title": "Ustawa z dnia 9 kwietnia 1936 r. o odstąpieniu gminie m. st. Warszawy gruntów państwowych na cele rozbudowy miasta.",
+  "title_en": "",
+  "short_name": "pl-du-1936-217",
+  "status": "in_force",
+  "issued_date": "1936-04-09",
+  "in_force_date": "1936-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/217",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Zezwala się na sprzedaż gminie m. st. Warszawy następujących nieruchomości państwowych pod zabudowę domami mieszkalnemi: 1) gruntów, położonych przy ulicach Chodkiewicza i Racławickiej, o powierzchni 16.764 m kw, według planu zabudowania, zatwierdzonego przez Ministra Spraw Wewnętrznych w dniu 4 października 1935 r. - za cenę ulgową 67.056 zł, 2) gruntów, położonych przy ulicach Kozietulskiego i Felińskiego, o powierzchni 18.357,5 m kw, według planu zabudowania, zatwierdzonego przez Ministra Robót Publicznych w dniu 13 lipca 1926 r.- za cenę ulgową 279.664,70 zł."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych,"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

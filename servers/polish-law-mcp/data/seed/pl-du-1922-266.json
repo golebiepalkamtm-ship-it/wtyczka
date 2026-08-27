@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1922-266",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 kwietnia 1922 r. w przedmiocie zmiany niektórych postanowień pruskiej ustawy o podatku dochodowym z dnia 19 czerwca 1906 r. i ustawy z dnia 19 grudnia 1919 r., obowiązujących w b. dzielnicy pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1922-266",
+  "status": "in_force",
+  "issued_date": "1922-04-06",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/266",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przepis §4 pruskiej ustawy o podatku dochodowym z dnia 19 czerwca 1906 r. (Zb. Praw prusk. str. 259) zmienia się w ten sposób, że obowiązek opłacania podatku dochodowego w roku 1921-1922 rozpoczyna się przy dochodzie rocznym ponad 11,500 mk., zaś w roku 1922 - 1923 ponad 180,000 mk."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do art. 6 dodać punkt 3a: „z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę”. Wzmiankowane przy punkcie 4 liczby 1 do 3 zmienia się na 1 do 3a. Przy wymiarze podatku od dochodów, wymienionych w punkcie 3a, osiągniętych w roku 1920, bierze się w rachubę: przy dochodzie do 40,000 mk. włącznie-0,5, ponad 40,000 do 100,000 mk.-0,6,. ponad 100,000 mk.-0,7, zaś w roku 1921 przy dochodzie do 250,000 mk.-0,3, ponad 250,000 do 1.000,000 mk.-0,4, ponad 1.000,000 mk.-0,5, części podatku, przypadającego według taryfy § 17."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wysokość potrącalnych składek i premji (§ 8 część II punkt 3 i 4 powołanej ustawy) podwyższa się w roku 1921-1922 na 2,000 mk., w roku 1922-1923 - na 20,000 mk."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Do § 17 wstawia się na rok 1922-1923 następującą taryfę: L. p. Wysokość dochodu w tysiącach marek Stopa procentowa Podatek w tysiącach marek 1 180-200 0,5 1 2 200-220 0,51 1,12 3 220-240 0,52 1,25 4 240-260 0,53 1,38 5 260-280 0,54 1,51 6 280-300 0,55 1,65 7 300-340 0,56 1,9 8 340-380 0,57 2,17 9 380-420 0,58 2,44 10 420-460 0,59 2,71 11 460-500 0,6 3 12 500-550 0,62 3,41 13 550-600 0,64 3,84 14 600-650 0,66 4,29 15 650-700 0,68 4,76 16 700-750 0,7 5,25 17 750-800 0,72 5,76 18 800-350 0,74 6,29 19 850-900 0,76 6,84 20 900-950 0,78 7,41 21 950-1000 0,8 8 22 1000-1100 0,84 9,24 23 1100-1200 0,88 10,56 24 1200-1200 0,92 11,96 23 1300-1400 0,96 13,44 26 1400-1500 1 15 27 1500-1600 1,1 17,6 28 1600-1700 1,2 20,4 29 1700-1300 1,3 23,4 30 1800-1900 1,4 26,6 31 1900-2000 1,5 30 32 2000-2100 1,6 33,6 33 2100-2200 1,7 37,4 34 2200-2300 1,8 41,4 35 2300-2400 1,9 45,6 36 2400-2500 2 50 37 2500-2600 2,1 54,6 38 2600-2700 2,2 59,4 39 2700-2800 2,3 64,4 40 2300-2900 2,4 69,6 41 2900-3000 2,5 75 42 3000-3200 2,8 89,6 43 3200-3400 3,1 105,4 44 3400-3600 3,4 122,4 45 3600-3800 3,7 140,6 46 3800-4000 4 160 47 4000-4200 4,3 180,6 48 4200-4400 4,6 202,4 49 4400-4600 4,9 225,4 50 4600-4300 5,2 249,6 51 4800-5000 5,5 275 52 5000-5200 5,8 301,6 53 5200-5400 6,1 329,4 54 5400-5600 6,4 353,4 55 5600-5800 6,7 388,6 56 5800-6000 7 420 57 6000-6200 7,4 458,8 58 6200-6400 7,7 492,8 59 6400-6600 8,1 534,6 60 6600-6800 8,4 571,2 61 6800-7000 8,8 616 62 7000-7200 9,1 655,2 63 7200-7400 9,5 703 64 7400-7600 9,8 744,8 65 7600-7800 10,2 795,6 66 7800-8000 10,5 840 67 8000-8200 10,9 893,8 68 8200-8400 11,2 940,8 69 8400-8600 11,6 997,6 70 8600-8800 11,9 1047,2 71 8800-9000 12,2 1098 72 9000-9200 12,6 1159,2 73 9200-9400 12,9 1212,6 74 9400-9600 13,3 1276,8 75 9600-9800 13,6 1332,8 76 9800-10000 14 1400 77 10000-10200 14,3 1458,6 78 10200-10400 14,6 1518/1 79 10400-10600 14,9 1579,4 80 10600-10800 15,2 1641,6 81 10800-11000 15,5 1705 82 11000-11200 15,8 1769,6 83 11200-11400 16,1 1835,4 84 11400-11600 16,3 18903 85 11600-11800 16,5 1947 86 11800-12000 16,7 2004 87 12000-12200 16,9 2061,8 88 12200-12400 17,1 2120,4 89 12400-12600 17,3 2179,8 90 12600-12800 17,5 2240 91 12800-13000 17,7 2301 92 13000-13200 17,9 2362,8 93 13200-13400 18,1 2425,4 94 13400-13600 18,3 2488,8 95 13600-13800 18,5 2553 96 13800-14000 18,7 2618 97 14000-14200 18,9 2683,8 98 14200-14400 19,1 2750,4 99 14400-14600 19,3 2817,8 100 14600-14800 19,5 2886 101 14800-15000 19,7 2955 102 15000-15200 19,9. 3024,8 103 15200-15400 20,1 3095,4 104 15400-15600 20,3 31663 105 15600-15800 20,5 3239 106 15800-16000 20,7 3312 107 16000-16200 20,9 3385,8 108 16200-16400 21,2 3476,8 109 16400-16600 21,4 3552,4 110 16600-16800 21,6 3628,8 111 16800-17000 21,8 3706 112 17000-17200 22 3734 113 17200-17400 22,2 3862,8 114 17400-17600 22,4 3942,4 115 17600-17800 22,6 4022,8 116 17800-18000 22,8 4104 117 18008-18200 23 4186 118 18200-18400 23,2 4268,8 119 18400-18600 23,4 4352,4 120 18600-18800 23,6 4436,8 121 18800-19000 23,8 4522 122 19000-19200 24 4608 123 19200-19400 24,25 4704,5 124 19400-19600 24,5 4802 125 19600-19800 24,75 4900,5 126 19800-20000 25 5000 Przy dochodzie ponad 20.000.000 mk. podatek wynosi 5.000.000 mk. i oprócz tego 50.000 mk. od każdych pełnych 200.000 mk. ponad 20.000.000 mk. Do podatku dolicza się ponadto, o ile chodzi o dochody osób fizycznych: ponad 20.000.000 mk. do 30.000.000 mk. - 1% ,, 30.000,000 ,, ,, 40.000.000 ,, - 2% ,, 40.000.000 ,, ,, 50.000.000 ,, - 3% ,, 50.000.000 ,, ,, 60.000.000 ,, - 4% ,, 60.000.000 ,, ,, 75.000.000 ,, - 5% ,, 75.000.000 ,, ,, 90.000.000 ,, - 6% ,, 90.000.000 ,, ,, 120.000.000 ,, - 7% ,, 120.000.000 ,, ,, 150.000.000 ,, - 8% ,, 150.000.000 ,, ,, 200.000.000 ,, - 9% ,, 200.000.000 ,, - 10% od całego podlegającego podatkowi dochodu."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Od spółek, wymienionych w § 18, pobiera się w roku 1922-1923 stawki o jeden stopień wyższe, niż wymienione w § 17."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Granice dochodu, określone w § 19 i 20 ustawy z dnia 19 czerwca 1906 r. w brzmieniu, ustalonem pruska, ustawą z dnia 26 maja 1909 r. (Zb. Pr. prusk. str. 349), uzasadniające ulgi podatkowe, podwyższa się z kwoty 6,500 mk. w r. 1921 - 1922 na 24,000 mk., w r. 1922-1923 na 1.000,000 mk., z kwoty 9,500 mk. w r. 1921 - 1922 na 24,000 mk., w r. 1922 - 1923 na 1.000,000 mk., zaś z kwoty 12,500 mk. w r. 1921-1922 na 50,000 mk., w roku 1922-1923 na 1.500,000 mk."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Kwotę 3,000 mk., wyszczególnioną w ust. 1 § 25, w § 33, w ust. 2 § 36, w ust. 2 § 42, w punkcie 1 i 2 ust. I i w ust. II § 43, tudzież w ust. 1 § 70 -podwyższa się w r. 1922-1923 na 500,000 mk. Art. 2 ustawy z dnia 19 grudnia 1919 roku w przedmiocie zmiany niektórych postanowień pruskiej ustawy o podatku dochodowym z dnia 19 czerwca 1906 r., obowiązującej w b. dzielnicy pruskiej (Dz. U. R. P. № 98 poz. 520), zmienia się w ten sposób, że zamiast sumy 4,000 mk. wstawia się na rok 1922-1923 500,000 mk Kary, przewidziane za przewinienia w art. 3 i 4 tejże samej ustawy, podnosi się 10-krotnie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustęp 1 § 79 otrzymuje brzmienie następujące: „Za podstawę wymiaru podatków i ciężarów, nakładanych przez samorządowe 1 inne publiczne związki według stawek podatku dochodowego, mają służyć stawki podatku dochodowego z § 17 i 18 powołanej ustawy pruskiej, zaś w r. 1922 - 1923 oblicza się przy rocznym dochodzie: dodatek samorządowy w kwocie: do 84,000 mk..... 120 mk. ponad 84,000 -132,000 mk.... 240 mk. ,, 132,000 - 180,000 mk..... 400 mk.”"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Do państwowego podatku dochodowego za rok 1922 - 1923 mogą być nałożone dodatki na rzecz gmin i związków komunalnych, z tem jednak ograniczeniem, że łączna suma podatku państwowego i dodatków nie może przewyższać przy dochodzie podatkowym do stopnia 21 włącznie 4%, do stopnia 41-8%, do stopnia 51-10%, do stopnia 76 - 20%, 101 -30%, powyżej stopnia 101 - 40% dochodu podatkowego płatnika."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Z wpływów państwowego podatku dochodowego za rok 1922 - 1923 pobierają gminy i związki komunalne 30%."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje od dnia 1 kwietnia 1921 roku. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

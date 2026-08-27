@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1972-311",
+  "type": "statute",
+  "title": "Ustawa z dnia 29 listopada 1972 r. o zmianie Konstytucji Polskiej Rzeczypospolitej Ludowej.",
+  "title_en": "",
+  "short_name": "pl-du-1972-311",
+  "status": "repealed",
+  "issued_date": "1972-11-29",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1972/311",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W Konstytucji Polskiej Rzeczypospolitej Ludowej wprowadza się następujące zmiany: 1) art. 32 pkt 11 otrzymuje brzmienie: „ 11) kieruje pracą organów wykonawczych i zarządzających rad narodowych. ” , 2) art. 34 otrzymuje brzmienie: „ Art. 34. 1. Organami władzy państwowej w gminach, miastach, dzielnicach większych miast, powiatach i województwach są rady narodowe. 2. Organem władzy państwowej w mieście nie stanowiącym powiatu i sąsiadującej z nim gminie może być wspólna rada narodowa. 3. Rady narodowe wybierane są przez ludność na okres lat czterech. ” , 3) art. 42 otrzymuje brzmienie: „ Art. 42. 1. Rady narodowe obradują na sesjach. 2. Organami wykonawczymi i zarządzającymi wojewódzkich, powiatowych, miejskich i dzielnicowych rad narodowych są wybierane przez nie prezydia. 3. Organami wykonawczymi i zarządzającymi gminnych rad narodowych oraz rad narodowych wspólnych dla miast i gmin są naczelnicy gmin (miast i gmin). 4. Organ wykonawczy i zarządzający rady narodowej podlega swojej radzie narodowej oraz prezydium rady narodowej wyższego stopnia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 1973 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

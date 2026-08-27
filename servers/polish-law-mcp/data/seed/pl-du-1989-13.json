@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1989-13",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 stycznia 1989 r. o zmianie ustawy o podatku dochodowym.",
+  "title_en": "",
+  "short_name": "pl-du-1989-13",
+  "status": "repealed",
+  "issued_date": "1989-01-31",
+  "in_force_date": "1989-02-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/13",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 16 grudnia 1972 r. o podatku dochodowym ( Dz. U. z 1988 r. Nr 4, poz. 37 , Nr 34, poz. 254 i Nr 41, poz. 325 oraz z 1989 r. Nr 3, poz. 12 ) wprowadza się następujące zmiany: 1) w art. 9 ust. 1 otrzymuje brzmienie: „ 1. Wolne od podatku dochodowego są, z zastrzeżeniem ust. 2, dochody osób, o których mowa w art. 2, w wysokości nie przekraczającej w stosunku rocznym dwukrotnego najniższego wynagrodzenia pracowników zatrudnionych w uspołecznionych zakładach pracy, określonego na dany rok podatkowy. ” ; 2) w art. 19 zdanie pierwsze otrzymuje brzmienie: „ Podstawą obliczenia podatku jest dochód osiągnięty w roku podatkowym, po odliczeniu od niego kwoty składki na ubezpieczenie społeczne podatnika i osób z nim współpracujących, pozostające w związku z wykonywaniem działalności określonej w art. 7 ust. 1 pkt 1-3, oraz darowizn na cele społecznie użyteczne, w tym również na rzecz organizacji społecznych i fundacji - do wysokości nie przekraczającej 10% dochodu. ” ; 3) art. 20 otrzymuje brzmienie: „ Art. 20. 1. Podatek od osób, o których mowa w art. 2, ustala się: 1) od nadwyżki dochodu ze źródeł przychodów określonych w art. 9 ust. 1 ponad kwotę wolną od podatku, obliczoną w stosunku rocznym - według następującej skali: Roczna kwota nadwyżki w złotych Podatek wynosi ponad do 90.000 5% nadwyżki 90.000 - 135.000 4.500 + 10% nadwyżki ponad 90.000 zł 135.000 - 180.000 9.000 + 15% nadwyżki ponad 135.000 zł 180.000 - 270.000 15.750 + 20% nadwyżki ponad 180.000 zł 270.000 - 450.000 33.750 + 25% nadwyżki ponad 270.000 zł 450.000 - 720.000 78.750 + 30% nadwyżki ponad 450.000 zł 720.000 - 1.080.000 159.750 + 35% nadwyżki ponad 720.000 zł 1.080.000 - 1.800.000 285.750 + 45% nadwyżki ponad 1.080.000 zł 1.800.000 - 2.780.000 609.750 + 55% nadwyżki ponad 1.800.000 zł 2.780.000 - 4.680.000 1.148.750 + 65% nadwyżki ponad 2.780.000 zł 4.680.000 2.383.750 + 75% nadwyżki ponad 4.680.000 zł 2) od całego dochodu ze źródeł przychodów określonych w art. 9 ust. 2 - według skali określonej w pkt 1, z podwyżką podatku o 25%. 2. Podatek nie może być ustalony w kwocie przekraczającej: 1) 50% dochodu - ze źródeł przychodów, o których mowa w ust. 1 pkt 1, 2) 85% dochodu - ze źródeł przychodów, o których mowa w ust. 1 pkt 2. 3. Podatek od osób, o których mowa w art. 3, ustala się w wysokości 50% dochodu uzyskanego na obszarze Polskiej Rzeczypospolitej Ludowej. 4. Podatek dochodowy od dochodu ze sprzedaży budynków bądź ich części, lokali mieszkalnych stanowiących odrębne nieruchomości, gruntów, spółdzielczego własnościowego prawa do lokalu mieszkalnego oraz wynikających z przydziału spółdzielni mieszkaniowych: prawa do domu jednorodzinnego lub prawa do lokalu w małym domu mieszkalnym, jeżeli sprzedaż nastąpiła wskutek nabycia w drodze spadku lub zapisu innego budynku lub lokalu mieszkalnego i przejęcia go do użytkowania, obniża się o uiszczony z tego tytułu podatek od spadków i darowizn. 5. Przedziały nadwyżki dochodu podlegającego opodatkowaniu podatkiem dochodowym, określone w skali, o której mowa w ust. 1 pkt 1, poczynając od roku podatkowego 1990 podlegają w każdym roku podwyższeniu w stopniu odpowiadającym wskaźnikowi wzrostu cen określonemu w centralnym planie rocznym. 6. Minister Finansów, w drodze rozporządzenia, ustala skalę podatku dochodowego na każdy rok podatkowy, z uwzględnieniem zasady określonej w ust. 5. ” ; 4) w art. 21 w ust. 1 pkt 4 otrzymuje brzmienie: „ 4) ustalone w ten sposób stopy procentowe stosuje się, z zastrzeżeniem art. 20 ust. 2, do dochodów z poszczególnych źródeł przychodów ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Minister Finansów ogłosi w Dzienniku Ustaw jednolity tekst ustawy o podatku dochodowym, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu, w tym zmian wynikających z ustawy z dnia 31 stycznia 1989 r. o podatku dochodowym od osób prawnych ( Dz. U. Nr 3, poz. 12 ) , z zastosowaniem ciągłej numeracji artykułów, ustępów i punktów oraz porządku alfabetycznego liter."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia i ma zastosowanie do opodatkowania dochodów osiąganych od dnia 1 stycznia 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

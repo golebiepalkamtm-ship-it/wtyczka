@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1988-169",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 lipca 1988 r. o zmianie ustawy o ochronie gruntów rolnych i leśnych.",
+  "title_en": "",
+  "short_name": "pl-du-1988-169",
+  "status": "repealed",
+  "issued_date": "1988-07-13",
+  "in_force_date": "1988-07-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1988/169",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 marca 1982 r. o ochronie gruntów rolnych i leśnych ( Dz. U. Nr 11, poz. 79 i z 1984 r. Nr 35, poz. 185 ) wprowadza się następujące zmiany: 1) w art. 4: a) skreśla się pkt 1, 2 i 3, b) dotychczasowe pkt 4-17 otrzymują oznaczenia pkt 1-14; 2) w art. 34: a) ust. 4 i 5 otrzymują brzmienie: „ 4. Fundusz centralny tworzy się z 20% dochodów Funduszu. 5. Środkami funduszu terenowego dysponuje właściwa wojewódzka rada narodowa, a środkami funduszu centralnego - Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej. ” , b) dodaje się ust. 6 i 7 w brzmieniu: „ 6. Środkami funduszu terenowego administruje terenowy organ administracji państwowej o właściwości ogólnej na podstawie planu uchwalonego przez wojewódzką radę narodową. 7. Terenowe organy administracji państwowej o właściwości ogólnej przedstawiają wojewódzkiej radzie narodowej projekty planu, o którym mowa w ust. 6, oraz roczne sprawozdania z wykonania zadań i gospodarowania środkami funduszu. ” ; 3) użyte w ustawie w różnych przypadkach wyrazy: a) „gminna rada narodowa” zastępuje się w tych samych przypadkach wyrazami „rada narodowa stopnia podstawowego” , b) „naczelnik gminy” zastępuje się w tych samych przypadkach wyrazami „terenowy organ administracji państwowej o właściwości ogólnej stopnia podstawowego” , c) „wojewoda” zastępuje się w tych samych przypadkach wyrazami „terenowy organ administracji państwowej o właściwości ogólnej stopnia wojewódzkiego” , d) „Minister Rolnictwa i Gospodarki Żywnościowej” oraz „Minister Leśnictwa i Przemysłu Drzewnego” zastępuje się w tych samych przypadkach wyrazami „Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\",\"children\": [{\"id\": \"arti_1-pint_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pl-du-1921-170",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 marca 1921 r. o wykonaniu ślubu uczynionego przez Sejm Czteroletni, wzniesienia w Warszawie świątyni pod wezwaniem \"Opatrzności Bożej\".",
+  "title_en": "",
+  "short_name": "pl-du-1921-170",
+  "status": "in_force",
+  "issued_date": "1921-03-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/170",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dla wykonania ślubu, uczynionego przez Sejm Czteroletni, wzniesienia w Warszawie świątyni pod wezwaniem „Opatrzności Bożej”, będzie wybudowany kosztem Państwa kościół pod wezwaniem „Opatrzności Bożej” w Warszawie, na warunkach, niniejszą ustawą określonych."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Miejsce pod ten kościół zostanie obrane przez osobną komisje., złożoną z Jego Eminencji Kardynała Prymasa, Jego Eminencji Kardynała Arcybiskupa Warszawskiego, Ks. Biskupa Krakowskiego, Marszałka i Wicemarszałków Sejmu Rzeczypospolitej, Prezydjum Rady Miejskiej i Prezydenta stołecznego miasta Warszawy pod przewodnictwem Marszałka."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Komisja, powołana w art. 2, zatwierdzi też warunki konkursu i skład sądu konkursowego dla wypracowania projektu rzeczonego kościoła oraz będzie pełniła zwierzchni nadzór nad wykonaniem projektu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Na cel budowy tego kościoła przysługiwać będzie Rządowi prawo wywłaszczania gruntu i budynków na miejscu obranem na tych samych zasadach, które obowiązują dla wywłaszczenia pod państwowe budynki użyteczności publicznej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Na koszty, związane z wykonaniem ustawy niniejszej, Ministerstwo Robót Publicznych wnosić będzie potrzebne sumy do budżetu Rzeczypospolitej na rok zaś 1921 ma być na ten cel wniesiona suma dziesięciu miljonów marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Dopuszczalne jest uzupełnienie sum w budżecie, na cele tej budowy przewidzianych ze składek publicznych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Przy kościele „Opatrzności Bożej”, na mocy niniejszej ustawy wzniesionym, ufunduje Rząd Rzeczypospolitej wieczyste stypendjum mszalne na odprawianie codziennej mszy Św.: w dnie powszednie o godz. 7 rano, w dnie świąteczne o godz. 12 w południe, na intencję pomyślności Rzeczypospolitej i za dusze wszystkich Polaków, którzy zginęli w walkach za odzyskanie niepodległości Ojczyzny, albo w czasie niewoli za miłość i wierność ku Ojczyźnie przez zaborców zamordowani zostali."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Przy kościele będą przewidziane grobowce zasłużonych, z których korzystanie będzie zastrzeżone dla zmarłych katolików, uznanych za zasłużonych przez Sejm Rzeczypospolitej."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Po ukończeniu budowy kościół wraz z placem, zabudowaniami kościelnemi i funduszem fundacyjnym, przekazany będzie hipotecznie na własność Archidjecezji Warszawskiej."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie niniejszej ustawy poleca się w zakresie wybudowania kościoła Ministrowi Robót Publicznych, - w zakresie wykonania artykułów 7, 8 i 9 - Ministrowi Wyznań Religijnych i Oświecenia Publicznego. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

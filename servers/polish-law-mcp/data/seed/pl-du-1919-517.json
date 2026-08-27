@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1919-517",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 grudnia 1919 r. w przedmiocie amnestji przy przekroczeniach przepisów o państwowych podatkach i opłatach stemplowych, obowiązujących na terenie b. Dzielnicy Pruskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1919-517",
+  "status": "in_force",
+  "issued_date": "1919-12-18",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1919/517",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kto wbrew obowiązującym na ziemiach b. Dzielnicy Pruskiej przepisom prawnym przez niezłożenie deklaracji lub innych danych istotnych w czasie do 1 lipca 1919 r. udaremnił wymiar podatków, wymierzonych przez państwo, który opiera się na deklaracjach i innych danych istotnych, składanych przez osoby, obowiązane do płacenia podatków, jakoteż kto wbrew obowiązującym przepisom prawnym w tymże czasie przez złożenie nieprawdziwej deklaracji lub innych nieprawdziwych danych bądź udaremnił, bądź usiłował spowodować wymiar tych podatków w kwocie niższej, niż należy się według ustawy - wolny jest od kary i nie jest obowiązany płacić dodatkowo za lata ubiegłe, jeżeli do 31 marca 1920 r. złoży właściwej władzy skarbowej deklarację, względnie dane zgodne z prawdą. Dotyczy to wszystkich wypadków, w których do czasu przedłożenia zgodnych z prawdą deklaracji, względnie prawdziwych danych, nie zapadło prawomocne orzeczenie co do kary. Przepis powyższy dotyczy także wypadków, w których złożono rozmyślnie nieprawdziwe deklaracje lub inne nieprawdziwe dane bez zamiaru udaremnienia właściwego wymiaru podatku."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Osoby, które w czasie do i lipca 1919 r. nie dopełniły obowiązku uiszczenia opłat stemplowych w myśl przepisów obowiązujących na ziemiach b. Dzielnicy Pruskiej, wolne są od kar, przewidzianych w odnośnych przepisach, jeżeli kwotę, przypadającą tytułem opłaty skarbowej, uiszczą dobrowolnie do 31 marca 1920 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jeżeli w czasie do 1 lipca 1919 r. oświadczono nieprawdę celem spowodowania wymiaru opłaty skarbowej w kwocie niższej, niż należy się według ustawy, winny wolny jest kary, jeżeli do 31 marca 1920 r. poda władzy skarbowej dane zgodne z prawdą. Dotyczy to wszystkich wypadków, w których do czasu dostarczenia danych prawdziwych nie zapadło prawomocne orzeczenie co do kary. Jeżeli winny równocześnie z dostarczeniem danych zgodnych z prawdą nie uiścił kwoty, przypadającej tytułem opłaty, władza skarbowa może zwolnić go od kary pod warunkiem uiszczenia opłaty w pewnym terminie lub jej zabezpieczenia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Wykonanie jej powierza się Ministrowi b. Dzielnicy Pruskiej. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

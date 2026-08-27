@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1938-55",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 lutego 1938 r. o ułatwieniach w zaciąganiu pożyczek w listach zastawnych.",
+  "title_en": "",
+  "short_name": "pl-du-1938-55",
+  "status": "in_force",
+  "issued_date": "1938-02-05",
+  "in_force_date": "1938-02-15",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/55",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Pożyczce instytucji kredytu długoterminowego, udzielonej w listach zastawnych celem spłacenia wierzytelności hipotecznej, służy do wysokości ujawnionego w księdze hipotecznej (wieczystej) zabezpieczenia wierzytelności, która ma być spłacona, ten sam stopień pierwszeństwa hipotecznego, co wierzytelności spłaconej. Jeżeli hipoteka, zabezpieczająca powyższą wierzytelność, jest wyrażona w walucie zagranicznej, wówczas hipotekę tę przerachowuje się na walutę polską według zasad, ustalonych w rozdziale I rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych ( Dz. U. R. P. Nr 59, poz. 509 ) , po kursie z dnia poprzedzającego dzień przyznania pożyczki przez instytucję kredytu długoterminowego. (2) Ujawnienie wierzytelności instytucji kredytu długoterminowego w księdze hipotecznej (wieczystej) nastąpi bez zgody niższych wierzycieli hipotecznych. Zgoda zaś wierzyciela hipotecznego, którego wierzytelność ma być spłacona z pożyczki, jest zbyteczna, jeżeli wykazane będzie, że całkowita spłata jego wierzytelności jest zabezpieczona. (3) Przepisy artykułu niniejszego nie naruszają dalej idących uprawnień statutowych instytucji kredytu długoterminowego. (4) Upoważnia się Ministra Sprawiedliwości do wydania w drodze rozporządzenia szczegółowych przepisów celem wykonania przepisów artykułu niniejszego z uwzględnieniem różnic, istniejących na poszczególnych obszarach ze względu na obowiązujące tam ustawodawstwo; rozporządzenie to może również określić, w jaki sposób ma być zabezpieczona spłata wierzyciela hipotecznego, przewidziana w ust. (2)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wprowadza się do dekretu Prezydenta Rzeczypospolitej z dnia 3 grudnia 1935 r. w sprawie wierzytelności hipotecznych i listów zastawnych towarzystw kredytowych miejskich ( Dz. U. R. P. Nr 88, poz. 543 ) zmiany następujące: 1) w art. 1 ust. (1) dodaje się zdanie drugie o brzmieniu: „Przedłuża się o lat dwa i pół okresy umorzenia pożyczek, zabezpieczających listy zastawne.”; 2) art. 1 ust. (2) skreśla się; 3) art. 1 ust. (3) staje się ust. (2) i otrzymuje brzmienie: „ Listy zastawne towarzystw kredytowych miejskich, wypuszczone na podstawie wierzytelności wymienionych w ust. (1), ulegają umorzeniu na zasadach, odpowiadających okresom umorzenia i wstrzymania spłaty kapitału tych wierzytelności. Listy zastawne z oznaczonymi terminami umorzenia powinny być ostemplowane z zaznaczeniem na nich przedłużenia okresu umorzenia o dwa i pół lat. ” ; 4) do art. 5 dodaje się nowy ust. (2) następującej treści: „ Upoważnia się Ministra Skarbu do zmiany w czasie do dnia 1 stycznia 1939 r. terytorialnego zakresu działania poszczególnych towarzystw kredytowych miejskich w drodze rozporządzenia. ”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrom Sprawiedliwości i Skarbu, każdemu we właściwym zakresie działania."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"},{\"id\": \"arti_1-pass_(3\",\"symbol\": \"pass_(3\",\"type\": \"pass\",\"name\": \"(3\",\"title\": \"(3)\"},{\"id\": \"arti_1-pass_(4\",\"symbol\": \"pass_(4\",\"type\": \"pass\",\"name\": \"(4\",\"title\": \"(4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

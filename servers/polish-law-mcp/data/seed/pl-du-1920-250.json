@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1920-250",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 maja 1920 r. w przedmiocie przyjmowania obligacji wojennych pożyczek austrjackich przy subskrybcji wewnętrznej, długoterminowej pożyczki państwowej z r. 1920.",
+  "title_en": "",
+  "short_name": "pl-du-1920-250",
+  "status": "in_force",
+  "issued_date": "1920-05-11",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Obligacje wojennych pożyczek austrjackich wraz z ich kuponami przyjmowane będą przy subskrybcji na wewnętrzną, długoterminową pożyczkę państwową z r. 1920 do wysokości 25% sumy subskrybowanej. Dla instytucji użyteczności publicznej oraz dla osób, które posiadają pożyczkę w kwocie, nie przewyższającej 700 marek, a udowodnią, że podpisały ją pod przymusem, stosunek ten może być podwyższony do 50%."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przy wpłatach na wewnętrzną, długoterminową pożyczkę państwową z r. 1920 będą przyjmowane tylko te obligacje wojennych pożyczek austrjackich, które przez instytucje, do tego upoważnione, zarejestrowane zostały lub po ich zgłoszeniu zarejestrowane będą."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Przerachowanie obligacji pożyczek wojennych austrjackich nastąpi po ich kursie emisyjnym, według relacji koron, przyjętej ustawą z dnia 15 stycznia 1920 r. (Dz. Ust. № 5 poz. 26)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

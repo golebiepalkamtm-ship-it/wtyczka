@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-266",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 lutego 2002 r. o zmianie ustawy o wykonywaniu mandatu posła i senatora.",
+  "title_en": "",
+  "short_name": "pl-du-2002-266",
+  "status": "amended",
+  "issued_date": "2002-02-15",
+  "in_force_date": "2002-03-26",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/266",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora ( Dz. U. Nr 73, poz. 350 i Nr 137, poz. 638 , z 1997 r. Nr 28, poz. 153 , Nr 98, poz. 604 , Nr 106, poz. 679 , Nr 121, poz. 770 i Nr 160, poz. 1080 , z 1998 r. Nr 162, poz. 1118 , z 1999 r. Nr 52, poz. 527 i 528 , z 2000 r. Nr 6, poz. 69 oraz z 2001 r. Nr 94, poz. 1032 i Nr 138, poz. 1567 ) wprowadza się następujące zmiany: 1) w art. 25 ust. 5 otrzymuje brzmienie: „ 5. Zasady obniżania uposażenia posłów i senatorów uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu lub Zgromadzenia Narodowego, a także ich organów, oraz nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy Sejmu i Senatu. ” ; 2) w art. 42 ust. 4 otrzymuje brzmienie: „ 4. Zasady obniżania i utraty prawa do diety parlamentarnej posłów i senatorów uniemożliwiających, poprzez rażące naruszanie przepisów odpowiednich regulaminów, pracę Sejmu, Senatu lub Zgromadzenia Narodowego, a także ich organów, oraz nieuczestniczących, bez usprawiedliwienia, w posiedzeniach Sejmu lub Senatu oraz Zgromadzenia Narodowego, a także ich organów, określają regulaminy Sejmu i Senatu. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2013-1250",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej",
+  "title_en": "",
+  "short_name": "pl-du-2013-1250",
+  "status": "amended",
+  "issued_date": "2013-08-30",
+  "in_force_date": "2013-10-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2013/1250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej w Rzeczypospolitej Polskiej ( Dz. U. Nr 126, poz. 1069 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 178, poz. 1058 oraz z 2013 r. poz. 829. ) w załączniku nr 1 po tiret trzecim w brzmieniu „- w Bułgarii - Aдвокат,” dodaje się tiret czwarte w brzmieniu „- w Republice Chorwacji - Odvjetnik/Odvjetnica,”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 lipca 2013 r. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 2004 r. Nr 96, poz. 959, z 2005 r. Nr 150, poz. 1240 i Nr 163, poz. 1361, z 2007 r. Nr 121, poz. 831 i Nr 147, poz. 1028, z 2008 r. Nr 180, poz. 1112, z 2010 r. Nr 47, poz. 278, z 2011 r. Nr 178, poz. 1058 oraz z 2013 r. poz. 829. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

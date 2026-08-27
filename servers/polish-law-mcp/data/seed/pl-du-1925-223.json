@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1925-223",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 marca 1925 r. zmieniająca przepisy tymczasowe o kosztach sądowych.",
+  "title_en": "",
+  "short_name": "pl-du-1925-223",
+  "status": "in_force",
+  "issued_date": "1925-03-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1925/223",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Przepisy tymczasowe o kosztach sądowych (dekret z 18 lipca 1917 r. Dz. Urz. Dep. Spraw. 1917 r. № 1 poz. 7 dz. 1. -Załącznik do rozporządzenia Ministra Sprawiedliwości z dnia 18 marca 1924 r. Dz. U. R. P. № 28 poz. 284) ulegają następującym dalszym zmianom: Art. 8 (w brzmieniu, nadanem ustawą z dnia 17 grudnia 1921 r. Dz. U. R. P. № 106 poz. 770): po słowie „polubownego” zamiast przecinka powinna być kropka; część tego artykułu, poczynając od słów: „od wniosku petenta...” do końca skreśla się. Art. 15 liczba 2 ustęp drugi (w brzmieniu, nadanem ustawą z dnia 17 grudnia 1921 r. Dz. U. R. P. № 106 poz. 770 i rozporządzeniem Rady Ministrów z dnia 18 lutego 1924 r.-Dz. U. R. P. № 16 poz. 154) otrzymuje brzmienie następujące: „ od rozciągnięcia nadzoru celem uniknięcia upadłości, od podań, wymienionych w art. 1, 7, 12 ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. № 67 poz. 406) i ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Postanowienia niniejszej ustawy dotyczyć będą również wniosków, złożonych przed wejściem jej w życie, o ile opłaty do tej chwili nie zostały jeszcze uiszczone. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

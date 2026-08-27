@@ -1,0 +1,416 @@
+{
+  "id": "pl-du-1952-234",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 lipca 1952 r. o prawie autorskim.",
+  "title_en": "",
+  "short_name": "pl-du-1952-234",
+  "status": "repealed",
+  "issued_date": "1952-07-10",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1952/234",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "§ 1. Każdy utwór literacki, naukowy i artystyczny, ustalony w jakiejkolwiek postaci, jest przedmiotem prawa autorskiego. § 2. W szczególności przedmiotem prawa autorskiego są utwory: 1) wyrażone drukiem, słowem lub pismem, 2) muzyczne, 3) sztuk plastycznych, 4) sztuki choreograficznej i kinematograficznej, utrwalone w scenariuszach, rysunkach lub fotografiach."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "§ 1. Utwór, wykonany sposobem fotograficznym lub do fotografii podobnym, jest przedmiotem prawa autorskiego, jeżeli na utworze uwidoczniono wyraźnie zastrzeżenie prawa autorskiego. § 2. Na filmach oraz odbitkach i reprodukcjach, otrzymanych sposobem fotograficznym lub do fotografii podobnym, należy uwidocznić rok wykonania utworu, na nutach zaś dla mechanizmu, walcach i innych przyrządach odtwarzających mechanicznie utwór dźwiękowy - rok przeniesienia. § 3. W braku uwidocznienia daty prawo autorskie do utworów, o których mowa w §§ 1 i 2, ma skutek przeciwko osobom trzecim tylko wówczas, gdy wiedziały, że czas trwania prawa autorskiego jeszcze nie upłynął."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "§ 1. Przedmiotem prawa autorskiego jest również opracowanie cudzego utworu; należą tu w szczególności: tłumaczenie, przeróbka, przeniesienie na inną technikę artystyczną, układ muzyczny, przeróbka na muzyczne instrumenty mechaniczne i przeniesienie na film. § 2. Wykonywanie prawa autorskiego do opracowania cudzego utworu zależy od zezwolenia twórcy oryginału (zależne prawo autorskie), chyba że prawo autorskie do oryginału wygasło. Zezwolenie traci moc, jeżeli opracowanie nie ukazało się w ciągu lat pięciu od daty zezwolenia. § 3. Na opracowaniu cudzego utworu należy wymienić twórcę oryginału. § 4. Utworu, który ma cechy samodzielnej twórczości, chociaż podnietę do niego dał cudzy utwór, nie uważa się za opracowanie cudzego utworu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Przedmiotem prawa autorskiego są nie tylko utwory ostatecznie wykonane, lecz także ich plany, zarysy, szkice, rysunki, modele i projekty."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Nie stanowią przedmiotu prawa autorskiego: 1) akty prawodawcze i administracyjne, orzeczenia sądów i innych władz, 2) pisma i wzory, przeznaczone przez władze do powszechnej wiadomości, 3) informacje prasowe i reporterskie zdjęcia fotograficzne, 4) przeniesienie na inną technikę artystyczną wzoru, przeznaczonego dla przemysłu, jeżeli przeniesienie stanowi zwykłą czynność przygotowawczą do produkcji przemysłowej, dla której wzór jest przeznaczony."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Prawo autorskie doznaje ochrony, jeżeli: 1) twórca jest obywatelem polskim, albo 2) utwór ukazał się po raz pierwszy w Polsce lub równocześnie w Polsce i za granicą, albo 3) utwór opublikowany został po raz pierwszy w języku polskim, albo 4) ochrona wynika z układów międzynarodowych lub polega na wzajemności. Rozdział 2 Podmiot prawa autorskiego"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "§ 1. Prawo autorskie służy twórcy, jeżeli przepis szczególny nie stanowi inaczej. § 2. Za twórcę uważa się osobę, której nazwisko jako twórcy uwidoczniono na utworze albo ogłoszono przy wykonaniu lub wystawieniu utworu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Twórcę utworu wydanego bez podania nazwiska (anonimowo) lub pod nazwiskiem zmyślonym (pod pseudonimem) zastępuje w wykonywaniu prawa autorskiego wydawcę, dopóki twórca nie poda swego nazwiska do publicznej wiadomości."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Twórcy zbioru starych rękopisów, pieśni ludowych, melodii, przysłów, bajek, opowieści i innych utworów sztuki ludowej, jak również twórcy wypisów, antologii i edycji krytycznych służy prawo autorskie, jeżeli opracowanie wykazuje cechy twórczości, zwłaszcza pod względem wyboru, układu lub ustalenia tekstu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Prawo autorskie do całości dzieła zbiorowego (encyklopedii, słownika, rocznika, kalendarza itp.) lub czasopisma służy wydawcy, do poszczególnych zaś części, mających samodzielne znaczenie - ich twórcom."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "§ 1. Współtwórcom służy prawo autorskie łącznie. § 2. Twórcy dzieł łącznych (np. opera i libretto, melodia i tekst) mają łączne prawo autorskie do całości, jednak każdy z nich zachowuje odrębne prawo autorskie do swojego dzieła."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "§ 1. Prawo autorskie do: 1) wzoru artystycznego dla przemysłu, 2) projektu, planu, rysunku technicznego albo architektonicznego, przeznaczonego dla przemysłu lub budownictwa, 3) utworu przeznaczonego do reklamy lub propagandy w dziedzinie gospodarczej, służy tej jednostce gospodarki uspołecznionej, której pracownik wykonał utwór na podstawie stosunku służbowego albo umowy o pracę lub na której zamówienie utwór wykonano; jednakże twórca zachowuje wyłącznie prawo do ochrony autorskich dóbr osobistych. § 2. Rada Ministrów może w drodze rozporządzenia rozciągnąć przepis § 1 na inne utwory wykonane przez pracowników jednostek gospodarki uspołecznionej lub na zamówienie tych jednostek."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Prawo autorskie do filmów kinematograficznych i do przeróbki utworów muzycznych na mechaniczne instrumenty muzyczne służy przedsiębiorstwu, które wytworzyło film lub dokonało przeróbki."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "§ 1. Instytucji naukowej służy prawo pierwszego wydania utworu naukowego, opracowanego przez pracownika tej instytucji w ramach zadań, określonych przez umowę o pracę lub o dzieło. Prawo to gaśnie z upływem lat dwóch od dostarczenia utworu. § 2. Ponadto instytucja może korzystać z utworu jako materiału naukowego bez obowiązku uzyskania zezwolenia twórcy i bez osobnego za to wynagrodzenia. Rozdział 3 Treść prawa autorskiego"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "Prawo autorskie obejmuje w granicach określonych ustawą, prawo do: 1) ochrony autorskich dóbr osobistych, 2) wyłącznego rozporządzania utworem, 3) wynagrodzenia za wykorzystanie utworu."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "§ 1. W przypadkach uzasadnionych wymaganiami upowszechnienia wiedzy i kultury Rada Ministrów może nawet bez zgody twórcy lub jego następcy prawnego zezwolić na: 1) rozpowszechnianie utworu w określony sposób, 2) przeróbkę lub przystosowanie utworu do potrzeb scenicznych, filmowych lub radiofonicznych, przy czym twórca ma prawo pierwszeństwa do opracowania przeróbki lub przystosowania utworu. § 2. Za życia twórcy zezwolenie może dotyczyć tylko dzieła opublikowanego. § 3. Twórca zachowuje poza tym prawo do ochrony autorskich dóbr osobistych. § 4. Twórcy lub jego następcy prawnemu należy się od osoby, która na podstawie zezwolenia Rady Ministrów rozpowszechnia utwór albo korzysta z przeróbki lub przystosowania utworu, wynagrodzenie w wysokości, odpowiadającej obowiązującym zasadom wynagradzania twórców."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Rada Ministrów może nadać organizacji społecznej lub jednostce gospodarki uspołecznionej wyłączne prawo wydania określonych utworów lub zbiorowego wydania utworów określonego twórcy z zachowaniem przepisów art. 16 §§ 2 do 4."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "W dziedzinie piśmiennictwa wolno: 1) przedrukowywać w prasie aktualne artykuły i wypowiedzi, zamieszczone w dziennikach i czasopismach, na tematy polityczne, gospodarcze, naukowe, techniczne i kulturalne, 2) drukować w czasopismach lub dziełach, przeznaczonych na publikacje tego rodzaju, mowy wygłoszone na publicznych zebraniach lub rozprawach, co jednak nie uprawnia do zbiorowego wydania mów jednej osoby, 3) przytaczać dla wyjaśnienia lub nauczania w dziełach, stanowiących samoistną całość, krótkie ustępy opublikowanych już wykładów, mów i innych utworów jak również drobne utwory już opublikowane, 4) zamieszczać w antologiach i wypisach cudze utwory, opublikowane w książkach lub czasopismach, 5) podawać krótkie streszczenia utworów, ogłoszonych lub wystawionych, 6) rozpowszechniać wydany utwór przez wypożyczanie egzemplarzy, wygłaszanie wykładów lub recytacje, jeżeli nie pobiera się opłaty za wstęp, 7) wystawiać opublikowany utwór sceniczny przez zespoły amatorskie, jeżeli nie pobiera się opłaty za wstęp, 8) użyć już wydanych drobnych urywków utworu poetyckiego lub drobnych utworów poetyckich jako tekstu nowego utworu muzycznego."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "W zakresie utworów muzycznych wolno: 1) przytaczać w audycjach, dziełach naukowych i literackich oraz podręcznikach krótkie ustępy utworu muzycznego lub drobne utwory muzyczne w całości, jeżeli utwory zostały już wydane, 2) rozpowszechniać wydane utwory muzyczne przez wypożyczanie egzemplarzy, wygłaszanie wykładów lub nieodpłatne wykonywanie samego utworu w celach nauczania bądź też w ramach uroczystości o charakterze społecznym, jeżeli wykonawcy nie otrzymują wynagrodzenia, albo w ramach działalności towarzystwa muzycznego wyłącznie dla jego członków, co jednak nie uprawnia do publicznego wykonywania utworu scenicznego, 3) wykonywać opublikowane utwory w świetlicach, domach kultury i klubach, jeżeli nie pobiera się opłaty za wstęp."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "W zakresie utworów plastycznych wolno: 1) wystawiać utwory publicznie, lecz tylko nieodpłatnie, 2) używać reprodukcji w celu nauczania, jeżeli utwór został wydany albo wystawiony jest stale w taki sposób, że każdy może go oglądać, 3) kopiować utwory w muzeach lub w innych instytucjach albo budynkach dostępnych dla publiczności, 4) odtwarzać odpowiednią techniką reprodukcyjną dzieła sztuki wystawione w miejscach publicznych, jednakże nie w tych samych rozmiarach i nie do tego samego użytku, 5) odtwarzać utwory architektoniczne, lecz nie w celu budowy, 6) budować według planów architektonicznych wydanych w celu powszechnego stosowania, 7) odtwarzać utwory fotograficzne, lecz nie w sposób fotograficzny lub do niego podobny."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "§ 1. Przewidziane w art. 18 do 20 rozpowszechnianie lub przytaczanie cudzych utworów jest dozwolone tylko pod warunkiem wyraźnego wymienienia źródła oraz bez wprowadzenia zmian w utworze. § 2. W utworach muzycznych dozwolone są tylko przeniesienia do innej tonacji, na inny głos lub instrument, w utworach plastycznych zaś zmiany wielkości oraz konieczne zmiany, wywołane sposobem odtworzenia. § 3. Rozpowszechnianie lub przytaczanie utworów w całości lub części na zasadach i w granicach określonych w art. 18 do 20 nie uprawnia twórcy do żądania wynagrodzenia z wyjątkiem przypadku umieszczenia utworu w antologii lub w wypisach."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Wolno skopiować lub w inny sposób odtworzyć cudzy utwór wyłącznie dla własnego użytku osobistego, co nie uprawnia jednak do budowania według cudzego utworu architektonicznego."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Art. 23",
+      "content": "Wolno rozpowszechniać opublikowane utwory przy pomocy fonii i wizji przewodowej i bezprzewodowej; twórcy należy się wynagrodzenie w wysokości, odpowiadającej przyjętym w tych przypadkach zasadom wynagradzania twórców."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Art. 24",
+      "content": "§ 1. Rozporządzanie portretem wymaga zezwolenia osoby portretowanej, jeżeli nie otrzymała ona zapłaty za pozowanie. § 2. Zezwolenia nie wymaga rozporządzanie wizerunkami: 1) osób powszechnie znanych, chyba że uczyniły zastrzeżenie przy portretowaniu, 2) stanowiącymi jedynie szczegół obrazu przedstawiającego obchód, zgromadzenie, krajobraz itp."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Art. 25",
+      "content": "§ 1. Rozporządzanie listami wymaga zezwolenia osoby, do której listy są skierowane, jeżeli jej nazwisko ma lub może być ujawnione. § 2. Do lat dziesięciu od śmierci tej osoby potrzeba zezwolenia jej małżonka i zstępnych, a w ich braku - rodziców i rodzeństwa. Rozdział 4 Czas trwania autorskich praw majątkowych"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Art. 26",
+      "content": "Z zastrzeżeniem wyjątków w ustawie przewidzianych autorskie prawa majątkowe gasną z upływem lat dwudziestu: 1) od śmierci twórcy, przy dziełach zaś wspólnych i łącznych - od śmierci twórcy, który innych przeżył, 2) od opublikowania utworu anonimowo lub pod pseudonimem, chyba że twórca wcześniej ujawnił publicznie swoje autorstwo, 3) od opublikowania utworu, jeżeli autorskie prawa majątkowe służą osobie prawnej."
+    },
+    {
+      "provision_ref": "art27",
+      "section": "27",
+      "title": "Art. 27",
+      "content": "Autorskie prawa majątkowe gasną: 1) do utworu fotograficznego lub otrzymanego w sposób podobny do fotografii - z upływem lat dziesięciu od pierwszej publikacji, 2) do utworu kinematograficznego, scenograficznego i choreograficznego - z upływem lat dziesięciu od pierwszego publicznego wykonania, 3) do przeróbki utworów muzycznych na przyrządy mechaniczne - z upływem lat dziesięciu od dokonania przeróbki, 4) do serii zdjęć fotograficznych, mającej znaczenie artystyczne lub naukowe - z upływem lat dziesięciu od pierwszej publikacji."
+    },
+    {
+      "provision_ref": "art28",
+      "section": "28",
+      "title": "Art. 28",
+      "content": "Bieg terminu wygaśnięcia autorskich praw majątkowych do utworu, wydawanego w częściach odrębnych, rozpoczyna się od wydania części ostatniej (tomu, zeszytu itp.). Jeżeli jednak poszczególne części są dziełami samoistnymi, bieg tego terminu rozpoczyna się dla każdej części osobno."
+    },
+    {
+      "provision_ref": "art29",
+      "section": "29",
+      "title": "Art. 29",
+      "content": "Czas trwania autorskich praw majątkowych liczy się począwszy od pierwszego dnia roku następnego po śmierci twórcy, opublikowaniu utworu lub innym zdarzeniu, od którego rozpoczyna się bieg terminu wygaśnięcia autorskich praw majątkowych. Rozdział 5 Przejście autorskich praw majątkowych 1. Przepisy ogólne"
+    },
+    {
+      "provision_ref": "art30",
+      "section": "30",
+      "title": "Art. 30",
+      "content": "§ 1. Autorskie prawa majątkowe mogą przejść na inne osoby. § 2. Umowa o przeniesienie autorskich praw majątkowych wymaga formy pisemnej."
+    },
+    {
+      "provision_ref": "art31",
+      "section": "31",
+      "title": "Art. 31",
+      "content": "Następcy prawnemu, choćby nabył wszelkie autorskie prawa majątkowe, nie wolno czynić zmian w utworze, chyba że wywołane są oczywistą koniecznością, a twórca nie miałby słusznej podstawy ich zabronić."
+    },
+    {
+      "provision_ref": "art32",
+      "section": "32",
+      "title": "Art. 32",
+      "content": "Twórca zachowuje wyłączne prawo zezwalania na wykonywanie zależnego prawa autorskiego pomimo umownego przeniesienia autorskich praw majątkowych, chyba że umowa stanowi inaczej."
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "Art. 33",
+      "content": "§ 1. Rada Ministrów może ustalić zasady i stawki wynagradzania twórców oraz wzorcowe umowy we wszystkich lub niektórych działach twórczości. § 2. Postanowienia umowne sprzeczne z przepisami wydanymi na podstawie § 1 są nieważne. 2. Umowa wydawnicza"
+    },
+    {
+      "provision_ref": "art34",
+      "section": "34",
+      "title": "Art. 34",
+      "content": "Przez umowę wydawniczą twórca przenosi na wydawcę prawo wydania utworu piśmienniczego lub artystycznego, wydawca zaś zobowiązuje się do wydania utworu i do zapłacenia twórcy wynagrodzenia."
+    },
+    {
+      "provision_ref": "art35",
+      "section": "35",
+      "title": "Art. 35",
+      "content": "§ 1. Twórca jest obowiązany dostarczyć wydawcy utwór w oznaczonym czasie i w stanie odpowiednim do wydania. § 2. Wydawca jest obowiązany wydać utwór w oznaczonym czasie i w stosownej formie oraz użyć odpowiednich środków w celu rozpowszechnienia wydanego utworu."
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Art. 36",
+      "content": "§ 1. Twórca może aż do dostarczenia utworu odstąpić od umowy, jeżeli po jej zawarciu zaszły okoliczności, uzasadniające zaniechanie dzieła ze względu na istotne interesy twórcze, dłuższą chorobę lub inne ważne przyczyny. § 2. Twórca może również odstąpić od umowy, jeżeli wydawca nie podejmuje prac nad wydaniem utworu mimo wyznaczenia mu stosownego terminu dodatkowego z zagrożeniem odstąpienia od umowy."
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Art. 37",
+      "content": "§ 1. Jeżeli twórca nie dostarczy wydawcy utworu w czasie właściwym, wydawca może wyznaczyć mu stosowny termin dodatkowy z zagrożeniem odstąpienia od umowy, a po bezskutecznym jego upływie odstąpić od umowy. § 2. Niewykonanie umowy przez twórcę uprawnia wydawcę do żądania zwrotu wszystkiego, co twórca otrzymał z tytułu umowy. W przypadku niewykonania umowy przez twórcę z jego winy wydawca może ponadto żądać odszkodowania lub zapłaty kary umownej, jeżeli była w umowie zastrzeżona. Wydawca nie może dochodzić wykonania umowy."
+    },
+    {
+      "provision_ref": "art38",
+      "section": "38",
+      "title": "Art. 38",
+      "content": "§ 1. Wydawca może w umowie zastrzec sobie prawo odstąpienia od wydania utworu; z prawa tego nie może jednak korzystać po upływie roku od daty dostarczenia mu utworu. § 2. Wydawca może w każdym czasie odstąpić od wydania utworu, jeżeli wydanie byłoby sprzeczne z interesem Państwa Ludowego. § 3. W przypadku odstąpienia od wydania utworu stosownie do przepisów § 1 lub § 2 twórcy należy się umówione wynagrodzenie."
+    },
+    {
+      "provision_ref": "art39",
+      "section": "39",
+      "title": "Art. 39",
+      "content": "§ 1. Przepisy art. 38 stosuje się odpowiednio, gdy wydawca nabył od twórcy prawo do kilku wydań. § 2. Przed przystąpieniem do nowego wydania wydawca jest obowiązany dać twórcy możność poczynienia zmian w utworze."
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Art. 40",
+      "content": "§ 1. Jeżeli określenie wynagrodzenia twórcy nie wynika z umowy ani z przepisu szczególnego, wysokość wynagrodzenia określa się na podstawie oceny wartości utworu i jego pożytku społecznego oraz wysiłku twórczego, jakiego utwór wymagał. § 2. Wynagrodzenie twórcy płatne jest przy dostarczeniu utworu wydawcy, chyba że umowa lub przepis szczególny stanowi inaczej. § 3. W razie umowy o wynagrodzenie procentowe od całego nakładu wynagrodzenie oblicza się od ceny, po której sprzedaje się publicznie poszczególne egzemplarze. § 4. Jeżeli wynagrodzenie zależy od liczby sprzedanych egzemplarzy, wydawca jest obowiązany co trzy miesiące wypłacać przypadającą należność."
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Art. 41",
+      "content": "§ 1. Cenę sprzedażną utworu oznacza wydawca. § 2. Jeżeli wynagrodzenie twórcy umówione zostało procentowo a cena sprzedażna uległa podwyższeniu po zawarciu umowy, twórcy należy się także umówiony procent od podwyżki ceny za egzemplarze, pozostałe do sprzedaży."
+    },
+    {
+      "provision_ref": "art42",
+      "section": "42",
+      "title": "Art. 42",
+      "content": "§ 1. Wydawca ponosi koszty korekty. § 2. Twórca ma prawo żądać przesłania mu do przejrzenia korekt wolnych od błędów drukarskich. Za poprawienie tych korekt nie należy mu się osobne wynagrodzenie. § 3. Twórca ponosi koszty zmian dokonanych przez niego w utworze po rozpoczęciu pracy wydawniczej, jeżeli przekraczają zwykłą miarę i nie są następstwem okoliczności, które zaszły niezależnie od twórcy po rozpoczęciu pracy wydawniczej."
+    },
+    {
+      "provision_ref": "art43",
+      "section": "43",
+      "title": "Art. 43",
+      "content": "§ 1. Twórcy należą się bezpłatne egzemplarze autorskie; nie dotyczy to czasopism. § 2. Ilość egzemplarzy autorskich nie może przekroczyć: w pierwszym wydaniu - dwudziestu pięciu a w następnych - dziesięciu. Nie wlicza się ich do nakładu. Przy utworach zbiorowych wydawca może zastąpić egzemplarze autorskie odbitką odpowiedniej części dzieła."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Art. 44",
+      "content": "Wydawca ma prawo wydrukować w każdym wydaniu poza egzemplarzami autorskimi do 350 egzemplarzy obowiązkowych i okazowych, których nie wlicza się do nakładu."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Art. 45",
+      "content": "§ 1. Twórca może w zbiorowym wydaniu swych dzieł umieścić również utwory, o których wydanie zawarł umowę z innym wydawcą. § 2. Prawo wydawcy do zbiorowego wydania utworów jednego twórcy nie obejmuje prawa wydawania oddzielnie poszczególnych utworów. 3. Inne umowy o rozpowszechnianie utworów"
+    },
+    {
+      "provision_ref": "art46",
+      "section": "46",
+      "title": "Art. 46",
+      "content": "§ 1. Do umowy o publiczne wystawienie utworu scenicznego lub o publiczne wykonanie dzieła muzycznego albo słownego stosuje się odpowiednio przepisy art. 35 do 38 oraz art. 40 § 1. § 2. W braku odmiennej umowy lub przepisu szczególnego wynagrodzenie twórcy płatne jest przy zawarciu umowy, a jeżeli twórca ma dostarczyć tekst - przy dostarczeniu go; jeżeli wynagrodzenie oblicza się w stosunku do wpływów, należy je wypłacać po każdym zamknięciu kasowym."
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Art. 47",
+      "content": "Twórca może odstąpić od umowy, jeżeli wystawienie utworu następuje w rażąco nieodpowiedniej formie albo ze zmianami, którym twórca mógłby się słusznie sprzeciwić."
+    },
+    {
+      "provision_ref": "art48",
+      "section": "48",
+      "title": "Art. 48",
+      "content": "Zezwolenie twórcy na przeniesienie jego utworu na przyrządy mechaniczne nie uprawnia w braku odmiennej umowy do odpłatnego publicznego wykonywania utworu."
+    },
+    {
+      "provision_ref": "art49",
+      "section": "49",
+      "title": "Art. 49",
+      "content": "Zezwolenie na przeniesienie utworu na film kinematograficzny uprawnia w braku odmiennej umowy do publicznego wyświetlania filmu."
+    },
+    {
+      "provision_ref": "art50",
+      "section": "50",
+      "title": "Art. 50",
+      "content": "Posiadacze głośników lub innych podobnych urządzeń mają prawo bez osobnego wynagrodzenia dla twórcy używać tych urządzeń do odbioru dzieła, rozpowszechniania go za pomocą radiofonii lub radiowizji i fonii oraz wizji przewodowej, chociażby urządzenia te były umieszczone w miejscu publicznym."
+    },
+    {
+      "provision_ref": "art51",
+      "section": "51",
+      "title": "Art. 51",
+      "content": "§ 1. Nabycie nie wydanych planów architektonicznych obejmuje prawo zastosowania ich tylko do jednej budowli. § 2. Ograniczenia tego nie stosuje się w braku odmiennej umowy w przypadku nabycia planów architektonicznych przez jednostki gospodarki uspołecznionej, którym przysługuje prawo wykorzystania nabytych planów w sposób przez te jednostki określony. Rozdział 6 Ochrona autorskich dóbr osobistych"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Art. 52",
+      "content": "Naruszenia autorskich dóbr osobistych dopuszcza się, kto: 1) przywłaszcza sobie autorstwo, nazwisko lub pseudonim twórcy, 2) pomija nazwisko twórcy przy wydaniu lub odtworzeniu utworu, 3) wbrew woli twórcy umieszcza jego nazwisko na utworze lub w inny sposób ujawnia autorstwo, 4) nie podaje w swoim utworze twórcy lub źródła, z którego zaczerpnął treść lub wyjątki, albo podaje fałszywie autora lub źródło, 5) publikuje dzieło nie przeznaczone przez twórcę do publikacji, 6) wprowadza w utworze zmiany, dodatki lub skróty które zniekształcają treść lub formę albo pomniejszają wartość utworu, 7) działa w inny sposób z ujmą dla autorskich dóbr osobistych twórcy."
+    },
+    {
+      "provision_ref": "art53",
+      "section": "53",
+      "title": "Art. 53",
+      "content": "§ 1. Twórca, którego autorskie dobra osobiste zostały naruszone, może żądać zaniechania tego naruszenia, usunięcia jego skutków oraz publicznego odwołania lub innego publicznego oświadczenia albo ogłoszenia wyroku w czasopismach. § 2. Po śmierci twórcy, jeżeli nie wyraził on innej woli, z powództwem o ochronę autorskich dóbr osobistych mogą wystąpić: małżonek, rodzice, dzieci lub rodzeństwo twórcy."
+    },
+    {
+      "provision_ref": "art54",
+      "section": "54",
+      "title": "Art. 54",
+      "content": "Z powództwem o ochronę autorskich dóbr osobistych twórcy może również wystąpić stowarzyszenie twórców właściwe ze względu na rodzaj twórczości."
+    },
+    {
+      "provision_ref": "art55",
+      "section": "55",
+      "title": "Art. 55",
+      "content": "Przepisy art. 53 stosuje się odpowiednio do rozpowszechniania portretu bez zezwolenia portretowanego i do wydania listów bez wymaganego zezwolenia. Rozdział 7 Ochrona majątkowych praw autorskich"
+    },
+    {
+      "provision_ref": "art56",
+      "section": "56",
+      "title": "Art. 56",
+      "content": "Twórca lub jego następca prawny może żądać od naruszającego jego autorskie prawa majątkowe, by zaniechał naruszenia, wydał uzyskane korzyści i w razie winy wynagrodził szkodę."
+    },
+    {
+      "provision_ref": "art57",
+      "section": "57",
+      "title": "Art. 57",
+      "content": "Przy dziełach architektury nie wolno wstrzymać rozpoczętej budowy; pokrzywdzony może jednak dochodzić innych roszczeń."
+    },
+    {
+      "provision_ref": "art58",
+      "section": "58",
+      "title": "Art. 58",
+      "content": "§ 1. Dla dochodzenia roszczeń pieniężnych niedopuszczalna jest egzekucja z prawa autorskiego, dopóki służy ono twórcy. Nie dotyczy to egzekucji z wierzytelności, przypadających z tytułu wynagrodzenia autorskiego. § 2. Po śmierci twórcy spadkobiercy mogą sprzeciwić się egzekucji z prawa autorskiego do utworu jeszcze nie opublikowanego, chyba że sprzeciw byłby niezgodny z ujawnioną wolą twórcy w sprawie opublikowania utworu. § 3. Przepisy §§ 1 i 2 stosuje się również do planów, stereotypów, kamieni, form, negatywów oraz innych przedmiotów, należących do twórcy i służących jedynie do wykonania jego prawa autorskiego. Rozdział 8. Przepisy karne"
+    },
+    {
+      "provision_ref": "art59",
+      "section": "59",
+      "title": "Art. 59",
+      "content": "§ 1. Kto przywłaszcza sobie cudze autorstwo, podlega karze aresztu do lat dwóch i grzywny do 50.000 zł albo jednej z tych kar. § 2. Kto w inny sposób narusza cudze prawo autorskie w celu osiągnięcia korzyści materialnej lub osobistej, podlega karze aresztu do jednego roku i grzywny do 30.000 zł lub jednej z tych kar. § 3. W przypadkach określonych w § 2 ściganie odbywa się z oskarżenia prywatnego."
+    },
+    {
+      "provision_ref": "art60",
+      "section": "60",
+      "title": "Art. 60",
+      "content": "W sprawach o przestępstwa przeciw prawom autorskim sąd może na żądanie pokrzywdzonego zarządzić ogłoszenie wyroku na koszt skazanego. Rozdział 9 Przepisy przejściowe i końcowe"
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Art. 61",
+      "content": "Przepisy niniejszej ustawy stosuje się także do praw autorskich istniejących w dniu jej wejścia w życie."
+    },
+    {
+      "provision_ref": "art62",
+      "section": "62",
+      "title": "Art. 62",
+      "content": "Umowy o przeniesienie autorskich praw majątkowych zawarte przed dniem wejścia w życie ustawy ocenia się według przepisów dotychczasowych z zastrzeżeniem określonym w artykule następnym."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Art. 63",
+      "content": "§ 1. Umowy o przeniesienie autorskich praw majątkowych zawarte przed dniem 22 lipca 1944 r. ulegają z mocy prawa rozwiązaniu, a objęte nimi autorskie prawa majątkowe powracają do twórców lub ich zastępców prawnych. Twórcy nie mają obowiązku zwrotu kwot otrzymanych z tytułu wynagrodzeń autorskich i zachowują prawo do żądania należności przypadających z tytułu wynagrodzeń autorskich za utwory wykorzystane przez nabywców. § 2. Jeżeli jednostka gospodarki uspołecznionej jest nabywcą autorskiego prawa majątkowego, może ona ukończyć i rozpowszechniać rozpoczęte druki, reprodukcje i przeróbki na instrumenty mechaniczne oraz ukończyć budowy, o ile zostały rozpoczęte przed dniem wejścia ustawy w życie."
+    },
+    {
+      "provision_ref": "art64",
+      "section": "64",
+      "title": "Art. 64",
+      "content": "Przepisy niniejszej ustawy nie naruszają praw autorskich, wynikających z umów międzynarodowych."
+    },
+    {
+      "provision_ref": "art65",
+      "section": "65",
+      "title": "Art. 65",
+      "content": "Traci moc ustawa z dnia 29 marca 1926 r. o prawie autorskim ( Dz. U. z 1935 r. Nr 36, poz. 260 ) ."
+    },
+    {
+      "provision_ref": "art66",
+      "section": "66",
+      "title": "Art. 66",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów i wszystkim ministrom."
+    },
+    {
+      "provision_ref": "art67",
+      "section": "67",
+      "title": "Art. 67",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"chpt_1\",\"symbol\": \"chpt_1\",\"type\": \"chpt\",\"name\": \"1\",\"title\": \"Rozdział 1 - Przedmiot prawa autorskiego\",\"children\": [{\"id\": \"chpt_1-arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"chpt_1-arti_1-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-arti_1-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\",\"children\": [{\"id\": \"chpt_1-arti_1-para_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_1-para_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_1-para_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_1-para_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"chpt_1-arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"chpt_1-arti_2-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-arti_2-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-arti_2-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_1-arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"chpt_1-arti_3-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_1-arti_3-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_1-arti_3-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"chpt_1-arti_3-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"chpt_1-arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"chpt_1-arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"chpt_1-arti_5-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_5-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_5-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_5-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_1-arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"chpt_1-arti_6-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_1-arti_6-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_1-arti_6-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_1-arti_6-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]}]},{\"id\": \"chpt_2\",\"symbol\": \"chpt_2\",\"type\": \"chpt\",\"name\": \"2\",\"title\": \"Rozdział 2 - Podmiot prawa autorskiego\",\"children\": [{\"id\": \"chpt_2-arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"chpt_2-arti_7-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-arti_7-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_2-arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"chpt_2-arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"chpt_2-arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"chpt_2-arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\",\"children\": [{\"id\": \"chpt_2-arti_11-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-arti_11-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_2-arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"chpt_2-arti_12-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"chpt_2-arti_12-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_2-arti_12-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_2-arti_12-para_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_2-arti_12-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_2-arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"chpt_2-arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\",\"children\": [{\"id\": \"chpt_2-arti_14-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_2-arti_14-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"chpt_3\",\"symbol\": \"chpt_3\",\"type\": \"chpt\",\"name\": \"3\",\"title\": \"Rozdział 3 - Treść prawa autorskiego\",\"children\": [{\"id\": \"chpt_3-arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"chpt_3-arti_15-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_15-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_15-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"chpt_3-arti_16-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\",\"children\": [{\"id\": \"chpt_3-arti_16-para_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_16-para_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"chpt_3-arti_16-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_3-arti_16-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"},{\"id\": \"chpt_3-arti_16-para_4\",\"symbol\": \"para_4\",\"type\": \"para\",\"name\": \"4\",\"title\": \"§ 4.\"}]},{\"id\": \"chpt_3-arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\"},{\"id\": \"chpt_3-arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\",\"children\": [{\"id\": \"chpt_3-arti_18-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_18-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_18-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_18-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_18-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_18-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_18-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"chpt_3-arti_18-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"chpt_3-arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"chpt_3-arti_19-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_19-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_19-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_3-arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\",\"children\": [{\"id\": \"chpt_3-arti_20-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_20-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_3-arti_20-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_3-arti_20-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"chpt_3-arti_20-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"chpt_3-arti_20-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"chpt_3-arti_20-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"}]},{\"id\": \"chpt_3-arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\",\"children\": [{\"id\": \"chpt_3-arti_21-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_3-arti_21-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"},{\"id\": \"chpt_3-arti_21-para_3\",\"symbol\": \"para_3\",\"type\": \"para\",\"name\": \"3\",\"title\": \"§ 3.\"}]},{\"id\": \"chpt_3-arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"},{\"id\": \"chpt_3-arti_23\",\"symbol\": \"arti_23\",\"type\": \"arti\",\"name\": \"23\",\"title\": \"Art. 23.\"},{\"id\": \"chpt_3-arti_24\",\"symbol\": \"arti_24\",\"type\": \"arti\",\"name\": \"24\",\"title\": \"Art. 24.\",\"children\": [{\"id\": \"chpt_3-arti_24-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_3-arti_24-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\",\"children\": [{\"id\": \"chpt_3-arti_24-para_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_3-arti_24-para_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]}]},{\"id\": \"chpt_3-arti_25\",\"symbol\": \"arti_25\",\"type\": \"arti\",\"name\": \"25\",\"title\": \"Art. 25.\",\"children\": [{\"id\": \"chpt_3-arti_25-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_3-arti_25-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"chpt_4\",\"symbol\": \"chpt_4\",\"type\": \"chpt\",\"name\": \"4\",\"title\": \"Rozdział 4 - Czas trwania autorskich praw majątkowych\",\"children\": [{\"id\": \"chpt_4-arti_26\",\"symbol\": \"arti_26\",\"type\": \"arti\",\"name\": \"26\",\"title\": \"Art. 26.\",\"children\": [{\"id\": \"chpt_4-arti_26-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_26-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_26-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"chpt_4-arti_27\",\"symbol\": \"arti_27\",\"type\": \"arti\",\"name\": \"27\",\"title\": \"Art. 27.\",\"children\": [{\"id\": \"chpt_4-arti_27-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"chpt_4-arti_27-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"chpt_4-arti_27-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"chpt_4-arti_27-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"chpt_4-arti_28\",\"symbol\": \"arti_28\",\"type\": \"arti\",\"name\": \"28\",\"title\": \"Art. 28.\"},{\"id\": \"chpt_4-arti_29\",\"symbol\": \"arti_29\",\"type\": \"arti\",\"name\": \"29\",\"title\": \"Art. 29.\"}]},{\"id\": \"chpt_5\",\"symbol\": \"chpt_5\",\"type\": \"chpt\",\"name\": \"5\",\"title\": \"Rozdział 5 - Przejście autorskich praw majątkowych\",\"children\": [{\"id\": \"chpt_5-none_1\",\"symbol\": \"none_1\",\"type\": \"none\",\"name\": \"1\",\"title\": \"1. - Przepisy ogólne\",\"children\": [{\"id\": \"chpt_5-none_1-arti_30\",\"symbol\": \"arti_30\",\"type\": \"arti\",\"name\": \"30\",\"title\": \"Art. 30.\",\"children\": [{\"id\": \"chpt_5-none_1-arti_30-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_5-none_1-arti_30-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]},{\"id\": \"chpt_5-none_1-arti_31\",\"symbol\": \"arti_31\",\"type\": \"arti\",\"name\": \"31\",\"title\": \"Art. 31.\"},{\"id\": \"chpt_5-none_1-arti_32\",\"symbol\": \"arti_32\",\"type\": \"arti\",\"name\": \"32\",\"title\": \"Art. 32.\"},{\"id\": \"chpt_5-none_1-arti_33\",\"symbol\": \"arti_33\",\"type\": \"arti\",\"name\": \"33\",\"title\": \"Art. 33.\",\"children\": [{\"id\": \"chpt_5-none_1-arti_33-para_1\",\"symbol\": \"para_1\",\"type\": \"para\",\"name\": \"1\",\"title\": \"§ 1.\"},{\"id\": \"chpt_5-none_1-arti_33-para_2\",\"symbol\": \"para_2\",\"type\": \"para\",\"name\": \"2\",\"title\": \"§ 2.\"}]}]},{\"id\": \"chpt_5-none_2\",\"symbol\": \"none_2\",\"type\": \"none\",\"name\": \"2\",\"title\": \"2. - Umowa wydawnicza\",\"children\": [{\"id\": \"chpt_5-none_2-arti_34\",\"symbol\": \"arti_34\",\"type\": \"arti\",\"name\": \"34\",\"title\": \"Art. 34.\"},{\"id\": \"chpt_5-non"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2018-914",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 marca 2018 r. o zmianie ustawy o kosztach sądowych w sprawach cywilnych",
+  "title_en": "",
+  "short_name": "pl-du-2018-914",
+  "status": "amended",
+  "issued_date": "2018-03-22",
+  "in_force_date": "2018-05-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2018/914",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ( Dz. U. z 2018 r. poz. 300 , 398 i 770 ) w art. 95 po ust. 1a dodaje się ust. 1b-1d w brzmieniu: „ 1b. Nie pobiera się opłat od pozwu o ochronę dóbr osobistych, gdy sprawa dotyczy patriotycznych tradycji zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem, wniesionego przez kombatanta w rozumieniu art. 1 ust. 1 ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego ( Dz. U. z 2018 r. poz. 276 ) lub jego zstępnego, a także osobę prawną lub jednostkę organizacyjną niebędącą osobą prawną, której ustawa przyznaje zdolność prawną, których statutowym celem jest ochrona patriotycznych tradycji zmagań Narodu Polskiego z okupantami, nazizmem i komunizmem. 1c. Nie pobiera się opłat od pozwu o roszczenie majątkowe z tytułu zbrodni ludobójstwa, zbrodni przeciwko ludzkości, zbrodni wojennej lub zbrodni agresji. 1d. Nie pobiera się opłat od pozwu o ochronę dobrego imienia Rzeczypospolitej Polskiej lub Narodu Polskiego, o którym mowa w art. 53o i art. 53p ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu ( Dz. U. z 2016 r. poz. 1575 oraz z 2018 r. poz. 5 i 369 ) . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

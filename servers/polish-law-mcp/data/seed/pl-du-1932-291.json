@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1932-291",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1932 r. o spłacie zaległości podatkowych.",
+  "title_en": "",
+  "short_name": "pl-du-1932-291",
+  "status": "in_force",
+  "issued_date": "1932-03-10",
+  "in_force_date": "1932-04-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1932/291",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1) Upoważnia się Ministra Skarbu: a) do odraczania i rozkładania na raty oraz do umarzania w części lub w całości zaległości w następujących państwowych podatkach z dodatkami państwowemi i samorządowemi: gruntowym, od nieruchomości, przemysłowym, dochodowym, majątkowym, od kapitałów i rent, od spadków i darowizn oraz w podatku od lokali, b) do obniżania oraz umarzania kar za zwłokę, odsetek za odroczenie, kosztów egzekucyjnych oraz grzywien, nakładanych przez władze podatkowe od należności, wymienionych w lit. a), c) do zamiany zaległości podatkowych, wymienionych w lit. a), na zobowiązania, których rodzaj i charakter ustala Minister Skarbu w drodze rozporządzeń, d) do zaliczania na żądanie płatnika na rachunek zaległości podatkowych, wymienionych w lit. a) wszelkiego rodzaju należności, przypadających podatnikom od Skarbu Państwa na warunkach, które określi rozporządzenie Ministra Skarbu. 2) Minister Skarbu władny jest przenosić w drodze rozporządzeń uprawnienia, wynikające zprzepisów lit. a) i b) ustępu poprzedniego na podległe mu władze skarbowe w zakresie i pod warunkami przez siebie określonemi. 3) Rozporządzenia Ministra Skarbu określą bliżej tryb i warunki stosowania ulg, wymienionych w ust. 1 lit. a) i b), oraz ich zakres."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W odniesieniu do samoistnych danin komunalnych, w szczególności do: podatku wyrównawczego dla gmin wiejskich, podatku inwestycyjnego, opłat specjalnych i dopłat drogowych i podatku od kopalń upoważnia się Ministra Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych do odraczania terminu płatności zaległości w tych daninach oraz do rozkładania ich na raty, jak również do obniżania oraz umarzania kar za zwłokę, odsetek za odroczenie oraz kosztów egzekucyjnych. Uprawnienia te mogą być przeniesione na wojewodów w drodze rozporządzenia Ministra Skarbu, wydanego w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W odniesieniu do daniny lasowcj uprawnienia, wymienione w art. 1 lit. a), b), c) i d), służą Ministrowi Robót Publicznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Okresu odroczenia zaległości w podatku gruntowym na podstawie art. 1 ust. 1 lit. a) nie wlicza się do czasokresu, w ciągu którego podatek gruntowy korzysta w myśl obowiązujących przepisów z przywileju pierwszeństwa, z zastrzeżeniem, że okres ten nie przekroczy dwóch lat,"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu w porozumieniu z zainteresowanymi ministrami."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i traci moc obowiązującą w terminie, jaki zostanie określony przez rozporządzenie Rady Ministrów. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

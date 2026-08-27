@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2023-1628",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 lipca 2023 r. o zmianie ustawy o referendum ogólnokrajowym",
+  "title_en": "",
+  "short_name": "pl-du-2023-1628",
+  "status": "amended",
+  "issued_date": "2023-07-07",
+  "in_force_date": "2023-08-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/1628",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 14 marca 2003 r. o referendum ogólnokrajowym ( Dz. U. z 2020 r. poz. 851 oraz z 2023 r. poz. 497 ) wprowadza się następujące zmiany: 1) w art. 26 ust. 2 otrzymuje brzmienie: „ 2. Wyniki głosowania i protokoły głosowania z obwodów utworzonych za granicą oraz na polskich statkach morskich są przekazywane komisarzowi wyborczemu właściwemu dla miasta stołecznego Warszawy. ” ; 2) w art. 35 w ust. 2 wyrazy „o której mowa w § 1” zastępuje się wyrazami „o której mowa w ust. 1” ; 3) w art. 56 w ust. 2 wyrazy „w rozumieniu art. 4 pkt 6” zastępuje się wyrazami „w rozumieniu art. 4 pkt 17” ; 4) w art. 59: a) w ust. 4 wyrazy „Kierownik Krajowego Biura Wyborczego” zastępuje się wyrazami „Szef Krajowego Biura Wyborczego” , b) w ust. 6 wyrazy „Kierownik Krajowego Biura Wyborczego” zastępuje się wyrazami „Szef Krajowego Biura Wyborczego” ; 5) w art. 90: a) w ust. 1 po pkt 1a dodaje się pkt 1b-1e w brzmieniu: „ 1b) informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ; 1c) głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ; 1d) zgłoszenie zamiaru głosowania korespondencyjnego we właściwych wyborach dotyczy również głosowania korespondencyjnego w referendum; 1e) wniosek o sporządzenie aktu pełnomocnictwa do głosowania we właściwych wyborach dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku ze wskazanymi w nim wyborami dotyczy również głosowania w referendum; ” , b) w ust. 1a po pkt 1 dodaje się pkt 1a-1d wbrzmieniu: „ 1a) informacje o numerach i granicach obwodów głosowania oraz siedzibach obwodowych komisji wyborczych podaje się w terminach określonych w ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ; 1b) głosowanie przeprowadza się w godzinach głosowania określonych w ustawie z dnia 5 stycznia 2011 r. - Kodeks wyborczy ; 1c) zgłoszenie zamiaru głosowania korespondencyjnego w wyborach do Parlamentu Europejskiego dotyczy również głosowania korespondencyjnego w referendum; 1d) wniosek o sporządzenie aktu pełnomocnictwa do głosowania w wyborach do Parlamentu Europejskiego dotyczy również referendum, a akt pełnomocnictwa do głosowania sporządzony w związku z wyborami do Parlamentu Europejskiego dotyczy również głosowania w referendum; ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\",\"children\": [{\"id\": \"arti_1-pint_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\",\"children\": [{\"id\": \"arti_1-pint_5-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_5-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

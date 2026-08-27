@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-84",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 października 1921 r. w przedmiocie ratyfikacji polsko-niemieckiej umowy amnestyjnej z dnia 1 października 1919 r. oraz dodatkowej do niej umowy amnestyjnej z dnia 12 lutego 1921 r.",
+  "title_en": "",
+  "short_name": "pl-du-1922-84",
+  "status": "in_force",
+  "issued_date": "1921-10-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/84",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Sejm Rzeczypospolitej Polskiej zatwierdza polsko - niemiecką umowę w sprawie wypuszczenia na wolność osób przytrzymanych i przyznania zupełnej amnestji, podpisaną w Berlinie dnia 1 października 1919 r. wraz z treścią dotyczącej tej umowy wymiany not między pełnomocnikami polskim a niemieckim z daty 1 października 1919 r. oraz dodatkową do powyższej umowę podpisaną w Berlinie dnia 12 lutego 1921 r., z protokułem końcowym tejże daty, jak również treść dokonanej w uzupełnieniu ostatniej umowy wymiany not między pełnomocnikami polskim a niemieckim z daty 28 kwietnia, 10 maja, 21 maja i 25 maja 1921 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Sejm Rzeczypospolitej Polskiej upoważnia Naczelnika Państwa do podpisania ratyfikacji powyższych umów oraz wspomnianego protokułu końcowego ze zmianami, umówionemi w rzeczonej wymianie not."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Spraw Zagranicznych. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

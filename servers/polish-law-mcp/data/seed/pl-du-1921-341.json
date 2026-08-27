@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1921-341",
+  "type": "statute",
+  "title": "Ustawa z dnia 14 czerwca 1921 r. w przedmiocie unormowania podstaw wymiaru państwowego podatku dochodowego i podatku majątkowego na rok podatkowy 1921.",
+  "title_en": "",
+  "short_name": "pl-du-1921-341",
+  "status": "in_force",
+  "issued_date": "1921-06-14",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/341",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Na rok podatkowy 1921 podlegają opodatkowaniu osoby fizyczne, których łączny dochód roczny przekracza w miejscowościach (art. 2 ustawy z dnia 16 lipca 1920 r. Dz. Ust. № 82, poz. 550): a) klasy pierwszej.....8.000 mk. b) ,, drugiej......10.000 ,, c) ,, trzeciej......12.000 ,, d) ,, czwartej....... 14.000 ,, Do klasy pierwszej należą te miejscowości, które, według podziału miejscowości w Państwie Polskiem na klasy dla oznaczenia mnożnika dodatku drożyźnianego do płacy zasadniczej pracowników państwowych, zaliczono do IV i V klasy; do klasy drugiej należą miejscowości, zaliczone do klasy III według powyższego podziału; do klasy trzeciej należą miejscowości zaliczone do klasy II według powyższego podziału, z wyjątkiem miast, liczących ponad 100.000 mieszkańców, które łącznie z Warszawą należą do klasy czwartej podatku dochodowego. Miejscowości, położone na obszarach, przyłączonych do Państwa Polskiego na podstawie traktatu ryskiego, należy zaliczyć do jednej z czterech klas, według tych zasad, które służyły za podstawę dla oznaczenia mnożnika dodatku drożyźnianego."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przy wymiarze podatku od dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę (p. 6 art. 3 powołanej ustawy z dnia 16 lipca 1920 r.), osiągniętych w roku 1920, jak również przy potrąceniach na poczet podatku za odpowiedni rok podatkowy należy wziąć w rachubę: przy dochodzie.....40.000 mk. włącznie tylko 5/10. zaś przy dochodzie ponad 40.000 mk..... 100.000 ,, ,, ,, 6/10 części rzeczywistej wysokości dochodu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wysokość potrącalnych opłat i premji (ustęp 3 i 4 art. 10 powołanej ustawy z dnia 16 lipca 1920 r.) podwyższa się na rok podatkowy 1921 o 100%."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Określone w art. 25, 26 i 28 powołanej ustawy z dnia 16 lipca 1920 r. granice dochodu, uzasadniające zwyżki lub zniżki podatkowe, podwyższa się z kwoty 12.000 mk. do kwoty 24.000 mk., z kwoty 24.000 mk. do kwoty 45000 mk. i z kwoty 36 000 mk. do kwoty 50.000 mk."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Kwoty podatku, przypadającego od uposażeń służbowych osób, wymienionych w pierwszem zdaniu drugiej części art. 75 ustawy, a przez służbodawcę potrącone w roku 1921 na zasadzie art. 89 powołanej ustawy, zalicza się w pełnej sumie jako uiszczenie podatku również na podatek, wymierzony na drugi rok podatkowy."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Minister Skarbu może zarządzić zaniechanie poboru podatku majątkowego na rok podatkowy 1921 w tym wypadku, gdy przypadający podatek majątkowy wynosi mniej niż 105 mk."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od 1 stycznia 1921 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1933-167",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 marca 1933 r. w sprawie zmian w ustawie z dnia 31 lipca 1923 r. o scaleniu gruntów.",
+  "title_en": "",
+  "short_name": "pl-du-1933-167",
+  "status": "in_force",
+  "issued_date": "1933-03-18",
+  "in_force_date": "1933-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/167",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 31 lipca 1923 r. o scaleniu gruntów (Dz. U. R. P. z 1927 r. Nr 92, poz. 833) wprowadza się następujące zmiany i uzupełnienia: 1) Część I art. 12 otrzymuje następujące brzmienie: „ 1) Grunty osad, objętych postępowaniem scaleniowem lub powstałych w wyniku scalenia, wolne są od państwowego podatku gruntowego na przeciąg lat dwóch. Okres ten będzie liczony stosownie do decyzji okręgowego urzędu ziemskiego: a) bądź od daty wyboru lub wyznaczenia rady uczestników scalenia (art. 19-21), b) bądź od daty zatwierdzenia rzeczywistego stanu posiadania (art. 31 i 32), c) bądź od daty zatwierdzenia projektu scalenia (art. 25) ” . 2) Dodaje się cz. 3 art. 12 w brzmieniu: „ 3) Zwolnienie od podatków, przewidziane w cz. I, nie przysługuje uczestnikom scalenia zaniechanego (art. 39). W razie uprzedniego zastosowania zwolnienia od podatków uczestnicy scalenia obowiązani są uiścić w czterech ratach półrocznych podatki za okres zwolnienia ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Rolnictwa i Reform Rolnych i Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Ministra Rolnictwa i Reform Rolnych do ogłoszenia jednolitego tekstu ustawy z dnia 31 lipca 1923 r. o scaleniu gruntów z uwzględnieniem zmian, wynikających z ustawy niniejszej."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1933 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

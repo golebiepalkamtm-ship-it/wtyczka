@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2016-2100",
+  "type": "statute",
+  "title": "Ustawa z dnia 15 grudnia 2016 r. o zmianie ustawy budżetowej na rok 2016",
+  "title_en": "",
+  "short_name": "pl-du-2016-2100",
+  "status": "repealed",
+  "issued_date": "2016-12-15",
+  "in_force_date": "2016-12-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2016/2100",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie budżetowej na rok 2016 z dnia 25 lutego 2016 r. ( Dz. U. poz. 278 i 1759 ) po art. 29 dodaje się art. 29a w brzmieniu: „ Art. 29a. Minister Finansów może utworzyć rezerwy celowe z kwoty wydatków zablokowanych na podstawie art. 177 ust. 1 pkt 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych z przeznaczeniem na: 1) zakup dóbr kultury, w tym zabytków, oraz praw do dóbr kultury, o szczególnym znaczeniu dla Państwa Polskiego i dziedzictwa kulturowego; 2) dotację celową dla Agencji Rezerw Materiałowych na realizację zadań związanych z rezerwami strategicznymi; 3) dotację celową dla Funduszu Restrukturyzacji Przedsiębiorców na realizację ustawowych zadań Funduszu. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

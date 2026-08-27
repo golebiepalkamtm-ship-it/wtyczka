@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1935-128",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1935 r. o zmianie ustawy z dnia 22 października 1931 r. o kryzysowym dodatku do państwowego podatku dochodowego.",
+  "title_en": "",
+  "short_name": "pl-du-1935-128",
+  "status": "repealed",
+  "issued_date": "1935-03-26",
+  "in_force_date": "1935-03-30",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/128",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 22 października 1931 r. o kryzysowym dodatku do państwowego podatku dochodowego (Dz. U. R. P. Nr. 99, poz. 760) wprowadza się zmiany następujące: 1. W art. 1 dodaje się po ustępie (2) ustęp nowy treści następującej: „ Gdyby na podstawie ulg, przyznanych w art. 27 i 29 ustawy o państwowym podatku dochodowym, wypadło zmniejszyć stopę podatku poniżej pierwszego stopnia, następuje zupełne zwolnienie od dodatku. ” ; 2. art. 2 ust. (1) otrzymuje brzmienie następujące. „ Od dochodów, opodatkowanych według działu II ustawy o państwowym podatku dochodowym, ustanawia się nadzwyczajny dodatek do państwowego podatku dochodowego, który wynosi przy wynagrodzeniu, obliczonem w stosunku rocznym: ponad 2.500 zł do 3.600 zł - 0,5% 3 600 ,, ,, 6.400 ,, - 1% 6 400 ,, ,, 10.400 ,, - 2% 10 400 ,, ,, 24.000 ,, - 3% 24 000 ,, ,, 36.000 ,, - 4% 36 000 ,, ,, 60.000 ,, - 5% 60 000 ,, ,, 80.000 ,, -6% 80 000 ,, ,, 104.000 ,, - 7% 104 000 ,, ,, 144.000 ,, - 8% 144 000 ,, ,, 184.000 ,, - 9% 184 000 ,, ,, 200.000 ,, -10% ,, 200.000 ,, ,, 220.000 ,, -11% ,, 220.000 ,, ,, 250.000 ,, -12% 250 000 ,, ,, - ,, -13% wypłacanego wynagrodzenia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Upoważnia się Ministra Skarbu do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu ustawy z dnia 22 października 1931 r. o kryzysowym dodatku do państwowego podatku dochodowego z uwzględnieniem zmian, wprowadzonych do czasu ogłoszenia tego tekstu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z tern, że a) postanowienia art. 1 pkt. 1) mają zastosowanie po raz pierwszy przy wymiarze podatku dochodowego na rok podatkowy 1935, b) dodatek w wysokości, określonej w art. 1 pkt. 2), pobiera się od uposażeń służbowych, emerytur i rent i wynagrodzeń za najemną pracę, wypłacanych począwszy od dnia 1 kwietnia 1935 r. lub po tym dniu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_4-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,146 @@
+{
+  "id": "pl-du-1958-37",
+  "type": "statute",
+  "title": "Ustawa z dnia 25 lutego 1958 r. o uregulowaniu stanu prawnego mienia pozostającego pod zarządem państwowym.",
+  "title_en": "",
+  "short_name": "pl-du-1958-37",
+  "status": "in_force",
+  "issued_date": "1958-02-25",
+  "in_force_date": "1958-03-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1958/37",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Uchyla się dekret z 16 grudnia 1918 r. w przedmiocie przymusowego zarządu państwowego ( Dz. Pr. P. P. Nr 21, poz. 67 z późniejszymi zmianami ) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przedsiębiorstwa pozostające w dniu wejścia w życie niniejszej ustawy pod zarządem państwowym ustanowionym na podstawie dekretu, o którym mowa w art. 1 (zwane w dalszym ciągu „przedsiębiorstwami”), przechodzą z mocy prawa na własność Państwa, chyba że nastąpi ich zwrot w trybie określonym w niniejszej ustawie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Podlegają zwrotowi na rzecz właścicieli przedsiębiorstwa nieczynne w dniu wejścia w życie ustawy, o ile nie są przeznaczone do uruchomienia."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W wyjątkowych przypadkach mogą być zwrócone właścicielom drobne przedsiębiorstwa wprawdzie czynne, ale których dalsze prowadzenie przez jednostki gospodarki uspołecznionej jest gospodarczo niecelowe ze względu na niemożność należytego wykorzystania albo rodzaj produkcji lub usług, wykonywanych przy pomocy prostych narzędzi."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Zwrot przedsiębiorstw nieczynnych (art. 3) następuje na podstawie decyzji właściwego ministra, wydanej na wniosek właściciela, zgłoszony prezydium właściwej wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa). 2. Na podstawie art. 4 może zwrot przedsiębiorstwa zarządzić właściwy minister na wniosek prezydium właściwej wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa), zgłoszony za zgodą właściciela."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Nie może nastąpić zwrot przedsiębiorstwa, którego wartość na skutek poczynionych trwałych nakładów wzrosła o ponad 25% w stosunku do wartości w dniu ustanowienia zarządu państwowego."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Wnioski przewidziane w art. 5 powinny być złożone właściwym ministrom w zawitym terminie do dnia 31 maja 1958 r. 2. Wnioski powinny być rozpatrzone i zaopiniowane przez komisje powołane przez ministrów. W skład komisji powinni wchodzić przedstawiciele prezydiów wojewódzkich rad narodowych (rad narodowych miast wyłączonych z województw), właściwych organizacji gospodarczych i branżowych związków zawodowych. 3. Decyzja ministra powinna być wydana nie później niż w ciągu sześciu miesięcy od daty złożenia wniosku. Decyzja nie uwzględniająca wniosku w całości lub w części powinna zawierać uzasadnienie. 4. Decyzje dotyczące przedsiębiorstw stanowiących własność obywateli państw obcych wydawane będą w porozumieniu z Ministrem Spraw Zagranicznych."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Właścicielowi nie przysługuje prawo do odszkodowania za obniżenie wartości lub za ubytek majątku przedsiębiorstwa, zwróconego mu na podstawie art. 3 lub 4, chyba że obniżenie wartości lub ubytek majątku nastąpiły po dniu wejścia w życie niniejszej ustawy. 2. Właściciel wolny jest od obowiązku zwrotu wartości nakładów zwiększających wartość zwróconego przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Przejście przedsiębiorstwa na własność Państwa następuje bez odszkodowania, w stanie wolnym od obciążeń i zobowiązań powstałych przed objęciem przedsiębiorstwa z wyjątkiem służebności gruntowych oraz zobowiązań mających swoje źródło w stosunku pracy lub odpowiedzialności za czyny niedozwolone. 2. Podstawą do ujawnienia w księgach wieczystych, w rejestrach handlowych i innych rejestrach publicznych przejścia na własność Państwa przedsiębiorstwa oraz praw rzeczowych, stanowiących składnik majątkowy przejętego przedsiębiorstwa, jest orzeczenie ministra stwierdzające przejście przedsiębiorstwa na własność Państwa."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Właścicielom przedsiębiorstw nie przysługuje roszczenie o odszkodowanie za korzystanie, zużycie lub zniszczenie tych obiektów przez państwowe jednostki organizacyjne lub inne jednostki sprawujące zarząd przymusowy nad przedsiębiorstwem."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Zobowiązania podatkowe oraz wszelkie inne zobowiązania właścicieli przedsiębiorstw wobec Skarbu Państwa i państwowych jednostek organizacyjnych, mające związek z tymi obiektami, podlegają z mocy prawa umorzeniu z dniem wejścia w życie ustawy. Należności już uiszczone nie podlegają zwrotowi."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "1. Właścicielom, których przedsiębiorstwo zostało przejęte na własność Państwa, przysługuje prawo do renty inwalidzkiej przewidzianej w przepisach o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin - dla pracowników, którzy stali się inwalidami z innych przyczyn niż wypadek w zatrudnieniu lub choroba zawodowa, jeżeli bądź osiągnęli wiek starczy przewidziany dla pracowników II kategorii zatrudnienia, bądź są inwalidami, przy czym nie posiadają niezbędnych środków utrzymania, a przejęte przedsiębiorstwo stanowiło podstawę ich utrzymania. 2. Członkom rodziny pozostałym po osobach wymienionych w ust. 1 przysługuje prawo do renty rodzinnej, przewidzianej w przepisach, o których mowa w ust. 1, dla członków rodziny po pracowniku zmarłym z innych przyczyn niż wypadek w zatrudnieniu lub choroba zawodowa, jeżeli spełniają warunki do renty rodzinnej przewidzianej w tych przepisach i nie posiadają niezbędnych środków utrzymania, a przejęte przedsiębiorstwo stanowiło podstawę utrzymania ich żywiciela. 3. Podstawę wymiaru renty określi Rada Ministrów na wniosek Ministra Pracy i Opieki Społecznej. 4. Szczegółowe przepisy co do zasad przyznawania, ustalania wymiaru i wypłaty rent oraz trybu postępowania określi w drodze rozporządzenia Minister Pracy i Opieki Społecznej w ciągu miesiąca od dnia wejścia w życie ustawy. 5. Z upływem terminu określonego w art. 7 ust. 1 wstrzymuje się wypłatę wszelkiego rodzaju świadczeń wypłacanych właścicielom przedsiębiorstw przez zarządców państwowych przed dniem wejścia w życie niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Sprawy o zwrot przedsiębiorstw oraz o odszkodowanie określone w art. 10 nie podlegają rozpoznaniu w drodze sądowej. Postępowanie sądowe i egzekucyjne w tych sprawach ulega umorzeniu z mocy prawa."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Przepisy art. 8, 10, 11 i 13 ustawy stosuje się odpowiednio do przypadków uchylenia zarządu państwowego przed dniem wejścia jej w życie."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Art. 15",
+      "content": "1. Domniemywa się, że właścicielem przedsiębiorstwa jest osoba, która prowadziła je we własnym imieniu przed ustanowieniem zarządu państwowego. 2. Jeżeli właścicielem jest nieznany lub nieobecny, z przysługujących mu uprawnień określonych w niniejszej ustawie może korzystać osoba, która była posiadaczem przedsiębiorstwa."
+    },
+    {
+      "provision_ref": "art16",
+      "section": "16",
+      "title": "Art. 16",
+      "content": "1. Ministrami właściwymi w rozumieniu ustawy są: 1) w zakresie przedsiębiorstw pozostających pod zarządem państwowym jednostek państwowych - minister, któremu podlega dana jednostka lub który sprawuje nad nią zwierzchni nadzór, 2) w zakresie przedsiębiorstw pozostających pod zarządem państwowym sprawowanym przez jednostki niepaństwowe: a) w dziedzinie obrotu towarowego i produkcji piekarniczej - Minister Handlu Wewnętrznego, b) w dziedzinie usług komunalnych oraz hoteli i pensjonatów - Minister Gospodarki Komunalnej, c) w pozostałych dziedzinach - Minister Przemysłu Drobnego i Rzemiosła. 2. Decyzje ministrów, których właściwość określona została w ust. 1 pkt 2, podlegają uzgodnieniu z właściwymi centralnymi organizacjami jednostek sprawujących zarząd przymusowy."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Art. 17",
+      "content": "Postanowienia niniejszej ustawy stosuje się również do: 1) zakładów elektrycznych, objętych w zarząd na podstawie art. 6 i 7 ustawy z dnia 4 lipca 1947 r. o planowej gospodarce energetycznej ( Dz. U. Nr 52, poz. 271 ) , 2) a) przedsiębiorstw, b) innego mienia, których władanie osoby uprawnione utraciły w okresie do dnia 31 grudnia 1954 r. i które pozostają w faktycznym władaniu państwowych jednostek organizacyjnych, chyba że to władanie opiera się na tytule prawnym wynikającym z przepisów szczególnych innych, aniżeli wymienione w art. 1 lub pkt 1 niniejszego artykułu."
+    },
+    {
+      "provision_ref": "art18",
+      "section": "18",
+      "title": "Art. 18",
+      "content": "Mienie, o którym mowa w art. 17 pkt 2 lit. b), podlega zwrotowi na rzecz właściciela w trybie określonym w art. 5 ust. 1 oraz art. 7. Nie podlegają zwrotowi maszyny, urządzenia produkcyjne oraz inne mienie ruchome, jak również nieruchomości lub ich części, które zostały trwale włączone do czynnych przedsiębiorstw albo są niezbędne dla zaspokojenia społecznych potrzeb socjalnych i kulturalnych."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Art. 19",
+      "content": "1. W przypadku przejścia na własność Państwa na podstawie niniejszej ustawy domu jednorodzinnego, działki budowlanej albo innego mienia stanowiącego własność osobistą (art. 18) właścicielowi przysługuje prawo do odszkodowania. 2. Odszkodowanie, o którym mowa w ust. 1, przypadające za nieruchomości ustala prezydium wojewódzkiej rady narodowej przy odpowiednim zastosowaniu zasad i trybu obowiązującego przy wywłaszczaniu nieruchomości, odszkodowanie zaś za ruchomości ustala minister według cen rynkowych. Podstawę do ustalenia wysokości odszkodowania stanowi wartość mienia według stanu z dnia wejścia w życie niniejszej ustawy, bez uwzględnienia jednak wzrostu wartości spowodowanego trwałymi nakładami, poczynionymi po utracie przez osobę uprawnioną władania obiektem. Odszkodowanie za przejętą działkę budowlaną ustala się za powierzchnię rzeczywistą działki, jednak nie powyżej norm powierzchni przewidzianych dla działek sprzedawanych przez Państwo pod budowę domu jednorodzinnego."
+    },
+    {
+      "provision_ref": "art20",
+      "section": "20",
+      "title": "Art. 20",
+      "content": "Przepisy ustawy dotyczące ministrów stosuje się odpowiednio do kierowników urzędów centralnych."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Art. 21",
+      "content": "Tracą moc przepisy art. 6, 7, 8, 9 i 10 ustawy z dnia 4 lipca 1947 r. o planowej gospodarce energetycznej ( Dz. U. Nr 52, poz. 271 ) w zakresie uregulowanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Art. 22",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\",\"children\": [{\"id\": \"arti_12-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_12-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_12-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_12-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"},{\"id\": \"arti_12-pass_5\",\"symbol\": \"pass_5\",\"type\": \"pass\",\"name\": \"5\",\"title\": \"5.\"}]},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"},{\"id\": \"arti_15\",\"symbol\": \"arti_15\",\"type\": \"arti\",\"name\": \"15\",\"title\": \"Art. 15.\",\"children\": [{\"id\": \"arti_15-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_15-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_16\",\"symbol\": \"arti_16\",\"type\": \"arti\",\"name\": \"16\",\"title\": \"Art. 16.\",\"children\": [{\"id\": \"arti_16-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_16-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_16-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_16-pass_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_16-pass_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_16-pass_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"}]}]},{\"id\": \"arti_16-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_17\",\"symbol\": \"arti_17\",\"type\": \"arti\",\"name\": \"17\",\"title\": \"Art. 17.\",\"children\": [{\"id\": \"arti_17-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_17-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_17-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_17-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]},{\"id\": \"arti_18\",\"symbol\": \"arti_18\",\"type\": \"arti\",\"name\": \"18\",\"title\": \"Art. 18.\"},{\"id\": \"arti_19\",\"symbol\": \"arti_19\",\"type\": \"arti\",\"name\": \"19\",\"title\": \"Art. 19.\",\"children\": [{\"id\": \"arti_19-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_19-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_20\",\"symbol\": \"arti_20\",\"type\": \"arti\",\"name\": \"20\",\"title\": \"Art. 20.\"},{\"id\": \"arti_21\",\"symbol\": \"arti_21\",\"type\": \"arti\",\"name\": \"21\",\"title\": \"Art. 21.\"},{\"id\": \"arti_22\",\"symbol\": \"arti_22\",\"type\": \"arti\",\"name\": \"22\",\"title\": \"Art. 22.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

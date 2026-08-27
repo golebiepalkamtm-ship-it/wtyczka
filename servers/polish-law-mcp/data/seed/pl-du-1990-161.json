@@ -1,0 +1,56 @@
+{
+  "id": "pl-du-1990-161",
+  "type": "statute",
+  "title": "Ustawa z dnia 11 kwietnia 1990 r. o szczególnych zasadach przeprowadzenia na obszarze województwa lubelskiego wyborów uzupełniających do Senatu Rzeczypospolitej Polskiej, zarządzonych na dzień 27 maja 1990 r.",
+  "title_en": "",
+  "short_name": "pl-du-1990-161",
+  "status": "repealed",
+  "issued_date": "1990-04-11",
+  "in_force_date": "1990-04-28",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/161",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W wyborach uzupełniających do Senatu Rzeczypospolitej Polskiej na obszarze województwa lubelskiego, zarządzonych na dzień 27 maja 1990 r., stosuje się przy odpowiednim zastosowaniu przepisy ustawy z dnia 7 kwietnia 1989 r. - Ordynacja wyborcza do Sejmu Polskiej Rzeczypospolitej Ludowej X kadencji, na lata 1989-1993 ( Dz. U. Nr 19, poz. 102 i Nr 36, poz. 198 ) ze zmianami wynikającymi z niniejszej ustawy."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W wyborach uzupełniających, o których mowa w art. 1, głosowanie przeprowadza się w obwodach głosowania utworzonych dla wyborów do rad gmin. 2. Przepis ust. 1 nie dotyczy obwodów głosowania utworzonych na podstawie art. 14 ust. 3 i art. 16 ustawy z dnia 7 kwietnia 1989 r. - Ordynacja wyborcza do Sejmu Polskiej Rzeczypospolitej Ludowej X kadencji, na lata 1989-1993 ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Właściwymi do przeprowadzenia głosowania i ustalenia jego wyników w obwodach, o których mowa w art. 2 ust. 1, są obwodowe komisje wyborcze, powołane na podstawie przepisów ustawy z dnia 8 marca 1990 r. - Ordynacja wyborcza do rad gmin ( Dz. U. Nr 16, poz. 96 ) ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Głosowanie odbywa się bez przerwy między godz. 8.00 a 20.00."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Przepisy art. 2 ust. 1 oraz art. 3 i 4 stosuje się odpowiednio w wypadku konieczności przeprowadzenia głosowania ponownego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Czynności wynikające z nadzoru nad przestrzeganiem przepisów prawa wyborczego na terenie okręgu wyborczego wykonuje wojewódzka komisja wyborcza. 2. Skargi na działalność obwodowych komisji wyborczych, dotyczące naruszenia przepisów ustawy z dnia 7 kwietnia 1989 r. - Ordynacja wyborcza do Senatu Polskiej Rzeczypospolitej Ludowej ( Dz. U. Nr 19, poz. 103 ) , rozpatruje wojewódzka komisja wyborcza. 3. Spory wynikające z nadzoru sprawowanego nad przestrzeganiem przepisów prawa wyborczego przez wojewódzką komisję wyborczą i wojewódzkiego komisarza wyborczego rozstrzyga Państwowa Komisja Wyborcza w porozumieniu z Generalnym Komisarzem Wyborczym."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_6-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

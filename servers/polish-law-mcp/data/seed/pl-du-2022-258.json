@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2022-258",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 stycznia 2022 r. o zmianie ustawy - Prawo wodne oraz niektórych innych ustaw",
+  "title_en": "",
+  "short_name": "pl-du-2022-258",
+  "status": "in_force",
+  "issued_date": "2022-01-13",
+  "in_force_date": "2022-02-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2022/258",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 20 lipca 2017 r. - Prawo wodne ( Dz. U. z 2021 r. poz. 2233 i 2368 oraz z 2022 r. poz. 88 ) w art. 545 po ust. 1b dodaje się ust. 1c w brzmieniu: „ 1c. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanej przed uzyskaniem decyzji, o której mowa w art. 72 ust. 1 pkt 18a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko , stosuje się przepisy niniejszej ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 19 lipca 2019 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw ( Dz. U. poz. 1712 ) w art. 4 po ust. 2 dodaje się ust. 2a w brzmieniu: „ 2a. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanej przed uzyskaniem decyzji, o której mowa w art. 72 ust. 1 pkt 18a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko , stosuje się przepisy art. 66, art. 72, art. 74, art. 74a, art. 77, art. 80, art. 81, art. 84, art. 86d, art. 96, art. 97, art. 108, art. 109 i art. 112 tej ustawy w brzmieniu nadanym niniejszą ustawą. ” ."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W ustawie z dnia 13 lutego 2020 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw ( Dz. U. poz. 471 , 695 i 782 ) po art. 36 dodaje się art. 36a w brzmieniu: „ Art. 36a. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy dotyczących decyzji o środowiskowych uwarunkowaniach wydawanej przed uzyskaniem decyzji, o której mowa w art. 72 ust. 1 pkt 18a ustawy z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko , stosuje się przepisy tej ustawy w brzmieniu nadanym niniejszą ustawą. ” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. 1) Niniejszą ustawą zmienia się ustawy: ustawę z dnia 19 lipca 2019 r. o zmianie ustawy o udostępnianiu informacji o środowisku i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach oddziaływania na środowisko oraz niektórych innych ustaw oraz ustawę z dnia 13 lutego 2020 r. o zmianie ustawy - Prawo budowlane oraz niektórych innych ustaw. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

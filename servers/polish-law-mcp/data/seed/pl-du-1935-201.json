@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1935-201",
+  "type": "statute",
+  "title": "Ustawa z dnia 22 marca 1935 r. o majątkach, pozostałych po b. ziemstwach i innych b. zrzeszeniach publiczno-prawnych.",
+  "title_en": "",
+  "short_name": "pl-du-1935-201",
+  "status": "in_force",
+  "issued_date": "1935-03-22",
+  "in_force_date": "1935-04-16",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/201",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Majątek, pozostały po b. ziemstwach powiatowych i gubernjalnych, b. zarządach gospodarstwa ziemskiego, b. gubernjalnych komitetach zarządzających, b. urzędach opieki społecznej, tudzież b. instytucjach i organizacjach stanowych szlacheckich, przechodzi na własność tych powiatowych związków samorządowych, na obszarze których się znajduje. (2) Jeżeli majątek ten znajduje się na obszarze miasta wydzielonego z powiatowego związku samorządowego, przechodzi on na własność tego powiatowego związku samorządowego, którego władze mają siedzibę w danem mieście."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Nieruchomości, pozostałe po wymienionych w artykule poprzedzającym zrzeszeniach publiczno-prawnych, a przeznaczone przez te zrzeszenia na cele szkolnictwa, jeżeli nie są obecnie wykorzystywane przez powiatowe związki samorządowe, przechodzą na własność tych miast lub gmin wiejskich, na obszarze których się znajdują."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Majątek, pozostały po b. samorządzie bądź zarządzie miejskim, oraz b. instytucjach i organizacjach stanowych mieszczańskich, przechodzi na własność miast, na obszarze których się znajduje. (2) Jeżeli majątek ten znajduje się na obszarze miasta obecnie zniesionego, przechodzi on na własność gminy wiejskiej, do której włączono miasto po jego zniesieniu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "(1) Majątek, pozostały po b. zrzeszeniach publicznoprawnych, wymienionych w artykułach poprzedzających, a znajdujący się w chwili wejścia w życie ustawy niniejszej w posiadaniu miast lub gmin wiejskich, przechodzi na ich własność, choćby nie znajdował się na ich obszarze. (2) Oddanie nieruchomości w czasowe użytkowanie nie stanowi tytułu do nabycia własności."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "(1) Majątek, pozostały po b. kuratorjach trzeźwości, przechodzi na własność tych miast lub gmin wiejskich, na obszarze których się znajduje. (2) Jeżeli majątek ten znajduje się w chwili wejścia w życie niniejszej ustawy w posiadaniu miast lub gmin wiejskich, przechodzi na ich własność, choćby nie znajdował się na ich obszarze."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Koszty, związane z przejściem prawa własności majątku, przekazywanego związkom samorządowym, ponoszą te związki."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Związkom samorządowym nie służą roszczenia do Skarbu Państwa z tytułu dotychczasowego zarządu przekazywanym im majątkiem."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Skarb Państwa ma prawo pierwokupu co do majątku, który będzie przekazany związkom samorządowym."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "(1) O przejęciu poszczególnych przedmiotów majątkowych przez właściwy związek samorządowy orzeka Minister Spraw Wewnętrznych w porozumieniu z interesowanymi ministrami na wniosek związku samorządowego (zarządu gminnego, miejskiego, wydziału powiatowego). Wniosek ten powinien być przedstawiony najpóźniej w ciągu osiemnastu miesięcy od wejścia w życie ustawy niniejszej. W razie niezgłoszenia wniosku w powyższym terminie, majątek przechodzi na własność Skarbu Państwa. (2) Prawomocne orzeczenie Ministra Spraw Wewnętrznych stanowi dostateczny tytuł prawny do przepisania prawa własności, bądź też do wywołania hipoteki danej nieruchomości."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza nie narusza praw osób trzecich. Osoby, roszczące prawa do majątków, przekazywanych na podstawie ustawy niniejszej, mogą praw tych dochodzić na drodze sądowej."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z interesowanymi ministrami."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i obowiązuje na obszarze województw: nowogródzkiego, poleskiego, wileńskiego i wołyńskiego, oraz powiatów: białostockiego, bielskiego, grodzieńskiego, sokolskiego i wołkowyskiego w województwie białostockiem. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_4-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_5-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_9-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1930-125",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lutego 1930 r. w przedmiocie przywrócenia mocy obowiązującej i wprowadzenia niektórych zmian w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 12 kwietnia 1927 r. w sprawie zapewnienia czasowych mieszkań i pomieszczeń dla zwolnionych robotników rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1930-125",
+  "status": "in_force",
+  "issued_date": "1930-02-21",
+  "in_force_date": "1930-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/125",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustępie 1 art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 kwietnia 1927 r. (Dz. U. R. P. Nr 35, poz. 305) słowa: do dnia 31 maja tegoż roku” zastępuje się słowami: „do dnia 30 czerwca tegoż roku”. W ustępie 2 tegoż artykułu słowa: „do 31 maja” zastępuje się słowami: „do dnia 30 czerwca tegoż roku”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustępie 1 art. 2 słowa: „do 31 maja” zastępuje się słowami: „do dnia 30 czerwca tegoż roku”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W punkcie c) art. 3 po słowie: „otrzymał” wstawia się wyraz: „stałe”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W art. 4 ustęp 1 zamiast słów: „do dnia 31 maja 1929 r.” wstawić słowa: „do dnia 30 czerwca 1930 r.”."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrom: Pracy i Opieki Społecznej, Rolnictwa, Sprawiedliwości oraz Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1936-210",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 kwietnia 1936 r. o zaciągnięciu pożyczek na cele inwestycyjne przedsiębiorstwa Polska Poczta, Telegraf i Telefon.",
+  "title_en": "",
+  "short_name": "pl-du-1936-210",
+  "status": "in_force",
+  "issued_date": "1936-04-02",
+  "in_force_date": "1936-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1936/210",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do zaciągnięcia pożyczek długoterminowych do ogólnej wysokości 20.000.000 zł na cele inwestycyjne przedsiębiorstwa Polska Poczta, Telegraf i Telefon, przewidziane w planie finansowo-gospodarczym tego przedsiębiorstwa na okres budżetowy 1936/37."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Warunki zaciągnięcia pożyczek, przewidzianych w art. 1, w szczególności wysokość oprocentowania, terminy i sposób spłaty tych pożyczek, ustali Minister Skarbu w porozumieniu z Ministrem Poczt i Telegrafów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Sprawozdanie ze sposobu zużycia pożyczek, zaciągniętych na podstawie art. 1, będzie objęte ogólnem zamknięciem rachunków państwowych za rok 1936/37."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu i Ministrowi Poczt i Telegrafów."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

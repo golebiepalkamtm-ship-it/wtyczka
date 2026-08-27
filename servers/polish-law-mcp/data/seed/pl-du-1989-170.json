@@ -1,0 +1,98 @@
+{
+  "id": "pl-du-1989-170",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 1989 r. o Funduszu Budowy Autostrad i Dróg Ekspresowych.",
+  "title_en": "",
+  "short_name": "pl-du-1989-170",
+  "status": "repealed",
+  "issued_date": "1989-05-24",
+  "in_force_date": "1989-05-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/170",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się Fundusz Budowy Autostrad i Dróg Ekspresowych, zwany dalej „Funduszem”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Zadaniem Funduszu jest finansowanie budowy autostrad i dróg ekspresowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Dochodami Funduszu są: 1) dotacje budżetu centralnego w wysokości 8% wpływów z tytułu podatku obrotowego od sprzedaży paliw płynnych, 2) dochody z tytułu udziału Funduszu w zyskach osób prawnych i przedsięwzięć wspólnych, 3) darowizny i wpływy z innych źródeł. 2. Fundusz może zwiększać swoje środki w drodze prowadzenia działalności gospodarczej, emisji obligacji oraz zaciągania kredytów i pożyczek, a także może przeznaczać posiadane środki na wnoszenie udziałów do spółek lub nabywanie obligacji i akcji."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Fundusz posiada osobowość prawną."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Koszty działalności Funduszu są pokrywane z dochodów Funduszu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Organami Funduszu są Rada Nadzorcza i Zarząd."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "1. Radę Nadzorczą powołuje i odwołuje Minister Transportu, Żeglugi i Łączności. 2. Rada Nadzorcza liczy 4-7 osób. 3. Do zadań Rady Nadzorczej należy: 1) uchwalanie planów działalności Funduszu, 2) zatwierdzanie wniosków Zarządu o wniesienie udziału do spółek, 3) ustalanie kryteriów wyboru przedsięwzięć finansowanych przez Fundusz, 4) zatwierdzanie wniosków Zarządu w sprawie emisji obligacji oraz zaciągania kredytów i pożyczek przez Fundusz, 5) ustalanie zasad wynagradzania członków Zarządu oraz pracowników Biura Funduszu, 6) zatwierdzanie rocznych sprawozdań Zarządu z działalności i bilansu Funduszu, 7) kontrola działalności Zarządu, 8) składanie Ministrowi Transportu, Żeglugi i Łączności rocznych sprawozdań z działalności Funduszu. 4. Minister Transportu, Żeglugi i Łączności ustala dla członków Rady Nadzorczej miesięczne wynagrodzenia."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Zarząd Funduszu stanowią Prezes i jego zastępcy, powoływani i odwoływani przez Ministra Transportu, Żeglugi i Łączności na wniosek Rady Nadzorczej. 2. Do zadań Zarządu należy: 1) opracowywanie planów działalności Funduszu, 2) dokonywanie wyboru przedsięwzięć do finansowania ze środków Funduszu, 3) gospodarowanie środkami Funduszu, z zastrzeżeniem uprawnień Rady Nadzorczej, 4) składanie Radzie Nadzorczej sprawozdań z działalności, 5) zatrudnianie pracowników Biura Funduszu i ustalanie warunków ich pracy i płac."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Techniczno-organizacyjną obsługę Rady Nadzorczej i Zarządu sprawuje Biuro Funduszu."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "1. Prezes Zarządu reprezentuje Fundusz na zewnątrz. 2. Do składania oświadczeń w zakresie praw i obowiązków majątkowych Funduszu są upoważnieni: 1) Prezes Zarządu - samodzielnie, 2) dwie osoby działające łącznie spośród: a) pozostałych członków Zarządu, b) pełnomocników Zarządu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Dochody z działalności Funduszu zwalnia się z podatku dochodowego."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Szczegółowe zasady i tryb działania organów Funduszu oraz jego gospodarki finansowej określa statut Funduszu, nadany przez Ministra Transportu, Żeglugi i Łączności w porozumieniu z Ministrem Finansów."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Minister Transportu, Żeglugi i Łączności składa Radzie Ministrów corocznie informację o działalności Funduszu."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Art. 14",
+      "content": "Ustawa wchodzi w życie z dniem 1 lipca 1989 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_3-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_3-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_3-pass_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_7-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_7-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\",\"children\": [{\"id\": \"arti_7-pass_3-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pass_3-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_7-pass_3-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_7-pass_3-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_7-pass_3-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"},{\"id\": \"arti_7-pass_3-pint_6\",\"symbol\": \"pint_6\",\"type\": \"pint\",\"name\": \"6\",\"title\": \"6)\"},{\"id\": \"arti_7-pass_3-pint_7\",\"symbol\": \"pint_7\",\"type\": \"pint\",\"name\": \"7\",\"title\": \"7)\"},{\"id\": \"arti_7-pass_3-pint_8\",\"symbol\": \"pint_8\",\"type\": \"pint\",\"name\": \"8\",\"title\": \"8)\"}]},{\"id\": \"arti_7-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_8-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_8-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_8-pass_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_8-pass_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_8-pass_2-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\",\"children\": [{\"id\": \"arti_10-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_10-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\",\"children\": [{\"id\": \"arti_10-pass_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_10-pass_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_10-pass_2-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_10-pass_2-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]}]}]},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"},{\"id\": \"arti_14\",\"symbol\": \"arti_14\",\"type\": \"arti\",\"name\": \"14\",\"title\": \"Art. 14.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

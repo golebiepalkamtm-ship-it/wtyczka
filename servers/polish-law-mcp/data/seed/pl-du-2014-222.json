@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2014-222",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 stycznia 2014 r. o zmianie ustawy o lasach",
+  "title_en": "",
+  "short_name": "pl-du-2014-222",
+  "status": "amended",
+  "issued_date": "2014-01-24",
+  "in_force_date": "2014-02-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/222",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 28 września 1991 r. o lasach ( Dz. U. z 2011 r. Nr 12, poz. 59 , z późn. zm. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628 i 1247. ) wprowadza się następujące zmiany: 1) w art. 18 w ust. 4 w pkt 3 lit. a otrzymuje brzmienie: „ a) ilości przewidzianego do pozyskania drewna, określonego oddzielnie jako etat miąższościowy użytków rębnych oraz etat powierzchniowy użytków przedrębnych, ” ; 2) w art. 23 ust. 2 i 3 otrzymują brzmienie: „ 2. Zwiększenie rozmiaru pozyskania drewna w nadleśnictwie ponad wielkość określoną w planie urządzenia lasu etatem miąższościowym użytków rębnych może nastąpić tylko w związku ze szkodą lub klęską żywiołową. 3. W razie braku możliwości utrzymania przewidzianego w planie urządzenia lasu etatu cięć użytków rębnych z przyczyn wymienionych w ust. 2, dokonuje się zmiany planu urządzenia lasu w trybie określonym w ust. 1. ” ; 3) art. 50 otrzymuje brzmienie: „ Art. 50. 1. Lasy Państwowe prowadzą działalność na zasadzie samodzielności finansowej i pokrywają koszty działalności z własnych przychodów. 2. Dyrektor Generalny Lasów Państwowych ustala dla wszystkich jednostek organizacyjnych Lasów Państwowych zasady (politykę) rachunkowości. 3. Lasy Państwowe prowadzą rachunkowość według zasad określonych w ustawie z dnia 29 września 1994 r. o rachunkowości ( Dz. U. z 2013 r. poz. 330 i 613 ) . ” ; 4) po art. 58 dodaje się art. 58a w brzmieniu: „ Art. 58a. 1. Dyrekcja Generalna Lasów Państwowych dokonuje wpłaty na rachunek ministra właściwego do spraw środowiska w wysokości stanowiącej równowartość 2% przychodów uzyskanych przez Lasy Państwowe ze sprzedaży drewna, zwanej dalej „wpłatą”. 2. Wpłaty dokonuje się za każdy kwartał kalendarzowy w terminie do trzydziestego dnia miesiąca następującego po tym kwartale. 3. Wpłata stanowi dochód budżetu państwa. W sprawach dotyczących wpłaty właściwy jest minister właściwy do spraw środowiska. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. W latach 2014 i 2015 Państwowe Gospodarstwo Leśne Lasy Państwowe, zwane dalej „Lasami Państwowymi”, dokonuje wpłaty do budżetu państwa z kapitału (funduszu) własnego w wysokości 800 mln złotych rocznie. 2. Wpłata dokonywana jest przez Dyrekcję Generalną Lasów Państwowych w formie równych rat kwartalnych, w terminie do ostatniego dnia każdego kwartału. 3. W odniesieniu do wpłaty za 2015 r., w uzasadnionym przypadku, w szczególności wystąpienia szkody lub klęski żywiołowej lub gdy nastąpi zmiana ceny sprzedaży drewna oraz popytu mogąca zagrozić realizacji planu gospodarczo-finansowego Lasów Państwowych, Rada Ministrów, na wniosek ministra właściwego do spraw środowiska, może udzielić, w drodze uchwały, zgody na niedokonanie wpłaty przez Lasy Państwowe albo na jej zmniejszenie."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Pierwsza wpłata, o której mowa w art. 58a ustawy zmienianej w art. 1, jest dokonywana przez Lasy Państwowe w 2016 r."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Plany urządzenia lasu zatwierdzone przed dniem wejścia w życie niniejszej ustawy zachowują ważność przez okres na jaki zostały zatwierdzone. 2. Do planów urządzenia lasu sporządzonych ale niezatwierdzonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2011 r. Nr 34, poz. 170, Nr 106, poz. 622 i Nr 224, poz. 1337 oraz z 2013 r. poz. 628 i 1247. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

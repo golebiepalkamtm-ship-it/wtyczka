@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-65",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 grudnia 2005 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne",
+  "title_en": "",
+  "short_name": "pl-du-2006-65",
+  "status": "amended",
+  "issued_date": "2005-12-16",
+  "in_force_date": "2006-01-25",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/65",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne ( Dz. U. Nr 64, poz. 565 ) wprowadza się następujące zmiany: 1) w art. 17: a) po ust. 12 dodaje się ust. 12a w brzmieniu: „ 12a. Obsługę Rady zapewnia urząd obsługujący ministra właściwego do spraw informatyzacji. ” , b) po ust. 13 dodaje się ust. 13a w brzmieniu: „ 13a. Zamiejscowym członkom Rady przysługują diety oraz zwrot kosztów podróży i zakwaterowania na warunkach określonych w przepisach wydanych na podstawie art. 77 5 § 2 Kodeksu pracy . ” ; 2) art. 53 otrzymuje brzmienie: „ Art. 53. Minister właściwy do spraw informatyzacji przedstawi Radzie Ministrów projekt Planu Informatyzacji Państwa w terminie do dnia 31 marca 2006 r. ” ; 3) art. 56 otrzymuje brzmienie: „ Art. 56. Podmioty publiczne są obowiązane przekazać dane o rejestrach publicznych i systemach teleinformatycznych używanych do realizacji zadań publicznych, prowadzonych w dniu wejścia w życie ustawy, w zakresie określonym w art. 20 ust. 1 i 2, w terminie do dnia 31 stycznia 2006 r. ” ; 4) art. 63 otrzymuje brzmienie: „ Art. 63. Dotychczasowe przepisy wykonawcze wydane na podstawie upoważnień zmienionych niniejszą ustawą zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie nowych upoważnień, nie dłużej niż przez 18 miesięcy od dnia wejścia w życie ustawy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

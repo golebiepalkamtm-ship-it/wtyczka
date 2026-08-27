@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1921-143",
+  "type": "statute",
+  "title": "Ustawa z dnia 1 marca 1921 r. o podwyższeniu opłat sądowych w b. dzielnicy austrjackiej.",
+  "title_en": "",
+  "short_name": "pl-du-1921-143",
+  "status": "in_force",
+  "issued_date": "1921-03-01",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/143",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wymienione w cesarskiem rozporządzeniu z dnia 15 września 1915 r. (austr. Dz. Ust. № 279), w dołączonej do tego rozporządzenia taryfie i w uwagach do tej taryfy kwoty, będące podstawą wymiaru należytości, tudzież kwoty samych należytości, będą uważane za wyrażone w markach i fenigach polskich, a nie w walucie koronowej."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Liczby, które określają należytości czy to stałe, czy też procentowe, podnosi się dwukrotnie, z wyjątkami, zawartemi w artykułach 3, 4, 5, 6, 7 i 8. Jeśli kwota należytości wypada w fenigach lub w markach i fenigach zaokrągla się ją wzwyż do pełnej marki."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wymienione w §§ 15 i 17 ust. 2 rozp. ces. z dnia 15 września 1915 r. (austr. Dz. Ust. № 279) kwoty, które określają wartość przedmiotu sporu, podnosi się: z kwoty 100 koron na 1.000 marek „ 1000 „ „ 10.000 „ „ 3.000 „ „ 30.000 „ „ 10.000 „ „ 100.000 „"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "W miejsce kwoty 10 koron, wymienionej w § 16 ust. 5 cesarskiego rozporządzenia z dnia 15 września 1915 r. (austr. Dz. Ust. № 279). ustanawia się kwotę 50 marek."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "W miejsce kwoty 2.000 koron, wymienionej w § 46 ust. 6 cesarskiego rozporządzenia z dnia 15 września 1915 r. (austr. Dz. Ust. № 279) ustanawia się kwotę 10.000 marek."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Stała należytość, w dziale I taryfy poz. 1 lit. „a” od podań przy wartości przedmiotu sporu ponad 10.000 marek do 20.000 marek wynosić będzie od każdego arkusza 10 marek, a przy każdych dalszych choćby tylko rozpoczętych 10.000 marek - o 5 marek więcej"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Stałe należytości w dziale I taryfy poz. 5 w dziale II taryfy, poz. 13, w dziale III taryfy poz. 20 i 21, w dziale IV taryfy poz. 31, 32, 33 i 34 (postępowanie karne wskutek oskarżenia prywatnego) oraz w uwagach do tych pozycji, podnosi się dziesięciokrotnie."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustanowioną w pozycji taryfy 2 lit. „c” ustawy z dnia 13 grudnia 1862 r. (austr. Dz. Ust. № 89), a w § 50 punkt 4 ces. rozp. z dnia 15 września 1915 r. (austr. Dz. Ust. № 279) utrzymaną w mocy należytość od odpisów sporządzonych przez osoby prywatne, jeżeli uwierzytelnione zostały przez sądy lub notarjuszy, podnosi się na 5 marek od arkusza."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Należytości sądowe, określone cesarskiem rozporządzeniem z dnia 15 września 1915 r. i niniejszą ustawą, będą opłacane w gotówce lub w znaczkach stemplowych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Ustawa niniejsza wchodzi w życie w trzydzieści dni po jej ogłoszeniu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie ustawy niniejszej powierza się Ministrowi Sprawiedliwości i Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

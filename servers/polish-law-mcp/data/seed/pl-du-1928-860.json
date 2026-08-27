@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1928-860",
+  "type": "statute",
+  "title": "Ustawa z dnia 31 października 1928 r. w sprawie zmiany przepisów ustawy postępowania cywilnego, dotyczących zabezpieczenia powództw i egzekucji wyroków przeciwko związkom komunalnym w okręgach sądów apelacyjnych w Warszawie, Lublinie i Wilnie.",
+  "title_en": "",
+  "short_name": "pl-du-1928-860",
+  "status": "in_force",
+  "issued_date": "1928-10-31",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1928/860",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 1291 U. P. C. otrzymuje brzmienie następujące: „ W sprawach przeciwko zarządom skarbowym i związkom komunalnym nie jest dozwolone ani zabezpieczenie powództwa, ani tymczasowe wykonanie wyroków sądowych; w sprawach jednak o prawo własności do majątku nieruchomego sąd na żądanie powoda może zakazać aljenacji tego majątku aż do czasu ostatecznego rozstrzygnięcia sprawy. W tym wypadku co do ochrony lasu w majątku, będącym przedmiotem sporu, mają zastosowanie przepisy, wyłuszczone w art. 610 i 611. Dozwolone jest również w sprawach przeciwko zarządowi skarbowemu i związkom komunalnym zabezpieczenie powództw, wytaczanych na zasadzie art. 1092 i 1197 U. P. C. oraz wstrzymanie egzekucji trybem art. 965 U. P. C. Dozwolone jest także w sprawach przeciwko związkom komunalnym nadawanie wyrokom rygoru tymczasowego wykonania w wypadkach, przewidzianych w art. 595 U. P. C. Uwaga. W sprawach, przewidzianych w uwadze 3 do art. 1289, i w sprawach o odszkodowanie poszkodowanych wskutek nieszczęśliwych wypadków pracowników, majstrów i robotników dróg żelaznych, oddanych do ogólnego użytku, tudzież członków ich rodzin (Ust. dr. kom. art. 575 uw. 23 zał. wedł. dal. ciągu z 1912 r.) dozwolone jest na wniosek strony tymczasowe wykonanie wyroku sądowego, od sądu zaś zależy dopuszczenie wykonania bezwarunkowo lub pod warunkiem stawienia rękojmi przez stronę, która wniosła o wykonanie ” . Art. 1295 1 U. P. C. otrzymuje brzmienie następujące: „ W sprawach przeciwko zarządom skarbowym i związkom komunalnym nie jest dozwolone wykonanie wyroku przed upływem terminu kasacyjnego, a gdy skargę kasacyjną założono, - przed jej rozstrzygnięciem. Artykuł ten nie ma zastosowania w sprawach, wymienionych w art. 595 U. P. C, w których pozwanym jest związek komunalny. Uwaga. W sprawach o roszczenia pieniężne przeciwko Skarbowi i związkom komunalnym dozwolone jest na wniosek powoda wykonanie na ogólnych zasadach, jeżeli powód stawi odpowiednią rękojmię na wypadek uchylenia wyroku w drodze kasacji (art. 814 p. 3) ” . Art. 1614 U. P. C. otrzymuje brzmienie następujące: „ W sprawach przeciwko zarządom skarbowym i związkom komunalnym nie jest dozwolone ani zabezpieczenie powództwa, ani tymczasowe wykonanie wyroków sądowych; w sprawach jednak o prawo własności do majątku nieruchomego sąd może, na wniosek powoda, zarządzić wciągnięcie ostrzeżenia do księgi hipotecznej, o ile nieruchomość ma urządzoną hipotekę, a jeżeli nieruchomość jest niehipotekowana,- zakazać zbywania tejże aż do czasu ostatecznego rozstrzygnięcia sprawy. W tym ostatnim wypadku w przedmiocie ochrony lasu w spornej nieruchomości stosuje się przepisy, wyłuszczone w art. 1529 i 1530. Dozwolone jest również w sprawach przeciwko zarządowi skarbowemu i związkom komunalnym zabezpieczenie powództw, wytaczanych na zasadzie art. 1092 i 1197 U. P. C. oraz wstrzymanie egzekucji trybem art. 965 U. P. C. Dozwolone jest także w sprawach przeciwko związkom komunalnym nadawanie wyrokom rygoru tymczasowego wykonania w wypadkach, przewidzianych w art. 595 U. P. C ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Artykuł 1295 1 w brzmieniu, przez niniejszą ustawę ustalonem, ma zastosowanie do wyroków, zapadłych w drugiej instancji przed wydaniem ustawy niniejszej; rozpoczęta z tych wyroków egzekucja na wniosek związków komunalnych będzie wstrzymana do czasu upływu wskazanych w tym artykule terminów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa obowiązuje z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

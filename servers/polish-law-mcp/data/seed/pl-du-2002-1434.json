@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2002-1434",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 września 2002 r. o zmianie ustawy o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1434",
+  "status": "repealed",
+  "issued_date": "2002-09-13",
+  "in_force_date": "2002-10-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1434",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 11 kwietnia 1997 r. o ujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy z nimi w latach 1944-1990 osób pełniących funkcje publiczne ( Dz. U. z 1999 r. Nr 42, poz. 428 , Nr 57, poz. 618 , Nr 62, poz. 681 i Nr 63, poz. 701 , z 2000 r. Nr 43, poz. 488 i Nr 50, poz. 600 oraz z 2002 r. Nr 14, poz. 128 , Nr 74, poz. 676 , Nr 84, poz. 765 i Nr 153, poz. 1271 ) w art. 4 dodaje się ust. 3 i 4 w brzmieniu: „ 3. Współpracą w rozumieniu ustawy nie jest zbieranie lub przekazywanie informacji mieszczących się w zakresie zadań wywiadowczych, kontrwywiadowczych i dla ochrony granic. 4. Współpracą w rozumieniu ustawy nie jest współdziałanie pozorne lub uchylanie się od dostarczenia informacji pomimo formalnego dopełnienia czynności lub procedur wymaganych przez organ bezpieczeństwa państwa oczekujący współpracy. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Przepisy ustawy stosuje się również do spraw wszczętych i niezakończonych prawomocnym orzeczeniem Sądu. 2. Czynności w sprawach, o których mowa w ust. 1, dokonane przed wejściem w życie ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Jeżeli podstawą oświadczenia osoby stwierdzającego fakt współpracy z organami bezpieczeństwa państwa były działania, które po wejściu w życie niniejszej ustawy nie stanowią współpracy z tymi organami, złożone oświadczenie uważa się za niebyłe, jeżeli osoba ta, w terminie 14 dni od dnia wejścia w życie ustawy, złoży w tym samym trybie nowe oświadczenie. 2. Jeżeli treść oświadczenia stwierdzającego fakt współpracy osoby z organami bezpieczeństwa państwa została podana do publicznej wiadomości w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, organ, któremu zostało złożone nowe oświadczenie, podaje treść tego oświadczenia do publicznej wiadomości w tym samym trybie wraz ze wzmianką, że poprzednio złożone oświadczenie z mocy prawa uważa się za niebyłe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Postępowanie lustracyjne zakończone prawomocnym orzeczeniem stwierdzającym niezgodność z prawdą oświadczenia o współpracy osoby z organami bezpieczeństwa państwa wznawia się, jeżeli osoba ta złoży nowe oświadczenie zgodnie z art. 3 ust. 1 niniejszej ustawy. 2. Jeżeli orzeczenie stwierdzające niezgodność z prawdą oświadczenia o współpracy osoby z organami bezpieczeństwa państwa zostało podane do publicznej wiadomości w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, orzeczenie o wznowieniu postępowania i uchyleniu tego orzeczenia podaje się do publicznej wiadomości w tym samym trybie."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

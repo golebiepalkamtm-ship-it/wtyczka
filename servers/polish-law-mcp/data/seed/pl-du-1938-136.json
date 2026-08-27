@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1938-136",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 marca 1938 r. z dnia 16 marca 1938 r. o zmianie ustawy o opodatkowaniu piwa.",
+  "title_en": "",
+  "short_name": "pl-du-1938-136",
+  "status": "in_force",
+  "issued_date": "1938-03-16",
+  "in_force_date": "1938-03-24",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/136",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 3 ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa ( Dz. U. R. P. Nr 99, poz. 762 ) wprowadza się zmiany następujące: 1) dodaje się nowy ust. (3) o brzmieniu: „ (3) Minister Skarbu może zniżać w drodze rozporządzeń stawki podatku, określone w ust. (1) i (2). ” ; 2) dotychczasowe ust. (3) i (4) otrzymują kolejną numerację (4) i (5)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

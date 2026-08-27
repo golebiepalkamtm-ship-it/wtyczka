@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2005-564",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 lutego 2005 r. o zmianie ustawy o Państwowej Inspekcji Pracy",
+  "title_en": "",
+  "short_name": "pl-du-2005-564",
+  "status": "repealed",
+  "issued_date": "2005-02-16",
+  "in_force_date": "2005-04-20",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2005/564",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy ( Dz. U. z 2001 r. Nr 124, poz. 1362 , z późn. zm. 2) Zmiany tekstu jednolitego zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1405 i Nr 154, poz. 1800, z 2002 r. Nr 166, poz. 1360, z 2003 r. Nr 170, poz. 1652 i Nr 213, poz. 2081 oraz z 2004 r. Nr 173, poz. 1808. ) w art. 8 w ust. 1 po pkt 11c dodaje się pkt 11d w brzmieniu: „ 11d) współpraca z urzędami państw członkowskich Unii Europejskiej odpowiedzialnymi za nadzorowanie warunków pracy i zatrudnienia pracowników skierowanych do wykonywania pracy na ich terytorium na określony czas przez pracodawcę mającego siedzibę w państwie będącym członkiem Unii Europejskiej polegająca na: a) udzielaniu informacji w zakresie warunków zatrudnienia pracowników skierowanych do wykonywania pracy na terytorium państwa członkowskiego Unii Europejskiej na określony czas przez pracodawcę mającego siedzibę na terytorium Rzeczypospolitej Polskiej, b) informowaniu o stwierdzonych wykroczeniach przeciwko prawom pracowników skierowanych do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na określony czas przez pracodawcę mającego siedzibę w państwie będącym członkiem Unii Europejskiej, c) wskazywaniu organu nadzoru nad rynkiem pracy właściwego do udzielania żądanej informacji ze względu na zakres jego działania, ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 1) Niniejsza ustawa dokonuje w zakresie swojej regulacji wdrożenia dyrektywy 96/71/WE Parlamentu Europejskiego i Rady z dnia 16 grudnia 1996 r. dotyczącej delegowania pracowników w ramach świadczenia usług (Dz. Urz. WE L 018 z 21.01.1997; Dz. Urz. UE polskie wydanie specjalne, rozdz. 05, t. 2, str. 431). 2) Zmiany tekstu jednolitego zostały ogłoszone w Dz. U. z 2001 r. Nr 128, poz. 1405 i Nr 154, poz. 1800, z 2002 r. Nr 166, poz. 1360, z 2003 r. Nr 170, poz. 1652 i Nr 213, poz. 2081 oraz z 2004 r. Nr 173, poz. 1808. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

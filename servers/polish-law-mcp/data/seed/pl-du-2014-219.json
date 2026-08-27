@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2014-219",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 grudnia 2013 r. o ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii do Umowy między Wspólnotą Europejską a Republiką Mołdawii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 10 października 2007 roku, podpisanego w Matrahaza dnia 11 października 2012 r.",
+  "title_en": "",
+  "short_name": "pl-du-2014-219",
+  "status": "in_force",
+  "issued_date": "2013-12-12",
+  "in_force_date": "2014-02-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2014/219",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protokołu Wykonawczego między Rządem Rzeczypospolitej Polskiej a Rządem Republiki Mołdawii do Umowy między Wspólnotą Europejską a Republiką Mołdawii o readmisji osób przebywających nielegalnie, sporządzonej w Brukseli dnia 10 października 2007 roku, podpisanego w Matrahaza dnia 11 października 2012 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

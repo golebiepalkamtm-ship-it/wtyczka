@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1998-984",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 listopada 1998 r. o zmianie ustawy o łączności.",
+  "title_en": "",
+  "short_name": "pl-du-1998-984",
+  "status": "repealed",
+  "issued_date": "1998-11-26",
+  "in_force_date": "1998-12-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1998/984",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 23 listopada 1990 r. o łączności ( Dz. U. z 1995 r. Nr 117, poz. 564 , z 1996 r. Nr 106, poz. 496 , z 1997 r. Nr 43, poz. 272 , Nr 88, poz. 554 , Nr 106, poz. 675 , Nr 121, poz. 770 i Nr 137, poz. 926 oraz z 1998 r. Nr 137, poz. 887 ) wprowadza się następujące zmiany: 1) w art. 16 w ust. 4 w zdaniu wstępnym po wyrazach „oraz pkt 4 lit.” dodaje się wyrazy „a) i” ; 2) art. 82 otrzymuje brzmienie: „ Art. 82. 1. W zakresie dotyczącym prawa do nieodpłatnego nabycia akcji spółki Telekomunikacja Polska S.A. przez uprawnionych pracowników stosuje się przepisy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych, z zastrzeżeniem ust. 2 i 3 oraz art. 2 ustawy z dnia 26 listopada 1998 r. o zmianie ustawy o łączności (Dz. U. Nr 150, poz. 984). 2. Uprawnionymi pracownikami, o których mowa w ust. 1, są, z zastrzeżeniem ust. 3, osoby będące w dniu przekształcenia dokonanego na podstawie art. 76 pracownikami PPTT oraz: 1) osoby, które przepracowały co najmniej dziesięć lat w PPTT lub w spółce Telekomunikacja Polska S.A., a rozwiązanie stosunku pracy nastąpiło wskutek przejścia na emeryturę lub rentę albo z przyczyn określonych w art. 1 ust. 1 ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy oraz o zmianie niektórych ustaw (Dz. U. z 1990 r. Nr 4, poz. 19, Nr 10, poz. 59 i Nr 51, poz. 298, z 1991 r. Nr 83, poz. 372, Nr 106, poz. 457 i Nr 113, poz. 491, z 1992 r. Nr 21, poz. 84, z 1994 r. Nr 1, poz. 1 oraz z 1996 r. Nr 24, poz. 110), 2) osoby, które po przepracowaniu dziesięciu lat w PPTT lub w spółce Telekomunikacja Polska S.A. zostały przejęte przez inne zakłady pracy w trybie art. 231 Kodeksu pracy. 3. Uprawnionymi pracownikami są również pracownicy spółki Telekomunikacja Polska S.A. zatrudnieni w tej spółce po dniu przekształcenia, o którym mowa w ust. 2, którzy pozostawali z tą spółką w stosunku pracy z dniu 30 czerwca 1998 r. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Termin składania oświadczeń o zamiarze nieodpłatnego nabycia akcji spółki Telekomunikacja Polska S.A. przez osoby uprawnione w rozumieniu ustawy, o której mowa w art. 1, które nie złożyły dotychczas takich oświadczeń, wygasa z upływem trzech miesięcy od dnia wejścia w życie niniejszej ustawy. 2. Oświadczenia o zamiarze nieodpłatnego nabycia akcji spółki Telekomunikacja Polska S.A., złożone do dnia wejścia w życie niniejszej ustawy przez osoby uprawnione w rozumieniu ustawy, o której mowa w art. 1, lecz nie uprawnione według przepisów dotychczasowych, stają się skuteczne z dniem wejścia w życie niniejszej ustawy. 3. Skarb Państwa przystąpi do nieodpłatnego zbywania akcji spółki Telekomunikacja Polska S.A. po trzech miesiącach od upływu terminu, o którym mowa w ust. 1. Prawo do nieodpłatnego nabycia tych akcji wygasa z upływem sześciu miesięcy od dnia przystąpienia przez Skarb Państwa do nieodpłatnego zbywania akcji. W wyżej uregulowanym zakresie nie stosuje się przepisu art. 38 ust. 2 ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_2-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

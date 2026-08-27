@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1939-132",
+  "type": "statute",
+  "title": "Ustawa z dnia 10 marca 1939 r. o zmianie ustawy o samoistnym podatku wyrównawczym dla gmin wiejskich.",
+  "title_en": "",
+  "short_name": "pl-du-1939-132",
+  "status": "in_force",
+  "issued_date": "1939-03-10",
+  "in_force_date": "1939-03-21",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1939/132",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 27 lutego 1937 r. o samoistnym podatku wyrównawczym dla gmin wiejskich ( Dz. U. R. P. Nr 16, poz. 104 ) wprowadza się następujące zmiany: 1) art. 1 otrzymuje brzmienie: „ Gminom wiejskim służy prawo pobierania samoistnego podatku wyrównawczego od płatników: a) państwowego podatku gruntowego, b) państwowego podatku od nieruchomości, c) wykupujących świadectwa przemysłowe lub karty rejestracyjne od zakładów, przedsiębiorstw i zajęć. ” ; 2) w art. 5 w ust. (1) wyrazy: „państwowego podatku przemysłowego” zastępuje się wyrazami: „wykupujących świadectwa przemysłowe lub karty rejestracyjne”; w art. 5 dodaje się nowy ust. (3) o brzmieniu; „ (3) Podstawą wymiaru podatku wyrównawczego na r. 1940/41 w stosunku do płatników państwowego podatku przemysłowego będą ceny świadectw przemysłowych i kart rejestracyjnych, obowiązujące w r. 1939. Jeżeli wykonanie przedsiębiorstwa zarobkowego lub zajęcia rozpoczęto, albo też oddzielny zakład lub skład utworzono w r. 1940 - podstawę wymiaru podatku wyrównawczego dla tych przedsiębiorstw, zajęć, zakładów i składów stanowić będą ceny kart rejestracyjnych, przewidziane w załączniku do art. 7 ustawy z dnia 25 kwietnia 1938 r. o opłatach rejestracyjnych od przedsiębiorstw i zajęć ( Dz. U. R. P. Nr 34, poz. 293 ) , pomnożone: a) w stosunku do zakładów i przedsiębiorstw, wymienionych w działach I lit. a) i II lit. a) części III tegoż załącznika, jeżeli zatrudniają ponad sto pracowników - przez cyfrę 4; b) w stosunku do pozostałych przedsiębiorstw i zajęć - przez cyfrę 2. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 kwietnia 1939 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

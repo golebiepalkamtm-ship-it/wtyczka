@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2017-1370",
+  "type": "statute",
+  "title": "Ustawa z dnia 8 czerwca 2017 r. o zmianie ustawy - Prawo o postępowaniu przed sądami administracyjnymi",
+  "title_en": "",
+  "short_name": "pl-du-2017-1370",
+  "status": "amended",
+  "issued_date": "2017-06-08",
+  "in_force_date": "2017-07-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/1370",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi ( Dz. U. z 2017 r. poz. 1369 ) wprowadza się następujące zmiany: 1) w art. 28: a) w § 2 skreśla się zdanie drugie, b) po § 2 dodaje się § 3 w brzmieniu: „ § 3. W zakresie określonym ustawą z dnia 15 grudnia 2016 r. o Prokuratorii Generalnej Rzeczypospolitej Polskiej ( Dz. U. poz. 2261 ) za: 1) organy administracji rządowej, 2) państwowe jednostki organizacyjne nieposiadające osobowości prawnej, 3) Skarb Państwa - czynności w postępowaniu podejmuje Prokuratoria Generalna Rzeczypospolitej Polskiej. ” ; 2) w art. 175: a) w § 1 wyrazy „§ 2 i 3” zastępuje się wyrazami „§ 2-3” , b) po § 2 dodaje się § 2a w brzmieniu: „ § 2a. Przepisu § 1 nie stosuje się także wtedy, gdy stroną postępowania jest Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej, a także wówczas, gdy czynności w postępowaniu za organy administracji rządowej, państwowe jednostki organizacyjne nieposiadające osobowości prawnej lub Skarb Państwa podejmowane są przez Prokuratorię Generalną Rzeczypospolitej Polskiej. ” ; 3) w art. 194 w § 4 wyrazy „§ 2 i 3” zastępuje się wyrazami „§ 2-3” ; 4) uchyla się art. 287."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

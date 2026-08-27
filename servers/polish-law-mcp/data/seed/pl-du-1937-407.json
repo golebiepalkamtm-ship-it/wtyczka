@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1937-407",
+  "type": "statute",
+  "title": "Ustawa z dnia 2 lipca 1937 r. w sprawie zmiany art. 2 dekretu Prezydenta Rzeczypospolitej z dnia 24 kwietnia 1936 r. o zabezpieczeniu interesów osób, ubezpieczonych w Towarzystwie Ubezpieczeń na życie \"Phonix\" za pośrednictwem głównego przedstawicielstwa na Polskę.",
+  "title_en": "",
+  "short_name": "pl-du-1937-407",
+  "status": "in_force",
+  "issued_date": "1937-07-02",
+  "in_force_date": "1937-07-14",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1937/407",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Art. 2 dekretu Prezydenta Rzeczypospolitej z dnia 24 kwietnia 1936 r. o zabezpieczeniu interesów osób, ubezpieczonych w Towarzystwie Ubezpieczeń na życie „Phonix” za pośrednictwem głównego przedstawicielstwa na Polskę (Dz. U. R. P. Nr 31, poz. 245) otrzymuje brzmienie następujące: „ Art. 2. (1) Do dnia 1 lipca 1940 r. nie można żądać wypłaty pożyczek (zaliczek) pod zastaw polis i wykupów oraz wszczynać postępowania sądowego lub egzekucyjnego w poszukiwaniu tych należności; postępowanie wszczęte wcześniej zawiesza się z mocy prawa. (2) Jeżeli ubezpieczający płacił składkę niższą od tej, która odpowiadałaby według ustalonych przez Ministra Skarbu podstaw technicznych świadczeniom zakładu, kurator obniży świadczenia do zakresu, odpowiadającego w myśl tych podstaw technicznych wysokości płaconej składki. (3) Wszystkie świadczenia zakładu z tytułu umów ubezpieczenia redukuje się - niezależnie od obniżki, dokonanej na podstawie ust. (2)-o 25%. Jeżeli świadczenie zostało częściowo wypłacone przed dniem wejścia w życie ustawy niniejszej, redukcji podlega jedynie część niewypłacona. W tym samym stosunku, jak świadczenia zakładu, redukuje się również składki ubezpieczeniowe, należne od dnia 1 maja 1936 r. (4) Zakład ubezpieczeń nie może korzystać z praw do odstąpienia od umowy lub jej rozwiązania (wypowiedzenia z natychmiastowym skutkiem), przewidzianych na wypadek niepłacenia przez ubezpieczającego składek w terminie, jeżeli zaległość dotyczy składek, należnych za okres od dnia 1 maja 1936 r. do dnia wejścia w życie ustawy niniejszej, a ubezpieczający całą zaległość uiści w ciągu trzech miesięcy od pisemnego wezwania go przezkuratora do jej uiszczenia. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu w porozumieniu z Ministrem Sprawiedliwości."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

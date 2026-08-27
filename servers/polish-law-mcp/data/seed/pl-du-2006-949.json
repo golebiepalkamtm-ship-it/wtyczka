@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2006-949",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 maja 2006 r. o zmianie ustawy o komornikach sądowych i egzekucji",
+  "title_en": "",
+  "short_name": "pl-du-2006-949",
+  "status": "repealed",
+  "issued_date": "2006-05-24",
+  "in_force_date": "2006-07-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2006/949",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji ( Dz. U. Nr 133, poz. 882 , z późn. zm. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 48, poz. 554, z 2001 r. Nr 98, poz. 1069 i 1070 i Nr 130, poz. 1452, z 2003 r. Nr 41, poz. 361 i Nr 124, poz. 1152, z 2004 r. Nr 173, poz. 1808, Nr 202, poz. 2067 i Nr 236, poz. 2356, z 2005 r. Nr 183, poz. 1538 oraz z 2006 r. Nr 84, poz. 585. ) wprowadza się następujące zmiany: 1) po art. 37 dodaje się art. 37a i 37b w brzmieniu: „ Art. 37a. 1. Dla każdej sprawy z zakresu, o którym mowa w art. 2 ust. 1, komornik tworzy akta. Akta spraw mogą być tworzone i przetwarzane także z wykorzystaniem technik informatycznych. 2. Urządzenia ewidencyjne w postaci repertorium, wykazów i ksiąg pomocniczych prowadzi się systemem roczników i zamyka się w ostatnim dniu roku kalendarzowego, w którym zostały założone. 3. Akta spraw oraz urządzenia ewidencyjne stanowiące materiały archiwalne w rozumieniu przepisów ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach ( Dz. U. z 2006 r. Nr 97, poz. 673 i Nr 104, poz. 708 ) wchodzą do państwowego zasobu archiwalnego. Art. 37b. 1. Akta spraw, w których postępowanie zostało zakończone, oraz zbędne urządzenia ewidencyjne przechowuje Krajowa Rada Komornicza przez okres konieczny ze względu na rodzaj i charakter sprawy, terminy przedawnienia, interesy osób biorących udział w postępowaniu oraz znaczenie materiałów zawartych w aktach jako źródło informacji. Do przechowywania akt spraw i urządzeń ewidencyjnych stosuje się odpowiednio przepisy art. 34 ust. 1 i art. 35 ust. 3 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach . 2. Kontrolę postępowania z aktami spraw i urządzeniami ewidencyjnymi przechowywanymi przez Krajową Radę Komorniczą sprawuje archiwum państwowe wskazane przez Naczelnego Dyrektora Archiwów Państwowych. 3. Po okresie przechowywania przez Krajową Radę Komorniczą akta spraw oraz urządzenia ewidencyjne stanowiące materiały archiwalne przekazuje się do właściwych archiwów państwowych wskazanych, w drodze zarządzenia, przez prezesa sądu, przy którym działa komornik. Akta spraw oraz urządzenia ewidencyjne niestanowiące materiałów archiwalnych za zgodą dyrektora właściwego archiwum państwowego podlegają zniszczeniu. 4. Minister Sprawiedliwości określi, w drodze rozporządzenia, szczegółowe warunki, tryb i terminy przechowywania i przekazywania akt spraw oraz zbędnych urządzeń ewidencyjnych, a także warunki i tryb ich niszczenia po upływie okresu przechowywania, uwzględniając w szczególności rodzaje spraw i urządzeń ewidencyjnych oraz właściwe zabezpieczenie przed dostępem osób nieuprawnionych, utratą lub zniszczeniem. ” ; 2) w art. 85 w ust. 1 po pkt 16 kropkę zastępuje się przecinkiem i dodaje się pkt 17 w brzmieniu: „ 17) przechowywanie akt spraw, o których mowa w art. 37b ust. 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. 1) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1999 r. Nr 110, poz. 1255, z 2000 r. Nr 48, poz. 554, z 2001 r. Nr 98, poz. 1069 i 1070 i Nr 130, poz. 1452, z 2003 r. Nr 41, poz. 361 i Nr 124, poz. 1152, z 2004 r. Nr 173, poz. 1808, Nr 202, poz. 2067 i Nr 236, poz. 2356, z 2005 r. Nr 183, poz. 1538 oraz z 2006 r. Nr 84, poz. 585. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

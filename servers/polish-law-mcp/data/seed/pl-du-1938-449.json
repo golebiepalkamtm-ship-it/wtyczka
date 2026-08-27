@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-1938-449",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 lipca 1938 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej o wykonywaniu praktyki lekarskiej.",
+  "title_en": "",
+  "short_name": "pl-du-1938-449",
+  "status": "in_force",
+  "issued_date": "1938-07-30",
+  "in_force_date": "1938-08-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1938/449",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 25 września 1932 r. o wykonywaniu praktyki lekarskiej ( Dz. U. R. P. Nr 81, poz. 712 ) wprowadza się zmiany następujące: 1) art. 3 ust. (1) otrzymuje brzmienie: „ (1) Prawo stałego wykonywania praktyki lekarskiej służy osobom, które: a) są obywatelami Państwa Polskiego, b) posiadają dyplom lekarski, wydany lub uznany przez jeden z wydziałów lekarskich uniwersytetów w Państwie Polskim, c) odbyły jednoroczną praktykę szpitalną po uzyskaniu dyplomu lekarskiego, d) przez dwa lata zamieszkiwały i wykonywały praktykę lekarską w gminach wiejskich lub w miastach, liczących poniżej 5.000 mieszkańców, których spis ustali Minister Opieki Społecznej, albo pozostawały przez 5 lat w czynnej służbie wojskowej, w charakterze lekarzy wojskowych, albo co najmniej przez 5 lat zajmowały stanowiska i oddawały się studiom teoretycznym lub praktycznym na jednej z klinik bądź zakładów uniwersyteckich, w Państwowym Zakładzie Higieny, bądź w szpitalach, wyznaczonych przez Ministra Opieki Społecznej, e) są zapisane na listę członków izby lekarskiej. (2) Przepisy lit. d) ust. (1) nie mają zastosowania do lekarzy zapisanych na listę członków izby lekarskiej przed dniem 1 kwietnia 1939 r. ” , 2) po art. 3 dodaje się nowy art. 3a w brzmieniu: „ Prawo czasowego wykonywania praktyki lekarskiej służy osobom, które posiadają warunki, określone w art. 3 ust. (1) lit. a), b), c) oraz e). Prawo to jednak gaśnie po upływie lat 5 od dnia otrzymania zaświadczenia o uprawnieniu do wykonywania praktyki lekarskiej, określonego w art. 6 ust. (1), a co do lekarzy, którzy wstąpili do czynnej służby wojskowej - od dnia nominacji oficerskiej. ” , 3) w art. 5 dodaje się nowy ust. (4) w brzmieniu: „ (4) Rozporządzenie Ministra Opieki Społecznej określi szczegółowe warunki, pod jakimi będzie zaliczony wymieniony w art. 3 ust. (1) lit. d) czas wykonywania praktyki lekarskiej, w gminach wiejskich lub w miastach, liczących poniżej 5.000 mieszkańców, których spis ustali Minister Opieki Społecznej. ” , 4) w art. 6 w ust. (4) wyrazy: „Stałe wykonywanie praktyki lekarskiej” zastępuje się wyrazami: „Wykonywanie praktyki lekarskiej w miejscu stałym” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Upoważnia się Ministra Opieki Społecznej do ogłoszenia w Dzienniku Ustaw R. P. jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 25 września 1932 r. o wykonywaniu praktyki lekarskiej ( Dz. U. R. P. Nr 81, poz. 712 ) , z uwzględnieniem zmian, wynikających z przepisów, ogłoszonych przed dniem wydania jednolitego tekstu i z zastosowaniem ciągłej numeracji artykułów."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Opieki Społecznej w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

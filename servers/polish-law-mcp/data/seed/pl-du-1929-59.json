@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1929-59",
+  "type": "statute",
+  "title": "Ustawa z dnia 12 stycznia 1929 r. w przedmiocie zmiany niektórych postanowień ustawy z dnia 26 września 1922 r., dotyczącej kwalifikacji zawodowych do nauczania w szkołach średnich ogólnokształcących i seminarjach nauczycielskich państwowych i prywatnych i ustawy z dnia 16 lipca 1924 r. w przedmiocie zmiany powyższej ustawy.",
+  "title_en": "",
+  "short_name": "pl-du-1929-59",
+  "status": "in_force",
+  "issued_date": "1929-01-12",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1929/59",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 7 ustawy z 26 września 1922 r., zmienionym przez art. 7 ustawy z 16 lipca 1924 r., po wyrazach „przez zdanie przed końcem” zastępuje się wyrazy „roku szkolnego 1928/29” wyrazami „roku szkolnego 1930/31” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W art. 10 ustawy z 26 września 1922 r., zmienionym przez art. 9 ustawy z 16 lipca 1924 r., po wyrazach „i seminarjów nauczycielskich” wyrazy „winny przed 1 lipca 1925 r.” zastępuje się wyrazami „winny przed 1 lipca 1929 r.” . Wyrazy „którzy przed 1 lipca 1925 r.” zastępuje się wyrazami „którzy do powyższego terminu” . Ustęp 2 tego artykułu skreśla się."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "W art. 12 ustawy z 26 września 1922 r., zmienionym przez art. 11 ustawy z dnia 16 lipca 1924 r., wyrazy „roku 1928” zastępuje się wyrazami „roku szkolnego 1930/31” ."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Wyznań Religijnych i Oświecenia Publicznego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

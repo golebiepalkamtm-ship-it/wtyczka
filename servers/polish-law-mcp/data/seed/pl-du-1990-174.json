@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1990-174",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 kwietnia 1990 r. o przedłużeniu kadencji organów szkół wyższych oraz o zawieszeniu czynności wyborczych.",
+  "title_en": "",
+  "short_name": "pl-du-1990-174",
+  "status": "repealed",
+  "issued_date": "1990-04-26",
+  "in_force_date": "1990-05-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1990/174",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Kadencję organów szkół wyższych, do których stosuje się przepisy ustawy z dnia 4 maja 1982 r. o szkolnictwie wyższym ( Dz. U. z 1985 r. Nr 42, poz. 201 , z 1987 r. Nr 22, poz. 128 , z 1989 r. Nr 4, poz. 24 , Nr 6, poz. 33 , Nr 20, poz. 104 , Nr 29, poz. 154 , Nr 34, poz. 181 i Nr 35, poz. 192 oraz z 1990 r. Nr 14, poz. 86 ) , przedłuża się do dnia 30 listopada 1990 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Terminy czynności wyborczych, określone w rozdziale 2 działu II ustawy, o której mowa w art. 1, zawiesza się, a czynnościom wyborczym podjętym przed dniem wejścia w życie niniejszej ustawy nie nadaje się dalszego biegu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

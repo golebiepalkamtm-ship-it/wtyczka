@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1989-193",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 maja 1989 r. o zmianie ustawy - Prawo celne.",
+  "title_en": "",
+  "short_name": "pl-du-1989-193",
+  "status": "repealed",
+  "issued_date": "1989-05-30",
+  "in_force_date": "1989-06-08",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1989/193",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 26 marca 1975 r. - Prawo celne ( Dz. U. z 1984 r. Nr 57, poz. 290 i z 1987 r. Nr 33, poz. 181 ) art. 13 otrzymuje brzmienie: „ Art. 13. 1. Przywóz, wywóz lub przewóz utworów i przekazów informacji wyrażonych za pomocą druku, obrazu lub innych form służących do ich utrwalania i przekazywania o treści szkodliwej dla dobra i interesów Polskiej Rzeczypospolitej Ludowej jest zakazany, z wyjątkiem wypadków określonych w odrębnych przepisach. 2. Zakaz, o którym mowa w ust. 1, nie dotyczy utworów i przekazów informacji przywożonych przez osoby fizyczne po jednym egzemplarzu tego samego tytułu lub tego samego numeru, w tym również w formie prenumeraty; wyłączenie zakazu nie obejmuje utworów i przekazów informacji o treści pornograficznej. 3. Zakazany jest również przywóz, wywóz lub przewóz innych przedmiotów mogących służyć celom sprzecznym z dobrem i interesami Polskiej Rzeczypospolitej Ludowej. 4. Towary celne określone w ust. 1 i 3 ulegają przepadkowi. 5. W sprawach wymienionych w ust. 4 orzeka urząd celny, chyba że inny organ wszczął postępowanie karne w tych sprawach. 6. Decyzje dotyczące przepadku towarów celnych, o których mowa w ust. 4, mogą być zaskarżone do Naczelnego Sądu Administracyjnego. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

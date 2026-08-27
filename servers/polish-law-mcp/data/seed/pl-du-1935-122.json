@@ -1,0 +1,92 @@
+{
+  "id": "pl-du-1935-122",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 marca 1935 r. o upoważnieniu Ministra Skarbu do wypuszczenia wewnętrznej pożyczki inwestycyjnej.",
+  "title_en": "",
+  "short_name": "pl-du-1935-122",
+  "status": "in_force",
+  "issued_date": "1935-03-26",
+  "in_force_date": "1935-03-29",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1935/122",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "(1) Upoważnia się Ministra Skarbu do wypuszczenia pożyczki wewnętrznej w obligacjach na okaziciela do wysokości łącznej kwoty imiennej 200.000.000 złotych w złocie na rozbudowę sieci komunikacyjnej, roboty wodne i popieranie ruchu budowlanego. oraz na inne inwestycje gospodarcze o znaczeniu ogólnopaństwowem, tudzież na częściową spłatę lub konwersję innych tytułów długu wewnętrznego Skarbu Państwa. (2) Pożyczka może być wypuszczana odrębnemi emisjami."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Spłata pożyczki nastąpi najpóźniej w ciągu lat 50 od daty jej wypuszczenia drogą stopniowego umarzania obligacyj, losowanych w tym celu stosownie do ustalonego planu umorzenia."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "(1) Obok odsetek stałych mogą być dla tej pożyczki ustanowione premje, rozdzielane pomiędzy obligacje drogą losowania. (2) Wysokość łącznego kosztu rocznego obsługi pożyczki z tytułu odsetek stałych, premij oraz umorzenia ustali Rada Ministrów w drodze uchwały, powziętej na wniosek Ministra Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Kapitał i odsetki pożyczki zabezpiecza się całym ruchomym i nieruchomym majątkiem Państwa."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Obligacje pożyczki oraz przychody z tych obligacyj są zwolnione od wszelkich podatków i danin państwowych oraz samorządowych."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Obligacje pożyczki mają wszelkie prawa papierów pupilarnych i mogą być używane do lokaty kapitałów osób, pozostających pod opieką i kuratelą, jako też kapitałów fundacyjnych, kościelnych, korporacyj publicznych, kaucyj cywilnych i wojskowych."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Obligacje pożyczki, w razie ustanowienia dla niej premij, nie będą podlegały działaniu ustawy z dnia 26 lipca 1919 r. o utraconych tytułach na okaziciela (Dz. U. R. P. Nr. 67, poz, 406) wraz z jej późniejszemi zmianami."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "(1) Obligacje pożyczki ulegają przedawnieniu po upływie lat 20 od dnia wylosowania ich do umorzenia. (2) Kupony od obligacyj ulegają przedawnieniu po upływie lat 5 od dnia ich płatności, zaś premje - jeśli będą one ustanowione - po upływie lat 10 od dnia ich wylosowania z tern, że w odniesieniu do premij Ministrowi Skarbu służy prawo ustanowienia dłuższego okresu ich przedawnienia."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "W razie częściowego użycia pożyczki na spłatę lub konwersję tytułów długu wewnętrznego Skarbu Państwa Minister Skarbu jest uprawniony do podwyższenia ustalonej w art. 1 ust. (1) łącznej kwoty pożyczki o kwotę imienną, osiągniętego przez taką spłatę lub konwersję zmniejszenia dotychczasowego długu wewnętrznego, zaokrągloną wzwyż do najbliższej wielokrotności 5.000.000 złotych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Z wpływów z pożyczki będą pokrywane koszty, związane z jej wypuszczeniem."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wszystkie inne warunki pożyczki oraz warunki jej wypuszczenia w odniesieniu do poszczególnych jej emisyj, a w szczególności: cenę sprzedażną obligacyj, wysokość i terminy płatności odsetek, plan umorzenia, wysokość oraz sposób i plan premjowania, terminy i sposób dokonywania wpłat na pożyczkę, wysokość odcinków obligacyj, warunki spłaty i konwersji innych tytułów długu wewnętrznego - ustali Minister Skarbu z zachowaniem postanowienia art. 3 ust. (2)."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Art. 13",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_1-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_3-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_(1\",\"symbol\": \"pass_(1\",\"type\": \"pass\",\"name\": \"(1\",\"title\": \"(1)\"},{\"id\": \"arti_8-pass_(2\",\"symbol\": \"pass_(2\",\"type\": \"pass\",\"name\": \"(2\",\"title\": \"(2)\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"},{\"id\": \"arti_13\",\"symbol\": \"arti_13\",\"type\": \"arti\",\"name\": \"13\",\"title\": \"Art. 13.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

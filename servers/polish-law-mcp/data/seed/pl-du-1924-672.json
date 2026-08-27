@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-1924-672",
+  "type": "statute",
+  "title": "Ustawa z dnia 17 lipca 1924 r. w sprawie opłat za paszporty na wyjazd zagranicę.",
+  "title_en": "",
+  "short_name": "pl-du-1924-672",
+  "status": "repealed",
+  "issued_date": "1924-07-17",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1924/672",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Dowody osobiste (paszporty), wymagane do wyjazdu zagranicę, podlegają opłacie, którą ustali Minister Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych. Paszporty dyplomatyczne wolne są od opłaty. Paszporty i świadectwa, wydawane robotnikom, emigrantom oraz osobom, udającym się zagranicę w celach zarobkowych, wolne są od opłaty."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Paszporty dla osób, udających się zagranicę w celach handlowych i przemysłowych, podlegają opłacie 25 złotych."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Paszporty dla osób, udających się zagranicę: a) celem kształcenia się, lub celem prowadzenia badań naukowych, b) celem leczenia się, o ile chory jest niezamożny i o ile leczenie się zagranicą jest bezwzględnie konieczne, c) celem uczestniczenia w zebraniach międzynarodowych, zjazdach naukowych, zawodach sportowych i t. p., d) w celach społecznych podlegają opłacie 20 złotych. Osoby, wymienione w punktach a), c) i d), mogą być zupełnie zwolnione od opłat paszportowych według uznania Ministerstwa Spraw Wewnętrznych w porozumieniu z Ministerstwem Skarbu."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 sierpnia 1924 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

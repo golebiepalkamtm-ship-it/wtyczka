@@ -1,0 +1,80 @@
+{
+  "id": "pl-du-1923-375",
+  "type": "statute",
+  "title": "Ustawa z dnia 19 kwietnia 1923 r. o przyznaniu kredytu na pomoc dla osadników.",
+  "title_en": "",
+  "short_name": "pl-du-1923-375",
+  "status": "in_force",
+  "issued_date": "1923-04-19",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/375",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Rząd do udzielania państwowej pomocy kredytowej na zagospodarowanie i pobudowanie się osadnikom cywilnym i wojskowym, osobiście gospodarującym na swych osadach, nabytych lub nadanych w czasie od powstania Państwa Polskiego do końca r. 1922, z uwzględnieniem również tych osadników, którzy będą osadzeni w r. 1923 na gruntach, już zajętych pod osadnictwo do dnia 31 grudnia 1922 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Dla uzyskania funduszów, potrzebnych na udzielenie powyższej pomocy kredytowej, będą wyemitowane listy zastawne Państwowego Banku Rolnego, opiewające na złote polskie, w wartości, określonej ustawą z dnia 26 września 1922 r. (Dz. U. R. P. № 83 poz. 740). Do czasu urzeczywistnienia wspomnianej emisji upoważnia się Ministra Skarbu do udzielenia tytułem zaliczki na zaspokojenie najniezbędniejszych potrzeb kredytowych osadników w dziedzinie zagospodarowania i pobudowania się kwoty 50 miljardów marek polskich z funduszów budżetowych Rzeczypospolitej Polskiej. Kwota ta, przerachowana na złote polskie w wartości, określonej powołaną ustawą, w chwili jej wypłacenia zostanie zwrócona Skarbowi Państwa ze środków pieniężnych, uzyskanych z emisji listów zastawnych Banku Rolnego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Kredyt powyższy przeznacza się: a) na zagospodarowanie gruntów, kupno inwentarza żywego i martwego oraz nasion; b) na pobudowanie budynków gospodarczych i mieszkalnych; c) na pomoc w dziedzinie zaspokojenia potrzeb szkolnych i religijnych osadników; d) na zasilanie spółdzielni rolniczych osadników kredytem na cele, związane z gospodarstwem rolnem."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Pożyczki, udzielane z funduszu 50 miljardowego, będą krótkoterminowe, zabezpieczone skryptem dłużnym i po upływie najwyżej jednego roku od chwili udzielenia pożyczki winny być bądź spłacone w gotówce, bądź skonwertowane na pożyczki na dłuższy termin, wydane na podstawie listów zastawnych Państwowego Banku Rolnego. Stopa oprocentowania pożyczek, wydanych na podstawie listów zastawnych, zostanie ustalona przez Ministra Skarbu na wniosek Prezesa Głównego Urzędu Ziemskiego w zależności od wysokości oprocentowania listów zastawnych Państwowego Banku Rolnego, zaś stopa oprocentowania pożyczek z funduszu 50 miljardowego wynosić będzie 4 od sta w stosunku rocznym."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Pożyczki będą udzielane w walucie markowej, odnośny skrypt zaś będzie opiewał na złote polskie; w ten sam sposób pobierane będą procenty."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Administrację funduszem, przewidzianym w art. 2 niniejszej ustawy, Prezes Głównego Urzędu Ziemskiego powierzy, jako władza dysponująca, Państwowemu Bankowi Rolnemu na zasadach, zawartych w art. 6 - 13 włącznie Statutu Banku (Dz. U. R. P. z 1921 r. № 59 poz. 369)."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ma pokrycie wydatków, związanych z wykonywaniem czynności, powierzonych Państwowemu Bankowi Rolnemu (art. 5), Bank pobiera na swoje dobro dodatek administracyjny, uiszczany przez dłużników przy udzielaniu pożyczki."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Podania, skrypty dłużne, zaświadczenia, pokwitowania z odbioru i ze zwrotu sum pożyczkowych oraz inne akty i dokumenty, związane z udzieleniem osadnikom cywilnym i wojskowym państwowej pomocy kredytowej, tudzież podania o ulgi przy spłacaniu tych pożyczek wolne są cd wszelkich opłat skarbowych i komunalnych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "Ściąganie należytości z tytułu udzielonych pożyczek odbywać się będzie trybem egzekucji administracyjnej bezspornych należytości skarbowych."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Wykonanie ustawy niniejszej polecasię Prezesowi Głównego Urzędu Ziemskiego, a co do zasad udzielania pożyczek oraz ustanowienia warunków, zmierzających do hipotecznego lub innego zabezpieczenia udzielanych kredytów, - w porozumieniu z Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_3-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_3-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_3-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\"},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

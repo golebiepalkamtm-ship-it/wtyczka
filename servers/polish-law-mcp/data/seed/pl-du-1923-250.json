@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1923-250",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1923 r. w przedmiocie przepisów tymczasowych o języku urzędowym w sądownictwie i notarjacie w województwach: poznańskiem i pomorskiem.",
+  "title_en": "",
+  "short_name": "pl-du-1923-250",
+  "status": "in_force",
+  "issued_date": "1923-03-24",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1923/250",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Językiem urzędowym w sądownictwie i notarjacie jest język polski. Przepisy o języku urzędowym w sądownictwie i notarjacie, obowiązujące w województwach: poznańskiem i pomorskiem przed dniem 1 stycznia 1920 r. pozostają w mocy z tą zmianą, że w miejsce języka niemieckiego wchodzi język polski."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W stosunku do osób, których językiem ojczystym jest język niemiecki, z wyjątkiem adwokatów i innych osób, występujących w charakterze urzędowym, ma zastosowanie przepis artykułu 1 ze zmianami, zawartemi w następujących artykułach."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Każdemu, którego językiem ojczystym jest język niemiecki, wolno będzie zwracać się w tym języku do sądu i urzędników sądowych tak ustnie, jak i na piśmie. Oświadczenie się za językiem niemieckim, jako ojczystym, jest dla sądu i urzędników sądowych wiążące. Jednakże do podań o wpisy do księgi wieczystej i do rejestrów, utrzymywanych przy sądach, tudzież do zezwoleń na wpisy do księgi wieczystej, składanych w języku niemieckim, winien być dołączony przekład na język polski, sporządzony przez zaprzysiężonego tłomacza."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Jeżeli przy rozprawie występuje osoba, nierozumiejąca języka polskiego, jako strona bez asystencji adwokata, przewodniczący przedstawia jej w języku niemieckim istotną treść rozprawy. Sąd może także przywołać tłomacza."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Do zastosowania § 179 niemieckiej ustawy o czynnościach dobrej woli oraz §§ 2244 i 2245 niemieckiego kodeksu cywilnego w brzmieniu zmienionem art. 1 niniejszej ustawy, wystarcza oświadczenie stron interesowanych, względnie spadkodawcy, że ich językiem ojczystym jest język niemiecki i że pragną w tym języku złożyć swoje oświadczenie. Przepis § 179 niemieckiej ustawy o czynnościach dobrej woli w rozumieniu ust. 1 niniejszego artykułu ma odpowiednie zastosowanie przy czynnościach, wymienionych w artykułach 53 i 84 pruskiej ustawy o czynnościach dobrej woli i przy umowach dziedziczenia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wszelkie dodatki do firm w języku niemieckim, których używanie łącznie z firmą ustawy przepisują, winny być zastąpione odpowiedniemi dodatkami polskiemi („Spółka Akcyjna”, „Spółka Akcyjno - Komandytowa”, „Spółka z ograniczoną odpowiedzialnością”, „Spółdzielnia zapisana z nieograniczoną odpowiedzialnością, z ograniczoną odpowiedzialnością, z nieograniczonym obowiązkiem dopłaty”). Zmiany, przewidziane w ustępie 1, winny być zgłoszone do rejestru handlowego pod rygorem kar porządkowych z § 14 Kodeksu Handlowego i § 160 niemieckiej ustawy o spółdzielniach. Firmy, które uczyniły zadość przepisowi art. 15 rozporządzenia Ministra b. Dzielnicy Pruskiej o języku urzędowym w sądownictwie i notarjacie w b. dzielnicy pruskiej z dnia 15 grudnia 1919 r. (Tygodnik urzędowy № 183 str. 412), wolne są od tego obowiązku. Firmy handlowe o brzmieniu niemieckiem mogą być zmienione na firmy o brzmieniu polskiem. Wniosków w myśl ustępu 2 nie uważa się za zmianę statutu, ani tał za zmianę firmy, a wniosków w myśl ustępu 3 nie uważa się za zmianę firmy."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Ustawa niniejsza obowiązuje na obszarze województw: poznańskiego i pomorskiego i wchodzi w życie z dniem 1 kwietnia 1923 r. Ustawa traci moc obowiązującą z dniem 1 kwietnia 1925 r., a w razie jeżeli ogólna ustawa o organizacji sądownictwa wcześniej wejdzie w życie - z dniem wejścia w życie tejże ustawy."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

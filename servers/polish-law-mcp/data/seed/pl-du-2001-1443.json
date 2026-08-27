@@ -1,0 +1,44 @@
+{
+  "id": "pl-du-2001-1443",
+  "type": "statute",
+  "title": "Ustawa z dnia 6 września 2001 r. o terminach zapłaty w obrocie gospodarczym.",
+  "title_en": "",
+  "short_name": "pl-du-2001-1443",
+  "status": "repealed",
+  "issued_date": "2001-09-06",
+  "in_force_date": "2001-11-12",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2001/1443",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Ustawę stosuje się do umów, których przedmiotem jest odpłatne dostarczanie towarów lub świadczenie usług przez małego przedsiębiorcę, w rozumieniu ustawy z dnia 19 listopada 1999 r. - Prawo działalności gospodarczej ( Dz. U. Nr 101, poz. 1178 , z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49, poz. 509 , Nr 67, poz. 679 i Nr 102, poz. 1115 ) , na rzecz przedsiębiorcy nieposiadającego takiego statusu, z wyjątkiem umów, których przedmiotem jest: 1) świadczenie usług związanych z wykonywaniem czynności bankowych, 2) świadczenie polegające na odpłatnym dostarczaniu towarów lub świadczeniu usług, finansowane w całości lub w części ze środków międzynarodowych instytucji finansowych, których Rzeczpospolita Polska jest członkiem lub z którymi ma podpisane umowy o współpracy, oraz ze środków pochodzących z bezzwrotnej pomocy Unii Europejskiej. 2. Ustawę stosuje się także do umów, których przedmiotem jest odpłatne dostarczanie towarów lub świadczenie usług przez osoby, które prowadzą działalność, o której mowa w art. 3 ustawy - Prawo działalności gospodarczej, i spełniają warunki, o których mowa w art. 54 tej ustawy. 3. Ustawy nie stosuje się do umów, których jedną ze stron jest podmiot udzielający świadczeń zdrowotnych w rozumieniu art. 3 ustawy z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej ( Dz. U. Nr 91, poz. 408 , z 1992 r. Nr 63, poz. 315 , z 1994 r. Nr 121, poz. 591 , z 1995 r. Nr 138, poz. 682 , z 1996 r. Nr 24, poz. 110 , z 1997 r. Nr 104, poz. 661 , Nr 121, poz. 769 i Nr 158, poz. 1041 , z 1998 r. Nr 106, poz. 668 , Nr 117, poz. 756 i Nr 162, poz. 1115 , z 1999 r. Nr 28, poz. 255 i 256 i Nr 84, poz. 935 , z 2000 r. Nr 3, poz. 28 , Nr 12, poz. 136 , Nr 43, poz. 489 , Nr 84, poz. 948 , Nr 114, poz. 1193 i Nr 120, poz. 1268 oraz z 2001 r. Nr 5, poz. 45 , Nr 88, poz. 961 , Nr 100, poz. 1083 , Nr 111, poz. 1193 , Nr 113, poz. 1207 i Nr 126, poz. 1382, 1383 i 1384 ) , apteka lub hurtownia farmaceutyczna w rozumieniu ustawy z dnia 6 września 2001 r. - Prawo farmaceutyczne ( Dz. U. Nr 126, poz. 1381 ) ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "1. Jeżeli strony w umowie przewidziały termin zapłaty dłuższy niż 30 dni, wierzyciel może żądać odsetek ustawowych, za okres począwszy od 31 dnia po spełnieniu swego świadczenia niepieniężnego i doręczeniu dłużnikowi faktury lub rachunku - do dnia zapłaty, ale nie dłuższy niż do dnia wymagalności świadczenia pieniężnego. 2. Nie można przez czynność prawną wyłączyć lub ograniczyć roszczenia, o którym mowa w ust. 1."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Jeżeli strony w umowie zastrzegły wyższe od ustawowych odsetki za opóźnienie, wierzyciel może żądać odsetek określonych w umowie za cały okres, o którym mowa w art. 2."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa niniejsza nie narusza przepisów Kodeksu cywilnego o wymagalności świadczeń pieniężnych oraz o skutkach opóźnienia i zwłoki dłużnika."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2002 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\",\"children\": [{\"id\": \"arti_1-pass_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pass_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_2-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

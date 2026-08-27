@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1933-209",
+  "type": "statute",
+  "title": "Ustawa z dnia 24 marca 1933 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowem.",
+  "title_en": "",
+  "short_name": "pl-du-1933-209",
+  "status": "repealed",
+  "issued_date": "1933-03-24",
+  "in_force_date": "1933-04-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1933/209",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowem (Dz. U. R. P. Nr. 53, poz. 468) dodaje się po art. 166 nowe artykuły o brzmieniu następującem: „ Art. 166-a. Izba rzemieślnicza lub zainteresowany cech wolny mogą przedstawić władzy przemysłowej wojewódzkiej wniosek o utworzenie cechu przymusowego dla jednego rodzaju rzemiosła lub kilku rzemiosł pokrewnych. Władza przemysłowa wojewódzka zwołuje przez publiczne ogłoszenie zebranie rzemieślników, wykonywających rzemiosło w zaprojektowanym we wniosku okręgu. Jeżeli zebranie wykaże, że większość głosujących oświadcza się za utworzeniem cechu przymusowego, władza przemysłowa wojewódzka wydaje zarządzenie o utworzeniu takiego cechu. Z chwilą utworzenia cechu przymusowego ulega z samego prawa rozwiązaniu cech wolny, a członkowie tego cechu stają się członkami cechu przymusowego. Przymus należenia do cechu przymusowego rozciąga się na wszystkich rzemieślników, którzy wykonywają danego rodzaju rzemiosło lub rzemiosła pokrewne, objęte cechem przymusowym. Władza przemysłowa wojewódzka, zarządzając utworzenie cechu przymusowego, ustala granice okręgu takiego cechu, mając na uwadze, by obszar okręgu nie utrudniał spełniania zadań cechu. Obszar okręgu nie może być większy od obszaru, zaprojektowanego we wniosku o utworzenie cechu przymusowego. Art. 166-b. Postanowienia art. 166-a i art. 166-c stosuje się odpowiednio do: a) zmiany granic okręgu cechu przymusowego; b) włączenia do takiego cechu pokrewnych rzemiosł do cechu nie należących lub należących do innego cechu przymusowego; c) wyłączenia niektórych rzemiosł z cechu przymusowego albo wolnego. Art. 166-c. Równocześnie z zarządzeniem utworzenia cechu przymusowego władza przemysłowa wojewódzka zatwierdza statut takiego cechu. W ciągu 14 dni po zatwierdzeniu statutu władza przemysłowa I-ej instancji zwołuje pierwsze zebranie członków dla wyboru zarządu cechu. Zwołanie następuje przez ogłoszenie w piśmie urzędowem co najmniej na 14 dni przed terminem zebrania i z jednoczesnem zawiadomieniem izby rzemieślniczej, która może wysłać na zebranie swego delegata. Art. 166-d. Statuty cechów przymusowych powinny być odpowiednio dostosowane do postanowień art. 69 - 99 i 161 - 166 z tą zmianą, że izba rzemieślnicza powołuje przy cechu przymusowym komisje egzaminacyjne czeladnicze. Do komisyj tych stosuje się odpowiednio postanowienia art. 153 - 155 z tą zmianą, że koszty egzaminów ponosi cech przymusowy, pobierając taksę egzaminacyjną na swoją korzyść. Art. 166-e. Wysokość składek członkowskich w cechach przymusowych podlega zatwierdzeniu przez władzę przemysłową wojewódzką. Zaległe składki ponad trzy miesiące podlegają ściągnięciu na wniosek zarządu cechu w drodze postępowania przymusowego w administracji. Art. 166-f. Postanowienia art. 166-a - 166-e obowiązują wyłącznie na obszarze województwa śląskiego ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie ustawy niniejszej porucza się Ministrowi Przemysłu i Handlu w porozumieniu z właściwymi ministrami."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

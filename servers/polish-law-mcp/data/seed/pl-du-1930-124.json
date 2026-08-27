@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1930-124",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 lutego 1930 r. w sprawie zmiany niektórych postanowień rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 stycznia 1928 r. o organizacji i zakresie działania władz administracji ogólnej.",
+  "title_en": "",
+  "short_name": "pl-du-1930-124",
+  "status": "in_force",
+  "issued_date": "1930-02-21",
+  "in_force_date": "1930-03-13",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1930/124",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 23 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 stycznia 1928 r. o organizacji i zakresie działania władz administracji ogólnej wstawia się na początku nowe dwa ustępy o brzmieniu następującem: „ Uprawnienia wojewody, przewidziane w art. 11, w ustępie 2 art. 12, w artykułach 14, 15, 16, 18 i 20, nie odnoszą się do administracji oświecenia publicznego. W zebraniach, przewidzianych w art. 13, kuratorowie okręgów szkolnych mogą brać udział. ”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z zainteresowanym ministrem."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

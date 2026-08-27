@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1999-32",
+  "type": "statute",
+  "title": "Ustawa z dnia 16 grudnia 1998 r. o zmianie ustawy o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży.",
+  "title_en": "",
+  "short_name": "pl-du-1999-32",
+  "status": "amended",
+  "issued_date": "1998-12-16",
+  "in_force_date": "1999-01-19",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1999/32",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży ( Dz. U. Nr 17, poz. 78 , z 1995 r. Nr 66, poz. 334 , z 1996 r. Nr 139, poz. 646 oraz z 1997 r. Nr 141, poz. 943 i Nr 157, poz. 1040 ) w art. 4 wprowadza się następujące zmiany: 1) skreśla się ust. 2; 2) ust. 3 otrzymuje brzmienie: „ 3. Minister właściwy do spraw oświaty i wychowania ustali, w drodze rozporządzenia, sposób nauczania szkolnego i zakres treści, o których mowa w ust. 1, zawartych w podstawie programowej kształcenia ogólnego oraz wprowadzi do systemu dokształcania i doskonalenia nauczycieli tematykę określoną w ust. 1 ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 czerwca 1999 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

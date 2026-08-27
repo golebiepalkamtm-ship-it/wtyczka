@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1921-373",
+  "type": "statute",
+  "title": "Ustawa z dnia 21 czerwca 1921 r. w przedmiocie rewizji likwidacji serwitutów pastwiskowych w dobrach b. Komory arcyksiążęcej na Śląsku Cieszyńskim.",
+  "title_en": "",
+  "short_name": "pl-du-1921-373",
+  "status": "in_force",
+  "issued_date": "1921-06-21",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1921/373",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Ugody, zawarte po dniu 31 grudnia 1852 r. w przedmiocie serwitutów, tudzież orzeczenia Komisji Serwitutowych, wydane w toku postępowania, wdrożonego na podstawie patentu cesarskiego z dnia 5 lipca 1853 r. (Austr. Dz. Ust. № 130), uznaje się za bezskuteczne o tyle, o ile przedmiotem ich były położone w granicach Rzeczypospolitej Polskiej nieruchomości b. Komory arcyksiążęcej w Cieszynie, które były dawniej obciążone serwitutami pastwiskowemi, a przy likwidacji przypadły b. Komorze arcyksiążęcej w Cieszynie, jako wolne od serwitutów."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Serwituty, których dotyczy art. 1, ulegają likwidacji na zasadach następujących: 1) podstawą do wyznaczenia ekwiwalentu jest rozmiar użytkowania, przysługującego szałaśnikom na podstawie stanu z końca r. 1852 w myśl nadań i zawartych ugód, zwłaszcza zaś w myśl ugody z r. 1800; 2) przy wyznaczeniu ekwiwalentu będzie wliczony ten ekwiwalent, który uprawnieni szałaśnicy już otrzymali na podstawie patentu cesarskiego z r. 1853; 3) uzupełnienie ekwiwalentu nastąpi z gruntu ongi służebnego, o ile grunt ten obecnie stanowi pastwisko, łąkę lub ziemię orną. Gdyby jednak grunt ongi służebny był obecnie zalesiony, będzie jako ekwiwalent wyznaczone pastwisko, łąka lub ziemia orna o tej samej wartości użytkowej, co pastwisko na tym samym gruncie założone, albo też przestrzeń pokryta lasem, przyczem właściciel będzie obowiązany w przeciągu lat trzech od wydania orzeczenia wyciąć i wywieźć drzewo. Gdyby ze względu na kulturę krajową wycięcie lasu okazało się niewskazanem, wówczas ekwiwalent będzie oznaczony w lesie wraz z drzewostanem lub w gotówce. 4) Wyznaczenie ekwiwalentu nastąpi na zasadach, ustalonych w art. 30 ustawy z dn. 7 maja 1920 r. o likwidacji serwitutów na terenie b. Królestwa Kongresowego (Dz. Ust. Rz. P. № 42, poz. 249)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ekwiwalent, oznaczony w myśl art. 2, stanowi własność spółek szałaśniczych, których organizację określi osobna ustawa. Jako pierwsi członkowie wchodzą do spółki obecni posiadacze tych gospodarstw, którym przed likwidacją serwitutów w myśl patentu cesarskiego z dnia 5 lipca 1853 r. przysługiwało prawo korzystania z danego serwitutu pastwiskowego."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Komisja, złożona z delegata Głównego Urzędu Ziemskiego jako przewodniczącego, i z trzech członków, a mianowicie z przedstawiciel i Ministerstwa Rolnictwa i Dóbr Państwowych, Ministerstwa Sprawiedliwość i oraz Towarzystwa Rolniczego w Księstwie Cieszyńskiem ustali, kto i w jakich rozmiarach jest uprawniony, i wyznaczy ekwiwalent w myśl art. 2. Do komisji tej należy również zorganizowanie spółek szałaśniczych wyznaczenie obszaru dla poszczególnych spółek, jakoteż ustalenie pierwszych ich członków. Od orzeczenia komisji przysługuje prawo odwołania się w terminie 30 dni od dnia następnego po doręczeniu decyzji do Głównej Komisji Ziemskiej."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Prawomocne orzeczenie komisji stanowi tytuł wpisu hipotecznego. Wykonanie orzeczenia należy do Okręgowego Urzędu Ziemskiego."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia. Wykonanie jej porucza się Prezesowi Głównego Urzędu Ziemskiego w porozumieniu z Ministrem Rolnictwa i Dóbr Państwowych oraz Ministrem Sprawiedliwości. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_2-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_2-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"}]},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

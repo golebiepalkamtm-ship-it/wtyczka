@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-2007-1293",
+  "type": "statute",
+  "title": "Ustawa z dnia 7 września 2007 r. o zmianie ustawy o prawie autorskim i prawach pokrewnych",
+  "title_en": "",
+  "short_name": "pl-du-2007-1293",
+  "status": "amended",
+  "issued_date": "2007-09-07",
+  "in_force_date": "2007-10-01",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2007/1293",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych ( Dz. U. z 2006 r. Nr 90, poz. 631 , Nr 94, poz. 658 i Nr 121, poz. 843 oraz z 2007 r. Nr 99, poz. 662 ) w art. 70: 1) po ust. 2 dodaje się ust. 2 1 w brzmieniu: „ 2 1 . Współtwórcy utworu audiowizualnego oraz artyści wykonawcy są uprawnieni do: 1) wynagrodzenia proporcjonalnego do wpływów z tytułu wyświetlania utworu audiowizualnego w kinach; 2) stosownego wynagrodzenia z tytułu najmu egzemplarzy utworów audiowizualnych i ich publicznego odtwarzania; 3) stosownego wynagrodzenia z tytułu nadawania utworu w telewizji lub poprzez inne środki publicznego udostępniania utworów; 4) stosownego wynagrodzenia z tytułu reprodukowania utworu audiowizualnego na egzemplarzu przeznaczonym do własnego użytku osobistego. ” ; 2) ust. 3 otrzymuje brzmienie: „ 3. Korzystający z utworu audiowizualnego wypłaca wynagrodzenie, o którym mowa w ust. 2 1 , za pośrednictwem właściwej organizacji zbiorowego zarządzania prawami autorskimi lub prawami pokrewnymi. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Przepisy art. 70 ust. 2 1 i 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się od 6 czerwca 2007 r."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

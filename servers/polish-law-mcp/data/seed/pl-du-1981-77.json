@@ -1,0 +1,62 @@
+{
+  "id": "pl-du-1981-77",
+  "type": "statute",
+  "title": "Ustawa z dnia 3 lipca 1981 r. o utworzeniu urzędu Ministra Górnictwa i Energetyki.",
+  "title_en": "",
+  "short_name": "pl-du-1981-77",
+  "status": "repealed",
+  "issued_date": "1981-07-03",
+  "in_force_date": "1981-07-10",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1981/77",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Tworzy się urząd Ministra Górnictwa i Energetyki."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Do zakresu działania Ministra Górnictwa i Energetyki należą sprawy: górnictwa węglowego, naftowego i gazu ziemnego, energetyki, przemysłu gazowniczego, produkcji maszyn, urządzeń oraz sprzętu górniczego, wiertniczego i energetycznego, produkcji materiałów podsadzkowych i innych potrzebnych do wydobywania kopalin ze złóż naturalnych, budownictwa górniczego i energetycznego oraz dozoru technicznego."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Zadaniem Ministra Górnictwa i Energetyki jest nadawanie kierunku działania gałęziom gospodarki określonym w art. 2, stosownie do potrzeb społecznych i gospodarczych, zgodnie z polityką Państwa. 2. Minister Górnictwa i Energetyki zadanie to realizuje w szczególności poprzez prognozowanie i programowanie rozwoju tych gałęzi, dokonywanie kompleksowej analizy i oceny działalności przedsiębiorstw i innych podległych jednostek organizacyjnych, koordynowanie tej działalności, współdziałanie w kształtowaniu systemów ekonomicznych przedsiębiorstw i innych podległych jednostek organizacyjnych, prowadzenie polityki kadrowej oraz udzielanie pomocy w szkoleniu kadr tych przedsiębiorstw i jednostek."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ministrowi Górnictwa i Energetyki podlega Urząd Dozoru Technicznego."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Rada Ministrów, po zasięgnięciu opinii odpowiednich komisji sejmowych, w drodze rozporządzenia, określi szczegółowy zakres działania Ministra Górnictwa i Energetyki. 2. Organizację Ministerstwa Górnictwa i Energetyki oraz jednostki organizacyjne podporządkowane Ministrowi Górnictwa i Energetyki określa statut nadany przez Radę Ministrów."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "1. Znosi się urzędy Ministra Górnictwa oraz Ministra Energetyki i Energii Atomowej. 2. Sprawy należące do zakresu działania Ministra Górnictwa oraz Ministra Energetyki i Energii Atomowej z wyłączeniem spraw energii atomowej przechodzą do zakresu działania Ministra Górnictwa i Energetyki."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Tracą moc: 1) ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Energetyki i Energii Atomowej ( Dz. U. Nr 12, poz. 67 i z 1979 r. Nr 23, poz. 132 ) , 2) ustawa z dnia 27 marca 1976 r. o utworzeniu urzędu Ministra Górnictwa ( Dz. U. Nr 12, poz. 68 ) ."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\",\"children\": [{\"id\": \"arti_6-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_6-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\",\"children\": [{\"id\": \"arti_7-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_7-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

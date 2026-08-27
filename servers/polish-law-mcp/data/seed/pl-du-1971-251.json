@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1971-251",
+  "type": "statute",
+  "title": "Ustawa z dnia 26 października 1971 r. zmieniająca ustawę o przymusowym wykupie nieruchomości wchodzących w skład gospodarstw rolnych.",
+  "title_en": "",
+  "short_name": "pl-du-1971-251",
+  "status": "repealed",
+  "issued_date": "1971-10-26",
+  "in_force_date": "1971-11-04",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1971/251",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W art. 3 ustawy z dnia 24 stycznia 1968 r. o przymusowym wykupie nieruchomości wchodzących w skład gospodarstw rolnych ( Dz. U. Nr 3, poz. 14 ) wprowadza się następujące zmiany: 1) ust. 1 otrzymuje brzmienie: „ 1. Nabywcą nieruchomości z licytacji może być rolnik mający kwalifikacje do prowadzenia gospodarstwa rolnego, określone w przepisach prawa cywilnego, jeżeli zapewnia racjonalne zagospodarowanie nabytych gruntów. ” ; 2) skreśla się ust. 3; 3) dotychczasowe ustępy 4 i 5 otrzymują kolejną numerację 3 i 4."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

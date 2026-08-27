@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2010-1087",
+  "type": "statute",
+  "title": "Ustawa z dnia 5 sierpnia 2010 r. zmieniająca ustawę o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów",
+  "title_en": "",
+  "short_name": "pl-du-2010-1087",
+  "status": "in_force",
+  "issued_date": "2010-08-05",
+  "in_force_date": "2010-09-03",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2010/1087",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 marca 2010 r. o zmianie ustawy o Instytucie Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz ustawy o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944-1990 oraz treści tych dokumentów ( Dz. U. Nr 79, poz. 522 ) w art. 3: 1) po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Za wykonywanie zadań członkowie Kolegium Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu otrzymują diety w wysokości 3 040 zł, a także zwrot kosztów według zasad obowiązujących przy podróżach służbowych na obszarze kraju. ” ; 2) ust. 2 otrzymuje brzmienie: „ 2. Rady jednostek organizacyjnych uczelni wyższych mających uprawnienia do nadawania stopnia naukowego doktora habilitowanego nauk humanistycznych w zakresie historii oraz rady naukowe Instytutu Historii Polskiej Akademii Nauk, Instytutu Historii Nauki Polskiej Akademii Nauk i Instytutu Studiów Politycznych Polskiej Akademii Nauk wybierają pierwsze zgromadzenie elektorów, o którym mowa w art. 15 ust. 2 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy. Zgromadzenie elektorów przedstawia odpowiednio Sejmowi i Senatowi kandydatów na członków pierwszej Rady Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu w terminie 2 miesięcy od dnia wyboru. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia, z tym że: 1) art. 1 pkt 1 wchodzi w życie z dniem ogłoszenia z mocą od dnia 27 maja 2010 r.; 2) art. 1 pkt 2 wchodzi w życie z dniem ogłoszenia z mocą od dnia 27 lipca 2010 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\",\"children\": [{\"id\": \"arti_2-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_2-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]} ] } ];"
+    }
+  ],
+  "definitions": []
+}

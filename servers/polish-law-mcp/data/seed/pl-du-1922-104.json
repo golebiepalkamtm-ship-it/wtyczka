@@ -1,0 +1,32 @@
+{
+  "id": "pl-du-1922-104",
+  "type": "statute",
+  "title": "Ustawa z dnia 27 stycznia 1922 r. w przedmiocie częściowej zmiany ustawy z dnia 23 kwietnia 1920 r. o ograniczeniach w sprzedaży napojów alkoholowych.",
+  "title_en": "",
+  "short_name": "pl-du-1922-104",
+  "status": "repealed",
+  "issued_date": "1922-01-27",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1922/104",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Do ustawy z dnia 23 kwietnia 1920 r. (Dz. U. R. P. № 37 poz. 210) o ograniczeniach w sprzedaży napojów alkoholowych wprowadza sięnastępujące zmiany; 1) w tytule ustawy wstawia się po słowie: „sprzedaży” wyrazy: „i spożycia”. 2) w art. 5: a) wstawia się w ostatniem zdaniu za słowem: „zmniejszenie” wyrazy: „liczby miejsc detalicznej sprzedały lub wyszynku napojów alkoholowych”, b) dodaje się następujący ustęp drugi: „Redukcja i likwidacja zredukowanych miejsc sprzedaży musi być ukończona do końca roku 1922”, c) dodaje się następujący ustęp trzeci: „Gminy wiejskie i miejskie, stowarzyszenia społeczne i gospodarcze, posiadające uprawnienie do wykonywania przemysłu gospodnio - szynkarskiego, uzyskane przed dniem 1 stycznia 1921 r., o ile z przemysłem tym wykonywują łącznie przemysł restauracyjny i przemysł ten uprawiają we własnym zarządzie lub przez dzierżawców, należących do kategorji inwalidów wojennych, lub wdowy po poległych na wojnie, zyski zaś z tego przemysłu przekazują na cele publiczne - nie podpadają pod przepis ustępu pierwszego niniejszego artykułu”, d) dodaje się następujący dalszy ustęp: „Sprzedawcy hurtowni mogą dostarczać napojów alkoholowych tylko osobom, uprawnionym do sprzedaży detalicznej. Hurtowa sprzedaż napojów alkoholowych stanowi przemysł koncesjonowany”, e) dodaje się dalszy ustęp: „Za koncesje, które na mocy przepisów, w ustępie pierwszym wymienionych, zostaną cofnięte, państwo nie płaci żadnego odszkodowania”. 3) W art. 7 ust. 1 i punkty a), b), c) otrzymują następujące brzmienie: „Bezwzględnie zakazana jest sprzedaż lub podawanie napojów, zawierających jakiekolwiek ilości alkoholu, osobom nieletnim do skończonego 21 roku, dalej uczniom szkół niższych i średnich bez względu na wiek, innym zaś konsumentom na kredyt pod zastaw jakichkolwiek przedmiotów lub za wykonaną pracę. Na podstawie ograniczeń, przewidzianych w art. 1 i 2, zakazuje się sprzedaży i podawania oraz spożywania napojów alkoholowych”. Poczem w art. 7 punkty d), e), f), g), h), i), k), l) dostaną oznaki porządkowe a), b), c). d), e), f), g), h). Dalszej zmiany doznaje art. 7 przez dodanie następującego ustępu: „Kto w stanie nietrzeźwości, wywołanej nadużyciem napojów alkoholowych, zachowaniem swojem daje powód do publicznego zgorszenia, a także, kto w takim stanie nietrzeźwości znajduje się w miejscu publicznem, bez względu na swoje zachowanie się podlega karze, w art. 8 niniejszej ustawy przewidzianej. Takiej samej karze podlega ten, kto drugiego do takiego stanu nietrzeźwości doprowadził prócz tego odpowiada on obok nietrzeźwego solidarnie za wszelkie szkody i straty, wyrządzone innym przez osobę, którą do stanu nietrzeźwości doprowadził lub do niego się przyczynił”. 4) Art. 8 otrzymuje następujący ustęp trzeci: „Dwukrotne przekroczenie przepisów niniejszej ustawy powoduje, niezależnie od kar przewidzianych, utratę koncesji”. Dalej dodaje się do art. 8 jeszcze następujące 2 ustępy: „Odpowiedzialność za przekroczenie przepisów niniejszej ustawy gaśnie po upływie 5 lat od dnia popełnienia przekroczenia. W b. dzielnicy pruskiej o wymiarze kar orzekają wyłącznie sądy”. 5) Do art. 9 dodaje się następujące słowa: „oraz wszystkie osoby, wykraczające przeciwko przepisom niniejszej ustawy”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ogłoszenie nowego tekstu ustawy z dnia 23 kwietnia 1920 r. z uwzględnieniem poprawek, z niniejszej ustawy wynikających, oraz wykonanie niniejszej ustawy porucza się Ministrowi Zdrowia Publicznego w porozumieniu z Ministrem Spraw Wewnętrznych i Ministrem Skarbu; o ile rzecz chodzi o wykonanie na obszarze b. dzielnicy pruskiej - Ministrowi tej dzielnicy w porozumieniu z Ministrem Zdrowia Publicznego, Ministrem Spraw Wewnętrznych i Ministrem Skarbu."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Ustawa wchodzi w życie z dniem jej ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\",\"children\": [{\"id\": \"arti_1-pint_2-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_2-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"},{\"id\": \"arti_1-pint_2-lett_c\",\"symbol\": \"lett_c\",\"type\": \"lett\",\"name\": \"c\",\"title\": \"c)\"},{\"id\": \"arti_1-pint_2-lett_d\",\"symbol\": \"lett_d\",\"type\": \"lett\",\"name\": \"d\",\"title\": \"d)\"},{\"id\": \"arti_1-pint_2-lett_e\",\"symbol\": \"lett_e\",\"type\": \"lett\",\"name\": \"e\",\"title\": \"e)\"}]},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"arti_1-pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1-pint_5\",\"symbol\": \"pint_5\",\"type\": \"pint\",\"name\": \"5\",\"title\": \"5)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

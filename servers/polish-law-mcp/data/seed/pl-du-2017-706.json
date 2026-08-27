@@ -1,0 +1,38 @@
+{
+  "id": "pl-du-2017-706",
+  "type": "statute",
+  "title": "Ustawa z dnia 23 marca 2017 r. o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich oraz ustawy o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich",
+  "title_en": "",
+  "short_name": "pl-du-2017-706",
+  "status": "amended",
+  "issued_date": "2017-03-23",
+  "in_force_date": "2017-03-31",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2017/706",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 lipca 2005 r. o ubezpieczeniach upraw rolnych i zwierząt gospodarskich ( Dz. U. z 2016 r. poz. 792 i 2181 ) w art. 5: 1) w ust. 5: a) pkt 1 otrzymuje brzmienie: „ 1) odpowiednio 9%, 12% i 15% sumy ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem upraw drzew i krzewów owocowych oraz truskawek, od ubezpieczenia upraw od wszystkich rodzajów ryzyka, o których mowa w tym przepisie, dopłaty przysługują w wysokości stanowiącej iloraz: a) iloczynu wysokości dopłat określonej w przepisach wydanych na podstawie ust. 10 i odpowiednio liczby 9, 12 lub 15 oraz b) sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania - nie większej jednak niż określona w ust. 2 pkt 1; ” , b) po pkt 1 dodaje się pkt 1a w brzmieniu: „ 1a) odpowiednio 9%, 12% i 15% sumy ubezpieczenia upraw drzew i krzewów owocowych oraz truskawek, od ubezpieczenia tych upraw od wszystkich rodzajów ryzyka, o których mowa w art. 3 ust. 1 pkt 1, dopłaty przysługują w wysokości określonej w ust. 2 pkt 1; ” ; 2) ust. 7 otrzymuje brzmienie: „ 7. W przypadku zawarcia umowy ubezpieczenia, o której mowa w ust. 6, dopłaty przysługują w wysokości do 65% składki z tytułu ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, lub zwierząt, o których mowa w art. 3 ust. 1 pkt 2, jeżeli określone przez zakłady ubezpieczeń stawki taryfowe ubezpieczenia od jednego rodzaju ryzyka lub łącznie od kilku wybranych rodzajów ryzyka nie przekroczą stawek taryfowych ubezpieczenia określonych w ust. 2, z uwzględnieniem ust. 7a i 7b. ” ; 3) po ust. 7 dodaje się ust. 7a i 7b w brzmieniu: „ 7a. Jeżeli określone przez zakłady ubezpieczeń stawki taryfowe ubezpieczenia z tytułu ubezpieczenia upraw, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem upraw drzew i krzewów owocowych oraz truskawek, przekroczą stawki taryfowe ubezpieczenia określone w ust. 2 pkt 1, dopłaty przysługują w wysokości stanowiącej iloraz: 1) iloczynu wysokości dopłat określonej w przepisach wydanych na podstawie ust. 10 i odpowiednio liczby 9, 12 lub 15 oraz 2) sumy ustalonych przez zakład ubezpieczeń stawek taryfowych ubezpieczenia od rodzajów ryzyka objętych ubezpieczeniem, o których mowa w art. 3 ust. 1 pkt 1, z wyłączeniem ryzyka suszy i ujemnych skutków przezimowania - nie większej jednak niż określona w ust. 2 pkt 1. 7b. Jeżeli określone przez zakłady ubezpieczeń stawki taryfowe ubezpieczenia upraw drzew i krzewów owocowych oraz truskawek przekroczą stawki taryfowe ubezpieczenia określone w ust. 2 pkt 1, dopłaty przysługują w wysokości określonej w ust. 2 pkt 1. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "W ustawie z dnia 15 grudnia 2016 r. o zmianie ustawy o ubezpieczeniach upraw rolnych i zwierząt gospodarskich ( Dz. U. poz. 2181 ) uchyla się art. 2."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Do umów ubezpieczenia zawartych w 2017 r. stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\",\"children\": [{\"id\": \"arti_1-pint_1-lett_a\",\"symbol\": \"lett_a\",\"type\": \"lett\",\"name\": \"a\",\"title\": \"a)\"},{\"id\": \"arti_1-pint_1-lett_b\",\"symbol\": \"lett_b\",\"type\": \"lett\",\"name\": \"b\",\"title\": \"b)\"}]},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

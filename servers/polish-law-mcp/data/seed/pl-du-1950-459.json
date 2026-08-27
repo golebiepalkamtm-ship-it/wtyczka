@@ -1,0 +1,86 @@
+{
+  "id": "pl-du-1950-459",
+  "type": "statute",
+  "title": "Ustawa z dnia 28 października 1950 r. o zmianie systemu pieniężnego.",
+  "title_en": "",
+  "short_name": "pl-du-1950-459",
+  "status": "repealed",
+  "issued_date": "1950-10-28",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1950/459",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "1. Jednostką pieniężną w Państwie Polskim jest złoty (zł) równy 0,222168 grama czystego złota. 2. Złoty dzieli się na 100 groszy (gr). 3. Ilekroć w niniejszej ustawie mowa o złotych i groszach, oznacza to złote i grosze w myśl ust. 1 i 2. 4. Ilekroć w niniejszej ustawie mowa o „złotych dotychczasowych” oznacza to złote, które stanowiły jednostkę pieniężną w dniu 29 października 1950 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Znakami pieniężnymi, mającymi obieg prawny, są wyłącznie banknoty i monety (bilon) emitowane przez Narodowy Bank Polski i opiewające na złote lub grosze z zastrzeżeniem postanowień art. 6."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "1. Wzory i odcinki banknotów, jak również wzory, nominalną wartość, stop, próbę i wagę monet (bilonu) ustala Minister Finansów. 2. Minister Finansów ustala przepisy o przyjmowaniu i wymianie uszkodzonych lub zatartych oraz zatrzymywaniu fałszywych znaków pieniężnych."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "1. Zobowiązania pieniężne mogą być spłacane wyłącznie znakami pieniężnymi, opiewającymi na złote lub grosze (art. 2), o ile ustawa niniejsza inaczej nie stanowi (art. 6). 2. Zobowiązania pieniężne mogą być spłacane każdym rodzajem znaków pieniężnych, opiewających na złote lub grosze (art. 2), bez ograniczenia wysokości."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "1. Banknoty Narodowego Banku Polskiego, opiewające na złote dotychczasowe, przestają być prawnym środkiem płatniczym z upływem dnia 29 października 1950 r. z zastrzeżeniem postanowień art. 6. 2. Narodowy Bank Polski przeprowadzi wymianę banknotów, opiewających na złote dotychczasowe, bez ograniczenia ilości na znaki pieniężne, emitowane na podstawie art. 2. 3. Wymiana dokonana będzie w okresie od 30 października do 8 listopada 1950 r. włącznie, według stosunku 100 złotych dotychczasowych równe 1 złotemu."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "W okresie od 30 października do 5 listopada 1950 r. włącznie banknoty Narodowego Banku Polskiego pozostają prawnym środkiem płatniczym w zakresie płatności za niektóre towary i usługi, których spis ustali Rada Ministrów, jednakże z mocy prawa banknoty te ulegają przeliczeniu według stosunku 100 złotych dotychczasowych równe 1 złotemu."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Art. 7",
+      "content": "Banknoty, opiewające na złote dotychczasowe, a nie przedstawione do wymiany w terminie (art. 5), unieważnia się."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Art. 8",
+      "content": "1. Wszelkie zobowiązania publiczno- i prywatnoprawne bez względu na tytuł i czas powstania, opiewające na złote dotychczasowe, przelicza się z dniem 30 października 1950 r. z mocy prawa na złote i grosze, (art. 1) według stosunku 100 złotych dotychczasowych równe 1 złotemu. 2. Wypadające z przeliczenia ułamki grosza odrzuca się. 3. Rada Ministrów może w drodze rozporządzenia ustalić dla poszczególnych kategorii zobowiązań stosunek przeliczenia, opiewający na mniejszą sumę złotych dotychczasowych za 1 złotego, jednakże nie powyżej stosunku 100 złotych dotychczasowych równe 3 złotym. 4. Minister Sprawiedliwości określi w drodze rozporządzenia tryb ujawniania w księgach wieczystych przeliczenia wierzytelności hipotecznych."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Art. 9",
+      "content": "1. Wszystkie sumy, wyrażone w złotych dotychczasowych, a wymienione w przepisach prawnych, obowiązujących w dniu wejścia w życie niniejszej ustawy, ulegają przeliczeniu z mocy prawa według stosunku 100 złotych dotychczasowych równe 3 złotym. 2. Rada Ministrów może w drodze rozporządzenia dokonać zaokrąglenia sum, wypadających z przeliczenia opartego na ust. 1, do pełnych złotych albo też sum złotych podzielnych przez 5 lub 10."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Art. 10",
+      "content": "Kto odmawia przyjęcia zapłaty, dokonywanej w myśl art. 4 lub 6, podlega karze więzienia lub aresztu do lat dwu lub karze grzywny do 50.000 złotych albo obu tym karom łącznie."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Art. 11",
+      "content": "Wykonanie ustawy porucza się Prezesowi Rady Ministrów, Ministrowi Finansów, Ministrowi Sprawiedliwości i wszystkim ministrom."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Art. 12",
+      "content": "Ustawa wchodzi w życie z dniem 30 października 1950 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"},{\"id\": \"pint_4\",\"symbol\": \"pint_4\",\"type\": \"pint\",\"name\": \"4\",\"title\": \"4)\"},{\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_1-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_1-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_1-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\",\"children\": [{\"id\": \"arti_3-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_3-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\",\"children\": [{\"id\": \"arti_4-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_4-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\",\"children\": [{\"id\": \"arti_5-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_5-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_5-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"}]},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"},{\"id\": \"arti_7\",\"symbol\": \"arti_7\",\"type\": \"arti\",\"name\": \"7\",\"title\": \"Art. 7.\"},{\"id\": \"arti_8\",\"symbol\": \"arti_8\",\"type\": \"arti\",\"name\": \"8\",\"title\": \"Art. 8.\",\"children\": [{\"id\": \"arti_8-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_8-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"},{\"id\": \"arti_8-pass_3\",\"symbol\": \"pass_3\",\"type\": \"pass\",\"name\": \"3\",\"title\": \"3.\"},{\"id\": \"arti_8-pass_4\",\"symbol\": \"pass_4\",\"type\": \"pass\",\"name\": \"4\",\"title\": \"4.\"}]},{\"id\": \"arti_9\",\"symbol\": \"arti_9\",\"type\": \"arti\",\"name\": \"9\",\"title\": \"Art. 9.\",\"children\": [{\"id\": \"arti_9-pass_1\",\"symbol\": \"pass_1\",\"type\": \"pass\",\"name\": \"1\",\"title\": \"1.\"},{\"id\": \"arti_9-pass_2\",\"symbol\": \"pass_2\",\"type\": \"pass\",\"name\": \"2\",\"title\": \"2.\"}]},{\"id\": \"arti_10\",\"symbol\": \"arti_10\",\"type\": \"arti\",\"name\": \"10\",\"title\": \"Art. 10.\"},{\"id\": \"arti_11\",\"symbol\": \"arti_11\",\"type\": \"arti\",\"name\": \"11\",\"title\": \"Art. 11.\"},{\"id\": \"arti_12\",\"symbol\": \"arti_12\",\"type\": \"arti\",\"name\": \"12\",\"title\": \"Art. 12.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

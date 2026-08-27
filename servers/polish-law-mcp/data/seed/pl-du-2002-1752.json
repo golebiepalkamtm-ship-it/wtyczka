@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2002-1752",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 października 2002 r. o zmianie ustawy o kulturze fizycznej.",
+  "title_en": "",
+  "short_name": "pl-du-2002-1752",
+  "status": "repealed",
+  "issued_date": "2002-10-30",
+  "in_force_date": "2002-12-11",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2002/1752",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej ( Dz. U. z 2001 r. Nr 81, poz. 889 i Nr 102, poz. 1115 oraz z 2002 r. Nr 4, poz. 31 , Nr 25, poz. 253 , Nr 74, poz. 676 , Nr 93, poz. 820 i Nr 130, poz. 1112 ) w art. 61 ust. 1 otrzymuje brzmienie: „ 1. Obowiązkowy wymiar zajęć wychowania fizycznego określony w art. 19 ust. 2 stosuje się: 1) dla uczniów klas IV szkół podstawowych - od dnia 1 września 2003 r., 2) dla uczniów klas V i VI szkół podstawowych - od dnia 1 września 2004 r., 3) dla uczniów gimnazjów - od dnia 1 września 2005 r. ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

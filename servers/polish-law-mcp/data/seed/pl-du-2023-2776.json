@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2023-2776",
+  "type": "statute",
+  "title": "Ustawa z dnia 20 grudnia 2023 r. o zmianie ustawy o funkcjonowaniu górnictwa węgla kamiennego",
+  "title_en": "",
+  "short_name": "pl-du-2023-2776",
+  "status": "amended",
+  "issued_date": "2023-12-20",
+  "in_force_date": "2023-12-27",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2023/2776",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego ( Dz. U. z 2022 r. poz. 1309 ) wprowadza się następujące zmiany: 1) w art. 5a ust. 2 otrzymuje brzmienie: „ 2. Spłata zobowiązań pieniężnych, o których mowa w ust. 1, podlega zawieszeniu do dnia wydania decyzji Komisji Europejskiej, o której mowa w art. 4 ust. 2 albo 3 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej ( Dz. Urz. UE L 248 z 24.09.2015, str. 9 ) , albo decyzji, o której mowa w art. 9 tego rozporządzenia, albo innego zakończenia postępowania przed Komisją Europejską, nie później niż do dnia 31 grudnia 2025 r. ” ; 2) w art. 5b ust. 2 otrzymuje brzmienie: „ 2. Zawiesza się spłatę zobowiązań, o których mowa w ust. 1, do dnia wydania decyzji Komisji Europejskiej, o której mowa w art. 4 ust. 2 albo 3 rozporządzenia Rady (UE) 2015/1589 z dnia 13 lipca 2015 r. ustanawiającego szczegółowe zasady stosowania art. 108 Traktatu o funkcjonowaniu Unii Europejskiej , albo decyzji, o której mowa w art. 9 tego rozporządzenia, albo innego zakończenia postępowania przed Komisją Europejską, nie później niż do dnia 31 grudnia 2025 r. ” ; 3) po art. 5g dodaje się art. 5h w brzmieniu: „ Art. 5h. Przedsiębiorstwo górnicze objęte systemem wsparcia jest zwolnione z obowiązku wpłacania na rachunek urzędu skarbowego zaliczek miesięcznych, o których mowa w art. 25 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych . ” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem 1 stycznia 2024 r. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"},{\"id\": \"arti_1-pint_3\",\"symbol\": \"pint_3\",\"type\": \"pint\",\"name\": \"3\",\"title\": \"3)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

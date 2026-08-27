@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-2011-815",
+  "type": "statute",
+  "title": "Ustawa z dnia 13 maja 2011 r. o ratyfikacji Protokołu zmieniającego Konwencję o ograniczeniu odpowiedzialności za roszczenia morskie z 1976 r., sporządzonego w Londynie dnia 2 maja 1996 r.",
+  "title_en": "",
+  "short_name": "pl-du-2011-815",
+  "status": "in_force",
+  "issued_date": "2011-05-13",
+  "in_force_date": "2011-07-07",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/2011/815",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protokołu zmieniającego Konwencję o ograniczeniu odpowiedzialności za roszczenia morskie z 1976 r., sporządzonego w Londynie dnia 2 maja 1996 r."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

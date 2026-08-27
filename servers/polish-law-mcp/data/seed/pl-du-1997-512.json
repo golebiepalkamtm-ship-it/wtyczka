@@ -1,0 +1,26 @@
+{
+  "id": "pl-du-1997-512",
+  "type": "statute",
+  "title": "Ustawa z dnia 18 lipca 1997 r. o zmianie ustawy o stanie wyjątkowym.",
+  "title_en": "",
+  "short_name": "pl-du-1997-512",
+  "status": "repealed",
+  "issued_date": "1997-07-18",
+  "in_force_date": "1997-07-18",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1997/512",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "W ustawie z dnia 5 grudnia 1983 r. o stanie wyjątkowym ( Dz. U. Nr 66, poz. 297 i z 1989 r. Nr 34, poz. 178 ) wprowadza się następujące zmiany: 1) w art. 2 ust. 2 otrzymuje brzmienie: „ 2. W zarządzeniu, o którym mowa w ust. 1, Prezydent Rzeczypospolitej Polskiej określa względy wprowadzenia stanu wyjątkowego, termin jego wprowadzenia, okres, na który stan ten został wprowadzony, terytorium, na którym stan wyjątkowy obowiązuje, oraz zakres, w jakim niniejsza ustawa ma zastosowanie. ” ; 2) użyte w ustawie w różnych przypadkach wyrazy „Polska Rzeczpospolita Ludowa” zastępuje się użytymi w odpowiednich przypadkach wyrazami „Rzeczpospolita Polska” ."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Ustawa wchodzi w życie z dniem ogłoszenia. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\",\"children\": [{\"id\": \"arti_1-pint_1\",\"symbol\": \"pint_1\",\"type\": \"pint\",\"name\": \"1\",\"title\": \"1)\"},{\"id\": \"arti_1-pint_2\",\"symbol\": \"pint_2\",\"type\": \"pint\",\"name\": \"2\",\"title\": \"2)\"}]},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}

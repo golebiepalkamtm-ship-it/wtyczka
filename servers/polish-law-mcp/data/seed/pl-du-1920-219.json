@@ -1,0 +1,50 @@
+{
+  "id": "pl-du-1920-219",
+  "type": "statute",
+  "title": "Ustawa z dnia 30 kwietnia 1920 r. o wypuszczeniu serji I biletów skarbowych.",
+  "title_en": "",
+  "short_name": "pl-du-1920-219",
+  "status": "in_force",
+  "issued_date": "1920-04-30",
+  "in_force_date": "",
+  "url": "https://api.sejm.gov.pl/eli/acts/DU/1920/219",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Art. 1",
+      "content": "Upoważnia się Ministra Skarbu do wypuszczenia z dniem 1 maja 1920 r. serji I biletów skarbowych na ogólną sumą 2 miljardów marek polskich."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Art. 2",
+      "content": "Bilety skarbowe serji I płatne są 1 maja 1922 r. i oprocentowane w stosunku 4 od sta rocznie, płatnych półrocznie zdołu, a mianowicie 1 maja i 1 listopada każdego roku."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Art. 3",
+      "content": "Spłata wszelkich należności ponad 20,000 mk. przypadających osobom lub instytucjom prywatnym od instytucji rządowych, może być dokonywana w części, nieprzekraczającej 50% wypłacanej sumy, biletami skarbowemi serji I, według imiennej wartości biletów z doliczeniem wartości bieżącego kuponu do dnia spłaty."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Art. 4",
+      "content": "Bilety skarbowe serji 1, posiadające wszystkie kupony, których termin płatności jeszcze nie nastąpił, będą przyjmowane przy wpłatach na zamierzoną przymusową pożyczką rentową według zasad, ustalonych w art. 4 ustawy z dnia 30 kwietnia 1920 r. o biletach skarbowych."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Art. 5",
+      "content": "Ustawa niniejsza wchodzi w życie z dniem 1 maja 1920 r."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Art. 6",
+      "content": "Wykonanie niniejszej ustawy powierza się Ministrowi Skarbu. Pokaż całość var tree = [ { \"id\" : \"part_1\", \"title\" : \"Treść ustawy\", \"type\": \"part\", \"symbol\" : \"part_1\", \"children\" : [ {\"id\": \"arti_1\",\"symbol\": \"arti_1\",\"type\": \"arti\",\"name\": \"1\",\"title\": \"Art. 1.\"},{\"id\": \"arti_2\",\"symbol\": \"arti_2\",\"type\": \"arti\",\"name\": \"2\",\"title\": \"Art. 2.\"},{\"id\": \"arti_3\",\"symbol\": \"arti_3\",\"type\": \"arti\",\"name\": \"3\",\"title\": \"Art. 3.\"},{\"id\": \"arti_4\",\"symbol\": \"arti_4\",\"type\": \"arti\",\"name\": \"4\",\"title\": \"Art. 4.\"},{\"id\": \"arti_5\",\"symbol\": \"arti_5\",\"type\": \"arti\",\"name\": \"5\",\"title\": \"Art. 5.\"},{\"id\": \"arti_6\",\"symbol\": \"arti_6\",\"type\": \"arti\",\"name\": \"6\",\"title\": \"Art. 6.\"} ] } ];"
+    }
+  ],
+  "definitions": []
+}
