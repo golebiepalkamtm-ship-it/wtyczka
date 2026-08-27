@@ -17,43 +17,35 @@ export class StandaloneOrchestrator {
   // We'll hardcode the known polish-law-mcp servers for now.
   private readonly defaultServers: ServerRepositoryDefinition[] = [
     {
-      id: "nalegalu",
-      repoUrl: "https://github.com/nalegaluorg/nalegalu.git",
-      defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/server.py", "server.py", "main.py"],
-      defaultEnv: {}
-    },
-    {
       id: "isap",
       repoUrl: "https://github.com/matematicsolutions/mcp-isap.git",
       defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/isap_mcp/server.py", "server.py", "src/server.py", "main.py"],
+      runtime: "node",
+      preferredEntryPoints: [],
       defaultEnv: {}
     },
     {
       id: "saos",
       repoUrl: "https://github.com/matematicsolutions/mcp-saos.git",
       defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/saos_mcp/server.py", "server.py", "src/server.py", "main.py"],
+      runtime: "node",
+      preferredEntryPoints: [],
       defaultEnv: {}
     },
     {
       id: "krs",
       repoUrl: "https://github.com/matematicsolutions/mcp-krs.git",
       defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/krs_mcp/server.py", "server.py", "src/server.py", "main.py"],
+      runtime: "node",
+      preferredEntryPoints: [],
       defaultEnv: {}
     },
     {
       id: "nsa",
       repoUrl: "https://github.com/matematicsolutions/mcp-nsa.git",
       defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/nsa_mcp/server.py", "server.py", "src/server.py", "main.py"],
+      runtime: "node",
+      preferredEntryPoints: [],
       defaultEnv: {}
     },
     {
