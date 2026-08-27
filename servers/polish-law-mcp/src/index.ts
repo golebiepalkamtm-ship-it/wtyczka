@@ -12,7 +12,7 @@ import Database from '@ansvar/mcp-sqlite';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { createHash } from 'crypto';
-import { readFileSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 
 import { registerTools, type AboutContext } from './tools/registry.js';
 import { detectCapabilities, readDbMetadata } from './capabilities.js';
@@ -26,16 +26,17 @@ import {
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function resolveDbPath(): string {
-  if (process.env[DB_ENV_VAR]) {
+  if (process.env[DB_ENV_VAR] && existsSync(process.env[DB_ENV_VAR])) {
     return process.env[DB_ENV_VAR];
   }
   const candidates = [
-    join(__dirname, '..', 'data', 'database.db'),
     join(__dirname, '..', '..', 'data', 'database.db'),
+    join(__dirname, '..', 'data', 'database.db'),
     join(process.cwd(), 'data', 'database.db'),
     join(process.cwd(), 'servers', 'polish-law-mcp', 'data', 'database.db'),
     join('/app', 'servers', 'polish-law-mcp', 'data', 'database.db'),
     join('/app', '.servers', 'polish-law-mcp', 'data', 'database.db'),
+    '/tmp/database.db'
   ];
   for (const c of candidates) {
     if (existsSync(c)) return c;

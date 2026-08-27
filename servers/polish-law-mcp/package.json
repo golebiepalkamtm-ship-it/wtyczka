@@ -40,8 +40,8 @@
     "server.json"
   ],
   "scripts": {
-    "build": "tsc && (test -f data/database.db || npm run build:db || true)",
-    "build:db": "node --import tsx scripts/build-db.ts",
+    "build": "tsc && node dist/scripts/build-db.js",
+    "build:db": "node dist/scripts/build-db.js",
     "dev": "node --import tsx src/index.ts",
     "start": "node dist/index.js",
     "test": "vitest run",
@@ -64,10 +64,8 @@
     "fast-xml-parser": "^5.4.1"
   },
   "devDependencies": {
-    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.15.29",
     "@vercel/node": "^5.6.4",
-    "better-sqlite3": "^12.6.2",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3",
     "vitest": "^3.0.0"

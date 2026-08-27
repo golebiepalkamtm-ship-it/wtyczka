@@ -22,8 +22,38 @@ async function run() {
     console.log(`- ${tool.name}: ${tool.description}`);
   }
 
-  // Optionally, we could call a tool here
-  // const result = await client.callTool({ name: "some_tool", arguments: {} });
+  console.log("Calling get_entity tool (KRS 0000000001)...");
+  try {
+    const krsRes = await client.callTool({
+      name: "get_entity",
+      arguments: { krs: "0000000001" }
+    });
+    console.log("KRS result:", JSON.stringify(krsRes, null, 2).slice(0, 300) + "...");
+  } catch (e) {
+    console.error("KRS call error:", e);
+  }
+
+  console.log("Calling search_acts (ISAP)...");
+  try {
+    const isapRes = await client.callTool({
+      name: "search_acts",
+      arguments: { title: "kodeks karny", limit: 2 }
+    });
+    console.log("ISAP result:", JSON.stringify(isapRes, null, 2).slice(0, 300) + "...");
+  } catch (e) {
+    console.error("ISAP call error:", e);
+  }
+
+  console.log("Calling nsa_search (CBOSA)...");
+  try {
+    const nsaRes = await client.callTool({
+      name: "nsa_search",
+      arguments: { query: "podatek od towarów i usług", limit: 2 }
+    });
+    console.log("NSA result:", JSON.stringify(nsaRes, null, 2).slice(0, 300) + "...");
+  } catch (e) {
+    console.error("NSA call error:", e);
+  }
 
   console.log("Closing connection...");
   await transport.close();

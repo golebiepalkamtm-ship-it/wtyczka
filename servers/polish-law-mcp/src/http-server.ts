@@ -45,7 +45,10 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const PORT = parseInt(process.env.PORT || '3000', 10);
 
-const pkg = JSON.parse(readFileSync(join(__dirname, '..', 'package.json'), 'utf-8'));
+const packageJsonPath = existsSync(join(__dirname, '..', 'package.json'))
+  ? join(__dirname, '..', 'package.json')
+  : join(__dirname, '..', '..', 'package.json');
+const pkg = JSON.parse(readFileSync(packageJsonPath, 'utf-8'));
 const SERVER_NAME: string = pkg.name.replace(/^@ansvar\//, '');
 const SERVER_VERSION: string = pkg.version;
 

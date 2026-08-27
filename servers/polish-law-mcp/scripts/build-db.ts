@@ -8,7 +8,7 @@
  * Usage: npm run build:db
  */
 
-import Database from 'better-sqlite3';
+import Database from '@ansvar/mcp-sqlite';
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
@@ -16,8 +16,12 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const SEED_DIR = path.resolve(__dirname, '../data/seed');
-const DB_PATH = path.resolve(__dirname, '../data/database.db');
+const rootDir = fs.existsSync(path.resolve(__dirname, '../../package.json'))
+  ? path.resolve(__dirname, '../..')
+  : path.resolve(__dirname, '..');
+
+const SEED_DIR = path.resolve(rootDir, 'data/seed');
+const DB_PATH = path.resolve(rootDir, 'data/database.db');
 
 // Seed file types
 interface DocumentSeed {
@@ -497,12 +501,21 @@ function buildDatabase(): void {
   });
   writeMeta();
 
-  // Set journal_mode to DELETE for WASM compatibility
-  db.pragma('journal_mode = DELETE');
+  try {
+    db.pragma('journal_mode = DELETE');
+  } catch {}
 
-  db.exec('ANALYZE');
-  db.exec('VACUUM');
-  db.close();
+  try {
+    db.exec('ANALYZE');
+  } catch {}
+
+  try {
+    db.exec('VACUUM');
+  } catch {}
+
+  try {
+    db.close();
+  } catch {}
 
   const size = fs.statSync(DB_PATH).size;
   console.log(
