@@ -50,7 +50,13 @@ let transport: SSEServerTransport | null = null;
 
 app.get("/sse", async (req, res) => {
   logger.info("New SSE connection established");
-  transport = new SSEServerTransport("/messages", res);
+  
+  // Return an absolute URL for the messages endpoint to avoid client parsing issues
+  const protocol = req.headers['x-forwarded-proto'] || req.protocol;
+  const host = req.headers.host;
+  const messagesUrl = `${protocol}://${host}/messages`;
+  
+  transport = new SSEServerTransport(messagesUrl, res);
   await mcpServer.connect(transport);
 });
 
