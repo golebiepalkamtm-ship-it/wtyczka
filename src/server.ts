@@ -65,7 +65,7 @@ app.post("/messages", express.json(), async (req, res) => {
     res.status(400).send("No active SSE connection");
     return;
   }
-  await transport.handlePostMessage(req, res);
+  await transport.handlePostMessage(req, res, req.body);
 });
 
 async function main() {
