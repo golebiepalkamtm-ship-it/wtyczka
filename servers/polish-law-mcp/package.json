@@ -40,7 +40,7 @@
     "server.json"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && (test -f data/database.db || npm run build:db || true)",
     "build:db": "node --import tsx scripts/build-db.ts",
     "dev": "node --import tsx src/index.ts",
     "start": "node dist/index.js",

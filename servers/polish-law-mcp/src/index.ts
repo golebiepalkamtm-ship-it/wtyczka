@@ -29,7 +29,18 @@ function resolveDbPath(): string {
   if (process.env[DB_ENV_VAR]) {
     return process.env[DB_ENV_VAR];
   }
-  return join(__dirname, '..', 'data', 'database.db');
+  const candidates = [
+    join(__dirname, '..', 'data', 'database.db'),
+    join(__dirname, '..', '..', 'data', 'database.db'),
+    join(process.cwd(), 'data', 'database.db'),
+    join(process.cwd(), 'servers', 'polish-law-mcp', 'data', 'database.db'),
+    join('/app', 'servers', 'polish-law-mcp', 'data', 'database.db'),
+    join('/app', '.servers', 'polish-law-mcp', 'data', 'database.db'),
+  ];
+  for (const c of candidates) {
+    if (existsSync(c)) return c;
+  }
+  return join(__dirname, '..', '..', 'data', 'database.db');
 }
 
 let db: InstanceType<typeof Database> | null = null;
