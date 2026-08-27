@@ -5,13 +5,18 @@ import { Logger } from "../utils/Logger.js";
 import { McpClientWrapper } from "./McpClientWrapper.js";
 import { Tool, Resource, Prompt, CallToolResult } from "@modelcontextprotocol/sdk/types.js";
 
+interface ToolMapping {
+  serverId: string;
+  originalName: string;
+}
+
 export class StandaloneOrchestrator {
   private readonly logger = Logger.getInstance();
   private wrappers = new Map<string, McpClientWrapper>();
   private activeServers = new Set<string>();
 
-  // A registry mapping tool names to their source server ID
-  private toolRegistry = new Map<string, string>();
+  // A registry mapping tool names (including aliases) to server ID and original tool name
+  private toolRegistry = new Map<string, ToolMapping>();
 
   // We can hardcode the servers or load from a config file. 
   // We'll hardcode the known polish-law-mcp servers for now.
@@ -74,57 +79,87 @@ export class StandaloneOrchestrator {
           this.activeServers.delete(id);
         });
 
-        const { tools } = await wrapper.startAndConnect();
+        await wrapper.startAndConnect();
         this.wrappers.set(def.id, wrapper);
         this.activeServers.add(def.id);
 
-        // Register tools
-        for (const tool of tools) {
-          this.toolRegistry.set(tool.name, def.id);
-        }
-
-        this.logger.info(`Successfully started and registered tools for ${def.id}`);
+        this.logger.info(`Successfully started server ${def.id}`);
       } catch (err) {
         this.logger.error(`Failed to start server ${def.id}: ${String(err)}`);
       }
     });
 
     await Promise.all(startPromises);
+    
+    // Initial discovery and tool registry indexing
+    await this.getAvailableTools();
+    
     this.logger.info(`Orchestrator initialization complete. ${this.activeServers.size} servers active.`);
   }
 
   public async getAvailableTools(): Promise<Tool[]> {
     const allTools: Tool[] = [];
+    this.toolRegistry.clear();
+
+    const serverTools = new Map<string, Tool[]>();
+    const nameCounts = new Map<string, number>();
+
     for (const [id, wrapper] of this.wrappers.entries()) {
       if (this.activeServers.has(id)) {
         try {
           const tools = await wrapper.discoverTools();
-          allTools.push(...tools);
-          
-          // Update registry in case tools changed
+          serverTools.set(id, tools);
           for (const tool of tools) {
-            this.toolRegistry.set(tool.name, id);
+            nameCounts.set(tool.name, (nameCounts.get(tool.name) ?? 0) + 1);
           }
         } catch (err) {
           this.logger.warn(`Failed to discover tools for ${id}`);
         }
       }
     }
+
+    for (const [id, tools] of serverTools.entries()) {
+      for (const tool of tools) {
+        const isColliding = (nameCounts.get(tool.name) ?? 0) > 1;
+        const normalizedServerId = id.replace(/[^a-zA-Z0-9_]/g, "_");
+
+        const exposedName = isColliding
+          ? `${normalizedServerId}_${tool.name}`
+          : tool.name;
+
+        const registeredTool: Tool = {
+          ...tool,
+          name: exposedName,
+          description: tool.description
+        };
+
+        allTools.push(registeredTool);
+
+        // Register resolution mappings
+        this.toolRegistry.set(exposedName, { serverId: id, originalName: tool.name });
+        this.toolRegistry.set(`${normalizedServerId}_${tool.name}`, { serverId: id, originalName: tool.name });
+        this.toolRegistry.set(`${normalizedServerId}__${tool.name}`, { serverId: id, originalName: tool.name });
+        if (!isColliding) {
+          this.toolRegistry.set(tool.name, { serverId: id, originalName: tool.name });
+        }
+      }
+    }
+
     return allTools;
   }
 
   public async callTool(name: string, args: Record<string, unknown>): Promise<CallToolResult> {
-    const serverId = this.toolRegistry.get(name);
-    if (!serverId) {
+    const mapping = this.toolRegistry.get(name);
+    if (!mapping) {
       throw new Error(`Unknown tool: ${name}. No server registered for this tool.`);
     }
 
-    const wrapper = this.wrappers.get(serverId);
-    if (!wrapper || !this.activeServers.has(serverId)) {
-      throw new Error(`Server ${serverId} for tool ${name} is not active.`);
+    const wrapper = this.wrappers.get(mapping.serverId);
+    if (!wrapper || !this.activeServers.has(mapping.serverId)) {
+      throw new Error(`Server ${mapping.serverId} for tool ${name} is not active.`);
     }
 
-    return wrapper.callTool(name, args);
+    return wrapper.callTool(mapping.originalName, args);
   }
 
   public async stop(): Promise<void> {

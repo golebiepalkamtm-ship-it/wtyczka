@@ -3,10 +3,11 @@ FROM ubuntu:22.04
 # Avoid prompts during apt installs
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Install system dependencies: Git, Python 3, venv
+# Install system dependencies: Git, Python 3, venv, build-essential
 RUN apt-get update && apt-get install -y \
     curl \
     git \
+    build-essential \
     python3 \
     python3-pip \
     python3-venv \
@@ -23,9 +24,10 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 
-# Copy configuration and source code
+# Copy configuration, source code, and bundled sub-servers
 COPY tsconfig.json ./
 COPY src/ ./src/
+COPY servers/ ./servers/
 
 # Build TypeScript
 RUN npm run build
