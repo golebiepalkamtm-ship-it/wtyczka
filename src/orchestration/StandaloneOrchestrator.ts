@@ -54,10 +54,6 @@ export class StandaloneOrchestrator {
       defaultBranch: "main",
       runtime: "node",
       preferredEntryPoints: ["dist/index.js", "build/index.js", "index.js"],
-      buildCommands: [
-        { command: "npm", args: ["install", "--prefer-offline", "--no-audit"] },
-        { command: "npm", args: ["run", "build"] }
-      ],
       defaultEnv: {}
     }
   ];
