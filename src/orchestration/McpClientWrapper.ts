@@ -98,7 +98,13 @@ export class McpClientWrapper {
       const response = await this.client.listResources();
       return (response.resources as Resource[]) ?? [];
     } catch (error) {
-      this.logger.warn(`[${this.serverId}] Error querying listResources: ${String(error)}`);
+      // "Method not found" is expected for servers that don't implement
+      // resources capability — log quietly instead of warning.
+      if (String(error).includes("-32601")) {
+        this.logger.info(`[${this.serverId}] listResources not supported by server (method not found). Skipping.`);
+      } else {
+        this.logger.warn(`[${this.serverId}] Error querying listResources: ${String(error)}`);
+      }
       return [];
     }
   }
@@ -111,7 +117,13 @@ export class McpClientWrapper {
       const response = await this.client.listPrompts();
       return (response.prompts as Prompt[]) ?? [];
     } catch (error) {
-      this.logger.warn(`[${this.serverId}] Error querying listPrompts: ${String(error)}`);
+      // "Method not found" is expected for servers that don't implement
+      // prompts capability — log quietly instead of warning.
+      if (String(error).includes("-32601")) {
+        this.logger.info(`[${this.serverId}] listPrompts not supported by server (method not found). Skipping.`);
+      } else {
+        this.logger.warn(`[${this.serverId}] Error querying listPrompts: ${String(error)}`);
+      }
       return [];
     }
   }

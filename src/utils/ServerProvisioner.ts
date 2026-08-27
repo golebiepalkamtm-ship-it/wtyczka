@@ -184,6 +184,7 @@ export class ServerProvisioner {
       throw new Error(`[${definition.id}] Missing package.json in cloned repository.`);
     }
 
+    const installStartedAt = Date.now();
     const needsInstall = !(await this.pathExists(nodeModulesDir));
     if (needsInstall) {
       this.logger.info(`[${definition.id}] Running npm install...`);
@@ -203,8 +204,19 @@ export class ServerProvisioner {
         const pkgRaw = await fs.readFile(packageJsonPath, "utf-8");
         const pkgJson = JSON.parse(pkgRaw) as { scripts?: Record<string, string> };
         if (pkgJson.scripts && "build" in pkgJson.scripts) {
-          this.logger.info(`[${definition.id}] Detected build script in package.json. Running npm run build...`);
-          await this.runProcess(this.binaries.npm, ["run", "build"], serverDir, definition.id);
+          if (
+            needsInstall &&
+            (await this.hasFreshBuildOutput(serverDir, installStartedAt))
+          ) {
+            // A lifecycle hook (e.g. prepare/postinstall) already produced a
+            // build during the npm install above. Running `npm run build`
+            // again would wastefully rebuild (and potentially delete/rebuild
+            // large generated artifacts like databases).
+            this.logger.info(`[${definition.id}] Build artifacts already produced during npm install (lifecycle hook). Skipping redundant npm run build.`);
+          } else {
+            this.logger.info(`[${definition.id}] Detected build script in package.json. Running npm run build...`);
+            await this.runProcess(this.binaries.npm, ["run", "build"], serverDir, definition.id);
+          }
         }
       } catch (e) {
         this.logger.warn(`[${definition.id}] Failed to check/run build script: ${String(e)}`);
@@ -305,6 +317,27 @@ export class ServerProvisioner {
     }
 
     throw new Error(`Unable to locate compiled JavaScript entrypoint in ${serverDir}`);
+  }
+
+  /**
+   * Detects whether a build output directory was created/updated during the
+   * npm install that just ran (i.e. by a prepare/postinstall lifecycle hook),
+   * so we can skip running `npm run build` a second time.
+   */
+  private async hasFreshBuildOutput(serverDir: string, sinceMs: number): Promise<boolean> {
+    const candidates = ["dist", "build", "out", "lib"];
+    for (const dir of candidates) {
+      const target = path.join(serverDir, dir);
+      try {
+        const stat = await fs.stat(target);
+        if (stat.mtimeMs >= sinceMs) {
+          return true;
+        }
+      } catch {
+        // Directory doesn't exist — continue
+      }
+    }
+    return false;
   }
 
   private async runProcess(
