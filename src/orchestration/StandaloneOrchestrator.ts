@@ -18,15 +18,7 @@ export class StandaloneOrchestrator {
   private readonly defaultServers: ServerRepositoryDefinition[] = [
     {
       id: "nalegalu",
-      repoUrl: "https://github.com/Ansvar-Systems/nalegalu-mcp.git",
-      defaultBranch: "main",
-      runtime: "python",
-      preferredEntryPoints: ["src/server.py", "server.py", "main.py"],
-      defaultEnv: {}
-    },
-    {
-      id: "prawmi",
-      repoUrl: "https://github.com/Ansvar-Systems/prawmi-mcp.git",
+      repoUrl: "https://github.com/nalegaluorg/nalegalu.git",
       defaultBranch: "main",
       runtime: "python",
       preferredEntryPoints: ["src/server.py", "server.py", "main.py"],
@@ -34,34 +26,46 @@ export class StandaloneOrchestrator {
     },
     {
       id: "isap",
-      repoUrl: "https://github.com/Ansvar-Systems/isap-mcp.git",
+      repoUrl: "https://github.com/matematicsolutions/mcp-isap.git",
       defaultBranch: "main",
       runtime: "python",
-      preferredEntryPoints: ["src/isap_mcp/server.py", "server.py"],
+      preferredEntryPoints: ["src/isap_mcp/server.py", "server.py", "src/server.py", "main.py"],
       defaultEnv: {}
     },
     {
       id: "saos",
-      repoUrl: "https://github.com/Ansvar-Systems/saos-mcp.git",
+      repoUrl: "https://github.com/matematicsolutions/mcp-saos.git",
       defaultBranch: "main",
       runtime: "python",
-      preferredEntryPoints: ["src/saos_mcp/server.py", "server.py"],
+      preferredEntryPoints: ["src/saos_mcp/server.py", "server.py", "src/server.py", "main.py"],
       defaultEnv: {}
     },
     {
       id: "krs",
-      repoUrl: "https://github.com/Ansvar-Systems/krs-mcp.git",
+      repoUrl: "https://github.com/matematicsolutions/mcp-krs.git",
       defaultBranch: "main",
       runtime: "python",
-      preferredEntryPoints: ["src/krs_mcp/server.py", "server.py"],
+      preferredEntryPoints: ["src/krs_mcp/server.py", "server.py", "src/server.py", "main.py"],
       defaultEnv: {}
     },
     {
       id: "nsa",
-      repoUrl: "https://github.com/Ansvar-Systems/nsa-mcp.git",
+      repoUrl: "https://github.com/matematicsolutions/mcp-nsa.git",
       defaultBranch: "main",
       runtime: "python",
-      preferredEntryPoints: ["src/nsa_mcp/server.py", "server.py"],
+      preferredEntryPoints: ["src/nsa_mcp/server.py", "server.py", "src/server.py", "main.py"],
+      defaultEnv: {}
+    },
+    {
+      id: "polish-law-mcp",
+      repoUrl: "https://github.com/Ansvar-Systems/polish-law-mcp.git",
+      defaultBranch: "main",
+      runtime: "node",
+      preferredEntryPoints: ["dist/index.js", "build/index.js", "index.js"],
+      buildCommands: [
+        { command: "npm", args: ["install", "--prefer-offline", "--no-audit"] },
+        { command: "npm", args: ["run", "build"] }
+      ],
       defaultEnv: {}
     }
   ];

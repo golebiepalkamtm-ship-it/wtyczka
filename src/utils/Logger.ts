@@ -13,15 +13,15 @@ export class Logger {
   public show(): void {}
 
   public log(serverId: string, message: string): void {
-    console.log(`[${new Date().toISOString()}] [${serverId.toUpperCase()}] ${message}`);
+    console.error(`[${new Date().toISOString()}] [${serverId.toUpperCase()}] ${message}`);
   }
 
   public info(message: string): void {
-    console.info(`[${new Date().toISOString()}] [SYSTEM:INFO] ${message}`);
+    console.error(`[${new Date().toISOString()}] [SYSTEM:INFO] ${message}`);
   }
 
   public warn(message: string): void {
-    console.warn(`[${new Date().toISOString()}] [SYSTEM:WARN] ${message}`);
+    console.error(`[${new Date().toISOString()}] [SYSTEM:WARN] ${message}`);
   }
 
   public error(message: string, error?: unknown): void {
@@ -39,11 +39,7 @@ export class Logger {
     const timestamp = new Date().toISOString();
     for (const line of lines) {
       if (line.trim().length > 0) {
-        if (streamType === "stdout") {
-          console.log(`[${timestamp}] [${serverId.toUpperCase()}:${streamType.toUpperCase()}] ${line}`);
-        } else {
-          console.error(`[${timestamp}] [${serverId.toUpperCase()}:${streamType.toUpperCase()}] ${line}`);
-        }
+        console.error(`[${timestamp}] [${serverId.toUpperCase()}:${streamType.toUpperCase()}] ${line}`);
       }
     }
   }

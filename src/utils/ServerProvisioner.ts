@@ -306,7 +306,8 @@ export class ServerProvisioner {
   ): Promise<void> {
     return new Promise((resolve, reject) => {
       this.logger.log(serverId, `[SETUP:EXEC] ${command} ${args.join(" ")} (cwd: ${cwd})`);
-      const child = spawn(command, args, {
+      const safeCommand = (process.platform === "win32" && command.includes(" ")) ? `"${command}"` : command;
+      const child = spawn(safeCommand, args, {
         cwd,
         env: process.env,
         shell: process.platform === "win32"
