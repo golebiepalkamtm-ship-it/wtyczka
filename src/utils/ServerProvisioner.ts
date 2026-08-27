@@ -27,6 +27,21 @@ export class ServerProvisioner {
 
   public async initializeStorage(): Promise<void> {
     await fs.mkdir(this.baseStorageDir, { recursive: true });
+    
+    // Add GitHub Token support for private repos
+    if (process.env.GITHUB_TOKEN) {
+      this.logger.info("Configuring Git with GITHUB_TOKEN for private repository access...");
+      try {
+        await this.runProcess(
+          this.binaries.git, 
+          ["config", "--global", `url.https://${process.env.GITHUB_TOKEN}@github.com/.insteadOf`, "https://github.com/"],
+          process.cwd(),
+          "system"
+        );
+      } catch (err) {
+        this.logger.warn("Failed to configure git global credentials.");
+      }
+    }
   }
 
   public async provisionServer(
