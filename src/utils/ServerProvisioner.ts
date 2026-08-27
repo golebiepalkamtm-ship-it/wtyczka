@@ -281,8 +281,11 @@ export class ServerProvisioner {
 
     const fallbacks = [
       "dist/index.js",
+      "dist/src/index.js",
       "dist/server.js",
+      "dist/src/server.js",
       "build/index.js",
+      "build/src/index.js",
       "build/server.js",
       "out/index.js",
       "index.js",

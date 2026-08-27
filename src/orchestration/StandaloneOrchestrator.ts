@@ -53,7 +53,7 @@ export class StandaloneOrchestrator {
       repoUrl: "https://github.com/golebiepalkamtm-ship-it/polish-law-mcp.git",
       defaultBranch: "main",
       runtime: "node",
-      preferredEntryPoints: ["dist/index.js", "build/index.js", "index.js"],
+      preferredEntryPoints: ["dist/src/index.js", "dist/index.js", "build/index.js", "index.js"],
       defaultEnv: {}
     }
   ];
