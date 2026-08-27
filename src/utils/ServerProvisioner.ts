@@ -181,7 +181,7 @@ export class ServerProvisioner {
     const needsInstall = !(await this.pathExists(nodeModulesDir));
     if (needsInstall) {
       this.logger.info(`[${definition.id}] Running npm install...`);
-      await this.runProcess(this.binaries.npm, ["install", "--prefer-offline", "--no-audit"], serverDir, definition.id);
+      await this.runProcess(this.binaries.npm, ["install", "--prefer-offline", "--no-audit", "--include=dev"], serverDir, definition.id);
     }
 
     // Run build commands if defined

@@ -3,7 +3,7 @@ import { SSEClientTransport } from "@modelcontextprotocol/sdk/client/sse.js";
 
 async function run() {
   const transport = new SSEClientTransport(
-    new URL("http://localhost:3000/sse")
+    new URL("https://wtyczka-production.up.railway.app/sse")
   );
 
   const client = new Client(
