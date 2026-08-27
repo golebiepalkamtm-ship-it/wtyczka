@@ -58,7 +58,7 @@ export class StandaloneOrchestrator {
     },
     {
       id: "polish-law-mcp",
-      repoUrl: "https://github.com/Ansvar-Systems/polish-law-mcp.git",
+      repoUrl: "https://github.com/golebiepalkamtm-ship-it/polish-law-mcp.git",
       defaultBranch: "main",
       runtime: "node",
       preferredEntryPoints: ["dist/index.js", "build/index.js", "index.js"],
